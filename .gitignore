@@ -1,1 +1,4 @@
 config/database.yml
+.rvmrc
+lrug_radiant.sql
+tmp/*
