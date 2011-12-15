@@ -2,3 +2,4 @@ config/database.yml
 .rvmrc
 lrug_radiant.sql
 tmp/*
+log/*.log
