@@ -1,0 +1,125 @@
+# Logfile created on Fri Oct 14 17:30:46 +0100 2011
+
+Processing SiteController#show_page (for 127.0.0.1 at 2011-10-14 17:35:57) [GET]
+  Parameters: {"action"=>"show_page", "url"=>"/", "controller"=>"site"}
+Completed in 1080ms (DB: 50) | 200 [http://localhost/]
+
+
+Processing SiteController#show_page (for 127.0.0.1 at 2011-10-14 17:35:59) [GET]
+  Parameters: {"action"=>"show_page", "url"=>["styles.css"], "controller"=>"site"}
+Completed in 169ms (DB: 14) | 200 [http://localhost/styles.css]
+
+
+Processing SiteController#show_page (for 127.0.0.1 at 2011-10-14 17:36:08) [GET]
+  Parameters: {"action"=>"show_page", "url"=>["members-and-friends"], "controller"=>"site"}
+Completed in 376ms (DB: 19) | 200 [http://localhost/members-and-friends/]
+
+
+Processing Admin::WelcomeController#index (for 127.0.0.1 at 2011-10-14 17:36:16) [GET]
+  Parameters: {"action"=>"index", "controller"=>"admin/welcome"}
+Redirected to http://localhost:3000/admin/pages
+Completed in 5ms (DB: 1) | 302 Found [http://localhost/admin]
+
+
+Processing Admin::PagesController#index (for 127.0.0.1 at 2011-10-14 17:36:16) [GET]
+  Parameters: {"action"=>"index", "controller"=>"admin/pages"}
+Redirected to http://localhost:3000/admin/login
+Filter chain halted as [:authenticate] rendered_or_redirected.
+Completed in 1ms (DB: 0) | 302 Found [http://localhost/admin/pages]
+
+
+Processing Admin::WelcomeController#login (for 127.0.0.1 at 2011-10-14 17:36:16) [GET]
+  Parameters: {"action"=>"login", "controller"=>"admin/welcome"}
+Rendering template within layouts/application
+Rendering admin/welcome/login
+Completed in 19ms (View: 16, DB: 2) | 200 OK [http://localhost/admin/login]
+
+
+Processing Admin::WelcomeController#login (for 127.0.0.1 at 2011-10-14 17:36:47) [POST]
+  Parameters: {"username_or_email"=>"h-lame", "action"=>"login", "authenticity_token"=>"g9Wz8OQ4cpI2n6Fq2eCxhY6DFscfpqyrjTu9Jfl6XGI=", "controller"=>"admin/welcome", "password"=>"[FILTERED]"}
+Rendering template within layouts/application
+Rendering admin/welcome/login
+Completed in 47ms (View: 4, DB: 41) | 200 OK [http://localhost/admin/login]
+
+
+Processing Admin::WelcomeController#login (for 127.0.0.1 at 2011-10-14 17:36:50) [POST]
+  Parameters: {"username_or_email"=>"h-lame", "action"=>"login", "authenticity_token"=>"g9Wz8OQ4cpI2n6Fq2eCxhY6DFscfpqyrjTu9Jfl6XGI=", "controller"=>"admin/welcome", "password"=>"[FILTERED]"}
+Rendering template within layouts/application
+Rendering admin/welcome/login
+Completed in 8ms (View: 4, DB: 2) | 200 OK [http://localhost/admin/login]
+
+
+Processing Admin::WelcomeController#login (for 127.0.0.1 at 2011-10-14 17:36:57) [POST]
+  Parameters: {"username_or_email"=>"hlame", "action"=>"login", "authenticity_token"=>"g9Wz8OQ4cpI2n6Fq2eCxhY6DFscfpqyrjTu9Jfl6XGI=", "controller"=>"admin/welcome", "password"=>"[FILTERED]"}
+Redirected to http://localhost:3000/admin/pages
+Completed in 7ms (DB: 3) | 302 Found [http://localhost/admin/login]
+
+
+Processing Admin::PagesController#index (for 127.0.0.1 at 2011-10-14 17:36:57) [GET]
+  Parameters: {"action"=>"index", "controller"=>"admin/pages"}
+Rendering template within layouts/application
+Rendering admin/pages/index
+Completed in 389ms (View: 366, DB: 15) | 200 OK [http://localhost/admin/pages]
+
+
+Processing Admin::PreferencesController#show (for 127.0.0.1 at 2011-10-14 17:37:06) [GET]
+  Parameters: {"action"=>"show", "controller"=>"admin/preferences"}
+Rendering template within layouts/application
+Rendering admin/preferences/edit
+Completed in 305ms (View: 299, DB: 3) | 200 OK [http://localhost/admin/preferences]
+
+
+Processing Admin::LayoutsController#index (for 127.0.0.1 at 2011-10-14 17:37:09) [GET]
+  Parameters: {"action"=>"index", "controller"=>"admin/layouts"}
+Rendering template within layouts/application
+Rendering admin/layouts/index
+Completed in 38ms (View: 30, DB: 3) | 200 OK [http://localhost/admin/layouts]
+
+
+Processing Admin::PreferencesController#show (for 127.0.0.1 at 2011-10-14 17:37:10) [GET]
+  Parameters: {"action"=>"show", "controller"=>"admin/preferences"}
+Rendering template within layouts/application
+Rendering admin/preferences/edit
+Completed in 22ms (View: 18, DB: 2) | 200 OK [http://localhost/admin/preferences]
+
+
+Processing Admin::LayoutsController#index (for 127.0.0.1 at 2011-10-14 17:37:14) [GET]
+  Parameters: {"action"=>"index", "controller"=>"admin/layouts"}
+Rendering template within layouts/application
+Rendering admin/layouts/index
+Completed in 20ms (View: 12, DB: 4) | 200 OK [http://localhost/admin/layouts]
+
+
+Processing Admin::PagesController#index (for 127.0.0.1 at 2011-10-14 17:37:15) [GET]
+  Parameters: {"action"=>"index", "controller"=>"admin/pages"}
+Rendering template within layouts/application
+Rendering admin/pages/index
+Completed in 251ms (View: 235, DB: 12) | 200 OK [http://localhost/admin/pages]
+
+
+Processing Admin::PagesController#index (for 127.0.0.1 at 2011-10-14 17:37:18) [GET]
+  Parameters: {"action"=>"index", "page_id"=>"21", "level"=>"1", "controller"=>"admin/pages"}
+Rendering admin/pages/children
+Completed in 20ms (View: 11, DB: 4) | 200 OK [http://localhost/admin/pages/21/children/?level=1]
+
+
+Processing Admin::PagesController#edit (for 127.0.0.1 at 2011-10-14 17:37:20) [GET]
+  Parameters: {"action"=>"edit", "id"=>"21", "controller"=>"admin/pages"}
+Rendering template within layouts/application
+Rendering admin/pages/edit
+Completed in 369ms (View: 362, DB: 4) | 200 OK [http://localhost/admin/pages/21/edit]
+
+
+Processing SiteController#show_page (for 127.0.0.1 at 2011-10-14 17:44:16) [GET]
+  Parameters: {"action"=>"show_page", "url"=>"/", "controller"=>"site"}
+Completed in 1235ms (DB: 122) | 200 [http://localhost/]
+
+
+Processing SiteController#show_page (for 127.0.0.1 at 2011-10-14 17:44:17) [GET]
+  Parameters: {"action"=>"show_page", "url"=>["styles.css"], "controller"=>"site"}
+Completed in 160ms (DB: 24) | 200 [http://localhost/styles.css]
+
+
+Processing SiteController#show_page (for 127.0.0.1 at 2011-10-14 17:44:20) [GET]
+  Parameters: {"action"=>"show_page", "url"=>["members-and-friends"], "controller"=>"site"}
+Completed in 371ms (DB: 20) | 200 [http://localhost/members-and-friends/]
