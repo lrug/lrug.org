@@ -4,6 +4,10 @@
 # you don't control web/app server and can't set it the proper way
 # ENV['RAILS_ENV'] ||= 'production'
 
+if ENV['RAILS_ENV'] == 'production'  # don't bother on dev
+  ENV['GEM_PATH'] = '/home/lrug/.gems' + ':/usr/lib/ruby/gems/1.8'
+end
+
 # Specifies gem version of Rails to use when vendor/rails is not present
 require File.join(File.dirname(__FILE__), 'boot')
 
