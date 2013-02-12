@@ -1,58 +1,35 @@
-/*
- *  popup.js
- *
- *  dependencies: prototype.js, effects.js, lowpro.js
- *
- *  --------------------------------------------------------------------------
- *  
- *  Allows you to open up a URL inside of a Facebook-style window. To use
- *  simply assign the class "popup" to a link that contains an href to the
- *  HTML snippet that you would like to load up inside a window:
- *  
- *    <a class="popup" href="window.html">Window</a>
- *
- *  You can also "popup" a specific div by referencing it by ID:
- *
- *    <a class="popup" href="#my_div">Popup</a>
- *    <div id="my_div" style="display:none">Hello World!</div>
- *  
- *  You will need to install the following hook:
- *  
- *    Event.addBehavior({'a.popup': Popup.TriggerBehavior()});
- *
- *  --------------------------------------------------------------------------
- *  
- *  Copyright (c) 2008, John W. Long
- *  Portions copyright (c) 2008, Five Points Solutions, Inc.
- *  
- *  Permission is hereby granted, free of charge, to any person obtaining a
- *  copy of this software and associated documentation files (the "Software"),
- *  to deal in the Software without restriction, including without limitation
- *  the rights to use, copy, modify, merge, publish, distribute, sublicense,
- *  and/or sell copies of the Software, and to permit persons to whom the
- *  Software is furnished to do so, subject to the following conditions:
- *  
- *  The above copyright notice and this permission notice shall be included in
- *  all copies or substantial portions of the Software.
- *  
- *  THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
- *  IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
- *  FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL
- *  THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
- *  LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING
- *  FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER
- *  DEALINGS IN THE SOFTWARE.
- *  
- */
-
 var Popup = {
+  
+  // Borders
   BorderThickness: 8,
   BorderImage: '/images/popup_border_background.png',
   BorderTopLeftImage: '/images/popup_border_top_left.png',
   BorderTopRightImage: '/images/popup_border_top_right.png',
   BorderBottomLeftImage: '/images/popup_border_bottom_left.png',
-  BorderBottomRightImage: '/images/popup_border_bottom_right.png'
+  BorderBottomRightImage: '/images/popup_border_bottom_right.png',
+  
+  // CSS Classes
+  PopupClass: 'popup',
+  WindowClass: 'popup_window',
+  TitlebarClass: 'popup_title',
+  CloseClass: 'close_popup',
+  PopupContentClass: 'popup_content',
+  ButtonsClass: 'popup_buttons',
+  DefaultButtonClass: 'default',
+  
+  // Dialog Buttons
+  Okay: 'Okay',
+  Cancel: 'Cancel',
+  
+  // Other Configuration
+  Draggable: false,   // Window is draggable by titlebar
+  AutoFocus: true,    // Focus on first control in popup
+  Singular: false     // Other popups close when this is opened
+  
 };
+
+Popup.windows = [];
+Popup.zindex = 10000;
 
 Popup.borderImages = function() {
   return $A([
@@ -75,13 +52,13 @@ Popup.preloadImages = function() {
 }
 
 Popup.TriggerBehavior = Behavior.create({
-  initialize: function() {
-    var matches = this.element.href.match(/\#(.+)$/);
-    if (matches) {
-      this.window = new Popup.Window($(matches[1]));
-    } else {
-     this.window = new Popup.AjaxWindow(this.element.href);
+  
+  initialize: function(options) {
+    if (!Popup.windows[this.element.href]) {
+      var matches = this.element.href.match(/\#(.+)$/);
+      Popup.windows[this.element.href] = (matches ? new Popup.Window($(matches[1]), options) : new Popup.AjaxWindow(this.element.href, options));
     }
+    this.window = Popup.windows[this.element.href];
   },
   
   onclick: function(event) {
@@ -92,16 +69,31 @@ Popup.TriggerBehavior = Behavior.create({
   popup: function() {
     this.window.show();
   }
+  
 });
 
 Popup.AbstractWindow = Class.create({
-  initialize: function() {
+  initialize: function(options) {
+    options = Object.extend({
+      draggable: Popup.Draggable,
+      autofocus: Popup.AutoFocus,
+      singular: Popup.Singular
+    }, options);
+    
+    this.draggable = options.draggable;
+    this.autofocus = options.autofocus;
+    this.singular = options.singular;
+    
     Popup.preloadImages();
+    
     this.buildWindow();
+    
+    this.element.observe('click', this.click.bind(this));
+    this.element.observe('popup:hide', this.hide.bind(this));
   },
   
   buildWindow: function() {
-    this.element = $div({'class': 'popup_window', style: 'display: none; padding: 0 ' + Popup.BorderThickness + 'px; position: absolute'});
+    this.element = $div({'class': Popup.WindowClass, style: 'display: none; padding: 0 ' + Popup.BorderThickness + 'px; position: absolute'});
     
     this.top = $div({style: 'background: url(' + Popup.BorderImage + '); height: ' + Popup.BorderThickness + 'px'});
     this.element.insert(this.top);
@@ -131,6 +123,25 @@ Popup.AbstractWindow = Class.create({
     body.insert(this.element);
   },
   
+  createDraggable: function() {
+    if (!this._draggable) {
+      this._draggable = new Draggable(this.element.identify(), {
+        handle: Popup.TitlebarClass,
+        scroll: window,
+        zindex: Popup.zindex,
+        onStart: function() { this.startDrag(); return true; }.bind(this),
+        onEnd: function() { this.endDrag(); return true; }.bind(this)
+      });
+    }
+  },
+  
+  destroyDraggable: function() {
+    if (this._draggable) {
+      this._draggable.destroy();
+      this._draggable = null;
+    }
+  },
+  
   show: function() {
     this.beforeShow();
     this.element.show();
@@ -138,7 +149,9 @@ Popup.AbstractWindow = Class.create({
   },
   
   hide: function() {
+    this.beforeHide();
     this.element.hide();
+    this.afterHide();
   },
   
   toggle: function() {
@@ -152,7 +165,7 @@ Popup.AbstractWindow = Class.create({
   focus: function() {
     var form = this.element.down('form');
     if (form) {
-      var elements = form.getElements().reject(function(e) { return e.type == 'hidden' });
+      var elements = form.getElements().reject(function(e) { return e.type == 'hidden'; });
       var element = elements[0] || form.down('button');
       if (element) element.focus();
     }
@@ -165,25 +178,61 @@ Popup.AbstractWindow = Class.create({
       this.top.setStyle("width:" + width + "px");
       this.bottom.setStyle("width:" + width + "px");
     }
+    if (this.singular) Popup.closeAll();
+    this.bringToTop();
     this.centerWindowInView();
   },
   
   afterShow: function() {
-    this.focus();
+    if (this.draggable) this.createDraggable();
+    if (this.autofocus) this.focus();
   },
-
+  
+  beforeHide: function() {
+    if (this.draggable) this.destroyDraggable();
+  },
+  
+  afterHide: function() {
+    // noopp
+  },
+  
+  titlebarClick: function(event) {
+    this.bringToTop();
+  },
+  
+  startDrag: function() {
+    this.bringToTop();
+  },
+  
+  endDrag: function() {
+    this.bringToTop();
+  },
+  
+  click: function(event) {
+    if (event.target.hasClassName(Popup.TitlebarClass)) this.titlebarClick();
+    if (event.target.hasClassName(Popup.CloseClass)) this.hide();
+  },
+  
   centerWindowInView: function() {
     var offsets = document.viewport.getScrollOffsets();
     this.element.setStyle({
       left: parseInt(offsets.left + (document.viewport.getWidth() - this.element.getWidth()) / 2) + 'px',
       top: parseInt(offsets.top + (document.viewport.getHeight() - this.element.getHeight()) / 2.2) + 'px'
     });
+  },
+  
+  bringToTop: function() {
+    Popup.zindex += 1;
+    this.element.style.zIndex = Popup.zindex;
+    if (this._draggable) this._draggable.originalZ = Popup.zindex;
   }
+  
 });
 
 Popup.Window = Class.create(Popup.AbstractWindow, {
-  initialize: function($super, element) {
-    $super();
+  initialize: function($super, element, options) {
+    $super(options);
+    element = $(element);
     element.remove();
     this.content.update(element);
     element.show();
@@ -192,7 +241,7 @@ Popup.Window = Class.create(Popup.AbstractWindow, {
 
 Popup.AjaxWindow = Class.create(Popup.AbstractWindow, {
   initialize: function($super, url, options) {
-    $super();
+    $super(options);
     options = Object.extend({reload: true}, options);
     this.url = url;
     this.reload = options.reload;
@@ -200,7 +249,13 @@ Popup.AjaxWindow = Class.create(Popup.AbstractWindow, {
   
   show: function($super) {
     if (!this.loaded || this.reload) {
-      new Ajax.Updater(this.content, this.url, {asynchronous: false, method: "get", evalScripts: true, onComplete: $super});
+      this.hide();
+      new Ajax.Updater(this.content, this.url, {
+        asynchronous: false,
+        method: "get",
+        evalScripts: true, 
+        onComplete: $super
+      });
       this.loaded = true;
     } else {
       $super();
@@ -208,9 +263,77 @@ Popup.AjaxWindow = Class.create(Popup.AbstractWindow, {
   }
 });
 
+Popup.closeAll = function () {
+  $$('div.popup_window').each(function (el) { el.fire('popup:hide'); });
+}
+
+Popup.dialog = function(options) {
+  options = Object.extend({
+    title: 'Dialog',
+    message: '[message]',
+    width: '20em',
+    buttons: [Popup.Okay],
+    buttonClick: function() { }
+  }, options);
+  
+  var wrapper = $div({'class': Popup.PopupClass, style: 'width:' + options.width});
+  wrapper.insert($div({'class': Popup.TitlebarClass}, options.title));
+  
+  var content = $div({'class': Popup.PopupContentClass});
+  var paragraph = $p();
+  paragraph.innerHTML = options.message.gsub('\n', '<br />');
+  content.insert(paragraph);
+  
+  var buttons = $div({'class': Popup.ButtonsClass});
+  for (var index = 0; index < options.buttons.length; index++) {
+    var classes = Popup.CloseClass;
+    if (index == 0) classes += ' ' + Popup.DefaultButtonClass;
+    buttons.insert($button({'class': classes}, options.buttons[index]));
+  }
+  content.insert(buttons);
+  wrapper.insert(content);
+  
+  var popup = new Popup.AbstractWindow(options);
+  popup.content.insert(wrapper);
+  
+  popup.element.observe('click', function(event) {
+    var button = event.target;
+    if (button.nodeName == "BUTTON") options.buttonClick(button.innerHTML);
+  }.bind(this));
+  
+  popup.show();
+}
+
+Popup.confirm = function(message, options) {
+  options = Object.extend({
+    title: 'Confirm',
+    message: message,
+    width: '20em',
+    buttons: [Popup.Okay, Popup.Cancel],
+    okay: function() { },
+    cancel: function() { }
+  }, options);
+  
+  options.buttonClick = options.buttonClick || function(button) {
+    if (button == Popup.Okay) options.okay();
+    if (button == Popup.Cancel) options.cancel();
+  };
+  
+  Popup.dialog(options);
+}
+
+Popup.alert = function(message, options) {
+  options = Object.extend({
+    title: 'Alert',
+    buttons: [Popup.Okay]
+  }, options);
+  
+  Popup.confirm(message, options);
+}
+
 // Element extensions
 Element.addMethods({
   closePopup: function(element) {
-    $(element).up('div.popup_window').hide();
+    $(element).up('div.popup_window').fire('popup:hide');
   }
 });

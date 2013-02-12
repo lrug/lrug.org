@@ -5997,6 +5997,982 @@ $w('getInlineOpacity forceRerendering setContentZoom collectTextNodes collectTex
 Element.addMethods(Effect.Methods);
 
 
+// script.aculo.us dragdrop.js v1.8.0, Tue Nov 06 15:01:40 +0300 2007
+
+// Copyright (c) 2005-2007 Thomas Fuchs (http://script.aculo.us, http://mir.aculo.us)
+//           (c) 2005-2007 Sammi Williams (http://www.oriontransfer.co.nz, sammi@oriontransfer.co.nz)
+// 
+// script.aculo.us is freely distributable under the terms of an MIT-style license.
+// For details, see the script.aculo.us web site: http://script.aculo.us/
+
+if(Object.isUndefined(Effect))
+  throw("dragdrop.js requires including script.aculo.us' effects.js library");
+
+var Droppables = {
+  drops: [],
+
+  remove: function(element) {
+    this.drops = this.drops.reject(function(d) { return d.element==$(element) });
+  },
+
+  add: function(element) {
+    element = $(element);
+    var options = Object.extend({
+      greedy:     true,
+      hoverclass: null,
+      tree:       false
+    }, arguments[1] || { });
+
+    // cache containers
+    if(options.containment) {
+      options._containers = [];
+      var containment = options.containment;
+      if(Object.isArray(containment)) {
+        containment.each( function(c) { options._containers.push($(c)) });
+      } else {
+        options._containers.push($(containment));
+      }
+    }
+    
+    if(options.accept) options.accept = [options.accept].flatten();
+
+    Element.makePositioned(element); // fix IE
+    options.element = element;
+
+    this.drops.push(options);
+  },
+  
+  findDeepestChild: function(drops) {
+    deepest = drops[0];
+      
+    for (i = 1; i < drops.length; ++i)
+      if (Element.isParent(drops[i].element, deepest.element))
+        deepest = drops[i];
+    
+    return deepest;
+  },
+
+  isContained: function(element, drop) {
+    var containmentNode;
+    if(drop.tree) {
+      containmentNode = element.treeNode; 
+    } else {
+      containmentNode = element.parentNode;
+    }
+    return drop._containers.detect(function(c) { return containmentNode == c });
+  },
+  
+  isAffected: function(point, element, drop) {
+    return (
+      (drop.element!=element) &&
+      ((!drop._containers) ||
+        this.isContained(element, drop)) &&
+      ((!drop.accept) ||
+        (Element.classNames(element).detect( 
+          function(v) { return drop.accept.include(v) } ) )) &&
+      Position.within(drop.element, point[0], point[1]) );
+  },
+
+  deactivate: function(drop) {
+    if(drop.hoverclass)
+      Element.removeClassName(drop.element, drop.hoverclass);
+    this.last_active = null;
+  },
+
+  activate: function(drop) {
+    if(drop.hoverclass)
+      Element.addClassName(drop.element, drop.hoverclass);
+    this.last_active = drop;
+  },
+
+  show: function(point, element) {
+    if(!this.drops.length) return;
+    var drop, affected = [];
+    
+    this.drops.each( function(drop) {
+      if(Droppables.isAffected(point, element, drop))
+        affected.push(drop);
+    });
+        
+    if(affected.length>0)
+      drop = Droppables.findDeepestChild(affected);
+
+    if(this.last_active && this.last_active != drop) this.deactivate(this.last_active);
+    if (drop) {
+      Position.within(drop.element, point[0], point[1]);
+      if(drop.onHover)
+        drop.onHover(element, drop.element, Position.overlap(drop.overlap, drop.element));
+      
+      if (drop != this.last_active) Droppables.activate(drop);
+    }
+  },
+
+  fire: function(event, element) {
+    if(!this.last_active) return;
+    Position.prepare();
+
+    if (this.isAffected([Event.pointerX(event), Event.pointerY(event)], element, this.last_active))
+      if (this.last_active.onDrop) {
+        this.last_active.onDrop(element, this.last_active.element, event); 
+        return true; 
+      }
+  },
+
+  reset: function() {
+    if(this.last_active)
+      this.deactivate(this.last_active);
+  }
+}
+
+var Draggables = {
+  drags: [],
+  observers: [],
+  
+  register: function(draggable) {
+    if(this.drags.length == 0) {
+      this.eventMouseUp   = this.endDrag.bindAsEventListener(this);
+      this.eventMouseMove = this.updateDrag.bindAsEventListener(this);
+      this.eventKeypress  = this.keyPress.bindAsEventListener(this);
+      
+      Event.observe(document, "mouseup", this.eventMouseUp);
+      Event.observe(document, "mousemove", this.eventMouseMove);
+      Event.observe(document, "keypress", this.eventKeypress);
+    }
+    this.drags.push(draggable);
+  },
+  
+  unregister: function(draggable) {
+    this.drags = this.drags.reject(function(d) { return d==draggable });
+    if(this.drags.length == 0) {
+      Event.stopObserving(document, "mouseup", this.eventMouseUp);
+      Event.stopObserving(document, "mousemove", this.eventMouseMove);
+      Event.stopObserving(document, "keypress", this.eventKeypress);
+    }
+  },
+  
+  activate: function(draggable) {
+    if(draggable.options.delay) { 
+      this._timeout = setTimeout(function() { 
+        Draggables._timeout = null; 
+        window.focus(); 
+        Draggables.activeDraggable = draggable; 
+      }.bind(this), draggable.options.delay); 
+    } else {
+      window.focus(); // allows keypress events if window isn't currently focused, fails for Safari
+      this.activeDraggable = draggable;
+    }
+  },
+  
+  deactivate: function() {
+    this.activeDraggable = null;
+  },
+  
+  updateDrag: function(event) {
+    if(!this.activeDraggable) return;
+    var pointer = [Event.pointerX(event), Event.pointerY(event)];
+    // Mozilla-based browsers fire successive mousemove events with
+    // the same coordinates, prevent needless redrawing (moz bug?)
+    if(this._lastPointer && (this._lastPointer.inspect() == pointer.inspect())) return;
+    this._lastPointer = pointer;
+    
+    this.activeDraggable.updateDrag(event, pointer);
+  },
+  
+  endDrag: function(event) {
+    if(this._timeout) { 
+      clearTimeout(this._timeout); 
+      this._timeout = null; 
+    }
+    if(!this.activeDraggable) return;
+    this._lastPointer = null;
+    this.activeDraggable.endDrag(event);
+    this.activeDraggable = null;
+  },
+  
+  keyPress: function(event) {
+    if(this.activeDraggable)
+      this.activeDraggable.keyPress(event);
+  },
+  
+  addObserver: function(observer) {
+    this.observers.push(observer);
+    this._cacheObserverCallbacks();
+  },
+  
+  removeObserver: function(element) {  // element instead of observer fixes mem leaks
+    this.observers = this.observers.reject( function(o) { return o.element==element });
+    this._cacheObserverCallbacks();
+  },
+  
+  notify: function(eventName, draggable, event) {  // 'onStart', 'onEnd', 'onDrag'
+    if(this[eventName+'Count'] > 0)
+      this.observers.each( function(o) {
+        if(o[eventName]) o[eventName](eventName, draggable, event);
+      });
+    if(draggable.options[eventName]) draggable.options[eventName](draggable, event);
+  },
+  
+  _cacheObserverCallbacks: function() {
+    ['onStart','onEnd','onDrag'].each( function(eventName) {
+      Draggables[eventName+'Count'] = Draggables.observers.select(
+        function(o) { return o[eventName]; }
+      ).length;
+    });
+  }
+}
+
+/*--------------------------------------------------------------------------*/
+
+var Draggable = Class.create({
+  initialize: function(element) {
+    var defaults = {
+      handle: false,
+      reverteffect: function(element, top_offset, left_offset) {
+        var dur = Math.sqrt(Math.abs(top_offset^2)+Math.abs(left_offset^2))*0.02;
+        new Effect.Move(element, { x: -left_offset, y: -top_offset, duration: dur,
+          queue: {scope:'_draggable', position:'end'}
+        });
+      },
+      endeffect: function(element) {
+        var toOpacity = Object.isNumber(element._opacity) ? element._opacity : 1.0;
+        new Effect.Opacity(element, {duration:0.2, from:0.7, to:toOpacity, 
+          queue: {scope:'_draggable', position:'end'},
+          afterFinish: function(){ 
+            Draggable._dragging[element] = false 
+          }
+        }); 
+      },
+      zindex: 1000,
+      revert: false,
+      quiet: false,
+      scroll: false,
+      scrollSensitivity: 20,
+      scrollSpeed: 15,
+      snap: false,  // false, or xy or [x,y] or function(x,y){ return [x,y] }
+      delay: 0
+    };
+    
+    if(!arguments[1] || Object.isUndefined(arguments[1].endeffect))
+      Object.extend(defaults, {
+        starteffect: function(element) {
+          element._opacity = Element.getOpacity(element);
+          Draggable._dragging[element] = true;
+          new Effect.Opacity(element, {duration:0.2, from:element._opacity, to:0.7}); 
+        }
+      });
+    
+    var options = Object.extend(defaults, arguments[1] || { });
+
+    this.element = $(element);
+    
+    if(options.handle && Object.isString(options.handle))
+      this.handle = this.element.down('.'+options.handle, 0);
+    
+    if(!this.handle) this.handle = $(options.handle);
+    if(!this.handle) this.handle = this.element;
+    
+    if(options.scroll && !options.scroll.scrollTo && !options.scroll.outerHTML) {
+      options.scroll = $(options.scroll);
+      this._isScrollChild = Element.childOf(this.element, options.scroll);
+    }
+
+    Element.makePositioned(this.element); // fix IE    
+
+    this.options  = options;
+    this.dragging = false;   
+
+    this.eventMouseDown = this.initDrag.bindAsEventListener(this);
+    Event.observe(this.handle, "mousedown", this.eventMouseDown);
+    
+    Draggables.register(this);
+  },
+  
+  destroy: function() {
+    Event.stopObserving(this.handle, "mousedown", this.eventMouseDown);
+    Draggables.unregister(this);
+  },
+  
+  currentDelta: function() {
+    return([
+      parseInt(Element.getStyle(this.element,'left') || '0'),
+      parseInt(Element.getStyle(this.element,'top') || '0')]);
+  },
+  
+  initDrag: function(event) {
+    if(!Object.isUndefined(Draggable._dragging[this.element]) &&
+      Draggable._dragging[this.element]) return;
+    if(Event.isLeftClick(event)) {    
+      // abort on form elements, fixes a Firefox issue
+      var src = Event.element(event);
+      if((tag_name = src.tagName.toUpperCase()) && (
+        tag_name=='INPUT' ||
+        tag_name=='SELECT' ||
+        tag_name=='OPTION' ||
+        tag_name=='BUTTON' ||
+        tag_name=='TEXTAREA')) return;
+        
+      var pointer = [Event.pointerX(event), Event.pointerY(event)];
+      var pos     = Position.cumulativeOffset(this.element);
+      this.offset = [0,1].map( function(i) { return (pointer[i] - pos[i]) });
+      
+      Draggables.activate(this);
+      Event.stop(event);
+    }
+  },
+  
+  startDrag: function(event) {
+    this.dragging = true;
+    if(!this.delta)
+      this.delta = this.currentDelta();
+    
+    if(this.options.zindex) {
+      this.originalZ = parseInt(Element.getStyle(this.element,'z-index') || 0);
+      this.element.style.zIndex = this.options.zindex;
+    }
+    
+    if(this.options.ghosting) {
+      this._clone = this.element.cloneNode(true);
+      this.element._originallyAbsolute = (this.element.getStyle('position') == 'absolute');
+      if (!this.element._originallyAbsolute)
+        Position.absolutize(this.element);
+      this.element.parentNode.insertBefore(this._clone, this.element);
+    }
+    
+    if(this.options.scroll) {
+      if (this.options.scroll == window) {
+        var where = this._getWindowScroll(this.options.scroll);
+        this.originalScrollLeft = where.left;
+        this.originalScrollTop = where.top;
+      } else {
+        this.originalScrollLeft = this.options.scroll.scrollLeft;
+        this.originalScrollTop = this.options.scroll.scrollTop;
+      }
+    }
+    
+    Draggables.notify('onStart', this, event);
+        
+    if(this.options.starteffect) this.options.starteffect(this.element);
+  },
+  
+  updateDrag: function(event, pointer) {
+    if(!this.dragging) this.startDrag(event);
+    
+    if(!this.options.quiet){
+      Position.prepare();
+      Droppables.show(pointer, this.element);
+    }
+    
+    Draggables.notify('onDrag', this, event);
+    
+    this.draw(pointer);
+    if(this.options.change) this.options.change(this);
+    
+    if(this.options.scroll) {
+      this.stopScrolling();
+      
+      var p;
+      if (this.options.scroll == window) {
+        with(this._getWindowScroll(this.options.scroll)) { p = [ left, top, left+width, top+height ]; }
+      } else {
+        p = Position.page(this.options.scroll);
+        p[0] += this.options.scroll.scrollLeft + Position.deltaX;
+        p[1] += this.options.scroll.scrollTop + Position.deltaY;
+        p.push(p[0]+this.options.scroll.offsetWidth);
+        p.push(p[1]+this.options.scroll.offsetHeight);
+      }
+      var speed = [0,0];
+      if(pointer[0] < (p[0]+this.options.scrollSensitivity)) speed[0] = pointer[0]-(p[0]+this.options.scrollSensitivity);
+      if(pointer[1] < (p[1]+this.options.scrollSensitivity)) speed[1] = pointer[1]-(p[1]+this.options.scrollSensitivity);
+      if(pointer[0] > (p[2]-this.options.scrollSensitivity)) speed[0] = pointer[0]-(p[2]-this.options.scrollSensitivity);
+      if(pointer[1] > (p[3]-this.options.scrollSensitivity)) speed[1] = pointer[1]-(p[3]-this.options.scrollSensitivity);
+      this.startScrolling(speed);
+    }
+    
+    // fix AppleWebKit rendering
+    if(Prototype.Browser.WebKit) window.scrollBy(0,0);
+    
+    Event.stop(event);
+  },
+  
+  finishDrag: function(event, success) {
+    this.dragging = false;
+    
+    if(this.options.quiet){
+      Position.prepare();
+      var pointer = [Event.pointerX(event), Event.pointerY(event)];
+      Droppables.show(pointer, this.element);
+    }
+
+    if(this.options.ghosting) {
+      if (!this.element._originallyAbsolute)
+        Position.relativize(this.element);
+      delete this.element._originallyAbsolute;
+      Element.remove(this._clone);
+      this._clone = null;
+    }
+
+    var dropped = false; 
+    if(success) { 
+      dropped = Droppables.fire(event, this.element); 
+      if (!dropped) dropped = false; 
+    }
+    if(dropped && this.options.onDropped) this.options.onDropped(this.element);
+    Draggables.notify('onEnd', this, event);
+
+    var revert = this.options.revert;
+    if(revert && Object.isFunction(revert)) revert = revert(this.element);
+    
+    var d = this.currentDelta();
+    if(revert && this.options.reverteffect) {
+      if (dropped == 0 || revert != 'failure')
+        this.options.reverteffect(this.element,
+          d[1]-this.delta[1], d[0]-this.delta[0]);
+    } else {
+      this.delta = d;
+    }
+
+    if(this.options.zindex)
+      this.element.style.zIndex = this.originalZ;
+
+    if(this.options.endeffect) 
+      this.options.endeffect(this.element);
+      
+    Draggables.deactivate(this);
+    Droppables.reset();
+  },
+  
+  keyPress: function(event) {
+    if(event.keyCode!=Event.KEY_ESC) return;
+    this.finishDrag(event, false);
+    Event.stop(event);
+  },
+  
+  endDrag: function(event) {
+    if(!this.dragging) return;
+    this.stopScrolling();
+    this.finishDrag(event, true);
+    Event.stop(event);
+  },
+  
+  draw: function(point) {
+    var pos = Position.cumulativeOffset(this.element);
+    if(this.options.ghosting) {
+      var r   = Position.realOffset(this.element);
+      pos[0] += r[0] - Position.deltaX; pos[1] += r[1] - Position.deltaY;
+    }
+    
+    var d = this.currentDelta();
+    pos[0] -= d[0]; pos[1] -= d[1];
+    
+    if(this.options.scroll && (this.options.scroll != window && this._isScrollChild)) {
+      pos[0] -= this.options.scroll.scrollLeft-this.originalScrollLeft;
+      pos[1] -= this.options.scroll.scrollTop-this.originalScrollTop;
+    }
+    
+    var p = [0,1].map(function(i){ 
+      return (point[i]-pos[i]-this.offset[i]) 
+    }.bind(this));
+    
+    if(this.options.snap) {
+      if(Object.isFunction(this.options.snap)) {
+        p = this.options.snap(p[0],p[1],this);
+      } else {
+      if(Object.isArray(this.options.snap)) {
+        p = p.map( function(v, i) {
+          return (v/this.options.snap[i]).round()*this.options.snap[i] }.bind(this))
+      } else {
+        p = p.map( function(v) {
+          return (v/this.options.snap).round()*this.options.snap }.bind(this))
+      }
+    }}
+    
+    var style = this.element.style;
+    if((!this.options.constraint) || (this.options.constraint=='horizontal'))
+      style.left = p[0] + "px";
+    if((!this.options.constraint) || (this.options.constraint=='vertical'))
+      style.top  = p[1] + "px";
+    
+    if(style.visibility=="hidden") style.visibility = ""; // fix gecko rendering
+  },
+  
+  stopScrolling: function() {
+    if(this.scrollInterval) {
+      clearInterval(this.scrollInterval);
+      this.scrollInterval = null;
+      Draggables._lastScrollPointer = null;
+    }
+  },
+  
+  startScrolling: function(speed) {
+    if(!(speed[0] || speed[1])) return;
+    this.scrollSpeed = [speed[0]*this.options.scrollSpeed,speed[1]*this.options.scrollSpeed];
+    this.lastScrolled = new Date();
+    this.scrollInterval = setInterval(this.scroll.bind(this), 10);
+  },
+  
+  scroll: function() {
+    var current = new Date();
+    var delta = current - this.lastScrolled;
+    this.lastScrolled = current;
+    if(this.options.scroll == window) {
+      with (this._getWindowScroll(this.options.scroll)) {
+        if (this.scrollSpeed[0] || this.scrollSpeed[1]) {
+          var d = delta / 1000;
+          this.options.scroll.scrollTo( left + d*this.scrollSpeed[0], top + d*this.scrollSpeed[1] );
+        }
+      }
+    } else {
+      this.options.scroll.scrollLeft += this.scrollSpeed[0] * delta / 1000;
+      this.options.scroll.scrollTop  += this.scrollSpeed[1] * delta / 1000;
+    }
+    
+    Position.prepare();
+    Droppables.show(Draggables._lastPointer, this.element);
+    Draggables.notify('onDrag', this);
+    if (this._isScrollChild) {
+      Draggables._lastScrollPointer = Draggables._lastScrollPointer || $A(Draggables._lastPointer);
+      Draggables._lastScrollPointer[0] += this.scrollSpeed[0] * delta / 1000;
+      Draggables._lastScrollPointer[1] += this.scrollSpeed[1] * delta / 1000;
+      if (Draggables._lastScrollPointer[0] < 0)
+        Draggables._lastScrollPointer[0] = 0;
+      if (Draggables._lastScrollPointer[1] < 0)
+        Draggables._lastScrollPointer[1] = 0;
+      this.draw(Draggables._lastScrollPointer);
+    }
+    
+    if(this.options.change) this.options.change(this);
+  },
+  
+  _getWindowScroll: function(w) {
+    var T, L, W, H;
+    with (w.document) {
+      if (w.document.documentElement && documentElement.scrollTop) {
+        T = documentElement.scrollTop;
+        L = documentElement.scrollLeft;
+      } else if (w.document.body) {
+        T = body.scrollTop;
+        L = body.scrollLeft;
+      }
+      if (w.innerWidth) {
+        W = w.innerWidth;
+        H = w.innerHeight;
+      } else if (w.document.documentElement && documentElement.clientWidth) {
+        W = documentElement.clientWidth;
+        H = documentElement.clientHeight;
+      } else {
+        W = body.offsetWidth;
+        H = body.offsetHeight
+      }
+    }
+    return { top: T, left: L, width: W, height: H };
+  }
+});
+
+Draggable._dragging = { };
+
+/*--------------------------------------------------------------------------*/
+
+var SortableObserver = Class.create({
+  initialize: function(element, observer) {
+    this.element   = $(element);
+    this.observer  = observer;
+    this.lastValue = Sortable.serialize(this.element);
+  },
+  
+  onStart: function() {
+    this.lastValue = Sortable.serialize(this.element);
+  },
+  
+  onEnd: function() {
+    Sortable.unmark();
+    if(this.lastValue != Sortable.serialize(this.element))
+      this.observer(this.element)
+  }
+});
+
+var Sortable = {
+  SERIALIZE_RULE: /^[^_\-](?:[A-Za-z0-9\-\_]*)[_](.*)$/,
+  
+  sortables: { },
+  
+  _findRootElement: function(element) {
+    while (element.tagName.toUpperCase() != "BODY") {  
+      if(element.id && Sortable.sortables[element.id]) return element;
+      element = element.parentNode;
+    }
+  },
+
+  options: function(element) {
+    element = Sortable._findRootElement($(element));
+    if(!element) return;
+    return Sortable.sortables[element.id];
+  },
+  
+  destroy: function(element){
+    var s = Sortable.options(element);
+    
+    if(s) {
+      Draggables.removeObserver(s.element);
+      s.droppables.each(function(d){ Droppables.remove(d) });
+      s.draggables.invoke('destroy');
+      
+      delete Sortable.sortables[s.element.id];
+    }
+  },
+
+  create: function(element) {
+    element = $(element);
+    var options = Object.extend({ 
+      element:     element,
+      tag:         'li',       // assumes li children, override with tag: 'tagname'
+      dropOnEmpty: false,
+      tree:        false,
+      treeTag:     'ul',
+      overlap:     'vertical', // one of 'vertical', 'horizontal'
+      constraint:  'vertical', // one of 'vertical', 'horizontal', false
+      containment: element,    // also takes array of elements (or id's); or false
+      handle:      false,      // or a CSS class
+      only:        false,
+      delay:       0,
+      hoverclass:  null,
+      ghosting:    false,
+      quiet:       false, 
+      scroll:      false,
+      scrollSensitivity: 20,
+      scrollSpeed: 15,
+      format:      this.SERIALIZE_RULE,
+      
+      // these take arrays of elements or ids and can be 
+      // used for better initialization performance
+      elements:    false,
+      handles:     false,
+      
+      onChange:    Prototype.emptyFunction,
+      onUpdate:    Prototype.emptyFunction
+    }, arguments[1] || { });
+
+    // clear any old sortable with same element
+    this.destroy(element);
+
+    // build options for the draggables
+    var options_for_draggable = {
+      revert:      true,
+      quiet:       options.quiet,
+      scroll:      options.scroll,
+      scrollSpeed: options.scrollSpeed,
+      scrollSensitivity: options.scrollSensitivity,
+      delay:       options.delay,
+      ghosting:    options.ghosting,
+      constraint:  options.constraint,
+      handle:      options.handle };
+
+    if(options.starteffect)
+      options_for_draggable.starteffect = options.starteffect;
+
+    if(options.reverteffect)
+      options_for_draggable.reverteffect = options.reverteffect;
+    else
+      if(options.ghosting) options_for_draggable.reverteffect = function(element) {
+        element.style.top  = 0;
+        element.style.left = 0;
+      };
+
+    if(options.endeffect)
+      options_for_draggable.endeffect = options.endeffect;
+
+    if(options.zindex)
+      options_for_draggable.zindex = options.zindex;
+
+    // build options for the droppables  
+    var options_for_droppable = {
+      overlap:     options.overlap,
+      containment: options.containment,
+      tree:        options.tree,
+      hoverclass:  options.hoverclass,
+      onHover:     Sortable.onHover
+    }
+    
+    var options_for_tree = {
+      onHover:      Sortable.onEmptyHover,
+      overlap:      options.overlap,
+      containment:  options.containment,
+      hoverclass:   options.hoverclass
+    }
+
+    // fix for gecko engine
+    Element.cleanWhitespace(element); 
+
+    options.draggables = [];
+    options.droppables = [];
+
+    // drop on empty handling
+    if(options.dropOnEmpty || options.tree) {
+      Droppables.add(element, options_for_tree);
+      options.droppables.push(element);
+    }
+
+    (options.elements || this.findElements(element, options) || []).each( function(e,i) {
+      var handle = options.handles ? $(options.handles[i]) :
+        (options.handle ? $(e).select('.' + options.handle)[0] : e); 
+      options.draggables.push(
+        new Draggable(e, Object.extend(options_for_draggable, { handle: handle })));
+      Droppables.add(e, options_for_droppable);
+      if(options.tree) e.treeNode = element;
+      options.droppables.push(e);      
+    });
+    
+    if(options.tree) {
+      (Sortable.findTreeElements(element, options) || []).each( function(e) {
+        Droppables.add(e, options_for_tree);
+        e.treeNode = element;
+        options.droppables.push(e);
+      });
+    }
+
+    // keep reference
+    this.sortables[element.id] = options;
+
+    // for onupdate
+    Draggables.addObserver(new SortableObserver(element, options.onUpdate));
+
+  },
+
+  // return all suitable-for-sortable elements in a guaranteed order
+  findElements: function(element, options) {
+    return Element.findChildren(
+      element, options.only, options.tree ? true : false, options.tag);
+  },
+  
+  findTreeElements: function(element, options) {
+    return Element.findChildren(
+      element, options.only, options.tree ? true : false, options.treeTag);
+  },
+
+  onHover: function(element, dropon, overlap) {
+    if(Element.isParent(dropon, element)) return;
+
+    if(overlap > .33 && overlap < .66 && Sortable.options(dropon).tree) {
+      return;
+    } else if(overlap>0.5) {
+      Sortable.mark(dropon, 'before');
+      if(dropon.previousSibling != element) {
+        var oldParentNode = element.parentNode;
+        element.style.visibility = "hidden"; // fix gecko rendering
+        dropon.parentNode.insertBefore(element, dropon);
+        if(dropon.parentNode!=oldParentNode) 
+          Sortable.options(oldParentNode).onChange(element);
+        Sortable.options(dropon.parentNode).onChange(element);
+      }
+    } else {
+      Sortable.mark(dropon, 'after');
+      var nextElement = dropon.nextSibling || null;
+      if(nextElement != element) {
+        var oldParentNode = element.parentNode;
+        element.style.visibility = "hidden"; // fix gecko rendering
+        dropon.parentNode.insertBefore(element, nextElement);
+        if(dropon.parentNode!=oldParentNode) 
+          Sortable.options(oldParentNode).onChange(element);
+        Sortable.options(dropon.parentNode).onChange(element);
+      }
+    }
+  },
+  
+  onEmptyHover: function(element, dropon, overlap) {
+    var oldParentNode = element.parentNode;
+    var droponOptions = Sortable.options(dropon);
+        
+    if(!Element.isParent(dropon, element)) {
+      var index;
+      
+      var children = Sortable.findElements(dropon, {tag: droponOptions.tag, only: droponOptions.only});
+      var child = null;
+            
+      if(children) {
+        var offset = Element.offsetSize(dropon, droponOptions.overlap) * (1.0 - overlap);
+        
+        for (index = 0; index < children.length; index += 1) {
+          if (offset - Element.offsetSize (children[index], droponOptions.overlap) >= 0) {
+            offset -= Element.offsetSize (children[index], droponOptions.overlap);
+          } else if (offset - (Element.offsetSize (children[index], droponOptions.overlap) / 2) >= 0) {
+            child = index + 1 < children.length ? children[index + 1] : null;
+            break;
+          } else {
+            child = children[index];
+            break;
+          }
+        }
+      }
+      
+      dropon.insertBefore(element, child);
+      
+      Sortable.options(oldParentNode).onChange(element);
+      droponOptions.onChange(element);
+    }
+  },
+
+  unmark: function() {
+    if(Sortable._marker) Sortable._marker.hide();
+  },
+
+  mark: function(dropon, position) {
+    // mark on ghosting only
+    var sortable = Sortable.options(dropon.parentNode);
+    if(sortable && !sortable.ghosting) return; 
+
+    if(!Sortable._marker) {
+      Sortable._marker = 
+        ($('dropmarker') || Element.extend(document.createElement('DIV'))).
+          hide().addClassName('dropmarker').setStyle({position:'absolute'});
+      document.getElementsByTagName("body").item(0).appendChild(Sortable._marker);
+    }    
+    var offsets = Position.cumulativeOffset(dropon);
+    Sortable._marker.setStyle({left: offsets[0]+'px', top: offsets[1] + 'px'});
+    
+    if(position=='after')
+      if(sortable.overlap == 'horizontal') 
+        Sortable._marker.setStyle({left: (offsets[0]+dropon.clientWidth) + 'px'});
+      else
+        Sortable._marker.setStyle({top: (offsets[1]+dropon.clientHeight) + 'px'});
+    
+    Sortable._marker.show();
+  },
+  
+  _tree: function(element, options, parent) {
+    var children = Sortable.findElements(element, options) || [];
+  
+    for (var i = 0; i < children.length; ++i) {
+      var match = children[i].id.match(options.format);
+
+      if (!match) continue;
+      
+      var child = {
+        id: encodeURIComponent(match ? match[1] : null),
+        element: element,
+        parent: parent,
+        children: [],
+        position: parent.children.length,
+        container: $(children[i]).down(options.treeTag)
+      }
+      
+      /* Get the element containing the children and recurse over it */
+      if (child.container)
+        this._tree(child.container, options, child)
+      
+      parent.children.push (child);
+    }
+
+    return parent; 
+  },
+
+  tree: function(element) {
+    element = $(element);
+    var sortableOptions = this.options(element);
+    var options = Object.extend({
+      tag: sortableOptions.tag,
+      treeTag: sortableOptions.treeTag,
+      only: sortableOptions.only,
+      name: element.id,
+      format: sortableOptions.format
+    }, arguments[1] || { });
+    
+    var root = {
+      id: null,
+      parent: null,
+      children: [],
+      container: element,
+      position: 0
+    }
+    
+    return Sortable._tree(element, options, root);
+  },
+
+  /* Construct a [i] index for a particular node */
+  _constructIndex: function(node) {
+    var index = '';
+    do {
+      if (node.id) index = '[' + node.position + ']' + index;
+    } while ((node = node.parent) != null);
+    return index;
+  },
+
+  sequence: function(element) {
+    element = $(element);
+    var options = Object.extend(this.options(element), arguments[1] || { });
+    
+    return $(this.findElements(element, options) || []).map( function(item) {
+      return item.id.match(options.format) ? item.id.match(options.format)[1] : '';
+    });
+  },
+
+  setSequence: function(element, new_sequence) {
+    element = $(element);
+    var options = Object.extend(this.options(element), arguments[2] || { });
+    
+    var nodeMap = { };
+    this.findElements(element, options).each( function(n) {
+        if (n.id.match(options.format))
+            nodeMap[n.id.match(options.format)[1]] = [n, n.parentNode];
+        n.parentNode.removeChild(n);
+    });
+   
+    new_sequence.each(function(ident) {
+      var n = nodeMap[ident];
+      if (n) {
+        n[1].appendChild(n[0]);
+        delete nodeMap[ident];
+      }
+    });
+  },
+  
+  serialize: function(element) {
+    element = $(element);
+    var options = Object.extend(Sortable.options(element), arguments[1] || { });
+    var name = encodeURIComponent(
+      (arguments[1] && arguments[1].name) ? arguments[1].name : element.id);
+    
+    if (options.tree) {
+      return Sortable.tree(element, arguments[1]).children.map( function (item) {
+        return [name + Sortable._constructIndex(item) + "[id]=" + 
+                encodeURIComponent(item.id)].concat(item.children.map(arguments.callee));
+      }).flatten().join('&');
+    } else {
+      return Sortable.sequence(element, arguments[1]).map( function(item) {
+        return name + "[]=" + encodeURIComponent(item);
+      }).join('&');
+    }
+  }
+}
+
+// Returns true if child is contained within element
+Element.isParent = function(child, element) {
+  if (!child.parentNode || child == element) return false;
+  if (child.parentNode == element) return true;
+  return Element.isParent(child.parentNode, element);
+}
+
+Element.findChildren = function(element, only, recursive, tagName) {   
+  if(!element.hasChildNodes()) return null;
+  tagName = tagName.toUpperCase();
+  if(only) only = [only].flatten();
+  var elements = [];
+  $A(element.childNodes).each( function(e) {
+    if(e.tagName && e.tagName.toUpperCase()==tagName &&
+      (!only || (Element.classNames(e).detect(function(v) { return only.include(v) }))))
+        elements.push(e);
+    if(recursive) {
+      var grandchildren = Element.findChildren(e, only, recursive, tagName);
+      if(grandchildren) elements.push(grandchildren);
+    }
+  });
+
+  return (elements.length>0 ? elements.flatten() : []);
+}
+
+Element.offsetSize = function (element, type) {
+  return element['offset' + ((type=='vertical' || type=='height') ? 'Height' : 'Width')];
+}
+
+
 LowPro = {};
 LowPro.Version = '0.5';
 LowPro.CompatibleWithPrototype = '1.6';
@@ -6471,7 +7447,7 @@ DateInputBehavior = Behavior.create({
   },
   
   getDate : function() {
-    return this.options.getter(this.element.value) || new Date;
+    return this.options.getter(this.element.value) || new Date();
   },
   
   _isOverWidget: function(event) {
@@ -6481,7 +7457,7 @@ DateInputBehavior = Behavior.create({
       var widgetRight = this.element.cumulativeOffset().left + this.element.getDimensions().width;
       positionedOverWidget = (event.pointerX() >= widgetLeft && event.pointerX() <= widgetRight);
     } else {
-      var calendarIconWidth = parseInt(this.element.getStyle('padding-right'));
+      var calendarIconWidth = parseInt(this.element.getStyle('padding-right'), 10);
       var widgetLeft = this.element.cumulativeOffset().left + this.element.getDimensions().width - calendarIconWidth;
       positionedOverWidget = (event.pointerX() >= widgetLeft);
     }
@@ -6536,7 +7512,7 @@ DateInputBehavior.Calendar = Behavior.create({
     if (this.element.visible()) {
       this.hide();
     } else {
-      this.show()
+      this.show();
     }
   },
   
@@ -6618,7 +7594,7 @@ DateInputBehavior.Calendar = Behavior.create({
   },
   
   _selectYear: function(combo) {
-    var year = parseInt($F(combo))
+    var year = parseInt($F(combo));
     this.date.setYear(year);
     this.selector.setDate(this.date, false);
     this.redraw();
@@ -6682,7 +7658,7 @@ DateInputBehavior.Calendar = Behavior.create({
         if (day <= monthLength && (i > 0 || j >= firstDay)) { 
           var classes = ['day'];
           
-          if (this._compareDate(new Date, year, month, day)) classes.push('today');
+          if (this._compareDate(new Date(), year, month, day)) classes.push('today');
           if (this._compareDate(this.selector.date, year, month, day)) classes.push('selected');
           
           html += '<td class="' + classes.join(' ') + '">' + 
@@ -6839,64 +7815,41 @@ Cookie = {
       return now.toGMTString();     
     }
   }
-}
+};
 
-
-/*
- *  popup.js
- *
- *  dependencies: prototype.js, effects.js, lowpro.js
- *
- *  --------------------------------------------------------------------------
- *  
- *  Allows you to open up a URL inside of a Facebook-style window. To use
- *  simply assign the class "popup" to a link that contains an href to the
- *  HTML snippet that you would like to load up inside a window:
- *  
- *    <a class="popup" href="window.html">Window</a>
- *
- *  You can also "popup" a specific div by referencing it by ID:
- *
- *    <a class="popup" href="#my_div">Popup</a>
- *    <div id="my_div" style="display:none">Hello World!</div>
- *  
- *  You will need to install the following hook:
- *  
- *    Event.addBehavior({'a.popup': Popup.TriggerBehavior()});
- *
- *  --------------------------------------------------------------------------
- *  
- *  Copyright (c) 2008, John W. Long
- *  Portions copyright (c) 2008, Five Points Solutions, Inc.
- *  
- *  Permission is hereby granted, free of charge, to any person obtaining a
- *  copy of this software and associated documentation files (the "Software"),
- *  to deal in the Software without restriction, including without limitation
- *  the rights to use, copy, modify, merge, publish, distribute, sublicense,
- *  and/or sell copies of the Software, and to permit persons to whom the
- *  Software is furnished to do so, subject to the following conditions:
- *  
- *  The above copyright notice and this permission notice shall be included in
- *  all copies or substantial portions of the Software.
- *  
- *  THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
- *  IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
- *  FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL
- *  THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
- *  LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING
- *  FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER
- *  DEALINGS IN THE SOFTWARE.
- *  
- */
 
 var Popup = {
+  
+  // Borders
   BorderThickness: 8,
   BorderImage: '/images/popup_border_background.png',
   BorderTopLeftImage: '/images/popup_border_top_left.png',
   BorderTopRightImage: '/images/popup_border_top_right.png',
   BorderBottomLeftImage: '/images/popup_border_bottom_left.png',
-  BorderBottomRightImage: '/images/popup_border_bottom_right.png'
+  BorderBottomRightImage: '/images/popup_border_bottom_right.png',
+  
+  // CSS Classes
+  PopupClass: 'popup',
+  WindowClass: 'popup_window',
+  TitlebarClass: 'popup_title',
+  CloseClass: 'close_popup',
+  PopupContentClass: 'popup_content',
+  ButtonsClass: 'popup_buttons',
+  DefaultButtonClass: 'default',
+  
+  // Dialog Buttons
+  Okay: 'Okay',
+  Cancel: 'Cancel',
+  
+  // Other Configuration
+  Draggable: false,   // Window is draggable by titlebar
+  AutoFocus: true,    // Focus on first control in popup
+  Singular: false     // Other popups close when this is opened
+  
 };
+
+Popup.windows = [];
+Popup.zindex = 10000;
 
 Popup.borderImages = function() {
   return $A([
@@ -6919,13 +7872,13 @@ Popup.preloadImages = function() {
 }
 
 Popup.TriggerBehavior = Behavior.create({
-  initialize: function() {
-    var matches = this.element.href.match(/\#(.+)$/);
-    if (matches) {
-      this.window = new Popup.Window($(matches[1]));
-    } else {
-     this.window = new Popup.AjaxWindow(this.element.href);
+  
+  initialize: function(options) {
+    if (!Popup.windows[this.element.href]) {
+      var matches = this.element.href.match(/\#(.+)$/);
+      Popup.windows[this.element.href] = (matches ? new Popup.Window($(matches[1]), options) : new Popup.AjaxWindow(this.element.href, options));
     }
+    this.window = Popup.windows[this.element.href];
   },
   
   onclick: function(event) {
@@ -6936,16 +7889,31 @@ Popup.TriggerBehavior = Behavior.create({
   popup: function() {
     this.window.show();
   }
+  
 });
 
 Popup.AbstractWindow = Class.create({
-  initialize: function() {
+  initialize: function(options) {
+    options = Object.extend({
+      draggable: Popup.Draggable,
+      autofocus: Popup.AutoFocus,
+      singular: Popup.Singular
+    }, options);
+    
+    this.draggable = options.draggable;
+    this.autofocus = options.autofocus;
+    this.singular = options.singular;
+    
     Popup.preloadImages();
+    
     this.buildWindow();
+    
+    this.element.observe('click', this.click.bind(this));
+    this.element.observe('popup:hide', this.hide.bind(this));
   },
   
   buildWindow: function() {
-    this.element = $div({'class': 'popup_window', style: 'display: none; padding: 0 ' + Popup.BorderThickness + 'px; position: absolute'});
+    this.element = $div({'class': Popup.WindowClass, style: 'display: none; padding: 0 ' + Popup.BorderThickness + 'px; position: absolute'});
     
     this.top = $div({style: 'background: url(' + Popup.BorderImage + '); height: ' + Popup.BorderThickness + 'px'});
     this.element.insert(this.top);
@@ -6975,6 +7943,25 @@ Popup.AbstractWindow = Class.create({
     body.insert(this.element);
   },
   
+  createDraggable: function() {
+    if (!this._draggable) {
+      this._draggable = new Draggable(this.element.identify(), {
+        handle: Popup.TitlebarClass,
+        scroll: window,
+        zindex: Popup.zindex,
+        onStart: function() { this.startDrag(); return true; }.bind(this),
+        onEnd: function() { this.endDrag(); return true; }.bind(this)
+      });
+    }
+  },
+  
+  destroyDraggable: function() {
+    if (this._draggable) {
+      this._draggable.destroy();
+      this._draggable = null;
+    }
+  },
+  
   show: function() {
     this.beforeShow();
     this.element.show();
@@ -6982,7 +7969,9 @@ Popup.AbstractWindow = Class.create({
   },
   
   hide: function() {
+    this.beforeHide();
     this.element.hide();
+    this.afterHide();
   },
   
   toggle: function() {
@@ -6996,7 +7985,7 @@ Popup.AbstractWindow = Class.create({
   focus: function() {
     var form = this.element.down('form');
     if (form) {
-      var elements = form.getElements().reject(function(e) { return e.type == 'hidden' });
+      var elements = form.getElements().reject(function(e) { return e.type == 'hidden'; });
       var element = elements[0] || form.down('button');
       if (element) element.focus();
     }
@@ -7009,25 +7998,61 @@ Popup.AbstractWindow = Class.create({
       this.top.setStyle("width:" + width + "px");
       this.bottom.setStyle("width:" + width + "px");
     }
+    if (this.singular) Popup.closeAll();
+    this.bringToTop();
     this.centerWindowInView();
   },
   
   afterShow: function() {
-    this.focus();
+    if (this.draggable) this.createDraggable();
+    if (this.autofocus) this.focus();
   },
-
+  
+  beforeHide: function() {
+    if (this.draggable) this.destroyDraggable();
+  },
+  
+  afterHide: function() {
+    // noopp
+  },
+  
+  titlebarClick: function(event) {
+    this.bringToTop();
+  },
+  
+  startDrag: function() {
+    this.bringToTop();
+  },
+  
+  endDrag: function() {
+    this.bringToTop();
+  },
+  
+  click: function(event) {
+    if (event.target.hasClassName(Popup.TitlebarClass)) this.titlebarClick();
+    if (event.target.hasClassName(Popup.CloseClass)) this.hide();
+  },
+  
   centerWindowInView: function() {
     var offsets = document.viewport.getScrollOffsets();
     this.element.setStyle({
       left: parseInt(offsets.left + (document.viewport.getWidth() - this.element.getWidth()) / 2) + 'px',
       top: parseInt(offsets.top + (document.viewport.getHeight() - this.element.getHeight()) / 2.2) + 'px'
     });
+  },
+  
+  bringToTop: function() {
+    Popup.zindex += 1;
+    this.element.style.zIndex = Popup.zindex;
+    if (this._draggable) this._draggable.originalZ = Popup.zindex;
   }
+  
 });
 
 Popup.Window = Class.create(Popup.AbstractWindow, {
-  initialize: function($super, element) {
-    $super();
+  initialize: function($super, element, options) {
+    $super(options);
+    element = $(element);
     element.remove();
     this.content.update(element);
     element.show();
@@ -7036,7 +8061,7 @@ Popup.Window = Class.create(Popup.AbstractWindow, {
 
 Popup.AjaxWindow = Class.create(Popup.AbstractWindow, {
   initialize: function($super, url, options) {
-    $super();
+    $super(options);
     options = Object.extend({reload: true}, options);
     this.url = url;
     this.reload = options.reload;
@@ -7044,7 +8069,13 @@ Popup.AjaxWindow = Class.create(Popup.AbstractWindow, {
   
   show: function($super) {
     if (!this.loaded || this.reload) {
-      new Ajax.Updater(this.content, this.url, {asynchronous: false, method: "get", evalScripts: true, onComplete: $super});
+      this.hide();
+      new Ajax.Updater(this.content, this.url, {
+        asynchronous: false,
+        method: "get",
+        evalScripts: true, 
+        onComplete: $super
+      });
       this.loaded = true;
     } else {
       $super();
@@ -7052,11 +8083,351 @@ Popup.AjaxWindow = Class.create(Popup.AbstractWindow, {
   }
 });
 
+Popup.closeAll = function () {
+  $$('div.popup_window').each(function (el) { el.fire('popup:hide'); });
+}
+
+Popup.dialog = function(options) {
+  options = Object.extend({
+    title: 'Dialog',
+    message: '[message]',
+    width: '20em',
+    buttons: [Popup.Okay],
+    buttonClick: function() { }
+  }, options);
+  
+  var wrapper = $div({'class': Popup.PopupClass, style: 'width:' + options.width});
+  wrapper.insert($div({'class': Popup.TitlebarClass}, options.title));
+  
+  var content = $div({'class': Popup.PopupContentClass});
+  var paragraph = $p();
+  paragraph.innerHTML = options.message.gsub('\n', '<br />');
+  content.insert(paragraph);
+  
+  var buttons = $div({'class': Popup.ButtonsClass});
+  for (var index = 0; index < options.buttons.length; index++) {
+    var classes = Popup.CloseClass;
+    if (index == 0) classes += ' ' + Popup.DefaultButtonClass;
+    buttons.insert($button({'class': classes}, options.buttons[index]));
+  }
+  content.insert(buttons);
+  wrapper.insert(content);
+  
+  var popup = new Popup.AbstractWindow(options);
+  popup.content.insert(wrapper);
+  
+  popup.element.observe('click', function(event) {
+    var button = event.target;
+    if (button.nodeName == "BUTTON") options.buttonClick(button.innerHTML);
+  }.bind(this));
+  
+  popup.show();
+}
+
+Popup.confirm = function(message, options) {
+  options = Object.extend({
+    title: 'Confirm',
+    message: message,
+    width: '20em',
+    buttons: [Popup.Okay, Popup.Cancel],
+    okay: function() { },
+    cancel: function() { }
+  }, options);
+  
+  options.buttonClick = options.buttonClick || function(button) {
+    if (button == Popup.Okay) options.okay();
+    if (button == Popup.Cancel) options.cancel();
+  };
+  
+  Popup.dialog(options);
+}
+
+Popup.alert = function(message, options) {
+  options = Object.extend({
+    title: 'Alert',
+    buttons: [Popup.Okay]
+  }, options);
+  
+  Popup.confirm(message, options);
+}
+
 // Element extensions
 Element.addMethods({
   closePopup: function(element) {
-    $(element).up('div.popup_window').hide();
+    $(element).up('div.popup_window').fire('popup:hide');
   }
+});
+
+function addField(form) {
+  if (validFieldName()) {
+    new Ajax.Updater(
+      $('attributes').down('tbody'),
+      relative_url_root + '/admin/page_fields/',
+      {
+        asynchronous: true,
+        evalScripts: true,
+        insertion: 'bottom',
+        onComplete: function(response){ fieldAdded(form); },
+        onLoading: function(request){ fieldLoading(form); },
+        parameters: Form.serialize(form)
+      }
+    );
+  }
+}
+function removeField(button) {
+  var row = $(button).up('tr');
+  var name = row.down('label').innerHTML;
+  if (confirm('Remove the "' + name + '" field?')) {
+    row.down('.delete_input').setValue(true);
+    row.down('.page_field_name').clear();
+    row.hide();
+  }
+}
+function fieldAdded(element) {
+  $(element).previous('.busy').hide();
+  $(element).down('.button').enable();
+  $(element).up('.popup').closePopup();
+  var field_index = $('page_field_counter').value;
+  $('page_fields_attributes_' + field_index + '_content').focus();
+  $('page_field_counter').setValue(Number(field_index).succ());
+  $('new_page_field').reset();
+}
+function fieldLoading(element) {
+  $(element).down('.button').disable();
+  $(element).previous('.busy').appear();
+}
+function validFieldName() {
+  var fieldName = $('page_field_name');
+  var name = fieldName.value.downcase();
+  if (name.blank()) {
+    alert('Field name cannot be empty.');
+    return false;
+  }
+  if (findFieldByName(name)) {
+    alert('Field name must be unique.');
+    return false;
+  }
+  return true;
+}
+function findFieldByName(name) {
+  return $('attributes').select('input.page_field_name').detect(function(input) { return input.value.downcase() == name; });
+}
+
+/*
+ *  dropdown.js
+ *
+ *  dependencies: prototype.js, effects.js, lowpro.js
+ *
+ *  --------------------------------------------------------------------------
+ *  
+ *  Allows you to easily create a dropdown menu item. Simply create a link
+ *  with a class of "dropdown" that references the ID of the list that you
+ *  would like to use as a dropdown menu.
+ *  
+ *  A link like this:
+ *  
+ *    <a class="dropdown" href="#dropdown">Menu</a>
+ *  
+ *  will dropdown a list of choices in the list with the ID of "dropdown".
+ *  
+ *  You will need to install the following hook:
+ *  
+ *    Event.addBehavior({'a.dropdown': Dropdown.TriggerBehavior()});
+ *  
+ *  --------------------------------------------------------------------------
+ *  
+ *  Copyright (c) 2010, John W. Long
+ *  
+ *  Permission is hereby granted, free of charge, to any person obtaining a
+ *  copy of this software and associated documentation files (the "Software"),
+ *  to deal in the Software without restriction, including without limitation
+ *  the rights to use, copy, modify, merge, publish, distribute, sublicense,
+ *  and/or sell copies of the Software, and to permit persons to whom the
+ *  Software is furnished to do so, subject to the following conditions:
+ *  
+ *  The above copyright notice and this permission notice shall be included in
+ *  all copies or substantial portions of the Software.
+ *  
+ *  THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+ *  IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+ *  FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL
+ *  THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+ *  LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING
+ *  FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER
+ *  DEALINGS IN THE SOFTWARE.
+ *  
+ */
+
+var Dropdown = {
+  
+  DefaultPosition: 'bottom',
+  
+  DefaultEffect: 'slide',
+  DefaultEffectDuration: 0.1,
+  
+  EffectPairs: {
+    'slide' : ['SlideDown', 'SlideUp'],
+    'blind' : ['BlindDown', 'BlindUp'],
+    'appear': ['Appear', 'Fade']
+  }
+  
+};
+
+Dropdown.TriggerBehavior = Behavior.create({
+  initialize: function(options) {
+    var options = options || {};
+    options.position = (options.position || Dropdown.DefaultPosition).toLowerCase();
+    options.effect = (options.effect || Dropdown.DefaultEffect).toLowerCase();
+    options.duration = (options.duration || Dropdown.DefaultEffectDuration);
+    this.options = options;
+    
+    var matches = this.element.href.match(/\#(.+)$/);
+    this.menu = (matches ? Dropdown.Menu.findOrCreate(matches[1]) : new Dropdown.AjaxMenu(this.element.href));
+  },
+  
+  onclick: function(event) {
+    event.stop();
+    $$('a.dropdown').each(function(drop){ drop.removeClassName('selected') });
+    c = $H(Dropdown.Menu.controls);
+    clicked = this;
+    c.each(function(pair){
+      menu = Dropdown.Menu.controls[pair.key];
+      if (menu && menu.visible()) { 
+        menu.close(clicked.element,clicked.options);
+      }
+    })
+    if (this.menu) this.menu.toggle(this.element, this.options);
+  }
+});
+
+Dropdown.Menu = Class.create({
+  
+  initialize: function(element) {
+    element.remove();
+    this.element = element;
+    this.wrapper = $div({'class': 'dropdown_wrapper', 'style': 'position: absolute; display: none'}, element);
+    document.body.insert(this.wrapper);
+  },
+  
+  open: function(trigger, options) {
+    this.wrapper.hide();
+    trigger.addClassName('selected');
+    this.position(trigger, options);
+    var name = options.effect;
+    var effect = Effect[Dropdown.EffectPairs[name][0]];
+    effect(this.wrapper, {duration: options.duration});
+  },
+  
+  close: function(trigger, options) {
+    var name = options.effect;
+    var effect = Effect[Dropdown.EffectPairs[name][1]];
+    effect(this.wrapper, {duration: options.duration});
+    trigger.removeClassName('selected');
+  },
+  
+  toggle: function(trigger, options) {
+    if (this.lastTrigger == trigger) {
+      if (this.wrapper.visible()) {
+        this.close(trigger, options);
+      } else {
+        this.open(trigger, options);
+      }
+    } else {
+      if (this.lastTrigger) this.lastTrigger.removeClassName('selected');
+      this.open(trigger, options);
+    }
+    this.lastTrigger = trigger;
+  },
+  
+  position: function(trigger, options) {
+    switch(options.position) {
+      case 'top':     this.positionTop(trigger);     break;
+      case 'bottom':  this.positionBottom(trigger);  break;
+      default:        this.positionBottom(trigger);
+    }
+    this.lastOptions = options;
+  },
+  
+  positionTop: function(trigger) {
+    var offset = trigger.cumulativeOffset();
+    var height = this.wrapper.getHeight();
+    this.wrapper.setStyle({
+      left: offset.left + 'px',
+      top:  (offset.top - height) + 'px'
+    });
+    this.lastTrigger = trigger;
+  },
+  
+  positionBottom: function(trigger) {
+    var offset = trigger.cumulativeOffset();
+    var height = trigger.getHeight();
+    this.wrapper.setStyle({
+      left: offset.left + 'px',
+      top:  (offset.top + height) + 'px'
+    });
+    this.lastTrigger = trigger;
+  },
+  
+  reposition: function() {
+    if (this.lastTrigger) this.position(this.lastTrigger, this.lastOptions);
+  },
+  
+  visible: function() {
+    return this.wrapper.visible();
+  }
+  
+});
+
+Dropdown.AjaxMenu = Class.create(Dropdown.Menu, {
+  initialize: function(url) {
+    this.url = url;
+    this.element = $ul({'class': 'menu'});
+    this.wrapper = $div({'class': 'dropdown_wrapper', 'style': 'position: absolute; display: none'}, this.element);
+    document.body.insert(this.wrapper);
+  },
+
+  open: function($super, trigger, options) {
+    if (!this.loaded) {
+      new Ajax.Request(this.url, {
+        asynchronous: false,
+        method: 'get',
+        evalScripts: true,
+        onSuccess: function(data) {
+          var menu = new Element('ul',{'class':'menu'}).update(data.responseText);
+          var links = menu.childElements($$('li'));
+          if (links.length == 1) {
+            window.location = links[0].down().href;
+          } else {
+            this.element.replace(menu);
+            $super(trigger, options);
+          };
+        }.bind(this)
+      });
+      this.loaded = true;
+    } else {
+      $super(trigger, options);
+    }
+  }
+});
+
+Dropdown.Menu.findOrCreate = function(element) {
+  var element = $(element);
+  var key = element.identify();
+  var menu = Dropdown.Menu.controls[key];
+  if (menu == null) menu = Dropdown.Menu.controls[key] = new Dropdown.Menu(element);
+  return menu;
+}
+Dropdown.Menu.controls = {};
+
+Event.observe(window, 'resize', function(event) {
+  for (key in Dropdown.Menu.controls) {
+    var menu = Dropdown.Menu.controls[key];
+    if (menu.visible()) menu.reposition();
+  }
+});
+
+Event.addBehavior({
+  'a.dropdown': Dropdown.TriggerBehavior()
 });
 
 /*
@@ -7128,7 +8499,7 @@ var Status = {
 Status.window = function() {
   if (!this.statusWindow) this.statusWindow = new Status.Window();
   return this.statusWindow;
-}
+};
 
 Status.BackgroundImages = function() {
   return $A([
@@ -7139,7 +8510,7 @@ Status.BackgroundImages = function() {
     Status.BottomLeftImage,
     Status.BottomRightImage
   ]);
-}
+};
 
 Status.preloadImages = function() {
   if (!Status.imagesPreloaded) {
@@ -7149,21 +8520,21 @@ Status.preloadImages = function() {
     });
     Status.preloadedImages = true;
   }
-}
+};
 
 Status.FormBehavior = Behavior.create({
   initialize: function() {
-    var attr = this.element.attributes['data-onsubmit_status']
+    var attr = this.element.attributes['data-onsubmit_status'];
     if (attr) this.status = attr.value; 
-    if (this.status) this.element.observe('submit', function() { showStatus(this.status) }.bind(this));
+    if (this.status) this.element.observe('submit', function() { showStatus(this.status); }.bind(this));
   }
 });
 
 Status.LinkBehavior = Behavior.create({
   initialize: function() {
-    var attr = this.element.attributes['data-onclick_status']
+    var attr = this.element.attributes['data-onclick_status'];
     if (attr) this.status = attr.value; 
-    if (this.status) this.element.observe('click', function() { showStatus(this.status) }.bind(this));
+    if (this.status) this.element.observe('click', function() { showStatus(this.status); }.bind(this));
   }
 });
 
@@ -7176,11 +8547,11 @@ Status.Window = Class.create({
   buildWindow: function() {
     this.element = $table({'class': 'status_window', style: 'display: none; position: absolute; border-collapse: collapse; padding: 0px; margin: 0px; z-index: 10000'});
     var tbody = $tbody();
-    this.element.insert(tbody)
+    this.element.insert(tbody);
     
     var top_row = $tr();
     top_row.insert($td({style: 'background: url(' + Status.TopLeftImage + '); height: ' + Status.CornerThickness + 'px; width: ' + Status.CornerThickness + 'px; padding: 0px'}));
-    top_row.insert($td({style: 'background: url(' + Status.BackgroundImage + '); height: ' + Status.CornerThickness + 'px; padding: 0px'}))
+    top_row.insert($td({style: 'background: url(' + Status.BackgroundImage + '); height: ' + Status.CornerThickness + 'px; padding: 0px'}));
     top_row.insert($td({style: 'background: url(' + Status.TopRightImage + '); height: ' + Status.CornerThickness + 'px; width: ' + Status.CornerThickness + 'px; padding: 0px'}));
     tbody.insert(top_row);
     
@@ -7193,7 +8564,7 @@ Status.Window = Class.create({
     
     var bottom_row = $tr();
     bottom_row.insert($td({style: 'background: url(' + Status.BottomLeftImage + '); height: ' + Status.CornerThickness + 'px; width: ' + Status.CornerThickness + 'px; padding: 0px'}));
-    bottom_row.insert($td({style: 'background: url(' + Status.BackgroundImage + '); height: ' + Status.CornerThickness + 'px; padding: 0px'}))
+    bottom_row.insert($td({style: 'background: url(' + Status.BackgroundImage + '); height: ' + Status.CornerThickness + 'px; padding: 0px'}));
     bottom_row.insert($td({style: 'background: url(' + Status.BottomRightImage + '); height: ' + Status.CornerThickness + 'px; width: ' + Status.CornerThickness + 'px; padding: 0px'}));
     tbody.insert(bottom_row);
     
@@ -7215,7 +8586,7 @@ Status.Window = Class.create({
   },
   
   setStatus: function(value) {
-    this.status.update(value)
+    this.status.update(value);
   },
   
   getStatus: function() {
@@ -7248,8 +8619,8 @@ Status.Window = Class.create({
   centerWindowInView: function() {
     var offsets = document.viewport.getScrollOffsets();
     this.element.setStyle({
-      left: parseInt(offsets.left + (document.viewport.getWidth() - this.element.getWidth()) / 2) + 'px',
-      top: parseInt(offsets.top + (document.viewport.getHeight() - this.element.getHeight()) / 2.2) + 'px'
+      left: parseInt(offsets.left + (document.viewport.getWidth() - this.element.getWidth()) / 2, 10) + 'px',
+      top: parseInt(offsets.top + (document.viewport.getHeight() - this.element.getHeight()) / 2.2, 10) + 'px'
     });
   },
   
@@ -7304,11 +8675,12 @@ Object.extend(String.prototype, {
   },
   
   toInteger: function() {
-    return parseInt(this);
+    return parseInt(this, 10);
   },
   
-  toSlug: function() {
-    return this.strip().downcase().replace(/[^-a-z0-9~\s\.:;+=_]/g, '').replace(/[\s\.:;=+]+/g, '-');
+  toSlug: function(allow_periods) {
+    replacement_regex = allow_periods ? /[\s:;=+]+/g : /[\s\.:;=+]+/g;
+    return this.strip().downcase().replace(/[^-a-z0-9~\s\.:;+=_]/g, '').replace(replacement_regex, '-');
   }
 });
 
@@ -7326,7 +8698,7 @@ Element.addMethods({
   },
 
   centerInViewport: function(element) {
-    var header = $('header')
+    var header = $('header');
     var headerBottom = header.getHeight();
     var viewport = document.viewport.getScrollOffsets();
     viewport.height = document.viewport.getHeight();
@@ -7397,12 +8769,12 @@ var CodeArea = Class.create({
           if (t.value.slice(ss,se).indexOf("\n") != -1) {
             // Special case of multi line selection
             
-            var pre = t.value.slice(0, ss)
-            var sel = t.value.slice(ss, se)
+            var pre = t.value.slice(0, ss);
+            var sel = t.value.slice(ss, se);
             var post = t.value.slice(se, t.value.length);
             
             // Back off one tab
-            sel = sel.replace(new RegExp("^" + tab, "gm"), '')
+            sel = sel.replace(new RegExp("^" + tab, "gm"), '');
             
             // Put everything back together
             t.value = pre.concat(sel).concat(post);
@@ -7435,7 +8807,7 @@ var CodeArea = Class.create({
             var post = t.value.slice(se, t.value.length);
             
             // Indent one tab
-            sel = sel.replace(/^/gm, tab)
+            sel = sel.replace(/^/gm, tab);
             
             // Put everything back together
             t.value = pre.concat(sel).concat(post);
@@ -7512,11 +8884,11 @@ var CodeArea = Class.create({
   }
 });
 
-if(typeof(relative_url_root) === 'undefined'){ relative_url_root = ''}
+if(typeof(relative_url_root) === 'undefined'){ relative_url_root = '';}
 
 var TabControlBehavior = Behavior.create({
   initialize: function() {
-    new TabControl(this.element);
+    this.controller = new TabControl(this.element);
   }
 });
 
@@ -7541,7 +8913,8 @@ var TabControl = Class.create({
     var tab = new TabControl.Tab(page);
     this.tabs.push(tab);
     this.tabContainer.insert({bottom: tab});
-    $('page_part_index_field').setValue(this.tabs.length);
+    var part_index = $('page_part_index_field');
+    part_index.setValue(Number(part_index.value)+1);
     page.hide();
   },
   
@@ -7586,6 +8959,7 @@ var TabControl = Class.create({
           }
         } else {
           this.select(tab);
+          $('part_' + tab.caption + '_content').focus();
         }
         event.stop();
       }
@@ -7593,15 +8967,15 @@ var TabControl = Class.create({
   },
   
   findTabByCaption: function(caption) {
-    return this.tabs.detect(function(tab) { return tab.caption == caption });
+    return this.tabs.detect(function(tab) { return tab.caption == caption; });
   },
   
   findTabByPage: function(page) {
-    return this.tabs.detect(function(tab) { return tab.page == page });
+    return this.tabs.detect(function(tab) { return tab.page == page; });
   },
   
   findTabByElement: function(element) {
-    return this.tabs.detect(function(tab) { return tab.element == element });
+    return this.tabs.detect(function(tab) { return tab.element == element; });
   }
 });
 
@@ -7633,6 +9007,7 @@ TabControl.Tab = Class.create({
 });
 
 var TabControls = {};
+
 
 var RuledTableBehavior = Behavior.create({
   initialize: function() {
@@ -7781,8 +9156,8 @@ var SiteMapBehavior = Behavior.create({
       {
         insertion: "after",
         method: "get",
-        onLoading:  function() { spinner.show(); this.updating = true  }.bind(this),
-        onComplete: function() { spinner.fade(); this.updating = false }.bind(this)
+        onLoading:  function() { spinner.show(); this.updating = true;  }.bind(this),
+        onComplete: function() { spinner.fade(); this.updating = false; }.bind(this)
       }
     );
   },
@@ -7804,8 +9179,14 @@ var ShortcutKeysBehavior = Behavior.create({
     var character = String.fromCharCode(event.keyCode);
     if(!event.shiftKey && !character.blank())
       character = character.toLowerCase();
+    // Blindly passing RIGHT_ARROW through fromCharCode() returns a single-quote character (ascii decimal 39).
+    // I suspect that causes a bad string interpolation when evaluating `button`.
+    // Adding double-quotes to the accesskey spec seems to fix it.
+    // Now of course now keyCode 34 (double-quote in ascii decimal) will cause a problem... but your browser will likely catch Ctrl+PgDn anyway
+    // We should only evaluate keyCodes that can come from printable characters, now sure how feasible that is.
+    // Eg. http://www.cambiaresearch.com/articles/15/javascript-char-codes-key-codes
     if(event.ctrlKey && event.keyCode != 17){
-      var button = $$('input[accesskey='+character+']')[0];
+      var button = $$('input[accesskey="'+character+'"]')[0];
       if(button){
         event.stop();
         button.click();
@@ -7930,7 +9311,7 @@ var Toggle = {
     if (matches) {
       var ids = matches[1].split(',');
       var elements = [];
-      ids.each(function(id) { elements.push($(id)) });
+      ids.each(function(id) { elements.push($(id)); });
       return elements;
     } else {
       return [];
@@ -7983,8 +9364,8 @@ var Toggle = {
   **/
   show: function(elements, effect, options) {
     var elements = $([elements]).flatten();
-    elements = elements.map(function(element) { return $(element) });
-    elements = elements.reject(function(element) { return element.visible() });
+    elements = elements.map(function(element) { return $(element); });
+    elements = elements.reject(function(element) { return element.visible(); });
     Toggle.toggle(elements, effect, options);
   },
   
@@ -7996,8 +9377,8 @@ var Toggle = {
   **/
   hide: function(elements, effect, options) {
     var elements = $([elements]).flatten();
-    elements = elements.map(function(element) { return $(element) });
-    elements = elements.reject(function(element) { return !element.visible() });
+    elements = elements.map(function(element) { return $(element); });
+    elements = elements.reject(function(element) { return !element.visible(); });
     Toggle.toggle(elements, effect, options);
   },
   
@@ -8059,7 +9440,7 @@ Toggle.LinkBehavior = Behavior.create({
     this.afterToggle.bind(this);
     
     var elements = Toggle.extractToggleObjects(this.element.readAttribute('rel'));
-    this.toggleWrappers = elements.map(function(e) { return Toggle.wrapElement(e) });
+    this.toggleWrappers = elements.map(function(e) { return Toggle.wrapElement(e); });
     
     this.toggleID = Toggle.extractAnchor(this.element.href);
     this.element.behavior = this; // a bit of a hack
@@ -8078,8 +9459,8 @@ Toggle.LinkBehavior = Behavior.create({
       this.toggleWrappers,
       this.effect,
       {
-        beforeStart: function() { this.beforeToggle(this.element) }.bind(this),
-        afterFinish: function() { this.afterToggle(this.element) }.bind(this)
+        beforeStart: function() { this.beforeToggle(this.element); }.bind(this),
+        afterFinish: function() { this.afterToggle(this.element); }.bind(this)
       }
     );
   }
@@ -8121,7 +9502,7 @@ Toggle.CheckboxBehavior = Behavior.create({
     this.invert = options.invert;
     
     var elements = Toggle.extractToggleObjects(this.element.readAttribute('rel'));
-    this.toggleWrappers = elements.map(function(e) { return Toggle.wrapElement(e) });
+    this.toggleWrappers = elements.map(function(e) { return Toggle.wrapElement(e); });
     
     this.effect = 'none';
     this.toggle();
@@ -8177,15 +9558,15 @@ Toggle.RadioGroupBehavior = Behavior.create({
     this.toggleWrapperIDsFor = {};
     
     this.radioButtons.each(function(radioButton) {
-      var elements = Toggle.extractToggleObjects(radioButton.readAttribute('rel'))
+      var elements = Toggle.extractToggleObjects(radioButton.readAttribute('rel'));
       var ids = elements.invoke('identify');
-      var wrapperIDs = elements.map(function(e) { return Toggle.wrapElement(e) }).invoke('identify');
+      var wrapperIDs = elements.map(function(e) { return Toggle.wrapElement(e); }).invoke('identify');
       this.toggleWrapperIDsFor[radioButton.identify()] = wrapperIDs;
       this.toggleWrapperIDs.push(wrapperIDs);
       radioButton.observe('click', this.onRadioButtonClick.bind(this));
     }.bind(this));
     
-    this.toggleWrapperIDs = this.toggleWrapperIDs.flatten().uniq()
+    this.toggleWrapperIDs = this.toggleWrapperIDs.flatten().uniq();
     
     this.effect = "none";
     this.toggle();
@@ -8199,9 +9580,9 @@ Toggle.RadioGroupBehavior = Behavior.create({
   
   toggle: function() {
     var group = this.element;
-    var radioButton = this.radioButtons.find(function(b) { return b.checked });
+    var radioButton = this.radioButtons.find(function(b) { return b.checked; });
     var wrapperIDs = this.toggleWrapperIDsFor[radioButton.identify()];
-    var partitioned = this.toggleWrapperIDs.partition(function(id) { return wrapperIDs.include(id) });
+    var partitioned = this.toggleWrapperIDs.partition(function(id) { return wrapperIDs.include(id); });
     Toggle.show(partitioned[0], this.effect);
     Toggle.hide(partitioned[1], this.effect);
   }
@@ -8230,13 +9611,13 @@ Toggle.SelectBehavior = Behavior.create({
     this.toggleWrapperIDsFor = {};
     
     optionElements.each(function(optionElement) {
-      var elements = Toggle.extractToggleObjects(optionElement.readAttribute('rel'))
-      var wrapperIDs = elements.map(function(e) { return Toggle.wrapElement(e) }).invoke('identify');
+      var elements = Toggle.extractToggleObjects(optionElement.readAttribute('rel'));
+      var wrapperIDs = elements.map(function(e) { return Toggle.wrapElement(e); }).invoke('identify');
       this.toggleWrapperIDsFor[optionElement.identify()] = wrapperIDs;
       this.toggleWrapperIDs.push(wrapperIDs);
     }.bind(this));
     
-    this.toggleWrapperIDs = this.toggleWrapperIDs.flatten().uniq()
+    this.toggleWrapperIDs = this.toggleWrapperIDs.flatten().uniq();
     
     this.effect = "none";
     this.toggle();
@@ -8252,7 +9633,7 @@ Toggle.SelectBehavior = Behavior.create({
     var combo = this.element;
     var option = $(combo.options[combo.selectedIndex]);
     var wrapperIDs = this.toggleWrapperIDsFor[option.identify()];
-    var partitioned = this.toggleWrapperIDs.partition(function(id) { return wrapperIDs.include(id) });
+    var partitioned = this.toggleWrapperIDs.partition(function(id) { return wrapperIDs.include(id); });
     Toggle.show(partitioned[0], this.effect);
     Toggle.hide(partitioned[1], this.effect);
   }
@@ -8278,7 +9659,7 @@ var ValidationError = Class.create({
 });
 
 // Ensure that relative_url_root is defined
-if(typeof(relative_url_root) === 'undefined'){ relative_url_root = ''}
+if(typeof(relative_url_root) === 'undefined'){ relative_url_root = '';}
 
 // Popup Images
 Popup.BorderImage            = relative_url_root + '/images/admin/popup_border_background.png';
@@ -8286,6 +9667,15 @@ Popup.BorderTopLeftImage     = relative_url_root + '/images/admin/popup_border_t
 Popup.BorderTopRightImage    = relative_url_root + '/images/admin/popup_border_top_right.png';
 Popup.BorderBottomLeftImage  = relative_url_root + '/images/admin/popup_border_bottom_left.png';
 Popup.BorderBottomRightImage = relative_url_root + '/images/admin/popup_border_bottom_right.png';
+
+// Popup Buttons
+Popup.ButtonsClass           = 'buttons';
+
+// Make all popups draggable
+Popup.Draggable = true;
+
+// Make all popups singular (on opening they close other open popups)
+Popup.Singular = true;
 
 // Status Images
 Status.SpinnerImage          = relative_url_root + '/images/admin/status_spinner.gif';
@@ -8314,7 +9704,7 @@ Event.addBehavior({
   
   'a.popup': Popup.TriggerBehavior(),
   
-  'table#site_map': SiteMapBehavior(),
+  'table#pages': SiteMapBehavior(),
   
   'input#page_title': function() {
     var title = this;

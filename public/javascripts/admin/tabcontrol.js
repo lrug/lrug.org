@@ -1,8 +1,8 @@
-if(typeof(relative_url_root) === 'undefined'){ relative_url_root = ''}
+if(typeof(relative_url_root) === 'undefined'){ relative_url_root = '';}
 
 var TabControlBehavior = Behavior.create({
   initialize: function() {
-    new TabControl(this.element);
+    this.controller = new TabControl(this.element);
   }
 });
 
@@ -27,7 +27,8 @@ var TabControl = Class.create({
     var tab = new TabControl.Tab(page);
     this.tabs.push(tab);
     this.tabContainer.insert({bottom: tab});
-    $('page_part_index_field').setValue(this.tabs.length);
+    var part_index = $('page_part_index_field');
+    part_index.setValue(Number(part_index.value)+1);
     page.hide();
   },
   
@@ -72,6 +73,7 @@ var TabControl = Class.create({
           }
         } else {
           this.select(tab);
+          $('part_' + tab.caption + '_content').focus();
         }
         event.stop();
       }
@@ -79,15 +81,15 @@ var TabControl = Class.create({
   },
   
   findTabByCaption: function(caption) {
-    return this.tabs.detect(function(tab) { return tab.caption == caption });
+    return this.tabs.detect(function(tab) { return tab.caption == caption; });
   },
   
   findTabByPage: function(page) {
-    return this.tabs.detect(function(tab) { return tab.page == page });
+    return this.tabs.detect(function(tab) { return tab.page == page; });
   },
   
   findTabByElement: function(element) {
-    return this.tabs.detect(function(tab) { return tab.element == element });
+    return this.tabs.detect(function(tab) { return tab.element == element; });
   }
 });
 

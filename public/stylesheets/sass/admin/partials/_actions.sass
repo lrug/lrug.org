@@ -1,36 +1,21 @@
 =button-shadow
-  +box-shadow(1px, 2px, 4px, #333)
-  
+  +single-box-shadow(#555, 1px, 2px, 3px)
+=no-button-shadow
+  +single-box-shadow(#555,0,0,0)
+
 #actions
   position: fixed
   left: 0
   right: 0
   bottom: 0
-  background: #777 url(../../images/admin/shadow_grey.png) repeat-x
+  background: #777
+  +linear-gradient(color-stops(#555, #666, #777, #777))
   ul
     padding: 14px 8px
-    li
-      display: inline
-      margin-right: 5px
-      a
-        background: #eee url(../../images/admin/buttons_background.png) repeat-x
-        color: #333
-        font-size: 80%
-        padding: 8px 12px
-        text-decoration: none
-        text-shadow: 1px 1px 1px #eee
-        +round-corners(5px)
-        +button-shadow
-        &:hover
-          background: #fff
-          color: #06c
-          text-shadow: 1px 1px 1px #fff
-        &:active
-          background: #fff url(../../images/admin/shadow.png) repeat-x
-          color: #000
-          +no-box-shadow
-        img
-          vertical-align: -20%
+  li
+    display: inline
+    margin-right: 5px
+
   .pagination
     position: relative
     overflow: hidden
@@ -40,28 +25,32 @@
     a, span.current, span.disabled
       display: block
       float: left
-      background: #fff url(../../images/admin/shadow.png) repeat-x
-      color: #999
-      font-size: 80%
       padding: 6px 12px 6px 12px
       margin-right: 1px
+      background: #ddd
+      +linear-gradient(color-stops(#c5c5c5, #f0f0f0 20%, #fff 35%, #fff))
+      color: #999
+      font-size: 80%
       text-decoration: none
-      text-shadow: 1px 1px 1px #eee
-      +round-bottom-corners(5px)
+      +border-bottom-radius(5px)
+      +border-top-radius(0)
     a
+      text-shadow: 1px 1px 1px #eee
       &:hover
-        background: #fff url(../../images/admin/buttons_background.png) repeat-x
-        color: #06c
-        text-shadow: none
+        background: #d8d8d8
+        +linear-gradient(color-stops(#fff, #fff, #ddd))
+        color: #0076a3
         +button-shadow
       &:active
-        background: #fff url(../../images/admin/shadow.png) repeat-x
         color: #000
-        +no-box-shadow
+        +no-button-shadow
     span.disabled
-      +opacity(0.3)
+      color: #666
+      background-color: #999
+      +linear-gradient(color-stops(#888, #999, #999, #999))
     span.current
       color: #000
+      background: white
       font-weight: bold
       background-image: none
       +button-shadow
@@ -74,10 +63,34 @@
     float: right
     padding: 6px 12px
     a
+      +no-button-shadow
       background: none
       font-size: 80%
-      color: #eee
+      color: #ccc
       text-shadow: none
       text-decoration: none
       &:hover
         color: #fff
+      
+.button_form
+  display: inline
+.action_button
+  display: inline
+  background: #d8d8d8
+  +linear-gradient(color-stops(#fff, #ccc))
+  color: #333
+  font-size: 80%
+  padding: 8px 12px
+  text-decoration: none
+  text-shadow: 1px 1px 1px #eee
+  +border-radius(5px)
+  +button-shadow
+  &:hover
+    color: #0076a3
+    text-shadow: 1px 1px 1px #fff
+  &:active
+    background: #fff
+    +no-button-shadow
+    color: black
+  img
+    vertical-align: -20%
