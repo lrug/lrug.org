@@ -1,5 +1,6 @@
 config/database.yml
+config/initializers/session_secret.rb
 .rvmrc
-lrug_radiant.sql
+lrug_radiant*.sql
 tmp/*
 log/*.log
