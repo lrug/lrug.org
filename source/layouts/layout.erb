@@ -9,7 +9,7 @@
     <!-- Use title if it's in the page YAML frontmatter -->
     <title><%= current_page.data.title %> | London Ruby User Group</title>
 
-    <link href="/rss/<r:if_url matches="^/book-reviews/">book-reviews</r:if_url><r:if_url matches="^/meetings">meetings</r:if_url><r:if_url matches="^/podcasts/">podcasts</r:if_url>" rel="alternate" title="RSS" type="application/rss+xml" />
+    <link href="/rss/<% if_url %r{^/book-reviews/} do %>book-reviews<% end %><% if_url %r{^/meetings} do %>meetings<% end %><% if_url %r{^/podcasts/} do %>podcasts<% end %>" rel="alternate" title="RSS" type="application/rss+xml" />
     <link rel="shortcut icon" href="http://assets.lrug.org/favicon.ico" />
     <link rel="icon" href="http://assets.lrug.org/favicon.ico" />
 
@@ -23,17 +23,35 @@
       <div id="main">
         <div id="content-wrapper">
           <div id="content">
-            <r:unless_url matches="^/$"><h1><%= current_page.data.title %></h1></r:unless_url>
-            <r:if_url matches="^/meetings/\d{4}/\d{2}/\d{2}/.+$"><r:unless_url matches="-archives/$"><r:snippet name="sponsors" /><div class="vevent"></r:unless_url></r:if_url>
+            <% unless_url %r{^/$} do %>
+              <h1><%= current_page.data.title %></h1>
+            <% end %>
+            <% if_url %r{^/meetings/\d{4}/\d{2}/\d{2}/.+$} do %>
+              <% unless_url %r{-archives/$} do %>
+                <%= yield_content :sponsors %><div class="vevent">
+              <% end %>
+            <% end %>
             <%= yield %>
-            <r:if_content part="extended">
-            <div id="extended">
-              <r:content part="extended" />
-            </div>
-            </r:if_content>
-            <r:if_url matches="^/meetings/\d{4}/\d{2}/\d{2}/.+$"><r:unless_url matches="-archives/$"></div></r:unless_url></r:if_url>
-            <r:if_url matches="^/podcasts/\d{4}/\d{2}/\d{2}/.+"><r:unless_url matches="-podcasts/$"><r:content part="download_link" inherit="true"/></r:unless_url></r:if_url>
-            <r:if_url matches="^/(meetings|podcasts)/\d{4}/\d{2}/\d{2}/.+"><r:unless_url matches="-(meetings|podcasts)/$"><p class="info">Posted by <r:author /> on <r:date /></p></r:unless_url></r:if_url>
+            <% if content_for?(:extended) %>
+              <div id="extended">
+                <%= yield_content :extended %>
+              </div>
+            <% end %>
+            <% if_url %r{^/meetings/\d{4}/\d{2}/\d{2}/.+$} do %>
+              <% unless_url %r{-archives/$} do %>
+                </div>
+              <% end %>
+            <% end %>
+            <% if_url %r{^/podcasts/\d{4}/\d{2}/\d{2}/.+"} do %>
+              <% unless_url %r{-podcasts/$} do %>
+                <%= yield_content :download_link %>
+              <% end %>
+            <% end %>
+            <% if_url %r{^/(meetings|podcasts)/\d{4}/\d{2}/\d{2}/.+} do %>
+              <% unless_url %r{"-(meetings|podcasts)/$} do %>
+                <p class="info">Posted by <%= current_page.data.author %> on <%= current_page.data.date %></p>
+              <% end %>
+            <% end %>
           </div>
         </div>
         <div id="sidebar-wrapper">
