@@ -1,0 +1,12 @@
+<h3><%= image_tag 'http://assets.lrug.org/images/el-rug-sidebar.png', alt: 'El Rug' %></h3>
+
+<ul>
+  <li><%= link_to 'About us', '/about/' %></li>
+  <li><%= link_to 'Want to speak?', '/speaking/' %></li>
+</ul>
+
+<% if content_for? :sidebar %>
+  <%= yield_content :sidebar %>
+<% else %>
+  <%= partial 'default_sidebar' %>
+<% end %>
