@@ -1,0 +1,20 @@
+--- 
+parts: 
+- extended
+updated_at: 2013-02-12 23:09:30 Z
+creatd_by: 
+  login: abscond
+  email: james@abscond.org
+  name: James Darling
+slug: episode-technical-difficulties-normal-viewing-will-resume-shortly
+created_at: 2010-06-28 12:18:53 Z
+breadcrumb: Episode... technical difficulties, normal viewing will resume shortly
+published_at: 2010-06-28 05:18:53 Z
+status: Published
+class_name: ""
+---
+
+It looks like we've lost Mitch Buchannon. My sources tell me he'll be in the [Strongroom Bar][1], 6:30pm tonight, Monday 28th June 2010. [All American Beers][2]. We'd better get there for then.
+
+[1]:http://www.fancyapint.com/pubs/pub2927.php
+[2]:http://events.myspace.com/External/Share/Event/View/4448162

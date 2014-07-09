@@ -1,0 +1,38 @@
+--- 
+parts: []
+
+updated_at: 2013-02-12 23:09:17 Z
+creatd_by: 
+  login: hlame
+  email: murray.steele@gmail.com
+  name: Murray Steele
+slug: book-reviews
+created_at: 2007-06-19 21:11:10 Z
+breadcrumb: book reviews
+published_at: 2007-06-19 14:11:10 Z
+status: Published
+class_name: ""
+---
+
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>Article RSS Feed</title>
+    <link>http://lrug.org/book-reviews/</link>
+    <language>en-us</language>
+    <ttl>40</ttl>
+    <description>LRUG.org London Ruby User Group : Book Reviews</description>
+    <r:find url="/book-reviews/">
+    <r:children:each limit="10" order="desc">
+        <item>
+          <title><r:title /></title>
+          <description><r:escape_html><r:content /></r:escape_html></description>
+          <pubDate><r:rfc1123_date /></pubDate>
+          <guid>http://lrug.org<r:url /></guid>
+          <link>http://lrug.org<r:url /></link>
+        </item>
+    </r:children:each>
+    </r:find>
+  </channel>
+</rss>
+
