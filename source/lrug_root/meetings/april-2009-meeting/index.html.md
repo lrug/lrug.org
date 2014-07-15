@@ -1,17 +1,18 @@
 --- 
-created_at: 2009-03-23 23:05:57 Z
 published_at: 2009-03-23 16:05:57 Z
-status: Published
+title: April 2009 Meeting
+created_at: 2009-03-23 23:05:57 Z
 slug: april-2009-meeting
+breadcrumb: April 2009 Meeting
 parts: []
 
-class_name: ""
+updated_at: 2013-02-12 23:09:25 Z
+status: Published
 created_by: 
   email: murray.steele@gmail.com
   login: hlame
   name: Murray Steele
-breadcrumb: April 2009 Meeting
-updated_at: 2013-02-12 23:09:25 Z
+class_name: ""
 ---
 
 The next meeting of LRUG will be on Monday the 20th of April, from 6:30pm to 8:00pm.  As usual our hosts [Skills Matter](http://skillsmatter.com/) will provide the space at [their overflow venue](http://skillsmatter.com/location-details/home/326/23) (if you've never been you can use this [handy map](http://maps.google.co.uk/maps/ms?ie=UTF8&hl=en&msa=0&msid=110079876098346406496.000447c8b0590d82aef55&ll=51.523551,-0.105325&spn=0.00534,0.009109&z=17) to find it).  On very busy nights we've had to turn people away, so make sure that you do <a href="#apr09registration">register your attendance early</a> to avoid this. 

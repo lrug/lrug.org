@@ -1,17 +1,18 @@
 --- 
-created_at: 2009-05-08 10:52:51 Z
 published_at: 2009-05-08 03:53:06 Z
-status: Published
+title: "Episode #16: The Curator"
+created_at: 2009-05-08 10:52:51 Z
 slug: episode-16-the-curator
+breadcrumb: "Episode #16: The Curator"
 parts: 
 - extended
-class_name: ""
+updated_at: 2013-02-12 23:09:25 Z
+status: Published
 created_by: 
   email: ""
   login: mitchb
   name: Mitch Buchannon
-breadcrumb: "Episode #16: The Curator"
-updated_at: 2013-02-12 23:09:25 Z
+class_name: ""
 ---
 
 A deranged man has taken a fancy to lifeguard Caroline Holden and has made many advances. She resisted, but he has captured her - locked her in a cage furnished like her apartment.

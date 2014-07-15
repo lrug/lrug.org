@@ -1,17 +1,18 @@
 --- 
-created_at: 2009-11-22 18:22:28 Z
 published_at: 2009-11-22 10:22:28 Z
-status: Published
+title: December 2009 Meeting
+created_at: 2009-11-22 18:22:28 Z
 slug: december-2009-meeting
+breadcrumb: December 2009 Meeting
 parts: 
 - sponsors
-class_name: ""
+updated_at: 2013-02-12 23:09:27 Z
+status: Published
 created_by: 
   email: murray.steele@gmail.com
   login: hlame
   name: Murray Steele
-breadcrumb: December 2009 Meeting
-updated_at: 2013-02-12 23:09:27 Z
+class_name: ""
 ---
 
 The next meeting of LRUG will be on Wednesday the 9th of December, from 6:30pm to 8:00pm.  Our hosts [Skills Matter](http://skillsmatter.com/) will provide the space, at our new venue [The Crypt](http://skillsmatter.com/location-details/home/166/26) (it's very close to our previous venues).  Despite the new venue it's still important for people to <a href="#dec09registration">register</a> so Skills Matter know how many people to expect and set the room up correctly.

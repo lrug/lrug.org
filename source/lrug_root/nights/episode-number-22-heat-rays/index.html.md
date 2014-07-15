@@ -1,17 +1,18 @@
 --- 
-created_at: 2012-06-26 12:56:07 Z
 published_at: 2012-06-26 00:00:00 Z
-status: Published
+title: "Episode #22: Heat Rays"
+created_at: 2012-06-26 12:56:07 Z
 slug: episode-22-heat-rays
+breadcrumb: "Episode #22: Heat Rays"
 parts: []
 
-class_name: ""
+updated_at: 2013-02-12 23:09:36 Z
+status: Published
 created_by: 
   email: murray.steele@gmail.com
   login: hlame
   name: Murray Steele
-breadcrumb: "Episode #22: Heat Rays"
-updated_at: 2013-02-12 23:09:36 Z
+class_name: ""
 ---
 
 [Tim Cowlishaw](http://twitter.com/mistertim/) wants to pretend he's at the [Scottish Ruby Conference](http://scottishrubyconference.com/) by drinking whisky in a pub in London and chatting about Ruby.  It'll be just like being there:

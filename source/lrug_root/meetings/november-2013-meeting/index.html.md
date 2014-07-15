@@ -1,21 +1,22 @@
 --- 
-created_at: 2013-10-25 16:13:09 Z
 published_at: 2013-10-30 12:18:41 Z
-status: Published
-slug: november-2013-meeting
 updated_by: 
   email: murray.steele@gmail.com
   login: hlame
   name: Murray Steele
+title: November 2013 Meeting
+created_at: 2013-10-25 16:13:09 Z
+slug: november-2013-meeting
+breadcrumb: November 2013 Meeting
 parts: []
 
-class_name: ""
+updated_at: 2013-10-30 12:18:41 Z
+status: Published
 created_by: 
   email: murray.steele@gmail.com
   login: hlame
   name: Murray Steele
-breadcrumb: November 2013 Meeting
-updated_at: 2013-10-30 12:18:41 Z
+class_name: ""
 ---
 
 The November 2013 meeting of LRUG will be on *Monday the 11th of November*, from 6:30pm to 8:00pm.  Our hosts [Skills Matter](http://skillsmatter.com/) will be providing the space, at their offices on Goswell Road; [The Skills Matter eXchange](http://skillsmatter.com/location-details/design-architecture/484/96).  <a href="#nov13registration">Registration details are given below</a>.

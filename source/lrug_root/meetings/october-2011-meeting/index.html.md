@@ -1,17 +1,18 @@
 --- 
-created_at: 2011-09-26 08:34:55 Z
 published_at: 2011-09-26 01:34:55 Z
-status: Published
+title: October 2011 Meeting
+created_at: 2011-09-26 08:34:55 Z
 slug: october-2011-meeting
+breadcrumb: October 2011 Meeting
 parts: []
 
-class_name: ""
+updated_at: 2013-02-12 23:09:34 Z
+status: Published
 created_by: 
   email: murray.steele@gmail.com
   login: hlame
   name: Murray Steele
-breadcrumb: October 2011 Meeting
-updated_at: 2013-02-12 23:09:34 Z
+class_name: ""
 ---
 
 The October 2011 meeting of LRUG will be on *Monday* the 10th of October, from 6:30pm to 8:00pm.  Our hosts [Skills Matter](http://skillsmatter.com/) will be providing the space, at their offices on Goswell Road; [The Skills Matter eXchange](http://skillsmatter.com/location-details/design-architecture/484/96).  It's a great space with plenty of room for the group, but you still need to <a href="#oct11registration">register to let Skills Matter know you are coming</a>.

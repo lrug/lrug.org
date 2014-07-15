@@ -1,17 +1,18 @@
 --- 
-created_at: 2010-04-26 11:09:07 Z
 published_at: 2010-04-28 07:43:45 Z
-status: Published
+title: May 2010 Meeting
+created_at: 2010-04-26 11:09:07 Z
 slug: may-2010-meeting
+breadcrumb: May 2010 Meeting
 parts: 
 - sponsors
-class_name: ""
+updated_at: 2013-02-12 23:09:29 Z
+status: Published
 created_by: 
   email: murray.steele@gmail.com
   login: hlame
   name: Murray Steele
-breadcrumb: May 2010 Meeting
-updated_at: 2013-02-12 23:09:29 Z
+class_name: ""
 ---
 
 The May meeting will be on Wednesday the 12th of May, from <strike>6:30pm to 8:00pm</strike><strong>7:00pm to 8:30pm</strong>.  Our hosts [Skills Matter](http://skillsmatter.com/) will be providing the space, at their offices on Goswell Road; [The Skills Matter eXchange](http://skillsmatter.com/location-details/design-architecture/484/96).  It's a great space with plenty of room for the group, but you still need to <a href="#may10registration">register to let Skills Matter know you are coming</a>.

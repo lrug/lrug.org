@@ -1,17 +1,18 @@
 --- 
-created_at: 2009-06-10 09:57:52 Z
 published_at: 2009-06-10 02:57:52 Z
-status: Published
+title: Tips For Speakers
+created_at: 2009-06-10 09:57:52 Z
 slug: tips-for-speakers
+breadcrumb: Tips For Speakers
 parts: []
 
-class_name: ""
+updated_at: 2013-02-12 23:09:26 Z
+status: Published
 created_by: 
   email: murray.steele@gmail.com
   login: hlame
   name: Murray Steele
-breadcrumb: Tips For Speakers
-updated_at: 2013-02-12 23:09:26 Z
+class_name: ""
 ---
 
 <div style="border: 1px dashed red; padding: 0.5em;">

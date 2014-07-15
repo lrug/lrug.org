@@ -1,17 +1,18 @@
 --- 
-created_at: 2012-11-28 13:04:20 Z
 published_at: 2012-11-28 00:00:00 Z
-status: Published
+title: December 2012 Meeting
+created_at: 2012-11-28 13:04:20 Z
 slug: december-2012-meeting
+breadcrumb: December 2012 Meeting
 parts: []
 
-class_name: ""
+updated_at: 2013-02-12 23:09:37 Z
+status: Published
 created_by: 
   email: murray.steele@gmail.com
   login: hlame
   name: Murray Steele
-breadcrumb: December 2012 Meeting
-updated_at: 2013-02-12 23:09:37 Z
+class_name: ""
 ---
 
 The December 2012 meeting of LRUG will be on *Monday* the 10th of December, from 6:30pm to 8:00pm.  Our hosts [Skills Matter](http://skillsmatter.com/) will be providing the space, at their offices on Goswell Road; [The Skills Matter eXchange](http://skillsmatter.com/location-details/design-architecture/484/96).  <a href="#dec12registration">Registration details are given below</a>.

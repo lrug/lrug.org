@@ -1,17 +1,18 @@
 --- 
-created_at: 2008-01-14 15:26:08 Z
 published_at: 2008-01-14 07:26:08 Z
-status: Published
+title: January 2008 Emergency Backup Meeting
+created_at: 2008-01-14 15:26:08 Z
 slug: january-2008-emergency-backup-meeting
+breadcrumb: January 2008 Emergency Backup Meeting
 parts: []
 
-class_name: ""
+updated_at: 2013-02-12 23:09:20 Z
+status: Published
 created_by: 
   email: murray.steele@gmail.com
   login: hlame
   name: Murray Steele
-breadcrumb: January 2008 Emergency Backup Meeting
-updated_at: 2013-02-12 23:09:20 Z
+class_name: ""
 ---
 
 Due to organisational problems, the proposed January Pub Quiz (we're trying to start a [tradition](/meetings/2006/12/07/january-2007-pub-quiz-meeting/)) has been postponed until a later date.  It'll probably be run in March as a special [LRUG Nights](/nights/).

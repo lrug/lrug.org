@@ -1,17 +1,18 @@
 --- 
-created_at: 2008-06-19 12:26:44 Z
 published_at: 2008-06-19 05:26:44 Z
-status: Published
+title: "Episode #8: \"Balancing Act\""
+created_at: 2008-06-19 12:26:44 Z
 slug: episode-8-balancing-act
+breadcrumb: "Episode #8: \"Balancing Act\""
 parts: 
 - extended
-class_name: ""
+updated_at: 2013-02-12 23:09:22 Z
+status: Published
 created_by: 
   email: ""
   login: mitchb
   name: Mitch Buchannon
-breadcrumb: "Episode #8: \"Balancing Act\""
-updated_at: 2013-02-12 23:09:22 Z
+class_name: ""
 ---
 
 Episode 8 of LRUG Nights will take place at the ["The Princess Louise "](http://www.fancyapint.com/pubs/pub482.html) on Thursday June 26th.

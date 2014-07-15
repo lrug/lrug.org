@@ -1,17 +1,18 @@
 --- 
-created_at: 2008-06-12 14:47:16 Z
 published_at: 2008-06-19 04:57:52 Z
-status: Published
+title: July 2008 Meeting
+created_at: 2008-06-12 14:47:16 Z
 slug: july-2008-meeting
+breadcrumb: July 2008 Meeting
 parts: []
 
-class_name: ""
+updated_at: 2013-02-12 23:09:22 Z
+status: Published
 created_by: 
   email: murray.steele@gmail.com
   login: hlame
   name: Murray Steele
-breadcrumb: July 2008 Meeting
-updated_at: 2013-02-12 23:09:22 Z
+class_name: ""
 ---
 
 The next meeting of LRUG will be on Monday the 14th of July, from 6:30pm to 8:00pm.  It's very likely it will held be in the [Skills Matter](http://www.skillsmatter.com/) overflow venue at [The Old Sessions House](http://www.sessionshouse.com/) on [Clerkenwell Green](http://tinyurl.com/2bjjzz).  Please do <a href="#registration">register your attendance</a> early (see the note about <a href="#registration">registration</a> below).

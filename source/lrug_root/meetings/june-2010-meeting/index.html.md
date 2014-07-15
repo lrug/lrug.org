@@ -1,17 +1,18 @@
 --- 
-created_at: 2010-05-25 22:06:53 Z
 published_at: 2010-05-25 15:06:53 Z
-status: Published
+title: June 2010 Meeting
+created_at: 2010-05-25 22:06:53 Z
 slug: june-2010-meeting
+breadcrumb: June 2010 Meeting
 parts: 
 - sponsors
-class_name: ""
+updated_at: 2013-02-12 23:09:29 Z
+status: Published
 created_by: 
   email: murray.steele@gmail.com
   login: hlame
   name: Murray Steele
-breadcrumb: June 2010 Meeting
-updated_at: 2013-02-12 23:09:29 Z
+class_name: ""
 ---
 
 The June meeting will be on *Monday* the 14th of June, from 6:30pm to 8:00pm.  Our hosts [Skills Matter](http://skillsmatter.com/) will be providing the space, at their offices on Goswell Road; [The Skills Matter eXchange](http://skillsmatter.com/location-details/design-architecture/484/96).  It's a great space with plenty of room for the group, but you still need to <a href="#jun10registration">register to let Skills Matter know you are coming</a>.

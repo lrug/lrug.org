@@ -1,17 +1,18 @@
 --- 
-created_at: 2007-04-04 14:56:27 Z
 published_at: 2007-04-04 07:59:41 Z
-status: Published
+title: April 2007 Meeting
+created_at: 2007-04-04 14:56:27 Z
 slug: april-2007-meeting
+breadcrumb: April 2007 Meeting
 parts: []
 
-class_name: ""
+updated_at: 2013-02-12 23:09:14 Z
+status: Published
 created_by: 
   email: murray.steele@gmail.com
   login: hlame
   name: Murray Steele
-breadcrumb: April 2007 Meeting
-updated_at: 2013-02-12 23:09:14 Z
+class_name: ""
 ---
 
 The next meeting of LRUG will be on Monday the 16th of April, from 6:30pm to 8:00pm at our usual [Skills Matter](http://www.skillsmatter.com/) venue at [1 Sekforde St.](http://maps.google.co.uk/maps?f=q&hl=en&q=EC1R+0BE&layer=&ie=UTF8&z=16&om=1&iwloc=addr).
@@ -28,6 +29,7 @@ First up, [Paolo Don&agrave;](http://paolodona.blogspot.com/) will be giving his
 ### REST Discussion
 
 Following that we'll have a REST discussion, chaired by [Jonathan Leighton](http://turnipspatch.com/), about the new RESTful features that Rails 1.2 brings us.  There were two long threads on the [LRUG mailing list](http://lists.lrug.org/listinfo.cgi/chat-lrug.org) that sparked this off, so you should read them for an idea of what we might cover.
+
 * [The original thread](http://lists.lrug.org/pipermail/chat-lrug.org/2007-February/000916.html)
 * [The follow up](http://lists.lrug.org/pipermail/chat-lrug.org/2007-March/000981.html)
 * [A sample agenda for the discussion](http://www.asklater.com/steve/blog/?p=81)

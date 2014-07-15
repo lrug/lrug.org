@@ -1,17 +1,18 @@
 --- 
-created_at: 2011-08-22 14:01:20 Z
 published_at: 2011-08-22 07:01:43 Z
-status: Published
+title: Episode 'And again'
+created_at: 2011-08-22 14:01:20 Z
 slug: episode-and-again
+breadcrumb: Episode 'And again'
 parts: 
 - extended
-class_name: ""
+updated_at: 2013-02-12 23:09:33 Z
+status: Published
 created_by: 
   email: james@abscond.org
   login: abscond
   name: James Darling
-breadcrumb: Episode 'And again'
-updated_at: 2013-02-12 23:09:33 Z
+class_name: ""
 ---
 
 Come join some of the LRUG regulars in [The Water Poet][1] on Monday 22nd August, 2011.

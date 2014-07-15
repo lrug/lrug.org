@@ -1,17 +1,18 @@
 --- 
-created_at: 2007-07-23 22:00:13 Z
 published_at: 2007-07-23 15:00:13 Z
-status: Published
+title: August 2007 Meeting
+created_at: 2007-07-23 22:00:13 Z
 slug: august-2007-meeting
+breadcrumb: August 2007 Meeting
 parts: []
 
-class_name: ""
+updated_at: 2013-02-12 23:09:18 Z
+status: Published
 created_by: 
   email: murray.steele@gmail.com
   login: hlame
   name: Murray Steele
-breadcrumb: August 2007 Meeting
-updated_at: 2013-02-12 23:09:18 Z
+class_name: ""
 ---
 
 The next meeting of LRUG will be on Monday the 13th of August, from 6:30pm to 8:00pm at our usual [Skills Matter](http://www.skillsmatter.com/) venue at [1 Sekforde St.](http://maps.google.co.uk/maps?f=q&hl=en&q=EC1R+0BE&layer=&ie=UTF8&z=16&om=1&iwloc=addr).

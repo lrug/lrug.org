@@ -1,17 +1,18 @@
 --- 
-created_at: 2008-10-24 07:39:19 Z
 published_at: 2008-10-24 00:39:19 Z
-status: Published
+title: "Episode #11: Takeover"
+created_at: 2008-10-24 07:39:19 Z
 slug: episode-11-takeover
+breadcrumb: "Episode #11: Takeover"
 parts: 
 - extended
-class_name: ""
+updated_at: 2013-02-12 23:09:23 Z
+status: Published
 created_by: 
   email: ""
   login: mitchb
   name: Mitch Buchannon
-breadcrumb: "Episode #11: Takeover"
-updated_at: 2013-02-12 23:09:23 Z
+class_name: ""
 ---
 
 Episode 11 of LRUG Nights will take place at the ["Champion"](http://www.fancyapint.com/pubs/pub1035.html), Wells Street on Wednesday October 29th at 6:30pm.

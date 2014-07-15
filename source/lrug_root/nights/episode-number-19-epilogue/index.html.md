@@ -1,17 +1,18 @@
 --- 
-created_at: 2009-12-14 09:55:07 Z
 published_at: 2009-12-14 02:04:30 Z
-status: Published
+title: "Episode #19: Epilogue"
+created_at: 2009-12-14 09:55:07 Z
 slug: episode-19-epilogue
+breadcrumb: "Episode #19: Epilogue"
 parts: []
 
-class_name: ""
+updated_at: 2013-02-12 23:09:27 Z
+status: Published
 created_by: 
   email: murray.steele@gmail.com
   login: hlame
   name: Murray Steele
-breadcrumb: "Episode #19: Epilogue"
-updated_at: 2013-02-12 23:09:27 Z
+class_name: ""
 ---
 
 Episode 19 of LRUG Nights will take place on Wednesday January 6th 2010.

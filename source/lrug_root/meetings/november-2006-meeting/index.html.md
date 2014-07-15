@@ -1,17 +1,18 @@
 --- 
-created_at: 2006-10-23 10:07:17 Z
 published_at: 2006-10-23 03:07:58 Z
-status: Published
+title: November 2006 Meeting
+created_at: 2006-10-23 10:07:17 Z
 slug: november-2006-meeting
+breadcrumb: November 2006 Meeting
 parts: []
 
-class_name: ""
+updated_at: 2013-02-12 23:09:13 Z
+status: Published
 created_by: 
   email: rob_m_mckinnon@yahoo.com
   login: robmckinnon
   name: Rob McKinnon
-breadcrumb: November 2006 Meeting
-updated_at: 2013-02-12 23:09:13 Z
+class_name: ""
 ---
 
 Our next meeting will be on Monday November 13, 6:30-8pm. We've got two great speakers lined up.

@@ -1,17 +1,18 @@
 --- 
-created_at: 2008-11-18 18:54:11 Z
 published_at: 2008-11-18 11:04:40 Z
-status: Published
+title: "Episode #12: Thin Blood"
+created_at: 2008-11-18 18:54:11 Z
 slug: episode-12-thin-blood
+breadcrumb: "Episode #12: Thin Blood"
 parts: 
 - extended
-class_name: ""
+updated_at: 2013-02-12 23:09:23 Z
+status: Published
 created_by: 
   email: ""
   login: mitchb
   name: Mitch Buchannon
-breadcrumb: "Episode #12: Thin Blood"
-updated_at: 2013-02-12 23:09:23 Z
+class_name: ""
 ---
 
 As some of you may be aware, Ryan's younger sister, Charlie, has been kidnapped. I need El Rug's help to get her back.

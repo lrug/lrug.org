@@ -1,17 +1,18 @@
 --- 
-created_at: 2009-09-18 15:35:50 Z
 published_at: 2009-09-18 08:35:50 Z
-status: Published
+title: October 2009 Meeting
+created_at: 2009-09-18 15:35:50 Z
 slug: october-2009-meeting
+breadcrumb: October 2009 Meeting
 parts: 
 - sponsors
-class_name: ""
+updated_at: 2013-02-12 23:09:27 Z
+status: Published
 created_by: 
   email: murray.steele@gmail.com
   login: hlame
   name: Murray Steele
-breadcrumb: October 2009 Meeting
-updated_at: 2013-02-12 23:09:27 Z
+class_name: ""
 ---
 
 The next meeting of LRUG will be on Wednesday the 14th of October, from 6:30pm to 8:00pm.  Our hosts [Skills Matter](http://skillsmatter.com/) will provide the space, at our new venue [The Crypt](http://skillsmatter.com/location-details/home/166/26) (it's very close to our previous venues).  We still need people to <a href="#oct09registration">register</a> though to make sure the room is set up properly.

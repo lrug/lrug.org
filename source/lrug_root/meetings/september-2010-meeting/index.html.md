@@ -1,17 +1,18 @@
 --- 
-created_at: 2010-08-25 16:19:41 Z
 published_at: 2010-08-25 09:19:41 Z
-status: Published
+title: September 2010 Meeting
+created_at: 2010-08-25 16:19:41 Z
 slug: september-2010-meeting
+breadcrumb: September 2010 Meeting
 parts: 
 - sponsors
-class_name: ""
+updated_at: 2013-02-12 23:09:31 Z
+status: Published
 created_by: 
   email: murray.steele@gmail.com
   login: hlame
   name: Murray Steele
-breadcrumb: September 2010 Meeting
-updated_at: 2013-02-12 23:09:31 Z
+class_name: ""
 ---
 
 The September meeting will be on *Monday* the 13th of September, from 6:30pm to 8:00pm.  Our hosts [Skills Matter](http://skillsmatter.com/) will be providing the space, at their offices on Goswell Road; [The Skills Matter eXchange](http://skillsmatter.com/location-details/design-architecture/484/96).  It's a great space with plenty of room for the group, but you still need to <a href="#sep10registration">register to let Skills Matter know you are coming</a>.

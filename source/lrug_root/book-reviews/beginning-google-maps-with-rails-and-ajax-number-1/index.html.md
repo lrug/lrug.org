@@ -1,17 +1,18 @@
 --- 
-created_at: 2007-05-25 09:52:29 Z
 published_at: 2007-05-25 05:15:26 Z
-status: Published
+title: "Beginning Google Maps with Rails and AJAX #1"
+created_at: 2007-05-25 09:52:29 Z
 slug: beginning-google-maps-with-rails-and-ajax-1
+breadcrumb: "Beginning Google Maps with Rails and AJAX #1"
 parts: 
 - extended
-class_name: ""
+updated_at: 2013-02-12 23:09:15 Z
+status: Published
 created_by: 
   email: murray.steele@gmail.com
   login: hlame
   name: Murray Steele
-breadcrumb: "Beginning Google Maps with Rails and AJAX #1"
-updated_at: 2013-02-12 23:09:15 Z
+class_name: ""
 ---
 
 Graham Seaman reviews his copy of ['Beginning Google Maps Applications with Rails and Ajax - from novice to

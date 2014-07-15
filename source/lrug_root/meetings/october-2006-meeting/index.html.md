@@ -1,17 +1,18 @@
 --- 
-created_at: 2006-09-22 11:20:17 Z
 published_at: 2006-09-22 04:24:04 Z
-status: Published
+title: October 2006 Meeting
+created_at: 2006-09-22 11:20:17 Z
 slug: october-2006-meeting
+breadcrumb: October 2006 Meeting
 parts: []
 
-class_name: ""
+updated_at: 2013-02-12 23:09:13 Z
+status: Published
 created_by: 
   email: rob_m_mckinnon@yahoo.com
   login: robmckinnon
   name: Rob McKinnon
-breadcrumb: October 2006 Meeting
-updated_at: 2013-02-12 23:09:13 Z
+class_name: ""
 ---
 
 Our next meeting will be on Monday October 9, 6:30-8pm. 

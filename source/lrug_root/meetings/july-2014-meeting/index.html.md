@@ -1,21 +1,22 @@
 --- 
-created_at: 2014-06-24 20:09:56 Z
 published_at: 2014-06-23 23:00:00 Z
-status: Published
-slug: july-2014-meeting
 updated_by: 
   email: murray.steele@gmail.com
   login: hlame
   name: Murray Steele
+title: July 2014 Meeting
+created_at: 2014-06-24 20:09:56 Z
+slug: july-2014-meeting
+breadcrumb: July 2014 Meeting
 parts: []
 
-class_name: ""
+updated_at: 2014-06-29 17:27:15 Z
+status: Published
 created_by: 
   email: murray.steele@gmail.com
   login: hlame
   name: Murray Steele
-breadcrumb: July 2014 Meeting
-updated_at: 2014-06-29 17:27:15 Z
+class_name: ""
 ---
 
 The July 2014 meeting of LRUG will be on *Monday the 14th of July*, from 6:30pm to 8:00pm.  Our hosts [Skills Matter](http://skillsmatter.com/) will be providing the space, at their offices on Goswell Road; [The Skills Matter eXchange](https://skillsmatter.com/locations/96-skills-matter-exchange).  <a href="#jul14registration">Registration details are given below</a>.

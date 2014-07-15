@@ -1,17 +1,18 @@
 --- 
-created_at: 2010-03-19 20:40:24 Z
 published_at: 2010-03-19 13:40:24 Z
-status: Published
+title: "Episode #20: Rendezvous"
+created_at: 2010-03-19 20:40:24 Z
 slug: episode-20-rendezvous
+breadcrumb: "Episode #20: Rendezvous"
 parts: []
 
-class_name: ""
+updated_at: 2013-02-12 23:09:28 Z
+status: Published
 created_by: 
   email: murray.steele@gmail.com
   login: hlame
   name: Murray Steele
-breadcrumb: "Episode #20: Rendezvous"
-updated_at: 2013-02-12 23:09:28 Z
+class_name: ""
 ---
 
 Episode 20 of LRUG Nights will take place on Tuesday, March 30th 2010.

@@ -1,17 +1,18 @@
 --- 
-created_at: 2010-02-16 22:50:25 Z
 published_at: 2010-02-19 01:51:34 Z
-status: Published
+title: March 2010 Meeting
+created_at: 2010-02-16 22:50:25 Z
 slug: march-2010-meeting
+breadcrumb: March 2010 Meeting
 parts: 
 - sponsors
-class_name: ""
+updated_at: 2013-02-12 23:09:28 Z
+status: Published
 created_by: 
   email: murray.steele@gmail.com
   login: hlame
   name: Murray Steele
-breadcrumb: March 2010 Meeting
-updated_at: 2013-02-12 23:09:28 Z
+class_name: ""
 ---
 
 The March meeting will be on Wednesday the 10th of March, from 6:30pm to 8:00pm.  Our hosts [Skills Matter](http://skillsmatter.com/) will be providing the space, at their new offices on Goswell Road; [The Skills Matter eXchange](http://skillsmatter.com/location-details/design-architecture/484/96).  It's a great new space and we there won't be the problems we've had in the past with fitting people in, but you still need to <a href="#mar10registration">register to let Skills Matter know you are coming</a>.

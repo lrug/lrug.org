@@ -1,20 +1,21 @@
 --- 
-created_at: 2011-02-01 21:42:39 Z
 published_at: 2011-02-01 13:43:28 Z
-status: Published
+title: "Episode #5: Abdel Saleh"
+created_at: 2011-02-01 21:42:39 Z
 slug: episode-5-abdel-saleh
+breadcrumb: "Episode #5: Abdel Saleh"
 parts: 
 - file_url
 - duration
 - file_size
 - keywords
-class_name: ""
+updated_at: 2013-02-12 23:09:32 Z
+status: Published
 created_by: 
   email: chris.lowis@gmail.com
   login: chrislowis
   name: Chris Lowis
-breadcrumb: "Episode #5: Abdel Saleh"
-updated_at: 2013-02-12 23:09:32 Z
+class_name: ""
 ---
 
 <p>In this episode I'm joined by Abdel Saleh of <a href="http://said.fm">said.fm</a> a Radio and Podcast recommendation and curation startup. Abdel has been involved in the London Ruby community for many years and we cover a lot of ground in this interview - from transitioning from Java to Ruby in Finance, through Machine Learning and computation on AWS clusters to the ins- and outs of getting a startup off the ground both here and in Silicon Valley. </p>

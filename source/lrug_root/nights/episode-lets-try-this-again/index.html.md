@@ -1,17 +1,18 @@
 --- 
-created_at: 2011-03-14 10:44:05 Z
 published_at: 2011-03-14 03:44:05 Z
-status: Published
+title: Episode "let's try this again"
+created_at: 2011-03-14 10:44:05 Z
 slug: episode-lets-try-this-again
+breadcrumb: Episode "let's try this again"
 parts: []
 
-class_name: ""
+updated_at: 2013-02-12 23:09:32 Z
+status: Published
 created_by: 
   email: murray.steele@gmail.com
   login: hlame
   name: Murray Steele
-breadcrumb: Episode "let's try this again"
-updated_at: 2013-02-12 23:09:32 Z
+class_name: ""
 ---
 
 [James Darling](http://twitter.com/abscond/) is making a brave effort to restart these [LRUG Nights](/nights).  Come join some of the [LRUG](/) regulars in [The Old Kings Head](http://www.fancyapint.com/pubs/pub437.php) on Tuesday 22nd March, 2011. 

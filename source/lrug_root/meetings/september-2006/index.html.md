@@ -1,17 +1,18 @@
 --- 
-created_at: 2006-09-05 11:51:51 Z
 published_at: 2006-09-05 04:51:51 Z
-status: Published
+title: September 2006
+created_at: 2006-09-05 11:51:51 Z
 slug: september-2006
+breadcrumb: September 2006
 parts: 
 - extended
-class_name: ""
+updated_at: 2013-02-12 23:09:12 Z
+status: Published
 created_by: 
   email: james@lazyatom.com
   login: lazyatom
   name: James Adam
-breadcrumb: September 2006
-updated_at: 2013-02-12 23:09:12 Z
+class_name: ""
 ---
 
 Last night Alex Bradbury gave a great presentation on [ARIEL](http://ariel.rubyforge.org/), A Ruby

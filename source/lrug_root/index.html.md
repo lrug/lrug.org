@@ -1,21 +1,22 @@
 --- 
-created_at: 2006-09-05 11:38:34 Z
 published_at: 2006-09-04 23:00:00 Z
-status: Published
-slug: /
 updated_by: 
   email: murray.steele@gmail.com
   login: hlame
   name: Murray Steele
+title: LRUG
+created_at: 2006-09-05 11:38:34 Z
+slug: /
+breadcrumb: Home
 parts: 
 - sidebar
-class_name: ""
+updated_at: 2014-06-09 13:15:18 Z
+status: Published
 created_by: 
   email: james@lazyatom.com
   login: lazyatom
   name: James Adam
-breadcrumb: Home
-updated_at: 2014-06-09 13:15:18 Z
+class_name: ""
 ---
 
 <r:find url="/meetings/">

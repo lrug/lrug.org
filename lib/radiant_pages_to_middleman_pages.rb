@@ -22,7 +22,7 @@ def user_to_hash(user)
 end
 
 def attrs_to_frontmatter(page)
-  page.attributes.slice('published_at', 'updated_at', 'slug', 'class_name', 'breadcrumb', 'created_at').tap do |frontmatter|
+  page.attributes.slice('published_at', 'updated_at', 'slug', 'class_name', 'breadcrumb', 'created_at', 'title').tap do |frontmatter|
     frontmatter['status'] = page.status.name
     frontmatter['created_by'] = user_to_hash(page.created_by) unless page.created_by.nil?
     frontmatter['updated_by'] = user_to_hash(page.updated_by) unless page.updated_by.nil?
