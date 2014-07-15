@@ -19,14 +19,21 @@ module LRUGHelpers
   end
 
   def with_children_of(page, args = {}, &html_block)
-    all_children = page.children
-    start = args[:offset] || 0
-    stop = if args[:limit]
-        start + args[:limit] -1
-      else
-        -1
-      end
-    all_children[start..stop].each { |child| concat_content(capture_html(child, &html_block)) }
+    # offset / limit do the right thing if given nil
+    ChildrenQuery.new(page).
+      offset(args[:offset]).
+      limit(args[:limit]).
+      all.
+      each { |child| concat_content(capture_html(child, &html_block)) }
+  end
+
+  class ChildrenQuery
+    def initialize(page)
+      @page = page
+      @resources = page.children
+    end
+    attr_reader :resources
+    include ::Middleman::Sitemap::Queryable::API
   end
 
   def date_format(date, format)
