@@ -1,17 +1,17 @@
 --- 
-parts: 
-- extended
-updated_at: 2013-02-12 23:09:25 Z
-creatd_by: 
-  login: mitchb
-  email: ""
-  name: Mitch Buchannon
-slug: episode-15-thief-in-the-night
 created_at: 2009-03-23 18:38:20 Z
-breadcrumb: "Episode #15: Thief in the Night"
 published_at: 2009-03-23 11:39:06 Z
 status: Published
+slug: episode-15-thief-in-the-night
+parts: 
+- extended
 class_name: ""
+created_by: 
+  email: ""
+  login: mitchb
+  name: Mitch Buchannon
+breadcrumb: "Episode #15: Thief in the Night"
+updated_at: 2013-02-12 23:09:25 Z
 ---
 
 Word up brethren.

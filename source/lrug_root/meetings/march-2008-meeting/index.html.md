@@ -1,17 +1,17 @@
 --- 
-parts: []
-
-updated_at: 2013-02-12 23:09:20 Z
-creatd_by: 
-  login: hlame
-  email: murray.steele@gmail.com
-  name: Murray Steele
-slug: march-2008-meeting
 created_at: 2008-02-19 19:16:14 Z
-breadcrumb: March 2008 Meeting
 published_at: 2008-02-19 11:16:14 Z
 status: Published
+slug: march-2008-meeting
+parts: []
+
 class_name: ""
+created_by: 
+  email: murray.steele@gmail.com
+  login: hlame
+  name: Murray Steele
+breadcrumb: March 2008 Meeting
+updated_at: 2013-02-12 23:09:20 Z
 ---
 
 The next meeting of LRUG will be on Monday the 10th of March, from 6:30pm to 8:00pm, in <strike>our usual [Skills Matter](http://www.skillsmatter.com/) venue at [1 Sekforde St.](http://maps.google.co.uk/maps?f=q&hl=en&q=EC1R+0BE&layer=&ie=UTF8&z=16&om=1&iwloc=addr)</strike> the [Skills Matter](http://www.skillsmatter.com/) overflow venue [The Old Sessions House](http://www.sessionshouse.com/) on [Clerkenwell Green](http://maps.google.co.uk/maps/ms?ie=UTF8&hl=en&msa=0&ll=51.524058,-0.104628&spn=0.004533,0.007907&z=17&msid=110079876098346406496.000447c8b0590d82aef55). (See note about <a href="#registration">registration</a> below.)

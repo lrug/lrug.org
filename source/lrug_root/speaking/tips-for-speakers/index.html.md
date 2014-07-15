@@ -1,17 +1,17 @@
 --- 
-parts: []
-
-updated_at: 2013-02-12 23:09:27 Z
-creatd_by: 
-  login: hlame
-  email: murray.steele@gmail.com
-  name: Murray Steele
-slug: tips
 created_at: 2009-07-31 10:21:57 Z
-breadcrumb: tips
 published_at: 2009-07-31 03:21:57 Z
 status: Published
+slug: tips
+parts: []
+
 class_name: ""
+created_by: 
+  email: murray.steele@gmail.com
+  login: hlame
+  name: Murray Steele
+breadcrumb: tips
+updated_at: 2013-02-12 23:09:27 Z
 ---
 
 Timing

@@ -1,21 +1,21 @@
 --- 
-parts: []
-
-updated_at: 2013-08-25 13:29:09 Z
-creatd_by: 
-  login: hlame
-  email: murray.steele@gmail.com
-  name: Murray Steele
-slug: september-2013-meeting
 created_at: 2013-08-17 18:24:23 Z
-breadcrumb: September 2013 Meeting
 published_at: 2013-08-17 00:00:00 Z
 status: Published
-class_name: ""
+slug: september-2013-meeting
 updated_by: 
-  login: hlame
   email: murray.steele@gmail.com
+  login: hlame
   name: Murray Steele
+parts: []
+
+class_name: ""
+created_by: 
+  email: murray.steele@gmail.com
+  login: hlame
+  name: Murray Steele
+breadcrumb: September 2013 Meeting
+updated_at: 2013-08-25 13:29:09 Z
 ---
 
 The September 2013 meeting of LRUG will be on *Monday* the 9th of September, from 6:30pm to 8:00pm.  Our hosts [Skills Matter](http://skillsmatter.com/) will be providing the space, at their offices on Goswell Road; [The Skills Matter eXchange](http://skillsmatter.com/location-details/design-architecture/484/96).  <a href="#sep13registration">Registration details are given below</a>.

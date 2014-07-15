@@ -1,17 +1,17 @@
 --- 
-parts: []
-
-updated_at: 2013-02-12 23:09:26 Z
-creatd_by: 
-  login: hlame
-  email: murray.steele@gmail.com
-  name: Murray Steele
-slug: tips-for-speakers
 created_at: 2009-06-10 09:57:52 Z
-breadcrumb: Tips For Speakers
 published_at: 2009-06-10 02:57:52 Z
 status: Published
+slug: tips-for-speakers
+parts: []
+
 class_name: ""
+created_by: 
+  email: murray.steele@gmail.com
+  login: hlame
+  name: Murray Steele
+breadcrumb: Tips For Speakers
+updated_at: 2013-02-12 23:09:26 Z
 ---
 
 <div style="border: 1px dashed red; padding: 0.5em;">

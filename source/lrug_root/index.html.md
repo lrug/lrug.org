@@ -1,21 +1,21 @@
 --- 
-parts: 
-- sidebar
-updated_at: 2014-06-09 13:15:18 Z
-creatd_by: 
-  login: lazyatom
-  email: james@lazyatom.com
-  name: James Adam
-slug: /
 created_at: 2006-09-05 11:38:34 Z
-breadcrumb: Home
 published_at: 2006-09-04 23:00:00 Z
 status: Published
-class_name: ""
+slug: /
 updated_by: 
-  login: hlame
   email: murray.steele@gmail.com
+  login: hlame
   name: Murray Steele
+parts: 
+- sidebar
+class_name: ""
+created_by: 
+  email: james@lazyatom.com
+  login: lazyatom
+  name: James Adam
+breadcrumb: Home
+updated_at: 2014-06-09 13:15:18 Z
 ---
 
 <r:find url="/meetings/">

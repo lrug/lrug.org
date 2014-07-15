@@ -1,17 +1,17 @@
 --- 
-parts: 
-- extended
-updated_at: 2013-02-12 23:09:15 Z
-creatd_by: 
-  login: abscond
-  email: james@abscond.org
-  name: James Darling
-slug: irc
 created_at: 2007-05-15 12:28:31 Z
-breadcrumb: irc
 published_at: 2007-05-15 05:29:25 Z
 status: Published
+slug: irc
+parts: 
+- extended
 class_name: ""
+created_by: 
+  email: james@abscond.org
+  login: abscond
+  name: James Darling
+breadcrumb: irc
+updated_at: 2013-02-12 23:09:15 Z
 ---
 
 You can access the #lrug [IRC][1] room on [freenode][2] servers at the following address:

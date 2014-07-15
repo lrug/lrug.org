@@ -1,21 +1,21 @@
 --- 
-parts: 
-- sidebar
-updated_at: 2013-02-23 13:58:46 Z
-creatd_by: 
-  login: hlame
-  email: murray.steele@gmail.com
-  name: Murray Steele
-slug: book-reviews
 created_at: 2007-05-25 09:30:44 Z
-breadcrumb: Book Reviews
 published_at: 2007-05-25 00:00:00 Z
 status: Published
-class_name: ArchivePage
+slug: book-reviews
 updated_by: 
-  login: hlame
   email: murray.steele@gmail.com
+  login: hlame
   name: Murray Steele
+parts: 
+- sidebar
+class_name: ArchivePage
+created_by: 
+  email: murray.steele@gmail.com
+  login: hlame
+  name: Murray Steele
+breadcrumb: Book Reviews
+updated_at: 2013-02-23 13:58:46 Z
 ---
 
 LRUG members occasionally write book reviews of Ruby books.  We're collecting them here.

@@ -1,17 +1,17 @@
 --- 
-parts: 
-- sponsors
-updated_at: 2013-02-12 23:09:30 Z
-creatd_by: 
-  login: hlame
-  email: murray.steele@gmail.com
-  name: Murray Steele
-slug: august-2010-meeting
 created_at: 2010-07-15 14:11:38 Z
-breadcrumb: August 2010 Meeting
 published_at: 2010-07-15 07:11:38 Z
 status: Published
+slug: august-2010-meeting
+parts: 
+- sponsors
 class_name: ""
+created_by: 
+  email: murray.steele@gmail.com
+  login: hlame
+  name: Murray Steele
+breadcrumb: August 2010 Meeting
+updated_at: 2013-02-12 23:09:30 Z
 ---
 
 The August meeting will be on *Monday* the 9th of August, from 6:30pm to 8:00pm.  Our hosts [Skills Matter](http://skillsmatter.com/) will be providing the space, at their offices on Goswell Road; [The Skills Matter eXchange](http://skillsmatter.com/location-details/design-architecture/484/96).  It's a great space with plenty of room for the group, but you still need to <a href="#aug10registration">register to let Skills Matter know you are coming</a>.

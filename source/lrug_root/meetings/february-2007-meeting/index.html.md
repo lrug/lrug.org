@@ -1,17 +1,17 @@
 --- 
-parts: []
-
-updated_at: 2013-02-12 23:09:14 Z
-creatd_by: 
-  login: hlame
-  email: murray.steele@gmail.com
-  name: Murray Steele
-slug: february-2007-meeting
 created_at: 2007-01-24 11:42:53 Z
-breadcrumb: February 2007 Meeting
 published_at: 2007-01-24 03:43:10 Z
 status: Published
+slug: february-2007-meeting
+parts: []
+
 class_name: ""
+created_by: 
+  email: murray.steele@gmail.com
+  login: hlame
+  name: Murray Steele
+breadcrumb: February 2007 Meeting
+updated_at: 2013-02-12 23:09:14 Z
 ---
 
 Our next meeting will be on the 12th of February from 6:30pm to 8:00pm and see us return to our usual [Skills Matter](http://skillsmatter.com/) venue at [1 Sekforde St](http://maps.google.co.uk/maps?f=q&hl=en&q=EC1R+0BE&ie=UTF8&z=16&ll=51.523938,-0.104799&spn=0.008571,0.018969&om=1&iwloc=addr).

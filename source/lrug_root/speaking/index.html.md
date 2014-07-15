@@ -1,21 +1,21 @@
 --- 
-parts: []
-
-updated_at: 2013-11-12 21:52:39 Z
-creatd_by: 
-  login: hlame
-  email: murray.steele@gmail.com
-  name: Murray Steele
-slug: speaking-old
 created_at: 2009-07-31 10:21:01 Z
-breadcrumb: Speaking
 published_at: 2009-07-31 00:00:00 Z
 status: Published
-class_name: ""
+slug: speaking-old
 updated_by: 
-  login: hlame
   email: murray.steele@gmail.com
+  login: hlame
   name: Murray Steele
+parts: []
+
+class_name: ""
+created_by: 
+  email: murray.steele@gmail.com
+  login: hlame
+  name: Murray Steele
+breadcrumb: Speaking
+updated_at: 2013-11-12 21:52:39 Z
 ---
 
 ## So you want to talk at LRUG?

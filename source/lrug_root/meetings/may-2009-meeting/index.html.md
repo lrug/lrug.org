@@ -1,17 +1,17 @@
 --- 
-parts: []
-
-updated_at: 2013-02-12 23:09:25 Z
-creatd_by: 
-  login: hlame
-  email: murray.steele@gmail.com
-  name: Murray Steele
-slug: may-2009-meeting
 created_at: 2009-04-30 21:04:32 Z
-breadcrumb: May 2009 Meeting
 published_at: 2009-05-05 09:23:59 Z
 status: Published
+slug: may-2009-meeting
+parts: []
+
 class_name: ""
+created_by: 
+  email: murray.steele@gmail.com
+  login: hlame
+  name: Murray Steele
+breadcrumb: May 2009 Meeting
+updated_at: 2013-02-12 23:09:25 Z
 ---
 
 The next meeting of LRUG will be on Monday the 18th of May, from 6:30pm to 8:00pm.  As usual our hosts [Skills Matter](http://skillsmatter.com/) will provide the space at [their offices](http://skillsmatter.com/location-details/home/375/1).  The room is currently at capacity, but if you <a href="#may09registration">register with them</a> they'll put you on a waiting list.

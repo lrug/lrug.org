@@ -1,21 +1,21 @@
 --- 
-parts: []
-
-updated_at: 2013-03-21 11:59:25 Z
-creatd_by: 
-  login: hlame
-  email: murray.steele@gmail.com
-  name: Murray Steele
-slug: april-2013-meeting
 created_at: 2013-03-20 20:05:40 Z
-breadcrumb: April 2013 Meeting
 published_at: 2013-03-21 00:00:00 Z
 status: Published
-class_name: ""
+slug: april-2013-meeting
 updated_by: 
-  login: hlame
   email: murray.steele@gmail.com
+  login: hlame
   name: Murray Steele
+parts: []
+
+class_name: ""
+created_by: 
+  email: murray.steele@gmail.com
+  login: hlame
+  name: Murray Steele
+breadcrumb: April 2013 Meeting
+updated_at: 2013-03-21 11:59:25 Z
 ---
 
 The April 2013 meeting of LRUG will be on *Monday* the 8th of April, from 6:30pm to 8:00pm.  Our hosts [Skills Matter](http://skillsmatter.com/) will be providing the space, at their offices on Goswell Road; [The Skills Matter eXchange](http://skillsmatter.com/location-details/design-architecture/484/96).  <a href="#apr13registration">Registration details are given below</a>.

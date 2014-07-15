@@ -1,17 +1,17 @@
 --- 
-parts: 
-- extended
-updated_at: 2013-02-12 23:09:24 Z
-creatd_by: 
-  login: mitchb
-  email: ""
-  name: Mitch Buchannon
-slug: episode-13-payback
 created_at: 2009-01-13 18:32:55 Z
-breadcrumb: "Episode #13: Payback"
 published_at: 2009-01-13 10:33:20 Z
 status: Published
+slug: episode-13-payback
+parts: 
+- extended
 class_name: ""
+created_by: 
+  email: ""
+  login: mitchb
+  name: Mitch Buchannon
+breadcrumb: "Episode #13: Payback"
+updated_at: 2013-02-12 23:09:24 Z
 ---
 
 Albert Romero's wife has been kidnapped. Only LRUG can help. It's our job. It's what we do. It's our sworn duty.

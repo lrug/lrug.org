@@ -1,17 +1,17 @@
 --- 
-parts: 
-- sponsors
-updated_at: 2013-02-12 23:09:25 Z
-creatd_by: 
-  login: hlame
-  email: murray.steele@gmail.com
-  name: Murray Steele
-slug: june-2009-meeting
 created_at: 2009-05-13 09:37:48 Z
-breadcrumb: June 2009 Meeting
 published_at: 2009-05-19 01:39:32 Z
 status: Published
+slug: june-2009-meeting
+parts: 
+- sponsors
 class_name: ""
+created_by: 
+  email: murray.steele@gmail.com
+  login: hlame
+  name: Murray Steele
+breadcrumb: June 2009 Meeting
+updated_at: 2013-02-12 23:09:25 Z
 ---
 
 The next meeting of LRUG will be on Monday the 8th of June, from 6:30pm to 8:00pm.  As usual our hosts [Skills Matter](http://skillsmatter.com/) will provide the space at either [their offices](http://skillsmatter.com/location-details/home/375/1) or one of their overflow venues.  The venue we get is dependent on how many people <a href="#jun09registration">register</a> and the availability of <a href="/sponors">sponsorship</a> to pay for a larger room.  Do your bit by <a href="#jun09registration">registering early</a>.

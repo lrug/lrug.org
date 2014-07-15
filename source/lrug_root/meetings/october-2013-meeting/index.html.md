@@ -1,21 +1,21 @@
 --- 
-parts: 
-- sponsors
-updated_at: 2013-09-20 13:05:55 Z
-creatd_by: 
-  login: hlame
-  email: murray.steele@gmail.com
-  name: Murray Steele
-slug: october-2013-meeting
 created_at: 2013-09-16 10:07:44 Z
-breadcrumb: October 2013 Meeting
 published_at: 2013-09-16 00:00:00 Z
 status: Published
-class_name: ""
+slug: october-2013-meeting
 updated_by: 
-  login: hlame
   email: murray.steele@gmail.com
+  login: hlame
   name: Murray Steele
+parts: 
+- sponsors
+class_name: ""
+created_by: 
+  email: murray.steele@gmail.com
+  login: hlame
+  name: Murray Steele
+breadcrumb: October 2013 Meeting
+updated_at: 2013-09-20 13:05:55 Z
 ---
 
 The October 2013 meeting of LRUG will be on *Monday* the 14th of October, from 6:30pm to 8:00pm.  Our hosts [Skills Matter](http://skillsmatter.com/) will be providing the space, at their offices on Goswell Road; [The Skills Matter eXchange](http://skillsmatter.com/location-details/design-architecture/484/96).  <a href="#oct13registration">Registration details are given below</a>.

@@ -1,17 +1,17 @@
 --- 
-parts: []
-
-updated_at: 2013-02-12 23:09:22 Z
-creatd_by: 
-  login: tomw
-  email: tom@popdog.net
-  name: Tom Ward
-slug: september-2008-meeting
 created_at: 2008-08-12 12:37:45 Z
-breadcrumb: September 2008 Meeting
 published_at: 2008-08-12 05:38:19 Z
 status: Published
+slug: september-2008-meeting
+parts: []
+
 class_name: ""
+created_by: 
+  email: tom@popdog.net
+  login: tomw
+  name: Tom Ward
+breadcrumb: September 2008 Meeting
+updated_at: 2013-02-12 23:09:22 Z
 ---
 
 The September 2008 meeting of LRUG will be held on Monday 8th September, from 6:30pm to 8:00pm.  Please register [here](http://skillsmatter.com/event/home/lrug-meeting-top-ten-most-horrendous-ruby-hacks-rlisp-lisp-inside-ruby).  It will either be at [Skills Matter](http://www.skillsmatter.com/), or their overflow venue at [The Old Sessions House](http://www.sessionshouse.com/) on [Clerkenwell Green](http://tinyurl.com/2bjjzz), depending on the number of registrations.

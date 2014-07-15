@@ -1,17 +1,17 @@
 --- 
-parts: []
-
-updated_at: 2013-02-12 23:09:14 Z
-creatd_by: 
-  login: hlame
-  email: murray.steele@gmail.com
-  name: Murray Steele
-slug: january-2007-pub-quiz-meeting
 created_at: 2006-12-07 09:41:41 Z
-breadcrumb: January 2007 Pub-Quiz Meeting
 published_at: 2006-12-07 01:42:21 Z
 status: Published
+slug: january-2007-pub-quiz-meeting
+parts: []
+
 class_name: ""
+created_by: 
+  email: murray.steele@gmail.com
+  login: hlame
+  name: Murray Steele
+breadcrumb: January 2007 Pub-Quiz Meeting
+updated_at: 2013-02-12 23:09:14 Z
 ---
 
 The January 20007 meeting is going to depart from the normal presentation format and we're going to have a pub quiz instead.  We'll do the usual 'what's been going on in the London Ruby community round-up' before quizzing. So if anyone managed to pull themselves away from crying into their turkey over ['The Snowman'](http://www.imdb.com/title/tt0084701/) and get some exciting new projects off the ground then this'll be the time to let us know!

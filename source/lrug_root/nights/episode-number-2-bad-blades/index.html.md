@@ -1,17 +1,17 @@
 --- 
-parts: []
-
-updated_at: 2013-02-12 23:09:17 Z
-creatd_by: 
-  login: lazyatom
-  email: james@lazyatom.com
-  name: James Adam
-slug: episode-2-bad-blades
 created_at: 2007-07-11 10:13:18 Z
-breadcrumb: "Episode #2: Bad Blades"
 published_at: 2007-07-11 03:14:57 Z
 status: Published
+slug: episode-2-bad-blades
+parts: []
+
 class_name: ""
+created_by: 
+  email: james@lazyatom.com
+  login: lazyatom
+  name: James Adam
+breadcrumb: "Episode #2: Bad Blades"
+updated_at: 2013-02-12 23:09:17 Z
 ---
 
 Episode two of LRUG Nights is taking place on Tuesday 17th of July, at [The Crown](http://fancyapint.com/pubs/pub199.html), where we will be having a crossover with David Black. Want to be involved in the action? Sign up to the mailing list!

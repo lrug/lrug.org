@@ -1,17 +1,17 @@
 --- 
-parts: []
-
-updated_at: 2013-02-12 23:09:21 Z
-creatd_by: 
-  login: hlame
-  email: murray.steele@gmail.com
-  name: Murray Steele
-slug: april-2008-meeting
 created_at: 2008-03-16 21:22:27 Z
-breadcrumb: April 2008 Meeting
 published_at: 2008-03-16 14:23:09 Z
 status: Published
+slug: april-2008-meeting
+parts: []
+
 class_name: ""
+created_by: 
+  email: murray.steele@gmail.com
+  login: hlame
+  name: Murray Steele
+breadcrumb: April 2008 Meeting
+updated_at: 2013-02-12 23:09:21 Z
 ---
 
 <a href="http://www.flickr.com/photos/snowblink/2420965665/" title="El Rug (20080414-R0010621.jpg) by snowblink, on Flickr"><img src="http://farm4.static.flickr.com/3100/2420965665_9ceb94849a_m.jpg" width="240" height="240" alt="El Rug (20080414-R0010621.jpg)" /></a>

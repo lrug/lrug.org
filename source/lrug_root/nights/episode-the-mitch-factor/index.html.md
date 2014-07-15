@@ -1,17 +1,17 @@
 --- 
-parts: []
-
-updated_at: 2013-02-12 23:09:30 Z
-creatd_by: 
-  login: hlame
-  email: murray.steele@gmail.com
-  name: Murray Steele
-slug: episode-the-mitch-factor
 created_at: 2010-08-24 10:47:26 Z
-breadcrumb: "Episode: The Mitch Factor"
 published_at: 2010-08-24 03:47:26 Z
 status: Published
+slug: episode-the-mitch-factor
+parts: []
+
 class_name: ""
+created_by: 
+  email: murray.steele@gmail.com
+  login: hlame
+  name: Murray Steele
+breadcrumb: "Episode: The Mitch Factor"
+updated_at: 2013-02-12 23:09:30 Z
 ---
 
 So rumour has it that Mitch Buchannon is still on the run but due to technical 

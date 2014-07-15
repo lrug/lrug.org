@@ -1,17 +1,17 @@
 --- 
-parts: 
-- sponsors
-updated_at: 2013-02-12 23:09:26 Z
-creatd_by: 
-  login: hlame
-  email: murray.steele@gmail.com
-  name: Murray Steele
-slug: july-2009-meeting
 created_at: 2009-06-10 10:11:50 Z
-breadcrumb: July 2009 Meeting
 published_at: 2009-06-17 00:59:44 Z
 status: Published
+slug: july-2009-meeting
+parts: 
+- sponsors
 class_name: ""
+created_by: 
+  email: murray.steele@gmail.com
+  login: hlame
+  name: Murray Steele
+breadcrumb: July 2009 Meeting
+updated_at: 2013-02-12 23:09:26 Z
 ---
 
 The next meeting of LRUG will be on Wednesday the 8th of July, from 6:30pm to 8:00pm.  As usual our hosts [Skills Matter](http://skillsmatter.com/) will provide the space, this time at a new venue [The Crypt](http://skillsmatter.com/location-details/home/166/26) (it's very close to the other venues).  We still need people to <a href="#jul09registration">register</a> though to make sure the room is set up properly.

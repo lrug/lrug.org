@@ -1,20 +1,20 @@
 --- 
+created_at: 2009-01-06 15:20:44 Z
+published_at: 
+status: Draft
+slug: sekrit-notes
 parts: 
 - Topics
 - Proposals
 - 20x20
 - Book Reviews
-updated_at: 2013-02-12 23:09:24 Z
-creatd_by: 
-  login: hlame
-  email: murray.steele@gmail.com
-  name: Murray Steele
-slug: sekrit-notes
-created_at: 2009-01-06 15:20:44 Z
-breadcrumb: Sekrit Notes
-published_at: 
-status: Draft
 class_name: ""
+created_by: 
+  email: murray.steele@gmail.com
+  login: hlame
+  name: Murray Steele
+breadcrumb: Sekrit Notes
+updated_at: 2013-02-12 23:09:24 Z
 ---
 
 ### Sekrits.  

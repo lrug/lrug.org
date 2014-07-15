@@ -1,21 +1,21 @@
 --- 
-parts: []
-
-updated_at: 2013-11-12 21:51:05 Z
-creatd_by: 
-  login: hlame
-  email: murray.steele@gmail.com
-  name: Murray Steele
-slug: about-old
 created_at: 2007-09-28 12:00:56 Z
-breadcrumb: About
 published_at: 2007-09-28 00:00:00 Z
 status: Published
-class_name: ""
+slug: about-old
 updated_by: 
-  login: hlame
   email: murray.steele@gmail.com
+  login: hlame
   name: Murray Steele
+parts: []
+
+class_name: ""
+created_by: 
+  email: murray.steele@gmail.com
+  login: hlame
+  name: Murray Steele
+breadcrumb: About
+updated_at: 2013-11-12 21:51:05 Z
 ---
 
 LRUG is the London Ruby User Group; a community of ruby developers based in and around London.  We meet up at least once a month; on the _2nd Monday of the month_ we have [meetings](/meetings) with talks, demos and such-like and then we have [pub-based meetups](/nights) organised on an ad-hoc basis (roughly half-way between meetings).

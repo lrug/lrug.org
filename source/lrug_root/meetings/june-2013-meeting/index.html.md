@@ -1,21 +1,21 @@
 --- 
-parts: 
-- sponsors
-updated_at: 2013-05-28 11:27:02 Z
-creatd_by: 
-  login: hlame
-  email: murray.steele@gmail.com
-  name: Murray Steele
-slug: june-2013-meeting
 created_at: 2013-05-25 11:40:27 Z
-breadcrumb: June 2013 Meeting
 published_at: 2013-05-25 00:00:00 Z
 status: Published
-class_name: ""
+slug: june-2013-meeting
 updated_by: 
-  login: hlame
   email: murray.steele@gmail.com
+  login: hlame
   name: Murray Steele
+parts: 
+- sponsors
+class_name: ""
+created_by: 
+  email: murray.steele@gmail.com
+  login: hlame
+  name: Murray Steele
+breadcrumb: June 2013 Meeting
+updated_at: 2013-05-28 11:27:02 Z
 ---
 
 The June 2013 meeting of LRUG will be on *Monday* the 10th of June, from 6:30pm to 8:00pm.  Our hosts [Skills Matter](http://skillsmatter.com/) will be providing the space, at their offices on Goswell Road; [The Skills Matter eXchange](http://skillsmatter.com/location-details/design-architecture/484/96).  <a href="#jun13registration">Registration details are given below</a>.

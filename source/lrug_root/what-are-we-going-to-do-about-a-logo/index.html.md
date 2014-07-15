@@ -1,19 +1,19 @@
 --- 
+created_at: 2008-04-07 11:45:56 Z
+published_at: 2008-04-07 04:45:56 Z
+status: Published
+slug: what-are-we-going-to-do-about-a-logo
 parts: 
 - the_votes
 - the_rules
 - the_submissions
-updated_at: 2013-02-12 23:09:21 Z
-creatd_by: 
-  login: hlame
-  email: murray.steele@gmail.com
-  name: Murray Steele
-slug: what-are-we-going-to-do-about-a-logo
-created_at: 2008-04-07 11:45:56 Z
-breadcrumb: What Are We Going To Do About A Logo?
-published_at: 2008-04-07 04:45:56 Z
-status: Published
 class_name: ""
+created_by: 
+  email: murray.steele@gmail.com
+  login: hlame
+  name: Murray Steele
+breadcrumb: What Are We Going To Do About A Logo?
+updated_at: 2013-02-12 23:09:21 Z
 ---
 
 In April 2008 the [LRUG members](/members-and-friends/) decided to end their days wandering in the logo-less desert and choose an official LRUG logo.  Until this point LRUG didn't have an official logo, and whilst it wasn't really hurting the group, occasionally people we were involved with would ask for one and all we could do was look at our shoes, shuffle our feet and say "uh, we don't really have one".  To avoid embarrassment in the future when asked similar questions, we decided to finally settle the matter once and for all and come up with one.

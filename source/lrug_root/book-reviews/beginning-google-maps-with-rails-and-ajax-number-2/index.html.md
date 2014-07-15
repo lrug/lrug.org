@@ -1,17 +1,17 @@
 --- 
-parts: []
-
-updated_at: 2013-02-12 23:09:17 Z
-creatd_by: 
-  login: hlame
-  email: murray.steele@gmail.com
-  name: Murray Steele
-slug: beginning-google-maps-with-rails-and-ajax-2
 created_at: 2007-06-20 08:10:40 Z
-breadcrumb: "Beginning Google Maps with Rails and AJAX #2"
 published_at: 2007-06-20 01:10:40 Z
 status: Published
+slug: beginning-google-maps-with-rails-and-ajax-2
+parts: []
+
 class_name: ""
+created_by: 
+  email: murray.steele@gmail.com
+  login: hlame
+  name: Murray Steele
+breadcrumb: "Beginning Google Maps with Rails and AJAX #2"
+updated_at: 2013-02-12 23:09:17 Z
 ---
 
 [Paul Doerwald](http://pauldoerwald.ca/) has published a review of his copy of ['Beginning Google Maps Applications with Rails and Ajax - from novice to

@@ -1,17 +1,17 @@
 --- 
-parts: 
-- extended
-updated_at: 2013-02-12 23:09:34 Z
-creatd_by: 
-  login: lazyatom
-  email: james@lazyatom.com
-  name: James Adam
-slug: posting-jobs
 created_at: 2012-01-18 13:43:49 Z
-breadcrumb: Posting Jobs
 published_at: 2012-01-18 00:00:00 Z
 status: Published
+slug: posting-jobs
+parts: 
+- extended
 class_name: ""
+created_by: 
+  email: james@lazyatom.com
+  login: lazyatom
+  name: James Adam
+breadcrumb: Posting Jobs
+updated_at: 2013-02-12 23:09:34 Z
 ---
 
 So, you're wondering if someone in the illustrious LRUG community might be able to do some work for you? Here are some tips to bear in mind when posting to [the mailing list](http://lists.lrug.org/listinfo.cgi/chat-lrug.org); following these will hopefully maximise your chance of getting useful replies, and minimise the chance of affecting the signal-to-noise ratio of the list as a whole.

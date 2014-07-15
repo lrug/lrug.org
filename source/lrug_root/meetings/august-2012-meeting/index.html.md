@@ -1,17 +1,17 @@
 --- 
-parts: 
-- sponsors
-updated_at: 2013-02-12 23:09:36 Z
-creatd_by: 
-  login: hlame
-  email: murray.steele@gmail.com
-  name: Murray Steele
-slug: august-2012-meeting
 created_at: 2012-07-19 08:52:08 Z
-breadcrumb: August 2012 Meeting
 published_at: 2012-07-19 00:00:00 Z
 status: Published
+slug: august-2012-meeting
+parts: 
+- sponsors
 class_name: ""
+created_by: 
+  email: murray.steele@gmail.com
+  login: hlame
+  name: Murray Steele
+breadcrumb: August 2012 Meeting
+updated_at: 2013-02-12 23:09:36 Z
 ---
 
 The August 2012 meeting of LRUG will be on *Monday* the 13th of August, from 6:30pm to 8:00pm.  Our hosts [Skills Matter](http://skillsmatter.com/) will be providing the space, at their offices on Goswell Road; [The Skills Matter eXchange](http://skillsmatter.com/location-details/design-architecture/484/96).  <a href="#aug12registration">Registration details are given below</a>.

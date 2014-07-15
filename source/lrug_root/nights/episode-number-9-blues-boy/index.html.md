@@ -1,17 +1,17 @@
 --- 
-parts: 
-- extended
-updated_at: 2013-02-12 23:09:22 Z
-creatd_by: 
-  login: mitchb
-  email: ""
-  name: Mitch Buchannon
-slug: episode-9-blues-boy
 created_at: 2008-07-28 10:00:16 Z
-breadcrumb: "Episode #9: \"Blues Boy\""
 published_at: 2008-07-28 03:01:55 Z
 status: Published
+slug: episode-9-blues-boy
+parts: 
+- extended
 class_name: ""
+created_by: 
+  email: ""
+  login: mitchb
+  name: Mitch Buchannon
+breadcrumb: "Episode #9: \"Blues Boy\""
+updated_at: 2013-02-12 23:09:22 Z
 ---
 
 Episode 9 of LRUG Nights will take place at the ["The Lyceum "](http://www.beerintheevening.com/pubs/s/69/694/Lyceum/Strand) on Wednesday July 30th.

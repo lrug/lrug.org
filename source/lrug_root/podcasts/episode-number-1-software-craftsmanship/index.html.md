@@ -1,20 +1,20 @@
 --- 
+created_at: 2010-04-03 15:22:17 Z
+published_at: 2010-04-03 08:22:17 Z
+status: Published
+slug: episode-1-software-craftsmanship
 parts: 
 - keywords
 - file_url
 - duration
 - file_size
-updated_at: 2013-02-12 23:09:29 Z
-creatd_by: 
-  login: hlame
-  email: murray.steele@gmail.com
-  name: Murray Steele
-slug: episode-1-software-craftsmanship
-created_at: 2010-04-03 15:22:17 Z
-breadcrumb: "Episode #1: Software Craftsmanship"
-published_at: 2010-04-03 08:22:17 Z
-status: Published
 class_name: ""
+created_by: 
+  email: murray.steele@gmail.com
+  login: hlame
+  name: Murray Steele
+breadcrumb: "Episode #1: Software Craftsmanship"
+updated_at: 2013-02-12 23:09:29 Z
 ---
 
 Welcome to the first ever <a href="http://lrug.org/">LRUG</a> podcast!
