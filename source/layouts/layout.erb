@@ -49,7 +49,7 @@
             <% end %>
             <% if_url %r{^/(meetings|podcasts)/\d{4}/\d{2}/\d{2}/.+} do %>
               <% unless_url %r{"-(meetings|podcasts)/$} do %>
-                <p class="info">Posted by <%= current_page.data.author %> on <%= current_page.data.date %></p>
+                <p class="info">Posted by <%= current_page.data.created_by.name %> on <%= date_format current_page.data.published_at %></p>
               <% end %>
             <% end %>
           </div>
