@@ -21,7 +21,7 @@ class_name: ""
 
 <% with_page 'meetings' do |meetings_root| %>
 
-  <% with_children_of meetings_root, limit: 1 do |child_page| %>
+  <% with_children_of meetings_root, limit: 1, order: :desc do |child_page| %>
     <div class="first entry">
       <h2><%= link_to child_page.data.title, child_page %></h2>
       <r:snippet name="sponsors" />
@@ -30,7 +30,7 @@ class_name: ""
     </div>
   <% end %>
 
-  <% with_children_of meetings_root, limit: 2, offset: 1 do |child_page| %>
+  <% with_children_of meetings_root, limit: 2, offset: 1, order: :desc do |child_page| %>
     <div class="entry">
       <h2><%= link_to child_page.data.title, child_page %></h2>
       <r:snippet name="sponsors" />

@@ -23,6 +23,8 @@ module LRUGHelpers
     ChildrenQuery.new(page).
       offset(args[:offset]).
       limit(args[:limit]).
+      where(:status => 'Published').
+      order_by(:published_at => args[:order] || :asc).
       all.
       each { |child| concat_content(capture_html(child, &html_block)) }
   end
