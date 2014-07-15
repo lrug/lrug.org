@@ -37,6 +37,6 @@ module LRUGHelpers
   end
 
   def date_format(date, format)
-    date.strftime(format)
+    date.strftime(format) unless date.nil?
   end
 end
