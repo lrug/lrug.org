@@ -38,6 +38,12 @@ module LRUGHelpers
     include ::Middleman::Sitemap::Queryable::API
   end
 
+  def if_content_part?(part_name, page, &html_block)
+    if page.data.parts.include? part_name
+      concat_content(capture_html &html_block)
+    end
+  end
+
   def date_format(date, format)
     date.strftime(format) unless date.nil?
   end

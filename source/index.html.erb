@@ -26,6 +26,7 @@ class_name: ""
       <h2><%= link_to child_page.data.title, child_page %></h2>
       <r:snippet name="sponsors" />
       <%= child_page.render(layout: false) %>
+      <% if_content_part?('extended', child_page) do %><%= link_to 'Continue Reading&#8230;', child_page, anchor: 'extended' %><% end %>
       <p class="info">Posted by <%= child_page.data.created_by.name %> on <%= date_format child_page.data.published_at, "%b %d, %Y" %></p>
     </div>
   <% end %>
@@ -35,6 +36,7 @@ class_name: ""
       <h2><%= link_to child_page.data.title, child_page %></h2>
       <r:snippet name="sponsors" />
       <%= child_page.render(layout: false) %>
+      <% if_content_part?('extended', child_page) do %><%= link_to 'Continue Reading&#8230;', child_page, anchor: 'extended' %><% end %>
       <p class="info">Posted by <%= child_page.data.created_by.name %> on <%= date_format child_page.data.published_at, "%b %d, %Y" %></p>
     </div>
   <% end %>
