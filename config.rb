@@ -74,6 +74,6 @@ configure :build do
   # set :http_prefix, "/Content/images/"
 end
 
-["meetings", "podcasts", "lrug-nights-being-the-mitch", "book-reviews"].each do |slug|
+["meetings", "podcasts", "nights", "book-reviews"].each do |slug|
   proxy "/rss/#{slug}.xml", "/rss/template.xml", :layout => false, :locals => { :slug => slug }, :ignore => true
 end
