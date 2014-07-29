@@ -73,3 +73,7 @@ configure :build do
   # Or use a different image path
   # set :http_prefix, "/Content/images/"
 end
+
+["meetings", "podcasts", "lrug-nights-being-the-mitch", "book-reviews"].each do |slug|
+  proxy "/rss/#{slug}.xml", "/rss/template.xml", :locals => { :slug => slug }, :ignore => true
+end
