@@ -75,5 +75,5 @@ configure :build do
 end
 
 ["meetings", "podcasts", "lrug-nights-being-the-mitch", "book-reviews"].each do |slug|
-  proxy "/rss/#{slug}.xml", "/rss/template.xml", :locals => { :slug => slug }, :ignore => true
+  proxy "/rss/#{slug}.xml", "/rss/template.xml", :layout => false, :locals => { :slug => slug }, :ignore => true
 end
