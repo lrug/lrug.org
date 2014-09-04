@@ -7,7 +7,7 @@
             <h1><%= current_page.data.title %></h1>
             <%= yield %>
           <% with_page 'book-reviews' do |book_reviews_root| %>
-            <% with_children_of book_reviews_root, limit: 5, order: :desc do |review| %>
+            <% with_children_of book_reviews_root, order: :desc do |review| %>
               <div class="entry">
                 <h3>
                   <%= link_to review.metadata[:page]['title'], 
