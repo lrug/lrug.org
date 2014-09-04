@@ -47,4 +47,10 @@ module LRUGHelpers
   def date_format(date, format)
     date.strftime(format) unless date.nil?
   end
+
+  def render_markdown(md)
+    Tilt['markdown'].new do
+      md
+    end.render
+  end
 end
