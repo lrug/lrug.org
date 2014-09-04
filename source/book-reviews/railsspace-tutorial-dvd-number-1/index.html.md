@@ -15,7 +15,7 @@ created_by:
   name: Murray Steele
 class_name: ""
 excerpt: |
-    Peter Jones reviews a copy of [RailsSpace Ruby On Rails Tutorial](http://www.informit.com/store/product.aspx?isbn=0321517067) by [Aurelius Prochazka](http://aure.com/) published by [Addison-Wesley](http://www.informit.com/imprint/index.aspx?st=61085) as part of their [Professional Ruby Series](http://www.informit.com/promotions/promotion.aspx?promo=135393).
+  Peter Jones reviews a copy of [RailsSpace Ruby On Rails Tutorial](http://www.informit.com/store/product.aspx?isbn=0321517067) by [Aurelius Prochazka](http://aure.com/) published by [Addison-Wesley](http://www.informit.com/imprint/index.aspx?st=61085) as part of their [Professional Ruby Series](http://www.informit.com/promotions/promotion.aspx?promo=135393).
 ---
 
 RailsSpace: Ruby on Rails Tutorial is a CD, with associated booklet, comprising over five hours of "LiveLessons" presented by Aurelius Prochazak, who is described as an "Internet pioneer and best-selling author".
