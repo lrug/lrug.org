@@ -19,19 +19,24 @@ created_by:
 class_name: ""
 ---
 
-<% with_page 'meetings' do |meetings_root| %>
+<%  
+  meeting_pages =  sitemap
+                    .where(:category => "meeting")
+                    .order_by(:published_at => :desc)
+                    .limit(10)
+                    .all
+  featured_meeting = meeting_pages.shift
+%>
 
-  <% with_children_of meetings_root, limit: 1, order: :desc do |child_page| %>
-    <div class="first entry">
-      <h2><%= link_to child_page.data.title, child_page %></h2>
-      <r:snippet name="sponsors" />
-      <%= child_page.render(layout: false) %>
-      <% if_content_part?('extended', child_page) do %><%= link_to 'Continue Reading&#8230;', child_page, anchor: 'extended' %><% end %>
-      <p class="info">Posted by <%= child_page.data.created_by.name %> on <%= date_format child_page.data.published_at, "%b %d, %Y" %></p>
-    </div>
-  <% end %>
+  <div class="first entry">
+    <h2><%= link_to featured_meeting.data.title, featured_meeting %></h2>
+    <r:snippet name="sponsors" />
+    <%= featured_meeting.render(layout: false) %>
+    <% if_content_part?('extended', featured_meeting) do %><%= link_to 'Continue Reading&#8230;', featured_meeting, anchor: 'extended' %><% end %>
+    <p class="info">Posted by <%= featured_meeting.data.created_by.name %> on <%= date_format featured_meeting.data.published_at, "%b %d, %Y" %></p>
+  </div>
 
-  <% with_children_of meetings_root, limit: 2, offset: 1, order: :desc do |child_page| %>
+  <% meeting_pages.each do |child_page| %>
     <div class="entry">
       <h2><%= link_to child_page.data.title, child_page %></h2>
       <r:snippet name="sponsors" />
@@ -40,6 +45,4 @@ class_name: ""
       <p class="info">Posted by <%= child_page.data.created_by.name %> on <%= date_format child_page.data.published_at, "%b %d, %Y" %></p>
     </div>
   <% end %>
-
-<% end %>
 
