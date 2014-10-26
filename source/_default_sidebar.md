@@ -21,7 +21,6 @@ Older [meetings](/meetings/) \| [nights](/nights/) \| [podcasts](/podcasts/)
 * [El Rug (Twitter)](http://twitter.com/lrug)
 * Photos: [group (preferred)](http://flickr.com/groups/680991@N25/) or [tag](http://flickr.com/photos/tags/lrug/)
 * [Github](http://github.com/lrug)
-* [WorkingWithRails](http://www.workingwithrails.com/group/3831-london-ruby-users-group)
 * [Last.FM Group](http://www.last.fm/group/LRUG)
 * [LinkedIn Group](http://www.linkedin.com/e/gis/117315/0027271A7866) (this links to a join request)
 
