@@ -22,26 +22,6 @@ module LRUGHelpers
     end
   end
 
-  def with_children_of(page, args = {}, &html_block)
-    # offset / limit do the right thing if given nil
-    ChildrenQuery.new(page).
-      offset(args[:offset]).
-      limit(args[:limit]).
-      where(:status => 'Published').
-      order_by(:published_at => args[:order] || :asc).
-      all.
-      each { |child| concat_content(capture_html(child, &html_block)) }
-  end
-
-  class ChildrenQuery
-    def initialize(page)
-      @page = page
-      @resources = page.children
-    end
-    attr_reader :resources
-    include ::Middleman::Sitemap::Queryable::API
-  end
-
   def show_sponsors(for_page = current_page)
     partial "sponsors", locals: { for_page: for_page }
   end
