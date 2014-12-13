@@ -38,12 +38,39 @@ module LRUGHelpers
     include ::Middleman::Sitemap::Queryable::API
   end
 
-  def if_content_part?(part_name, page, &html_block)
-    if page.data.parts.include? part_name
+  def content_part_exists?(part_name, page, inherit: false, &html_block)
+    if find_page_part(part_name, page, inherit: inherit)
       concat_content(capture_html &html_block)
     end
   end
 
+  def render_content_part(part_name, page, inherit: false)
+    part = find_page_part(part_name, page, inherit: inherit)
+    if part
+      if part['filter'].present?
+        Tilt.new(part['filter']) do
+          part['content']
+        end.render
+      else
+        part['content']
+      end
+    else
+      ''
+    end
+  end
+
+  private
+  def find_page_part(part_name, page, inherit: false)
+    if page.data.parts? && page.data.parts.has_key?(part_name)
+      page.data.parts[part_name]
+    elsif inherit && page.parent.present?
+      find_page_part(part_name, page.parent, inherit: inherit)
+    else
+      nil
+    end
+  end
+
+  public
   def date_format(date, format)
     date.strftime(format) unless date.nil?
   end
