@@ -1,20 +1,5 @@
 <% wrap_layout :base do %>
-  <div id="page">
-    <%= partial 'header' %>
-    <div id="main">
-      <div id="content-wrapper">
-        <div id="content">
-          <h1><%= page_title %></h1>
-          <%= render_content_part 'excerpt', current_page if content_part_exists? 'excerpt', current_page %>
-          <%= yield %>
-        </div>
-      </div>
-      <div id="sidebar-wrapper">
-        <div id="sidebar">
-          <%= partial 'sidebar' %>
-        </div>
-      </div>
-    </div>
-    <%= partial 'footer' %>
-  </div>
+  <h1><%= page_title %></h1>
+  <%= render_content_part 'excerpt', current_page if content_part_exists? 'excerpt', current_page %>
+  <%= yield %>
 <% end %>
