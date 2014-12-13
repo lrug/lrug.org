@@ -54,6 +54,14 @@ module LRUGHelpers
       .reverse
   end
 
+  def book_reviews
+    sitemap
+      .resources
+      .select { |page| page_has_data?(page, status: 'Published', category: 'book-review') }
+      .sort_by { |page| page.data.published_at }
+      .reverse
+  end
+
   def page_has_data?(page, args)
     args.all? do |key, value|
       page.data[key.to_s] == value
