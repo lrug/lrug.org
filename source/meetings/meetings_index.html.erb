@@ -1,0 +1,4 @@
+<%
+  meetings = meeting_pages.select { |page| page.path.include? "/#{locals[:year]}/" }
+%>
+<%= partial 'meetings/meeting', collection: meetings %>

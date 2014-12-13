@@ -77,3 +77,9 @@ end
 ["meetings", "podcasts", "nights", "book-reviews"].each do |slug|
   proxy "/rss/#{slug}.xml", "/rss/template.xml", :layout => false, :locals => { :slug => slug }, :ignore => true
 end
+Dir['source/meetings/*'].each do |meeting_child|
+  name = meeting_child.split('/').last
+  if name =~ /\A\d{4}\Z/
+    proxy "/meetings/#{name}/index.html", "/meetings/meetings_index.html", locals: { year: name }, ignore: true
+  end
+end
