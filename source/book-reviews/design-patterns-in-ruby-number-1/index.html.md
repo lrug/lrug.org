@@ -4,7 +4,6 @@ title: "Design Patterns In Ruby #1"
 created_at: 2008-06-12 09:53:19 Z
 slug: design-patterns-in-ruby-1
 breadcrumb: "Design Patterns In Ruby #1"
-layout: book-review
 parts:
   excerpt: 
     :content: |

@@ -4,7 +4,6 @@ title: "RailsSpace Tutorial DVD #1"
 created_at: 2008-10-05 15:16:35 Z
 slug: railsspace-tutorial-dvd-1
 breadcrumb: "RailsSpace Tutorial DVD #1"
-layout: book-review
 parts: 
   excerpt:
     :content: |

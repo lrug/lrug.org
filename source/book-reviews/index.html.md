@@ -8,7 +8,6 @@ title: Book Reviews
 created_at: 2007-05-25 09:30:44 Z
 slug: book-reviews
 breadcrumb: Book Reviews
-layout: books
 parts: 
   sidebar: 
     :content: |

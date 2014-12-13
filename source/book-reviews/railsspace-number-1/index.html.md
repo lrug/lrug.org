@@ -4,7 +4,6 @@ title: "RailsSpace #1"
 created_at: 2008-01-29 09:22:13 Z
 slug: railsspace-1
 breadcrumb: "RailsSpace #1"
-layout: book-review
 parts: 
   excerpt:
     :content: |

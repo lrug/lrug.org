@@ -80,6 +80,10 @@ configure :build do
   # set :http_prefix, "/Content/images/"
 end
 
+page '/book-reviews/index.html', layout: 'books'
+page '/book-reviews/*/index.html', layout: 'book-review'
+page '/meetings/*/*/index.html', layout: 'meeting'
+
 ["meeting", "podcast", "night", "book-review"].each do |category|
   proxy "/rss/#{category.pluralize}.xml", "/rss/template.xml", :layout => false, :locals => { :category => category }, :ignore => true
 end

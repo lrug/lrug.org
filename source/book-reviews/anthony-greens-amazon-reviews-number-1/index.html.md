@@ -4,7 +4,6 @@ title: "Anthony Green's Amazon Reviews #1"
 created_at: 2007-05-25 09:43:03 Z
 slug: anthony-greens-amazon-reviews-1
 breadcrumb: "Anthony Green's Amazon Reviews #1"
-layout: book-review
 parts: 
   excerpt: 
     :content: |

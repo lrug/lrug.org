@@ -1,0 +1,8 @@
+<% wrap_layout :base do %>
+  <h1><%= page_title %></h1>
+  <%= show_sponsors current_page %>
+  <div class="vevent">
+    <%= yield %>
+  </div>
+  <p class="info">Posted by <%= current_page.data.created_by.name %> on <%= date_format current_page.data.published_at, "%b %d, %Y" %></p>
+<% end %>

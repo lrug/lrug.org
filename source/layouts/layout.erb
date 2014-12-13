@@ -2,16 +2,10 @@
   <% unless_url %r{^/$} do %>
     <h1><%= page_title %></h1>
   <% end %>
-  <% if current_page.data.category == 'meeting' %>
-    <%= show_sponsors current_page %><div class="vevent">
-  <% end %>
   <%= yield %>
   <% if content_part_exists? 'extended', current_resource %>
     <div id="extended">
       <%= render_content_part 'extended', current_resource %>
-    </div>
-  <% end %>
-  <% if current_page.data.category == 'meeting' %>
     </div>
   <% end %>
   <% if_url %r{^/podcasts/\d{4}/.+"} do %>
@@ -19,8 +13,8 @@
       <%= yield_content :download_link %>
     <% end %>
   <% end %>
-  <% if_url %r{^/(meetings|podcasts)/\d{4}/.+} do %>
-    <% unless_url %r{"-(meetings|podcasts)/$} do %>
+  <% if_url %r{^/(podcasts)/\d{4}/.+} do %>
+    <% unless_url %r{"-(podcasts)/$} do %>
       <p class="info">Posted by <%= current_page.data.created_by.name %> on <%= date_format current_page.data.published_at, "%b %d, %Y" %></p>
     <% end %>
   <% end %>

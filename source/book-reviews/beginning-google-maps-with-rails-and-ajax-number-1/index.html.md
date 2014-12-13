@@ -4,7 +4,6 @@ title: "Beginning Google Maps with Rails and AJAX #1"
 created_at: 2007-05-25 09:52:29 Z
 slug: beginning-google-maps-with-rails-and-ajax-1
 breadcrumb: "Beginning Google Maps with Rails and AJAX #1"
-layout: book-review
 parts: 
   excerpt:
     :content: |

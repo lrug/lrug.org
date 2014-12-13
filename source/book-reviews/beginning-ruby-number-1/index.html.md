@@ -4,7 +4,6 @@ title: "Beginning Ruby #1"
 created_at: 2007-05-25 14:21:08 Z
 slug: beginning-ruby-1
 breadcrumb: "Beginning Ruby #1"
-layout: book-review
 parts:
   excerpt:
     :content: |
