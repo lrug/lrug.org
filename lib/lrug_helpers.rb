@@ -38,6 +38,10 @@ module LRUGHelpers
     include ::Middleman::Sitemap::Queryable::API
   end
 
+  def show_sponsors
+    partial "sponsors"
+  end
+
   def content_part_exists?(part_name, page, inherit: false, &html_block)
     if find_page_part(part_name, page, inherit: inherit)
       concat_content(capture_html &html_block)

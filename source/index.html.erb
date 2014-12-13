@@ -8,8 +8,6 @@ title: LRUG
 created_at: 2006-09-05 11:38:34 Z
 slug: /
 breadcrumb: Home
-parts: 
-- sidebar
 updated_at: 2014-06-09 13:15:18 Z
 status: Published
 created_by: 
@@ -21,7 +19,7 @@ class_name: ""
 
 <%  
   meeting_pages =  sitemap
-                    .where(:category => "meeting")
+                    .where(:category => "meeting", :status => 'Published')
                     .order_by(:published_at => :desc)
                     .limit(10)
                     .all
@@ -32,7 +30,6 @@ class_name: ""
     <h2><%= link_to featured_meeting.data.title, featured_meeting %></h2>
     <r:snippet name="sponsors" />
     <%= featured_meeting.render(layout: false) %>
-    <% if_content_part?('extended', featured_meeting) do %><%= link_to 'Continue Reading&#8230;', featured_meeting, anchor: 'extended' %><% end %>
     <p class="info">Posted by <%= featured_meeting.data.created_by.name %> on <%= date_format featured_meeting.data.published_at, "%b %d, %Y" %></p>
   </div>
 
@@ -41,7 +38,6 @@ class_name: ""
       <h2><%= link_to child_page.data.title, child_page %></h2>
       <r:snippet name="sponsors" />
       <%= child_page.render(layout: false) %>
-      <% if_content_part?('extended', child_page) do %><%= link_to 'Continue Reading&#8230;', child_page, anchor: 'extended' %><% end %>
       <p class="info">Posted by <%= child_page.data.created_by.name %> on <%= date_format child_page.data.published_at, "%b %d, %Y" %></p>
     </div>
   <% end %>

@@ -7,30 +7,26 @@
             <% unless_url %r{^/$} do %>
               <h1><%= current_page.data.title %></h1>
             <% end %>
-            <% if_url %r{^/meetings/\d{4}/\d{2}/\d{2}/.+$} do %>
-              <% unless_url %r{-archives/$} do %>
-                <%= yield_content :sponsors %><div class="vevent">
-              <% end %>
+            <% if current_page.data.category == 'meeting' %>
+              <%= show_sponsors %><div class="vevent">
             <% end %>
             <%= yield %>
-            <% if content_for?(:extended) %>
+            <% if content_part_exists? 'extended', current_resource %>
               <div id="extended">
-                <%= yield_content :extended %>
+                <%= render_content_part 'extended', current_resource %>
               </div>
             <% end %>
-            <% if_url %r{^/meetings/\d{4}/\d{2}/\d{2}/.+$} do %>
-              <% unless_url %r{-archives/$} do %>
-                </div>
-              <% end %>
+            <% if current_page.data.category == 'meeting' %>
+              </div>
             <% end %>
-            <% if_url %r{^/podcasts/\d{4}/\d{2}/\d{2}/.+"} do %>
+            <% if_url %r{^/podcasts/\d{4}/.+"} do %>
               <% unless_url %r{-podcasts/$} do %>
                 <%= yield_content :download_link %>
               <% end %>
             <% end %>
-            <% if_url %r{^/(meetings|podcasts)/\d{4}/\d{2}/\d{2}/.+} do %>
+            <% if_url %r{^/(meetings|podcasts)/\d{4}/.+} do %>
               <% unless_url %r{"-(meetings|podcasts)/$} do %>
-                <p class="info">Posted by <%= current_page.data.created_by.name %> on <%= date_format current_page.data.published_at %></p>
+                <p class="info">Posted by <%= current_page.data.created_by.name %> on <%= date_format current_page.data.published_at, "%b %d, %Y" %></p>
               <% end %>
             <% end %>
           </div>

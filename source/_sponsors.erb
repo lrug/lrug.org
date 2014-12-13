@@ -1,0 +1,12 @@
+<div id="sponsors">
+  <% if content_part_exists? 'sponsors', current_resource %>
+    <h4>Meeting Sponsors</h4>
+    <p>Sponsorship kindly provided by:</p>
+    <div class="sponsor_list">
+      <%= render_content_part 'sponsors', current_resource %>
+    </div>
+  <% end %>
+  <h4>Hosted By</h4>
+  <%= render_content_part 'hosted_by', current_resource, inherit: true %>
+  <p>Thanks!</p>
+</div>
