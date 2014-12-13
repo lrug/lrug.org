@@ -42,6 +42,20 @@ module LRUGHelpers
     partial "sponsors"
   end
 
+  def meeting_pages
+    sitemap
+      .resources
+      .select { |page| page_has_data?(page, status: 'Published', category: "meeting") }
+      .sort_by { |page| page.data.published_at }
+      .reverse
+  end
+
+  def page_has_data?(page, args)
+    args.all? do |key, value|
+      page.data[key.to_s] == value
+    end
+  end
+
   def content_part_exists?(part_name, page, inherit: false, &html_block)
     if find_page_part(part_name, page, inherit: inherit)
       concat_content(capture_html &html_block)

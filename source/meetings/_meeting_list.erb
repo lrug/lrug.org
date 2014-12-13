@@ -1,8 +1,0 @@
-<% meeting_pages.each do |meeting_page| %>
-  <div class="entry">
-    <h2><%= link_to meeting_page.data.title, meeting_page %></h2>
-    <%= show_sponsors %>
-    <%= meeting_page.render(layout: false) %>
-    <p class="info">Posted by <%= meeting_page.data.created_by.name %> on <%= date_format meeting_page.data.published_at, "%b %d, %Y" %></p>
-  </div>
-<% end %>

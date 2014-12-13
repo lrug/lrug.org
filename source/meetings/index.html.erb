@@ -36,11 +36,4 @@ status: Published
 class_name: ArchivePage
 ---
 
-<%
-  meeting_pages = sitemap
-                    .where(:status => 'Published', :category => "meeting")
-                    .order_by(:published_at => :desc)
-                    .limit(5)
-                    .all
-%>
-<%= partial 'meetings/meeting_list', locals: { meeting_pages: meeting_pages } %>
+<%= partial 'meetings/meeting', collection: meeting_pages.take(10) %>

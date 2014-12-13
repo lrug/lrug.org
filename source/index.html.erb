@@ -17,28 +17,10 @@ created_by:
 class_name: ""
 ---
 
-<%  
-  meeting_pages =  sitemap
-                    .where(:category => "meeting", :status => 'Published')
-                    .order_by(:published_at => :desc)
-                    .limit(10)
-                    .all
+<%
+  meetings = meeting_pages.take(10)
   featured_meeting = meeting_pages.shift
 %>
+<%= partial 'meetings/meeting', locals: { meeting: featured_meeting, first: true } %>
 
-  <div class="first entry">
-    <h2><%= link_to featured_meeting.data.title, featured_meeting %></h2>
-    <r:snippet name="sponsors" />
-    <%= featured_meeting.render(layout: false) %>
-    <p class="info">Posted by <%= featured_meeting.data.created_by.name %> on <%= date_format featured_meeting.data.published_at, "%b %d, %Y" %></p>
-  </div>
-
-  <% meeting_pages.each do |child_page| %>
-    <div class="entry">
-      <h2><%= link_to child_page.data.title, child_page %></h2>
-      <r:snippet name="sponsors" />
-      <%= child_page.render(layout: false) %>
-      <p class="info">Posted by <%= child_page.data.created_by.name %> on <%= date_format child_page.data.published_at, "%b %d, %Y" %></p>
-    </div>
-  <% end %>
-
+<%= partial 'meetings/meeting', collection: meetings %>

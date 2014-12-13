@@ -1,0 +1,6 @@
+<div class="<%= locals[:first] ? 'first ' : '' %>entry">
+  <h2><%= link_to meeting.data.title, meeting %></h2>
+  <%= show_sponsors %>
+  <%= meeting.render(layout: false) %>
+  <p class="info">Posted by <%= meeting.data.created_by.name %> on <%= date_format meeting.data.published_at, "%b %d, %Y" %></p>
+</div>
