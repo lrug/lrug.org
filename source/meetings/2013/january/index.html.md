@@ -25,6 +25,7 @@ parts:
       [<image src="http://assets.lrug.org/images/peepcode_logo_small.png" width="120" height="120" alt="Peepcode" title="Peepcode Logo"/>](http://www.peepcode.com/)
       <hr/>
 
+    :filter: .md
 status: Published
 class_name: ""
 ---

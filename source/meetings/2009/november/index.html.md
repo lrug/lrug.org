@@ -18,6 +18,7 @@ parts:
       [<image src="http://assets.lrug.org/images/new_bamboo_small.png" width="120" height="24" alt="New Bamboo" title="New Bamboo Logo"/>](http://newbamboo.co.uk/)
       [<image src="http://assets.lrug.org/images/eden_development_small.png" width="120" height="45" alt="Eden Development" title="Eden Development Logo"/>](http://www.edendevelopment.co.uk/)
       [<image src="http://assets.lrug.org/images/taskforce_small.png" width="120" height="20" alt="Taskforce" title="Taskforce Logo"/>](http://www.taskforce.co.uk/about/)
+    :filter: .md
 status: Published
 class_name: ""
 ---

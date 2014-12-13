@@ -18,6 +18,7 @@ parts:
       [<image src="http://assets.lrug.org/images/taskforce_small.png" width="120" height="20" alt="Taskforce" title="Taskforce Logo"/>](http://www.taskforce.co.uk/about/)
       [<image src="http://assets.lrug.org/images/unboxed_small.png" width="120" height="58" alt="Unboxed Consulting" title="Unboxed Consulting Logo"/>](http://www.unboxedconsulting.com/)
       [<image src="http://assets.lrug.org/images/brightbox_small.png" width="120" height="99" alt="Brightbox" title="Brightbox Logo"/>](http://www.brightbox.co.uk/)
+    :filter: .md
 status: Published
 class_name: ""
 ---

@@ -55,11 +55,10 @@ end
 
 def part_to_frontmatter(part, body_filter)
   return nil unless part.content.present?
-  out = {
-    :content => part.content
+  {
+    :content => part.content,
+    :filter => filter_to_extension(part.filter)
   }
-  out[:filter] = filter_to_extension(part.filter) if filter_to_extension(part.filter) != filter_to_extension(body_filter)
-  out
 end
 
 def page_to_middleman_file(page, path, name = 'index')
