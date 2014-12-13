@@ -53,6 +53,12 @@ set :js_dir, 'javascripts'
 
 set :images_dir, 'images'
 
+meeting_years = Dir['source/meetings/*'].each.with_object([]) do |meeting_child, years|
+  name = meeting_child.split('/').last
+  years << name if name =~ /\A\d{4}\Z/
+end
+set :years, meeting_years
+
 require "lib/lrug_helpers"
 helpers LRUGHelpers
 
@@ -77,9 +83,6 @@ end
 ["meetings", "podcasts", "nights", "book-reviews"].each do |slug|
   proxy "/rss/#{slug}.xml", "/rss/template.xml", :layout => false, :locals => { :slug => slug }, :ignore => true
 end
-Dir['source/meetings/*'].each do |meeting_child|
-  name = meeting_child.split('/').last
-  if name =~ /\A\d{4}\Z/
-    proxy "/meetings/#{name}/index.html", "/meetings/meetings_index.html", locals: { year: name }, ignore: true
-  end
+years.each do |year|
+  proxy "/meetings/#{year}/index.html", "/meetings/meetings_index.html", locals: { year: year }, ignore: true
 end

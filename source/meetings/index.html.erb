@@ -16,13 +16,11 @@ created_at: 2006-09-05 11:38:34 Z
 parts:
   sidebar:
     :content: |
-      <h3>Archives By Month</h3>
+      <h3>Archives By Year</h3>
       <ul>
-      <r:find url="/meetings/">
-      <r:children:each order="desc">
-      <r:header><li><a href="<r:date format="/meetings/%Y/%m/" />"><r:date format="%B %Y" /></a></li></r:header>
-      </r:children:each>
-      </r:find>
+        <% years.reverse.each do |year| %>
+          <li><%= link_to year, "/meetings/#{year}" %></li>
+        <% end %>
       </ul>
 
       <span class="calendar-link">[![Calendar subscription](/images/admin/calendar_down.gif) Meeting Calendar](/meeting-calendar)</span>

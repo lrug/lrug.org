@@ -5,8 +5,8 @@
   <li><%= link_to 'Want to speak?', '/speaking/' %></li>
 </ul>
 
-<% if content_for? :sidebar %>
-  <%= yield_content :sidebar %>
+<% if content_part_exists? 'sidebar', current_page, inherit: true %>
+  <%= render_content_part 'sidebar', current_page, inherit: true %>
 <% else %>
   <%= partial 'default_sidebar' %>
 <% end %>
