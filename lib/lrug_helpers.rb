@@ -65,8 +65,10 @@ module LRUGHelpers
     if part
       if part['filter'].present?
         Tilt.new(part['filter']) do
-          part['content']
-        end.render
+          Tilt.new('.erb') do
+            part['content']
+          end.render(self)
+        end.render(self)
       else
         part['content']
       end
