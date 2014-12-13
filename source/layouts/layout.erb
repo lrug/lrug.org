@@ -8,7 +8,7 @@
               <h1><%= current_page.data.title %></h1>
             <% end %>
             <% if current_page.data.category == 'meeting' %>
-              <%= show_sponsors %><div class="vevent">
+              <%= show_sponsors current_page %><div class="vevent">
             <% end %>
             <%= yield %>
             <% if content_part_exists? 'extended', current_resource %>

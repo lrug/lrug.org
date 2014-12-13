@@ -38,8 +38,8 @@ module LRUGHelpers
     include ::Middleman::Sitemap::Queryable::API
   end
 
-  def show_sponsors
-    partial "sponsors"
+  def show_sponsors(for_page = current_page)
+    partial "sponsors", locals: { for_page: for_page }
   end
 
   def meeting_pages
@@ -56,10 +56,8 @@ module LRUGHelpers
     end
   end
 
-  def content_part_exists?(part_name, page, inherit: false, &html_block)
-    if find_page_part(part_name, page, inherit: inherit)
-      concat_content(capture_html &html_block)
-    end
+  def content_part_exists?(part_name, page, inherit: false)
+    find_page_part(part_name, page, inherit: inherit).present?
   end
 
   def render_content_part(part_name, page, inherit: false)
