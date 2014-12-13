@@ -80,8 +80,8 @@ configure :build do
   # set :http_prefix, "/Content/images/"
 end
 
-["meetings", "podcasts", "nights", "book-reviews"].each do |slug|
-  proxy "/rss/#{slug}.xml", "/rss/template.xml", :layout => false, :locals => { :slug => slug }, :ignore => true
+["meeting", "podcast", "night", "book-review"].each do |category|
+  proxy "/rss/#{category.pluralize}.xml", "/rss/template.xml", :layout => false, :locals => { :category => category }, :ignore => true
 end
 years.each do |year|
   proxy "/meetings/#{year}/index.html", "/meetings/meetings_index.html", locals: { year: year }, ignore: true

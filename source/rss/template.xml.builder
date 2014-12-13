@@ -1,8 +1,9 @@
-articles = ChildrenQuery.new(sitemap.where(:slug => slug).first).
-      limit(10).
-      where(:status => 'Published').
-      order_by(:published_at => :desc).
-      all
+articles = sitemap
+             .resources
+             .select { |p| page_has_data? p, category: category, status: 'Published' }
+             .sort_by { |p| p.data.published_at }
+             .reverse
+             .take(10)
 xml.instruct!
 xml.feed "xmlns" => "http://www.w3.org/2005/Atom" do
   site_url = "http://lrug.org/"
@@ -10,7 +11,7 @@ xml.feed "xmlns" => "http://www.w3.org/2005/Atom" do
   xml.language "en-us"
   xml.ttl 40
   xml.link "href" => URI.join(site_url, current_page.path), "rel" => "self"
-  xml.description "LRUG.org London Ruby User Group : Meetings"
+  xml.description "LRUG.org London Ruby User Group : #{category.pluralize.titleize}"
   xml.updated(articles.first.data.updated_at.iso8601) unless articles.empty?
   articles.each do |article|
     xml.entry do
