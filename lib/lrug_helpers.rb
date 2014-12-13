@@ -1,4 +1,8 @@
 module LRUGHelpers
+  def page_title(for_page = current_page)
+    yield_content(:title) || for_page.data.title
+  end
+
   def unless_url(matches, &html_block)
     unless current_resource.url =~ matches
       concat_content(capture_html &html_block)
