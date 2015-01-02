@@ -16,3 +16,11 @@ before :deploy, :update_code do
     execute :bundle, 'exec', 'middleman', 'build', ';', 'true'
   end
 end
+
+after :deploy, :create_release do
+  on roles(fetch(:tar_roles, :all)) do
+    execute :find, "#{release_path}/build", '-name', '._*', '-print0', '|', 'xargs', '-0', 'rm'
+    execute :mv, "#{release_path}/build/*", release_path
+    execute :rmdir, "#{release_path}/build"
+  end
+end
