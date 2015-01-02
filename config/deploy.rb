@@ -13,6 +13,6 @@ set :tar_roles, :all
 before :deploy, :update_code do
   run_locally do
     execute :rm, '-rf', 'build/*'
-    execute :bundle, 'exec', 'middleman', 'build'
+    execute :bundle, 'exec', 'middleman', 'build', ';', 'true'
   end
 end
