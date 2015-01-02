@@ -78,6 +78,8 @@ configure :build do
 
   # Or use a different image path
   # set :http_prefix, "/Content/images/"
+
+  ignore 'lrug_root/meetings/*'
 end
 
 page '/book-reviews/index.html', layout: 'books'
