@@ -47,7 +47,10 @@
 #   end
 # end
 
-activate :build_reporter
+activate :build_reporter do |br|
+  br.reporter_file_formats = ['json']
+  br.reporter_file = 'version'
+end
 
 set :css_dir, 'stylesheets'
 
