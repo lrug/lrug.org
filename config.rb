@@ -85,6 +85,7 @@ configure :build do
   # set :http_prefix, "/Content/images/"
 
   ignore 'lrug_root/meetings/*'
+  ignore 'lrug_root/rss-feed/*'
 end
 
 page '/book-reviews/index.html', layout: 'books'
