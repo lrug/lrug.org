@@ -1,0 +1,38 @@
+--- 
+published_at: 2010-04-03 00:00:00 Z
+updated_by: 
+  email: murray.steele@gmail.com
+  login: hlame
+  name: Murray Steele
+title: Podcasts
+created_at: 2010-04-03 14:30:29 Z
+slug: podcasts
+breadcrumb: Podcasts
+parts:
+  sidebar:
+    :content: |
+      <h3>Episode List</h3>
+      <ul>
+        <% podcast_episodes.each do |podcast_episode| %>
+          <li><%= link_to podcast_episode.data.title, podcast_episode %></li>
+        <% end %>
+      </ul>
+
+    :filter: .erb
+  download_link:
+    :content: |
+      <p class="download">
+        <a href="<%= page.data.file_url %>" title="Download the podcast directly">Download the podcast directly</a>, <a href="itpc://feeds.feedburner.com/lrugpodcast.xml">subscribe in iTunes</a> or <a href="http://feeds.feedburner.com/lrugpodcast">add the RSS feed</a> to your podcast client.
+      </p>
+
+    :filter: .erb
+updated_at: 2013-02-23 13:59:37 Z
+status: Published
+created_by: 
+  email: murray.steele@gmail.com
+  login: hlame
+  name: Murray Steele
+class_name: ArchivePage
+---
+
+<%= partial 'podcasts/podcast', collection: podcast_episodes.take(10) %>

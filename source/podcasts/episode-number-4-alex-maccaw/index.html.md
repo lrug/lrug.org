@@ -4,11 +4,10 @@ title: "Episode #4: Alex MacCaw"
 created_at: 2010-12-24 10:07:17 Z
 slug: episode-4-alex-maccaw
 breadcrumb: "Episode #4: Alex MacCaw"
-parts: 
-- file_url
-- duration
-- file_size
-- keywords
+duration: "15:19"
+file_size: 14776027
+file_url: "http://assets.lrug.org/podcasts/lrug_podcast_episode_4.mp3"
+keywords: "ruby, london, javascript, lrug"
 updated_at: 2013-02-12 23:09:31 Z
 status: Published
 created_by: 
@@ -16,6 +15,7 @@ created_by:
   login: chrislowis
   name: Chris Lowis
 class_name: ""
+category: podcast
 ---
 
 In this episode I'm joined by <a href="http://alexmaccaw.co.uk">Alex MacCaw</a>. Alex is a <a href="https://github.com/maccman">prolific</a> Ruby and JavaScript developer. With an entrepreneurial spirit he's also the creator of <a href="http://www.taskforceapp.com/">Taskforce</a> and has spent time in the San Francisco start-up community. 

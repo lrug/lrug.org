@@ -90,6 +90,7 @@ end
 page '/book-reviews/index.html', layout: 'books'
 page '/book-reviews/*/index.html', layout: 'book-review'
 page '/meetings/*/*/index.html', layout: 'meeting'
+page '/podcasts/*/index.html', layout: 'podcast'
 
 ["meeting", "podcast", "night", "book-review"].each do |category|
   proxy "/rss/#{category.pluralize}/", "/rss/template.xml", :layout => false, :locals => { :category => category }, :ignore => true

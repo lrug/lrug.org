@@ -56,6 +56,14 @@ module LRUGHelpers
       .reverse
   end
 
+  def podcast_episodes
+    sitemap
+      .resources
+      .select { |page| page_has_data?(page, status: 'Published', category: 'podcast') }
+      .sort_by { |page| page.data.published_at }
+      .reverse
+  end
+
   def page_has_data?(page, args)
     args.all? do |key, value|
       page.data[key.to_s] == value
@@ -73,8 +81,8 @@ module LRUGHelpers
         Tilt.new(part['filter']) do
           Tilt.new('.erb') do
             part['content']
-          end.render(self)
-        end.render(self)
+          end.render(self, page: page)
+        end.render(self, page: page)
       else
         part['content']
       end
