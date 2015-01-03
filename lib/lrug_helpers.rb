@@ -32,36 +32,27 @@ module LRUGHelpers
   end
 
   def most_recent(category)
-    case category
-    when 'meeting'
-      meeting_pages.first
-    when 'book_review'
-      book_reviews.first
-    end
+    pages_in_category(category).first
+  end
+
+  def pages_in_category(category)
+    sitemap
+      .resources
+      .select { |page| page_has_data?(page, status: 'Published', category: category) }
+      .sort_by { |page| page.data.published_at }
+      .reverse
   end
 
   def meeting_pages
-    sitemap
-      .resources
-      .select { |page| page_has_data?(page, status: 'Published', category: "meeting") }
-      .sort_by { |page| page.data.published_at }
-      .reverse
+    pages_in_category 'meeting'
   end
 
   def book_reviews
-    sitemap
-      .resources
-      .select { |page| page_has_data?(page, status: 'Published', category: 'book-review') }
-      .sort_by { |page| page.data.published_at }
-      .reverse
+    pages_in_category 'book-review'
   end
 
   def podcast_episodes
-    sitemap
-      .resources
-      .select { |page| page_has_data?(page, status: 'Published', category: 'podcast') }
-      .sort_by { |page| page.data.published_at }
-      .reverse
+    pages_in_category 'podcast'
   end
 
   def page_has_data?(page, args)
