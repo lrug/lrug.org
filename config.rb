@@ -92,7 +92,7 @@ page '/book-reviews/*/index.html', layout: 'book-review'
 page '/meetings/*/*/index.html', layout: 'meeting'
 
 ["meeting", "podcast", "night", "book-review"].each do |category|
-  proxy "/rss/#{category.pluralize}.xml", "/rss/template.xml", :layout => false, :locals => { :category => category }, :ignore => true
+  proxy "/rss/#{category.pluralize}/", "/rss/template.xml", :layout => false, :locals => { :category => category }, :ignore => true
 end
 years.each do |year|
   proxy "/meetings/#{year}/index.html", "/meetings/meetings_index.html", locals: { year: year }, ignore: true
