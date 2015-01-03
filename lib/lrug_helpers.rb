@@ -107,6 +107,10 @@ module LRUGHelpers
     date.strftime(format) unless date.nil?
   end
 
+  def rfc_1123_date(date)
+    date.rfc2822 unless date.nil?
+  end
+
   def render_markdown(md)
     Tilt['markdown'].new do
       md
