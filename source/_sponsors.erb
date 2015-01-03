@@ -1,0 +1,12 @@
+<div id="sponsors">
+  <% if content_part_exists? 'sponsors', locals[:for_page] %>
+    <h4>Meeting Sponsors</h4>
+    <p>Sponsorship kindly provided by:</p>
+    <div class="sponsor_list">
+      <%= render_content_part 'sponsors', locals[:for_page] %>
+    </div>
+  <% end %>
+  <h4>Hosted By</h4>
+  <%= render_content_part 'hosted_by', locals[:for_page], inherit: true %>
+  <p>Thanks!</p>
+</div>

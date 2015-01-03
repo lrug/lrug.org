@@ -1,37 +1,15 @@
 <% wrap_layout :base do %>
-    <div id="page">
-      <%= partial 'header' %>
-      <div id="main">
-        <div id="content-wrapper">
-          <div id="content">
-            <h1><%= current_page.data.title %></h1>
-            <%= yield %>
-          <% with_page 'book-reviews' do |book_reviews_root| %>
-            <% with_children_of book_reviews_root, order: :desc do |review| %>
-              <div class="entry">
-                <h3>
-                  <%= link_to review.metadata[:page]['title'], 
-                              '/'+review.path %>
-                </h3>
-                <% if review.metadata[:page]['excerpt'] %>
-                  <%= render_markdown review.metadata[:page]['excerpt'] %>
-                <% end %> 
-                <p class="info">
-                  Posted by <%= review.metadata[:page]['created_by']['name'] %> 
-                  on <%= date_format  review.metadata[:page]['published_at'],
-                                      "%b %d, %Y" %>
-                </p>
-              </div>
-            <% end %> 
-          <% end %>
-          </div>
-        </div>
-        <div id="sidebar-wrapper">
-          <div id="sidebar">
-            <%= partial 'sidebar' %>
-          </div>
-        </div>
-      </div>
-      <%= partial 'footer' %>
+  <h1><%= page_title %></h1>
+  <%= yield %>
+  <% book_reviews.each do |review| %>
+    <div class="entry">
+      <h3>
+        <%= link_to page_title(review), review %>
+      </h3>
+      <%= render_content_part('excerpt', review) if content_part_exists?('excerpt', review) %>
+      <p class="info">
+        Posted by <%= review.data['created_by']['name'] %> on <%= date_format  review.data['published_at'], "%b %d, %Y" %>
+      </p>
     </div>
+  <% end %>
 <% end %>

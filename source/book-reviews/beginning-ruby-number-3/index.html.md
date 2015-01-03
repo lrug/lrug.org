@@ -4,9 +4,11 @@ title: "Beginning Ruby #3"
 created_at: 2007-06-14 08:29:25 Z
 slug: beginning-ruby-3
 breadcrumb: "Beginning Ruby #3"
-layout: book-review
 parts: 
-- extended
+  excerpt:
+    :content: |
+      Peter Jones reviews his copy of ['Beginning Ruby' by Peter Cooper](http://www.amazon.co.uk/Beginning-Ruby-Experts-Voice-Source/dp/1590597664), published by [Apress](http://www.apress.com/)
+    :filter: .md
 updated_at: 2013-02-12 23:09:16 Z
 status: Published
 created_by: 
@@ -14,8 +16,7 @@ created_by:
   login: hlame
   name: Murray Steele
 class_name: ""
-excerpt: |
-  Peter Jones reviews his copy of ['Beginning Ruby' by Peter Cooper](http://www.amazon.co.uk/Beginning-Ruby-Experts-Voice-Source/dp/1590597664), published by [Apress](http://www.apress.com/)
+category: 'book-review'
 ---
 
 Beginning Ruby, From Novice to Professional is classified by Apress as being appropriate for users of beginning to intermediate level. The Apress roadmap for readers suggests starting with this book or ["Beginning Ruby on Rails"](http://apress.com/book/bookDisplay.html?bID=10124), and then moving onto ["Rails Solutions: Ruby on Rails Made Easy"](http://www.amazon.co.uk/Rails-Solutions-Ruby-Made-Easy/dp/1590597524/ref=sr_1_1/203-7531475-6650320?ie=UTF8&s=books&qid=1181810247&sr=1-1) and ["Beginning Ruby on Rails E-Commerce"](http://apress.com/book/bookDisplay.html?bID=10178). Finally there is ["Practical Ruby Gems"](http://apress.com/book/bookDisplay.html?bID=10261) and ["Pro Ruby on Rails"](http://www.amazon.co.uk/Pro-Ruby-Rails-Enterprise-Solutions/dp/1590598121/ref=sr_1_2/203-7531475-6650320?ie=UTF8&s=books&qid=1181810333&sr=1-2). So it can be seen this particular book is a starting point which can progress to a number of books, and that there is a strong link to Ruby on Rails.

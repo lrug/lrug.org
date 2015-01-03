@@ -1,0 +1,6 @@
+<div class="entry">
+  <h3><%= link_to podcast.data.title, podcast %></h3>
+  <%= podcast.render(layout: false) %>
+  <%= render_content_part 'download_link', podcast, inherit: true %>
+  <p class="info">Posted by <%= podcast.data.created_by.name %> on <%= date_format podcast.data.published_at, "%b %d, %Y" %></p>
+</div>

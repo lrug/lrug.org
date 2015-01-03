@@ -47,11 +47,22 @@
 #   end
 # end
 
+activate :build_reporter do |br|
+  br.reporter_file_formats = ['json']
+  br.reporter_file = 'version'
+end
+
 set :css_dir, 'stylesheets'
 
 set :js_dir, 'javascripts'
 
 set :images_dir, 'images'
+
+meeting_years = Dir['source/meetings/*'].each.with_object([]) do |meeting_child, years|
+  name = meeting_child.split('/').last
+  years << name if name =~ /\A\d{4}\Z/
+end
+set :years, meeting_years
 
 require "lib/lrug_helpers"
 helpers LRUGHelpers
@@ -72,8 +83,18 @@ configure :build do
 
   # Or use a different image path
   # set :http_prefix, "/Content/images/"
+
+  ignore 'lrug_root/meetings/*'
 end
 
-["meetings", "podcasts", "nights", "book-reviews"].each do |slug|
-  proxy "/rss/#{slug}.xml", "/rss/template.xml", :layout => false, :locals => { :slug => slug }, :ignore => true
+page '/book-reviews/index.html', layout: 'books'
+page '/book-reviews/*/index.html', layout: 'book-review'
+page '/meetings/*/*/index.html', layout: 'meeting'
+page '/podcasts/*/index.html', layout: 'podcast'
+
+["meeting", "night", "book-review"].each do |category|
+  proxy "/rss/#{category.pluralize}/index.rss", "/rss/template.rss", :layout => false, :locals => { :category => category }, :ignore => true
+end
+years.each do |year|
+  proxy "/meetings/#{year}/index.html", "/meetings/meetings_index.html", locals: { year: year }, ignore: true
 end

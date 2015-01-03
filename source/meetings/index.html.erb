@@ -1,0 +1,36 @@
+---
+updated_by:
+  email: murray.steele@gmail.com
+  login: hlame
+  name: Murray Steele
+breadcrumb: Meetings
+slug: meetings
+created_by:
+  email: james@lazyatom.com
+  login: lazyatom
+  name: James Adam
+title: Meetings
+updated_at: 2013-02-23 13:58:08 Z
+published_at: 2006-09-05 00:00:00 Z
+created_at: 2006-09-05 11:38:34 Z
+parts:
+  sidebar:
+    :content: |
+      <h3>Archives By Year</h3>
+      <ul>
+        <% years.reverse.each do |year| %>
+          <li><%= link_to year, "/meetings/#{year}" %></li>
+        <% end %>
+      </ul>
+
+      <%= meeting_calendar_link %>
+
+    :filter: .md.erb
+  hosted_by:
+    :content: "[<image src=\"http://assets.lrug.org/images/skills_matter_small.png\" width=\"120\" height=\"46\" alt=\"Skills Matter\" title=\"Skills Matter Logo\"/>](http://skillsmatter.com/go/ajax-ria/ng-103)"
+    :filter: .md
+status: Published
+class_name: ArchivePage
+---
+
+<%= partial 'meetings/meeting', collection: meeting_pages.take(10) %>

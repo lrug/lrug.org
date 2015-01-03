@@ -8,9 +8,14 @@ title: Book Reviews
 created_at: 2007-05-25 09:30:44 Z
 slug: book-reviews
 breadcrumb: Book Reviews
-layout: books
 parts: 
-- sidebar
+  sidebar: 
+    :content: |
+      ### Reviews by Month
+      <r:find url="/book-reviews/"><r:children:each order="desc">
+      <r:header>* [<r:date format="%B %Y" />](<r:date format="/book-reviews/%Y/%m/" />)</r:header>
+      </r:children:each></r:find>
+    :filter: .md
 updated_at: 2013-02-23 13:58:46 Z
 status: Published
 created_by: 

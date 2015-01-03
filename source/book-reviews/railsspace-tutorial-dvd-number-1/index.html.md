@@ -4,9 +4,11 @@ title: "RailsSpace Tutorial DVD #1"
 created_at: 2008-10-05 15:16:35 Z
 slug: railsspace-tutorial-dvd-1
 breadcrumb: "RailsSpace Tutorial DVD #1"
-layout: book-review
 parts: 
-- extended
+  excerpt:
+    :content: |
+      Peter Jones reviews a copy of [RailsSpace Ruby On Rails Tutorial](http://www.informit.com/store/product.aspx?isbn=0321517067) by [Aurelius Prochazka](http://aure.com/) published by [Addison-Wesley](http://www.informit.com/imprint/index.aspx?st=61085) as part of their [Professional Ruby Series](http://www.informit.com/promotions/promotion.aspx?promo=135393).
+    :filter: .md
 updated_at: 2013-02-12 23:09:23 Z
 status: Published
 created_by: 
@@ -14,8 +16,7 @@ created_by:
   login: hlame
   name: Murray Steele
 class_name: ""
-excerpt: |
-  Peter Jones reviews a copy of [RailsSpace Ruby On Rails Tutorial](http://www.informit.com/store/product.aspx?isbn=0321517067) by [Aurelius Prochazka](http://aure.com/) published by [Addison-Wesley](http://www.informit.com/imprint/index.aspx?st=61085) as part of their [Professional Ruby Series](http://www.informit.com/promotions/promotion.aspx?promo=135393).
+category: 'book-review'
 ---
 
 RailsSpace: Ruby on Rails Tutorial is a CD, with associated booklet, comprising over five hours of "LiveLessons" presented by Aurelius Prochazak, who is described as an "Internet pioneer and best-selling author".

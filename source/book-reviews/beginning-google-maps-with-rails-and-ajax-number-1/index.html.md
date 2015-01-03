@@ -4,9 +4,12 @@ title: "Beginning Google Maps with Rails and AJAX #1"
 created_at: 2007-05-25 09:52:29 Z
 slug: beginning-google-maps-with-rails-and-ajax-1
 breadcrumb: "Beginning Google Maps with Rails and AJAX #1"
-layout: book-review
 parts: 
-- extended
+  excerpt:
+    :content: |
+      Graham Seaman reviews his copy of ['Beginning Google Maps Applications with Rails and Ajax - from novice to
+      professional' by A. Lewis](http://www.amazon.co.uk/Beginning-Google-Maps-Applications-Rails/dp/1590597877/ref=sr_1_2/203-7531475-6650320?ie=UTF8&s=books&qid=1180086616&sr=1-2),  published by [Apress](http://www.apress.com/)
+    :filter: .md
 updated_at: 2013-02-12 23:09:15 Z
 status: Published
 created_by: 
@@ -14,9 +17,7 @@ created_by:
   login: hlame
   name: Murray Steele
 class_name: ""
-excerpt: |
-  Graham Seaman reviews his copy of ['Beginning Google Maps Applications with Rails and Ajax - from novice to
-  professional' by A. Lewis](http://www.amazon.co.uk/Beginning-Google-Maps-Applications-Rails/dp/1590597877/ref=sr_1_2/203-7531475-6650320?ie=UTF8&s=books&qid=1180086616&sr=1-2),  published by [Apress](http://www.apress.com/)
+category: 'book-review'
 ---
 
 As it says on the tin, this book covers Google maps applications, that is, the Google API, rather than generic mapping principles. There is one very short chapter on projections of the surface of a sphere onto two dimensions, but that is it - this is not a GIS textbook. It is slightly unclear what level it is aimed at; as hinted by the title, it is either 'beginning' Google map applications, or 'from novice to professional'.  My guess would be that the 'beginning' version was the authors' choice and 'from novice to professional' added by the marketing department. The book does start with extremely simple examples (pretty much identical to what you get from Google's own site) and work towards gradually more complex applications, but from my personal experience of implementing just one Google map application the level of complexity of the final parts of the book is one you are likely to hit not long after starting to use the API, and not really one you could call 'professional'.

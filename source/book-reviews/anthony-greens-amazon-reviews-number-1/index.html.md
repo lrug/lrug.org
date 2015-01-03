@@ -4,9 +4,11 @@ title: "Anthony Green's Amazon Reviews #1"
 created_at: 2007-05-25 09:43:03 Z
 slug: anthony-greens-amazon-reviews-1
 breadcrumb: "Anthony Green's Amazon Reviews #1"
-layout: book-review
 parts: 
-- extended
+  excerpt: 
+    :content: |
+      Anthony Green has been writing reviews of programming books on [Amazon.co.uk](http://www.amazon.co.uk/) for a while now.  Below is a list of his current Ruby book reviews.
+    :filter: .md
 updated_at: 2013-02-12 23:09:15 Z
 status: Published
 created_by: 
@@ -14,8 +16,7 @@ created_by:
   login: hlame
   name: Murray Steele
 class_name: ""
-excerpt: |
-  Anthony Green has been writing reviews of programming books on [Amazon.co.uk](http://www.amazon.co.uk/) for a while now.  Below is a list of his current Ruby book reviews.
+category: 'book-review'
 ---
 
 * ['Ruby for Rails' by David Black](http://www.amazon.co.uk/gp/cdp/member-reviews/A6FRWX9SB9RJ1/ref=cm_pdp_reviews_see_all/202-9044108-4274218#R14EWZH5OOBMQ8) - 5 stars in a review titled 'A Gem'

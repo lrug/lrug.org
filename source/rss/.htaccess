@@ -1,0 +1,2 @@
+DirectoryIndex index.rss
+AddType 'application/rss+xml; charset=utf-8' .rss
