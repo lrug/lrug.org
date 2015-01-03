@@ -8,7 +8,7 @@
 
 * Meeting: <%= link_to_most_recent('meeting') %>
 * Night: <r:find url="/nights/"><r:children:each limit="1" order="desc"><r:link /></r:children:each></r:find>
-* Podcast: <r:find url="/podcasts/"><r:children:each limit="1" order="desc"><r:link /></r:children:each></r:find>
+* Podcast: <%= link_to_most_recent('podcast') %>
 
 Older [meetings](/meetings/) \| [nights](/nights/) \| [podcasts](/podcasts/)
 
