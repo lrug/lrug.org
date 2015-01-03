@@ -6,7 +6,7 @@
 
 ### Next or Most Recent
 
-* Meeting: <r:find url="/meetings/"><r:children:each limit="1" order="desc"><r:link /></r:children:each></r:find>
+* Meeting: <%= link_to_most_recent('meeting') %>
 * Night: <r:find url="/nights/"><r:children:each limit="1" order="desc"><r:link /></r:children:each></r:find>
 * Podcast: <r:find url="/podcasts/"><r:children:each limit="1" order="desc"><r:link /></r:children:each></r:find>
 
@@ -30,7 +30,7 @@ We have [semi-regular social meetups](/nights/) with no agendas.  Come along!
 
 ### Book Reviews
 
-Members occasionally [review books](/book-reviews/).  Most recent: <r:find url="/book-reviews/"><r:children:each limit="1" order="desc"><r:link /></r:children:each></r:find>
+Members occasionally [review books](/book-reviews/).  Most recent: <%= link_to_most_recent('book_review') %>
 
 ### Sponsors
 

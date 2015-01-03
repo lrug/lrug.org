@@ -26,6 +26,20 @@ module LRUGHelpers
     partial "sponsors", locals: { for_page: for_page }
   end
 
+  def link_to_most_recent(category)
+    meeting = most_recent(category)
+    link_to meeting.data.title, meeting
+  end
+
+  def most_recent(category)
+    case category
+    when 'meeting'
+      meeting_pages.first
+    when 'book_review'
+      book_reviews.first
+    end
+  end
+
   def meeting_pages
     sitemap
       .resources
