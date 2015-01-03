@@ -90,4 +90,10 @@ module LRUGHelpers
       md
     end.render
   end
+
+  def meeting_calendar_link
+    render_markdown(
+      %{<span class="calendar-link">[![Calendar subscription](http://assets.lrug.org/images/calendar_down.gif) Meeting Calendar](/meeting-calendar)</span>}
+    )
+  end
 end
