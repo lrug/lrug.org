@@ -1,3 +1,7 @@
+---
+status: 'Published'
+---
+
 <%
   meetings = meeting_pages.select { |page| page.path.include? "/#{locals[:year]}/" }
   content_for(:title) { "#{locals[:year]} Meetings" }

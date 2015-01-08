@@ -99,3 +99,13 @@ end
 years.each do |year|
   proxy "/meetings/#{year}/index.html", "/meetings/meetings_index.html", locals: { year: year }, ignore: true
 end
+
+ready do
+  sitemap.resources.
+    reject { |r| r.data.status && r.data.status == 'Published' }. # keep published files
+    reject { |r| r.path =~ %r{(javascripts|images|stylesheets)/} }. # and assets
+    reject { |r| r.path =~ %r{\.htaccess\Z} }. # and .htaccess files
+    each do |unpublished|
+      ignore unpublished.path
+    end
+end

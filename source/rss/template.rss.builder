@@ -1,3 +1,6 @@
+---
+status: Published
+---
 articles = pages_in_category(category).take(10)
 site_url = "http://lrug.org/"
 
