@@ -130,3 +130,6 @@ div#sponsors img {
   color: #fff;
   text-decoration: underline;
 }
+.minor {
+  font-size: 90%;
+}
