@@ -4,8 +4,6 @@ title: The LRUG IRC room
 created_at: 2007-05-15 12:28:31 Z
 slug: irc
 breadcrumb: irc
-parts: 
-- extended
 updated_at: 2013-02-12 23:09:15 Z
 status: Published
 created_by: 
