@@ -1,0 +1,6 @@
+ErrorDocument 404 /file-not-found/
+
+RewriteEngine On
+<% data.redirects.each do |redirect| %>
+RewriteRule  ^<%= redirect.from %>($|/)  <%= redirect.to %>  [<%= redirect.rules || 'R=301,NC,L' %>]
+<% end %>

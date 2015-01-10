@@ -100,6 +100,8 @@ years.each do |year|
   proxy "/meetings/#{year}/index.html", "/meetings/meetings_index.html", locals: { year: year }, ignore: true
 end
 
+proxy '/.htaccess', '/.htaccess.html', layout: false, ignore: true
+
 ready do
   sitemap.resources.
     reject { |r| r.data.status && r.data.status == 'Published' }. # keep published files

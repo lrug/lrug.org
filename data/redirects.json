@@ -1,0 +1,24 @@
+// Each entry will be turned into an Apache RewriteRule as follows:
+// RewriteRule ^<from>($|/) <to> [<rules>]
+// <rules> defaults to: R=301,NC,L if you don't set it
+// The ^<from>($|/) match means we'll grab a folder and all subfolders
+// so order accordingly if you want /foo/bar to go somewhere other than
+// where /foo goes
+[
+  {
+    "from":"about",
+    "to":"http://readme.lrug.org"
+  },
+  {
+    "from":"mailing-list",
+    "to":"http://lists.lrug.org/listinfo.cgi/chat-lrug.org"
+  },
+  {
+    "from":"meeting-calendar",
+    "to":"https://www.google.com/calendar/ical/407h2dbfrht4g2jsm2m2veibu8@group.calendar.google.com/public/basic.ics"
+  },
+  {
+    "from":"speaking",
+    "to":"http://readme.lrug.org/#talks"
+  }
+]
