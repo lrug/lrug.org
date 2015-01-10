@@ -11,10 +11,11 @@ breadcrumb: Book Reviews
 parts: 
   sidebar: 
     :content: |
-      ### Reviews by Month
-      <r:find url="/book-reviews/"><r:children:each order="desc">
-      <r:header>* [<r:date format="%B %Y" />](<r:date format="/book-reviews/%Y/%m/" />)</r:header>
-      </r:children:each></r:find>
+      ### All Reviews
+      <% book_reviews.each.with_index do |review, idx| %>
+      <%= idx %>. <%= link_to review.data.title, review %>
+      <% end %>
+
     :filter: .md
 updated_at: 2013-02-23 13:58:46 Z
 status: Published
