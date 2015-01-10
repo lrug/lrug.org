@@ -10,6 +10,10 @@
     "to":"http://readme.lrug.org"
   },
   {
+    "from":"about-old",
+    "to":"/about"
+  },
+  {
     "from":"mailing-list",
     "to":"http://lists.lrug.org/listinfo.cgi/chat-lrug.org"
   },
@@ -20,6 +24,14 @@
   {
     "from":"speaking",
     "to":"http://readme.lrug.org/#talks"
+  },
+  {
+    "from":"speaking-old/tips",
+    "to":"/speaking/tips"
+  },
+  {
+    "from":"speaking-old",
+    "to":"/speaking"
   },
   // we could redirect this as /speaking/ above, but you never know - we
   // might change the urls around later so we'll incur the double redirect

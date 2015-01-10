@@ -86,6 +86,7 @@ configure :build do
 
   ignore 'lrug_root/meetings/*'
   ignore 'lrug_root/rss-feed/*'
+  ignore 'archive/*'
 end
 
 page '/book-reviews/index.html', layout: 'books'
