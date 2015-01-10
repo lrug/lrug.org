@@ -55,6 +55,10 @@ module LRUGHelpers
     pages_in_category 'podcast'
   end
 
+  def nights_episodes
+    pages_in_category 'nights'
+  end
+
   def page_has_data?(page, args)
     args.all? do |key, value|
       page.data[key.to_s] == value

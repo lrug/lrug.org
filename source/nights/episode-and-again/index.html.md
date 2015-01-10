@@ -11,6 +11,7 @@ created_by:
   login: abscond
   name: James Darling
 class_name: ""
+category: nights
 ---
 
 Come join some of the LRUG regulars in [The Water Poet][1] on Monday 22nd August, 2011.

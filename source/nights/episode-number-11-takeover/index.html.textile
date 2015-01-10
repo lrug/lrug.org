@@ -11,6 +11,7 @@ created_by:
   login: mitchb
   name: Mitch Buchannon
 class_name: ""
+category: nights
 ---
 
 Episode 11 of LRUG Nights will take place at the ["Champion"](http://www.fancyapint.com/pubs/pub1035.html), Wells Street on Wednesday October 29th at 6:30pm.

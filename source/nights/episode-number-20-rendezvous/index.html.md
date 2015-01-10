@@ -11,6 +11,7 @@ created_by:
   login: hlame
   name: Murray Steele
 class_name: ""
+category: nights
 ---
 
 Episode 20 of LRUG Nights will take place on Tuesday, March 30th 2010.

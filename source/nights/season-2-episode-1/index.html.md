@@ -11,6 +11,7 @@ created_by:
   login: lazyatom
   name: James Adam
 class_name: ""
+category: nights
 ---
 
 Winter is coming! Let us make shelter in a lovely warm pub, for good chats and enjoyable times.

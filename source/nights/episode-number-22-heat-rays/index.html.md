@@ -11,6 +11,7 @@ created_by:
   login: hlame
   name: Murray Steele
 class_name: ""
+category: nights
 ---
 
 [Tim Cowlishaw](http://twitter.com/mistertim/) wants to pretend he's at the [Scottish Ruby Conference](http://scottishrubyconference.com/) by drinking whisky in a pub in London and chatting about Ruby.  It'll be just like being there:

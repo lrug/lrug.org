@@ -11,6 +11,7 @@ created_by:
   login: mitchb
   name: Mitch Buchannon
 class_name: ""
+category: nights
 ---
 
 A deranged man has taken a fancy to lifeguard Caroline Holden and has made many advances. She resisted, but he has captured her - locked her in a cage furnished like her apartment.

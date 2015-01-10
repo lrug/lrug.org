@@ -11,6 +11,7 @@ created_by:
   login: hlame
   name: Murray Steele
 class_name: ""
+category: nights
 ---
 
 [Chris Lowis](http://twitter.com/chrislowis/) is our host for the latest in our (admittedly irregular) social meetups.  His [announcement to the list](http://lists.lrug.org/pipermail/chat-lrug.org/2012-February/007036.html) is well worth a read, but the gist is:

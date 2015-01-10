@@ -11,6 +11,7 @@ created_by:
   login: lazyatom
   name: James Adam
 class_name: ""
+category: nights
 ---
 
 Episode two of LRUG Nights is taking place on Tuesday 17th of July, at [The Crown](http://fancyapint.com/pubs/pub199.html), where we will be having a crossover with David Black. Want to be involved in the action? Sign up to the mailing list!

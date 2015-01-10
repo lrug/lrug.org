@@ -11,6 +11,7 @@ created_by:
   login: mitchb
   name: Mitch Buchannon
 class_name: ""
+category: nights
 ---
 
 A prison escapee vows to kill everyone associated with his conviction. Garner was one of the arresting officers. 

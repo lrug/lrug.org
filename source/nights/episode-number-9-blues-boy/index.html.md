@@ -11,6 +11,7 @@ created_by:
   login: mitchb
   name: Mitch Buchannon
 class_name: ""
+category: nights
 ---
 
 Episode 9 of LRUG Nights will take place at the ["The Lyceum "](http://www.beerintheevening.com/pubs/s/69/694/Lyceum/Strand) on Wednesday July 30th.

@@ -11,6 +11,7 @@ created_by:
   login: hlame
   name: Murray Steele
 class_name: ""
+category: nights
 ---
 
 So rumour has it that Mitch Buchannon is still on the run but due to technical 

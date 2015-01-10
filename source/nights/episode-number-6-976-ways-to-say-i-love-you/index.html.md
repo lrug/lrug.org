@@ -11,6 +11,7 @@ created_by:
   login: mitchb
   name: Mitch Buchannon
 class_name: ""
+category: nights
 ---
 
 The next LRUG Nights will take place on Tuesday the 4th of December at the ["John Snow"][1] Pub.

@@ -11,6 +11,7 @@ created_by:
   login: abscond
   name: James Darling
 class_name: ""
+category: nights
 ---
 
 It looks like we've lost Mitch Buchannon. My sources tell me he'll be in the [Strongroom Bar][1], 6:30pm tonight, Monday 28th June 2010. [All American Beers][2]. We'd better get there for then.

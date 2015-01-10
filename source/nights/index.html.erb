@@ -1,0 +1,28 @@
+--- 
+published_at: 2007-06-14 00:00:00 Z
+updated_by: 
+  email: murray.steele@gmail.com
+  login: hlame
+  name: Murray Steele
+title: Nights
+created_at: 2007-06-14 21:10:16 Z
+slug: nights
+breadcrumb: Nights
+updated_at: 2013-02-23 13:56:30 Z
+status: Published
+created_by: 
+  email: murray.steele@gmail.com
+  login: hlame
+  name: Murray Steele
+class_name: ArchivePage
+---
+
+<div id="about" class="content">
+  <p><strong>Sometimes it's nice to forget about learning.</strong> Sometimes it's nice to meet folk without having a predefined agenda.  Sometimes it's nice to drink beers. Sometimes it's nice to solve crimes in the seedy LA underworld. <em>But most of the time it's just nice to drink beers.</em></p>
+  <p>Welcome to <a href="/">LRUG</a> Nights.</p>
+  <p>A monthly meetup, roughly halfway between our <a href="/meetings/">regular meetings</a>, where we chat, drink beers, maybe solve crimes.</p>
+</div>
+
+<div class="content" id="next-meeting">
+  <%= partial 'nights/night', locals: { night: most_recent('nights') } %>
+</div> 

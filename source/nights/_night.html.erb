@@ -1,0 +1,3 @@
+<h3><%= link_to night.data.title, night %></h3>
+<%= night.render(layout: false) %>
+<p class="info">Posted by <%= night.data.created_by.name %> on <%= date_format night.data.published_at, "%b %d, %Y" %></p>

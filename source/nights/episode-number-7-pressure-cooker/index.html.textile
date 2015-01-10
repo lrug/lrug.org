@@ -11,6 +11,7 @@ created_by:
   login: mitchb
   name: Mitch Buchannon
 class_name: ""
+category: nights
 ---
 
 The next episode is about to begin, to take place at the ["Glasshouse Stores"](http://fancyapint.com/pubs/pub231.html) on March 2th.

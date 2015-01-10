@@ -11,6 +11,7 @@ created_by:
   login: mitchb
   name: Mitch Buchannon
 class_name: ""
+category: nights
 ---
 
 Episode 5 of LRUG Nights will take place on Thursday 1st November at "The Blue Posts":http://fancyapint.com/pubs/pub1.html, near Tott. Court Road / Goodge Street Tubes. There are rumours in the underworld that we may have some sub standard allies to assist us in our crime-busting exploits.

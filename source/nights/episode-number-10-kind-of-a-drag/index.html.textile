@@ -11,6 +11,7 @@ created_by:
   login: mitchb
   name: Mitch Buchannon
 class_name: ""
+category: nights
 ---
 
 Episode 10 of LRUG Nights will take place at the ["The Cock Tavern"](http://www.fancyapint.com/pubs/pub848.html), Fitzrovia on Wednesday August 27th at 6:30pm.

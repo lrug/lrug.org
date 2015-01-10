@@ -11,6 +11,7 @@ created_by:
   login: mitchb
   name: Mitch Buchannon
 class_name: ""
+category: nights
 ---
 
 As some of you may be aware, Ryan's younger sister, Charlie, has been kidnapped. I need El Rug's help to get her back.

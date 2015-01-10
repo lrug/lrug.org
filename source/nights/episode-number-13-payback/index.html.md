@@ -11,6 +11,7 @@ created_by:
   login: mitchb
   name: Mitch Buchannon
 class_name: ""
+category: nights
 ---
 
 Albert Romero's wife has been kidnapped. Only LRUG can help. It's our job. It's what we do. It's our sworn duty.

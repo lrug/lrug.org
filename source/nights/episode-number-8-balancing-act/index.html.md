@@ -11,6 +11,7 @@ created_by:
   login: mitchb
   name: Mitch Buchannon
 class_name: ""
+category: nights
 ---
 
 Episode 8 of LRUG Nights will take place at the ["The Princess Louise "](http://www.fancyapint.com/pubs/pub482.html) on Thursday June 26th.

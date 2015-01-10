@@ -11,6 +11,7 @@ created_by:
   login: hlame
   name: Murray Steele
 class_name: ""
+category: nights
 ---
 
 [James Darling](http://twitter.com/abscond/) is making a brave effort to restart these [LRUG Nights](/nights).  Come join some of the [LRUG](/) regulars in [The Old Kings Head](http://www.fancyapint.com/pubs/pub437.php) on Tuesday 22nd March, 2011. 

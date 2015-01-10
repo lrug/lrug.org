@@ -11,6 +11,7 @@ created_by:
   login: hlame
   name: Murray Steele
 class_name: ""
+category: nights
 ---
 
 Episode 19 of LRUG Nights will take place on Wednesday January 6th 2010.

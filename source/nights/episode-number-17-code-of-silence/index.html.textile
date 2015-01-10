@@ -11,6 +11,7 @@ created_by:
   login: mitchb
   name: Mitch Buchannon
 class_name: ""
+category: nights
 ---
 
 A geisha girl is kidnapped and her small daughter sought by the kidnappers. Mitch and the child's grandfather protect her and attempt to rescue her mom.
