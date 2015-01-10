@@ -1,0 +1,49 @@
+body {
+  background: #032979 url(http://assets.lrug.org/images/bottom.png) bottom left repeat-x;
+  margin: 0em;
+  padding: 0em;
+}
+div#container {
+  /* #032a7a */
+  background: url(http://assets.lrug.org/images/lrug-nights-background.png) repeat-x;
+}
+h1 {
+  background: transparent url(http://assets.lrug.org/images/lrug-nights-logo.png) no-repeat;
+  width: 593px;
+  height: 488px;
+  margin: auto;
+  margin-top: 0em;
+  padding: 0em;
+  color: transparent;
+  text-indent: -1000em;
+}
+h3 {
+  margin-top: 0em;
+}
+div.content {
+  width: 573px;
+  margin: auto;
+  padding: 10px;
+  background: #f2ecff;
+  border: 2px solid #fc72c8;
+  font-family: sans-serif;
+  color: #000000;
+  font-size: 12pt;
+  line-height: 14pt;
+  margin-bottom: 2em;
+}
+/* supposedly target safari only */
+body:last-child:not(:root:root) div.content p {
+  margin-bottom: 1em !important;
+}
+div.content p {
+  margin-top: 0em;
+  margin-bottom: 1em;
+}
+div.content p:last-child {
+  margin-bottom: 0em;
+}
+a {
+  color: #fc72c8;
+  font-weight: bold;
+}

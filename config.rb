@@ -92,6 +92,8 @@ page '/book-reviews/index.html', layout: 'books'
 page '/book-reviews/*/index.html', layout: 'book-review'
 page '/meetings/*/*/index.html', layout: 'meeting'
 page '/podcasts/*/index.html', layout: 'podcast'
+page '/nights/index.html', layout: 'nights'
+page '/nights/*/index.html', layout: 'nights-episode'
 
 ["meeting", "night", "book-review"].each do |category|
   proxy "/rss/#{category.pluralize}/index.rss", "/rss/template.rss", :layout => false, :locals => { :category => category }, :ignore => true

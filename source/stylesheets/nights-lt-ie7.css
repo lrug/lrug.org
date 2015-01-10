@@ -1,0 +1,16 @@
+body {
+  background-image:none;
+  /*filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src='/images/lrug-nights-skyline.png', sizingMethod='image');*/
+  /* What sir? Using IE sir? Not seeing the lovely london skyline sir? EVER SO SORRY SIR. Use a real browser you prick. */
+}
+
+div#container {
+   text-align: center;
+}
+
+div.content p {
+  text-align: left;
+}
+div.content p:last-child {
+  margin-bottom: 0em !important;
+}
