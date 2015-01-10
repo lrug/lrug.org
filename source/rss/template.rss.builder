@@ -11,7 +11,7 @@ xml.rss version: '2.0', 'xmlns:dc' => 'http://purl.org/dc/elements/1.1/' do
     xml.link URI.join(site_url, category)
     xml.language 'en-gb'
     xml.ttl 40
-    xml.description "LRUG.org London Ruby User Group : #{category.pluralize.titleize}"
+    xml.description "LRUG.org London Ruby User Group : #{description || category.pluralize.titleize}"
     xml.lastBuildDate rfc_1123_date(articles.first.data.updated_at) unless articles.empty?
     articles.each do |article|
       article_url = URI.join(site_url, url_for(article))
