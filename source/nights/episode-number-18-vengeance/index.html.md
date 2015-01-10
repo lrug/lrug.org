@@ -18,9 +18,9 @@ A prison escapee vows to kill everyone associated with his conviction. Garner wa
 
 The escapee is flying in on Tuesday 21st July. To ensure he can't get his bloody revenge, we're going to hide out upstairs in "The Ship" near Monument tube station.
 
-* "Pub":http://www.fancyapint.com/pubs/pub1778.html
-* "Upcoming":http://upcoming.yahoo.com/event/3017757
-* "Map":http://www.fancyapint.com/pubmaps/map_1778.html
-* "More info":http://www.tv.com/Baywatch+Nights/Vengeance/episode/41758/summary.html
+* [Pub](http://www.fancyapint.com/pubs/pub1778.html)
+* [Upcoming](http://upcoming.yahoo.com/event/3017757)
+* [Map](http://www.fancyapint.com/pubmaps/map_1778.html)
+* [More info](http://www.tv.com/Baywatch+Nights/Vengeance/episode/41758/summary.html)
 
 All the best, Mitch.

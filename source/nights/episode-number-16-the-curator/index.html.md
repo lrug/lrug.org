@@ -20,10 +20,10 @@ I need your help to hatch an escape plan:
 
 Meet me at the "Horse and Groom" on Great Portland Street at 6pm, Wednesday 13th May.
 
-* "Pub":http://www.beerintheevening.com/pubs/s/24/2411/horse_and_groom/great_portland_street
-* "Upcoming":http://upcoming.yahoo.com/event/2632371
-* "Map":http://maps.google.co.uk/maps?q=W1W+6PX&spn=0.005,0.02&hl=en
-* "More info":http://www.tv.com/Baywatch+Nights/The+Curator/episode/41756/summary.html
+* [Pub](http://www.beerintheevening.com/pubs/s/24/2411/horse_and_groom/great_portland_street)
+* [Upcoming](http://upcoming.yahoo.com/event/2632371)
+* [Map](http://maps.google.co.uk/maps?q=W1W+6PX&spn=0.005,0.02&hl=en)
+* [More info](http://www.tv.com/Baywatch+Nights/The+Curator/episode/41756/summary.html)
 
-Your pal<br />
+Your pal  
 Mitch.

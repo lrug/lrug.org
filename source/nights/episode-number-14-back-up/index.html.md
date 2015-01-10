@@ -20,14 +20,14 @@ Eddie Kramer's been blamed for a death, and he's come to me to help exonerate hi
 
 I'm going to be at The Chandos, near Lie-sester Square, next Wednesday night from around 6pm.
 
-02/25/2009 6:00pm<br />
-The Chandos<br />
-29 St Martins Lane, London<br />
+02/25/2009 6:00pm  
+The Chandos  
+29 St Martins Lane, London  
 WC2N 4ER
 
-* "Upcoming event":http://upcoming.yahoo.com/event/1850763
-* "Pub":http://www.fancyapint.com/pubs/pub1054.html
-* "Map":http://maps.google.co.uk/maps?q=WC2N%204ER
+* [Upcoming event](http://upcoming.yahoo.com/event/1850763)
+* [Pub](http://www.fancyapint.com/pubs/pub1054.html)
+* [Map](http://maps.google.co.uk/maps?q=WC2N%204ER)
 
 See you there,
 Mitch.

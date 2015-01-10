@@ -14,6 +14,6 @@ class_name: ""
 category: nights
 ---
 
-Episode 4 of LRUG Nights will take place on Tuesday 2nd October at "The George Inn":http://fancyapint.com/pubs/pub46.html, near London Bridge/Borough. Come along for the usual mix of chat, boozing and ribaldry (and only the slightest mentions of metaprogramming).
+Episode 4 of LRUG Nights will take place on Tuesday 2nd October at [The George Inn](http://fancyapint.com/pubs/pub46.html), near London Bridge/Borough. Come along for the usual mix of chat, boozing and ribaldry (and only the slightest mentions of metaprogramming).
 
 6.30pm.
