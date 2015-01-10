@@ -21,6 +21,13 @@
     "from":"speaking",
     "to":"http://readme.lrug.org/#talks"
   },
+  // we could redirect this as /speaking/ above, but you never know - we
+  // might change the urls around later so we'll incur the double redirect
+  // for now
+  {
+    "from":"tips-for-speakers",
+    "to":"/speaking/tips"
+  },
   {
     "from":"nights-being-the-mitch",
     "to":"/nights/being-the-mitch"
