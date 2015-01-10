@@ -23,7 +23,8 @@
   },
   {
     "from":"speaking",
-    "to":"http://readme.lrug.org/#talks"
+    "to":"http://readme.lrug.org/#talks",
+    "rules":"R=301,NC,NE,L"
   },
   {
     "from":"speaking-old/tips",
