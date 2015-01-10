@@ -20,5 +20,9 @@
   {
     "from":"speaking",
     "to":"http://readme.lrug.org/#talks"
+  },
+  {
+    "from":"nights-being-the-mitch",
+    "to":"/nights/being-the-mitch"
   }
 ]
