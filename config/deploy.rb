@@ -2,7 +2,6 @@
 lock '3.3.5'
 
 set :application, "lrug.org"
-set :deploy_to, "/home/lrug/sites/lrug.org/new"
 set :scm, :copy
 set :use_sudo, false
 set :domain, 'lrug.org'

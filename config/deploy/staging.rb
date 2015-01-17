@@ -15,4 +15,4 @@ role :app, %w{lrug@lrug.org}
 
 server 'lrug.org', user: 'lrug', roles: 'app'
 
-set :deploy_to, "/home/lrug/sites/lrug.org/www"
+set :deploy_to, "/home/lrug/sites/lrug.org/new"
