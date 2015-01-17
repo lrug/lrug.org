@@ -2,7 +2,7 @@
 /.bundle
 
 # Ignore the build directory
-/build
+/public
 
 # Ignore cache
 /.sass-cache

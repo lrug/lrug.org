@@ -58,6 +58,8 @@ set :js_dir, 'javascripts'
 
 set :images_dir, 'images'
 
+set :build_dir, 'public'
+
 meeting_years = Dir['source/meetings/*'].each.with_object([]) do |meeting_child, years|
   name = meeting_child.split('/').last
   years << name if name =~ /\A\d{4}\Z/
