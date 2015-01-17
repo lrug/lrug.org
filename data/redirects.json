@@ -44,5 +44,26 @@
   {
     "from":"nights-being-the-mitch",
     "to":"/nights/being-the-mitch"
+  },
+  // deal with old stylesheet references
+  {
+    "from":"styles.css/?$",
+    "to":"/stylesheets/all.css"
+  },
+  // deal with old meetings monthly archives by going to yearly archive
+  {
+    "from":"meetings/([0-9]{4})/[0-9]{2}/?$",
+    "to":"/meetings/$1/"
+  },
+  // deal with old book-reviews or podcast archives by going to root
+  {
+    "from":"(book-reviews|podcasts)/[0-9]{4}/[0-9]{2}/?$",
+    "to":"/$1/"
+  },
+  // redirect old rss root to the meetings rss
+  {
+    "from":"rss/?$",
+    "to":"/rss/meetings/",
+    "rules":"R=302,NC,L"
   }
 ]
