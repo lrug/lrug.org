@@ -117,4 +117,11 @@ module LRUGHelpers
       %{<span class="calendar-link">[![Calendar subscription](http://assets.lrug.org/images/calendar_down.gif) Meeting Calendar](/meeting-calendar)</span>}
     )
   end
+
+  def format_redirect_from_regex(redirect_from)
+    regex = redirect_from.dup
+    regex.prepend '^' unless redirect_from.start_with? '^'
+    regex.concat '($|/)' unless redirect_from.end_with? '$'
+    regex
+  end
 end
