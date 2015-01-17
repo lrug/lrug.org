@@ -18,8 +18,6 @@ class_name: ""
 
 The August meeting of LRUG was held on the 8th at Skillsmatter. We had two talks from members, outlined below.
 
-##### filter: 
-
 # Domain Specific Languages (DSL) in Ruby
 ## Tiest Vilee
 
