@@ -19,22 +19,29 @@ site_url = 'http://lrug.org/'
 xml.instruct!
 xml.rss 'xmlns:itunes' => 'http://www.itunes.com/dtds/podcast-1.0.dtd', version: '2.0', 'xmlns:dc' => 'http://purl.org/dc/elements/1.1/' do
   xml.channel do
-    xml.title 'LRUG Podcast'
-    xml.link URI.join(site_url, 'podcasts')
-    xml.ttl 40
-    xml.language 'en-gb'
+    channel_title = 'LRUG Podcast'
+    channel_url = URI.join(site_url, 'podcasts')
+    channel_description = "The LRUG podcast is a podcast from the London Ruby User Group.  It's interviews with speakers from our meetings, chats with members, and news from the London Ruby community."
+    xml << indent_xml(4, partial(
+      'rss/channel',
+      locals: {
+        title: channel_title,
+        url: channel_url,
+        description: channel_description,
+        updated_at: podcasts.empty? ? nil : podcasts.first.data.updated_at,
+        with_copyright: false
+      }
+    ))
     xml.copyright 'http://creativecommons.org/licenses/by-nc-sa/2.0/uk/'
     xml.itunes :subtitle, 'The LRUG podcast'
     xml.itunes :author, 'El Rug'
-    xml.itunes :summary, "The LRUG podcast is a podcast from the London Ruby User Group.  It's interviews with speakers from our meetings, chats with members, and news from the London Ruby community."
-    xml.description "The LRUG podcast is a podcast from the London Ruby User Group.  It's interviews with speakers from our meetings, chats with members, and news from the London Ruby community."
+    xml.itunes :summary, channel_description
     xml.itunes :owner do
       xml.itunes :name, 'El Rug'
       xml.itunes :email, 'chat@lrug.org'
     end
     xml.itunes :image, href: 'http://assets.lrug.org/images/el-rug-sidebar.png'
     xml.itunes :category, text: 'Technology'
-    xml.lastBuildDate rfc_1123_date(podcasts.first.data.updated_at) unless podcasts.empty?
     podcasts.each do |podcast|
       xml.item do
         podcast_url = URI.join site_url, url_for(podcast)

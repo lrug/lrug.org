@@ -118,6 +118,10 @@ module LRUGHelpers
     )
   end
 
+  def indent_xml(indent, xml_string)
+    xml_string.gsub(/^/,' ' * indent)
+  end
+
   def format_redirect_from_regex(redirect_from)
     regex = redirect_from.dup
     regex.prepend '^' unless redirect_from.start_with? '^'
