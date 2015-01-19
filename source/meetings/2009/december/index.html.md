@@ -18,7 +18,7 @@ parts:
       [<image src="http://assets.lrug.org/images/eden_development_small.png" width="120" height="45" alt="Eden Development" title="Eden Development Logo"/>](http://www.edendevelopment.co.uk/)
       [<image src="http://assets.lrug.org/images/taskforce_small.png" width="120" height="20" alt="Taskforce" title="Taskforce Logo"/>](http://www.taskforce.co.uk/about/)
       [<image src="http://assets.lrug.org/images/unboxed_small.png" width="120" height="58" alt="Unboxed Consulting" title="Unboxed Consulting Logo"/>](http://www.unboxedconsulting.com/)
-      :filter: .md
+    :filter: .md
 status: Published
 class_name: ""
 ---
@@ -31,6 +31,7 @@ Agenda
 ### DDD (Domain Driven Design)
 
 [Alex Young](http://blog.blackkettle.org/) is going to talk about DDD.  Chances are his talk will be based on [a comment he made on the mailing list](http://lists.lrug.org/pipermail/chat-lrug.org/2009-November/004312.html):
+
 > I *also* think that of the major Ruby ORM libraries, only Sequel is really 
 > aligned with DDD in the first place, so if you're using anything else you've 
 > already compromised the model (although again, possibly that's a discussion 
@@ -41,6 +42,7 @@ A video of Alex's talk can be found on the [Skills Matter site](http://skillsmat
 ### Javascript Stories: The Animal, Mineral or Vegetable guide to testing javascript in web applications.
 
 [Rob Holland](http://blog.the-it-refinery.co.uk) describes his talk as follows:
+
 > The talk will cover how to use [capybara](http://github.com/jnicklas/capybara) with 
 > [cucumber](http://cukes.info/) to easily write and run stories including javascript 
 > functionality. The talk should be useful to people who don't currently test their 

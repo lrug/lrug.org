@@ -56,13 +56,11 @@ If he's finished writing it, [Gerhard Lazu](http://www.gerhardlazu.com/) will do
 
 A video of Alex's talk is available on the [Skills Matter site](http://skillsmatter.com/podcast/ajax-ria/amqp-in-ruby).
 
-<strike>
-### Heroku (maybe)
+### <strike>Heroku (maybe)</strike>
+
+*Morten couldn't make it, but hopes to be able to offer us this talk at some point in the future.*
 
 [Morten Bagai](http://twitter.com/mortenheroku) from [Heroku](http://heroku.com/) might be in town and if so is going to give us an overview of their platform.  His presentation will also cover where they're going in the near future, what they'd like to know from us and info on their plans for their European customers.
-</strike>
-
-Morten couldn't make it, but hopes to be able to offer us this talk at some point in the future.
 
 ### "Analogue Blog"
 

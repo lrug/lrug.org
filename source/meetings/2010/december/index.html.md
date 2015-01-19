@@ -36,7 +36,8 @@ A video of Makoto's talk, filmed by Skills Matter, [is available on the Skills M
 
 ### <strike>Sean O'Halpin - Processing Tweets at the BBC</strike>
 
-<strike>
+*Sean was ill so he didn't make this meeting, he did however make it to our [January 2011 meeting](/meetings/2010/12/01/december-2010-meeting/).*
+
 [Sean O'Halpin](https://github.com/seanohalpin) is going to tell us about some work at the BBC involving twitter:
 
 > I'll be talking about how we're using Ruby to process tweets in
@@ -45,9 +46,6 @@ A video of Makoto's talk, filmed by Skills Matter, [is available on the Skills M
 > about 90 million a day) and storing the data in Amazon S3.
 > 
 > There'll be a bit about [Hadoop](http://hadoop.apache.org/) and [Map/Reduce](http://en.wikipedia.org/wiki/Map_reduce) too.
-</strike>
-
-Sean was ill so he didn't make this meeting, he did however make it to our [January 2011 meeting](/meetings/2010/12/01/december-2010-meeting/).
 
 ### "Analogue Blog"
 

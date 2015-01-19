@@ -30,6 +30,7 @@ First up, [Paolo Don&agrave;](http://paolodona.blogspot.com/) will be giving his
 ### REST Discussion
 
 Following that we'll have a REST discussion, chaired by [Jonathan Leighton](http://turnipspatch.com/), about the new RESTful features that Rails 1.2 brings us.  There were two long threads on the [LRUG mailing list](http://lists.lrug.org/listinfo.cgi/chat-lrug.org) that sparked this off, so you should read them for an idea of what we might cover.
+
 * [The original thread](http://lists.lrug.org/pipermail/chat-lrug.org/2007-February/000916.html)
 * [The follow up](http://lists.lrug.org/pipermail/chat-lrug.org/2007-March/000981.html)
 * [A sample agenda for the discussion](http://www.asklater.com/steve/blog/?p=81)

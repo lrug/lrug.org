@@ -25,9 +25,10 @@ A video of the meeting, filmed by Skills Matter, is [available on Google Video](
 
 ### <strike>OpenID</strike>
 
-<strike>[Dan Webb](http://danwebb.net/) is going to give a talk about [OpenID](http://openid.net/).  Based on [this thread from the mailing list](http://lists.lrug.org/pipermail/chat-lrug.org/2007-May/001162.html), he's probably going to cover a bit about OpenID and then delve into specifics of how to implement it in your Rails app.  However, if there's something about OpenID and ruby or rails that you want to hear, then get on the [mailing list](http://lists.lrug.org/listinfo.cgi/chat-lrug.org) and ask.</strike>
-
 *Dan's had to postpone this till another meeting in the future, we're looking for something else.  Stay tuned for updates.*
+
+[Dan Webb](http://danwebb.net/) is going to give a talk about [OpenID](http://openid.net/).  Based on [this thread from the mailing list](http://lists.lrug.org/pipermail/chat-lrug.org/2007-May/001162.html), he's probably going to cover a bit about OpenID and then delve into specifics of how to implement it in your Rails app.  However, if there's something about OpenID and ruby or rails that you want to hear, then get on the [mailing list](http://lists.lrug.org/listinfo.cgi/chat-lrug.org) and ask.
+
 
 ### Distributed Processing Using Ruby on Rails
 

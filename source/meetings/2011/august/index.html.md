@@ -60,7 +60,8 @@ Agenda
 
 ### <strike>Cucumber-chef</strike>
 
-<strike>
+*Stephen had to pull out, we'll try to reschedule him for our September meeting.*
+
 [Stephen Nelson-Smith](http://agilesysadmin.net) is the author of ["Test-driven infrastructure with Chef" (published by O'Reilly)](http://oreilly.com/catalog/0636920020042) and is going to talk to us about [cucumber-chef](http://www.cucumber-chef.org/):
 
 > [Cucumber-chef](https://github.com/Atalanta/cucumber-chef) is a library of tools to enable the 
@@ -68,9 +69,6 @@ Agenda
 > testing platform within which [cucumber](http://cukes.info/) tests can be run which provision 
 > lightweight virtual machines, configure them by applying the appropriate [Chef](http://www.opscode.com/chef/)
 > roles to them, and then run acceptance and integration tests against the environment.
-</strike>
-
-Stephen had to pull out, we'll try to reschedule him for our September meeting.
 
 Pub
 ---

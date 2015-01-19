@@ -49,6 +49,7 @@ There are still some details to be thrashed out, like what the problem will be, 
 The idea for this meeting wouldn't have been possible without help from [Matt Wynne](http://blog.mattwynne.net/) and [Ivan Sanchez](http://isanchez.net/), who have both run Dojo's in the past and will be helping out on [the mailing list](http://lists.lrug.org/listinfo.cgi/chat-lrug.org) and on the evening itself.
 
 The code produced by each of the 3 groups is available on the [LRUG github account](http://github.com/lrug):
+
 * [Pirates](http://github.com/lrug/kata-minesweeper/tree/lrug-pirate-group)
 * [Ninjas](http://github.com/lrug/kata-minesweeper/tree/lrug-ninja-group)
 * [Zombies](http://github.com/lrug/kata-minesweeper/tree/lrug-zombie-group)

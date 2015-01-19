@@ -33,6 +33,7 @@ We're hoping for a "Ruby in Sys Admin" theme this month.
 ### [John Arundel](http://bitfieldconsulting.com/): Is Your Sysadmin Dumber Than a Hamster? How to automate your sysadmin out of a job, and into a more interesting job.
 
 John offered to do a talk about [Puppet](http://reductivelabs.com/products/puppet) and [Chef](http://wiki.opscode.com/display/chef/) covering some or more of the following topics:
+
 * Why aren't sysadmins as smart as developers?
 * How do you build 100 servers in a day?
 * How to automate the dumb stuff

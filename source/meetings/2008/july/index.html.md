@@ -25,15 +25,15 @@ Note: Expect more info on each of these talks as we get closer to the actual dat
 
 ### <strike>Starling + Memcached</strike>
 
-[James Cox](http://imaj.es/) <strike>says this about his talk:
+* James has had to pull out due to a double booking.  Stay tuned for a replacement.*
+
+[James Cox](http://imaj.es/) says this about his talk:
 
 > As part of my anti-hermitization, I'll be swinging by LRUG for possibly the first time to 
 > show off [starling](http://rubyforge.org/projects/starling/) and why it's cool. Starling was a
 > project born from trying to manage message queues using [memcached](http://www.danga.com/memcached/). 
 > I'll try and explain how it came about, show how it works and figure out some ways it could be 
 > used productively.
-
-</strike> has had to pull out due to a double booking.  Stay tuned for a replacement.
 
 ### RabbitMQ + Ruby
 

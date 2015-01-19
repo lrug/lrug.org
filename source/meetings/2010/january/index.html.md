@@ -28,9 +28,11 @@ The first meeting of LRUG in 2010 will be on Wednesday the 13th of January, from
 Agenda
 ------
 
-### Symbol vs. String
+### <strike>Symbol vs. String</strike>
 
-<strike>[Julian Burgess](http://twitter.com/aubergene) fresh from his special guest hosting of the [December meeting](/meetings/2009/11/22/december-2009-meeting/) is going to step once more into the spotlight, but this time he's going to give us a talk:
+*Julian couldn't make it because of inclement weather.*
+
+[Julian Burgess](http://twitter.com/aubergene) fresh from his special guest hosting of the [December meeting](/meetings/2009/11/22/december-2009-meeting/) is going to step once more into the spotlight, but this time he's going to give us a talk:
 
 > When I first started down the road of learning Ruby I had no idea what
 > a symbol was. Gradually I've learnt to the point that I believe I can
@@ -43,8 +45,6 @@ Agenda
 > being at the end for everyone in the room to understand and love the symbol.
 
 Note: Description borrowed from his [Ruby Manor proposal](http://groups.google.com/group/ruby-manor/browse_frm/thread/3e3de3745d2ad66e).  You can check the thread to see what other things people asked for that he might cover.</strike>
-
-Julian couldn't make it because of inclement weather.  However, we had a replacement in the shape of:
 
 ### Dragonfly
 
