@@ -47,9 +47,8 @@ After three talks it's likely we'll need some kind of liquid comfort.  Luckily t
 
 Mine's a [Franziskaner](http://www.franziskaner.com/).
 
-<a name="apr09registration"></a>
-Registration
-------------
+Registration <a name="apr09registration">&nbsp;</a>
+---------------------------------------------------
 
 [Please register with Skills Matter](http://skillsmatter.com/event/ajax-ria/lrug-april) if you are planning to come.  You should register as early as you can, so do so [now](http://skillsmatter.com/event/ajax-ria/lrug-april)!  If we need a big room Skills Matter need about a week to book it, and will only do so if the registrations dictate it, so registering late means you might get put on a waiting list or turned away.  And we don't want that.
 

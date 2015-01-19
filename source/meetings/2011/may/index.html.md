@@ -52,9 +52,8 @@ Pub
 
 After all this golfing we'll make the short trip to [The Slaughtered Lamb](http://www.theslaughteredlambpub.com/) for our 19th hole.  We normally finish up the meetings at around 8pm, and are in the bar by 8:05pm.  If you can't make the main meeting (but you really should try, it'll be a great way to flex your ruby muscles and learn about short-cuts you never knew existed) don't feel like you can't come along just for the pub part; you'd be more than welcome.
 
-<a name="may11registration"></a>
-Registration
-------------
+Registration <a name="may11registration">&nbsp;</a>
+---------------------------------------------------
 
 Skills Matter prefer that you [register your attendance with them](http://skillsmatter.com/podcast/home/ruby-golf/js-1714) if you are coming to the meeting.  On a few exceptional occasions we've had to turn away people who haven't registered, but this has only been at extremely popular meetings, and has yet to happen at the new venue on Goswell Road.  It's better to be safe than sorry though, and it is polite (don't forget [MINASWAN](http://oreilly.com/ruby/excerpts/ruby-learning-rails/ruby-glossary.html#I_indexterm_d1e32036)), so please do [register](http://skillsmatter.com/podcast/home/ruby-golf/js-1714).
 

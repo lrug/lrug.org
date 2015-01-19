@@ -61,9 +61,8 @@ Pub
 
 After the meeting we head on over to [The Slaughtered Lamb](http://www.theslaughteredlambpub.com/) which is about 5 minutes walk from the Skills Matter eXchange.  If you can't make it to the meeting, we usually finish up at about 8pm if you want to head along for just the pub bit.
 
-<a name="mar10registration"></a>
-Registration
-------------
+Registration <a name="mar10registration">&nbsp;</a>
+---------------------------------------------------
 
 Skills Matter still prefer that you [register your attendance with them](http://skillsmatter.com/event/ajax-ria/software-craftsmanship/zx-548) if you are planning to come.  It's not a disaster if you don't, as there's plenty of space, but it is polite to let them know you are coming so they can set the room up appropriately.  You'll also get a name badge, so you really should [register](http://skillsmatter.com/event/ajax-ria/software-craftsmanship/zx-548).
 

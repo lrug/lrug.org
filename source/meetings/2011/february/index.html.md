@@ -44,9 +44,8 @@ Pub
 
 These short talks are bound to raise more questions than they answer and to answer those questions we'll head over to [The Slaughtered Lamb](http://www.theslaughteredlambpub.com/).  It's only five minutes from Skills Matter's offices and does a killer fish-finger sandwich.  The talks will probably finish around 8pm, so if for some reason you aren't able to make it for the talks (but you really should try), head to the pub for about 8pm and you'll find blocking all reasonable access to the bar for about 20-30 minutes.  Maybe get there a bit earlier?
 
-<a name="feb11registration"></a>
-Registration
-------------
+Registration <a name="feb11registration">&nbsp;</a>
+---------------------------------------------------
 
 Skills Matter ask that you [register your attendance with them](http://skillsmatter.com/event/ajax-ria/lrug-lightning-talks/rl-311) if you are coming to the meeting.  On a few exceptional occasions we've had to turn away people who haven't registered.  This has only been at extremely popular meetings and has yet to happen at Goswell Road, but it's better to be safe than sorry though.  It is just good manners though (don't forget [MINASWAN](http://oreilly.com/ruby/excerpts/ruby-learning-rails/ruby-glossary.html#I_indexterm_d1e32036)), so please do [register](http://skillsmatter.com/event/ajax-ria/lrug-lightning-talks/rl-311).
 

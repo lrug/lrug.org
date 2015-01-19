@@ -36,9 +36,8 @@ Pub
 
 After the talks we head on over to a local pub, [The Crown Tavern](http://fancyapint.com/pubs/pub199.html), for a thorough debriefing session.  The pub is open to all, so if you can't make the talks for whatever reason, come on down to the pub and get them in early (mine's a Franziskaner, cheers!).
 
-<a name="oct08registration"></a>
-Registration
-------------
+Registration <a name="oct08registration">&nbsp;</a>
+---------------------------------------------------
 
 [Please register with Skills Matter](http://skillsmatter.com/event/ajax-ria/lrug-meeting-october) if you are planning to come.  Registration allows Skills Matter to organise the most appropriate room for the number of people coming.  In the past we've had to turn people away who didn't register because the room was full and there was no room for extra bodies.  We don't like having to do that, so please [register now](http://skillsmatter.com/event/ajax-ria/lrug-meeting-october) rather than later (Skills Matter need about a weeks notice to book the larger room) and secure your place.  
 

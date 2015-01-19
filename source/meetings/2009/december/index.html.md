@@ -57,9 +57,8 @@ Pub
 
 We aim to finish up the meeting by 8pm, after which we mosey on down to [The Crown Tavern](http://fancyapint.com/pubs/pub199.html) to continue the evening.  If for any reason you can't make the talks feel free to come along to the pub and mix with your fellow rubyists.  In fact, if you get there early, you can get the first drinks in!
 
-<a name="dec09registration"></a>
-Registration
-------------
+Registration <a name="dec09registration">&nbsp;</a>
+---------------------------------------------------
 
 [Registration](http://skillsmatter.com/event/ajax-ria/lrug-dec) isn't mandatory as there's always room in the venue on the night, however, registration lets Skills Matter arrange the room properly so if you don't register you might have to sit on the floor.  So, please do [register](http://skillsmatter.com/event/ajax-ria/lrug-dec).
 

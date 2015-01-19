@@ -16,7 +16,7 @@ status: Published
 class_name: ""
 ---
 
-The next meeting of LRUG will be on Monday the 12th of May, from 6:30pm to 8:00pm, our usual [Skills Matter](http://www.skillsmatter.com/) venue at [1 Sekforde St.](http://maps.google.co.uk/maps?f=q&hl=en&q=EC1R+0BE&layer=&ie=UTF8&z=16&om=1&iwloc=addr).  However, depending on numbers (see the note about <a href="#registration">registration</a> below) we might move to a larger venue.
+The next meeting of LRUG will be on Monday the 12th of May, from 6:30pm to 8:00pm, our usual [Skills Matter](http://www.skillsmatter.com/) venue at [1 Sekforde St.](http://maps.google.co.uk/maps?f=q&hl=en&q=EC1R+0BE&layer=&ie=UTF8&z=16&om=1&iwloc=addr).  However, depending on numbers (see the note about <a href="#may08registration">registration</a> below) we might move to a larger venue.
 
 Agenda
 ------
@@ -59,9 +59,8 @@ Pub
 
 It's LRUG tradition to follow up the formal part of the night with a drink or two at [The Crown Tavern](http://fancyapint.com/pubs/pub199.html).  It's an excellent opportunity to find out what the rest of the ruby community is up to, and find people to help you out with your own pet projects.  If you don't think you'll make it for the talks we're usually in the pub from about 8:00pm, so come along and don't miss out on the fun.
 
-<a name="registration"></a>
-Registration
-------------
+Registration <a name="may08registration">&nbsp;</a>
+---------------------------------------------------
 
 [Please register with Skills Matter](http://skillsmatter.com/event/ajax-ria/london-ruby-user-group-may-meeting) if you are planning to come.  Registration allows SKills Matter to organise a larger room if we need it.  For the past couple of meetings we've used the overflow venue, but prior to that we've had to close registration and turn people away.  The larger room, close to the usual venue, needs about a weeks notice for Skills Matter to book it.  Please, therefore, [register now](http://skillsmatter.com/event/ajax-ria/london-ruby-user-group-may-meeting) rather than later.  
 

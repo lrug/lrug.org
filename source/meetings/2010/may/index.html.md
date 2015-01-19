@@ -59,9 +59,8 @@ Pub
 
 We aim to finish at about <strong>8:30pm</strong>, after which we make the short walk from Skills Matter's offices to our watering hole of choice: [The Slaughtered Lamb](http://www.theslaughteredlambpub.com/).  Even if you can't make the formal part of the evening, you know where we are if you want to pop along for some of the more informal chat.  You'll be more than welcome.
 
-<a name="may10registration"></a>
-Registration
-------------
+Registration <a name="may10registration">&nbsp;</a>
+---------------------------------------------------
 
 Skills Matter prefer that you [register your attendance with them](http://skillsmatter.com/event/ajax-ria/may-2010-lrug-meeting) if you are planning to come to the meeting.  If you forget to register it's unlikely that you'd be turned away at the door, but it has happened before when we've been *really* busy.  Even without the worry of being turned away hanging over your head, it's useful for fire regulations and to help our hosts arrange the room properly.  And most importantly it's simple manners (don't forget [MINASWAN](http://oreilly.com/ruby/excerpts/ruby-learning-rails/ruby-glossary.html#I_indexterm_d1e32036)), so please do [register](http://skillsmatter.com/event/ajax-ria/may-2010-lrug-meeting).
 

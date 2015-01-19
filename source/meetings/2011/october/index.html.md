@@ -35,9 +35,8 @@ Pub
 
 We should be done sinking each other's battleships by 8pm.  Those still on speaking terms will make the short trip to [The Slaughtered Lamb](http://www.theslaughteredlambpub.com/), to tell tall tales of maritime success and failure.  If you can't make the battle royale that is the main meeting, feel free to turn up to the pub.
 
-<a name="sep11registration"></a>
-Registration
-------------
+Registration <a name="sep11registration">&nbsp;</a>
+---------------------------------------------------
 
 Skills Matter prefer that you [register your attendance with them](http://skillsmatter.com/podcast/home/lrug-battleship/js-2718) if you are coming to the meeting.  There's plenty of space so you'll get in if you forget, but it is polite (don't forget [MINASWAN](http://oreilly.com/ruby/excerpts/ruby-learning-rails/ruby-glossary.html#I_indexterm_d1e32036)), so please do [register](http://skillsmatter.com/podcast/home/lrug-battleship/js-2718).
 

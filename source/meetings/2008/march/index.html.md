@@ -16,7 +16,7 @@ status: Published
 class_name: ""
 ---
 
-The next meeting of LRUG will be on Monday the 10th of March, from 6:30pm to 8:00pm, in <strike>our usual [Skills Matter](http://www.skillsmatter.com/) venue at [1 Sekforde St.](http://maps.google.co.uk/maps?f=q&hl=en&q=EC1R+0BE&layer=&ie=UTF8&z=16&om=1&iwloc=addr)</strike> the [Skills Matter](http://www.skillsmatter.com/) overflow venue [The Old Sessions House](http://www.sessionshouse.com/) on [Clerkenwell Green](http://maps.google.co.uk/maps/ms?ie=UTF8&hl=en&msa=0&ll=51.524058,-0.104628&spn=0.004533,0.007907&z=17&msid=110079876098346406496.000447c8b0590d82aef55). (See note about <a href="#registration">registration</a> below.)
+The next meeting of LRUG will be on Monday the 10th of March, from 6:30pm to 8:00pm, in <strike>our usual [Skills Matter](http://www.skillsmatter.com/) venue at [1 Sekforde St.](http://maps.google.co.uk/maps?f=q&hl=en&q=EC1R+0BE&layer=&ie=UTF8&z=16&om=1&iwloc=addr)</strike> the [Skills Matter](http://www.skillsmatter.com/) overflow venue [The Old Sessions House](http://www.sessionshouse.com/) on [Clerkenwell Green](http://maps.google.co.uk/maps/ms?ie=UTF8&hl=en&msa=0&ll=51.524058,-0.104628&spn=0.004533,0.007907&z=17&msid=110079876098346406496.000447c8b0590d82aef55). (See note about <a href="#mar08registration">registration</a> below.)
 
 Agenda
 ------
@@ -70,9 +70,8 @@ Pub
 
 As usual, we'll head down to [The Crown Tavern](http://fancyapint.com/pubs/pub199.html) after the "serious" meeting.  There's usually lots of good ruby chat in the pub and it's a great opportunity to try and thrash out those thorny problems with work or personal projects.  If you're not sure that you'll make it for the main meeting, you should definitely come along to the pub and meet up with us there.
 
-<a name="registration"></a>
-Registration
-------------
+Registration <a name="mar08registration">&nbsp;</a>
+---------------------------------------------------
 
 [Please register with Skills Matter](http://www.skillsmatter.com/lrug) if you are planning to come.  Registration has pretty much become mandatory, as in the past few meetings we've had to close the doors after an influx of registrants over the final weekend, resulting in standing room only.  Skills Matter can book a larger room, but they need much more notice in order to do so.  Please, therefore, [register now](http://www.skillsmatter.com/lrug) rather than later.  
 

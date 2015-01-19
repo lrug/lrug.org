@@ -18,7 +18,7 @@ class_name: ""
 
 <a href="http://www.flickr.com/photos/snowblink/2420965665/" title="El Rug (20080414-R0010621.jpg) by snowblink, on Flickr"><img src="http://farm4.static.flickr.com/3100/2420965665_9ceb94849a_m.jpg" width="240" height="240" alt="El Rug (20080414-R0010621.jpg)" /></a>
 
-The next meeting of LRUG will be on Monday the 14th of April, from 6:30pm to 8:00pm, in <strike>our usual [Skills Matter](http://www.skillsmatter.com/) venue at [1 Sekforde St.](http://maps.google.co.uk/maps?f=q&hl=en&q=EC1R+0BE&layer=&ie=UTF8&z=16&om=1&iwloc=addr)</strike>  the [Skills Matter](http://www.skillsmatter.com/) overflow venue [The Old Sessions House](http://www.sessionshouse.com/) on [Clerkenwell Green](http://tinyurl.com/2bjjzz).  However, depending on numbers (see the note about <a href="#registration">registration</a> below) we might move to a larger venue.
+The next meeting of LRUG will be on Monday the 14th of April, from 6:30pm to 8:00pm, in <strike>our usual [Skills Matter](http://www.skillsmatter.com/) venue at [1 Sekforde St.](http://maps.google.co.uk/maps?f=q&hl=en&q=EC1R+0BE&layer=&ie=UTF8&z=16&om=1&iwloc=addr)</strike>  the [Skills Matter](http://www.skillsmatter.com/) overflow venue [The Old Sessions House](http://www.sessionshouse.com/) on [Clerkenwell Green](http://tinyurl.com/2bjjzz).  However, depending on numbers (see the note about <a href="#apr08registration">registration</a> below) we might move to a larger venue.
 
 Agenda
 ------
@@ -51,9 +51,8 @@ Pub
 
 Exhausted and weary from all the code being thrown around we'll stumble into [The Crown Tavern](http://fancyapint.com/pubs/pub199.html) to try to make sense of it all.  Here's where we'll hatch master plans to combine all the gems, rake tasks and scripts into a new framework for world domination.  If you're not sure that you'll make it for the main meeting, but don't want to be left out of the LRUG master-plan you should definitely come along to the pub and sign up for a minor bureaucratic position in the New World Order.
 
-<a name="registration"></a>
-Registration
-------------
+Registration <a name="apr08registration">&nbsp;</a>
+---------------------------------------------------
 
 [Please register with Skills Matter](http://www.skillsmatter.com/event/ajax-ria/show-n-tell-soup-and-vanilla-rak-juggernaut-and-more) if you are planning to come.  Registration has pretty much become mandatory over the past few months to help Skills Matter with managing the rooms.  Last month registrations happened early enough that Skills Matter were able to book a larger venue, however prior to that registrations haven't been timely enough and we've had to close registration and turn people away at the doors.  The larger room, close to the usual venue, needs about a weeks notice for Skills Matter to book it.  Please, therefore, [register now](http://www.skillsmatter.com/event/ajax-ria/show-n-tell-soup-and-vanilla-rak-juggernaut-and-more) rather than later.  
 

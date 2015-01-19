@@ -38,9 +38,8 @@ A video of Paul's talk, filmed by [Skills Matter](http://skillsmatter.com/podcas
 
 There's always time for a drink after the meeting and we usually head to [The Crown Tavern](http://fancyapint.com/pubs/pub199.html) which is just round the corner from the venue.  If you can't make it to the talks part of the evening, the pub should be overflowing with ruby chat from about 8:00pm onwards, so come along!
 
-<a name="jan09registration"></a>
-Registration
-------------
+Registration <a name="jan09registration">&nbsp;</a>
+---------------------------------------------------
 
 [Please register with Skills Matter](http://skillsmatter.com/event/ajax-ria/lrug-january) if you are planning to come.  They need us to register for fire-regulations and making sure we get the best sized room for the number of attendees.  
 

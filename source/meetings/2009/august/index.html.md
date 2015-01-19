@@ -77,9 +77,8 @@ At the end of the formal part of the meeting we change into our smoking jackets 
 
 <a href="http://www.flickr.com/photos/snowblink/3890552430/" title="Chris and Mike (20090812-R0012411) by snowblink, on Flickr"><img src="http://farm3.static.flickr.com/2627/3890552430_b52d7cc84d.jpg" width="500" height="385" alt="Chris and Mike (20090812-R0012411)" /></a>
 
-<a name="aug09registration"></a>
-Registration
-------------
+Registration <a name="aug09registration">&nbsp;</a>
+---------------------------------------------------
 
 We need people to [register with Skills Matter](http://skillsmatter.com/event/ajax-ria/lrug-aug) if they are planning on attending.  Registration lets Skills Matter know how many people to expect to turn up and plan the venue accordingly.  There shouldn't be any capacity problems with the new venue, but you should still [register as early as you can](http://skillsmatter.com/event/ajax-ria/lrug-aug) to help them out.
 

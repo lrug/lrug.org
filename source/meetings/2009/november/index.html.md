@@ -57,9 +57,8 @@ Pub
 
 At the end of the meeting we like to head over to [The Crown Tavern](http://fancyapint.com/pubs/pub199.html) for a spot of socialising over a beer or two.  We're usually at the pub from about 8:00pm ish so if you don't think you can make the "proper" meeting feel free to come along just for the pub.  It's fine to turn up to the meeting late though, you don't have to be there at 6:30 to get in!
 
-<a name="nov09registration"></a>
-Registration
-------------
+Registration <a name="nov09registration">&nbsp;</a>
+---------------------------------------------------
 
 [Registration](http://skillsmatter.com/event/ajax-ria/lrug-nov) isn't mandatory as there's always room in the venue on the night, however, registration lets Skills Matter arrange the room properly so if you don't register you might have to sit on the floor.  So, please do [register](http://skillsmatter.com/event/ajax-ria/lrug-nov).
 

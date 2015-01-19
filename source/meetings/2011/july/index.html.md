@@ -36,9 +36,8 @@ Pub
 
 After these talks we'll make the short trip from Skills Matter's offices to the more informal surroundings of [The Slaughtered Lamb](http://www.theslaughteredlambpub.com/).  If you can't make it to the main meeting, you'll find us crowding the bar from around 8pm onwards.  The pub part of the meeting is very social and is a perfect opportunity to engage the speakers in more in-depth questions raised by their talks.  Or just talk about the latest trending topics on twitter.  It's your call.
 
-<a name="jul11registration"></a>
-Registration
-------------
+Registration <a name="jul11registration">&nbsp;</a>
+---------------------------------------------------
 
 Skills Matter prefer that you [register your attendance with them](http://skillsmatter.com/podcast/home/ruby-july/js-2149) if you are coming to the meeting.  There's plenty of space so you'll get in if you forget, but it is polite (don't forget [MINASWAN](http://oreilly.com/ruby/excerpts/ruby-learning-rails/ruby-glossary.html#I_indexterm_d1e32036)), so please do [register](http://skillsmatter.com/podcast/home/ruby-july/js-2149).
 

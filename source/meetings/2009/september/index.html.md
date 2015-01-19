@@ -64,9 +64,8 @@ Pub
 
 This meeting is going to be very different to our normal presentation-based meetings, and as such is bound to generate a lot to talk about.  No-one likes to talk with a dry throat so, as usual, we'll head on over to [The Crown Tavern](http://fancyapint.com/pubs/pub199.html) for some sweet throat lubrication.  Although we start the formal meeting proceedings at 6:30, and are open to late-comers, there are plenty of LRUG regulars who can't quite make it.  If you're one of those feel free to head on over to pub for about 8pm, which is when we aim to finish up the Dojo.
 
-<a name="sep09registration"></a>
-Registration
-------------
+Registration <a name="sep09registration">&nbsp;</a>
+---------------------------------------------------
 
 Our new venue shouldn't have any capacity problems.  However, we'd still like for people to [register with Skills Matter](http://skillsmatter.com/event/ajax-ria/lrug-sep) if they are planning on attending.  Registration lets Skills Matter layout the room properly and make sure everyone has a name badge.  For this event it'll also help us know how many groups to split up into, so please do [register as early as you can](http://skillsmatter.com/event/ajax-ria/lrug-sep) to help us out.
 

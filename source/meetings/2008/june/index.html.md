@@ -18,7 +18,7 @@ class_name: ""
 
 <a href="http://www.flickr.com/photos/snowblink/2569082736/" title="Books and Brownies (20080609-R0011188.jpg) by snowblink, on Flickr"><img src="http://farm4.static.flickr.com/3050/2569082736_12dca99249_m.jpg" width="240" height="240" alt="Books and Brownies (20080609-R0011188.jpg)" /></a>
 
-The next meeting of LRUG will be on Monday the 9th of June, from 6:30pm to 8:00pm.  It's likely, if enough people <a href="#registration">sign up</a>, that it will be in the [Skills Matter](http://www.skillsmatter.com/) overflow venue at [The Old Sessions House](http://www.sessionshouse.com/) on [Clerkenwell Green](http://tinyurl.com/2bjjzz).  However, if people don't sign up early enough we'll be in the normal [1 Sekforde St.](http://maps.google.co.uk/maps?f=q&hl=en&q=EC1R+0BE&layer=&ie=UTF8&z=16&om=1&iwloc=addr) venue.  So please do <a href="#registration">register your attendance</a> early (see the note about <a href="#registration">registration</a> below).
+The next meeting of LRUG will be on Monday the 9th of June, from 6:30pm to 8:00pm.  It's likely, if enough people <a href="#registration">sign up</a>, that it will be in the [Skills Matter](http://www.skillsmatter.com/) overflow venue at [The Old Sessions House](http://www.sessionshouse.com/) on [Clerkenwell Green](http://tinyurl.com/2bjjzz).  However, if people don't sign up early enough we'll be in the normal [1 Sekforde St.](http://maps.google.co.uk/maps?f=q&hl=en&q=EC1R+0BE&layer=&ie=UTF8&z=16&om=1&iwloc=addr) venue.  So please do <a href="#registration">register your attendance</a> early (see the note about <a href="#jun08registration">registration</a> below).
 
 Agenda
 ------
@@ -60,9 +60,8 @@ Pub
 
 We'll head on over to [The Crown Tavern](http://fancyapint.com/pubs/pub199.html) for a drink after the talks.  We aim to finish the talks at around about 8pm, so if you don't think you'll be able to make it for the talks head on over to the pub to catch up on what went on.
 
-<a name="registration"></a>
-Registration
-------------
+Registration <a name="jun08registration">&nbsp;</a>
+---------------------------------------------------
 
 [Please register with Skills Matter](http://skillsmatter.com/event/ajax-ria/lrug-meeting-ruby-as-multimedia-glue-genomes-on-rails) if you are planning to come.  Registration allows SKills Matter to organise a larger room if we need it.  For the past few meetings we've used their overflow venue and thus avoided having to turn people away because of fire-regulations.  We hope to do so again so please [register now](http://skillsmatter.com/event/ajax-ria/lrug-meeting-ruby-as-multimedia-glue-genomes-on-rails) rather than later (Skills Matter need about a weeks notice to book the larger room).  
 
