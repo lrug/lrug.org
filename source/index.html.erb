@@ -19,7 +19,7 @@ class_name: ""
 
 <%
   meetings = meeting_pages.take(10)
-  featured_meeting = meeting_pages.shift
+  featured_meeting = meetings.shift
 %>
 <%= partial 'meetings/meeting', locals: { meeting: featured_meeting, first: true } %>
 
