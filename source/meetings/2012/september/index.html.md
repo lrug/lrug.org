@@ -39,7 +39,7 @@ He wrote a little about this topic a couple of months ago on [his company blog](
 [Chris O'Sullivan](http://www.thechrisoshow.com/) is going to give us 15 minutes on Objective-C:
 
 > There are so many things we take for granted writing Ruby code -
-> initialising hashes and arrays, doing basic arithmatic with floats and
+> initialising hashes and arrays, doing basic arithmetic with floats and
 > integers, using subscript accessors for containers.  Trying to do
 > these basic things in Objective C requires writing screeds of
 > boilerplate code.
