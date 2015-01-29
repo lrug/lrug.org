@@ -26,7 +26,7 @@ Agenda
 
 ### Lightning Talks!
 
-As usual we give our February meeting over to lightning talks or no more than 10 minutes in length.
+As usual we give our February meeting over to lightning talks of no more than 10 minutes in length.
 
 * Paul Battley: A library for handling postcodes
 * Andrew Donovan: Finding and taking opportunities in the enterprise
