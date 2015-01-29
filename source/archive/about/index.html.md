@@ -21,7 +21,7 @@ LRUG is the London Ruby User Group; a community of ruby developers based in and 
 
 ### Getting in touch
 
-To help people keep up-to-date on all the happenings in the community we've set up a [mailing list](http://lists.lrug.org/listinfo.cgi/chat-lrug.org), [IRC](/irc) and, of course, [this website](/).  If you feel like taking part in the ruby commnuity (even if you're not based in London) these are great places to get started.  We're a [friendly bunch](/members-and-friends).
+To help people keep up-to-date on all the happenings in the community we've set up a [mailing list](http://lists.lrug.org/listinfo.cgi/chat-lrug.org), [IRC](/irc) and, of course, [this website](/).  If you feel like taking part in the ruby community (even if you're not based in London) these are great places to get started.  We're a [friendly bunch](/members-and-friends).
 
 ### Getting involved
 
