@@ -30,7 +30,7 @@ category: podcast
 <li><a href="http://blog.gugl.org/archives/82">Non-negative Matrix Factorization for Ruby</a></li>
 <li><a href="http://blog.said.fm/a-clear-signal-through-the-noise">A Clear Signal Through the Noise</a></li>
 <li><a href="http://warmgun.com/">Designing Happiness</a></li>
-<li><a href="The 4 Keys to Fun, Emotion and User Engagement - http://www.adaptivepath.com/blog/2010/10/13/nicole-lazzaro/">The Future of UX is Play</a></li>
+<li><a href="http://www.adaptivepath.com/ideas/nicole-lazzaro/">The Future of UX is Play: The 4 Keys to Fun, Emotion and User Engagement</a></li>
 </ul>
 
 <p>Before the interview I mentioned that Malcolm Arnold of Ruby Nuby is looking for donated laptops to take to a program in Uganda and Kenya to teach Ruby, technology and entrepreneurial skills. If you have some equipment to donate <a href="mailto:malcolmarnoldnyc@gmail.com">contact Malcolm</a> or find out more at the <a href="http://www.meetup.com/ruby-nuby-info">Ruby Nuby meetup</a>.</p>
