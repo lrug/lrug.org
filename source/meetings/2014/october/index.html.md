@@ -60,7 +60,7 @@ Agenda
 Pub
 ---
 
-Our talks finish around about 8pm, but the meeting continues in the more relaxed surroundings of [The Slaughtered Lamb](http://www.theslaughteredlambpub.com/).  Most attendees stick around for this bit, so it's a good chance to catch up with old friends or make some new ones as you discuss the talks and chat about the lastest goings on in the ruby community.  Attendance of the formal part is not a prerequisite for attending the pub bit, so do come along!
+Our talks finish around about 8pm, but the meeting continues in the more relaxed surroundings of [The Slaughtered Lamb](http://www.theslaughteredlambpub.com/).  Most attendees stick around for this bit, so it's a good chance to catch up with old friends or make some new ones as you discuss the talks and chat about the latest goings on in the ruby community.  Attendance of the formal part is not a prerequisite for attending the pub bit, so do come along!
 
 Registration <a name="oct14registration">&nbsp;</a>
 ---------------------------------------------------
