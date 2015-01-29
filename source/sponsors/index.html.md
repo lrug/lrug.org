@@ -105,7 +105,7 @@ We're a member of the Addison-Wesley / Pearson Education [user group program](ht
 
 <image src="http://assets.lrug.org/images/apress-user-group-logo.gif" style="float: right;" width="250" height="60" alt="APress User Group Program" title="APress User Group Program Logo"/>
 
-We're also a member of the APress [user group program](http://www.apress.com/community/usergroup), membership of which has genereated several copies of books to review and some prizes for pub quizes.
+We're also a member of the APress [user group program](http://www.apress.com/community/usergroup), membership of which has generated several copies of books to review and some prizes for pub quizes.
 
 <p style="clear:right;"></p>
 
