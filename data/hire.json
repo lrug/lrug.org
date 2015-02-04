@@ -1,0 +1,12 @@
+// Add yourself to this via a pull-request to the source repo at
+// https://github.com/lrug/lrug.org/pulls
+// Do keep the list sorted by last name when you do so.
+// We're using microformats as the keys here, although we currently only
+// render out fn and url. Feel free to add more keys and we'll update the
+// renderer.
+[
+  {
+    "fn":"James R. McCarthy, LetyCo",
+    "url":"http://lety.co/"
+  }
+]
