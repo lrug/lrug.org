@@ -6,7 +6,43 @@
 // renderer.
 [
   {
-    "fn":"James R. McCarthy, LetyCo",
+    "fn":"Graham Ashton",
+    "url":"http://effectif.com"
+  },
+  {
+    "fn":"Jairo Diaz",
+    "url":"http://codescrum.com/"
+  },
+  {
+    "fn":"Carlos Martinez",
+    "url":"https://resume.creddle.io/resume/br3ed1rqbos"
+  },
+  {
+    "fn":"James R. McCarthy",
     "url":"http://lety.co/"
+  },
+  {
+    "fn":"Andrew McDonough",
+    "url":"http://andrewmcdonough.com"
+  },
+  {
+    "fn":"Julius Pabrinkis",
+    "url":"https://www.linkedin.com/in/pabrinkis"
+  },
+  {
+    "fn":"Alex Pounds",
+    "url":"http://alexpounds.com/cv"
+  },
+  {
+    "fn":"Nigel Runnels-Moss",
+    "url":"https://www.linkedin.com/in/nigelrm"
+  },
+  {
+    "fn":"Peter Saxton",
+    "url":"https://github.com/CrowdHailer"
+  },
+  {
+    "fn":"Tadas Tamosauskas",
+    "url":"http://codeme.lt"
   }
 ]
