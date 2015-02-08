@@ -14,7 +14,12 @@ title: February 2015 Meeting
 updated_at: 
 published_at: 2015-01-29 20:20:20 Z
 created_at: 2015-01-12 12:19:43 Z
-parts: {}
+parts:
+  sponsors:
+    :content: |
+      [<image src="http://assets.lrug.org/images/team_prime_logo_small.jpg" width="120" height="92" alt="Team Prime" title="Team Prime Logo"/>](http://www.team-prime.com/)
+      [<image src="http://assets.lrug.org/images/bath-ruby-conf-logo_small.png" width="120" height="31" alt="Bath Ruby Conference 2015" title="Bath Ruby Conference 2015 Logo"/>](http://2015.bathruby.org/)
+    :filter: .md
 status: Published
 class_name: ""
 ---
@@ -36,6 +41,14 @@ As usual we give our February meeting over to lightning talks of no more than 10
 * Alex Sunderland: The weird bits of ruby
 * Pip Taylor: Sorting out [Colour](https://github.com/ms-digital-labs/color_sort)
 * Michael Wawra: Tech Evangelism
+
+### Bath Ruby Conf tickets giveawayDrinks
+
+[<image src="http://assets.lrug.org/images/team_prime_logo_medium.jpg" width="260" height="199" alt="Team Prime" title="Team Prime Logo"/>](http://www.team-prime.com/)
+
+[<image src="http://assets.lrug.org/images/bath-ruby-conf-logo_medium.png" width="260" height="66" alt="Bath Ruby Conference 2015" title="Bath Ruby Conference 2015 Logo"/>](http://2015.bathruby.org/)
+
+Thanks to the nice folks at [Team Prime](http://www.team-prime.com/) and [Bath Ruby](http://2015.bathruby.org) we are able to provide 4 people with free tickets and a £70 allowance (enough to cover return train travel from London).  The tickets are available to LRUG members that wouldn't otherwise be able to attend.  The deadline to put your name forward for a ticket is *midnight* on *Sunday 8th, February 2014*.  If more than 4 people request the tickets a draw will be held privately to select the winners.  The recipients of the tickets will not be publicly announced, but we'll thank Team Prime and the Bath Ruby Conf organisers at the start of the meeting.
 
 Pub
 ---
