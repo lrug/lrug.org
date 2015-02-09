@@ -42,7 +42,7 @@ As usual we give our February meeting over to lightning talks of no more than 10
 * Pip Taylor: Sorting out [Colour](https://github.com/ms-digital-labs/color_sort)
 * Michael Wawra: Tech Evangelism
 
-### Bath Ruby Conf tickets giveawayDrinks
+### Bath Ruby Conf tickets giveaway
 
 [<image src="http://assets.lrug.org/images/team_prime_logo_medium.jpg" width="260" height="199" alt="Team Prime" title="Team Prime Logo"/>](http://www.team-prime.com/)
 
