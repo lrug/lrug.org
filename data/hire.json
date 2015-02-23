@@ -6,12 +6,32 @@
 // renderer.
 [
   {
+    "fn":"Ronny Ager-Wick",
+    "url":"http://ronny.ager-wick.com"
+  },
+  {
+    "fn":"Manu S Ajith",
+    "url":"http://codingarena.in/"
+  },
+  {
+    "fn":"Ben Aldred",
+    "url":"http://tinycodefactory.com/"
+  },
+  {
+    "fn":"Levent Ali",
+    "url":"http://www.leventali.com/"
+  },
+  {
     "fn":"Graham Ashton",
     "url":"http://effectif.com"
   },
   {
     "fn":"Jairo Diaz",
     "url":"http://codescrum.com/"
+  },
+  {
+    "fn":"Dan Garland",
+    "url":"http://wegotcoders.com/clients "
   },
   {
     "fn":"Carlos Martinez",
