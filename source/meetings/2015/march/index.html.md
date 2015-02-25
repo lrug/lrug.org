@@ -12,10 +12,15 @@ created_by:
 category: meeting
 title: March 2015 Meeting
 updated_at: 
-published_at: 
+published_at: 2015-02-25 10:10:10 Z
 created_at: 2015-02-22 18:32:10 Z
-parts: 
-status: Draft
+parts:
+  sponsors:
+    :content: |
+      [<image src="http://assets.lrug.org/images/braintree_payments_logo_small.png" width="120" height="30" alt="Braintree Payments" title="Braintree Payments Logo"/>](https://braintreepayments.com)
+
+    :filter: .md
+status: Published
 class_name: ""
 ---
 
@@ -54,6 +59,14 @@ Agenda
 >
 > <a name="pkgr-ps">*</a> - huge assumption warning!”
 
+### Pizza
+
+[<image src="http://assets.lrug.org/images/braintree_payments_logo_medium.png" width="260" height="65" alt="Braintree Payments" title="Braintree Payments Logo"/>](https://braintreepayments.com)
+
+The nice people at [Braintree Payments](https://braintreepayments.com) have arranged to buy some pizza for us to eat during the talks.  The Pizza will be there from about 6pm so turn up early if you're hungry!  There'll be a selection to suit most tastes: meat-eaters, vegetarian, and vegan.  We're not sure if the pizza company does a gluten-free option, but we'll get one if they do.
+
+Thanks [Braintree](https://braintreepayments.com)!
+
 Pub
 ---
 
@@ -62,6 +75,6 @@ The talks end at 8pm and I'm sure all that talking and pizza will have given us 
 Registration <a name="mar15registration">&nbsp;</a>
 ---------------------------------------------------
 
-To secure a place at the meeting you *must* [register with our hosts Skills Matter](#).  It helps to make sure we have the room laid out with enough chairs, and in extreme cases that we get priority on the larger rooms over other groups using the space on the same night.  Also, it's polite (don't forget [MINASWAN](http://oreilly.com/ruby/excerpts/ruby-learning-rails/ruby-glossary.html#I_indexterm_d1e32036)), so please do [register with Skills Matter](#).  Prior to attending you should familiarise yourself with our [README](http://readme.lrug.org/).
+To secure a place at the meeting you *must* [register with our hosts Skills Matter](https://skillsmatter.com/meetups/7063-exploring-to_proc-and-pkgr).  It helps to make sure we have the room laid out with enough chairs, and in extreme cases that we get priority on the larger rooms over other groups using the space on the same night.  Also, it's polite (don't forget [MINASWAN](http://oreilly.com/ruby/excerpts/ruby-learning-rails/ruby-glossary.html#I_indexterm_d1e32036)), so please do [register with Skills Matter](https://skillsmatter.com/meetups/7063-exploring-to_proc-and-pkgr).  Prior to attending you should familiarise yourself with our [README](http://readme.lrug.org/).
 
 You can also follow [this meeting on lanyrd](http://lanyrd.com/2015/lrug-march/), but this is not a meaningful way to tell Skills Matter you wish to attend.  It's just for the lols, innit?
