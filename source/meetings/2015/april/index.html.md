@@ -34,7 +34,7 @@ Agenda
 > talk looks at the theory behind how people learn, and maps it to real 
 > life examples of how specifically developers learn.
 
-### The new MongoDB Ruby driver 2.0
+### The shiny new mongo gem
 
 [Emily Stolfo](https://twitter.com/emstolfo) is visiting from Berlin to tell us all about writing the new ruby driver for MongoDB:
 
