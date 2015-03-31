@@ -26,7 +26,7 @@ Agenda
 
 ### Un-artificial Intelligence: How People Learn
 
-[Melinda Seckington](https://missgeeky.com/):
+[Melinda Seckington](https://missgeeky.com/) says:
 
 > Most developers are familiar with the basics of AI: how do you make a
 > computer, an algorithm, a system learn something? What most don't 
@@ -34,9 +34,21 @@ Agenda
 > talk looks at the theory behind how people learn, and maps it to real 
 > life examples of how specifically developers learn.
 
-### TBC
+### The new MongoDB Ruby driver 2.0
 
-There'll be at least one other talk; [get in touch](/speaking) if you think it could be you!
+[Emily Stolfo](https://twitter.com/emstolfo) is visiting from Berlin to tell us all about writing the new ruby driver for MongoDB:
+
+> The Ruby team at MongoDB spent the last year building a new driver
+> -- [the mongo gem](https://github.com/mongodb/mongo-ruby-driver) --
+> that was released a few weeks ago. Emily is going to talk about how
+> they built the driver, its design, and why its availability is
+> so exciting for the Rails and Ruby community.
+>
+> For reference, an article announcing the release: [shar.es/1g0PFK](http://shar.es/1g0PFK)
+>
+> [MongoDB 3.0](http://docs.mongodb.org/manual/release-notes/3.0/) was also released a few weeks ago and she'll talk a bit
+> about what makes this version so monumental and why you should try
+> it out.
 
 Pub
 ---
