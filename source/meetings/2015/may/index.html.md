@@ -45,7 +45,14 @@ Agenda
 
 ### Rails New Way
 
-[Kamil Lelonek](http://kamil.lelonek.me/) is going to talk to us about building blocks in Ruby for modern Rails architecture.
+[Kamil Lelonek](http://kamil.lelonek.me/) is going to talk about building mondern, maintanable and robust Rails appliactions. He asks:
+
+> Why a conventional Rails architecture fails?
+> What price do we pay for Rails’ simplicity?
+> Why Rails tries to solve complex problems in one monolithic class?
+> Should we follow the Rails way or drop Rails at all?
+
+With presented building blocks he'll try to help solve common problems in curent Rails applications.
 
 ### Book Giveaway
 
