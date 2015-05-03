@@ -45,7 +45,7 @@ Agenda
 
 ### Rails New Way
 
-[Kamil Lelonek](http://kamil.lelonek.me/) is going to talk about building modern, maintainable and robust Rails appliactions. He asks:
+[Kamil Lelonek](http://kamil.lelonek.me/) is going to talk about building modern, maintainable and robust Rails applications. He asks:
 
 * Why a conventional Rails architecture fails?
 * What price do we pay for Rails’ simplicity?
