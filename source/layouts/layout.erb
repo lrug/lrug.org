@@ -1,7 +1,5 @@
 <% wrap_layout :base do %>
-  <% unless_url %r{^/$} do %>
-    <h1><%= page_title %></h1>
-  <% end %>
+  <h1><%= page_title %></h1>
   <%= yield %>
   <% if content_part_exists? 'extended', current_resource %>
     <div id="extended">
