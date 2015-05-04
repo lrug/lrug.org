@@ -9,7 +9,7 @@
     <!-- Use title if it's in the page YAML frontmatter -->
     <title><%= page_title %> | London Ruby User Group</title>
 
-    <link href="/rss/<% if_url %r{^/book-reviews/} do %>book-reviews<% end %><% if_url %r{^/meetings} do %>meetings<% end %><% if_url %r{^/podcasts/} do %>podcasts<% end %>" rel="alternate" title="RSS" type="application/rss+xml" />
+    <link href="<%= rss_path %>" rel="alternate" title="RSS" type="application/rss+xml" />
     <link rel="shortcut icon" href="http://assets.lrug.org/favicon.ico" />
     <link rel="icon" href="http://assets.lrug.org/favicon.ico" />
 

@@ -28,5 +28,6 @@ parts:
     :filter: .md
 status: Published
 ---
+<% content_for(:rss_path) { 'meetings/' } %>
 
 <%= partial 'meetings/meeting', collection: meeting_pages.take(10) %>

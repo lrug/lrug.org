@@ -29,5 +29,6 @@ created_by:
   email: murray.steele@gmail.com
   name: Murray Steele
 ---
+<% content_for(:rss_path) { 'podcasts/' } %>
 
 <%= partial 'podcasts/podcast', collection: podcast_episodes.take(10) %>

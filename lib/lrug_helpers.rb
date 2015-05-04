@@ -9,6 +9,10 @@ module LRUGHelpers
     end
   end
 
+  def rss_path(for_page = current_page)
+    "/rss/#{yield_content :rss_path}"
+  end
+
   def with_page(slug_match, &html_block)
     page = sitemap.where(:slug => slug_match).first
     if page
