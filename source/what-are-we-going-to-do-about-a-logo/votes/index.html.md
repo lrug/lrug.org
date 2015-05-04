@@ -2,15 +2,11 @@
 published_at: 2008-04-07 04:45:56 Z
 title: What Are We Going To Do About A Logo?
 created_at: 2008-04-07 11:45:56 Z
-slug: votes
-breadcrumb: The Votes
 updated_at: 2013-02-12 23:09:21 Z
 status: Published
 created_by: 
   email: murray.steele@gmail.com
-  login: hlame
   name: Murray Steele
-class_name: ""
 ---
 
 Votes

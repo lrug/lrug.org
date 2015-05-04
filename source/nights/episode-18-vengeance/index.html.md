@@ -2,15 +2,11 @@
 published_at: 2009-07-02 09:46:03 Z
 title: "Episode #18: Vengeance"
 created_at: 2009-07-02 16:41:32 Z
-slug: episode-18-vengeance
-breadcrumb: "Episode #18: Vengeance"
 updated_at: 2013-02-12 23:09:26 Z
 status: Published
 created_by: 
   email: ""
-  login: mitchb
   name: Mitch Buchannon
-class_name: ""
 category: nights
 ---
 

@@ -2,15 +2,11 @@
 published_at: 2009-12-14 02:04:30 Z
 title: "Episode #19: Epilogue"
 created_at: 2009-12-14 09:55:07 Z
-slug: episode-19-epilogue
-breadcrumb: "Episode #19: Epilogue"
 updated_at: 2013-02-12 23:09:27 Z
 status: Published
 created_by: 
   email: murray.steele@gmail.com
-  login: hlame
   name: Murray Steele
-class_name: ""
 category: nights
 ---
 

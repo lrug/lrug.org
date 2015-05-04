@@ -1,9 +1,6 @@
 --- 
-breadcrumb: August 2006
-slug: august-2006
 created_by: 
   email: james@lazyatom.com
-  login: lazyatom
   name: James Adam
 category: meeting
 title: August 2006
@@ -13,7 +10,6 @@ created_at: 2006-08-08 12:01:59 Z
 parts: {}
 
 status: Draft
-class_name: ""
 ---
 
 The August meeting of LRUG was held on the 8th at Skillsmatter. We had two talks from members, outlined below.

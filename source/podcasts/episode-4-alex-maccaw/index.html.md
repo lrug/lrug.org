@@ -2,8 +2,6 @@
 published_at: 2010-12-24 02:08:19 Z
 title: "Episode #4: Alex MacCaw"
 created_at: 2010-12-24 10:07:17 Z
-slug: episode-4-alex-maccaw
-breadcrumb: "Episode #4: Alex MacCaw"
 duration: "15:19"
 file_size: 14776027
 file_url: "http://assets.lrug.org/podcasts/lrug_podcast_episode_4.mp3"
@@ -12,9 +10,7 @@ updated_at: 2013-02-12 23:09:31 Z
 status: Published
 created_by: 
   email: chris.lowis@gmail.com
-  login: chrislowis
   name: Chris Lowis
-class_name: ""
 category: podcast
 ---
 

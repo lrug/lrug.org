@@ -1,9 +1,6 @@
 --- 
-breadcrumb: January 2010 Meeting
-slug: january-2010-meeting
 created_by: 
   email: murray.steele@gmail.com
-  login: hlame
   name: Murray Steele
 category: meeting
 title: January 2010 Meeting
@@ -20,7 +17,6 @@ parts:
       [<image src="http://assets.lrug.org/images/brightbox_small.png" width="120" height="99" alt="Brightbox" title="Brightbox Logo"/>](http://www.brightbox.co.uk/)
     :filter: .md
 status: Published
-class_name: ""
 ---
 
 The first meeting of LRUG in 2010 will be on Wednesday the 13th of January, from 6:30pm to 8:00pm.  Our hosts [Skills Matter](http://skillsmatter.com/) will be providing the space, at their new offices on Goswell Road; [The Skills Matter eXchange](http://skillsmatter.com/location-details/design-architecture/484/96).  It's a bright new space and we shouldn't have any problems with fitting people in, but you should still <a href="#jan10registration">register your attendance early</a> to let Skills Matter know you are coming.

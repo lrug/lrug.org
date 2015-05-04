@@ -1,9 +1,6 @@
 --- 
-breadcrumb: November 2009 Meeting
-slug: november-2009-meeting
 created_by: 
   email: murray.steele@gmail.com
-  login: hlame
   name: Murray Steele
 category: meeting
 title: November 2009 Meeting
@@ -20,7 +17,6 @@ parts:
       [<image src="http://assets.lrug.org/images/taskforce_small.png" width="120" height="20" alt="Taskforce" title="Taskforce Logo"/>](http://www.taskforce.co.uk/about/)
     :filter: .md
 status: Published
-class_name: ""
 ---
 
 The next meeting of LRUG will be on Wednesday the 11th of November, from 6:30pm to 8:00pm.  Our hosts [Skills Matter](http://skillsmatter.com/) will provide the space, at our new venue [The Crypt](http://skillsmatter.com/location-details/home/166/26) (it's very close to our previous venues).  Despite the new venue it's still important for people to <a href="#nov09registration">register</a> so Skills Matter know how many people to expect and set the room up correctly.

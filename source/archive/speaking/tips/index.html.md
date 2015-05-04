@@ -2,15 +2,11 @@
 published_at: 2009-07-31 03:21:57 Z
 title: Tips For Speakers
 created_at: 2009-07-31 10:21:57 Z
-slug: tips
-breadcrumb: tips
 updated_at: 2013-02-12 23:09:27 Z
 status: Published
 created_by: 
   email: murray.steele@gmail.com
-  login: hlame
   name: Murray Steele
-class_name: ""
 ---
 
 Timing

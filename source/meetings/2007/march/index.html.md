@@ -1,9 +1,6 @@
 --- 
-breadcrumb: March 2007 Meeting
-slug: march-2007-meeting
 created_by: 
   email: tom@popdog.net
-  login: tomw
   name: Tom Ward
 category: meeting
 title: March 2007 Meeting
@@ -13,7 +10,6 @@ created_at: 2007-02-19 16:03:12 Z
 parts: {}
 
 status: Published
-class_name: ""
 ---
 
 Our next will be on March 12th, from 6:30pm to 8:00pm at our usual [Skills Matter](http://www.skillsmatter.com/) venue at [1 Sekforde St.](http://maps.google.co.uk/maps?f=q&hl=en&q=EC1R+0BE&layer=&ie=UTF8&z=16&om=1&iwloc=addr)

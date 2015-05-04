@@ -2,8 +2,6 @@
 published_at: 2010-05-01 01:21:09 Z
 title: "Episode #2: Seth Edwards"
 created_at: 2010-05-01 08:20:48 Z
-slug: episode-2-seth-edwards
-breadcrumb: "Episode #2: Seth Edwards"
 duration: "14:35"
 file_size: 14006148
 file_url: "http://assets.lrug.org/podcasts/lrug_podcast_episode_2.mp3"
@@ -12,9 +10,7 @@ updated_at: 2013-02-12 23:09:29 Z
 status: Published
 created_by: 
   email: chris.lowis@gmail.com
-  login: chrislowis
   name: Chris Lowis
-class_name: ""
 category: podcast
 ---
 

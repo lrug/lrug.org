@@ -2,15 +2,11 @@
 published_at: 2008-07-28 03:01:55 Z
 title: "Episode #9: \"Blues Boy\""
 created_at: 2008-07-28 10:00:16 Z
-slug: episode-9-blues-boy
-breadcrumb: "Episode #9: \"Blues Boy\""
 updated_at: 2013-02-12 23:09:22 Z
 status: Published
 created_by: 
   email: ""
-  login: mitchb
   name: Mitch Buchannon
-class_name: ""
 category: nights
 ---
 

@@ -2,15 +2,11 @@
 published_at: 2009-03-23 11:39:06 Z
 title: "Episode #15: Thief in the Night"
 created_at: 2009-03-23 18:38:20 Z
-slug: episode-15-thief-in-the-night
-breadcrumb: "Episode #15: Thief in the Night"
 updated_at: 2013-02-12 23:09:25 Z
 status: Published
 created_by: 
   email: ""
-  login: mitchb
   name: Mitch Buchannon
-class_name: ""
 category: nights
 ---
 

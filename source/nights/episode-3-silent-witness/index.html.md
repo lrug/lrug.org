@@ -2,15 +2,11 @@
 published_at: 2007-08-09 07:29:29 Z
 title: "Episode #3: \"Silent Witness\""
 created_at: 2007-07-23 10:10:48 Z
-slug: episode-3-silent-witness
-breadcrumb: "Episode #3: \"Silent Witness\""
 updated_at: 2013-02-12 23:09:18 Z
 status: Published
 created_by: 
   email: ""
-  login: mitchb
   name: Mitch Buchannon
-class_name: ""
 category: nights
 ---
 

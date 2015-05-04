@@ -1,9 +1,6 @@
 --- 
-breadcrumb: July 2012 Meeting
-slug: july-2012-meeting
 created_by: 
   email: murray.steele@gmail.com
-  login: hlame
   name: Murray Steele
 category: meeting
 title: July 2012 Meeting
@@ -13,7 +10,6 @@ created_at: 2012-06-18 08:40:50 Z
 parts: {}
 
 status: Published
-class_name: ""
 ---
 
 The July 2012 meeting of LRUG will be on *Monday* the 9th of July, from 6:30pm to 8:00pm.  Our hosts [Skills Matter](http://skillsmatter.com/) will be providing the space, at their offices on Goswell Road; [The Skills Matter eXchange](http://skillsmatter.com/location-details/design-architecture/484/96).  <a href="#jul12registration">Registration details are given below</a>.

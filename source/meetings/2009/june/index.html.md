@@ -1,9 +1,6 @@
 --- 
-breadcrumb: June 2009 Meeting
-slug: june-2009-meeting
 created_by: 
   email: murray.steele@gmail.com
-  login: hlame
   name: Murray Steele
 category: meeting
 title: June 2009 Meeting
@@ -17,7 +14,6 @@ parts:
       [<image src="http://assets.lrug.org/images/unboxed_small.png" width="120" height="58" alt="Unboxed Consulting" title="Unboxed Consulting"/>](http://www.unboxedconsulting.com/)
     :filter: .md
 status: Published
-class_name: ""
 ---
 
 The next meeting of LRUG will be on Monday the 8th of June, from 6:30pm to 8:00pm.  As usual our hosts [Skills Matter](http://skillsmatter.com/) will provide the space at either [their offices](http://skillsmatter.com/location-details/home/375/1) or one of their overflow venues.  The venue we get is dependent on how many people <a href="#jun09registration">register</a> and the availability of <a href="/sponors">sponsorship</a> to pay for a larger room.  Do your bit by <a href="#jun09registration">registering early</a>.

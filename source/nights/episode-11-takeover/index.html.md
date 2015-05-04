@@ -2,15 +2,11 @@
 published_at: 2008-10-24 00:39:19 Z
 title: "Episode #11: Takeover"
 created_at: 2008-10-24 07:39:19 Z
-slug: episode-11-takeover
-breadcrumb: "Episode #11: Takeover"
 updated_at: 2013-02-12 23:09:23 Z
 status: Published
 created_by: 
   email: ""
-  login: mitchb
   name: Mitch Buchannon
-class_name: ""
 category: nights
 ---
 

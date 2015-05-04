@@ -2,15 +2,11 @@
 published_at: 2007-09-26 06:43:11 Z
 title: "Episode #4: \"Deadly Vision\""
 created_at: 2007-09-26 13:40:57 Z
-slug: episode-4-deadly-vision
-breadcrumb: "Episode #4: \"Deadly Vision\""
 updated_at: 2013-02-12 23:09:18 Z
 status: Published
 created_by: 
   email: ""
-  login: mitchb
   name: Mitch Buchannon
-class_name: ""
 category: nights
 ---
 

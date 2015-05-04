@@ -2,8 +2,6 @@
 published_at: 2007-05-25 07:30:17 Z
 title: "Beginning Ruby #2"
 created_at: 2007-05-25 14:28:31 Z
-slug: beginning-ruby-2
-breadcrumb: "Beginning Ruby #2"
 parts:
   excerpt:
     :content: |
@@ -13,9 +11,7 @@ updated_at: 2013-02-12 23:09:16 Z
 status: Published
 created_by: 
   email: murray.steele@gmail.com
-  login: hlame
   name: Murray Steele
-class_name: ""
 category: 'book-review'
 ---
 

@@ -1,9 +1,6 @@
 --- 
-breadcrumb: February 2008 Meeting
-slug: february-2008-meeting
 created_by: 
   email: murray.steele@gmail.com
-  login: hlame
   name: Murray Steele
 category: meeting
 title: February 2008 Meeting
@@ -13,7 +10,6 @@ created_at: 2008-01-19 12:34:39 Z
 parts: {}
 
 status: Published
-class_name: ""
 ---
 
 The next meeting of LRUG will be on Monday the 11th of February, from 6:30pm to 8:00pm, and we'll be returning to our usual [Skills Matter](http://www.skillsmatter.com/) venue at [1 Sekforde St.](http://maps.google.co.uk/maps?f=q&hl=en&q=EC1R+0BE&layer=&ie=UTF8&z=16&om=1&iwloc=addr).

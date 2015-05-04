@@ -2,15 +2,11 @@
 published_at: 2011-03-14 03:44:05 Z
 title: Episode "let's try this again"
 created_at: 2011-03-14 10:44:05 Z
-slug: episode-lets-try-this-again
-breadcrumb: Episode "let's try this again"
 updated_at: 2013-02-12 23:09:32 Z
 status: Published
 created_by: 
   email: murray.steele@gmail.com
-  login: hlame
   name: Murray Steele
-class_name: ""
 category: nights
 ---
 

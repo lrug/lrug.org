@@ -2,8 +2,6 @@
 published_at: 2008-10-05 08:17:13 Z
 title: "RailsSpace Tutorial DVD #1"
 created_at: 2008-10-05 15:16:35 Z
-slug: railsspace-tutorial-dvd-1
-breadcrumb: "RailsSpace Tutorial DVD #1"
 parts: 
   excerpt:
     :content: |
@@ -13,9 +11,7 @@ updated_at: 2013-02-12 23:09:23 Z
 status: Published
 created_by: 
   email: murray.steele@gmail.com
-  login: hlame
   name: Murray Steele
-class_name: ""
 category: 'book-review'
 ---
 

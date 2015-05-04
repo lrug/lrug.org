@@ -1,13 +1,9 @@
 ---
 updated_by:
   email: murray.steele@gmail.com
-  login: hlame
   name: Murray Steele
-breadcrumb: May 2015 Meeting
-slug: may-2015-meeting
 created_by:
   email: murray.steele@gmail.com
-  login: hlame
   name: Murray Steele
 category: meeting
 title: May 2015 Meeting
@@ -20,7 +16,6 @@ parts:
       [<image src="http://assets.lrug.org/images/infinitium_global_logo_small.jpg" width="120" height="120" alt="Infinitium Global" title="Infinitium Global Logo"/>](https://www.linkedin.com/company/infinitium-global)
     :filter: .md
 status: Published
-class_name: ""
 ---
 
 The May 2015 meeting of LRUG will be on *Monday the 11th of May*, from 6:30pm to 8:00pm.  Our hosts [Skills Matter](http://skillsmatter.com/) will be providing the space, at their offices on Goswell Road; [The Skills Matter eXchange](https://skillsmatter.com/locations/96-skills-matter-exchange).  <a href="#may15registration">Registration details are given below</a>.

@@ -1,9 +1,6 @@
 --- 
-breadcrumb: June 2007 Meeting
-slug: june-2007-meeting
 created_by: 
   email: murray.steele@gmail.com
-  login: hlame
   name: Murray Steele
 category: meeting
 title: June 2007 Meeting
@@ -13,7 +10,6 @@ created_at: 2007-06-04 08:45:44 Z
 parts: {}
 
 status: Published
-class_name: ""
 ---
 
 The next meeting of LRUG will be on Monday the 11th of June, from 6:30pm to 8:00pm at our usual [Skills Matter](http://www.skillsmatter.com/) venue at [1 Sekforde St.](http://maps.google.co.uk/maps?f=q&hl=en&q=EC1R+0BE&layer=&ie=UTF8&z=16&om=1&iwloc=addr).

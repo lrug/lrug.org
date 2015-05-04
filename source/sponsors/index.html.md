@@ -2,19 +2,14 @@
 published_at: 2008-01-19 00:00:00 Z
 updated_by: 
   email: murray.steele@gmail.com
-  login: hlame
   name: Murray Steele
 title: Sponsors
 created_at: 2008-01-19 13:19:54 Z
-slug: sponsors
-breadcrumb: Sponsors
 updated_at: 2013-10-14 11:26:12 Z
 status: Published
 created_by: 
   email: murray.steele@gmail.com
-  login: hlame
   name: Murray Steele
-class_name: ""
 ---
 
 Many companies have helped out LRUG and it's members in some way.  Here we list them and say thanks.  

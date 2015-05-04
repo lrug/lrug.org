@@ -2,15 +2,11 @@
 published_at: 2009-05-08 03:53:06 Z
 title: "Episode #16: The Curator"
 created_at: 2009-05-08 10:52:51 Z
-slug: episode-16-the-curator
-breadcrumb: "Episode #16: The Curator"
 updated_at: 2013-02-12 23:09:25 Z
 status: Published
 created_by: 
   email: ""
-  login: mitchb
   name: Mitch Buchannon
-class_name: ""
 category: nights
 ---
 

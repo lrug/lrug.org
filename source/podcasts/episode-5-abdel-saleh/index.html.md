@@ -2,8 +2,6 @@
 published_at: 2011-02-01 13:43:28 Z
 title: "Episode #5: Abdel Saleh"
 created_at: 2011-02-01 21:42:39 Z
-slug: episode-5-abdel-saleh
-breadcrumb: "Episode #5: Abdel Saleh"
 duration: "33:00"
 file_size: 31938890
 file_url: "http://assets.lrug.org/podcasts/lrug_podcast_episode_5.mp3"
@@ -12,9 +10,7 @@ updated_at: 2013-02-12 23:09:32 Z
 status: Published
 created_by: 
   email: chris.lowis@gmail.com
-  login: chrislowis
   name: Chris Lowis
-class_name: ""
 category: podcast
 ---
 

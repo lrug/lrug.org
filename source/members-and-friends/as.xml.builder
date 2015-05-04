@@ -1,16 +1,12 @@
---- 
+---
 published_at: 2008-04-17 08:58:29 Z
 title: As XML
 created_at: 2008-04-17 15:57:41 Z
-slug: as.xml
-breadcrumb: As XML
 updated_at: 2013-02-12 23:09:21 Z
 status: Published
-created_by: 
+created_by:
   email: murray.steele@gmail.com
-  login: hlame
   name: Murray Steele
-class_name: ""
 layout: false
 ---
 

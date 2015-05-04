@@ -1,9 +1,6 @@
 --- 
-breadcrumb: September 2009 Meeting
-slug: september-2009-meeting
 created_by: 
   email: murray.steele@gmail.com
-  login: hlame
   name: Murray Steele
 category: meeting
 title: September 2009 Meeting
@@ -21,7 +18,6 @@ parts:
 
     :filter: .md
 status: Published
-class_name: ""
 ---
 
 The next meeting of LRUG will be on Wednesday the 9th of September, from 6:30pm to 8:00pm.  As usual our hosts [Skills Matter](http://skillsmatter.com/) will provide the space, at our new venue [The Crypt](http://skillsmatter.com/location-details/home/166/26) (it's very close to the other venues).  We still need people to <a href="#sep09registration">register</a> though to make sure the room is set up properly.

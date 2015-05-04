@@ -2,15 +2,11 @@
 published_at: 2007-10-31 13:09:37 Z
 title: "Episode #5: \"Just a Gigolo\""
 created_at: 2007-10-31 20:09:37 Z
-slug: episode-5-just-a-gigolo
-breadcrumb: "Episode #5: \"Just a Gigolo\""
 updated_at: 2013-02-12 23:09:19 Z
 status: Published
 created_by: 
   email: ""
-  login: mitchb
   name: Mitch Buchannon
-class_name: ""
 category: nights
 ---
 

@@ -1,13 +1,9 @@
 --- 
 updated_by: 
   email: murray.steele@gmail.com
-  login: hlame
   name: Murray Steele
-breadcrumb: December 2014 Meeting
-slug: december-2014-meeting
 created_by: 
   email: murray.steele@gmail.com
-  login: hlame
   name: Murray Steele
 category: meeting
 title: December 2014 Meeting
@@ -17,7 +13,6 @@ created_at: 2014-11-18 21:28:05 Z
 parts: {}
 
 status: Published
-class_name: ""
 ---
 
 The December 2014 meeting of LRUG will be on *Monday the 8th of December*, from 6:30pm to 8:00pm.  Our hosts [Skills Matter](http://skillsmatter.com/) will be providing the space, at their offices on Goswell Road; [The Skills Matter eXchange](https://skillsmatter.com/locations/96-skills-matter-exchange).  <a href="#dec14registration">Registration details are given below</a>.

@@ -1,16 +1,12 @@
---- 
+---
 published_at: 2010-04-03 08:22:33 Z
 title: podcasts
 created_at: 2010-04-03 15:21:48 Z
-slug: podcasts
-breadcrumb: podcasts
 updated_at: 2013-02-12 23:09:29 Z
 status: Published
-created_by: 
+created_by:
   email: murray.steele@gmail.com
-  login: hlame
   name: Murray Steele
-class_name: ""
 layout: false
 ---
 podcasts = podcast_episodes.take(10)

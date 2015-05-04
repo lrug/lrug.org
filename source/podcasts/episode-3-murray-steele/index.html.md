@@ -2,8 +2,6 @@
 published_at: 2010-07-06 15:25:26 Z
 title: "Episode #3: Murray Steele"
 created_at: 2010-07-06 22:23:53 Z
-slug: episode-3-murray-steele
-breadcrumb: "Episode #3: Murray Steele"
 duration: "26:54"
 file_size: 25819345
 file_url: "http://assets.lrug.org/podcasts/lrug_podcast_episode_3.mp3"
@@ -12,9 +10,7 @@ updated_at: 2013-02-12 23:09:30 Z
 status: Published
 created_by: 
   email: chris.lowis@gmail.com
-  login: chrislowis
   name: Chris Lowis
-class_name: ""
 category: podcast
 ---
 

@@ -1,13 +1,9 @@
 --- 
 updated_by: 
   email: murray.steele@gmail.com
-  login: hlame
   name: Murray Steele
-breadcrumb: February 2013 Meeting
-slug: february-2013-meeting
 created_by: 
   email: murray.steele@gmail.com
-  login: hlame
   name: Murray Steele
 category: meeting
 title: February 2013 Meeting
@@ -21,7 +17,6 @@ parts:
 
     :filter: .md
 status: Published
-class_name: ""
 ---
 
 The February 2013 meeting of LRUG will be on *Monday* the 11th of February, from 6:30pm to 8:00pm.  Our hosts [Skills Matter](http://skillsmatter.com/) will be providing the space, at their offices on Goswell Road; [The Skills Matter eXchange](http://skillsmatter.com/location-details/design-architecture/484/96).  It's a great space with plenty of room for the group, but you still need to <a href="#feb13registration">register to let Skills Matter know you are coming</a>.

@@ -1,13 +1,9 @@
 --- 
 updated_by: 
   email: murray.steele@gmail.com
-  login: hlame
   name: Murray Steele
-breadcrumb: October 2014 Meeting
-slug: october-2014-meeting
 created_by: 
   email: murray.steele@gmail.com
-  login: hlame
   name: Murray Steele
 category: meeting
 title: October 2014 Meeting
@@ -17,7 +13,6 @@ created_at: 2014-09-23 14:01:59 Z
 parts: {}
 
 status: Published
-class_name: ""
 ---
 
 The October 2014 meeting of LRUG will be on *Monday the 13th of October*, from 6:30pm to 8:00pm.  Our hosts [Skills Matter](http://skillsmatter.com/) will be providing the space, at their offices on Goswell Road; [The Skills Matter eXchange](https://skillsmatter.com/locations/96-skills-matter-exchange).  <a href="#oct14registration">Registration details are given below</a>.

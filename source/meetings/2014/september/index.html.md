@@ -1,13 +1,9 @@
 --- 
 updated_by: 
   email: murray.steele@gmail.com
-  login: hlame
   name: Murray Steele
-breadcrumb: September 2014 Meeting
-slug: september-2014-meeting
 created_by: 
   email: murray.steele@gmail.com
-  login: hlame
   name: Murray Steele
 category: meeting
 title: September 2014 Meeting
@@ -17,7 +13,6 @@ created_at: 2014-08-19 09:09:13 Z
 parts: {}
 
 status: Published
-class_name: ""
 ---
 
 The September 2014 meeting of LRUG will be on *Monday the 8th of September*, from 6:30pm to 8:00pm.  Our hosts [Skills Matter](http://skillsmatter.com/) will be providing the space, at their offices on Goswell Road; [The Skills Matter eXchange](https://skillsmatter.com/locations/96-skills-matter-exchange).  <a href="#sep14registration">Registration details are given below</a>.

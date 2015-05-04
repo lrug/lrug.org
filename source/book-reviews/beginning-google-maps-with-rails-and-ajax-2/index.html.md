@@ -2,8 +2,6 @@
 published_at: 2007-06-20 01:10:40 Z
 title: "Beginning Google Maps with Rails and AJAX #2"
 created_at: 2007-06-20 08:10:40 Z
-slug: beginning-google-maps-with-rails-and-ajax-2
-breadcrumb: "Beginning Google Maps with Rails and AJAX #2"
 parts:
   excerpt:
     :content: |
@@ -14,8 +12,6 @@ updated_at: 2013-02-12 23:09:17 Z
 status: Published
 created_by: 
   email: murray.steele@gmail.com
-  login: hlame
   name: Murray Steele
-class_name: ""
 category: 'book-review'
 ---

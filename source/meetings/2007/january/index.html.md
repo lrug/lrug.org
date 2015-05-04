@@ -1,9 +1,6 @@
 --- 
-breadcrumb: January 2007 Pub-Quiz Meeting
-slug: january-2007-pub-quiz-meeting
 created_by: 
   email: murray.steele@gmail.com
-  login: hlame
   name: Murray Steele
 category: meeting
 title: January 2007 Pub-Quiz Meeting
@@ -13,7 +10,6 @@ created_at: 2006-12-07 09:41:41 Z
 parts: {}
 
 status: Published
-class_name: ""
 ---
 
 The January 20007 meeting is going to depart from the normal presentation format and we're going to have a pub quiz instead.  We'll do the usual 'what's been going on in the London Ruby community round-up' before quizzing. So if anyone managed to pull themselves away from crying into their turkey over ['The Snowman'](http://www.imdb.com/title/tt0084701/) and get some exciting new projects off the ground then this'll be the time to let us know!

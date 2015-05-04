@@ -1,9 +1,6 @@
 --- 
-breadcrumb: June 2008 Meeting
-slug: june-2008-meeting
 created_by: 
   email: murray.steele@gmail.com
-  login: hlame
   name: Murray Steele
 category: meeting
 title: June 2008 Meeting
@@ -13,7 +10,6 @@ created_at: 2008-05-22 13:58:17 Z
 parts: {}
 
 status: Published
-class_name: ""
 ---
 
 <a href="http://www.flickr.com/photos/snowblink/2569082736/" title="Books and Brownies (20080609-R0011188.jpg) by snowblink, on Flickr"><img src="http://farm4.static.flickr.com/3050/2569082736_12dca99249_m.jpg" width="240" height="240" alt="Books and Brownies (20080609-R0011188.jpg)" /></a>

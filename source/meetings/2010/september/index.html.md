@@ -1,9 +1,6 @@
 --- 
-breadcrumb: September 2010 Meeting
-slug: september-2010-meeting
 created_by: 
   email: murray.steele@gmail.com
-  login: hlame
   name: Murray Steele
 category: meeting
 title: September 2010 Meeting
@@ -20,7 +17,6 @@ parts:
       [<image src="http://assets.lrug.org/images/taskforce_small.png" width="120" height="20" alt="Taskforce" title="Taskforce Logo"/>](http://www.taskforce.co.uk/about/)
     :filter: .md
 status: Published
-class_name: ""
 ---
 
 The September meeting will be on *Monday* the 13th of September, from 6:30pm to 8:00pm.  Our hosts [Skills Matter](http://skillsmatter.com/) will be providing the space, at their offices on Goswell Road; [The Skills Matter eXchange](http://skillsmatter.com/location-details/design-architecture/484/96).  It's a great space with plenty of room for the group, but you still need to <a href="#sep10registration">register to let Skills Matter know you are coming</a>.

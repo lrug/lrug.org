@@ -1,9 +1,6 @@
 --- 
-breadcrumb: February 2011 Meeting
-slug: february-2011-meeting
 created_by: 
   email: murray.steele@gmail.com
-  login: hlame
   name: Murray Steele
 category: meeting
 title: February 2011 Meeting
@@ -13,7 +10,6 @@ created_at: 2011-01-16 13:26:19 Z
 parts: {}
 
 status: Published
-class_name: ""
 ---
 
 The <span class="summary">LRUG February 2011 meeting</span> will be on <span class="dtstart"><span class="value" title="20110207">*Monday* the 7th of February</span>, from <span class="value" title="18:30">6:30pm</span></span> to <span class="dtend" title="20110207T20:00">8:00pm</span>.  Our hosts [Skills Matter](http://skillsmatter.com/) will be providing the space, at <span class="location hcard">their offices on <span class="adr">Goswell Road</span>; <span class="url">[<span class="fn">The Skills Matter eXchange</span>](http://skillsmatter.com/location-details/design-architecture/484/96)</span></span>.  It's a great space with plenty of room for the group, but you still need to <a href="#feb11registration">register to let Skills Matter know you are coming</a>.

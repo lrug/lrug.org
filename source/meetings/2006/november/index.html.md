@@ -1,9 +1,6 @@
 --- 
-breadcrumb: November 2006 Meeting
-slug: november-2006-meeting
 created_by: 
   email: rob_m_mckinnon@yahoo.com
-  login: robmckinnon
   name: Rob McKinnon
 category: meeting
 title: November 2006 Meeting
@@ -13,7 +10,6 @@ created_at: 2006-10-23 10:07:17 Z
 parts: {}
 
 status: Published
-class_name: ""
 ---
 
 Our next meeting will be on Monday November 13, 6:30-8pm. We've got two great speakers lined up.

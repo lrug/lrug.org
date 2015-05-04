@@ -2,8 +2,6 @@
 published_at: 2010-04-03 08:22:17 Z
 title: "Episode #1: Software Craftsmanship"
 created_at: 2010-04-03 15:22:17 Z
-slug: episode-1-software-craftsmanship
-breadcrumb: "Episode #1: Software Craftsmanship"
 duration: "18:26"
 file_size: 17999203
 file_url: "http://assets.lrug.org/podcasts/lrug_podcast_episode_1.m4a"
@@ -12,9 +10,7 @@ updated_at: 2013-02-12 23:09:29 Z
 status: Published
 created_by: 
   email: murray.steele@gmail.com
-  login: hlame
   name: Murray Steele
-class_name: ""
 category: podcast
 ---
 

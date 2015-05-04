@@ -1,13 +1,9 @@
 --- 
 updated_by: 
   email: murray.steele@gmail.com
-  login: hlame
   name: Murray Steele
-breadcrumb: February 2015 Meeting
-slug: february-2015-meeting
 created_by: 
   email: murray.steele@gmail.com
-  login: hlame
   name: Murray Steele
 category: meeting
 title: February 2015 Meeting
@@ -21,7 +17,6 @@ parts:
       [<image src="http://assets.lrug.org/images/bath-ruby-conf-logo_small.png" width="120" height="31" alt="Bath Ruby Conference 2015" title="Bath Ruby Conference 2015 Logo"/>](http://2015.bathruby.org/)
     :filter: .md
 status: Published
-class_name: ""
 ---
 
 The February 2015 meeting of LRUG will be on *Monday the 9th of February*, from 6:30pm to 8:00pm.  Our hosts [Skills Matter](http://skillsmatter.com/) will be providing the space, at their offices on Goswell Road; [The Skills Matter eXchange](https://skillsmatter.com/locations/96-skills-matter-exchange).  <a href="#feb15registration">Registration details are given below</a>.

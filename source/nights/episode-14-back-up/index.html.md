@@ -2,15 +2,11 @@
 published_at: 2009-02-18 14:35:22 Z
 title: "Episode #14: Back Up"
 created_at: 2009-02-18 22:34:55 Z
-slug: episode-14-back-up
-breadcrumb: "Episode #14: Back Up"
 updated_at: 2013-02-12 23:09:25 Z
 status: Published
 created_by: 
   email: ""
-  login: mitchb
   name: Mitch Buchannon
-class_name: ""
 category: nights
 ---
 

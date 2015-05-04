@@ -1,9 +1,6 @@
 --- 
-breadcrumb: April 2008 Meeting
-slug: april-2008-meeting
 created_by: 
   email: murray.steele@gmail.com
-  login: hlame
   name: Murray Steele
 category: meeting
 title: April 2008 Meeting
@@ -13,7 +10,6 @@ created_at: 2008-03-16 21:22:27 Z
 parts: {}
 
 status: Published
-class_name: ""
 ---
 
 <a href="http://www.flickr.com/photos/snowblink/2420965665/" title="El Rug (20080414-R0010621.jpg) by snowblink, on Flickr"><img src="http://farm4.static.flickr.com/3100/2420965665_9ceb94849a_m.jpg" width="240" height="240" alt="El Rug (20080414-R0010621.jpg)" /></a>

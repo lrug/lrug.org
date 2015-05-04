@@ -2,15 +2,11 @@
 published_at: 2007-11-28 08:57:20 Z
 title: "Episode #6: 976 Ways to Say I Love You"
 created_at: 2007-11-28 16:56:26 Z
-slug: episode-6-976-ways-to-say-i-love-you
-breadcrumb: "Episode #6: 976 Ways to Say I Love You"
 updated_at: 2013-02-12 23:09:19 Z
 status: Published
 created_by: 
   email: ""
-  login: mitchb
   name: Mitch Buchannon
-class_name: ""
 category: nights
 ---
 

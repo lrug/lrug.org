@@ -1,13 +1,9 @@
 --- 
 updated_by: 
   email: murray.steele@gmail.com
-  login: hlame
   name: Murray Steele
-breadcrumb: January 2014 Meeting
-slug: january-2014-meeting
 created_by: 
   email: murray.steele@gmail.com
-  login: hlame
   name: Murray Steele
 category: meeting
 title: January 2014 Meeting
@@ -17,7 +13,6 @@ created_at: 2013-12-15 14:34:32 Z
 parts: {}
 
 status: Published
-class_name: ""
 ---
 
 The January 2013 meeting of LRUG will be on *Monday the 13th of January*, from 6:30pm to 8:00pm.  Our hosts [Skills Matter](http://skillsmatter.com/) will be providing the space, at their offices on Goswell Road; [The Skills Matter eXchange](http://skillsmatter.com/location-details/design-architecture/484/96).  <a href="#jan14registration">Registration details are given below</a>.

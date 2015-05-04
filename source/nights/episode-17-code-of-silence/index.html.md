@@ -2,15 +2,11 @@
 published_at: 2009-05-29 06:43:48 Z
 title: "Episode #17: Code Of Silence"
 created_at: 2009-05-29 13:43:48 Z
-slug: episode-17-code-of-silence
-breadcrumb: "Episode #17: Code Of Silence"
 updated_at: 2013-02-12 23:09:26 Z
 status: Published
 created_by: 
   email: ""
-  login: mitchb
   name: Mitch Buchannon
-class_name: ""
 category: nights
 ---
 

@@ -1,9 +1,6 @@
 --- 
-breadcrumb: August 2009 Meeting
-slug: august-2009-meeting
 created_by: 
   email: murray.steele@gmail.com
-  login: hlame
   name: Murray Steele
 category: meeting
 title: August 2009 Meeting
@@ -20,7 +17,6 @@ parts:
       [<image src="http://assets.lrug.org/images/brightbox_small.png" width="120" height="99" alt="Brightbox" title="Brightbox Logo"/>](http://www.brightbox.co.uk/)
     :filter: .md
 status: Published
-class_name: ""
 ---
 
 The next meeting of LRUG will be on Wednesday the 12th of August, from 6:30pm to 8:00pm.  As usual our hosts [Skills Matter](http://skillsmatter.com/) will provide the space, at our new venue [The Crypt](http://skillsmatter.com/location-details/home/166/26) (it's very close to the other venues).  We still need people to <a href="#aug09registration">register</a> though to make sure the room is set up properly.

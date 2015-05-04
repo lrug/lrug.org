@@ -2,15 +2,11 @@
 published_at: 2007-07-11 03:14:57 Z
 title: "Episode #2: Bad Blades"
 created_at: 2007-07-11 10:13:18 Z
-slug: episode-2-bad-blades
-breadcrumb: "Episode #2: Bad Blades"
 updated_at: 2013-02-12 23:09:17 Z
 status: Published
 created_by: 
   email: james@lazyatom.com
-  login: lazyatom
   name: James Adam
-class_name: ""
 category: nights
 ---
 

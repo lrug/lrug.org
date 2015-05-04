@@ -2,15 +2,11 @@
 published_at: 2012-06-26 00:00:00 Z
 title: "Episode #22: Heat Rays"
 created_at: 2012-06-26 12:56:07 Z
-slug: episode-22-heat-rays
-breadcrumb: "Episode #22: Heat Rays"
 updated_at: 2013-02-12 23:09:36 Z
 status: Published
 created_by: 
   email: murray.steele@gmail.com
-  login: hlame
   name: Murray Steele
-class_name: ""
 category: nights
 ---
 

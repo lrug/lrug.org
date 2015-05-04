@@ -2,15 +2,11 @@
 published_at: 2008-03-07 09:47:22 Z
 title: "Episode #7: \"Pressure Cooker\""
 created_at: 2008-03-07 17:47:22 Z
-slug: episode-7-pressure-cooker
-breadcrumb: "Episode #7: \"Pressure Cooker\""
 updated_at: 2013-02-12 23:09:20 Z
 status: Published
 created_by: 
   email: ""
-  login: mitchb
   name: Mitch Buchannon
-class_name: ""
 category: nights
 ---
 

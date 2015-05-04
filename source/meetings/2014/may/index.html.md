@@ -1,13 +1,9 @@
 --- 
 updated_by: 
   email: murray.steele@gmail.com
-  login: hlame
   name: Murray Steele
-breadcrumb: May 2014 Meeting
-slug: may-2014-meeting
 created_by: 
   email: murray.steele@gmail.com
-  login: hlame
   name: Murray Steele
 category: meeting
 title: May 2014 Meeting
@@ -17,7 +13,6 @@ created_at: 2014-04-25 14:32:18 Z
 parts: {}
 
 status: Published
-class_name: ""
 ---
 
 The May 2014 meeting of LRUG will be on *Monday the 12th of May*, from 6:30pm to 8:00pm.  Our hosts [Skills Matter](http://skillsmatter.com/) will be providing the space, at their offices on Goswell Road; [The Skills Matter eXchange](https://skillsmatter.com/locations/96-skills-matter-exchange).  <a href="#may14registration">Registration details are given below</a>.

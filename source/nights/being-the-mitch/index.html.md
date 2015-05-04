@@ -2,15 +2,11 @@
 published_at: 2007-07-23 00:00:00 Z
 title: "Being The \"Mitch\""
 created_at: 2007-07-23 08:54:21 Z
-slug: being-the-mitch
-breadcrumb: "Being The \"Mitch\""
 updated_at: 2013-02-12 23:09:17 Z
 status: Published
 created_by: 
   email: murray.steele@gmail.com
-  login: hlame
   name: Murray Steele
-class_name: ""
 ---
 
 Congratulations on becoming the "Mitch" for the next episode of [LRUG Nights](/nights).  Here's a handy checklist of what you need to do:

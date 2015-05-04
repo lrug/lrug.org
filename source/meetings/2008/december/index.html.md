@@ -1,9 +1,6 @@
 --- 
-breadcrumb: December 2008 Meeting
-slug: december-2008-meeting
 created_by: 
   email: murray.steele@gmail.com
-  login: hlame
   name: Murray Steele
 category: meeting
 title: December 2008 Meeting
@@ -13,7 +10,6 @@ created_at: 2008-11-25 09:59:31 Z
 parts: {}
 
 status: Published
-class_name: ""
 ---
 
 <a href="http://www.flickr.com/photos/snowblink/3095342287/" title="LRUGers (R0012228) by snowblink, on Flickr"><img src="http://farm4.static.flickr.com/3141/3095342287_f270a0604d.jpg" width="500" height="330" alt="LRUGers (R0012228)" /></a>
