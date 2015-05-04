@@ -7,13 +7,6 @@ module LRUGHelpers
     "/rss/#{yield_content :rss_path}"
   end
 
-  def with_page(slug_match, &html_block)
-    page = sitemap.where(:slug => slug_match).first
-    if page
-      concat_content(capture_html page, &html_block)
-    end
-  end
-
   def show_sponsors(for_page = current_page)
     partial "sponsors", locals: { for_page: for_page }
   end
