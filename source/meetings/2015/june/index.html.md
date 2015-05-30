@@ -39,6 +39,13 @@ set.  As an adult, Andrew prefers to perform magic using Ruby.  In this
 talk, he will attempt an array of traditional magic tricks, using only
 [IRB](https://en.wikipedia.org/wiki/Interactive_Ruby_Shell).
 
+### Test Bisection with RSpec
+
+[Simon Coffey](https://twitter.com/urbanautomaton) says:
+
+> I'll talk about a useful technique for debugging order-dependent test
+> failures, and introduce an upcoming feature in RSpec that automates it.
+
 Pub
 ---
 
