@@ -64,7 +64,7 @@ Agenda
 Pub
 ---
 
-The talks will end at 8pm and we'll head to a local pub shortly after.  We haven't picked the pub yet, but once we have we'll update this page with details.  If you can't make the talks but want to hang out with some rubyists afterwards, feel free to turn up and say "hi".
+The talks will end at 8pm and we'll head to [The Fellow](http://www.geronimo-inns.co.uk/london-the-fellow) shortly after.  We've reserved the entire first floor, so if you can't make the talks but want to hang out with some rubyists afterwards, head on over and climb the stairs to say "hi".
 
 Venue & Registration <a name="jul15registration">&nbsp;</a>
 ---------------------------------------------------
