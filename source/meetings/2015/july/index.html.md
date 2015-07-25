@@ -47,7 +47,7 @@ Agenda
 > and the particular challenges the students face with learning Ruby and
 > JavaScript.
 
-###Flaky tests & Capybara best practices
+### Flaky tests & Capybara best practices
 
 [Karlotcha Hoa](https://github.com/Karlotcha) says:
 
