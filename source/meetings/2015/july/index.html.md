@@ -11,6 +11,11 @@ updated_at:
 published_at: 2015-06-21 19:53:42 Z
 created_at: 2015-06-21 18:41:23 Z
 parts:
+  sponsors:
+    :content: |
+      __Drinks__
+      [<image src="http://assets.lrug.org/images/thoughtbot_logo_small.png" width="120" height="120" alt="thoughtbot" title="thoughtbot logo"/>](https://thoughtbot.com/)
+    :filter: .md
   hosted_by:
     :content: |
       [<image src="http://assets.lrug.org/images/overleaf-logo-small.png" width="120" height="37" alt="Overleaf" title="Overleaf Logo"/>](http://www.overleaf.com)
@@ -65,6 +70,10 @@ Pub
 ---
 
 The talks will end at 8pm and we'll head to [The Fellow](http://www.geronimo-inns.co.uk/london-the-fellow) shortly after.  We've reserved the entire first floor, so if you can't make the talks but want to hang out with some rubyists afterwards, head on over and climb the stairs to say "hi".
+
+[<image src="http://assets.lrug.org/images/thoughtbot_logo_medium.png" width="260" height="260" alt="thoughtbot" title="thoughtbot logo"/>](https://thoughtbot.camp)
+
+[Chad Pytel](https://twitter.com/cpytel) from [thoughtbot](http://thoughtbot.com) was kind enough to put some money behind the bar at The Fellow.  Thanks to him and [thoughtbot](http://thoughtbot.com) for supporting us!
 
 Venue & Registration <a name="jul15registration">&nbsp;</a>
 ---------------------------------------------------
