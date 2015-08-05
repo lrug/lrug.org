@@ -10,7 +10,12 @@ title: August 2015 Meeting
 updated_at:
 published_at: 2015-07-25 18:42:42 Z
 created_at: 2015-07-25 18:22:03 Z
-parts: {}
+parts:
+  sponsors:
+    :content: |
+      __Ticket giveaway__
+      [<image src="http://assets.lrug.org/images/container_camp_logo_small.png" width="120" height="140" alt="container.camp" title="container.camp logo"/>](https://container.camp)
+    :filter: .md
 status: Published
 ---
 
@@ -57,6 +62,12 @@ Agenda
 > aim to cut through the jargon and give concrete, real-world examples of
 > how we applied the principles of DDD to build a product that
 > anticipates change.
+
+### Ticket Giveaway
+
+[<image src="http://assets.lrug.org/images/container_camp_logo_medium.png" width="260" height="302" alt="container.camp" title="container.camp logo"/>](https://container.camp)
+
+The organisers of [container.camp](http://container.camp), a conference about software virtualization to be held in London on 11th September, were kind enough to get in touch and provide a free ticket to their conference and a discount code for everyone.  The ticket was raffled off on our [mailing list](/mailing-list) with the winners contacted on Friday 7th August.  Thanks [container.camp](http://container.camp) organisers!
 
 Pub
 ---
