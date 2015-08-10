@@ -74,12 +74,15 @@ The organisers of [container.camp](http://container.camp), a conference about so
 Pub
 ---
 
-The talks will end at 8pm and we'll head to a local pub.  As it's a new venue we don't know which one yet.  Watch this space if you can't make the talks but want to join us afterwards.
+The talks will end at 8pm and we'll head to a local pub.  As it's a new venue we don't know which one will best accomodate us so we're going to try out Finch's Pub:
+
+> Finch’s Pub<br/>12a Finsbury Square<br/>Moorgate<br/>EC2A 1AN<br/><br/>[See on a map](https://goo.gl/maps/sYaVu)
+
+If you can't make the talks then we'll be there from about 8pm; feel free to join us.
 
 [<image src="http://assets.lrug.org/images/thoughtbot_logo_medium.png" width="260" height="260" alt="thoughtbot" title="thoughtbot logo"/>](https://thoughtbot.camp)
 
-The nice folk at [thoughtbot](http://thoughtbot.com), have agreed to put some money behind the bar at whichever pub we do end up at.  [Chad Pytel](https://twitter.com/cpytel) will be in attendance so do seek him out to thank him for buying your drink (and to find out what thoughtbot are up to in London).  Thanks [thoughtbot](http://thoughtbot.com) for supporting us!
-
+The nice folk at [thoughtbot](http://thoughtbot.com), have agreed to put some money behind the bar.  [Chad Pytel](https://twitter.com/cpytel) will be in attendance so do seek him out to thank him for buying your drink (and to find out what thoughtbot are up to in London).  Thanks [thoughtbot](http://thoughtbot.com) for supporting us!
 
 Venue & Registration <a name="aug15registration">&nbsp;</a>
 ----------------------------------------------------------
