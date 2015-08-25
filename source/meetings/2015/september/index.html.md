@@ -10,7 +10,12 @@ title: September 2015 Meeting
 updated_at:
 published_at: 2015-08-21 10:11:34 Z
 created_at: 2015-08-21 16:43:40 Z
-parts: {}
+parts:
+  sponsors:
+    :content: |
+      __Ticket giveaway__
+      [<image src="http://assets.lrug.org/images/all_your_base_logo_small.png" width="120" height="86" alt="All Your Base" title="All Your Base logo"/>](http://allyourbaseconf.com/2015/)
+    :filter: .md
 status: Published
 ---
 
@@ -47,6 +52,12 @@ Agenda
 > A quick blast through encountering a feature with performance in the
 > mustache gem. How we debugged it and how we fixed it. This talk will be
 > a bit less boring than it sounds.
+
+### Ticket Giveaway
+
+[<image src="http://assets.lrug.org/images/all_your_base_logo_medium.png" width="260" height="185" alt="All Your Base" title="All Your Base logo"/>](http://allyourbaseconf.com/2015/)
+
+The organisers of [All Your Base](http://allyourbaseconf.com/2015/), a data and databases conference in London on 13th November, have provided free tickets for 5 lucky LRUG memebers and a 15% discount code for everyone else.  The tickets will be raffled off on our [mailing list](/mailing-list) with the winners contacted on Friday 4th September.  Thanks [All Your Base](http://allyourbaseconf.com/2015/) organisers!
 
 Pub
 ---
