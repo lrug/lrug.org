@@ -28,12 +28,14 @@ We're back with our usual hosts, [Skills Matter](http://www.skillsmatter.com), b
 Agenda
 ------
 
-### How to onboard junior developers well
+### A pull request slackbot : the seal
 
 [Tatiana Soukiassian](https://twitter.com/binaryberry) says:
 
-> A junior developer shares their experience and elements that have
-> helped her learn and contribute better.
+> As part of my 20% project at GDS, I developed a Slackbot that reminds
+> developers of their team's pull requests that are awaiting review. I
+> will talk about why and how [the seal](https://github.com/binaryberry/seal/)
+> was built, and what I learned from building it.
 
 ### Containers Patterns for Rails
 
@@ -45,13 +47,13 @@ Agenda
 > jobs. We will show how to set up and manage the configuration of these
 > elements.
 
-### Debugging and fixing performance issues with the mustache gem and partials
+### Learning through blameless reviews
 
-[Alice Bartlett](https://twitter.com/alicebartlett) and [Dominic Baggott](https://twitter.com/evilstreak) say:
+[Joel Chippindale](https://twitter.com/joelchippindale) says:
 
-> A quick blast through encountering a feature with performance in the
-> mustache gem. How we debugged it and how we fixed it. This talk will be
-> a bit less boring than it sounds.
+> In this talk I will outline some of the ways that teams react to the
+> mistakes they make and how blameless reviews can help teams learn from
+> these mistakes
 
 ### Ticket Giveaway
 
