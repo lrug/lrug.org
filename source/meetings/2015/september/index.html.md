@@ -13,8 +13,13 @@ created_at: 2015-08-21 16:43:40 Z
 parts:
   sponsors:
     :content: |
-      __Ticket giveaway__
+      __Tickets__
+
       [<image src="http://assets.lrug.org/images/all_your_base_logo_small.png" width="120" height="86" alt="All Your Base" title="All Your Base logo"/>](http://allyourbaseconf.com/2015/)
+
+      __Tickets & Drinks__
+
+      [<image src="http://assets.lrug.org/images/braintree_payments_logo_small.png" width="120" height="30" alt="Braintree Payments" title="Braintree Payments logo"/>](http://braintreepayments.com/)
     :filter: .md
 status: Published
 ---
@@ -55,11 +60,17 @@ Agenda
 > mistakes they make and how blameless reviews can help teams learn from
 > these mistakes
 
-### Ticket Giveaway
+### Ticket Giveaway #1
 
 [<image src="http://assets.lrug.org/images/all_your_base_logo_medium.png" width="260" height="185" alt="All Your Base" title="All Your Base logo"/>](http://allyourbaseconf.com/2015/)
 
 The organisers of [All Your Base](http://allyourbaseconf.com/2015/), a data and databases conference in London on 13th November, have provided free tickets for 5 lucky LRUG memebers and a 15% discount code for everyone else.  The tickets will be raffled off on our [mailing list](/mailing-list) with the winners contacted on Friday 4th September.  Thanks [All Your Base](http://allyourbaseconf.com/2015/) organisers!
+
+### Ticket Giveaway #2
+
+[<image src="http://assets.lrug.org/images/braintree_payments_logo_medium.png" width="260" height="65" alt="Braintree Payments" title="Braintree Payments"/>](http://braintreepayments.com/)
+
+The nice folk at [Braintree Payments](http://braintreepayments.com/) got in touch to provide us with two 1-day passes for [FOWA London 2015](https://www.google.com/url?q=https://futureofwebapps.com/london-2015/&sa=D&usg=AFQjCNFk7OQF0n8x7h7KsPZ4NqZEvJtDXw), a web and frontend conference in London on 5-7th October.  They also provided a 20% discount code for those too unlucky to win one of the passes.  The tickets will be raffled off on our [mailing list](/mailing-list) with the winners contacted on Monday 14th September.  Thanks [Braintree Payments](http://braintreepayments.com/)!
 
 Pub
 ---
@@ -69,6 +80,10 @@ After the talks we continue the meeting at a nearby pub.  We're still trying out
 > Singer Tavern<br/>1 City Road<br/>EC1Y 1AG<br/><br/>[See on a map](https://goo.gl/maps/w9kPu)
 
 Our talks should end at about 8pm, so if you are unable to attend those you can still join us afterwards in the pub.
+
+[<image src="http://assets.lrug.org/images/braintree_payments_logo_medium.png" width="260" height="65" alt="Braintree Payments" title="Braintree Payments"/>](http://braintreepayments.com/)
+
+Not content with providing the tickets for FOWA, the extremely nice folk at [Braintree Payments](http://braintreepayments.com/) have also arranged to put some money behind the bar after the meeting.  Thanks again [Braintree Payments](http://braintreepayments.com/)!
 
 Venue & Registration <a name="sep15registration">&nbsp;</a>
 ----------------------------------------------------------
