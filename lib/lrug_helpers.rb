@@ -80,6 +80,10 @@ module LRUGHelpers
     end
   end
 
+  def meeting_sponsors
+    meeting_pages.select { |mp| mp.data.sponsors? }.flat_map { |mp| mp.data.sponsors }.uniq
+  end
+
   def sponsor_logo(sponsor_name, size: 'sidebar')
     sponsor = data.sponsors.detect { |sponsor| sponsor.name == sponsor_name }
     if sponsor
