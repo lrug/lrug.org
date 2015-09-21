@@ -71,6 +71,15 @@ module LRUGHelpers
     end
   end
 
+  def month_of_meeting(meeting)
+    match = meeting.data.title.match(/(January|February|March|April|May|June|July|August|September|October|November|December)/i)
+    if match
+      match[1]
+    else
+      meeting.data.title
+    end
+  end
+
   private
   def find_page_part(part_name, page, inherit: false)
     if page.data.parts? && page.data.parts.has_key?(part_name)

@@ -133,3 +133,19 @@ div#sponsors img {
 .minor {
   font-size: 90%;
 }
+nav.meeting-month-index li {
+  list-style: none;
+  float: left;
+  width: 115px;
+}
+nav.meeting-month-index li a {
+  display: inline-block;
+  border: 1px dotted #f00;
+  padding: 5px;
+  margin: 5px;
+  width: 93px;
+}
+nav.meeting-month-index ol {
+  overflow: auto;
+  padding: 0px 20px;
+}

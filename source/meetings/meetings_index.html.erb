@@ -7,4 +7,12 @@ status: 'Published'
   content_for(:title) { "#{locals[:year]} Meetings" }
   content_for(:rss_path) { 'meetings/' }
 %>
+<nav class="meeting-month-index">
+  <ol>
+    <% meetings.reverse.each do |meeting| %>
+      <li><%= link_to month_of_meeting(meeting), '#'+meeting.data.title.parameterize %></li>
+    <% end %>
+  </ol>
+</nav>
+
 <%= partial 'meetings/meeting', collection: meetings %>

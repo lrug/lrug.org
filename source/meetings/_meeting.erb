@@ -1,4 +1,4 @@
-<div class="<%= locals[:first] ? 'first ' : '' %>entry">
+<div class="<%= locals[:first] ? 'first ' : '' %>entry" id="<%= meeting.data.title.parameterize %>">
   <h2><%= link_to meeting.data.title, meeting %></h2>
   <%= show_sponsors meeting %>
   <%= meeting.render(layout: false) %>
