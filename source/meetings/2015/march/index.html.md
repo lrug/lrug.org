@@ -10,12 +10,9 @@ title: March 2015 Meeting
 updated_at: 
 published_at: 2015-02-25 10:10:10 Z
 created_at: 2015-02-22 18:32:10 Z
-parts:
-  sponsors:
-    :content: |
-      [<image src="http://assets.lrug.org/images/braintree_payments_logo_small.png" width="120" height="30" alt="Braintree Payments" title="Braintree Payments Logo"/>](https://braintreepayments.com)
-
-    :filter: .md
+sponsors:
+  - :name: Braintree Payments
+parts: {}
 status: Published
 ---
 

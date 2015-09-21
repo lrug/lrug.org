@@ -7,15 +7,13 @@ title: August 2009 Meeting
 updated_at: 2013-02-12 23:09:26 Z
 published_at: 2009-07-20 03:33:44 Z
 created_at: 2009-07-15 08:59:53 Z
-parts: 
-  sponsors: 
-    :content: |-
-      [<image src="http://assets.lrug.org/images/eden_development_small.png" width="120" height="45" alt="Eden Development" title="Eden Development Logo"/>](http://www.edendevelopment.co.uk/)
-      [<image src="http://assets.lrug.org/images/unboxed_small.png" width="120" height="58" alt="Unboxed Consulting" title="Unboxed Consulting Logo"/>](http://www.unboxedconsulting.com/)
-      [<image src="http://assets.lrug.org/images/taskforce_small.png" width="120" height="20" alt="Taskforce" title="Taskforce Logo"/>](http://www.taskforce.co.uk/about/)
-      [<image src="http://assets.lrug.org/images/new_bamboo_small.png" width="120" height="24" alt="New Bamboo" title="New Bamboo Logo"/>](http://newbamboo.co.uk/)
-      [<image src="http://assets.lrug.org/images/brightbox_small.png" width="120" height="99" alt="Brightbox" title="Brightbox Logo"/>](http://www.brightbox.co.uk/)
-    :filter: .md
+sponsors:
+  - :name: Eden Development
+  - :name: Unboxed Consulting
+  - :name: Taskforce
+  - :name: New Bamboo
+  - :name: Brightbox
+parts: {}
 status: Published
 ---
 

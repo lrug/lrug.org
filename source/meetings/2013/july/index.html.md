@@ -10,12 +10,9 @@ title: July 2013 Meeting
 updated_at: 2013-06-24 14:31:05 Z
 published_at: 2013-06-24 00:00:00 Z
 created_at: 2013-06-19 08:55:36 Z
-parts: 
-  sponsors: 
-    :content: |
-      [<image src="http://assets.lrug.org/images/workshare_logo_small.png" width="120" height="26" alt="Workshare" title="Workshare Logo"/>](http://www.workshare.com/)
-
-    :filter: .md
+sponsors:
+  - :name: Workshare
+parts: {}
 status: Published
 ---
 

@@ -7,12 +7,10 @@ title: June 2009 Meeting
 updated_at: 2013-02-12 23:09:25 Z
 published_at: 2009-05-19 01:39:32 Z
 created_at: 2009-05-13 09:37:48 Z
-parts: 
-  sponsors: 
-    :content: |-
-      [<image src="http://assets.lrug.org/images/new_bamboo_small.png" width="120" height="24" alt="New Bamboo" title="New Bamboo"/>](http://newbamboo.co.uk/)
-      [<image src="http://assets.lrug.org/images/unboxed_small.png" width="120" height="58" alt="Unboxed Consulting" title="Unboxed Consulting"/>](http://www.unboxedconsulting.com/)
-    :filter: .md
+sponsors:
+  - :name: New Bamboo
+  - :name: Unboxed Consulting
+parts: {}
 status: Published
 ---
 

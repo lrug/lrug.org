@@ -10,11 +10,9 @@ title: May 2015 Meeting
 updated_at:
 published_at: 2015-05-01 10:30:57 Z
 created_at: 2015-05-01 10:01:10 Z
-parts:
-  sponsors:
-    :content: |
-      [<image src="http://assets.lrug.org/images/infinitium_global_logo_small.jpg" width="120" height="120" alt="Infinitium Global" title="Infinitium Global Logo"/>](https://www.linkedin.com/company/infinitium-global)
-    :filter: .md
+sponsors:
+  - :name: 'Infinitium Global'
+parts: {}
 status: Published
 ---
 

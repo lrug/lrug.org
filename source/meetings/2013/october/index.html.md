@@ -10,12 +10,9 @@ title: October 2013 Meeting
 updated_at: 2013-09-20 13:05:55 Z
 published_at: 2013-09-16 00:00:00 Z
 created_at: 2013-09-16 10:07:44 Z
-parts: 
-  sponsors: 
-    :content: |
-      [<image src="http://assets.lrug.org/images/how_are_you_logo_small.png" width="120" height="34" alt="How Are You" title="How Are You Logo"/>](http://www.howareyou.com/)
-
-    :filter: .md
+sponsors:
+  - :name: How Are You?
+parts: {}
 status: Published
 ---
 

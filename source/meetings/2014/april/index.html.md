@@ -10,12 +10,9 @@ title: April 2014 Meeting
 updated_at: 2014-04-07 14:27:13 Z
 published_at: 2014-03-27 00:00:00 Z
 created_at: 2014-03-24 21:05:39 Z
-parts: 
-  sponsors: 
-    :content: |
-      [<image src="http://assets.lrug.org/images/resource_guru_logo_small.png" width="120" height="15" alt="Resource Guru" title="Resource Guru Logo"/>](http://resourceguruapp.com/jobs/)
-
-    :filter: .md
+sponsors:
+  - :name: Resource Guru
+parts: {}
 status: Published
 ---
 

@@ -10,13 +10,17 @@ title: August 2015 Meeting
 updated_at:
 published_at: 2015-07-25 18:42:42 Z
 created_at: 2015-07-25 18:22:03 Z
+sponsors:
+  - :name: container.camp
+  - :name: thoughtbot
 parts:
   sponsors:
     :content: |
-      __Ticket giveaway__
-      [<image src="http://assets.lrug.org/images/container_camp_logo_small.png" width="120" height="140" alt="container.camp" title="container.camp logo"/>](https://container.camp)
-      __Drinks__
-      [<image src="http://assets.lrug.org/images/thoughtbot_logo_small.png" width="120" height="120" alt="thoughtbot" title="thoughtbot logo"/>](https://thoughtbot.com/)
+      ##### Ticket giveaway
+      <%= sponsor_logo 'container.camp' %>
+
+      ##### Drinks
+      <%= sponsor_logo 'thoughtbot' %>
     :filter: .md
 status: Published
 ---

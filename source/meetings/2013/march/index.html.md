@@ -10,12 +10,9 @@ title: March 2013 Meeting
 updated_at: 2013-03-20 20:11:30 Z
 published_at: 2013-02-24 00:00:00 Z
 created_at: 2013-02-23 13:40:41 Z
-parts: 
-  sponsors: 
-    :content: |
-      [<image src="http://assets.lrug.org/images/house_trip_logo_small.jpg" width="120" height="58" alt="House Trip" title="House Trip Logo"/>](http://www.housetrip.com/)
-
-    :filter: .md
+sponsors:
+  - :name: House Trip
+parts: {}
 status: Published
 ---
 

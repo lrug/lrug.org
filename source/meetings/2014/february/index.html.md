@@ -10,12 +10,9 @@ title: February 2014 Meeting
 updated_at: 2014-01-27 09:43:47 Z
 published_at: 2014-01-27 00:00:00 Z
 created_at: 2014-01-13 09:40:00 Z
-parts: 
-  sponsors: 
-    :content: |
-      [<image src="http://assets.lrug.org/images/rethink_logo_small.jpg" width="120" height="31" alt="ReThink Recruitment" title="ReThink Recruitment Logo"/>](http://www.rethink-recruitment.com/)
-
-    :filter: .md
+sponsors:
+  - :name: ReThink Recruitment
+parts: {}
 status: Published
 ---
 

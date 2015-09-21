@@ -10,12 +10,9 @@ title: May 2013 Meeting
 updated_at: 2013-05-01 19:54:43 Z
 published_at: 2013-04-18 00:00:00 Z
 created_at: 2013-04-17 20:30:34 Z
-parts: 
-  sponsors: 
-    :content: |
-      [<image src="http://assets.lrug.org/images/team_prime_logo_small.jpg" width="120" height="92" alt="Team Prime" title="Team Prime Logo"/>](http://www.team-prime.com/)
-
-    :filter: .md
+sponsors:
+  - :name: Team Prime
+parts: {}
 status: Published
 ---
 

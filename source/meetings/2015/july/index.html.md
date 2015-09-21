@@ -10,16 +10,20 @@ title: July 2015 Meeting
 updated_at:
 published_at: 2015-06-21 19:53:42 Z
 created_at: 2015-06-21 18:41:23 Z
+sponsors:
+  - :name: thoughtbot
+  - :name: Overleaf
+  - :name: Altmetric
 parts:
   sponsors:
     :content: |
-      __Drinks__
-      [<image src="http://assets.lrug.org/images/thoughtbot_logo_small.png" width="120" height="120" alt="thoughtbot" title="thoughtbot logo"/>](https://thoughtbot.com/)
+      ##### Drinks
+      <%= sponsor_logo 'thoughtbot' %>
     :filter: .md
   hosted_by:
     :content: |
-      [<image src="http://assets.lrug.org/images/overleaf-logo-small.png" width="120" height="37" alt="Overleaf" title="Overleaf Logo"/>](http://www.overleaf.com)
-      [<image src="http://assets.lrug.org/images/altmetric-logo-small.png" width="120" height="43" alt="Altmetric" title="Altmetric Logo"/>](http://www.altmetric.com)
+      <%= sponsor_logo 'Overleaf' %>
+      <%= sponsor_logo 'Altmetric' %>
     :filter: .md
 status: Published
 ---

@@ -10,12 +10,9 @@ title: June 2013 Meeting
 updated_at: 2013-05-28 11:27:02 Z
 published_at: 2013-05-25 00:00:00 Z
 created_at: 2013-05-25 11:40:27 Z
-parts: 
-  sponsors: 
-    :content: |
-      [<image src="http://assets.lrug.org/images/yammer_logo_small.png" width="120" height="33" alt="Yammer" title="Yammer Logo"/>](http://www.yammer.com/)
-
-    :filter: .md
+sponsors:
+  - :name: Yammer
+parts: {}
 status: Published
 ---
 

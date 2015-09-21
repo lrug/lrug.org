@@ -10,16 +10,17 @@ title: September 2015 Meeting
 updated_at:
 published_at: 2015-08-21 10:11:34 Z
 created_at: 2015-08-21 16:43:40 Z
+sponsors:
+  - :name: All Your Base
+  - :name: Braintree Payments
 parts:
   sponsors:
     :content: |
-      __Tickets__
+      ##### Tickets
+      <%= sponsor_logo 'All Your Base' %>
 
-      [<image src="http://assets.lrug.org/images/all_your_base_logo_small.png" width="120" height="86" alt="All Your Base" title="All Your Base logo"/>](http://allyourbaseconf.com/2015/)
-
-      __Tickets & Drinks__
-
-      [<image src="http://assets.lrug.org/images/braintree_payments_logo_small.png" width="120" height="30" alt="Braintree Payments" title="Braintree Payments logo"/>](http://braintreepayments.com/)
+      ##### Tickets & Drinks
+      <%= sponsor_logo 'Braintree Payments' %>
     :filter: .md
 status: Published
 ---

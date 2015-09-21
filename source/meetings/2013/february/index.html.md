@@ -10,12 +10,9 @@ title: February 2013 Meeting
 updated_at: 2013-02-14 17:36:56 Z
 published_at: 2013-01-25 00:00:00 Z
 created_at: 2013-01-16 22:22:26 Z
-parts: 
-  sponsors: 
-    :content: |
-      [<image src="http://assets.lrug.org/images/globaldev_logo_small.png" width="120" height="114" alt="Globaldev" title="Globaldev Logo"/>](http://www.globaldev.co.uk/)
-
-    :filter: .md
+sponsors:
+  - :name: Globaldev
+parts: {}
 status: Published
 ---
 

@@ -7,12 +7,9 @@ title: August 2012 Meeting
 updated_at: 2013-02-12 23:09:36 Z
 published_at: 2012-07-19 00:00:00 Z
 created_at: 2012-07-19 08:52:08 Z
-parts: 
-  sponsors: 
-    :content: |
-      [<image src="http://assets.lrug.org/images/yammer_logo_small.png" width="120" height="33" alt="Yammer" title="Yammer Logo"/>](https://www.yammer.com/)
-
-    :filter: .md
+sponsors:
+  - :name: Yammer
+parts: {}
 status: Published
 ---
 
