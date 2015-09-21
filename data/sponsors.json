@@ -1,0 +1,455 @@
+[
+  {
+    "name":"AdRoc Group",
+    "url":"http://www.adrocgroup.co.uk/",
+    "logo":{
+      "sidebar":{
+        "url":"http://assets.lrug.org/images/adroc_logo_small.jpeg",
+        "width":"120",
+        "height":"30"
+      },
+      "main":{
+        "url":"http://assets.lrug.org/images/adroc_logo_medium.jpeg",
+        "width":"141",
+        "height":"33"
+      }
+    }
+  },
+  {
+    "name":"All Your Base",
+    "url":"http://allyourbaseconf.com/2015/",
+    "logo":{
+      "sidebar":{
+        "url":"http://assets.lrug.org/images/all_your_base_logo_small.png",
+        "width":"120",
+        "height":"86"
+      },
+      "main":{
+        "url":"http://assets.lrug.org/images/all_your_base_logo_medium.png",
+        "width":"260",
+        "height":"185"
+      }
+    }
+  },
+  {
+    "name":"Altmetric",
+    "url":"http://www.altmetric.com",
+    "logo": {
+      "sidebar": {
+        "url":"http://assets.lrug.org/images/altmetric-logo-small.png",
+        "width":"120",
+        "height":"43"
+      },
+      "main": {
+        "url":"http://assets.lrug.org/images/altmetric-logo-medium.png",
+        "width":"260",
+        "height":"93"
+      }
+    }
+  },
+  {
+    "name":"Avdi Grimm",
+    "url":"http://avdi.org"
+  },
+  {
+    "name":"Bath Ruby Conference 2015",
+    "url":"http://2015.bathruby.org/",
+    "logo":{
+      "sidebar":{
+        "url":"http://assets.lrug.org/images/bath-ruby-conf-logo_small.png",
+        "width":"120",
+        "height":"31"
+      },
+      "main":{
+        "url":"http://assets.lrug.org/images/bath-ruby-conf-logo_medium.png",
+        "width":"260",
+        "height":"66"
+      }
+    }
+  },
+  {
+    "name":"Braintree Payments",
+    "url":"https://braintreepayments.com",
+    "logo":{
+      "sidebar":{
+        "url":"http://assets.lrug.org/images/braintree_payments_logo_small.png",
+        "width":"120",
+        "height":"30"
+      },
+      "main":{
+        "url":"http://assets.lrug.org/images/braintree_payments_logo_medium.png",
+        "width":"260",
+        "height":"65"
+      }
+    }
+  },
+  {
+    "name":"Brightbox",
+    "url":"http://www.brightbox.co.uk/",
+    "logo": {
+      "sidebar": {
+        "url": "http://assets.lrug.org/images/brightbox_logo_small.png",
+        "width":"120",
+        "height":"60"
+      },
+      "main":{
+        "url":"http://assets.lrug.org/images/brightbox_logo_medium.png",
+        "width":"260",
+        "height":"130"
+      }
+    }
+  },
+  {
+    "name":"container.camp",
+    "url":"https://container.camp",
+    "logo": {
+      "sidebar": {
+        "url":"http://assets.lrug.org/images/container_camp_logo_small.png",
+        "width":"120",
+        "height":"140"
+      },
+      "main": {
+        "url":"http://assets.lrug.org/images/container_camp_logo_medium.png",
+        "width":"260",
+        "height":"302"
+      }
+    }
+  },
+  {
+    "name":"Eden Development",
+    "url":"http://www.edendevelopment.co.uk/",
+    "logo": {
+      "sidebar": {
+        "url": "http://assets.lrug.org/images/eden_development_small.png",
+        "width":"120",
+        "height":"45"
+      },
+      "main":{
+        "url":"http://assets.lrug.org/images/eden_development_medium.png",
+        "width":"260",
+        "height":"98"
+      }
+    }
+  },
+  {
+    "name":"Globaldev",
+    "url":"http://www.globaldev.co.uk/",
+    "logo":{
+      "sidebar":{
+        "url":"http://assets.lrug.org/images/globaldev_logo_small.png",
+        "width":"120",
+        "height":"114"
+      },
+      "main":{
+        "url":"http://assets.lrug.org/images/globaldev_logo_medium.png",
+        "width":"260",
+        "height":"247"
+      }
+    }
+  },
+  {
+    "name":"Go Free Range",
+    "url":"http://gofreerange.com/",
+    "logo": {
+      "sidebar": {
+        "url":"http://assets.lrug.org/images/go_free_range_logo_small.png",
+        "width":"120",
+        "height":"95"
+      },
+      "main": {
+        "url":"http://assets.lrug.org/images/go_free_range_logo_medium.png",
+        "width":"260",
+        "height":"205"
+      }
+    }
+  },
+  {
+    "name":"House Trip",
+    "url":"http://www.housetrip.com/",
+    "logo": {
+      "sidebar": {
+        "url":"http://assets.lrug.org/images/house_trip_logo_small.jpg",
+        "width":"120",
+        "height":"58"
+      },
+      "main": {
+        "url":"http://assets.lrug.org/images/house_trip_logo_medium.jpg",
+        "width":"260",
+        "height":"126"
+      }
+    }
+  },
+  {
+    "name":"How Are You?",
+    "url":"http://www.howareyou.com/",
+    "logo": {
+      "sidebar": {
+        "url":"http://assets.lrug.org/images/how_are_you_logo_small.png",
+        "width":"120",
+        "height":"34"
+      },
+      "main": {
+        "url":"http://assets.lrug.org/images/how_are_you_logo_medium.png",
+        "width":"260",
+        "height":"72"
+      }
+    }
+  },
+  {
+    "name":"Infinitium Global",
+    "url":"https://www.linkedin.com/company/infinitium-global",
+    "logo": {
+      "sidebar": {
+        "url":"http://assets.lrug.org/images/infinitium_global_logo_small.jpg",
+        "width":"120",
+        "height":"120"
+      },
+      "main": {
+        "url":"http://assets.lrug.org/images/infinitium_global_logo_medium.jpg",
+        "width":"260",
+        "height":"260"
+      }
+    }
+  },
+  {
+    "name":"New Bamboo",
+    "url":"http://newbamboo.co.uk/",
+    "logo": {
+      "sidebar": {
+        "url": "http://assets.lrug.org/images/new_bamboo_small.png",
+        "width":"120",
+        "height":"24"
+      },
+      "main": {
+        "url":"http://assets.lrug.org/images/new_bamboo_medium.png",
+        "width":"260",
+        "height":"52"
+      }
+    }
+  },
+  {
+    "name":"O'Reilly",
+    "url":"http://oreilly.com/",
+    "logo":{
+      "sidebar":{
+        "url":"http://assets.lrug.org/images/oreilly_logo_small.gif",
+        "width":"120",
+        "height":"35"
+      },
+      "main":{
+        "url":"http://assets.lrug.org/images/oreilly_logo_medium.gif",
+        "width":"260",
+        "height":"74"
+      }
+    }
+  },
+  {
+    "name":"Overleaf",
+    "url":"http://www.overleaf.com",
+    "logo": {
+      "sidebar": {
+        "url":"http://assets.lrug.org/images/overleaf-logo-small.png",
+        "width":"120",
+        "height":"37"
+      },
+      "main": {
+        "url":"http://assets.lrug.org/images/overleaf-logo-medium.png",
+        "width":"260",
+        "height":"80"
+      }
+    }
+  },
+  {
+    "name":"Peepcode",
+    "url":"http://www.peepcode.com/",
+    "logo":{
+      "sidebar":{
+        "url":"http://assets.lrug.org/images/peepcode_logo_small.png",
+        "width":"120",
+        "height":"120"
+      },
+      "main":{
+        "url":"http://assets.lrug.org/images/peepcode_logo_medium.png",
+        "width":"260",
+        "height":"260"
+      }
+    }
+  },
+  {
+    "name":"Railscasts",
+    "url":"https://www.railscasts.com/",
+    "logo":{
+      "sidebar":{
+        "url":"http://assets.lrug.org/images/railscasts_logo_small.png",
+        "width":"120",
+        "height":"10"
+      },
+      "main":{
+        "url":"http://assets.lrug.org/images/railscasts_logo_medium.png",
+        "width":"260",
+        "height":"32"
+      }
+    }
+  },
+  {
+    "name":"Resource Guru",
+    "url":"http://resourceguruapp.com/",
+    "logo":{
+      "sidebar":{
+        "url":"http://assets.lrug.org/images/resource_guru_logo_small.png",
+        "width":"120",
+        "height":"15"
+      },
+      "main":{
+        "url":"http://assets.lrug.org/images/resource_guru_logo_medium.png",
+        "width":"260",
+        "height":"33"
+      }
+    }
+  },
+  {
+    "name":"ReThink Recruitment",
+    "url":"http://www.rethink-recruitment.com/",
+    "logo":{
+      "sidebar":{
+        "url":"http://assets.lrug.org/images/rethink_logo_small.jpg",
+        "width":"120",
+        "height":"31"
+      },
+      "main":{
+        "url":"http://assets.lrug.org/images/rethink_logo_medium.jpg",
+        "width":"260",
+        "height":"67"
+      }
+    }
+  },
+  {
+    "name":"Skills Matter",
+    "url":"http://skillsmatter.com/",
+    "logo":{
+      "sidebar":{
+        "url":"http://assets.lrug.org/images/skills_matter_logo_small.png",
+        "width":"120",
+        "height":"56"
+      },
+      "main":{
+        "url":"http://assets.lrug.org/images/skills_matter_logo_medium.png",
+        "width":"260",
+        "height":"120"
+      }
+    }
+  },
+  {
+    "name":"Taskforce",
+    "url":"http://www.taskforce.co.uk/about/",
+    "logo": {
+      "sidebar": {
+        "url": "http://assets.lrug.org/images/taskforce_small.png",
+        "width":"120",
+        "height":"20"
+      },
+      "main":{
+        "url":"http://assets.lrug.org/images/taskforce_medium.png",
+        "width":"260",
+        "height":"45"
+      }
+    }
+  },
+  {
+    "name":"Team Prime",
+    "url":"http://www.team-prime.com/",
+    "logo":{
+      "sidebar":{
+        "url":"http://assets.lrug.org/images/team_prime_logo_small.jpg",
+        "width":"120",
+        "height":"92"
+      },
+      "main":{
+        "url":"http://assets.lrug.org/images/team_prime_logo_medium.jpg",
+        "width":"260",
+        "height":"199"
+      }
+    }
+  },
+  {
+    "name":"thoughtbot",
+    "url":"https://thoughtbot.com/",
+    "logo": {
+      "sidebar": {
+        "url":"http://assets.lrug.org/images/thoughtbot_logo_small.png",
+        "width":"",
+        "height":"120"
+      },
+      "main": {
+        "url":"http://assets.lrug.org/images/thoughtbot_logo_medium.png",
+        "width":"260",
+        "height":"260"
+      }
+    }
+  },
+  {
+    "name":"Unboxed Consulting",
+    "url":"http://www.unboxedconsulting.com/",
+    "logo":{
+      "sidebar":{
+        "url":"http://assets.lrug.org/images/unboxed_small.png",
+        "width":"120",
+        "height":"58"
+      },
+      "main":{
+        "url":"http://assets.lrug.org/images/unboxed_medium.png",
+        "width":"260",
+        "height":"126"
+      }
+    }
+  },
+  {
+    "name":"vzaar",
+    "url":"http://www.vzaar.com/",
+    "logo":{
+      "sidebar":{
+        "url":"http://assets.lrug.org/images/vzaar_logo_small.png",
+        "width":"120",
+        "height":"48"
+      },
+      "main":{
+        "url":"http://assets.lrug.org/images/vzaar_logo_medium.png",
+        "width":"153",
+        "height":"61"
+      }
+    }
+  },
+  {
+    "name":"Workshare",
+    "url":"http://www.workshare.com/",
+    "logo":{
+      "sidebar":{
+        "url":"http://assets.lrug.org/images/workshare_logo_small.png",
+        "width":"120",
+        "height":"26"
+      },
+      "main":{
+        "url":"http://assets.lrug.org/images/workshare_logo_medium.png",
+        "width":"260",
+        "height":"55"
+      }
+    }
+  },
+  {
+    "name":"Yammer",
+    "url":"https://www.yammer.com/",
+    "logo": {
+      "sidebar": {
+        "url":"http://assets.lrug.org/images/yammer_logo_small.png",
+        "width":"120",
+        "height":"33"
+      },
+      "main": {
+        "url":"http://assets.lrug.org/images/yammer_logo_medium.png",
+        "width":"260",
+        "height":"100"
+      }
+    }
+  }
+]
+

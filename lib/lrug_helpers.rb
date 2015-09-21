@@ -80,6 +80,19 @@ module LRUGHelpers
     end
   end
 
+  def sponsor_logo(sponsor_name, size: 'sidebar')
+    sponsor = data.sponsors.detect { |sponsor| sponsor.name == sponsor_name }
+    if sponsor
+      link_text =
+        if sponsor.logo? && sponsor.logo[size]
+          %{<image src="#{sponsor.logo[size].url}" width="#{sponsor.logo[size].width}" height="#{sponsor.logo[size].height}" alt="#{sponsor.name}" title="#{sponsor.name} Logo"/>}
+        else
+          sponsor.name
+        end
+      link_to link_text, sponsor.url
+    end
+  end
+
   private
   def find_page_part(part_name, page, inherit: false)
     if page.data.parts? && page.data.parts.has_key?(part_name)

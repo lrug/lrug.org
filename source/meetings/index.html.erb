@@ -24,8 +24,8 @@ parts:
 
     :filter: .md.erb
   hosted_by:
-    :content: "[<image src=\"http://assets.lrug.org/images/skills_matter_small.png\" width=\"120\" height=\"46\" alt=\"Skills Matter\" title=\"Skills Matter Logo\"/>](http://skillsmatter.com/go/ajax-ria/ng-103)"
-    :filter: .md
+    :content: "<%= sponsor_logo 'Skills Matter' %>"
+    :filter: .erb
 status: Published
 ---
 <% content_for(:rss_path) { 'meetings/' } %>
