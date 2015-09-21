@@ -1,8 +1,8 @@
---- 
-updated_by: 
+---
+updated_by:
   email: murray.steele@gmail.com
   name: Murray Steele
-created_by: 
+created_by:
   email: murray.steele@gmail.com
   name: Murray Steele
 category: meeting
@@ -30,18 +30,18 @@ Agenda
 > interactions into roles, which can be played by objects in various
 > contexts.
 >
-> This presentation is going to give brief introduction to DCI, 
-> propose ways to implement roles' injection in Ruby and discuss 
+> This presentation is going to give brief introduction to DCI,
+> propose ways to implement roles' injection in Ruby and discuss
 > how DCI could be used to supplement Rails' MVC paradigm.
 
 ### Come get dirty with mruby
 
 [Randy Morgan](https://github.com/randym) is going to lead us in an exploration of [mruby](https://github.com/mruby/mruby):
 
-> While most of us know what mruby is, few of us have had a 
-> chance to kick the tires, poke around a bit and see what 
-> makes it tick. In this ~30 minute workshop-presentation, 
-> we will help each other to get mruby built locally, do a 
+> While most of us know what mruby is, few of us have had a
+> chance to kick the tires, poke around a bit and see what
+> makes it tick. In this ~30 minute workshop-presentation,
+> we will help each other to get mruby built locally, do a
 > classic "Chunky bacon" test, and have a go at writing our
 > own rbgems to extend the language with custom functionality.
 >

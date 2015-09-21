@@ -1,5 +1,5 @@
---- 
-created_by: 
+---
+created_by:
   email: murray.steele@gmail.com
   name: Murray Steele
 category: meeting
@@ -28,7 +28,7 @@ Agenda
 
 > Recently I have been porting an app into Rails 3 and probably you have
 > also been poking this new Rails 3 with ruby 1.9.2.
-> 
+>
 > Therefore I would like to discuss a bit more about Rails 3 itself.
 > Particularly, things under railties lib directory covering classes
 > such as Railtie, Engine, Application and will go through

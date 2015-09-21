@@ -1,5 +1,5 @@
---- 
-created_by: 
+---
+created_by:
   email: murray.steele@gmail.com
   name: Murray Steele
 category: meeting
@@ -36,9 +36,9 @@ He wrote a little about this topic a couple of months ago on [his company blog](
 > integers, using subscript accessors for containers.  Trying to do
 > these basic things in Objective C requires writing screeds of
 > boilerplate code.
-> 
+>
 > Well, it's time to have another look at Objective C.
-> 
+>
 > The latest version of the compiler includes some wonderful shortcuts
 > to make your code more concise, readable, and a lot more like Ruby. In
 > this talk I'll give you a whirlwind tour of these changes.
@@ -48,11 +48,11 @@ He wrote a little about this topic a couple of months ago on [his company blog](
 [Jairo Diaz](http://www.codescrum.com/) says:
 
 > A zero-downtime deployment configuration is important for
-> critical systems that need to handle every request (i.e. 
-> financial system) and lately for systems following 
-> continuous delivery  principles since there could be many 
-> frequent deployments .  This talks present a simple 
-> configuration for zero-downtime deployments for ruby 
+> critical systems that need to handle every request (i.e.
+> financial system) and lately for systems following
+> continuous delivery  principles since there could be many
+> frequent deployments .  This talks present a simple
+> configuration for zero-downtime deployments for ruby
 > applications.
 
 Pub

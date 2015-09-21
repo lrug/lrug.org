@@ -1,8 +1,8 @@
---- 
-updated_by: 
+---
+updated_by:
   email: murray.steele@gmail.com
   name: Murray Steele
-created_by: 
+created_by:
   email: murray.steele@gmail.com
   name: Murray Steele
 category: meeting
@@ -27,11 +27,11 @@ Agenda
 
 > I will be speaking about app deployment, good production
 > practices, CI and CD and app versioning (never replace a
-> working production app instance with a new deploy). 
-> [deliver](https://github.com/gerhard/deliver) is a single 
-> utility to rule one's deploys to gh:pages, Jekyll, Ruby, 
-> node.js etc, even legacy PHP code (we all have it). The 
-> talk will also touch on S3-backed site deploys & Route53 
+> working production app instance with a new deploy).
+> [deliver](https://github.com/gerhard/deliver) is a single
+> utility to rule one's deploys to gh:pages, Jekyll, Ruby,
+> node.js etc, even legacy PHP code (we all have it). The
+> talk will also touch on S3-backed site deploys & Route53
 > IP failover to that S3 site.
 
 ### Passing on our skills to the next generation

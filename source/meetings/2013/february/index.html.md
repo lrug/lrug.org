@@ -1,8 +1,8 @@
---- 
-updated_by: 
+---
+updated_by:
   email: murray.steele@gmail.com
   name: Murray Steele
-created_by: 
+created_by:
   email: murray.steele@gmail.com
   name: Murray Steele
 category: meeting

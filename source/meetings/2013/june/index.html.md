@@ -1,8 +1,8 @@
---- 
-updated_by: 
+---
+updated_by:
   email: murray.steele@gmail.com
   name: Murray Steele
-created_by: 
+created_by:
   email: murray.steele@gmail.com
   name: Murray Steele
 category: meeting
@@ -28,29 +28,29 @@ Agenda
 > In this talk I present a simple ActiveRecord-based alternative
 > to the many popular state machine gems.
 >
-> Suppose you're dealing with a school application system. 
-> Applications can be submitted, rejected, approved. Then 
+> Suppose you're dealing with a school application system.
+> Applications can be submitted, rejected, approved. Then
 > you would have
 >
 > ``class Submission < StateTransition end``
 >
-> and so on. StateTransition is an STI subclass of 
+> and so on. StateTransition is an STI subclass of
 > ActiveRecord::Base.
-> 
-> Inside each 'concrete' transition subclass, AR 
-> validations determine whether the transition can be 
+>
+> Inside each 'concrete' transition subclass, AR
+> validations determine whether the transition can be
 > created, given current system state. Callbacks make
-> changes to other models that result from the 
+> changes to other models that result from the
 > transitions, as well as trigger other effects like emails.
 >
 > This shifts emphasis from the models to the transitions
-> themselves. Model classes don't get cluttered with 
-> logic related to multiple transitions - that logic 
-> lives in the transition classes. It works nicely 
-> with REST. You are literally creating an Approval, 
-> rather than "approving". Logging of transitions is 
+> themselves. Model classes don't get cluttered with
+> logic related to multiple transitions - that logic
+> lives in the transition classes. It works nicely
+> with REST. You are literally creating an Approval,
+> rather than "approving". Logging of transitions is
 > front and center. Nobody has to learn a new lib and
-> you're never beholden to yesteryear's state machine 
+> you're never beholden to yesteryear's state machine
 > gem-of-the-month.
 
 JB originally proposed this talk for [Ruby Manor 4](http://rubymanor.org/4/) and you can read more about [his proposal on vestibule](http://vestibule.rubymanor.org/proposals/10)
@@ -60,8 +60,8 @@ JB originally proposed this talk for [Ruby Manor 4](http://rubymanor.org/4/) and
 [Jairo Diaz](http://www.codescrum.com) says:
 
 > This talk describes an experience of reusing the public code
-> available from the [GOV.UK project](https://www.gov.uk). It 
-> shows how we can implement custom customer service flows 
+> available from the [GOV.UK project](https://www.gov.uk). It
+> shows how we can implement custom customer service flows
 > based on the [SmartAnswers project](https://github.com/alphagov/smart-answers).
 
 Pub

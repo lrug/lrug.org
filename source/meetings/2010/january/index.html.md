@@ -1,5 +1,5 @@
---- 
-created_by: 
+---
+created_by:
   email: murray.steele@gmail.com
   name: Murray Steele
 category: meeting
@@ -33,7 +33,7 @@ Agenda
 > identify cases where using a symbol will be a good idea (saving memory
 > and speed) and cases where it would be a bad idea (eating up all your
 > memory).
-> 
+>
 > The talk would be pretty short, I might say something which is
 > completely wrong so will rely on the crowd to correct me. The goal
 > being at the end for everyone in the room to understand and love the symbol.

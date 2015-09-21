@@ -1,5 +1,5 @@
---- 
-created_by: 
+---
+created_by:
   email: murray.steele@gmail.com
   name: Murray Steele
 category: meeting
@@ -26,8 +26,8 @@ Agenda
 > able to write your own gems is not only incredibly useful, it provides
 > an avenue for code reuse and open source sharing. I'll be talking about
 > the ecosystem around gems and the fundamentals for writing your own gem
-> from the ground up, plus some of the tools available to assist with 
-> this, along with ideal approaches and best practices for gem 
+> from the ground up, plus some of the tools available to assist with
+> this, along with ideal approaches and best practices for gem
 > development.
 
 ### nil points: a talk about nothing, NULL, undefined, Maybe, and other ghosts in Ruby and beyond
@@ -35,18 +35,18 @@ Agenda
 [David Nolan](http://kapoq.com/) has an idea about nil:
 
 > nil in Ruby is neat, simple, and convenient. But it's also problematic.
-> It infiltrates our code, silently, until boom! 'undefined method foo 
-> for nil:NilClass' (or - true story, there's no time to explain - 
+> It infiltrates our code, silently, until boom! 'undefined method foo
+> for nil:NilClass' (or - true story, there's no time to explain -
 > suddenly thousands of Mark Zuckerbergs).
 >
-> In this talk, I take a deep dive into nil, NULL, undefined, Maybe and 
+> In this talk, I take a deep dive into nil, NULL, undefined, Maybe and
 > other ghosts in Ruby and beyond. I want uncover important concepts that
 > I think are obscured by by nil's convenience. And I think nil can be so
 > corrosive it's worth asking why we need it at all. Can we eliminate it
 > completely? Can it be improved?
 >
 > Sure, there are decent Ruby patterns and practices for living with nil,
-> and I'll take a look at them. But I'll also try to illuminate nil by 
+> and I'll take a look at them. But I'll also try to illuminate nil by
 > way of a vintage Soviet computer, Jainism, a billion dollars, a
 > Peruvian tribe, and a Victorian wooden adding machine. And, since this
 > is Ruby, there will some reckless live monkey-patching.

@@ -1,8 +1,8 @@
---- 
-updated_by: 
+---
+updated_by:
   email: murray.steele@gmail.com
   name: Murray Steele
-created_by: 
+created_by:
   email: murray.steele@gmail.com
   name: Murray Steele
 category: meeting
@@ -26,13 +26,13 @@ Agenda
 [Stephen Best](https://twitter.com/thebestie) says:
 
 > Most of us have heard the vague, hand waving spiel about why
-> DI is important for writing flexible, reusable code, a 
-> little harder to come by are examples of how one actually 
+> DI is important for writing flexible, reusable code, a
+> little harder to come by are examples of how one actually
 > goes about doing it in a (cost) effective manner.
-> 
-> Rather than a dry introduction to DI, this talk will be 
-> packed full of code examples demonstrating practical 
-> techniques you can start using straight away, no gems, 
+>
+> Rather than a dry introduction to DI, this talk will be
+> packed full of code examples demonstrating practical
+> techniques you can start using straight away, no gems,
 > meta-programming or magic required. We'll also explore how
 > you might persuade your Rails app to benefit from DI.
 
@@ -40,17 +40,17 @@ Agenda
 
 [Pete Hamilton](https://twitter.com/peterejhamilton) says:
 
-> When you're working in an architecture with multiple 
-> services, there are a lot of available options for how to 
+> When you're working in an architecture with multiple
+> services, there are a lot of available options for how to
 > communicate between them. Which do you pick?
-> 
-> I'll be talking about why [RabbitMQ](http://www.rabbitmq.com/) can be a great choice, 
+>
+> I'll be talking about why [RabbitMQ](http://www.rabbitmq.com/) can be a great choice,
 > how and why we're using it here at [GoCardless](https://gocardless.com/) and covering
-> some of the ways we've simplified using RabbitMQ's 
+> some of the ways we've simplified using RabbitMQ's
 > [Topic Exchange](http://www.rabbitmq.com/tutorials/amqp-concepts.html#exchange-topic) in a ruby environment with 'Hutch'.
 >
-> I'll then talk about some of the issues we encountered 
-> around scaling and setting up multiple rabbit nodes as a 
+> I'll then talk about some of the issues we encountered
+> around scaling and setting up multiple rabbit nodes as a
 > cluster, highlighting some of the potential failure points
 > and edge cases this brings with it and a tools we built to
 > make sure we had them covered.

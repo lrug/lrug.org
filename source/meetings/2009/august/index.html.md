@@ -1,5 +1,5 @@
---- 
-created_by: 
+---
+created_by:
   email: murray.steele@gmail.com
   name: Murray Steele
 category: meeting
@@ -26,12 +26,12 @@ Agenda
 
 [Taryn East](http://www.taryneast.com/) wants to talk to us about profiling.
 
-> I've used the [ruby-prof](http://ruby-prof.rubyforge.org/) and 
+> I've used the [ruby-prof](http://ruby-prof.rubyforge.org/) and
 > [kcachegrind](http://kcachegrind.sourceforge.net/html/Home.html) tools a few
 > times to profile some of the rails projects I've worked on. They're powerful
-> tools that can let you dig down into the bowels of your code and find the 
-> real trouble-makers, but they require a bit of familiarity as they really 
-> are a bit of information-overload. So I thought I could give a talk on 
+> tools that can let you dig down into the bowels of your code and find the
+> real trouble-makers, but they require a bit of familiarity as they really
+> are a bit of information-overload. So I thought I could give a talk on
 > how to set them up - where/how to use them and what they can do for you.
 
 A video of Taryn's talk is available on the [Skills Matter site](http://skillsmatter.com/podcast/ajax-ria/making-your-rails-app-kick-ass-with-ruby-prof-and-kcachegrind).
@@ -40,11 +40,11 @@ A video of Taryn's talk is available on the [Skills Matter site](http://skillsma
 
 [Alex Graul](http://www.sho.ch/) is going to talk about AMQP messaging with ruby.
 
-> [AMQP](http://amqp.org) is a powerful, flexible and completely open messaging standard. Capable of 
-> scaling to millions of messages a second with incredibly low latency, AMQP is an 
+> [AMQP](http://amqp.org) is a powerful, flexible and completely open messaging standard. Capable of
+> scaling to millions of messages a second with incredibly low latency, AMQP is an
 > fantastic backbone on which to build service architectures. In this talk I'll give
 > you an overview of the AMQP standard, an introduction to synchronous and asynchronous
-> libraries for working with AMQP in Ruby and some examples uses. 
+> libraries for working with AMQP in Ruby and some examples uses.
 
 If he's finished writing it, [Gerhard Lazu](http://www.gerhardlazu.com/) will do a demo of a app for buffering [ICY streams](http://en.wikipedia.org/wiki/SHOUTcast) using AMQP.
 

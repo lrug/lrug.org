@@ -1,5 +1,5 @@
---- 
-created_by: 
+---
+created_by:
   email: murray.steele@gmail.com
   name: Murray Steele
 category: meeting
@@ -29,9 +29,9 @@ A video of Patrick's talk is available on the [Skills Matter site](http://skills
 
 [Abdel A. Saleh](http://twitter.com/abdels) recently ran a code review of a DSL he was writing at work.  He's going to let us know what he learned from that experience:
 
-> DSLs are very powerful tools but are they always necessary? 
-> This is a tale in code about my work on a small 'Request Throttling' library where I thought I 
-> needed a DSL but it turned out I was sorely mistaken. I'll highlight some common DSLing 
+> DSLs are very powerful tools but are they always necessary?
+> This is a tale in code about my work on a small 'Request Throttling' library where I thought I
+> needed a DSL but it turned out I was sorely mistaken. I'll highlight some common DSLing
 > techniques and the decisions that steered me away from them.
 
 A video of Abdel's talk is available on the [Skills Matter site](http://skillsmatter.com/podcast/ajax-ria/dsl-or-a-code-smell).
@@ -40,7 +40,7 @@ A video of Abdel's talk is available on the [Skills Matter site](http://skillsma
 
 [Tom Lea](http://tomlea.co.uk/) has a distributed testing framework called [Drunit](http://github.com/cwninja/drunit/) that he's going to tell us about.  Drunit (from the [Readme](http://github.com/cwninja/drunit/blob/master/README.markdown)) is:
 
-> A library for running tests across multiple applications from 
+> A library for running tests across multiple applications from
 > a single test case.
 
 and, crucially:

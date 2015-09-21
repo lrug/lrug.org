@@ -1,5 +1,5 @@
---- 
-created_by: 
+---
+created_by:
   email: murray.steele@gmail.com
   name: Murray Steele
 category: meeting
@@ -30,16 +30,16 @@ Agenda
 > heavily inspired by Ruby. A sort of distilled Ruby-like language which
 > is far too simplistic to be useful and probably overlooks tonnes of
 > important things.
-> 
+>
 > But anyway! The point is not really that the language is utterly
 > pointless. The point is that it's an interpreter written in a very
 > high-level language, which I think it relatively easy to understand.
-> 
+>
 > So I'm offering to do a talk which would take the listener through the
 > workings of this interpreter. The parsing is done with Treetop, although
 > I wouldn't propose really talking about the parsing at all as I think a
 > lot of people are quite familiar with Treetop.
-> 
+>
 > I might as well finish with some buzzwords. If you ever wondered what
 > "trampoline function" or "continuation passing style" means then this is
 > your chance :)
@@ -53,9 +53,9 @@ A video of Jonathan's talk, filmed by Skills Matter, [is available on the Skills
 [Phil Cowans](http://twitter.com/philcowans) has recently been working on a rails plugin called [ActionEmbedding](http://github.com/philcowans/action_embedding), and he'd like to show it to us:
 
 > ActionEmbedding is a simple Rails plugin I've been using to look at
-> ways of building up pages from independent user interface elements 
-> called pagelets. The idea is to implement a number of different patterns, 
-> including Hierarchical MVC, and make it as easy as possible to switch 
+> ways of building up pages from independent user interface elements
+> called pagelets. The idea is to implement a number of different patterns,
+> including Hierarchical MVC, and make it as easy as possible to switch
 > between them. I'll try to explain why I think this is a good idea, show
 > you what the plugin can do at the moment and talk about how I see it evolving.
 

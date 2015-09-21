@@ -1,13 +1,13 @@
---- 
-updated_by: 
+---
+updated_by:
   email: murray.steele@gmail.com
   name: Murray Steele
-created_by: 
+created_by:
   email: murray.steele@gmail.com
   name: Murray Steele
 category: meeting
 title: March 2015 Meeting
-updated_at: 
+updated_at:
 published_at: 2015-02-25 10:10:10 Z
 created_at: 2015-02-22 18:32:10 Z
 sponsors:
@@ -25,23 +25,23 @@ Agenda
 
 [Paul Mucur](http://mudge.name/) says:
 
-> A look at how some "odd syntax" [introduced in Rails 1.1](https://github.com/rails/rails/commit/69bf71f5e9b537f88acc0d4492a057336e7305d1) and 
+> A look at how some "odd syntax" [introduced in Rails 1.1](https://github.com/rails/rails/commit/69bf71f5e9b537f88acc0d4492a057336e7305d1) and
 > then [added to Ruby itself](https://github.com/ruby/ruby/commit/ac4d6ddfa3219c212d2865ed600a0ab568d5f0b5) might not solely be for the sake of
-> convenience but hint at a more powerful idea seen in other 
+> convenience but hint at a more powerful idea seen in other
 > programming languages.
 
 ### pkgr - Packaging Ruby applications with no sweat
 
 [Łukasz Korecki](http://lukasz.korecki.me) says:
 
-> In the life of every<sup>[*](#pkgr-ps)</sup> project there is 
-> this moment where standard deployment methods just don’t cut 
+> In the life of every<sup>[*](#pkgr-ps)</sup> project there is
+> this moment where standard deployment methods just don’t cut
 > it. You have many servers, many applications, many developers.
-> It can become a mess very, very quickly. 
+> It can become a mess very, very quickly.
 >
 > Have you ever dreamed of hosting your own apt repository? When
 > was the last time you were annoyed about slow deployment times
-> because the asset pipeline needs to run every single server 
+> because the asset pipeline needs to run every single server
 > your app runs on? Oh and lets not mention installing ruby
 > version managers on servers, ok? (I will though).
 >

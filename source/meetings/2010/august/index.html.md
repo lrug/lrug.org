@@ -1,5 +1,5 @@
---- 
-created_by: 
+---
+created_by:
   email: murray.steele@gmail.com
   name: Murray Steele
 category: meeting
@@ -28,22 +28,22 @@ Agenda
 
 > Most of us want better software development processes, and spend a lot of
 > time reading and talking about methods for making better software. However,
-> when you've already been working on a project for a long time, entropy can 
-> get the better of you, making it difficult to adapt your working practices. 
-> We've been working on a project like this that started 18 months ago, and 
-> over the last few months have been steadily improving how we go about things, 
-> getting better at BDD and Scrum, and starting to do a bit of Domain Driven 
-> Design. We're going to talk about how we got on, focusing in equal parts on 
-> refactoring legacy code bases, improving test coverage, and improving 
-> processes, as well as revealing the incredible powers of suggestion we 
-> employed to convince stakeholders, management and sundry doubters that this 
+> when you've already been working on a project for a long time, entropy can
+> get the better of you, making it difficult to adapt your working practices.
+> We've been working on a project like this that started 18 months ago, and
+> over the last few months have been steadily improving how we go about things,
+> getting better at BDD and Scrum, and starting to do a bit of Domain Driven
+> Design. We're going to talk about how we got on, focusing in equal parts on
+> refactoring legacy code bases, improving test coverage, and improving
+> processes, as well as revealing the incredible powers of suggestion we
+> employed to convince stakeholders, management and sundry doubters that this
 > was a good idea.
 
 A video of Chris and Tim's talk, filmed by Skills Matter, [is available on the Skills Matter site](http://skillsmatter.com/podcast/ajax-ria/making-old-projects-better).
 
 ### [ittybittyboom.com](http://ittybittyboom.com)
 
-[Tom Crinson](http://mrjaba.posterous.com/) will talk about [Cramp](http://m.onkey.org/2010/1/7/introducing-cramp) and some of the other technologies he's used in his HTML5 Bomberman clone.  Tom says: 
+[Tom Crinson](http://mrjaba.posterous.com/) will talk about [Cramp](http://m.onkey.org/2010/1/7/introducing-cramp) and some of the other technologies he's used in his HTML5 Bomberman clone.  Tom says:
 
 > You'll find out how and why I use [cramp](http://github.com/lifo/cramp) to cope with hundreds of simultaneous
 > players on [ittybittyboom.com](http://ittybittyboom.com).  Cramp is an asynchronous

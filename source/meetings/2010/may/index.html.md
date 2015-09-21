@@ -1,5 +1,5 @@
---- 
-created_by: 
+---
+created_by:
   email: murray.steele@gmail.com
   name: Murray Steele
 category: meeting
@@ -32,15 +32,15 @@ A video of Dan's talk is available on the [Skills Matter site](http://skillsmatt
 
 [Makoto Inoue](http://twitter.com/makoto_inoue) gave a short talk at the recent [nosqleu conference](http://nosqleu.com/) about Tokyo Cabinet and he offered to give a slightly retooled (and more ruby focussed) version of that talk for us.  The blurb for his original talk is as follows:
 
-> [Tokyo Cabinet](http://1978th.net/tokyocabinet/) is one of the first "Key Value" 
-> stores. It was released in 2007, but surprisingly small number of people knows 
-> what it is really capable of. Makoto, the maintainer of 
+> [Tokyo Cabinet](http://1978th.net/tokyocabinet/) is one of the first "Key Value"
+> stores. It was released in 2007, but surprisingly small number of people knows
+> what it is really capable of. Makoto, the maintainer of
 > [Tokyo Cabinet Wiki](http://tokyocabinetwiki.pbworks.com) will unveil
 > the core philosophy and exciting features behind these products.
 
 A video of Makoto's talk is available on the [Skills Matter site](http://skillsmatter.com/podcast/ajax-ria/makoto-inoue-tokyo-cabinet-tokyo-tyrant-kyoto-cabinet-mikio-ware).
 
-### UNIX: Rediscovering the wheel 
+### UNIX: Rediscovering the wheel
 
 [John Leach](http://johnleach.co.uk/) kindly offered to do a version of this talk (previously given at [Conferencia Rails 2009](http://www.conferenciarails.org/) and [Scottish Ruby Conference 2010](http://scottishrubyconference.com/)), but unfortunately he had to pull out at the last minute due to a double booking.  We'll try to reschedule this talk for a future meeting.
 

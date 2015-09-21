@@ -1,5 +1,5 @@
---- 
-created_by: 
+---
+created_by:
   email: murray.steele@gmail.com
   name: Murray Steele
 category: meeting
@@ -23,13 +23,13 @@ Agenda
 [Makoto Inoue](https://twitter.com/makoto_inoue) is going to talk to us about [dRuby](http://www.ruby-doc.org/stdlib-1.9.3/libdoc/drb/rdoc/DRb.html):
 
 > dRuby stands for "Distributed Ruby" and it's one of less known Ruby
-> standard libraries.  It is one of the first use of Metaprogramming 
-> long before Rails. dRuby creates proxy objects which lets you to 
+> standard libraries.  It is one of the first use of Metaprogramming
+> long before Rails. dRuby creates proxy objects which lets you to
 > "automagically"(In Matz's word) delegate method calls to remote objects.
-> While I was translating [The dRuby Book: Distributed and Parallel Computing with Ruby](http://pragprog.com/book/sidruby/the-druby-book) 
-> from Japanese to English, I had a chance to work with [Masatoshi Seki](https://github.com/seki), 
-> one of the Ruby core committers and has been using Ruby since 
-> version 1.2. I learnt a lot of interesting Ruby technique from him 
+> While I was translating [The dRuby Book: Distributed and Parallel Computing with Ruby](http://pragprog.com/book/sidruby/the-druby-book)
+> from Japanese to English, I had a chance to work with [Masatoshi Seki](https://github.com/seki),
+> one of the Ruby core committers and has been using Ruby since
+> version 1.2. I learnt a lot of interesting Ruby technique from him
 > and would like to share some of them with you.
 
 ### Converting a Rails project from MRI to JRuby
