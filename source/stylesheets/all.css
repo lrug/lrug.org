@@ -168,7 +168,8 @@ nav.meeting-month-index ol {
   margin-right: auto;
 }
 .meeting-sponsor-list li:nth-child(3n+2):last-child {
-  width: 270px;
+  margin-left: 85px;
+  margin-right: 85px;
 }
 .meeting-sponsor-list li a {
   display: inline-block;
