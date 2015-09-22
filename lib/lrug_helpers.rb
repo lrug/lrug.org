@@ -58,11 +58,13 @@ module LRUGHelpers
     part = find_page_part(part_name, page, inherit: inherit)
     if part
       if part['filter'].present?
-        Tilt.new(part['filter']) do
-          Tilt.new('.erb') do
-            part['content']
+        renderers = part['filter'].split('.').reverse.reject { |renderer| renderer.blank? }
+        renderers.prepend('erb') unless renderers.first == 'erb'
+        renderers.inject(part['content']) do |body, renderer|
+          Tilt.new(renderer, 1, options_for_ext(renderer)) do
+            body
           end.render(self, page: page)
-        end.render(self, page: page)
+        end
       else
         part['content']
       end
