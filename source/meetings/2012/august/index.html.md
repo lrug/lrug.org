@@ -1,5 +1,5 @@
---- 
-created_by: 
+---
+created_by:
   email: murray.steele@gmail.com
   name: Murray Steele
 category: meeting
@@ -7,12 +7,9 @@ title: August 2012 Meeting
 updated_at: 2013-02-12 23:09:36 Z
 published_at: 2012-07-19 00:00:00 Z
 created_at: 2012-07-19 08:52:08 Z
-parts: 
-  sponsors: 
-    :content: |
-      [<image src="http://assets.lrug.org/images/yammer_logo_small.png" width="120" height="33" alt="Yammer" title="Yammer Logo"/>](https://www.yammer.com/)
-
-    :filter: .md
+sponsors:
+  - :name: Yammer
+parts: {}
 status: Published
 ---
 
@@ -29,8 +26,8 @@ Agenda
 > able to write your own gems is not only incredibly useful, it provides
 > an avenue for code reuse and open source sharing. I'll be talking about
 > the ecosystem around gems and the fundamentals for writing your own gem
-> from the ground up, plus some of the tools available to assist with 
-> this, along with ideal approaches and best practices for gem 
+> from the ground up, plus some of the tools available to assist with
+> this, along with ideal approaches and best practices for gem
 > development.
 
 ### nil points: a talk about nothing, NULL, undefined, Maybe, and other ghosts in Ruby and beyond
@@ -38,18 +35,18 @@ Agenda
 [David Nolan](http://kapoq.com/) has an idea about nil:
 
 > nil in Ruby is neat, simple, and convenient. But it's also problematic.
-> It infiltrates our code, silently, until boom! 'undefined method foo 
-> for nil:NilClass' (or - true story, there's no time to explain - 
+> It infiltrates our code, silently, until boom! 'undefined method foo
+> for nil:NilClass' (or - true story, there's no time to explain -
 > suddenly thousands of Mark Zuckerbergs).
 >
-> In this talk, I take a deep dive into nil, NULL, undefined, Maybe and 
+> In this talk, I take a deep dive into nil, NULL, undefined, Maybe and
 > other ghosts in Ruby and beyond. I want uncover important concepts that
 > I think are obscured by by nil's convenience. And I think nil can be so
 > corrosive it's worth asking why we need it at all. Can we eliminate it
 > completely? Can it be improved?
 >
 > Sure, there are decent Ruby patterns and practices for living with nil,
-> and I'll take a look at them. But I'll also try to illuminate nil by 
+> and I'll take a look at them. But I'll also try to illuminate nil by
 > way of a vintage Soviet computer, Jainism, a billion dollars, a
 > Peruvian tribe, and a Victorian wooden adding machine. And, since this
 > is Ruby, there will some reckless live monkey-patching.
@@ -59,7 +56,7 @@ Pub
 
 We have to be out of the venue by 8pm, but we don't stop the meeting then.  We make the short walk to [The Slaughtered Lamb](http://www.theslaughteredlambpub.com/) and continue in more informal surroundings there.  It's a large pub so if you can't make the first part of the meeting there'll be more than enough room for you at this second part.
 
-[<image src="http://assets.lrug.org/images/yammer_logo_medium.png" width="260" height="100" alt="Yammer" title="Yammer Logo"/>](https://www.yammer.com/)
+{::sponsor name="Yammer" size="main" /}
 
 Also, the nice folks at [Yammer](https://www.yammer.com/) are sponsoring some drinks behind the bar, so it's an even better idea to come along than usual.
 

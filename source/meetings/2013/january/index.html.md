@@ -1,5 +1,5 @@
---- 
-created_by: 
+---
+created_by:
   email: murray.steele@gmail.com
   name: Murray Steele
 category: meeting
@@ -7,20 +7,29 @@ title: January 2013 Meeting
 updated_at: 2013-02-12 23:09:37 Z
 published_at: 2012-12-20 00:00:00 Z
 created_at: 2012-12-06 10:16:16 Z
-parts: 
-  sponsors: 
+sponsors:
+  - :name: Go Free Range
+  - :name: AdRoc Group
+  - :name: Unboxed Consulting
+  - :name: vzaar
+  - :name: Railscasts
+  - :name: O'Reilly
+  - :name: Avdi Grimm
+  - :name: Peepcode
+parts:
+  sponsors:
     :content: |
-      <h6>Food & Drink</h6>
-      [<image src="http://assets.lrug.org/images/go_free_range_logo_small.png" width="120" height="95" alt="Go Free Range" title="Go Free Range Logo"/>](http://gofreerange.com/)
-      [<image src="http://assets.lrug.org/images/adroc_logo_small.jpeg" width="120" height="30" alt="AdRoc Group" title="AdRoc Group Logo"/>](http://www.adrocgroup.co.uk/)
-      [<image src="http://assets.lrug.org/images/unboxed_small.png" width="120" height="58" alt="Unboxed Consulting" title="Unboxed Consulting Logo"/>](http://www.unboxedconsulting.com/)
-      [<image src="http://assets.lrug.org/images/vzaar_logo_small.png" width="120" height="48" alt="vzaar" title="vzaar logo"/>](http://www.vzaar.com/)
-      <h6>Prizes</h6>
-      [<image src="http://assets.lrug.org/images/railscasts_logo_small.png" width="120" height="10" alt="Railscasts" title="Railscasts Logo"/>](https://www.railscasts.com/)
-      [<image src="http://assets.lrug.org/images/oreilly_logo_small.gif" width="120" height="35" alt="O'Reilly" title="O'Reilly Logo"/>](https://www.railscasts.com/)
-      [Avdi Grimm](http://avdi.org)
-      [<image src="http://assets.lrug.org/images/peepcode_logo_small.png" width="120" height="120" alt="Peepcode" title="Peepcode Logo"/>](http://www.peepcode.com/)
-      <hr/>
+      ##### Food & Drink
+      {::sponsor name="Go Free Range" /}
+      {::sponsor name="AdRoc Group" /}
+      {::sponsor name="Unboxed Consulting" /}
+      {::sponsor name="vzaar" /}
+
+      ##### Prizes
+      {::sponsor name="Railscasts" /}
+      {::sponsor name="O'Reilly" /}
+      {::sponsor name="Avdi Grimm" /}
+      {::sponsor name="Peepcode" /}
 
     :filter: .md
 status: Published
@@ -49,19 +58,19 @@ Teams should have no more than 4 members.  Utilising internet devices to obtain 
 
 There will be prizes for the winning teams:
 
-* annual subscriptions to [Railscasts Pro](http://railscasts.com/pro) provided by [<image src="http://assets.lrug.org/images/railscasts_logo_medium.png" width="260" height="32" alt="Railscasts" title="Railscasts Logo"/>](https://www.railscasts.com/)
-* Books and ebook download vouchers provided by [<image src="http://assets.lrug.org/images/oreilly_logo_medium.gif" width="260" height="74" alt="O'Reilly" title="O'Reilly Logo"/>](http://oreilly.com/)
-* $25 vouchers for [Avdi Grimm's store](https://shiprise.dpdcart.com/) provided by [Avdi Grimm](http://avdi.org/)
-* Download vouchers for 3 [peepcode screencasts](https://peepcode.com/screencasts/) provided by [<image src="http://assets.lrug.org/images/peepcode_logo_medium.png" width="260" height="260" alt="Peepcode" title="Peepcode Logo"/>](http://www.peepcode.com/)
+* annual subscriptions to [Railscasts Pro](http://railscasts.com/pro) provided by {::sponsor name="Railscasts" size="main" /}
+* Books and ebook download vouchers provided by {::sponsor name="O'Reilly" size="main" /}
+* $25 vouchers for [Avdi Grimm's store](https://shiprise.dpdcart.com/) provided by {::sponsor name="Avdi Grimm" size="main" /}
+* Download vouchers for 3 [peepcode screencasts](https://peepcode.com/screencasts/) provided by {::sponsor name="Peepcode" size="main" /}
 
 #### Drinks
 
 During the pub quiz there will be a range of drinks available (soft drinks, as well as alcohol).  These drinks are available thanks to sponsorship provided by:
 
-* Go Free Range [<image src="http://assets.lrug.org/images/go_free_range_logo_medium.png" width="260" height="205" alt="Go Free Range" title="Go Free Range Logo"/>](http://gofreerange.com/)
-* AdRoc Group [<image src="http://assets.lrug.org/images/adroc_logo_medium.jpeg" width="141" height="33" alt="AdRoc" title="AdRoc Group Logo"/>](http://www.adrocgroup.co.uk/)
-* Unboxed Consulting [<image src="http://assets.lrug.org/images/unboxed_medium.png" width="260" height="126" alt="Unboxed Consulting" title="Unboxed Consulting Logo"/>](http://www.unboxedconsulting.com/)
-* vzaar [<image src="http://assets.lrug.org/images/vzaar_logo_medium.png" width="153" height="61" alt="vzaar" title="vzaar Logo"/>](http://vzaar.com/)
+* Go Free Range {::sponsor name="Go Free Range" size="main" /}
+* AdRoc Group {::sponsor name="AdRoc Group" size="main" /}
+* Unboxed Consulting {::sponsor name="Unboxed Consulting" size="main" /}
+* vzaar {::sponsor name="vzaar" size="main" /}
 
 Pub
 ---

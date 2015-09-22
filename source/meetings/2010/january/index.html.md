@@ -1,5 +1,5 @@
---- 
-created_by: 
+---
+created_by:
   email: murray.steele@gmail.com
   name: Murray Steele
 category: meeting
@@ -7,15 +7,13 @@ title: January 2010 Meeting
 updated_at: 2013-02-12 23:09:28 Z
 published_at: 2009-12-17 04:51:30 Z
 created_at: 2009-12-14 10:49:05 Z
-parts: 
-  sponsors: 
-    :content: |-
-      [<image src="http://assets.lrug.org/images/new_bamboo_small.png" width="120" height="24" alt="New Bamboo" title="New Bamboo Logo"/>](http://newbamboo.co.uk/)
-      [<image src="http://assets.lrug.org/images/eden_development_small.png" width="120" height="45" alt="Eden Development" title="Eden Development Logo"/>](http://www.edendevelopment.co.uk/)
-      [<image src="http://assets.lrug.org/images/taskforce_small.png" width="120" height="20" alt="Taskforce" title="Taskforce Logo"/>](http://www.taskforce.co.uk/about/)
-      [<image src="http://assets.lrug.org/images/unboxed_small.png" width="120" height="58" alt="Unboxed Consulting" title="Unboxed Consulting Logo"/>](http://www.unboxedconsulting.com/)
-      [<image src="http://assets.lrug.org/images/brightbox_small.png" width="120" height="99" alt="Brightbox" title="Brightbox Logo"/>](http://www.brightbox.co.uk/)
-    :filter: .md
+sponsors:
+  - :name: New Bamboo
+  - :name: Eden Development
+  - :name: Taskforce
+  - :name: Unboxed Consulting
+  - :name: Brightbox
+parts: {}
 status: Published
 ---
 
@@ -35,7 +33,7 @@ Agenda
 > identify cases where using a symbol will be a good idea (saving memory
 > and speed) and cases where it would be a bad idea (eating up all your
 > memory).
-> 
+>
 > The talk would be pretty short, I might say something which is
 > completely wrong so will rely on the crowd to correct me. The goal
 > being at the end for everyone in the room to understand and love the symbol.

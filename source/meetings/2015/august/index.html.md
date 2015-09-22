@@ -10,13 +10,17 @@ title: August 2015 Meeting
 updated_at:
 published_at: 2015-07-25 18:42:42 Z
 created_at: 2015-07-25 18:22:03 Z
+sponsors:
+  - :name: container.camp
+  - :name: thoughtbot
 parts:
   sponsors:
     :content: |
-      __Ticket giveaway__
-      [<image src="http://assets.lrug.org/images/container_camp_logo_small.png" width="120" height="140" alt="container.camp" title="container.camp logo"/>](https://container.camp)
-      __Drinks__
-      [<image src="http://assets.lrug.org/images/thoughtbot_logo_small.png" width="120" height="120" alt="thoughtbot" title="thoughtbot logo"/>](https://thoughtbot.com/)
+      ##### Ticket giveaway
+      {::sponsor name="container.camp" /}
+
+      ##### Drinks
+      {::sponsor name="thoughtbot" /}
     :filter: .md
 status: Published
 ---
@@ -67,7 +71,7 @@ Agenda
 
 ### Ticket Giveaway
 
-[<image src="http://assets.lrug.org/images/container_camp_logo_medium.png" width="260" height="302" alt="container.camp" title="container.camp logo"/>](https://container.camp)
+{::sponsor name="container.camp" size="main" /}
 
 The organisers of [container.camp](http://container.camp), a conference about software virtualization to be held in London on 11th September, were kind enough to get in touch and provide a free ticket to their conference and a discount code for everyone.  The ticket was raffled off on our [mailing list](/mailing-list) with the winners contacted on Friday 7th August.  Thanks [container.camp](http://container.camp) organisers!
 
@@ -80,7 +84,7 @@ The talks will end at 8pm and we'll head to a local pub.  As it's a new venue we
 
 If you can't make the talks then we'll be there from about 8pm; feel free to join us.
 
-[<image src="http://assets.lrug.org/images/thoughtbot_logo_medium.png" width="260" height="260" alt="thoughtbot" title="thoughtbot logo"/>](https://thoughtbot.camp)
+{::sponsor name="thoughtbot" size="main" /}
 
 The nice folk at [thoughtbot](http://thoughtbot.com), have agreed to put some money behind the bar.  [Chad Pytel](https://twitter.com/cpytel) will be in attendance so do seek him out to thank him for buying your drink (and to find out what thoughtbot are up to in London).  Thanks [thoughtbot](http://thoughtbot.com) for supporting us!
 

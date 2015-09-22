@@ -1,8 +1,8 @@
---- 
-updated_by: 
+---
+updated_by:
   email: murray.steele@gmail.com
   name: Murray Steele
-created_by: 
+created_by:
   email: murray.steele@gmail.com
   name: Murray Steele
 category: meeting
@@ -10,12 +10,9 @@ title: February 2014 Meeting
 updated_at: 2014-01-27 09:43:47 Z
 published_at: 2014-01-27 00:00:00 Z
 created_at: 2014-01-13 09:40:00 Z
-parts: 
-  sponsors: 
-    :content: |
-      [<image src="http://assets.lrug.org/images/rethink_logo_small.jpg" width="120" height="31" alt="ReThink Recruitment" title="ReThink Recruitment Logo"/>](http://www.rethink-recruitment.com/)
-
-    :filter: .md
+sponsors:
+  - :name: ReThink Recruitment
+parts: {}
 status: Published
 ---
 
@@ -45,7 +42,7 @@ Pub
 
 Once we finish up with the talks we head over to [The Slaughtered Lamb](http://www.theslaughteredlambpub.com/) to continue the evening in more informal, if admittedly slightly noisier surroundings.  If you can't make it for the talks feel free to pop along to the pub for about 8pm, which is when we usually finish up.
 
-[<image src="http://assets.lrug.org/images/rethink_logo_medium.jpg" width="260" height="67" alt="ReThink Recruitment" title="ReThink Recruitment Logo"/>](http://www.rethink-recruitment.com/)
+{::sponsor name="ReThink Recruitment" size="main" /}
 
 The nice people at [ReThink Recruitment](http://www.rethink-recruitment.com/) are buying some drinks at the pub after the talks.  Thanks!
 

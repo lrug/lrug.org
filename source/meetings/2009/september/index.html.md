@@ -1,5 +1,5 @@
---- 
-created_by: 
+---
+created_by:
   email: murray.steele@gmail.com
   name: Murray Steele
 category: meeting
@@ -7,16 +7,13 @@ title: September 2009 Meeting
 updated_at: 2013-02-12 23:09:27 Z
 published_at: 2009-08-18 01:56:02 Z
 created_at: 2009-08-17 20:02:46 Z
-parts: 
-  sponsors: 
-    :content: |
-      [<image src="http://assets.lrug.org/images/brightbox_small.png" width="120" height="99" alt="Brightbox" title="Brightbox Logo"/>](http://www.brightbox.co.uk/)
-      [<image src="http://assets.lrug.org/images/eden_development_small.png" width="120" height="45" alt="Eden Development" title="Eden Development Logo"/>](http://www.edendevelopment.co.uk/)
-      [<image src="http://assets.lrug.org/images/unboxed_small.png" width="120" height="58" alt="Unboxed Consulting" title="Unboxed Consulting Logo"/>](http://www.unboxedconsulting.com/)
-      [<image src="http://assets.lrug.org/images/taskforce_small.png" width="120" height="20" alt="Taskforce" title="Taskforce Logo"/>](http://www.taskforce.co.uk/about/)
-      [<image src="http://assets.lrug.org/images/new_bamboo_small.png" width="120" height="24" alt="New Bamboo" title="New Bamboo Logo"/>](http://newbamboo.co.uk/)
-
-    :filter: .md
+sponsors:
+  - :name: Brightbox
+  - :name: Eden Development
+  - :name: Unboxed Consulting
+  - :name: Taskforce
+  - :name: New Bamboo
+parts: {}
 status: Published
 ---
 
@@ -29,11 +26,11 @@ Agenda
 
 For this meeting we'll be running a [Coding Dojo](http://codingdojo.org/cgi-bin/wiki.pl?WhatIsCodingDojo).  You can find out much more detail on these at the [Coding Dojo wiki](http://codingdojo.org/), but the basic idea is as follows:
 
-> The Dojo starts with the definition of a problem to be worked on.  It'll be something relatively simple, 
-> but with enough scope for plenty of interesting choices to be made about the design.  We'll have one 
+> The Dojo starts with the definition of a problem to be worked on.  It'll be something relatively simple,
+> but with enough scope for plenty of interesting choices to be made about the design.  We'll have one
 > laptop connected to a projector and two developers will pair on it to iterate towards a solution.  Every
-> so often, the "driving" developer (the one at the keyboard) will sit down, the other developer will 
-> become the "driver" and another member of the group will step up to complete the pair.  Lather, 
+> so often, the "driving" developer (the one at the keyboard) will sit down, the other developer will
+> become the "driver" and another member of the group will step up to complete the pair.  Lather,
 > rinse, repeat.
 
 For our Dojo, because the group is so large, we plan to split the attendees on the night into 2 or 3 groups to work on the problem and will time the "every so often" such that everyone should get a turn at the laptop.  To help speed up the splitting into groups on the night [you should add your name to a team on our spreadsheet](http://spreadsheets.google.com/ccc?key=0Ai86AO7glNC9dFg4cEJkSUhOaEpCT0VHNnlWYnFld0E&hl=en_GB).  To frame the Dojo-ing we'll introduce the concept of Dojo's at the start of the evening in a bit more detail, as well as describe the problem to be worked on, and then at the end of the meeting, we'll go round each group and let them say how they found the experience and describe their solution.  There'll also be one or two people floating around not participating, but making sure that the Dojo is running smoothly and giving advice to groups struggling.

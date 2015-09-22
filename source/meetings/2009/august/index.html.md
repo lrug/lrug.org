@@ -1,5 +1,5 @@
---- 
-created_by: 
+---
+created_by:
   email: murray.steele@gmail.com
   name: Murray Steele
 category: meeting
@@ -7,15 +7,13 @@ title: August 2009 Meeting
 updated_at: 2013-02-12 23:09:26 Z
 published_at: 2009-07-20 03:33:44 Z
 created_at: 2009-07-15 08:59:53 Z
-parts: 
-  sponsors: 
-    :content: |-
-      [<image src="http://assets.lrug.org/images/eden_development_small.png" width="120" height="45" alt="Eden Development" title="Eden Development Logo"/>](http://www.edendevelopment.co.uk/)
-      [<image src="http://assets.lrug.org/images/unboxed_small.png" width="120" height="58" alt="Unboxed Consulting" title="Unboxed Consulting Logo"/>](http://www.unboxedconsulting.com/)
-      [<image src="http://assets.lrug.org/images/taskforce_small.png" width="120" height="20" alt="Taskforce" title="Taskforce Logo"/>](http://www.taskforce.co.uk/about/)
-      [<image src="http://assets.lrug.org/images/new_bamboo_small.png" width="120" height="24" alt="New Bamboo" title="New Bamboo Logo"/>](http://newbamboo.co.uk/)
-      [<image src="http://assets.lrug.org/images/brightbox_small.png" width="120" height="99" alt="Brightbox" title="Brightbox Logo"/>](http://www.brightbox.co.uk/)
-    :filter: .md
+sponsors:
+  - :name: Eden Development
+  - :name: Unboxed Consulting
+  - :name: Taskforce
+  - :name: New Bamboo
+  - :name: Brightbox
+parts: {}
 status: Published
 ---
 
@@ -28,12 +26,12 @@ Agenda
 
 [Taryn East](http://www.taryneast.com/) wants to talk to us about profiling.
 
-> I've used the [ruby-prof](http://ruby-prof.rubyforge.org/) and 
+> I've used the [ruby-prof](http://ruby-prof.rubyforge.org/) and
 > [kcachegrind](http://kcachegrind.sourceforge.net/html/Home.html) tools a few
 > times to profile some of the rails projects I've worked on. They're powerful
-> tools that can let you dig down into the bowels of your code and find the 
-> real trouble-makers, but they require a bit of familiarity as they really 
-> are a bit of information-overload. So I thought I could give a talk on 
+> tools that can let you dig down into the bowels of your code and find the
+> real trouble-makers, but they require a bit of familiarity as they really
+> are a bit of information-overload. So I thought I could give a talk on
 > how to set them up - where/how to use them and what they can do for you.
 
 A video of Taryn's talk is available on the [Skills Matter site](http://skillsmatter.com/podcast/ajax-ria/making-your-rails-app-kick-ass-with-ruby-prof-and-kcachegrind).
@@ -42,11 +40,11 @@ A video of Taryn's talk is available on the [Skills Matter site](http://skillsma
 
 [Alex Graul](http://www.sho.ch/) is going to talk about AMQP messaging with ruby.
 
-> [AMQP](http://amqp.org) is a powerful, flexible and completely open messaging standard. Capable of 
-> scaling to millions of messages a second with incredibly low latency, AMQP is an 
+> [AMQP](http://amqp.org) is a powerful, flexible and completely open messaging standard. Capable of
+> scaling to millions of messages a second with incredibly low latency, AMQP is an
 > fantastic backbone on which to build service architectures. In this talk I'll give
 > you an overview of the AMQP standard, an introduction to synchronous and asynchronous
-> libraries for working with AMQP in Ruby and some examples uses. 
+> libraries for working with AMQP in Ruby and some examples uses.
 
 If he's finished writing it, [Gerhard Lazu](http://www.gerhardlazu.com/) will do a demo of a app for buffering [ICY streams](http://en.wikipedia.org/wiki/SHOUTcast) using AMQP.
 

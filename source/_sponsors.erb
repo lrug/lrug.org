@@ -5,6 +5,14 @@
     <div class="sponsor_list">
       <%= render_content_part 'sponsors', locals[:for_page] %>
     </div>
+  <% elsif locals[:for_page].data.has_key? 'sponsors' %>
+    <h4>Meeting Sponsors</h4>
+    <p>Sponsorship kindly provided by:</p>
+    <div class="sponsor_list">
+      <% locals[:for_page].data.sponsors.each do |sponsor| %>
+        <p><%= sponsor_logo sponsor.name, size: 'sidebar' %></p>
+      <% end %>
+    </div>
   <% end %>
   <h4>Hosted By</h4>
   <%= render_content_part 'hosted_by', locals[:for_page], inherit: true %>

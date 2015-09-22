@@ -1,8 +1,8 @@
---- 
-updated_by: 
+---
+updated_by:
   email: murray.steele@gmail.com
   name: Murray Steele
-created_by: 
+created_by:
   email: murray.steele@gmail.com
   name: Murray Steele
 category: meeting
@@ -10,12 +10,9 @@ title: July 2013 Meeting
 updated_at: 2013-06-24 14:31:05 Z
 published_at: 2013-06-24 00:00:00 Z
 created_at: 2013-06-19 08:55:36 Z
-parts: 
-  sponsors: 
-    :content: |
-      [<image src="http://assets.lrug.org/images/workshare_logo_small.png" width="120" height="26" alt="Workshare" title="Workshare Logo"/>](http://www.workshare.com/)
-
-    :filter: .md
+sponsors:
+  - :name: Workshare
+parts: {}
 status: Published
 ---
 
@@ -29,21 +26,21 @@ Agenda
 [Simon Coffey](https://twitter.com/urbanautomaton) says:
 
 > Most developers don't do ops, and though the idea of devops
-> is slowly permeating through the industry, it's probably 
-> not the norm yet. So why should we, as devs, care about 
+> is slowly permeating through the industry, it's probably
+> not the norm yet. So why should we, as devs, care about
 > configuration management? What has it done for us lately?
 >
 > I'll try to explain how Chef can improve your life, even if
-> you never touch a production server. I'll give some 
-> examples of ways in which configuration management can 
-> simplify your development environment, improve your 
-> debugging abilities, and give you a better overall 
-> understanding of the way your applications fit together. 
+> you never touch a production server. I'll give some
+> examples of ways in which configuration management can
+> simplify your development environment, improve your
+> debugging abilities, and give you a better overall
+> understanding of the way your applications fit together.
 >
-> I'll also share some strategies for breaking down the 
+> I'll also share some strategies for breaking down the
 > intimidating task of introducing Chef if you've already got
-> hand-configured servers, so that change can be gradual, 
-> with progress along the way as nature intended. I'll also 
+> hand-configured servers, so that change can be gradual,
+> with progress along the way as nature intended. I'll also
 > mention some of the tools that make life much, much simpler.
 
 ### Building and maintaining a Ruby team during the Rails crisis of 2013
@@ -52,20 +49,20 @@ Agenda
 
 > 1. There’s a massive shortage of Ruby developers.
 >
-> 2. Over the last year I’ve worked with numerous teams 
->    implementing creative, non-standard ways to building and 
+> 2. Over the last year I’ve worked with numerous teams
+>    implementing creative, non-standard ways to building and
 >    maintaining teams.
 >
 > 3. I’m going to talk about them.
 >
-> 4. This will be relevant to existing teams and people 
+> 4. This will be relevant to existing teams and people
 >    thinking of starting a team in the future. Overall I think
->    it will be beneficial & interesting for everyone, even if 
+>    it will be beneficial & interesting for everyone, even if
 >    you’re not thinking of starting your own team any time soon.
 
 ### Drinks!
 
-[<image src="http://assets.lrug.org/images/workshare_logo_medium.png" width="260" height="55" alt="Workshare" title="Workshare Logo"/>](http://www.workshare.com/)
+{::sponsor name="Workshare" size="main" /}
 
 The nice folks at [Workshare](http://www.workshare.com/) have arranged to have some drinks made available *during* the meeting, so it's an even better idea than usual to <a href="#jul13registration">register your attendance</a> and secure your place!
 

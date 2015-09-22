@@ -1,8 +1,8 @@
---- 
-updated_by: 
+---
+updated_by:
   email: murray.steele@gmail.com
   name: Murray Steele
-created_by: 
+created_by:
   email: murray.steele@gmail.com
   name: Murray Steele
 category: meeting
@@ -10,12 +10,9 @@ title: April 2014 Meeting
 updated_at: 2014-04-07 14:27:13 Z
 published_at: 2014-03-27 00:00:00 Z
 created_at: 2014-03-24 21:05:39 Z
-parts: 
-  sponsors: 
-    :content: |
-      [<image src="http://assets.lrug.org/images/resource_guru_logo_small.png" width="120" height="15" alt="Resource Guru" title="Resource Guru Logo"/>](http://resourceguruapp.com/jobs/)
-
-    :filter: .md
+sponsors:
+  - :name: Resource Guru
+parts: {}
 status: Published
 ---
 
@@ -24,16 +21,16 @@ The April 2014 meeting of LRUG will be on *Monday the 14th of April*, from 6:30p
 Agenda
 ------
 
-### Adventures in early-adoption of open-source code 
+### Adventures in early-adoption of open-source code
 
 Some of the team from [the ODI](http://theodi.org/) want to present about their work:
 
 > Last year, the ODI found themselves wanting to use the
-> code behind [gov.uk](http://www.gov.uk) for a new project. 
-> In this talk [James](https://theodi.org/team/james-smith) 
-> and [Sam](https://theodi.org/team/sam-pikesley) from the ODI 
+> code behind [gov.uk](http://www.gov.uk) for a new project.
+> In this talk [James](https://theodi.org/team/james-smith)
+> and [Sam](https://theodi.org/team/sam-pikesley) from the ODI
 > tech team will share their experience of picking up a codebase
-> which was [open source](https://github.com/alphagov), but never 
+> which was [open source](https://github.com/alphagov), but never
 > really designed for reuse, and what they learned along the way.
 
 ### Aspect-Oriented Programming in Ruby
@@ -42,16 +39,16 @@ Some of the team from [the ODI](http://theodi.org/) want to present about their 
 
 > Many of us developers love arguing about architecture that
 > we dislike and refactoring our code to loosen coupling and
-> weaken dependencies between our objects. Unfortunately, 
+> weaken dependencies between our objects. Unfortunately,
 > some overarching parts of our applications, like persistence,
 > networking, notifications, logging, auditing, are scattered
 > in our code, forcing us to specific explicit dependencies
-> between them and our domain objects. 
+> between them and our domain objects.
 >
 > [Aspect-oriented programming](http://en.wikipedia.org/wiki/Aspect-oriented_programming)
-> is a solution to the problem of some features affecting 
+> is a solution to the problem of some features affecting
 > virtually all business requirements, and expresses that problem
-> in a compact and DRY way. 
+> in a compact and DRY way.
 >
 > In this practical talk, Camille will:
 >
@@ -69,7 +66,7 @@ After the talks finish, usually 8pm, we decamp to [The Slaughtered Lamb](http://
 
 ### Sponsored Drinks
 
-[<image src="http://assets.lrug.org/images/resource_guru_logo_medium.png" width="260" height="33" alt="Resource Guru" title="Resource Guru Logo"/>](http://resourceguruapp.com/jobs/)
+{::sponsor name="Resource Guru" size="main" /}
 
 The nice folks at [Resource Guru](http://resourceguruapp.com/) are buying us some drinks at the pub after the talks.  That's nice, isn't it?
 

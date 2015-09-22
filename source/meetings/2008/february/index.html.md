@@ -1,5 +1,5 @@
---- 
-created_by: 
+---
+created_by:
   email: murray.steele@gmail.com
   name: Murray Steele
 category: meeting
@@ -7,6 +7,8 @@ title: February 2008 Meeting
 updated_at: 2013-02-12 23:09:20 Z
 published_at: 2008-01-25 02:11:52 Z
 created_at: 2008-01-19 12:34:39 Z
+sponsors:
+  - :name: QCon
 parts: {}
 
 status: Published

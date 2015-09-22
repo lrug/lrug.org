@@ -1,5 +1,5 @@
---- 
-created_by: 
+---
+created_by:
   email: murray.steele@gmail.com
   name: Murray Steele
 category: meeting
@@ -7,15 +7,13 @@ title: July 2010 Meeting
 updated_at: 2013-02-12 23:09:30 Z
 published_at: 2010-07-05 04:09:42 Z
 created_at: 2010-07-05 09:04:27 Z
-parts: 
-  sponsors: 
-    :content: |-
-      [<image src="http://assets.lrug.org/images/eden_development_small.png" width="120" height="45" alt="Eden Development" title="Eden Development Logo"/>](http://www.edendevelopment.co.uk/)
-      [<image src="http://assets.lrug.org/images/taskforce_small.png" width="120" height="20" alt="Taskforce" title="Taskforce Logo"/>](http://www.taskforce.co.uk/about/)
-      [<image src="http://assets.lrug.org/images/unboxed_small.png" width="120" height="58" alt="Unboxed Consulting" title="Unboxed Consulting Logo"/>](http://www.unboxedconsulting.com/)
-      [<image src="http://assets.lrug.org/images/brightbox_small.png" width="120" height="99" alt="Brightbox" title="Brightbox Logo"/>](http://www.brightbox.co.uk/)
-      [<image src="http://assets.lrug.org/images/new_bamboo_small.png" width="120" height="24" alt="New Bamboo" title="New Bamboo Logo"/>](http://newbamboo.co.uk/)
-    :filter: .md
+sponsors:
+  - :name: Eden Development
+  - :name: Taskforce
+  - :name: Unboxed Consulting
+  - :name: Brightbox
+  - :name: New Bamboo
+parts: {}
 status: Published
 ---
 
@@ -32,16 +30,16 @@ Agenda
 > heavily inspired by Ruby. A sort of distilled Ruby-like language which
 > is far too simplistic to be useful and probably overlooks tonnes of
 > important things.
-> 
+>
 > But anyway! The point is not really that the language is utterly
 > pointless. The point is that it's an interpreter written in a very
 > high-level language, which I think it relatively easy to understand.
-> 
+>
 > So I'm offering to do a talk which would take the listener through the
 > workings of this interpreter. The parsing is done with Treetop, although
 > I wouldn't propose really talking about the parsing at all as I think a
 > lot of people are quite familiar with Treetop.
-> 
+>
 > I might as well finish with some buzzwords. If you ever wondered what
 > "trampoline function" or "continuation passing style" means then this is
 > your chance :)
@@ -55,9 +53,9 @@ A video of Jonathan's talk, filmed by Skills Matter, [is available on the Skills
 [Phil Cowans](http://twitter.com/philcowans) has recently been working on a rails plugin called [ActionEmbedding](http://github.com/philcowans/action_embedding), and he'd like to show it to us:
 
 > ActionEmbedding is a simple Rails plugin I've been using to look at
-> ways of building up pages from independent user interface elements 
-> called pagelets. The idea is to implement a number of different patterns, 
-> including Hierarchical MVC, and make it as easy as possible to switch 
+> ways of building up pages from independent user interface elements
+> called pagelets. The idea is to implement a number of different patterns,
+> including Hierarchical MVC, and make it as easy as possible to switch
 > between them. I'll try to explain why I think this is a good idea, show
 > you what the plugin can do at the moment and talk about how I see it evolving.
 

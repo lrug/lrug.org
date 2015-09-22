@@ -1,5 +1,5 @@
---- 
-created_by: 
+---
+created_by:
   email: murray.steele@gmail.com
   name: Murray Steele
 category: meeting
@@ -7,16 +7,13 @@ title: August 2010 Meeting
 updated_at: 2013-02-12 23:09:30 Z
 published_at: 2010-07-15 07:11:38 Z
 created_at: 2010-07-15 14:11:38 Z
-parts: 
-  sponsors: 
-    :content: |
-      [<image src="http://assets.lrug.org/images/taskforce_small.png" width="120" height="20" alt="Taskforce" title="Taskforce Logo"/>](http://www.taskforce.co.uk/about/)
-      [<image src="http://assets.lrug.org/images/unboxed_small.png" width="120" height="58" alt="Unboxed Consulting" title="Unboxed Consulting Logo"/>](http://www.unboxedconsulting.com/)
-      [<image src="http://assets.lrug.org/images/brightbox_small.png" width="120" height="99" alt="Brightbox" title="Brightbox Logo"/>](http://www.brightbox.co.uk/)
-      [<image src="http://assets.lrug.org/images/new_bamboo_small.png" width="120" height="24" alt="New Bamboo" title="New Bamboo Logo"/>](http://newbamboo.co.uk/)
-      [<image src="http://assets.lrug.org/images/eden_development_small.png" width="120" height="45" alt="Eden Development" title="Eden Development Logo"/>](http://www.edendevelopment.co.uk/)
-
-    :filter: .md
+sponsors:
+  - :name: Taskforce
+  - :name: Unboxed Consulting
+  - :name: Brightbox
+  - :name: New Bamboo
+  - :name: Eden Development
+parts: {}
 status: Published
 ---
 
@@ -31,22 +28,22 @@ Agenda
 
 > Most of us want better software development processes, and spend a lot of
 > time reading and talking about methods for making better software. However,
-> when you've already been working on a project for a long time, entropy can 
-> get the better of you, making it difficult to adapt your working practices. 
-> We've been working on a project like this that started 18 months ago, and 
-> over the last few months have been steadily improving how we go about things, 
-> getting better at BDD and Scrum, and starting to do a bit of Domain Driven 
-> Design. We're going to talk about how we got on, focusing in equal parts on 
-> refactoring legacy code bases, improving test coverage, and improving 
-> processes, as well as revealing the incredible powers of suggestion we 
-> employed to convince stakeholders, management and sundry doubters that this 
+> when you've already been working on a project for a long time, entropy can
+> get the better of you, making it difficult to adapt your working practices.
+> We've been working on a project like this that started 18 months ago, and
+> over the last few months have been steadily improving how we go about things,
+> getting better at BDD and Scrum, and starting to do a bit of Domain Driven
+> Design. We're going to talk about how we got on, focusing in equal parts on
+> refactoring legacy code bases, improving test coverage, and improving
+> processes, as well as revealing the incredible powers of suggestion we
+> employed to convince stakeholders, management and sundry doubters that this
 > was a good idea.
 
 A video of Chris and Tim's talk, filmed by Skills Matter, [is available on the Skills Matter site](http://skillsmatter.com/podcast/ajax-ria/making-old-projects-better).
 
 ### [ittybittyboom.com](http://ittybittyboom.com)
 
-[Tom Crinson](http://mrjaba.posterous.com/) will talk about [Cramp](http://m.onkey.org/2010/1/7/introducing-cramp) and some of the other technologies he's used in his HTML5 Bomberman clone.  Tom says: 
+[Tom Crinson](http://mrjaba.posterous.com/) will talk about [Cramp](http://m.onkey.org/2010/1/7/introducing-cramp) and some of the other technologies he's used in his HTML5 Bomberman clone.  Tom says:
 
 > You'll find out how and why I use [cramp](http://github.com/lifo/cramp) to cope with hundreds of simultaneous
 > players on [ittybittyboom.com](http://ittybittyboom.com).  Cramp is an asynchronous

@@ -10,11 +10,9 @@ title: May 2015 Meeting
 updated_at:
 published_at: 2015-05-01 10:30:57 Z
 created_at: 2015-05-01 10:01:10 Z
-parts:
-  sponsors:
-    :content: |
-      [<image src="http://assets.lrug.org/images/infinitium_global_logo_small.jpg" width="120" height="120" alt="Infinitium Global" title="Infinitium Global Logo"/>](https://www.linkedin.com/company/infinitium-global)
-    :filter: .md
+sponsors:
+  - :name: 'Infinitium Global'
+parts: {}
 status: Published
 ---
 
@@ -51,7 +49,7 @@ With presented building blocks he'll try to help solve common problems in curren
 
 ### Book Giveaway
 
-[<image src="http://assets.lrug.org/images/infinitium_global_logo_medium.jpg" width="260" height="260" alt="Infinitium Global" title="Infinitium Global"/>](https://www.linkedin.com/company/infinitium-global)
+{::sponsor name="Infinitium Global" size="main" /}
 
 The nice people at [Infinitium Global](https://www.linkedin.com/company/infinitium-global) have arranged to make 20 copies of [David A. Black's "The Well Grounded Rubyist 2nd Edition"](http://manning.com/black3) available to LRUG members and we'll be handing them out at this meeting.  We used our [mailing list](http://lrug.org/mailing-list) to allocate each book to a lucky LRUG member on a first-come, first-served basis.  Infinitium are hoping to make this a regular event, so if you'd like to be in with a chance of getting your hands on a book in the future you should sign up to our [mailing list](http://lrug.org/mailing-list).
 

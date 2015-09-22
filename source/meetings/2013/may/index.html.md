@@ -1,8 +1,8 @@
---- 
-updated_by: 
+---
+updated_by:
   email: murray.steele@gmail.com
   name: Murray Steele
-created_by: 
+created_by:
   email: murray.steele@gmail.com
   name: Murray Steele
 category: meeting
@@ -10,12 +10,9 @@ title: May 2013 Meeting
 updated_at: 2013-05-01 19:54:43 Z
 published_at: 2013-04-18 00:00:00 Z
 created_at: 2013-04-17 20:30:34 Z
-parts: 
-  sponsors: 
-    :content: |
-      [<image src="http://assets.lrug.org/images/team_prime_logo_small.jpg" width="120" height="92" alt="Team Prime" title="Team Prime Logo"/>](http://www.team-prime.com/)
-
-    :filter: .md
+sponsors:
+  - :name: Team Prime
+parts: {}
 status: Published
 ---
 
@@ -33,18 +30,18 @@ Agenda
 > interactions into roles, which can be played by objects in various
 > contexts.
 >
-> This presentation is going to give brief introduction to DCI, 
-> propose ways to implement roles' injection in Ruby and discuss 
+> This presentation is going to give brief introduction to DCI,
+> propose ways to implement roles' injection in Ruby and discuss
 > how DCI could be used to supplement Rails' MVC paradigm.
 
 ### Come get dirty with mruby
 
 [Randy Morgan](https://github.com/randym) is going to lead us in an exploration of [mruby](https://github.com/mruby/mruby):
 
-> While most of us know what mruby is, few of us have had a 
-> chance to kick the tires, poke around a bit and see what 
-> makes it tick. In this ~30 minute workshop-presentation, 
-> we will help each other to get mruby built locally, do a 
+> While most of us know what mruby is, few of us have had a
+> chance to kick the tires, poke around a bit and see what
+> makes it tick. In this ~30 minute workshop-presentation,
+> we will help each other to get mruby built locally, do a
 > classic "Chunky bacon" test, and have a go at writing our
 > own rbgems to extend the language with custom functionality.
 >
@@ -54,7 +51,7 @@ Randy will be sending out instructions on pre-requisites in a few days to [the m
 
 ### Drinks
 
-[<image src="http://assets.lrug.org/images/team_prime_logo_medium.jpg" width="260" height="199" alt="Team Prime" title="Team Prime Logo"/>](http://www.team-prime.com/)
+{::sponsor name="Team Prime" size="main" /}
 
 Also, the nice folks at [Team Prime](http://www.team-prime.com/) are providing some drinks during the talks, so there are even more reasons to make it along!  There'll be a range of beers and soft drinks available.
 

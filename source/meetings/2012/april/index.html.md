@@ -1,5 +1,5 @@
---- 
-created_by: 
+---
+created_by:
   email: murray.steele@gmail.com
   name: Murray Steele
 category: meeting
@@ -7,12 +7,9 @@ title: April 2012 Meeting
 updated_at: 2013-02-12 23:09:35 Z
 published_at: 2012-03-26 00:00:00 Z
 created_at: 2012-03-26 09:23:37 Z
-parts: 
-  sponsors: 
-    :content: |
-      [<image src="http://assets.lrug.org/images/yammer_logo_small.png" width="120" height="33" alt="Yammer" title="Yammer Logo"/>](https://www.yammer.com/)
-
-    :filter: .md
+sponsors:
+  - :name: Yammer
+parts: {}
 status: Published
 ---
 
@@ -26,13 +23,13 @@ Agenda
 [Makoto Inoue](https://twitter.com/makoto_inoue) is going to talk to us about [dRuby](http://www.ruby-doc.org/stdlib-1.9.3/libdoc/drb/rdoc/DRb.html):
 
 > dRuby stands for "Distributed Ruby" and it's one of less known Ruby
-> standard libraries.  It is one of the first use of Metaprogramming 
-> long before Rails. dRuby creates proxy objects which lets you to 
+> standard libraries.  It is one of the first use of Metaprogramming
+> long before Rails. dRuby creates proxy objects which lets you to
 > "automagically"(In Matz's word) delegate method calls to remote objects.
-> While I was translating [The dRuby Book: Distributed and Parallel Computing with Ruby](http://pragprog.com/book/sidruby/the-druby-book) 
-> from Japanese to English, I had a chance to work with [Masatoshi Seki](https://github.com/seki), 
-> one of the Ruby core committers and has been using Ruby since 
-> version 1.2. I learnt a lot of interesting Ruby technique from him 
+> While I was translating [The dRuby Book: Distributed and Parallel Computing with Ruby](http://pragprog.com/book/sidruby/the-druby-book)
+> from Japanese to English, I had a chance to work with [Masatoshi Seki](https://github.com/seki),
+> one of the Ruby core committers and has been using Ruby since
+> version 1.2. I learnt a lot of interesting Ruby technique from him
 > and would like to share some of them with you.
 
 ### Converting a Rails project from MRI to JRuby
@@ -53,7 +50,7 @@ Pub
 
 Whatever we end up doing during the formal part of the meeting, we know it has to end by 8pm.  After that we head over to [The Slaughtered Lamb](http://www.theslaughteredlambpub.com/) fore more fun.  Attending the talks isn't mandatory for attendance of the pub, so if you can't make the talks you really should come along for the pub.
 
-[<image src="http://assets.lrug.org/images/yammer_logo_medium.png" width="260" height="100" alt="Yammer" title="Yammer Logo"/>](https://www.yammer.com/)
+{::sponsor name="Yammer" size="main" /}
 
 The nice folks at [Yammer](https://www.yammer.com/) are sponsoring some drinks behind the bar, so it's an even better idea to come along.
 

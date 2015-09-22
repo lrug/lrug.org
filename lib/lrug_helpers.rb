@@ -58,11 +58,13 @@ module LRUGHelpers
     part = find_page_part(part_name, page, inherit: inherit)
     if part
       if part['filter'].present?
-        Tilt.new(part['filter']) do
-          Tilt.new('.erb') do
-            part['content']
+        renderers = part['filter'].split('.').reverse.reject { |renderer| renderer.blank? }
+        renderers.prepend('erb') unless renderers.first == 'erb'
+        renderers.inject(part['content']) do |body, renderer|
+          Tilt.new(renderer, 1, options_for_ext(renderer)) do
+            body
           end.render(self, page: page)
-        end.render(self, page: page)
+        end
       else
         part['content']
       end
@@ -77,6 +79,23 @@ module LRUGHelpers
       match[1]
     else
       meeting.data.title
+    end
+  end
+
+  def meeting_sponsors
+    meeting_pages.select { |mp| mp.data.sponsors? }.flat_map { |mp| mp.data.sponsors }.uniq
+  end
+
+  def sponsor_logo(sponsor_name, size: 'sidebar')
+    sponsor = data.sponsors.detect { |sponsor| sponsor.name == sponsor_name }
+    if sponsor
+      link_text =
+        if sponsor.logo? && sponsor.logo[size]
+          %{<image src="#{sponsor.logo[size].url}" width="#{sponsor.logo[size].width}" height="#{sponsor.logo[size].height}" alt="#{sponsor.name}" title="#{sponsor.name} Logo"/>}
+        else
+          sponsor.name
+        end
+      link_to link_text, sponsor.url
     end
   end
 

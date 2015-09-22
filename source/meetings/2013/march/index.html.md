@@ -1,8 +1,8 @@
---- 
-updated_by: 
+---
+updated_by:
   email: murray.steele@gmail.com
   name: Murray Steele
-created_by: 
+created_by:
   email: murray.steele@gmail.com
   name: Murray Steele
 category: meeting
@@ -10,12 +10,9 @@ title: March 2013 Meeting
 updated_at: 2013-03-20 20:11:30 Z
 published_at: 2013-02-24 00:00:00 Z
 created_at: 2013-02-23 13:40:41 Z
-parts: 
-  sponsors: 
-    :content: |
-      [<image src="http://assets.lrug.org/images/house_trip_logo_small.jpg" width="120" height="58" alt="House Trip" title="House Trip Logo"/>](http://www.housetrip.com/)
-
-    :filter: .md
+sponsors:
+  - :name: House Trip
+parts: {}
 status: Published
 ---
 
@@ -30,11 +27,11 @@ Agenda
 
 > I will be speaking about app deployment, good production
 > practices, CI and CD and app versioning (never replace a
-> working production app instance with a new deploy). 
-> [deliver](https://github.com/gerhard/deliver) is a single 
-> utility to rule one's deploys to gh:pages, Jekyll, Ruby, 
-> node.js etc, even legacy PHP code (we all have it). The 
-> talk will also touch on S3-backed site deploys & Route53 
+> working production app instance with a new deploy).
+> [deliver](https://github.com/gerhard/deliver) is a single
+> utility to rule one's deploys to gh:pages, Jekyll, Ruby,
+> node.js etc, even legacy PHP code (we all have it). The
+> talk will also touch on S3-backed site deploys & Route53
 > IP failover to that S3 site.
 
 ### Passing on our skills to the next generation
@@ -51,7 +48,7 @@ Pub
 
 We're a friendly bunch, so if you don't make it to the talks you can still join us for a drink afterwards.  The talks normally finish up by 8pm and you can find us crowding the bar at [The Slaughtered Lamb](http://www.theslaughteredlambpub.com/) shortly after.
 
-[<image src="http://assets.lrug.org/images/house_trip_logo_medium.jpg" width="260" height="126" alt="House Trip" title="House Trip Logo"/>](http://www.housetrip.com/)
+{::sponsor name="House Trip" size="main" /}
 
 Also, the nice folks at [House Trip](http://www.housetrip.com/) are sponsoring some drinks behind the bar, so there are even more reasons to make it along!
 

@@ -1,5 +1,5 @@
---- 
-created_by: 
+---
+created_by:
   email: murray.steele@gmail.com
   name: Murray Steele
 category: meeting
@@ -7,15 +7,13 @@ title: May 2010 Meeting
 updated_at: 2013-02-12 23:09:29 Z
 published_at: 2010-04-28 07:43:45 Z
 created_at: 2010-04-26 11:09:07 Z
-parts: 
-  sponsors: 
-    :content: |-
-      [<image src="http://assets.lrug.org/images/brightbox_small.png" width="120" height="99" alt="Brightbox" title="Brightbox Logo"/>](http://www.brightbox.co.uk/)
-      [<image src="http://assets.lrug.org/images/new_bamboo_small.png" width="120" height="24" alt="New Bamboo" title="New Bamboo Logo"/>](http://newbamboo.co.uk/)
-      [<image src="http://assets.lrug.org/images/eden_development_small.png" width="120" height="45" alt="Eden Development" title="Eden Development Logo"/>](http://www.edendevelopment.co.uk/)
-      [<image src="http://assets.lrug.org/images/taskforce_small.png" width="120" height="20" alt="Taskforce" title="Taskforce Logo"/>](http://www.taskforce.co.uk/about/)
-      [<image src="http://assets.lrug.org/images/unboxed_small.png" width="120" height="58" alt="Unboxed Consulting" title="Unboxed Consulting Logo"/>](http://www.unboxedconsulting.com/)
-    :filter: .md
+sponsors:
+  - :name: Brightbox
+  - :name: New Bamboo
+  - :name: Eden Development
+  - :name: Taskforce
+  - :name: Unboxed Consulting
+parts: {}
 status: Published
 ---
 
@@ -34,15 +32,15 @@ A video of Dan's talk is available on the [Skills Matter site](http://skillsmatt
 
 [Makoto Inoue](http://twitter.com/makoto_inoue) gave a short talk at the recent [nosqleu conference](http://nosqleu.com/) about Tokyo Cabinet and he offered to give a slightly retooled (and more ruby focussed) version of that talk for us.  The blurb for his original talk is as follows:
 
-> [Tokyo Cabinet](http://1978th.net/tokyocabinet/) is one of the first "Key Value" 
-> stores. It was released in 2007, but surprisingly small number of people knows 
-> what it is really capable of. Makoto, the maintainer of 
+> [Tokyo Cabinet](http://1978th.net/tokyocabinet/) is one of the first "Key Value"
+> stores. It was released in 2007, but surprisingly small number of people knows
+> what it is really capable of. Makoto, the maintainer of
 > [Tokyo Cabinet Wiki](http://tokyocabinetwiki.pbworks.com) will unveil
 > the core philosophy and exciting features behind these products.
 
 A video of Makoto's talk is available on the [Skills Matter site](http://skillsmatter.com/podcast/ajax-ria/makoto-inoue-tokyo-cabinet-tokyo-tyrant-kyoto-cabinet-mikio-ware).
 
-### UNIX: Rediscovering the wheel 
+### UNIX: Rediscovering the wheel
 
 [John Leach](http://johnleach.co.uk/) kindly offered to do a version of this talk (previously given at [Conferencia Rails 2009](http://www.conferenciarails.org/) and [Scottish Ruby Conference 2010](http://scottishrubyconference.com/)), but unfortunately he had to pull out at the last minute due to a double booking.  We'll try to reschedule this talk for a future meeting.
 

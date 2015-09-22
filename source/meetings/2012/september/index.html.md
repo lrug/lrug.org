@@ -1,5 +1,5 @@
---- 
-created_by: 
+---
+created_by:
   email: murray.steele@gmail.com
   name: Murray Steele
 category: meeting
@@ -7,12 +7,9 @@ title: September 2012 Meeting
 updated_at: 2013-02-12 23:09:36 Z
 published_at: 2012-08-23 00:00:00 Z
 created_at: 2012-08-23 20:39:11 Z
-parts: 
-  sponsors: 
-    :content: |
-      [<image src="http://assets.lrug.org/images/yammer_logo_small.png" width="120" height="33" alt="Yammer" title="Yammer Logo"/>](https://www.yammer.com/)
-
-    :filter: .md
+sponsors:
+  - :name: Yammer
+parts: {}
 status: Published
 ---
 
@@ -39,9 +36,9 @@ He wrote a little about this topic a couple of months ago on [his company blog](
 > integers, using subscript accessors for containers.  Trying to do
 > these basic things in Objective C requires writing screeds of
 > boilerplate code.
-> 
+>
 > Well, it's time to have another look at Objective C.
-> 
+>
 > The latest version of the compiler includes some wonderful shortcuts
 > to make your code more concise, readable, and a lot more like Ruby. In
 > this talk I'll give you a whirlwind tour of these changes.
@@ -51,11 +48,11 @@ He wrote a little about this topic a couple of months ago on [his company blog](
 [Jairo Diaz](http://www.codescrum.com/) says:
 
 > A zero-downtime deployment configuration is important for
-> critical systems that need to handle every request (i.e. 
-> financial system) and lately for systems following 
-> continuous delivery  principles since there could be many 
-> frequent deployments .  This talks present a simple 
-> configuration for zero-downtime deployments for ruby 
+> critical systems that need to handle every request (i.e.
+> financial system) and lately for systems following
+> continuous delivery  principles since there could be many
+> frequent deployments .  This talks present a simple
+> configuration for zero-downtime deployments for ruby
 > applications.
 
 Pub
@@ -63,7 +60,7 @@ Pub
 
 Our talks finish around 8pm, but that's not the end of the evening.  We carry on at [The Slaughtered Lamb](http://www.theslaughteredlambpub.com/) which is a short walk from the Skills Matter office.  There's usually lots of conversations going on after the talks, so if you can't make the talks please do feel free to pop along for a drink at the pub.
 
-[<image src="http://assets.lrug.org/images/yammer_logo_medium.png" width="260" height="100" alt="Yammer" title="Yammer Logo"/>](https://www.yammer.com/)
+{::sponsor name="Yammer" size="main" /}
 
 Also, the nice folks at [Yammer](https://www.yammer.com/) are sponsoring some drinks behind the bar again, so it's an even better idea to come along than usual.
 
