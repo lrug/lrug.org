@@ -10,7 +10,7 @@
     <p>Sponsorship kindly provided by:</p>
     <div class="sponsor_list">
       <% locals[:for_page].data.sponsors.each do |sponsor| %>
-        <%= sponsor_logo sponsor.name, size: 'sidebar' %>
+        <p><%= sponsor_logo sponsor.name, size: 'sidebar' %></p>
       <% end %>
     </div>
   <% end %>

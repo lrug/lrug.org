@@ -6,7 +6,13 @@ class Kramdown::Parser::LRUGExtendedKramdown < Kramdown::Parser::Kramdown
   def handle_extension(name, opts, body, type, line_no = nil)
     case name
     when 'sponsor'
-      @tree.children << render_sponsor(opts['name'], opts['size'])
+      sponsor = render_sponsor(opts['name'], opts['size'])
+      @tree.children <<
+        if type == :block
+          Element.new(:p).tap { |e| e.children << sponsor }
+        else
+          sponsor
+        end
       true
     else
       super
