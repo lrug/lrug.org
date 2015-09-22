@@ -54,7 +54,7 @@ Agenda
 
 ### Drinks!
 
-[<image src="http://assets.lrug.org/images/how_are_you_logo_medium.png" width="260" height="72" alt="How Are You?" title="How Are You Logo"/>](http://www.howareyou.com/)
+{::sponsor name="How Are You?" size="main" /}
 
 During the talks there will be some drinks available (alcoholic and soft), provided by the nice folks at [How Are You?](http://www.howareyou.com/).
 

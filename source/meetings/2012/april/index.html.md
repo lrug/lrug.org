@@ -50,7 +50,7 @@ Pub
 
 Whatever we end up doing during the formal part of the meeting, we know it has to end by 8pm.  After that we head over to [The Slaughtered Lamb](http://www.theslaughteredlambpub.com/) fore more fun.  Attending the talks isn't mandatory for attendance of the pub, so if you can't make the talks you really should come along for the pub.
 
-[<image src="http://assets.lrug.org/images/yammer_logo_medium.png" width="260" height="100" alt="Yammer" title="Yammer Logo"/>](https://www.yammer.com/)
+{::sponsor name="Yammer" size="main" /}
 
 The nice folks at [Yammer](https://www.yammer.com/) are sponsoring some drinks behind the bar, so it's an even better idea to come along.
 

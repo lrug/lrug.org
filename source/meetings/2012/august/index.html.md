@@ -56,7 +56,7 @@ Pub
 
 We have to be out of the venue by 8pm, but we don't stop the meeting then.  We make the short walk to [The Slaughtered Lamb](http://www.theslaughteredlambpub.com/) and continue in more informal surroundings there.  It's a large pub so if you can't make the first part of the meeting there'll be more than enough room for you at this second part.
 
-[<image src="http://assets.lrug.org/images/yammer_logo_medium.png" width="260" height="100" alt="Yammer" title="Yammer Logo"/>](https://www.yammer.com/)
+{::sponsor name="Yammer" size="main" /}
 
 Also, the nice folks at [Yammer](https://www.yammer.com/) are sponsoring some drinks behind the bar, so it's an even better idea to come along than usual.
 

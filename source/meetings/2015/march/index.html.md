@@ -53,7 +53,7 @@ Agenda
 
 ### Pizza
 
-[<image src="http://assets.lrug.org/images/braintree_payments_logo_medium.png" width="260" height="65" alt="Braintree Payments" title="Braintree Payments Logo"/>](https://braintreepayments.com)
+{::sponsor name="Braintree Payments" size="main" /}
 
 The nice people at [Braintree Payments](https://braintreepayments.com) have arranged to buy some pizza for us to eat during the talks.  The Pizza will be there from about 6pm so turn up early if you're hungry!  There'll be a selection to suit most tastes: meat-eaters, vegetarian, and vegan.  We're not sure if the pizza company does a gluten-free option, but we'll get one if they do.
 

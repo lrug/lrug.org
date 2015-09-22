@@ -57,7 +57,7 @@ Agenda
 
 ### Drinks!
 
-[<image src="http://assets.lrug.org/images/team_prime_logo_medium.jpg" width="260" height="199" alt="Team Prime" title="Team Prime Logo"/>](http://www.team-prime.com/)
+{::sponsor name="Team Prime" size="main" /}
 
 During the talks there will be some drinks available, provided by the nice folks at [Team Prime](http://www.team-prime.com/).
 

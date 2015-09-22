@@ -66,7 +66,7 @@ After the talks finish, usually 8pm, we decamp to [The Slaughtered Lamb](http://
 
 ### Sponsored Drinks
 
-[<image src="http://assets.lrug.org/images/resource_guru_logo_medium.png" width="260" height="33" alt="Resource Guru" title="Resource Guru Logo"/>](http://resourceguruapp.com/jobs/)
+{::sponsor name="Resource Guru" size="main" /}
 
 The nice folks at [Resource Guru](http://resourceguruapp.com/) are buying us some drinks at the pub after the talks.  That's nice, isn't it?
 

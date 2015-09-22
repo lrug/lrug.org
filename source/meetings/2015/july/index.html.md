@@ -18,12 +18,12 @@ parts:
   sponsors:
     :content: |
       ##### Drinks
-      <%= sponsor_logo 'thoughtbot' %>
+      {::sponsor name="thoughtbot" /}
     :filter: .md
   hosted_by:
     :content: |
-      <%= sponsor_logo 'Overleaf' %>
-      <%= sponsor_logo 'Altmetric' %>
+      {::sponsor name="Overleaf" /}
+      {::sponsor name="Altmetric" /}
     :filter: .md
 status: Published
 ---
@@ -75,7 +75,7 @@ Pub
 
 The talks will end at 8pm and we'll head to [The Fellow](http://www.geronimo-inns.co.uk/london-the-fellow) shortly after.  We've reserved the entire first floor, so if you can't make the talks but want to hang out with some rubyists afterwards, head on over and climb the stairs to say "hi".
 
-[<image src="http://assets.lrug.org/images/thoughtbot_logo_medium.png" width="260" height="260" alt="thoughtbot" title="thoughtbot logo"/>](https://thoughtbot.camp)
+{::sponsor name="thoughtbot" size="main" /}
 
 [Chad Pytel](https://twitter.com/cpytel) from [thoughtbot](http://thoughtbot.com) was kind enough to put some money behind the bar at The Fellow.  Thanks to him and [thoughtbot](http://thoughtbot.com) for supporting us!
 
@@ -92,11 +92,11 @@ The venue for this meeting is:
 
 And has been provided for us by:
 
-[<image src="http://assets.lrug.org/images/overleaf-logo-medium.png" width="260" height="80" alt="Overleaf" title="Overleaf Logo"/>](https://www.overleaf.com)
+{::sponsor name="Overleaf" size="main" /}
 
 And:
 
-[<image src="http://assets.lrug.org/images/altmetric-logo-medium.png" width="260" height="93" alt="Altmetric" title="Altmetric Logo"/>](http://www.altmetric.com)
+{::sponsor name="Altmetric" size="main" /}
 
 Thanks to both companies!
 

@@ -60,7 +60,7 @@ Pub
 
 Our talks finish around 8pm, but that's not the end of the evening.  We carry on at [The Slaughtered Lamb](http://www.theslaughteredlambpub.com/) which is a short walk from the Skills Matter office.  There's usually lots of conversations going on after the talks, so if you can't make the talks please do feel free to pop along for a drink at the pub.
 
-[<image src="http://assets.lrug.org/images/yammer_logo_medium.png" width="260" height="100" alt="Yammer" title="Yammer Logo"/>](https://www.yammer.com/)
+{::sponsor name="Yammer" size="main" /}
 
 Also, the nice folks at [Yammer](https://www.yammer.com/) are sponsoring some drinks behind the bar again, so it's an even better idea to come along than usual.
 

@@ -51,7 +51,7 @@ Randy will be sending out instructions on pre-requisites in a few days to [the m
 
 ### Drinks
 
-[<image src="http://assets.lrug.org/images/team_prime_logo_medium.jpg" width="260" height="199" alt="Team Prime" title="Team Prime Logo"/>](http://www.team-prime.com/)
+{::sponsor name="Team Prime" size="main" /}
 
 Also, the nice folks at [Team Prime](http://www.team-prime.com/) are providing some drinks during the talks, so there are even more reasons to make it along!  There'll be a range of beers and soft drinks available.
 

@@ -48,7 +48,7 @@ Pub
 
 We're a friendly bunch, so if you don't make it to the talks you can still join us for a drink afterwards.  The talks normally finish up by 8pm and you can find us crowding the bar at [The Slaughtered Lamb](http://www.theslaughteredlambpub.com/) shortly after.
 
-[<image src="http://assets.lrug.org/images/house_trip_logo_medium.jpg" width="260" height="126" alt="House Trip" title="House Trip Logo"/>](http://www.housetrip.com/)
+{::sponsor name="House Trip" size="main" /}
 
 Also, the nice folks at [House Trip](http://www.housetrip.com/) are sponsoring some drinks behind the bar, so there are even more reasons to make it along!
 

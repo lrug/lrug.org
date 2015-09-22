@@ -69,7 +69,7 @@ Pub
 
 We'll finish the formal talk-based part of the meeting at about 8pm and start the informal pub-based part about 5 minutes later in [The Slaughtered Lamb](http://www.theslaughteredlambpub.com/).  If you can't make the talks, do come along just for the pub, someone can get you caught up on what happened and no-one will know you weren't there!
 
-[<image src="http://assets.lrug.org/images/yammer_logo_medium.png" width="260" height="100" alt="Yammer" title="Yammer Logo"/>](http://www.yammer.com/)
+{::sponsor name="Yammer" size="main" /}
 
 Also, the nice folks at [Yammer](http://www.yammer.com/) are putting some money behind the bar to provide some drinks for us, so there are even more reasons to make it along!
 

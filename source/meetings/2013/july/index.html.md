@@ -62,7 +62,7 @@ Agenda
 
 ### Drinks!
 
-[<image src="http://assets.lrug.org/images/workshare_logo_medium.png" width="260" height="55" alt="Workshare" title="Workshare Logo"/>](http://www.workshare.com/)
+{::sponsor name="Workshare" size="main" /}
 
 The nice folks at [Workshare](http://www.workshare.com/) have arranged to have some drinks made available *during* the meeting, so it's an even better idea than usual to <a href="#jul13registration">register your attendance</a> and secure your place!
 

@@ -20,6 +20,10 @@ set :years, meeting_years
 require "lib/lrug_helpers"
 helpers LRUGHelpers
 
+require 'lib/lrug_extended_kramdown'
+Kramdown::Parser::LRUGExtendedKramdown.sponsors = data.sponsors
+set :markdown, input: 'LRUGExtendedKramdown'
+
 configure :build do
   ignore 'archive/*'
 end

@@ -42,7 +42,7 @@ Pub
 
 Once we finish up with the talks we head over to [The Slaughtered Lamb](http://www.theslaughteredlambpub.com/) to continue the evening in more informal, if admittedly slightly noisier surroundings.  If you can't make it for the talks feel free to pop along to the pub for about 8pm, which is when we usually finish up.
 
-[<image src="http://assets.lrug.org/images/globaldev_logo_medium.png" width="260" height="247" alt="Globaldev" title="Globaldev Logo"/>](http://www.globaldev.co.uk/)
+{::sponsor name="Globaldev" size="main" /}
 
 Also, the nice folks at [Globaldev](http://www.globaldev.co.uk/) are sponsoring some drinks behind the bar, so it's an even better idea to come along than usual.
 
