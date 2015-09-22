@@ -276,6 +276,22 @@
     }
   },
   {
+    "name":"QCon",
+    "url":"http://qconlondon.com",
+    "logo":{
+      "sidebar":{
+        "url":"http://assets.lrug.org/images/qcon_london_small.png",
+        "width":"120",
+        "height":"69"
+      },
+      "main":{
+        "url":"http://assets.lrug.org/images/qcon_london_medium.png",
+        "width":"260",
+        "height":"149"
+      }
+    }
+  },
+  {
     "name":"Railscasts",
     "url":"https://www.railscasts.com/",
     "logo":{
