@@ -132,6 +132,22 @@
     }
   },
   {
+    "name":"Future Learn",
+    "url":"http://futurelearn.com/",
+    "logo":{
+      "sidebar":{
+        "url":"http://assets.lrug.org/images/future_learn_logo_small.png",
+        "width":"120",
+        "height":"43"
+      },
+      "main":{
+        "url":"http://assets.lrug.org/images/future_learn_logo_medium.png",
+        "width":"260",
+        "height":"93"
+      }
+    }
+  },
+  {
     "name":"Globaldev",
     "url":"http://www.globaldev.co.uk/",
     "logo":{

@@ -11,6 +11,8 @@ updated_at:
 published_at: 2015-09-21 10:11:34 Z
 created_at: 2015-09-21 09:40:11 Z
 parts: {}
+sponsors:
+  - :name: Future Learn
 status: Published
 ---
 
@@ -43,6 +45,12 @@ Agenda
 
 > In this talk would like to focus on dealing with N+1: how to detect it,
 > how to get rid of it and, most importantly, how to avoid it.
+
+### Book Giveaway
+
+{::sponsor name="Future Learn" size="main" /}
+
+Our friends at [Future Learn](https://www.linkedin.com/company/infinitium-global) have arranged to give away a book to 16 lucky LRUG members.  The 16 winners of the giveaway are able to choose a copy of [Practical Object Oriented Design with Ruby](http://www.poodr.com/) or [10 PRINT CHR$(205.5+RND(1)); : GOTO 10](https://mitpress.mit.edu/books/10-print-chr2055rnd1-goto-10).  If you'd like to enter use [this form](http://goo.gl/forms/aE4fuUdgtz).  The deadline for entry is 1pm on Monday, 12th October 2015.
 
 Pub
 ---
