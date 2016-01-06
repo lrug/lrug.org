@@ -1,8 +1,16 @@
 language: ruby
 rvm:
-  - 2.1.5
+- 2.1.5
 install: bundle install
 script: bundle exec middleman build
 after_success:
-  - tar -cf lrug.org.tar public
-  - bzip2 lrug.org.tar
+- tar -cf lrug.org.tar public
+- bzip2 lrug.org.tar
+deploy:
+  provider: releases
+  api_key:
+    secure: hs7ENLT78sIxmp75tolkKDwKcAhwTBjORMVYYHL1ZYR3sXRsJv5hd5EbDdBUl9V/PjwgSAyf+pjgIEx/OTEbc1ZR78sFeiR0F+1rt3jc6pUzH63CBghqGxyxQj6iJNr2Sp1XQYaw0951ZfYRif1HEbNrcRlTFI59cGSFv+2AOGQ=
+  file: lrug.org.tar.bz2
+  on:
+    repo: lrug/lrug.org
+    branch: build-on-travis
