@@ -3,3 +3,6 @@ rvm:
   - 2.1.5
 install: bundle install
 script: bundle exec middleman build
+after_success:
+  - tar -cf lrug.org.tar public
+  - bzip2 lrug.org.tar
