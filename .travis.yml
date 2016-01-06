@@ -1,6 +1,7 @@
 language: ruby
 rvm:
 - 2.1.5
+cache: bundler
 install: bundle install
 script: bundle exec middleman build
 after_success:
