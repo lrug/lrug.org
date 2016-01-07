@@ -17,4 +17,4 @@ deploy:
   skip_cleanup: true
   on:
     repo: lrug/lrug.org
-    branch: build-on-travis
+    branch: master
