@@ -8,7 +8,7 @@ after_success:
 - tar -cf lrug.org.tar public
 - bzip2 lrug.org.tar
 env:
-- TRAVIS_TAG=travis-build
+- TRAVIS_TAG=travis-release
 deploy:
   provider: releases
   api_key:
