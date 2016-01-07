@@ -14,6 +14,7 @@ deploy:
   api_key:
     secure: hs7ENLT78sIxmp75tolkKDwKcAhwTBjORMVYYHL1ZYR3sXRsJv5hd5EbDdBUl9V/PjwgSAyf+pjgIEx/OTEbc1ZR78sFeiR0F+1rt3jc6pUzH63CBghqGxyxQj6iJNr2Sp1XQYaw0951ZfYRif1HEbNrcRlTFI59cGSFv+2AOGQ=
   file: lrug.org.tar.bz2
+  skip_cleanup: true
   on:
     repo: lrug/lrug.org
     branch: build-on-travis
