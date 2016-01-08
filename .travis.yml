@@ -22,3 +22,5 @@ deploy:
   on:
     repo: lrug/lrug.org
     branch: master
+notifications:
+  webhooks: http://webhook.lrug.org/deploy-lrug.cgi
