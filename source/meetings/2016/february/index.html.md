@@ -34,8 +34,14 @@ Once again our February meeting is given over to lightning talks of no more than
 * [Dave Nolan](http://kapoq.com/) - "A tour of [`Enumerable`](http://ruby-doc.org/core-2.3.0/Enumerable.html)"
   > TBC
 
-* [Tomas Valent](http://www.eq8.eu/) - "Life hacking for web-developers"
-  > TBC
+* [Tomas Valent](http://www.eq8.eu/) - "Web Developer Life Hacks"
+  > In this talk we will have a look on some alternative work environment
+  > setups that will help Web Developers to improve productivity.
+  >
+  > Some related articles:
+  >
+  > * http://www.eq8.eu/blogs/18-chromebook-for-web-developers
+  > * https://www.youtube.com/watch?v=sDQ8-LmWbow
 
 * [Tom Cartwright](http://www.tomcartwright.net/) - "Psychology of programming: A very short introduction"
   > The psychology of programming is field of research that deals with the
@@ -44,6 +50,12 @@ Once again our February meeting is given over to lightning talks of no more than
   > introduction to the subject with a précis of the current research and few
   > reckons thrown in for good measure.
 
+* [Tom Stuart](http://codon.com) - "Automatic differentiation in Ruby"
+  > Finding the derivative of a mathematical function on a computer can be
+  > difficult, but there’s a clever trick that makes it easy: first write a
+  > program that computes the function, then execute it under a non-standard
+  > interpretation of its values and operations. In this talk I’ll show you how
+  > that works in Ruby.
 
 Pub
 ---
