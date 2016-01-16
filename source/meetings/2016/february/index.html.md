@@ -1,0 +1,73 @@
+---
+updated_by:
+  email: murray.steele@gmail.com
+  name: Murray Steele
+created_by:
+  email: murray.steele@gmail.com
+  name: Murray Steele
+category: meeting
+title: February 2016 Meeting
+updated_at:
+published_at: 2016-01-16 14:43:00 +0000
+created_at: 2016-01-16 14:43:00 +0000
+parts: {}
+status: Published
+---
+
+The February 2016 meeting of LRUG will be on *Monday the 8th of February*, from 6:00pm to 8:00pm (talks start at 6:30pm).  The venue, [Code Node](https://skillsmatter.com/locations/264-skills-matter-codenode) between Moorgate and Liverpool St. stations, is provided by [Skills Matter](http://www.skillsmatter.com).  [Full venue and registration details are given below](#feb16registration).
+
+Agenda
+------
+
+Once again our February meeting is given over to lightning talks of no more than 10 minutes.  This year we have:
+
+* [Charlotte Spencer](http://www.charlotteis.co.uk/) - "Making your first pull request"
+  > Your First PR is an initiative with a goal to get people involved in making
+  > pull requests to other open source projects. In this talk you will be
+  > introduced to Your First PR as a project, discover where you can find
+  > starter issues to work on, and learn how you can help others to make their
+  > own awesome pull requests.
+
+* [Chris Blackburn](https://github.com/chrisblackburn) - "Continuous Feedback"
+  > TBC
+
+* [Dave Nolan](http://kapoq.com/) - "A tour of [`Enumerable`](http://ruby-doc.org/core-2.3.0/Enumerable.html)"
+  > TBC
+
+* [Tomas Valent](http://www.eq8.eu/) - "Life hacking for web-developers"
+  > TBC
+
+* [Tom Cartwright](http://www.tomcartwright.net/) - "Psychology of programming: A very short introduction"
+  > The psychology of programming is field of research that deals with the
+  > psychological aspects of writing computer programs. (see
+  > https://en.wikipedia.org/wiki/Psychology_of_programming). This is a short
+  > introduction to the subject with a précis of the current research and few
+  > reckons thrown in for good measure.
+
+
+Pub
+---
+
+There's bound to be something to talk about after all those talks and we now have two options for winding down the evening and chatting to other LRUG attendees:
+
+1. Stay at Code Node where Skills Matter have a cash bar and you can mingle with attendees of other meetups held that night.
+2. Take the short walk to [the Singer Tavern](http://singertavern.com/) (located at [1 City Road, EC1Y 1AG](https://goo.gl/maps/w9kPu)) where you can get some food to chew over along with the discussions spurred by the talks.
+
+Talks should finish at about 8pm so if you can't make it along earlier feel free to come along to either venue afterwards to hang out.
+
+Venue & Registration <a name="feb16registration">&nbsp;</a>
+----------------------------------------------------------
+
+Prior to attending you should familiarise yourself with our [README](http://readme.lrug.org/) paying close attention to [the code of conduct](http://readme.lrug.org/#code-of-conduct).
+
+### Venue
+
+The address of the venue:
+
+> Skills Matter CodeNode<br/>10 South Place<br/>London<br/>EC2M 2RB<br/><br/>[See on a map](https://goo.gl/maps/ONJT4)
+
+### Registration
+
+To secure a place at the meeting you *must* [register with our hosts Skills Matter](https://skillsmatter.com/meetups/7698-lrug-february-2016-lightning-talks-meeting).  It helps to make sure we have the room laid out with enough chairs, and in extreme cases that we get priority on the larger rooms over other groups using the space on the same night.  Also, it's polite (don't forget [MINASWAN](https://en.wikipedia.org/wiki/MINASWAN)), so please do [register with Skills Matter](https://skillsmatter.com/meetups/7698-lrug-february-2016-lightning-talks-meeting).
+
+You can also follow [this meeting on lanyrd](http://lanyrd.com/2016/lrug-february/), but this is not a meaningful way to tell us you wish to attend.  It's just for the lols, innit?
