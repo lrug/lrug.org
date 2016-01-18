@@ -29,7 +29,8 @@ Once again our February meeting is given over to lightning talks of no more than
   > own awesome pull requests.
 
 * [Chris Blackburn](https://github.com/chrisblackburn) - "Continuous Feedback"
-  > TBC
+  > How we left behind old-fashioned performance reviews by applying the things
+  > we're taught to value in modern software delivery to our people.
 
 * [Dave Nolan](http://kapoq.com/) - "A tour of [`Enumerable`](http://ruby-doc.org/core-2.3.0/Enumerable.html)"
   > TBC
