@@ -35,6 +35,11 @@ Once again our February meeting is given over to lightning talks of no more than
 * [Dave Nolan](http://kapoq.com/) - "A tour of [`Enumerable`](http://ruby-doc.org/core-2.3.0/Enumerable.html)"
   > TBC
 
+* [Peter Saxton](https://twitter.com/crowdhailer) - "Building with domain concepts."
+  > All useful software is applied to a particular problem domain. This talk
+  > will encourage the use of value objects to better model a programs problem
+  > domain.
+
 * [Tomas Valent](http://www.eq8.eu/) - "Web Developer Life Hacks"
   > In this talk we will have a look on some alternative work environment
   > setups that will help Web Developers to improve productivity.
