@@ -32,8 +32,11 @@ Once again our February meeting is given over to lightning talks of no more than
   > How we left behind old-fashioned performance reviews by applying the things
   > we're taught to value in modern software delivery to our people.
 
-* [Dave Nolan](http://kapoq.com/) - "A tour of [`Enumerable`](http://ruby-doc.org/core-2.3.0/Enumerable.html)"
-  > TBC
+* [Dave Nolan](http://kapoq.com/) - "ENUMERABLE!"
+  > 10 real-life problems solved with 10 cool lesser-known methods from [`Enumerable`](http://ruby-doc.org/core-2.3.0/Enumerable.html), [`Enumerator`](http://ruby-doc.org/core-2.3.0/Enumerator.html)Enumerator, and [`Array`](http://ruby-doc.org/core-2.3.0/Array.html).
+
+* [Najaf Ali](https://twitter.com/alinajaf) - "How to use focused reading to become a better developer"
+  > Covering basic study skills and how to apply them to develop deeper technical knowledge.
 
 * [Peter Saxton](https://twitter.com/crowdhailer) - "Building with domain concepts."
   > All useful software is applied to a particular problem domain. This talk
