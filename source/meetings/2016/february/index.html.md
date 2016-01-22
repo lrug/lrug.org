@@ -58,14 +58,14 @@ Once again our February meeting is given over to lightning talks of no more than
   >
   > Some related articles:
   >
-  > * http://www.eq8.eu/blogs/18-chromebook-for-web-developers
-  > * https://www.youtube.com/watch?v=sDQ8-LmWbow
+  > * [http://www.eq8.eu/blogs/18-chromebook-for-web-developers](http://www.eq8.eu/blogs/18-chromebook-for-web-developers)
+  > * [https://www.youtube.com/watch?v=sDQ8-LmWbow](https://www.youtube.com/watch?v=sDQ8-LmWbow)
 
 * [Tom Cartwright](http://www.tomcartwright.net/) - "Psychology of programming: A very short introduction"
   
   > The psychology of programming is field of research that deals with the
   > psychological aspects of writing computer programs. (see
-  > https://en.wikipedia.org/wiki/Psychology_of_programming). This is a short
+  > [https://en.wikipedia.org/wiki/Psychology_of_programming](https://en.wikipedia.org/wiki/Psychology_of_programming). This is a short
   > introduction to the subject with a précis of the current research and few
   > reckons thrown in for good measure.
 
