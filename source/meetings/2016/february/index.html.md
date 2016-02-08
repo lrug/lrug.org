@@ -22,37 +22,33 @@ Agenda
 Once again our February meeting is given over to lightning talks of no more than 10 minutes.  This year we have:
 
 * [Charlotte Spencer](http://www.charlotteis.co.uk/) - "Making your first pull request"
-  
+
   > Your First PR is an initiative with a goal to get people involved in making
   > pull requests to other open source projects. In this talk you will be
   > introduced to Your First PR as a project, discover where you can find
   > starter issues to work on, and learn how you can help others to make their
   > own awesome pull requests.
 
-* [Chris Blackburn](https://github.com/chrisblackburn) - "Continuous Feedback"
-    
-  > How we left behind old-fashioned performance reviews by applying the things
-  > we're taught to value in modern software delivery to our people.
-
 * [Dave Nolan](http://kapoq.com/) - "ENUMERABLE!"
-    
-  > 10 real-life problems solved with 10 cool lesser-known methods from 
-  > [`Enumerable`](http://ruby-doc.org/core-2.3.0/Enumerable.html), 
-  > [`Enumerator`](http://ruby-doc.org/core-2.3.0/Enumerator.html), 
+
+  > 10 real-life problems solved with 10 cool lesser-known methods from
+  > [`Enumerable`](http://ruby-doc.org/core-2.3.0/Enumerable.html),
+  > [`Enumerator`](http://ruby-doc.org/core-2.3.0/Enumerator.html),
   > and [`Array`](http://ruby-doc.org/core-2.3.0/Array.html).
 
-* [Najaf Ali](https://twitter.com/alinajaf) - "How to use focused reading to become a better developer"
-    
-  > Covering basic study skills and how to apply them to develop deeper technical knowledge.
+* [Fareed Dudhia](https://twitter.com/fmdud) - "Rails & Docker for Development: No Mess, No Fuss"
+
+  > Getting set up and used to using Docker for our local development
+  > environment in minutes.
 
 * [Peter Saxton](https://twitter.com/crowdhailer) - "Building with domain concepts."
-  
+
   > All useful software is applied to a particular problem domain. This talk
   > will encourage the use of value objects to better model a programs problem
   > domain.
 
 * [Tomas Valent](http://www.eq8.eu/) - "Web Developer Life Hacks"
-  
+
   > In this talk we will have a look on some alternative work environment
   > setups that will help Web Developers to improve productivity.
   >
@@ -62,7 +58,7 @@ Once again our February meeting is given over to lightning talks of no more than
   > * [https://www.youtube.com/watch?v=sDQ8-LmWbow](https://www.youtube.com/watch?v=sDQ8-LmWbow)
 
 * [Tom Cartwright](http://www.tomcartwright.net/) - "Psychology of programming: A very short introduction"
-  
+
   > The psychology of programming is field of research that deals with the
   > psychological aspects of writing computer programs. (see
   > [https://en.wikipedia.org/wiki/Psychology_of_programming](https://en.wikipedia.org/wiki/Psychology_of_programming). This is a short
@@ -70,7 +66,7 @@ Once again our February meeting is given over to lightning talks of no more than
   > reckons thrown in for good measure.
 
 * [Tom Stuart](http://codon.com) - "Automatic differentiation in Ruby"
-  
+
   > Finding the derivative of a mathematical function on a computer can be
   > difficult, but there’s a clever trick that makes it easy: first write a
   > program that computes the function, then execute it under a non-standard
