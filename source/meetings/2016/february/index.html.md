@@ -41,6 +41,12 @@ Once again our February meeting is given over to lightning talks of no more than
   > Getting set up and used to using Docker for our local development
   > environment in minutes.
 
+* [Melinda Seckington](https://www.missgeeky.com) - "Imposter Syndrome: How we act and work together"
+
+  > Often when we talk about imposter syndrome in developers, we look at what
+  > the individual can do to stop it from happening. In this talk, I'll look
+  > at what we can do as a team.
+
 * [Peter Saxton](https://twitter.com/crowdhailer) - "Building with domain concepts."
 
   > All useful software is applied to a particular problem domain. This talk
