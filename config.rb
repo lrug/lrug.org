@@ -15,7 +15,7 @@ meeting_years = Dir['source/meetings/*'].each.with_object([]) do |meeting_child,
   name = meeting_child.split('/').last
   years << name if name =~ /\A\d{4}\Z/
 end
-set :years, meeting_years
+set :years, meeting_years.sort
 
 require "lib/lrug_helpers"
 helpers LRUGHelpers
