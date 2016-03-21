@@ -8,7 +8,7 @@ created_by:
 category: meeting
 title: April 2016 Meeting
 updated_at:
-published_at: 2016-03-16 14:22:06 +0000
+published_at: 2016-03-16 21:32:46 +0000
 created_at: 2016-03-16 21:05:11 +0000
 parts: {}
 status: Published
