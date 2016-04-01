@@ -52,7 +52,7 @@ Agenda
 Afterwards
 ----------
 
-These talks shouls end around about 8pm.  The night isn't over at that point though; many other attendees will be hanging around and it's a good chance to chat about things raised in the talks, or just to meet up with other rubyists and discuss what's been going on in the ruby scene.  If you'd like to continue chatting to other attendees you have a choice:
+These talks should end around about 8pm.  The night isn't over at that point though; many other attendees will be hanging around and it's a good chance to chat about things raised in the talks, or just to meet up with other rubyists and discuss what's been going on in the ruby scene.  If you'd like to continue chatting to other attendees you have a choice:
 
 1. Stay at Code Node where Skills Matter have a cash bar and you can mingle with attendees of other meetups held that night.
 2. Head over to [the Singer Tavern](http://singertavern.com/) (located at [1 City Road, EC1Y 1AG](https://goo.gl/maps/w9kPu)) where you can get some food to chew over along with the discussions spurred by the talks.
