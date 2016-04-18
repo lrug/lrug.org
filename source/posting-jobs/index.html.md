@@ -1,10 +1,10 @@
---- 
+---
 published_at: 2012-01-18 00:00:00 Z
 title: Posting Jobs
 created_at: 2012-01-18 13:43:49 Z
 updated_at: 2013-02-12 23:09:34 Z
 status: Published
-created_by: 
+created_by:
   email: james@lazyatom.com
   name: James Adam
 ---
@@ -18,6 +18,8 @@ Alas, there are some people who are definitely not interested in any opportuniti
 ## Be as specific as possible
 
 Using vague phrases like "I have an opportunity at a high-profile Ruby company paying market rates" is likely to trigger a negative reaction in our members. You'll get much more respect if you provide as much detail as possible, including specifics about the company, what they do, and why they are hiring. Include information about _where_ the job is geographically, and whether or not the company would consider remote work.
+
+Say if you the job is for contract or permanent position, or both. If you are looking to fill a contract position mention the expected duration of the contract.
 
 ## Come to LRUG
 
