@@ -308,6 +308,22 @@
     }
   },
   {
+    "name":"Pusher",
+    "url":"https://pusher.com/",
+    "logo":{
+      "sidebar":{
+        "url":"http://assets.lrug.org/images/pusher_logo-small.png",
+        "width":"120",
+        "height":"37"
+      },
+      "main":{
+        "url":"http://assets.lrug.org/images/pusher_logo-medium.png",
+        "width":"260",
+        "height":"81"
+      }
+    }
+  },
+  {
     "name":"QCon",
     "url":"http://qconlondon.com",
     "logo":{
