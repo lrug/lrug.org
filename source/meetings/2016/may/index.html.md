@@ -23,7 +23,7 @@ Agenda
 
 ### The Art of Code Review
 
-[John Cinnamond](ttps://twitter.com/jcinnamond) says:
+[John Cinnamond](https://twitter.com/jcinnamond) says:
 
 > Most of us do some form of code review, increasingly often through pull
 > requests. Done well it can be a great tool for improving quality, sharing
