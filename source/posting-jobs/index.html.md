@@ -13,7 +13,7 @@ So, you're wondering if someone in the illustrious LRUG community might be able 
 
 ## Put `[JOBS]` in the subject
 
-Alas, there are some people who are definitely not interested in any opportunities. You can help them by adding `[JOBS]` to the start of your subject line, which they can then use to filter your email appropriate.
+Alas, there are some people who are definitely not interested in any opportunities. You can help them by adding `[JOBS]` to the start of your subject line, which they can then use to filter your email appropriate. __Please use "[JOBS]" exactly, in uppercase, surrounded by square brackets.__
 
 ## Be as specific as possible
 
