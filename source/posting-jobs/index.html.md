@@ -17,7 +17,7 @@ Alas, there are some people who are definitely not interested in any opportuniti
 
 ## Be as specific as possible
 
-Using vague phrases like "I have an opportunity at a high-profile Ruby company paying market rates" is likely to trigger a negative reaction in our members. You'll get much more respect if you provide as much detail as possible, including specifics about the company, what they do, and why they are hiring.
+Using vague phrases like "I have an opportunity at a high-profile Ruby company paying market rates" is likely to trigger a negative reaction in our members. You'll get much more respect if you provide as much detail as possible, including specifics about the company, what they do, and why they are hiring. Include information about _where_ the job is geographically, and whether or not the company would consider remote work.
 
 ## Come to LRUG
 
