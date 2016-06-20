@@ -27,10 +27,8 @@ Agenda
 > Hello and welcome to the Ruby Book Club! We’re delighted that you could join
 > us.
 >
-> We’re going to pick up from where we left off last week. If memory serves me
-> correctly, we’re starting with section 4.9 in [Avdi Grimm’s
-> ‘Confident Ruby’](http://www.confidentruby.com/): Replace “string typing”
-> with classes.
+> Today we’re starting with section 4.9 in [Avdi Grimm’s ‘Confident
+> Ruby’](http://www.confidentruby.com/): Replace “string typing” with classes.
 >
 > As always, it doesn’t matter if you haven’t found time to do the reading. At
 > the Ruby Book Club, we like to make sure that everyone is on the same page.
