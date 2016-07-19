@@ -19,8 +19,7 @@ The July 2016 meeting of LRUG will be on *Monday the 11th of July*, from 6:00pm 
 Agenda
 ------
 
-
-## Ruby Book Club
+### Ruby Book Club
 
 [Nadia Odunayo](https://twitter.com/nodunayo) is going to treat us to a "live" episode of her podcast [Ruby Book Club](http://rubybookclub.com/):
 
@@ -33,7 +32,7 @@ Agenda
 > As always, it doesn’t matter if you haven’t found time to do the reading. At
 > the Ruby Book Club, we like to make sure that everyone is on the same page.
 
-## Documenting Ruby APIs
+### Documenting Ruby APIs
 
 [Tom Kadwill](https://twitter.com/tomkadwill) says this about his talk:
 
@@ -41,7 +40,7 @@ Agenda
 > documentation tools available for Ruby. I'll explain how you can use them to
 > generate API documentation for your own projects.
 
-## Integrating React into a Rails application
+### Integrating React into a Rails application
 
 [Edd Sowden](https://twitter.com/edds) is going to tell us all about React and Rails:
 
