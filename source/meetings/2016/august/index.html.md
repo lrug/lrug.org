@@ -41,6 +41,12 @@ Agenda
 > and lessons from Marvel superheroes, this talk will help you become the type
 > of developer that amplifies and helps others.
 
+### Tell, Don’t Ask
+
+[John Cinnamond](https://twitter.com/jcinnamond) has a deleted-scene from his Brighton Ruby talk on OO programming to share with us:
+
+> Everything you ever need to know about how to write the most wonderful code, in 10 minutes.
+
 Afterwards
 ----------
 
