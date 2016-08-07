@@ -4,6 +4,7 @@
     <%
       the_url = URI.join('http://lrug.org/', url_for(current_page))
       the_title = "#{page_title} | London Ruby User Group"
+      the_description = generate_description
     %>
 
     <meta charset="utf-8">
@@ -25,7 +26,7 @@
     <!-- Facebook OpenGraph tags -->
     <meta property="og:url" content="<%= the_url %>" />
     <meta property="og:title" content="<%= the_title %>" />
-    <meta property="og:description" content="Words about the page" />
+    <meta property="og:description" content="<%= the_description %>" />
     <meta property="og:site_name" content="LRUG" />
     <meta property="og:image" content="http://assets.lrug.org/images/el-rug-sidebar.png" />
 
@@ -33,7 +34,7 @@
     <meta name="twitter:card" content="summary" />
     <meta name="twitter:site" content="@lrug" />
     <meta name="twitter:title" content="<%= the_title %>" />
-    <meta name="twitter:description" content="Words about the page" />
+    <meta name="twitter:description" content="<%= the_description %>" />
     <meta name="twitter:image" content="http://assets.lrug.org/images/el-rug-sidebar.png" />
     <meta name="twitter:url" content="<%= the_url %>" />
 
