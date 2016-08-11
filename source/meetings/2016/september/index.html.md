@@ -23,7 +23,7 @@ Agenda
 
 [Josh Hill](https://twitter.com/jamesjoshuahill) wants to share his experiences with pair-programming:
 
-> Josh heard about pair programming a few years ago and tried it a few of
+> Josh heard about pair programming a few years ago and tried it a few
 > times. Last year, he jumped in and started pairing full-time. Working so
 > closely with clients, colleagues, juniors and seniors was challenging. Now he
 > enjoys pairing more than flying solo and has seen the benefits for himself
