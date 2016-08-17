@@ -39,7 +39,7 @@ Agenda
 
 ### Not working together
 
-[Gerhard Lazu[(https://twitter.com/gerhardlazu) asks:
+[Gerhard Lazu](https://twitter.com/gerhardlazu) asks:
 
 > How does a small team spread across London & Omaha set up a global
 > production infrastructure while not working together?
