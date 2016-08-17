@@ -37,9 +37,12 @@ Agenda
 > Patterns and anti-patterns for when you're replacing your entire codebase,
 > and reasons why doing that is (usually) a very bad idea.
 
-### You?
+### Not working together
 
-There's a 10 minute slot still available so [get in touch](http://readme.lrug.org/#talks) if you'd like to fill these spare minutes.
+[Gerhard Lazu[(https://twitter.com/gerhardlazu) asks:
+
+> How does a small team spread across London & Omaha set up a global
+> production infrastructure while not working together?
 
 Afterwards
 ----------
