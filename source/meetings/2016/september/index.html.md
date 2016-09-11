@@ -10,6 +10,8 @@ title: September 2016 Meeting
 updated_at:
 published_at: 2016-08-19 17:01:22 +0100
 created_at: 2016-08-11 09:31:32 +0100
+sponsors:
+  - :name: Hired
 parts: {}
 status: Published
 ---
@@ -43,6 +45,23 @@ Agenda
 
 > How does a small team spread across London & Omaha set up a global
 > production infrastructure while not working together?
+
+### Book Giveaway
+
+{::sponsor name="Hired" size="main" /}
+
+The nice people at [Hired](https://hired.co.uk/?utm_source=events&utm_medium=lurg16)
+have arranged a giveaway of twenty books to lucky LRUG members.  The winners
+will be able to choose one of the following books as their prize:
+
+* [“99 Bottles of OOP”](http://www.sandimetz.com/99bottles/) by [Sandi Metz](http://www.sandimetz.com/) and [Katrina Owen](http://kytrinyx.com/)
+* [“Confident Ruby”](http://www.confidentruby.com/) by [Avdi Grimm](http://avdi.org/)
+
+If you'd like the chance to be one of twenty winners visit [this online form](https://goo.gl/forms/mfs7Zplsg96VpWBD3)
+and enter your name, email address, and choice of book. The form opens on
+*Tuesday, 13th September* and will be open until *1pm on Tuesday, 20th September 2016*.
+
+Thanks [Hired](https://hired.co.uk/?utm_source=events&utm_medium=lurg16)!
 
 Afterwards
 ----------
