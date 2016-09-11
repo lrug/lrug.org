@@ -196,6 +196,22 @@
     }
   },
   {
+    "name":"Hired",
+    "url":"https://hired.co.uk/?utm_source=events&utm_medium=lurg16",
+    "logo": {
+      "sidebar": {
+        "url":"http://assets.lrug.org/images/hired_logo_small.png",
+        "width":"120",
+        "height":"24"
+      },
+      "main": {
+        "url":"http://assets.lrug.org/images/hired_logo_medium.png",
+        "width":"260",
+        "height":"52"
+      }
+    }
+  },
+  {
     "name":"House Trip",
     "url":"http://www.housetrip.com/",
     "logo": {
