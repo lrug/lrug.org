@@ -58,8 +58,9 @@ will be able to choose one of the following books as their prize:
 * [“Confident Ruby”](http://www.confidentruby.com/) by [Avdi Grimm](http://avdi.org/)
 
 If you'd like the chance to be one of twenty winners visit [this online form](https://goo.gl/forms/mfs7Zplsg96VpWBD3)
-and enter your name, email address, and choice of book. The form opens on
-*Tuesday, 13th September* and will be open until *1pm on Tuesday, 20th September 2016*.
+and enter your name, email address, and choice of book. The form opens in *the
+evening of Monday, 13th September* and will be open until *1pm on Tuesday, 20th
+September 2016*.
 
 Thanks [Hired](https://hired.co.uk/?utm_source=events&utm_medium=lurg16)!
 
