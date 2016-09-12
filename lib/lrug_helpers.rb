@@ -1,4 +1,22 @@
+require 'nokogiri'
+
 module LRUGHelpers
+  def generate_description(for_page = current_page)
+    extracted = _extract_description_from_page(for_page)
+    extracted.presence || "An exciting page about #{page_title(for_page)} as it relates to the London Ruby User Group."
+  end
+
+  private
+  def _extract_description_from_page(for_page)
+    rendered = for_page.render layout: false
+
+    doc = Nokogiri::HTML::DocumentFragment.parse(rendered)
+    doc.css('p').first.text
+  rescue
+    ''
+  end
+  public
+
   def page_title(for_page = current_page)
     yield_content(:title) || for_page.data.title
   end

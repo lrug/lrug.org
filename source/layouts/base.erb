@@ -1,13 +1,19 @@
 <!doctype html>
 <html>
   <head>
+    <%
+      the_url = URI.join('http://lrug.org/', url_for(current_page))
+      the_title = "#{page_title} | London Ruby User Group"
+      the_description = generate_description
+    %>
+
     <meta charset="utf-8">
 
     <!-- Always force latest IE rendering engine or request Chrome Frame -->
     <meta content="IE=edge,chrome=1" http-equiv="X-UA-Compatible">
 
     <!-- Use title if it's in the page YAML frontmatter -->
-    <title><%= page_title %> | London Ruby User Group</title>
+    <title><%= the_title %></title>
 
     <link href="<%= rss_path %>" rel="alternate" title="RSS" type="application/rss+xml" />
     <link rel="shortcut icon" href="http://assets.lrug.org/favicon.ico" />
@@ -15,6 +21,23 @@
 
     <%= stylesheet_link_tag "normalize", "all" %>
     <%= javascript_include_tag  "all" %>
+
+
+    <!-- Facebook OpenGraph tags -->
+    <meta property="og:url" content="<%= the_url %>" />
+    <meta property="og:title" content="<%= the_title %>" />
+    <meta property="og:description" content="<%= the_description %>" />
+    <meta property="og:site_name" content="LRUG" />
+    <meta property="og:image" content="http://assets.lrug.org/images/el-rug-sidebar.png" />
+
+    <!-- Twitter Card tags -->
+    <meta name="twitter:card" content="summary" />
+    <meta name="twitter:site" content="@lrug" />
+    <meta name="twitter:title" content="<%= the_title %>" />
+    <meta name="twitter:description" content="<%= the_description %>" />
+    <meta name="twitter:image" content="http://assets.lrug.org/images/el-rug-sidebar.png" />
+    <meta name="twitter:url" content="<%= the_url %>" />
+
   </head>
 
   <body class="<%= page_classes %>">
