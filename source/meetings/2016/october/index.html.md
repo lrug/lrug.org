@@ -15,7 +15,7 @@ status: Draft
 ---
 
 The October 2016 meeting of LRUG will be on *Monday the 10th of October*, from
-6:00pm to 8:00pm (talks start at 6:30pm).  The venue, [Code
+_6:45pm_ to _8:45pm_ (talks start at _7:15pm_).  The venue, [Code
 Node](https://skillsmatter.com/locations/264-skills-matter-codenode) between
 Moorgate and Liverpool St. stations, is provided by [Skills
 Matter](http://www.skillsmatter.com).  [Full venue and registration details
@@ -67,7 +67,7 @@ her team got on with mob-programming:
 Afterwards
 ----------
 
-Our talks will be done by 8pm after which you can find LRUG attendees in one
+Our talks will be done by 8:45pm after which you can find LRUG attendees in one
 of these venues:
 
 1. The downstairs area at Code Node.  Skills Matter have a cash bar with a
