@@ -19,7 +19,7 @@ _6:45pm_ to _8:45pm_ (talks start at _7:15pm_).  The venue, [Code
 Node](https://skillsmatter.com/locations/264-skills-matter-codenode) between
 Moorgate and Liverpool St. stations, is provided by [Skills
 Matter](http://www.skillsmatter.com).  [Full venue and registration details
-are given below](#sep16registration).
+are given below](#oct16registration).
 
 Agenda
 ------
