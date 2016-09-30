@@ -8,10 +8,10 @@ created_by:
 category: meeting
 title: October 2016 Meeting
 updated_at:
-published_at:
+published_at: 2016-09-30 13:04:16 +0100
 created_at: 2016-09-21 21:34:53 +0100
 parts: {}
-status: Draft
+status: Published
 ---
 
 The October 2016 meeting of LRUG will be on *Monday the 10th of October*, from
@@ -99,11 +99,11 @@ The address of the venue:
 ### Registration
 
 To secure a place at the meeting you *must* [register with our hosts
-Skills Matter](#TBC).  It helps to make sure we have the room laid out
+Skills Matter](https://skillsmatter.com/meetups/8500-development-re-bundling-in-dockerland-and-a-month-of-i18n-in-10-minutes).  It helps to make sure we have the room laid out
 with enough chairs, and in extreme cases that we get priority on the
 larger rooms over other groups using the space on the same night.  Also,
 it's good manners, so please do [register with Skills
-Matter](#TBC).
+Matter](https://skillsmatter.com/meetups/8500-development-re-bundling-in-dockerland-and-a-month-of-i18n-in-10-minutes).
 
 You can also find [this meeting on lanyrd](http://lanyrd.com/2016/lrug-october/),
 but this is not a meaningful way to tell us you wish to attend.  We mostly
