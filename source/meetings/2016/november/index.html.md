@@ -15,7 +15,10 @@ status: Published
 ---
 
 The November 2016 meeting of LRUG will be on *__Tuesday__ the 15th of November*, from
-_6:00pm_ to _8:00pm_ (talks start at _6:30pm_).  The venue, [Code
+_6:00pm_ to _8:00pm_ (talks start at _6:30pm_).  Please note that this meeting does
+not conform to our usual schedule and is being held on a __Tuesday__.
+
+The venue, [Code
 Node](https://skillsmatter.com/locations/264-skills-matter-codenode) between
 Moorgate and Liverpool St. stations, is provided by [Skills
 Matter](http://www.skillsmatter.com).  [Full venue and registration details
@@ -42,7 +45,7 @@ Agenda
 >
 > In this talk we will configure simple Rails app, wrap it in a Docker container
 > and ship it to AWS EB setup. We will also play around with some configuration
-> options in order to squeeze maximum out of it.
+> options in order to squeeze maximum performance out of it.
 
 ### You?
 
