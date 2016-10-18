@@ -44,8 +44,8 @@ Agenda
 > to setup load balanced environment of EC2 instances.
 >
 > In this talk we will configure simple Rails app, wrap it in a Docker container
-> and ship it to AWS EB setup. We will also play around with some configuration
-> options in order to squeeze maximum performance out of it.
+> and ship it to AWS EB setup.  We will look at some awesome configuration 
+> options.
 
 ### You?
 
