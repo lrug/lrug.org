@@ -47,12 +47,16 @@ Agenda
 > and ship it to AWS EB setup.  We will look at some awesome configuration 
 > options.
 
-### You?
+### Where does my code go? - Rails Edition
 
-There is space for a another 25 minute talk, or a couple of 10 minute talks. If
-you've got something you'd like to shared with LRUG please [check out the
-talks section of our readme](http://readme.lrug.org/#talks) and [get in
-touch](mailto:murray.steele@lrug.org)!
+Michael Lennox says:
+
+> While Rails provides us a great platform for rapid application development
+> it doesn't give us much guidance on where to start placing common
+> abstractions once our domain complexity grows. This talk isn't about the
+> 'architecture astronaut' or fighting rails to implement 'better' patterns,
+> it's a really basic intro to some of the layers you can implement tomorrow
+> to compartmentalise your code without having to fight the framework.
 
 Afterwards
 ----------
