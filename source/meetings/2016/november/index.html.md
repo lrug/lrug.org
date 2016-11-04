@@ -11,6 +11,8 @@ updated_at:
 published_at: 2016-10-17 13:20:16 +0100
 created_at: 2016-10-17 12:54:32 +0100
 parts: {}
+sponsors:
+  - :name: Cogent
 status: Published
 ---
 
@@ -44,7 +46,7 @@ Agenda
 > to setup load balanced environment of EC2 instances.
 >
 > In this talk we will configure simple Rails app, wrap it in a Docker container
-> and ship it to AWS EB setup.  We will look at some awesome configuration 
+> and ship it to AWS EB setup.  We will look at some awesome configuration
 > options.
 
 ### Where does my code go? - Rails Edition
@@ -57,6 +59,18 @@ Michael Lennox says:
 > 'architecture astronaut' or fighting rails to implement 'better' patterns,
 > it's a really basic intro to some of the layers you can implement tomorrow
 > to compartmentalise your code without having to fight the framework.
+
+### Food and Drinks
+
+{::sponsor name="Cogent" size="main" /}
+
+The nice people at [Cogent](http://cogent.co/) have arranged to provide us
+with some pizza and drinks.  These will be available before the meeting in
+the Skilss Matter downstairs bar area, so there's even more reasons to turn
+up early.  Cogent are a software agency in Melbourne, Australia, and are
+looking to hire ruby devs, if you're interested they'll help you relocate.
+
+Thanks for supporting us [Cogent](http://cogent.co)!
 
 Afterwards
 ----------

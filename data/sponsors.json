@@ -116,6 +116,22 @@
     }
   },
   {
+    "name":"Cogent",
+    "url":"http://cogent.co",
+    "logo": {
+      "sidebar":{
+        "url":"http://assets.lrug.org/images/cogent_logo_small.png",
+        "width":"120",
+        "height":"120"
+      },
+      "main":{
+        "url":"http://assets.lrug.org/images/cogent_logo_medium.png",
+        "width":"260",
+        "height":"260"
+      }
+    }
+  },
+  {
     "name":"container.camp",
     "url":"https://container.camp",
     "logo": {
