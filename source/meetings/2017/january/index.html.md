@@ -24,11 +24,11 @@ are given below](#jan17registration).
 Agenda
 ------
 
-### A developers misadventures in business
+### A developer's misadventures in business
 
 [Najaf Ali](https://twitter.com/alinajaf) says:
 
-> I am developer who started a web application development consultancy. This
+> I am a developer who started a web application development consultancy. This
 > talk is about the story of the business so far, some business basics I had
 > to learn for the business to survive, and things you can do to better
 > understand business, whether or not you intend to start one yourself.
