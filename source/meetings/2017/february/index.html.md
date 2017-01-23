@@ -3,8 +3,8 @@ updated_by:
   email: murray.steele@gmail.com
   name: Murray Steele
 created_by:
-  email: tom.stuart@codon.com
-  name: Murray Steele
+  email: tom@codon.com
+  name: Tom Stuart
 category: meeting
 title: February 2017 Meeting
 updated_at:
