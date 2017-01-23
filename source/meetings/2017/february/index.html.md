@@ -3,12 +3,12 @@ updated_by:
   email: murray.steele@gmail.com
   name: Murray Steele
 created_by:
-  email: murray.steele@gmail.com
+  email: tom.stuart@codon.com
   name: Murray Steele
 category: meeting
 title: February 2017 Meeting
 updated_at:
-published_at: 2017-01-23 09:18:20 +0000
+published_at: 2017-01-23 10:33:12 +0000
 created_at: 2017-01-23 09:18:20 +0000
 parts: {}
 status: Published
@@ -24,11 +24,12 @@ given below](#feb17registration).
 Agenda
 ------
 
-As is traditional, our February meeting consists entirely of lightning talks of no more than 10 minutes.  This year we have:
+As is traditional, our February meeting consists entirely of lightning talks of
+no more than 10 minutes.  This year we have:
 
 ### A way to think about bugs
 
-Amy Phillips says:
+[Amy Phillips](https://twitter.com/itjustbroke) says:
 
 > Bugs. Bugs reports. Jira. Dirty, dirty words. Or are they? In this
 > alternative view of bugs we'll see how bug reports can be turned into
@@ -38,14 +39,14 @@ Amy Phillips says:
 
 ### Doing bad things in Postgres for fun and profit
 
-Ryan MacGillivray says:
+[Ryan MacGillivray](https://twitter.com/RyanMacG) says:
 
 > A brief glimpse at the unwise things you can do with the Postgres array
 > datatype.
 
 ### A (Pointed) Guide to Beer
 
-Kaitlyn Tierney says:
+[Kaitlyn Tierney](https://twitter.com/krtierney) says:
 
 > There are hundreds of beer styles from all over the world. This very brief
 > introduction to beer will enumerate a few of them: how they’re made, what
@@ -53,7 +54,7 @@ Kaitlyn Tierney says:
 
 ### Logstash: JRuby and Java at Elastic
 
-Guy Boertje says:
+[Guy Boertje](https://twitter.com/guyboertje) says:
 
 > I will talk for a bit about what it is like to develop
 > [Logstash](https://www.elastic.co/products/logstash), a data ingestion
@@ -63,13 +64,13 @@ Guy Boertje says:
 
 ### Small Steps to Finding Your Dream Job
 
-Lola Odelola says:
+[Lola Odelola](https://twitter.com/lolaodelola) says:
 
 > A few tips on how to find a job you'll love
 
 ### Base WTF
 
-Paul Battley says:
+[Paul Battley](https://twitter.com/threedaymonk) says:
 
 > If you've done much programming, you've probably worked with binary,
 > hexadecimal, and perhaps octal in addition to normal decimal numbers. But
@@ -77,6 +78,20 @@ Paul Battley says:
 > digit can be positive or negative? Why would you even want to do that? It
 > really exists, it's called Balanced Ternary, and it has some interesting
 > properties.
+
+### My Live Coding Adventure
+
+[Rosa Fox](https://twitter.com/rosaemerald) says:
+
+> An experiment to see if live coding can make me a better developer.
+
+### Ch-ch-ch-ch-Changes: Avoiding mutable state in Ruby and why you might want to.
+
+[Tom Wey](https://twitter.com/tjmwy) says:
+
+> A few examples and techniques for avoiding mutable state in Ruby, and
+> how this might make your code clearer and easier to test. Slightly
+> inspired by getting more into functional programming languages.
 
 Afterwards
 ----------
