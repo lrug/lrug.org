@@ -74,7 +74,7 @@ no more than 10 minutes.  This year we have:
 
 > If you've done much programming, you've probably worked with binary,
 > hexadecimal, and perhaps octal in addition to normal decimal numbers. But
-> what about base three? And what about bass three with a twist, where each
+> what about base three? And what about base three with a twist, where each
 > digit can be positive or negative? Why would you even want to do that? It
 > really exists, it's called Balanced Ternary, and it has some interesting
 > properties.
