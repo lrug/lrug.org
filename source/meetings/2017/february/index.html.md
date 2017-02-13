@@ -81,7 +81,7 @@ no more than 10 minutes.  This year we have:
 
 ### <strike>My Live Coding Adventure</strike>
 
-<strike>[Rosa Fox](https://twitter.com/rosaemerald) says:</strike>
+<strike><a href="https://twitter.com/rosaemerald">Rosa Fox</a> says:</strike>
 
 > <strike>An experiment to see if live coding can make me a better developer.</strike>
 
