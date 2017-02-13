@@ -79,11 +79,13 @@ no more than 10 minutes.  This year we have:
 > really exists, it's called Balanced Ternary, and it has some interesting
 > properties.
 
-### My Live Coding Adventure
+### <strike>My Live Coding Adventure</strike>
 
-[Rosa Fox](https://twitter.com/rosaemerald) says:
+<strike>[Rosa Fox](https://twitter.com/rosaemerald) says:</strike>
 
-> An experiment to see if live coding can make me a better developer.
+> <strike>An experiment to see if live coding can make me a better developer.</strike>
+
+Rosa has had to cancel due to illness, we hope to reschedule her talk for a later meeting.
 
 ### Ch-ch-ch-ch-Changes: Avoiding mutable state in Ruby and why you might want to.
 
