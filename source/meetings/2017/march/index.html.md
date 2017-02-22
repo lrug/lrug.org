@@ -53,9 +53,9 @@ Afterwards
 ----------
 
 We aim to finish up the talks and formal part of the meeting by 8pm, but that
-doesn't mean you have to go home.  There's bound to be something to talk about
-after all those talks and we have two options for winding down the evening and
-chatting to other LRUG attendees:
+doesn't mean you have to go home.  Why not celebrate our headlong rush towards
+the vernal equinox by selecting one of two very fine options for winding down
+the evening and chatting to other LRUG attendees:
 
 1. Code Node.  Skills Matter run a cash bar with a
    choice of drinks (hard and soft) available.  As well as other LRUG members
