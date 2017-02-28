@@ -25,7 +25,7 @@ Agenda
 ------
 
 After the flurry of February's traditional lightning talks, we're back to the
-regular format, with two talks for your enjoyment:
+regular format, with three talks for your enjoyment:
 
 ### Action Cable vs. MessageBus - Live updates tailored for Rails
 
