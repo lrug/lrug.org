@@ -104,4 +104,4 @@ the same night.  Also, it's good manners, so please do [register with Skills
 Matter][skills-matter-event].
 
 
-[skills-matter-event]: TODO UPDATE THIS
+[skills-matter-event]: https://skillsmatter.com/meetups/9352-mobile-journey-at-freeagent
