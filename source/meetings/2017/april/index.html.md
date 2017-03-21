@@ -39,11 +39,11 @@ our community:
 > whether the Asset Pipeline is a good fit for such an app.
 
 
-### TODO update this
+### Live Coding
 
 [Rosa Fox](https://twitter.com/rosaemerald)
 
-> ....
+> A whirlwind exploration of how ’going live’ either online (all the rage on social media!) or in the flesh is being applied to coding.
 
 ### Practical hypermedia APIs in Ruby
 
