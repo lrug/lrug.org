@@ -76,7 +76,7 @@ to other LRUG attendees in either of these locations:
 
 Regardless of what you choose to do, please remember that this part of the
 meeting is still covered by our [code of
-conduct](http://readme.lrug.org/#code-of-condut) even though it does seem more
+conduct](http://readme.lrug.org/#code-of-conduct) even though it does seem more
 informal.
 
 If for some reason you can't make the talks you're still more than welcome to
