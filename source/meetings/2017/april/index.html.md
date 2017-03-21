@@ -7,7 +7,7 @@ created_by:
   name: James Adam
 category: meeting
 title: April 2017 Meeting
-updated_at:
+updated_at: 2017-03-21 17:03:00 +0000
 created_at: 2017-03-16 17:01:00 +0000
 parts: {}
 status: Draft
@@ -43,7 +43,9 @@ our community:
 
 [Rosa Fox](https://twitter.com/rosaemerald)
 
-> A whirlwind exploration of how ’going live’ either online (all the rage on social media!) or in the flesh is being applied to coding.
+> A whirlwind exploration of how ’going live’ either online (all the rage on
+> social media!) or in the flesh is being applied to coding.
+
 
 ### Practical hypermedia APIs in Ruby
 
