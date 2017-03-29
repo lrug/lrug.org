@@ -10,6 +10,8 @@ title: April 2017 Meeting
 updated_at: 2017-03-21 17:03:00 +0000
 published_at: 2017-03-21 17:11:00 +0000
 created_at: 2017-03-16 17:01:00 +0000
+sponsors:
+  - :name: FreeAgent
 parts: {}
 status: Published
 ---
@@ -55,6 +57,12 @@ our community:
 > Ismael will share their experience building hypermedia APIs in Ruby.
 > What matters, what doesn’t, and what implications the approach might have
 > on the way you design server code, client implementations and documentation.
+
+### Ticket Giveaway
+
+{::sponsor name="FreeAgent" size="main" /}
+
+The nice people at [FreeAgent](https://freeagent.com/) have provided 3 tickets for [Brighton Ruby conference](http://brightonruby.com/), a one day, single track, conference for Rubyists in Brighton on the 7th July. The tickets are being raffled off on our [mailing list](/mailing-list).  Thanks [FreeAgent](https://freeagent.com/)!
 
 
 Afterwards

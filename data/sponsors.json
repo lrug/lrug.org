@@ -164,6 +164,22 @@
     }
   },
   {
+    "name":"FreeAgent",
+    "url":"http://www.freeagent.com/",
+    "logo": {
+      "sidebar": {
+        "url": "http://assets.lrug.org/images/freeagent_small.png",
+        "width":"120",
+        "height":"24"
+      },
+      "main":{
+        "url":"http://assets.lrug.org/images/freeagent_medium.png",
+        "width":"260",
+        "height":"52"
+      }
+    }
+  },
+  {
     "name":"Future Learn",
     "url":"http://futurelearn.com/",
     "logo":{
@@ -548,4 +564,3 @@
     }
   }
 ]
-
