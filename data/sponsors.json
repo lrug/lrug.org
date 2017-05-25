@@ -84,6 +84,22 @@
     }
   },
   {
+    "name":"BookingBug",
+    "url":"https://www.bookingbug.co.uk/",
+    "logo":{
+      "sidebar":{
+        "url":"http://assets.lrug.org/images/bookingbug_logo_small.jpeg",
+        "width":"120",
+        "height":"23"
+      },
+      "main":{
+        "url":"http://assets.lrug.org/images/bookingbug_logo_medium.jpeg",
+        "width":"260",
+        "height":"49"
+      }
+    }
+  },
+  {
     "name":"Braintree Payments",
     "url":"https://braintreepayments.com",
     "logo":{

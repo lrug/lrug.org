@@ -11,6 +11,8 @@ updated_at: 2017-05-25 19:00:00 +0000
 published_at: 2017-05-25 19:00:00 +0000
 created_at: 2017-05-25 19:00:00 +0000
 parts: {}
+sponsors:
+  - :name: BookingBug
 status: Published
 ---
 
@@ -45,6 +47,20 @@ Agenda
 [Hrishi Mittal](https://twitter.com/hrishio) says:
 
 > A quick look at a few ways of using React with Ruby on Rails. The pros and cons of using React inside Rails with gems or in a separate frontend app with a Rails API.
+
+### Food and Drinks
+
+{::sponsor name="BookingBug" size="main" /}
+
+The nice people at [BookingBug](https://www.bookingbug.co.uk/) have arranged to
+provide us with some pizza and drinks. These will be available before the
+meeting in the Skills Matter downstairs bar area. BookingBug is one of the UK's
+(and Europe's) fastest-growing tech companies, and they're proud of their great
+working culture and the learning & growth opportunities they offer. They're
+hiring and keen to speak with Ruby on Rails developers looking for their next
+challenge.
+
+Thanks for supporting us [BookingBug](https://www.bookingbug.co.uk/)!
 
 Afterwards
 ----------
