@@ -114,5 +114,5 @@ the same night.  Also, it's good manners, so please do [register with Skills
 Matter][skills-matter-event].
 
 
-[skills-matter-event]: https://skillsmatter.com/meetups/9626-london-ruby-june-meetup
+[skills-matter-event]: https://skillsmatter.com/meetups/9739-lrug-july-meetup
 [Nested]: http://www.nested.com
