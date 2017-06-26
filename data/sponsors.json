@@ -324,6 +324,22 @@
     }
   },
   {
+    "name":"Nested",
+    "url":"http://www.nested.com",
+    "logo": {
+      "sidebar": {
+        "url": "http://assets.lrug.org/images/nested_small.png",
+        "width":"120",
+        "height":"36"
+      },
+      "main": {
+        "url":"http://assets.lrug.org/images/nested_medium.png",
+        "width":"260",
+        "height":"78"
+      }
+    }
+  },
+  {
     "name":"O'Reilly",
     "url":"http://oreilly.com/",
     "logo":{
