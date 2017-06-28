@@ -11,8 +11,6 @@ updated_at: 2017-06-16 10:00:00 +0000
 published_at: 2017-06-26 10:00:00 +0000
 created_at: 2017-06-16 10:00:00 +0000
 parts: {}
-sponsors:
-  - :name: Nested
 status: Published
 ---
 
@@ -55,16 +53,6 @@ Agenda
 > This talk explores the virtues of Elixir processes and demonstrates how to work with them.
 >
 > Finally we will take a deeper dive into a real world example; constructing a capable webserver.
-
-### Food and Drinks
-
-{::sponsor name="Nested" size="main" /}
-
-The nice people at [Nested][] have arranged to
-provide us with some pizza and drinks. These will be available before the
-meeting in the Skills Matter downstairs bar area.
-
-Thanks for supporting us [Nested][]!
 
 Afterwards
 ----------
@@ -115,4 +103,3 @@ Matter][skills-matter-event].
 
 
 [skills-matter-event]: https://skillsmatter.com/meetups/9739-lrug-july-meetup
-[Nested]: http://www.nested.com
