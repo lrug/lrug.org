@@ -29,7 +29,7 @@ Agenda
 [Ken Fassone](https://twitter.com/nexusventuri)
 
 > Common gotchas, how to measure and improve performances when the database is
-> the bottleneck.
+> the bottleneck. More about it in this [blog post](https://medium.com/carwow-product-engineering/5-things-i-wish-my-grandfather-told-me-about-activerecord-and-postgres-93416faa09e7).
 
 
 ### A Brief (and incomplete) introduction to Rust (for Rubyists)
