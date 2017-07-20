@@ -11,6 +11,8 @@ updated_at: 2017-07-19 10:00:00 +0000
 published_at: 2017-07-19 13:00:00 +0000
 created_at: 2017-07-19 10:00:00 +0000
 parts: {}
+sponsors:
+  - :name: Nested
 status: Published
 ---
 
@@ -56,6 +58,22 @@ Oakley](https://twitter.com/dazoakley) want to explain GraphQL to us:
 > A brief exploration of the problems intrinsic to software project
 > management, and a couple of suggestions for how we coders can help
 > our non-technical colleagues get round them.
+
+
+### Food and Drinks
+
+{::sponsor name="Nested" size="main" /}
+
+The nice people at [Nested][] have arranged to provide us with some food
+and drinks. These will be available before the meeting in the Skills
+Matter downstairs bar area.
+
+[Nested][] is one of the UK’s (and Europe's) fastest-growing prop tech
+companies, and they're proud of their great working culture and the
+learning & growth opportunities they offer. They’re hiring and keen to
+speak with Ruby on Rails developers looking for their next challenge.
+
+Thanks for supporting us [Nested][]!
 
 Afterwards
 ----------
@@ -108,3 +126,4 @@ Matter][skills-matter-event].
 
 
 [skills-matter-event]: https://skillsmatter.com/meetups/9823-lrug-august-meetup
+[Nested]: https://www.nested.com
