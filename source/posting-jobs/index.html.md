@@ -9,7 +9,11 @@ created_by:
   name: James Adam
 ---
 
-So, you're wondering if someone in the illustrious LRUG community might be able to do some work for you? Here are some tips to bear in mind when posting to [the mailing list](http://lists.lrug.org/listinfo.cgi/chat-lrug.org); following these will hopefully maximise your chance of getting useful replies, and minimise the chance of affecting the signal-to-noise ratio of the list as a whole.
+So, you're wondering if someone in the illustrious LRUG community might be able to do some work for you? Here are some tips to bear in mind when posting to [the mailing list][mailing-list]; following these will hopefully maximise your chance of getting useful replies, and minimise the chance of affecting the signal-to-noise ratio of the list as a whole.
+
+## Sign up to the mailing list
+
+You'll need to be signed up to the mailing list in order to post (this helps us protect the group from spam). You can do so on the [mailing list page][mailing-list] -- look for the section "Subscribing to Chat".
 
 ## Put `[JOBS]` in the subject
 
@@ -29,3 +33,5 @@ You might also consider coming along to a couple of meetings and standing up at 
 
 Make your email as friendly and informal as possible and explain why people would want to come and work for you.  What's different about the project, what's exciting about it, etc...  The LRUG list gets a lot of job offer emails, so you want yours to stand out. For example, don't post your job ad; let people
 know you are hiring and why it would be interesting to work there and people can get in touch for more details.
+
+[mailing-list]: http://lists.lrug.org/listinfo.cgi/chat-lrug.org
