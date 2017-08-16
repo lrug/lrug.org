@@ -175,3 +175,29 @@ nav.meeting-month-index ol {
   display: inline-block;
   width: 120px;
 }
+
+@media print {
+  #sidebar-wrapper {
+    display: none;
+  }
+
+  #content-wrapper {
+    width: 100%;
+  }
+
+  a[href^="http"]:after {
+    content: " (" attr(href) ") ";
+    font-weight: normal;
+  }
+
+  a[href^="/"]:after {
+    content: " (http://lrug.org" attr(href) ") ";
+    font-weight: normal;
+  }
+
+  a[href^="#"]:after,
+  #sponsors a:after,
+  h2 a:after {
+    content: "" !important;
+  }
+}
