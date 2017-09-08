@@ -7,7 +7,7 @@ GEM
       minitest (~> 5.1)
       thread_safe (~> 0.3, >= 0.3.4)
       tzinfo (~> 1.1)
-    builder (3.2.2)
+    builder (3.2.3)
     capistrano (3.4.0)
       i18n
       rake (>= 10.0.0)
