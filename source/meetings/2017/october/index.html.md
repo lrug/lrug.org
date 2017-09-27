@@ -1,11 +1,11 @@
 ---
 updated_by:
-  name: Harry Wood
+  name: Tom Stuart
 created_by:
   name: Harry Wood
 category: meeting
 title: October 2017 Meeting
-updated_at: 2017-09-14 01:00:00 +0000
+updated_at: 2017-09-27 09:45:00 +0000
 published_at: 2017-09-14 01:00:00 +0000
 created_at: 2017-09-14 01:00:00 +0000
 parts: {}
@@ -22,9 +22,20 @@ given below](#registration).
 Agenda
 ------
 
-There will be [talks](http://readme.lrug.org/#talks).
+### Work Smart, Not Hard
 
-More details coming soon
+[Paula Muldoon](https://twitter.com/FiddlersCode) says:
+
+> Work Smart, Not Hard draws on Paula’s experience as an international
+> violinist and Makers Academy alumna to promote practices that lead to code
+> that’s well-designed, extensible, easy to debug, and enjoyable to write.
+
+### Making a Ruby with Lisp Syntax
+
+[Emily Woods](https://twitter.com/emily_m_woods) says:
+
+> I'll be discussing compiler design and sharing my experiences of designing a
+> Lisp-like language which compiles to Ruby.
 
 Afterwards
 ----------
