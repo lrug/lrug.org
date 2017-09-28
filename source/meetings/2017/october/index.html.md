@@ -17,7 +17,7 @@ from _6:00pm_ to _8:00pm_ (talks start at _6:30pm_).  The venue, [Code
 Node](https://skillsmatter.com/locations/264-skills-matter-codenode) between
 Moorgate and Liverpool St. stations, is provided by [Skills
 Matter](http://www.skillsmatter.com).  [Full venue and registration details are
-given below](#registration).
+given below](#october17registration).
 
 Agenda
 ------
@@ -63,7 +63,7 @@ informal.
 If for some reason you can't make the talks you're still more than welcome to
 attend this afterwards part.  We'd love to see you!
 
-Venue & Registration <a name="registration">&nbsp;</a>
+Venue & Registration <a name="october17registration">&nbsp;</a>
 -----------------------------------------------------------
 
 Prior to attending you should familiarise yourself with our
@@ -79,16 +79,12 @@ The address of the venue:
 
 ### Registration
 
-To secure a place at the meeting you *must* register with our hosts
-Skills Matter. The registration page hasn't been set up yet. Coming soon.
-<!--
 To secure a place at the meeting you *must* [register with our hosts
 Skills Matter][skills-matter-event].  It helps to
 make sure we have the room laid out with enough chairs, and in extreme cases
 that we get priority on the larger rooms over other groups using the space on
 the same night.  Also, it's good manners, so please do [register with Skills
 Matter][skills-matter-event].
--->
 
 
-[skills-matter-event]: https://skillsmatter.com/meetups/9927-lrug-september
+[skills-matter-event]: https://skillsmatter.com/meetups/10170-lrug-october
