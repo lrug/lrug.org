@@ -5,7 +5,7 @@ created_by:
   name: Harry Wood
 category: meeting
 title: October 2017 Meeting
-updated_at: 2017-09-27 09:45:00 +0000
+updated_at: 2017-10-05 13:00:00 +0000
 published_at: 2017-09-14 01:00:00 +0000
 created_at: 2017-09-14 01:00:00 +0000
 parts: {}
@@ -29,6 +29,13 @@ Agenda
 > Work Smart, Not Hard draws on Paula’s experience as an international
 > violinist and Makers Academy alumna to promote practices that lead to code
 > that’s well-designed, extensible, easy to debug, and enjoyable to write.
+
+### Splitting strings
+
+[Chris Zetter](https://twitter.com/czetter) says:
+
+> I'll be talking about bug I caused that led me on a journey of software
+> archaeology. I'll be sharing what I discovered along the way.
 
 ### Making a Ruby with Lisp Syntax
 
