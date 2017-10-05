@@ -34,7 +34,7 @@ Agenda
 
 [Chris Zetter](https://twitter.com/czetter) says:
 
-> I'll be talking about bug I caused that led me on a journey of software
+> I'll be talking about a bug I caused that led me on a journey of software
 > archaeology. I'll be sharing what I discovered along the way.
 
 ### Making a Ruby with Lisp Syntax
