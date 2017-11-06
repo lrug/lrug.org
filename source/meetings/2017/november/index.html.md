@@ -41,12 +41,16 @@ Agenda
 > You must mock, but where do you begin? Where do you end? And how do you know > when to stop? A cautionary tale. I will talk about the mocking library
 > [stripe-ruby-mock](https://github.com/rebelidealist/stripe-ruby-mock).
 
-### Documentation improvements at GOV.UK
+### 5 ways to keep docs up to date
 
-[Tijmen Brommet]() says:
+[Tijmen Brommet](https://twitter.com/tijmenbr) says:
 
->
->
+> Project documentation often falls into a cycle of disrepair: it's
+> not read because it's not up to date, and not up to date because
+> nobody reads it. This is a talk about how we tried to break that
+> cycle for GOV.UK's internal developer documentation. I'll cover what
+> we tried, what works & what doesn't, and how to employ a punny chat
+> bot to help you.
 
 Afterwards
 ----------
