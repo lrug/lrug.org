@@ -101,4 +101,4 @@ that we get priority on the larger rooms over other groups using the space on
 the same night.  Also, it's good manners, so please do [register with Skills
 Matter][skills-matter-event].
 
-[skills-matter-event]: https://skillsmatter.com/meetups/
+[skills-matter-event]: https://skillsmatter.com/meetups/10338-lrug-november-meetup
