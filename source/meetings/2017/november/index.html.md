@@ -5,9 +5,9 @@ created_by:
   name: Chris Lowis
 category: meeting
 title: November 2017 Meeting
-updated_at: 2017-11-04 20:28:00 +0000
-published_at: 2017-11-04 20:28:00 +0000
-created_at: 2017-11-04 20:28:00 +0000
+updated_at: 2017-11-08 11:00:00 +0000
+published_at: 2017-11-08 11:00:00 +0000
+created_at: 2017-11-08 11:00:00 +0000
 parts: {}
 status: Published
 ---
