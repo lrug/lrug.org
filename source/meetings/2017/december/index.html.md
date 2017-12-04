@@ -22,7 +22,7 @@ given below](#december17registration).
 Agenda
 ------
 
-## Everyday cryptography - talking about crypto without complex maths
+### Everyday cryptography - talking about crypto without complex maths
 
 [Xavier Riley](https://twitter.com/xavriley) says:
 
@@ -34,7 +34,7 @@ Agenda
 > of communicating these concepts to colleagues, friends and family.
 
 
-## Fun with an Amazon Echo, Ruby and Recipes
+### Fun with an Amazon Echo, Ruby and Recipes
 
 [Miles Woodroffe](https://twitter.com/tapster) says:
 
@@ -42,7 +42,7 @@ Agenda
 > I'll show you how to very quickly build and deploy a useful "skill" with
 > Ruby, and at the same time, make sure you hopefully don't burn the dinner.
 
-## How I met "Double Dutch" and he helped to remedy fear of injection.
+### How I met "Double Dutch" and he helped to remedy fear of injection.
 
 [Marek Labos](https://twitter.com/marek_public) says:
 
