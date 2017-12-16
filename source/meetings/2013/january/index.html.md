@@ -42,7 +42,7 @@ Agenda
 
 ### Pub quiz!
 
-To ease us into 2013, [Murray Steele](http://h-lame.com/) will be running a pub quiz.  We last did a pub quiz meeting way back in [2006](/meetings/2006/12/07/january-2007-pub-quiz-meeting/) and it felt like it was about time to revisit it.  Also, it provides an easy template for us to copy:
+To ease us into 2013, [Murray Steele](http://h-lame.com/) will be running a pub quiz.  We last did a pub quiz meeting way back in [2007](/meetings/2007/january/) and it felt like it was about time to revisit it.  Also, it provides an easy template for us to copy:
 
 The quiz format will be as follows:
 
