@@ -8,7 +8,15 @@ title: January 2018 Meeting
 updated_at: 2017-12-16 21:25:00 +0000
 published_at: 2017-12-16 21:25:00 +0000
 created_at: 2017-12-16 21:04:00 +0000
-parts: {}
+parts:
+  sponsors:
+    :content: |
+      ##### Prizes
+      {::sponsor name="Unboxed" /}
+      {::sponsor name="Explore" /}
+      {::sponsor name="Carwow" /}
+
+    :filter: .md
 status: Published
 ---
 
@@ -56,7 +64,24 @@ throughout the quiz for exceptional answers.
 
 #### Prizes
 
-We're looking for sponsors to provide prizes for the winners.  If we have
+Our lovely sponsors have donated the following:
+
+1. Copies of [“99 Bottles of OOP”](https://www.sandimetz.com/99bottles/) by
+   [Sandi Metz](https://www.sandimetz.com/) and [Katrina
+   Owen](http://www.kytrinyx.com/) provided by:
+   <br/>
+   {::sponsor name="Unboxed" size="main" /}
+
+2. Copies of [“Exceptional Ruby”](http://exceptionalruby.com/) by [Avdi
+   Grimm](http://www.virtuouscode.com/) provided by:
+   <br/>
+   {::sponsor name="Explore" size="main" /}
+
+3. Parcels of [Pact coffee](https://www.pactcoffee.com/) provided by:
+   <br/>
+   {::sponsor name="Carwow" size="main" /}
+
+We're still looking for more sponsors to provide prizes for the winners.  If we have
 enough prizes some of the runners up will also get prizes.  If you can help
 us out please do get in touch with us at
 [sponsors@lrug.org](mailto:sponsors@lrug.org).  Other than the warm glow in

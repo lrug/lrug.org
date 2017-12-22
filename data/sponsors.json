@@ -132,6 +132,22 @@
     }
   },
   {
+    "name":"Carwow",
+    "url":"https://www.carwow.co.uk/",
+    "logo": {
+      "sidebar":{
+        "url":"http://assets.lrug.org/images/carwow_logo_small.png",
+        "width":"120",
+        "height":"29"
+      },
+      "main":{
+        "url":"http://assets.lrug.org/images/carwow_logo_medium.png",
+        "width":"260",
+        "height":"62"
+      }
+    }
+  },
+  {
     "name":"Cogent",
     "url":"http://cogent.co",
     "logo": {
@@ -176,6 +192,22 @@
         "url":"http://assets.lrug.org/images/eden_development_medium.png",
         "width":"260",
         "height":"98"
+      }
+    }
+  },
+  {
+    "name":"Explore",
+    "url":"https://www.explore-group.com/sectors/open-source/s505/",
+    "logo": {
+      "sidebar": {
+        "url": "http://assets.lrug.org/images/explore_opensource_logo_small.png",
+        "width":"120",
+        "height":"115"
+      },
+      "main":{
+        "url":"http://assets.lrug.org/images/explore_opensource_logo_medium.png",
+        "width":"260",
+        "height":"249"
       }
     }
   },
@@ -528,6 +560,22 @@
         "url":"http://assets.lrug.org/images/thoughtbot_logo_medium.png",
         "width":"260",
         "height":"260"
+      }
+    }
+  },
+  {
+    "name":"Unboxed",
+    "url":"https://unboxed.co/",
+    "logo":{
+      "sidebar":{
+        "url":"http://assets.lrug.org/images/unboxed_co_logo_small.png",
+        "width":"120",
+        "height":"30"
+      },
+      "main":{
+        "url":"http://assets.lrug.org/images/unboxed_co_logo_medium.png",
+        "width":"260",
+        "height":"64"
       }
     }
   },
