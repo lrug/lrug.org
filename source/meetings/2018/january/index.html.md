@@ -15,6 +15,7 @@ parts:
       {::sponsor name="Unboxed" /}
       {::sponsor name="Explore" /}
       {::sponsor name="Carwow" /}
+      {::sponsor name="Avdi Grimm" /}
 
     :filter: .md
 status: Published
@@ -80,6 +81,10 @@ Our lovely sponsors have donated the following:
 3. Parcels of [Pact coffee](https://www.pactcoffee.com/) provided by:
    <br/>
    {::sponsor name="Carwow" size="main" /}
+
+4. 3-month subscriptions to [Ruby Tapas](https://rubytapas.com) provided by:
+   <br/>
+   {::sponsor name="Avdi Grimm" size="main" /}
 
 We're still looking for more sponsors to provide prizes for the winners.  If we have
 enough prizes some of the runners up will also get prizes.  If you can help

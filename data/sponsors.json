@@ -50,6 +50,18 @@
   {
     "name":"Avdi Grimm",
     "url":"http://avdi.org"
+    "logo":{
+      "sidebar":{
+        "url":"http://assets.lrug.org/images/avdi-grimm_small.png",
+        "width":"120",
+        "height":"120"
+      },
+      "main":{
+        "url":"http://assets.lrug.org/images/avdi-grimm_medium.png",
+        "width":"260",
+        "height":"260"
+      }
+    }
   },
   {
     "name":"Bath Ruby Conference 2015",
