@@ -52,12 +52,12 @@
     "url":"http://avdi.org",
     "logo":{
       "sidebar":{
-        "url":"http://assets.lrug.org/images/avdi-grimm_small.png",
+        "url":"http://assets.lrug.org/images/avdi-grimm_small.jpg",
         "width":"120",
         "height":"120"
       },
       "main":{
-        "url":"http://assets.lrug.org/images/avdi-grimm_medium.png",
+        "url":"http://assets.lrug.org/images/avdi-grimm_medium.jpg",
         "width":"260",
         "height":"260"
       }
