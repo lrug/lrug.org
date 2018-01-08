@@ -8,6 +8,11 @@ title: January 2018 Meeting
 updated_at: 2017-12-16 21:25:00 +0000
 published_at: 2017-12-16 21:25:00 +0000
 created_at: 2017-12-16 21:04:00 +0000
+sponsors:
+  - :name: Unboxed
+  - :name: Explore
+  - :name: Carwow
+  - :name: "Avdi Grimm"
 parts:
   sponsors:
     :content: |
