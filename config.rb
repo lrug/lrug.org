@@ -44,10 +44,7 @@ page '/version.json', layout: false
 
 ready do
   sitemap.resources.
-    reject { |r| r.data.status && r.data.status == 'Published' }. # keep published files
-    reject { |r| r.path =~ %r{(javascripts|images|stylesheets)/} }. # and assets
-    reject { |r| r.path =~ %r{\.htaccess\Z} }. # and .htaccess files
-    reject { |r| r.path =~ %r{version\.json\Z} }. # and version.json files
+    select { |r| r.data.status && r.data.status != 'Published' }. # if files have status, only keep published ones
     each do |unpublished|
       ignore unpublished.path
     end
