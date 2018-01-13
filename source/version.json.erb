@@ -1,0 +1,7 @@
+<%- repo = Git.open(@app.root) -%>
+{
+  "branch": "<%= repo.current_branch %>",
+  "revision": "<%= repo.log.first.to_s %>",
+  "build_time": "<%= Time.now %>",
+  "version": "3"
+}

@@ -1,14 +1,6 @@
-activate :build_reporter do |br|
-  br.reporter_file_formats = ['json']
-  br.reporter_file = 'version'
-end
-
 set :css_dir, 'stylesheets'
-
 set :js_dir, 'javascripts'
-
 set :images_dir, 'images'
-
 set :build_dir, 'public'
 
 meeting_years = Dir['source/meetings/*'].each.with_object([]) do |meeting_child, years|
@@ -48,12 +40,14 @@ config[:years].each do |year|
 end
 
 page '/.htaccess', layout: false
+page '/version.json', layout: false
 
 ready do
   sitemap.resources.
     reject { |r| r.data.status && r.data.status == 'Published' }. # keep published files
     reject { |r| r.path =~ %r{(javascripts|images|stylesheets)/} }. # and assets
     reject { |r| r.path =~ %r{\.htaccess\Z} }. # and .htaccess files
+    reject { |r| r.path =~ %r{version\.json\Z} }. # and version.json files
     each do |unpublished|
       ignore unpublished.path
     end
