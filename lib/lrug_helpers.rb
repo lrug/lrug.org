@@ -77,11 +77,18 @@ module LRUGHelpers
     if part
       if part['filter'].present?
         renderers = part['filter'].split('.').reverse.reject { |renderer| renderer.blank? }
-        renderers.prepend('erb') unless renderers.first == 'erb'
+        # Add all the filters to the fake path
+        pathname = "#{page.path}#content-part-#{part_name}#{part['filter']}"
+        # Always push things through erb even if it's not an explicit filter
+        unless renderers.first == 'erb'
+          renderers.prepend('erb')
+          pathname.concat('.erb')
+        end
         renderers.inject(part['content']) do |body, renderer|
-          Tilt.new(renderer, 1, options_for_ext(renderer)) do
-            body
-          end.render(self, page: page)
+          current_path = pathname.dup
+          # strip off the current renderer for the next iteration of the loop
+          pathname.gsub!(/\.#{renderer}$/, '')
+          inline_content_render(body, current_path, locals: {page: page})
         end
       else
         part['content']
@@ -138,9 +145,7 @@ module LRUGHelpers
   end
 
   def render_markdown(md)
-    Tilt['markdown'].new do
-      md
-    end.render
+    inline_content_render(md, 'inline-markdown-fragment.md')
   end
 
   def meeting_calendar_link
@@ -158,5 +163,16 @@ module LRUGHelpers
     regex.prepend '^' unless redirect_from.start_with? '^'
     regex.concat '($|/)' unless redirect_from.end_with? '$'
     regex
+  end
+
+  private
+  def inline_content_render(content, fake_pathname, locals: {})
+    # create a middleman filerenderer to do the work, the extension in
+    # the last extension in the path tells it which template engine to use
+    # and because it's a middleman object it'll make sure it's properly
+    # configured via settings in config.rb, which us creating a Tilt
+    # instance directly won't neccessarily do
+    content_renderer = ::Middleman::FileRenderer.new(@app, fake_pathname)
+    content_renderer.render(locals, {template_body: content, layout: false}, @app.template_context_class.new(@app, locals, {layout: false}))
   end
 end
