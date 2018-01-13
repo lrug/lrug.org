@@ -21,7 +21,10 @@ require "lib/lrug_helpers"
 helpers LRUGHelpers
 
 require 'lib/lrug_extended_kramdown'
-Kramdown::Parser::LRUGExtendedKramdown.sponsors = data.sponsors
+# we have to refer to this via `@app` as otherwise it ends up being a
+# Middleman::CoreExtensions::Collections::LazyCollectorStep instead
+# of the actual data we want.
+Kramdown::Parser::LRUGExtendedKramdown.sponsors = @app.data.sponsors
 set :markdown, input: 'LRUGExtendedKramdown'
 
 configure :build do
