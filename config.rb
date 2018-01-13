@@ -44,7 +44,7 @@ config[:years].each do |year|
   proxy "/meetings/#{year}/index.html", "/meetings/meetings_index.html", locals: { year: year }, ignore: true
 end
 
-proxy '/.htaccess', '/.htaccess.html', layout: false, ignore: true
+page '/.htaccess', layout: false
 
 ready do
   sitemap.resources.
