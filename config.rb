@@ -40,7 +40,7 @@ page '/nights/*/index.html', layout: 'nights-episode'
 end
 proxy "/rss/nights/index.rss", "/rss/template.rss", layout: false, locals: { category: 'nights', description: "LRUG Nights : solving' crimes, drinkin' beers" }, ignore: true
 
-years.each do |year|
+config[:years].each do |year|
   proxy "/meetings/#{year}/index.html", "/meetings/meetings_index.html", locals: { year: year }, ignore: true
 end
 

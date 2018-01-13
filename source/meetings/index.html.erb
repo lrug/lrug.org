@@ -15,7 +15,7 @@ parts:
     :content: |
       <h3>Archives By Year</h3>
       <ul>
-        <% years.reverse.each do |year| %>
+        <% config[:years].reverse.each do |year| %>
           <li><%= link_to year, "/meetings/#{year}" %></li>
         <% end %>
       </ul>
