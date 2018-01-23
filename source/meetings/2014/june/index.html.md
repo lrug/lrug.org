@@ -1,8 +1,8 @@
---- 
-updated_by: 
+---
+updated_by:
   email: murray.steele@gmail.com
   name: Murray Steele
-created_by: 
+created_by:
   email: murray.steele@gmail.com
   name: Murray Steele
 category: meeting
@@ -24,7 +24,7 @@ Agenda
 
 [Mal Pinder](https://twitter.com/malpinder) says:
 
-> My talk will be about the techniques & approaches that 
+> My talk will be about the techniques & approaches that
 > worked (and didn't work) for us while I was teaching at
 > [Codecraft](http://tech.fundingcircle.com/codecraft/).
 
@@ -42,13 +42,13 @@ Agenda
 > * Some fun examples of data structures/algos you've heard of (and probably some you haven't) and how they're put to work in software you use every day.
 > * Ways of learning them that I've found to be fun and effective.
 >
-> I swear in the name of [Knuth](https://en.wikipedia.org/wiki/Donald_Knuth) that there shall be no mention of 
-> big-o notation or sorting algorithms. Also, I will attempt a 
-> live demo of one of the algos using the SATR[$] transport 
+> I swear in the name of [Knuth](https://en.wikipedia.org/wiki/Donald_Knuth) that there shall be no mention of
+> big-o notation or sorting algorithms. Also, I will attempt a
+> live demo of one of the algos using the SATR transport
 > protocol. It probably won't work if you are good at the maths
 > and feeling mischievous.
 >
-> [$]: SATR - Shout Across The Room
+> *[SATR]: Shout Across The Room
 
 Pub
 ---
