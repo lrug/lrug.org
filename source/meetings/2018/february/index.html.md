@@ -67,9 +67,40 @@ minutes.  This year our talks are:
 > cloud services like Amazon S3. Comparison to the existing file upload
 > solutions.
 
-## More
+## Things I wish I'd known about Ruby Gems
 
-There'll be another few talks too, watch this space!
+[Iain Beeston](https://twitter.com/iainbeeston) says:
+
+> I want to give a talk that discusses a handful of topics related to rubygems,
+> that might be interesting for devs who haven't published a gem before or don't
+> know how they work. I'd like to discuss what a gem really is, how gem loading
+> works, how to debug errors coming from a gem you're using and how to make your
+> own gem.
+
+## Increase your quality of life: An RSpec primer
+
+[Elena Tanasoiu](https://twitter.com/elenatanasoiu) says:
+
+> If you can’t be arsed to read a book about RSpec, this talk is for you. I’m
+> here to offer you a short but sweet look into Rspec and what it can do. It’s
+> a list of nice to knows, but did you actually know them? Based on [“Effective
+> testing with Rspec 3” by Myron Marston and Ian Dees](https://pragprog.com/book/rspec3/effective-testing-with-rspec-3)
+
+## Git commit signing: Code we can trust?
+
+[Matthew Rudy Jacobs](https://twitter.com/matthewrudy) says:
+
+> When we install software on our computers we have to trust the package maintainers that it's secure.
+>
+> If someone slips a hack into homebrew all of our machines could become vulnerable.
+>
+> But what about our own code?
+> * When we deploy to production, how do we know we can trust it?
+> * What if someone pushes a hack to our github?
+> * Will CI still push it to production?
+>
+> It turns out Git has a cool feature that can help us trust the code we deploy.
+> We'll discuss Git Commit Signing, how it can help us, and what downsides it may have.
 
 Afterwards
 ----------
