@@ -8,6 +8,8 @@ title: April 2018 Meeting
 updated_at: 2018-03-21 23:40:00 +0000
 published_at: 2018-03-21 23:40:00 +0000
 created_at: 2018-03-21 23:20:00 +0000
+sponsors:
+  - :name: Explore
 parts: {}
 status: Published
 ---
@@ -44,6 +46,21 @@ Agenda
 [You](mailto:talks@lrug.org) can take this slot if you have a 10 or 25 minute
 talk you'd like to give.  Get in touch with us at: [talks@lrug.org](mailto:talks@lrug.org)
 
+Drinks Sponsor
+--------------
+
+{::sponsor name="Explore" size="main" /}
+
+The nice people at [The Explore Group](https://www.explore-group.com/)
+have arranged to provide us with drinks. They have arranged to put
+some money behind the bar after the meeting in the Skills Matter
+downstairs bar area.
+
+The Explore Group has been helping companies recruit top talent in the
+ever-evolving world of technology since 2005. They're keen to speak
+with Ruby on Rails developers looking for their next challenge.
+
+Thanks for supporting us [The Explore Group](https://www.explore-group.com/)!
 
 Afterwards
 ----------
