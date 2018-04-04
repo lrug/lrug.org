@@ -41,10 +41,15 @@ Agenda
 > child? Let's try to solve them with Ruby and use that as an excuse to talk
 > about combinatorics, complexity theory and proof.
 
-### TBC
+### Scaling millions of jobs with Enumerators
 
-[You](mailto:talks@lrug.org) can take this slot if you have a 10 or 25 minute
-talk you'd like to give.  Get in touch with us at: [talks@lrug.org](mailto:talks@lrug.org)
+[Kir Shatrov](https://twitter.com/kirshatrov) says:
+
+> Enumerator is a pattern that not too many developers are often exposed to,
+> despite the fact that it comes with Ruby and is leveraged in many libraries
+> that we use every day (Rails). Join the talk to learn how we’ve used
+> Enumerators to scale millions of background jobs at Shopify and how it
+> influenced the way developers think when writing resilient code.
 
 Drinks Sponsor
 --------------
