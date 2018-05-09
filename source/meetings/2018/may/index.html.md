@@ -16,7 +16,7 @@ status: Published
 
 The May 2018 meeting of LRUG will be on *Wednesday the 9th of May*,
 from _6:00pm_ to _8:00pm_ (talks start at _6:30pm_).  The venue, [Code
-Node](skills-matter-venue) between Moorgate and Liverpool St. stations, is
+Node][skills-matter-venue] between Moorgate and Liverpool St. stations, is
 provided by [Skills Matter](http://www.skillsmatter.com).  [Full venue and
 registration details are given below](#may18registration).
 
@@ -40,14 +40,25 @@ We've got three great talks for you in May:
 
 [Alfredo Motta](https://twitter.com/mottalrd)
 
-[Event sourcing](https://martinfowler.com/eaaDev/EventSourcing.html) is a recently developed design pattern to build applications that are domain centric and easy to extend. The pattern is based on the usage of a persistent event log which substitutes the more classical relational database model for Rails applications. Such event log can then be used for extending your application in all sort of creative ways. For example, by synchronizing data between your microservices, trigger side effects without cluttering your models or controllers, or build data views optimized for your query needs. In this talk, I'll present the basic ideas, some of the tradeoffs and challenges you might find and how you could start experimenting with it.
+> [Event sourcing](https://martinfowler.com/eaaDev/EventSourcing.html) is a recently
+> developed design pattern to build applications that are domain centric and easy to
+> extend. The pattern is based on the usage of a persistent event log which 
+> substitutes the more classical relational database model for Rails applications.
+> Such event log can then be used for extending your application in all sort of 
+> creative ways. For example, by synchronizing data between your microservices, 
+> trigger side effects without cluttering your models or controllers, or build data
+> views optimized for your query needs. In this talk, I'll present the basic ideas, 
+> some of the tradeoffs and challenges you might find and how you could start 
+> experimenting with it.
 
 ## On Writing <%= code %>
 
 [Elliot Hilaire](https://twitter.com/elliotthilaire)
 
-Writing code in high-level programming languages began in the 1950s. In contrast, writing goes back more than 5000 years. So, what can we learn from people who study writing? This talk explores concepts from three books about writing and applies them to coding.
-
+> Writing code in high-level programming languages began in the 1950s. In contrast, 
+> writing goes back more than 5000 years. So, what can we learn from people who
+> study writing? This talk explores concepts from three books about writing and 
+> applies them to coding.
 
 Afterwards
 ----------
