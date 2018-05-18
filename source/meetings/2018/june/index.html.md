@@ -26,11 +26,23 @@ Agenda
 
 Our June meeting has two talks and a prize draw!
 
-## Hiring
+## How to grow a small development team
 
 [Najaf Ali](https://twitter.com/alinajaf) says:
 
-> TBC
+> This talk is about how we grew the team at Happy Bear Software. In this talk
+> I'll discuss:
+>
+> * How working at a given company fits into a developer's career
+> * Finding candidates
+> * Selection
+> * On-boarding
+> * Retention
+> * What to do when people leave your team
+>
+> Much of how we hire is specific to our business and our goals, but there will
+> hopefully be two or three techniques, practices, or principles that you can
+> apply to your hiring process.
 
 ## Breaking into computers over the Internet
 
