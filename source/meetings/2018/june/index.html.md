@@ -61,13 +61,15 @@ Our June meeting has two talks and a prize draw!
 
 {::sponsor name="streetbees" size="main" /}
 
-The kind people at [streetbees](https://streetbees.com), have bought us a couple
-of tickets to [the Brighton Ruby conference](https://brightonruby.com) on Friday,
-6th July 2018.  We'll be running a prize draw at this meeting; if you attend on
-the night your name will go into the draw anad the winners names will be drawn
-from a hat<sup>[*](#brtp-hat)</sup>.
+The kind people at [streetbees](https://www.streetbees.com/careers), an
+Artificial Intelligence based Market Research platform bolstered by powerful
+community building tools, have bought us a couple of tickets to [the Brighton
+Ruby conference](https://brightonruby.com) on Friday, 6th July 2018.  We'll be
+running a prize draw at this meeting; if you attend on the night your name will
+go into the draw anad the winners names will be drawn from a
+hat<sup>[*](#brtp-hat)</sup>.
 
-Thanks [streetbees](https://streetbees.com)!
+Thanks [streetbees](https://www.streetbees.com/careers)!
 
 Afterwards
 ----------

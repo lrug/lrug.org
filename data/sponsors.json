@@ -528,6 +528,22 @@
     }
   },
   {
+    "name": "Streetbees",
+    "url": "https://www.streetbees.com/careers",
+    "logo":{
+      "sidebar":{
+        "url":"http://assets.lrug.org/images/streetbees_logo_small.png",
+        "width":"120",
+        "height":"19"
+      },
+      "main":{
+        "url":"http://assets.lrug.org/images/streetbees_logo_medium.png",
+        "width":"260",
+        "height":"41"
+      }
+    }
+  },
+  {
     "name":"Taskforce",
     "url":"http://www.taskforce.co.uk/about/",
     "logo": {
