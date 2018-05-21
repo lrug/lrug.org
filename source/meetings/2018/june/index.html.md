@@ -11,7 +11,7 @@ updated_at:
 published_at: 2018-05-14 12:43:04 +0100
 created_at: 2018-05-14 12:43:04 +0100
 sponsors:
-  - :name: streetbees
+  - :name: Streetbees
 status: Published
 ---
 
@@ -59,17 +59,19 @@ Our June meeting has two talks and a prize draw!
 
 ## Brighton Ruby ticket prizedraw
 
-{::sponsor name="streetbees" size="main" /}
+{::sponsor name="Streetbees" size="main" /}
 
-The kind people at [streetbees](https://www.streetbees.com/careers), an
+The kind people at [Streetbees](https://www.streetbees.com/careers), an
 Artificial Intelligence based Market Research platform bolstered by powerful
 community building tools, have bought us a couple of tickets to [the Brighton
 Ruby conference](https://brightonruby.com) on Friday, 6th July 2018.  We'll be
 running a prize draw at this meeting; if you attend on the night your name will
-go into the draw anad the winners names will be drawn from a
+be entered in the giveaway and the winning names will be drawn from a
 hat<sup>[*](#brtp-hat)</sup>.
 
 Thanks [streetbees](https://www.streetbees.com/careers)!
+
+<sup><a name="brtp-hat">*</a></sup> <small>We may not use an actual hat.</small>
 
 Afterwards
 ----------
