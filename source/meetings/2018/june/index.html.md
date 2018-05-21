@@ -121,4 +121,4 @@ the same night.  Also, it's good manners, so please do [register with Skills
 Matter][skills-matter-event].
 
 [skills-matter-venue]: https://skillsmatter.com/locations/264-skills-matter-codenode
-[skills-matter-event]: https://skillsmatter.com/meetups/?
+[skills-matter-event]: https://skillsmatter.com/meetups/11010-lrug-june
