@@ -46,7 +46,7 @@ Our June meeting has two talks and a prize draw!
 
 ## Breaking into computers over the Internet
 
-[David Somers](https://twitter.com/mottalrd) wants to tell us how to protect the software you build:
+[David Somers](https://twitter.com/jalada) wants to tell us how to protect the software you build:
 
 > I’ll start by talking briefly about the protocols computers use to
 > communicate. Then I'll discuss how they can be abused by demoing some of the
