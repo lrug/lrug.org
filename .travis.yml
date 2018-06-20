@@ -11,9 +11,6 @@ env:
 - TRAVIS_TAG=travis-release
 deploy:
   provider: releases
-  edge:
-    source: lazyatom/dpl
-    branch: github-release-upload-overwrite
   overwrite: true
   api_key:
     secure: hs7ENLT78sIxmp75tolkKDwKcAhwTBjORMVYYHL1ZYR3sXRsJv5hd5EbDdBUl9V/PjwgSAyf+pjgIEx/OTEbc1ZR78sFeiR0F+1rt3jc6pUzH63CBghqGxyxQj6iJNr2Sp1XQYaw0951ZfYRif1HEbNrcRlTFI59cGSFv+2AOGQ=
