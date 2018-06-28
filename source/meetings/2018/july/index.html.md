@@ -10,6 +10,8 @@ title: July 2018 Meeting
 updated_at:
 published_at: 2018-06-28 20:59:00 +0100
 created_at: 2018-06-28 20:59:00 +0100
+sponsors:
+  - :name: thoughtbot
 status: Published
 ---
 
@@ -59,6 +61,19 @@ Our July meeting has three fantastic talks:
 > * The Fn project - an open source agnostic FaaS platform
 > * The Ruby FDK (Function Development Kit)
 > * With a bit of inspiration from William Shakespeare.
+
+### Food and Drinks
+
+{::sponsor name="thoughtbot" size="main" /}
+
+The nice people at [thoughtbot](https://www.thoughtbot.com/) are sponsoring this
+meeting by making some pizza and drinks available.  These will be made available
+before the meeting downstairs in the Skills Matter bar area.  There should be
+pizza suitable for vegetarian, vegan, and gluten-free diets and the drinks will
+be the full range from the skills matter bar, including alcoholic and soft
+options.
+
+Thanks, [thoughtbot](https://www.thoughtbot.com/), for supporting us!
 
 Afterwards
 ----------
