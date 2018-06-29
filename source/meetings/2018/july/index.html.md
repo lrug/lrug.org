@@ -70,7 +70,7 @@ The nice people at [thoughtbot](https://www.thoughtbot.com/) are sponsoring this
 meeting by making some pizza and drinks available.  These will be made available
 before the meeting downstairs in the Skills Matter bar area.  There should be
 pizza suitable for vegetarian, vegan, and gluten-free diets and the drinks will
-be the full range from the skills matter bar, including alcoholic and soft
+be the full range from the Skills Matter bar, including alcoholic and soft
 options.
 
 Thanks, [thoughtbot](https://www.thoughtbot.com/), for supporting us!
