@@ -581,7 +581,7 @@
     "logo": {
       "sidebar": {
         "url":"http://assets.lrug.org/images/thoughtbot_logo_small.png",
-        "width":"",
+        "width":"120",
         "height":"120"
       },
       "main": {
