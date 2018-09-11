@@ -15,7 +15,7 @@ status: Published
 ---
 
 The September 2018 meeting of LRUG will be on *Tuesday the 11th of September*,
-from _6:00pm_ to _8:00pm_ (talks start at _6:30pm_).  The venue, [Code
+from _6:00pm_ to _8:30pm_ (talks start at _7:00pm_).  The venue, [Code
 Node][skills-matter-venue] between Moorgate and Liverpool St. stations, is
 provided by [Skills Matter](http://www.skillsmatter.com).  [Full venue and
 registration details are given below](#september18registration).
