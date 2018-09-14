@@ -131,7 +131,7 @@ module LRUGHelpers
     if sponsor
       link_text =
         if sponsor.logo? && sponsor.logo[size]
-          %{<image src="#{sponsor.logo[size].url}" width="#{sponsor.logo[size].width}" height="#{sponsor.logo[size].height}" alt="#{sponsor.name}" title="#{sponsor.name} Logo"/>}
+          %{<img src="#{sponsor.logo[size].url}" width="#{sponsor.logo[size].width}" height="#{sponsor.logo[size].height}" alt="#{sponsor.name}" title="#{sponsor.name} Logo"/>}
         else
           sponsor.name
         end
