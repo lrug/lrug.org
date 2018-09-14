@@ -43,7 +43,7 @@ else
     
     response = "OK"
   else
-    response = "Not deploying; passed = #{passed.inspect}, branch = #{branch.inspect}"
+    response = "Not deploying; passed = #{passed.inspect}, branch = #{params['branch'].inspect}"
   end
 end
 
