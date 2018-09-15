@@ -1,5 +1,5 @@
---- 
-created_by: 
+---
+created_by:
   email: murray.steele@gmail.com
   name: Murray Steele
 category: meeting
@@ -21,20 +21,22 @@ Agenda
 
 [Ben Scofield](http://benscofield.com/) from [Heroku](http://heroku.com/) is visiting us on his way home from the [Scottish Ruby Conference](http://scottishrubyconference.com/) and has kindly volunteered to give us the following talk:
 
-> A year ago, I was a committed VPS and dedicated-machine deployer. I thought the cloud 
-> imposed silly restrictions - how dare you take away my shell account! Whaddya mean I 
-> can't save files locally? 
+> A year ago, I was a committed VPS and dedicated-machine deployer. I thought the cloud
+> imposed silly restrictions - how dare you take away my shell account! Whaddya mean I
+> can't save files locally?
 >
-> Since then, I've had some interesting experiences. I've worked on big cloud-deployed 
-> systems, and certain large traditionally-deployed systems, and I've seen how a lot of 
+> Since then, I've had some interesting experiences. I've worked on big cloud-deployed
+> systems, and certain large traditionally-deployed systems, and I've seen how a lot of
 > the decisions that you're ... encouraged to make when designing an app to run in the
-> cloud. Most interestingly, I've discovered how those same decisions can make for a 
-> much better app regardless of where it'll end up. In this talk, I'll share those 
-> architectural patterns with you, and show why they work. Hopefully, I'll convince all 
-> of you to build cloud castles -- even if you've got your foundation firmly on the 
+> cloud. Most interestingly, I've discovered how those same decisions can make for a
+> much better app regardless of where it'll end up. In this talk, I'll share those
+> architectural patterns with you, and show why they work. Hopefully, I'll convince all
+> of you to build cloud castles -- even if you've got your foundation firmly on the
 > ground.
 
 Note: Ben is talking at [SRC](http://scottishrubyconference.com/sessions) but it's not the same talk that he's giving to us, so if you are going to SRC don't miss his talk thinking you'll catch it at LRUG when you get home.
+
+{::coverage year="2011" month="april" talk="building-cloud-castles" /}
 
 ### Elise Huard: Ruby goes to hollywood
 
@@ -42,6 +44,8 @@ Note: Ben is talking at [SRC](http://scottishrubyconference.com/sessions) but it
 
 > A brief overview of the state of concurrency in Ruby, concurrency models
 > used in other languages, and why actors might be the way to go.
+
+{::coverage year="2011" month="april" talk="ruby-goes-to-hollywood" /}
 
 Pub
 ---
