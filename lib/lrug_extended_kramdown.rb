@@ -7,12 +7,14 @@ class Kramdown::Parser::LRUGExtendedKramdown < Kramdown::Parser::Kramdown
     case name
     when 'sponsor'
       sponsor = render_sponsor(opts['name'], opts['size'])
-      @tree.children <<
-        if type == :block
-          Element.new(:p).tap { |e| e.children << sponsor }
-        else
-          sponsor
-        end
+      if sponsor
+        @tree.children <<
+          if type == :block
+            new_block_el(:p, location: line_no).tap { |e| e.children << sponsor }
+          else
+            sponsor
+          end
+      end
       true
     else
       super
@@ -28,7 +30,7 @@ class Kramdown::Parser::LRUGExtendedKramdown < Kramdown::Parser::Kramdown
       if sponsor_details.logo && sponsor_details.logo[image_size]
         link.children << render_sponsor_image(sponsor_details.name, sponsor_details.logo[image_size])
       else
-        link.value = sponsor_details.name
+        add_text(sponsor_details.name, link)
       end
       link
     else
