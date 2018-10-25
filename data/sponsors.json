@@ -256,6 +256,22 @@
     }
   },
   {
+    "name":"GitHub",
+    "url":"https://github.com/",
+    "logo":{
+      "sidebar":{
+        "url":"http://assets.lrug.org/images/github_logo_small.png",
+        "width":"120",
+        "height":"50"
+      },
+      "main":{
+        "url":"http://assets.lrug.org/images/github_logo_medium.png",
+        "width":"260",
+        "height":"107"
+      }
+    }
+  },
+  {
     "name":"Globaldev",
     "url":"http://www.globaldev.co.uk/",
     "logo":{
