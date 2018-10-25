@@ -10,7 +10,8 @@ title: November 2018 Meeting
 updated_at:
 published_at: 2018-10-24 17:00:00 +0100
 created_at: 2018-10-24 16:00:00 +0100
-parts: {}
+sponsors:
+  - :name: GitHub
 status: Published
 ---
 
@@ -51,6 +52,18 @@ Agenda
 > well as personal development at the current position as well as for the future
 > ones? This talk will give insight on the business side of the
 > employer-employee relationship.
+
+### Food!
+
+{::sponsor name="GitHub" size="main" /}
+
+The nice people at [GitHub](https://github.com/) have sponsored this meeting
+by buying some pizza for us to eat.  It'll be laid out downstairs in the Skills
+Matter bar area and there will options for vegetarian, vegan, and gluten-free
+diets.  It'll be available from about 6 and will last until it's all been eaten.
+There should be plenty, but turn up early if you want to make sure you get some.
+
+Thanks again to [GitHub](https://github.com/) for supporting us!
 
 Afterwards
 ----------
