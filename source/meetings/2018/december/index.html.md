@@ -38,9 +38,15 @@ Agenda
 > model, method lookup — she's about to discover that she really has no
 > clue.
 
-## TBC
+## The problem with compiling Ruby
 
 [Vidar Hokstad](https://twitter.com/vhokstad):
+
+> To get maximum performance out of a language, compilation is key, and people > have been trying to compile Ruby for a long time, ranging from jRuby and
+> Truffle Ruby to the experimental method JIT in Ruby 2.6. But Ruby is a very
+> challenging language to compile efficiently. The talk will explore some of
+> the reasons based on what I've learned while working on my own Ruby compiler
+> as described in my series of blog posts at http://hokstad.com/compiler
 
 ## Pro Capybara Herding: Feature Testing Tips
 
