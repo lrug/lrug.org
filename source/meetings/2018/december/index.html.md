@@ -57,11 +57,6 @@ Agenda
 > about these topics and more in this lightning talk about testing with
 > Capybara & Chrome
 
-### Food!
-
-TBC
-
-
 Afterwards
 ----------
 
@@ -111,4 +106,4 @@ larger rooms over other groups using the space on the same night.  Also, it's
 good manners, so please do [register with Skills Matter][skills-matter-event].
 
 [skills-matter-venue]: https://skillsmatter.com/locations/264-skills-matter-codenode
-[skills-matter-event]:
+[skills-matter-event]: https://skillsmatter.com/meetups/11321-lrug-london-ruby-user-group
