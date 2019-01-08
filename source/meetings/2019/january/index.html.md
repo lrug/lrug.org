@@ -45,7 +45,7 @@ Some quick tips to get you going:
   are that you know a trick or two that others haven't seen, and vice versa
 * We will provide a repository of code which you can clone on the day. This will
   contain tests to give you confidence that your solution works, along with some helpers
-  to count characters fairless across everyone participating
+  to count characters fairly across everyone participating
   
 
 There are no official prizes, just bragging rights in the pub afterwards. Speaking of...
