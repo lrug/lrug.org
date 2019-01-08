@@ -8,7 +8,7 @@ title: January 2019 Meeting
 updated_at: 2019-01-08 21:25:00 +0000
 published_at: 2019-01-08 21:25:00 +0000
 created_at: 2019-01-08 21:04:00 +0000
-status: Draft
+status: Published
 ---
 
 The January 2019 meeting of LRUG will be on *Monday the 14th of January*,
