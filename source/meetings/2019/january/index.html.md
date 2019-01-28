@@ -16,7 +16,7 @@ from _6:00pm_ to _8:00pm_ (meeting start at _6:30pm_).  The venue, [Code
 Node][skills-matter-venue] between
 Moorgate and Liverpool St. stations, is provided by [Skills
 Matter](http://www.skillsmatter.com).  [Full venue and registration details are
-given below](#january18registration).
+given below](#january19registration).
 
 Agenda
 ------
@@ -24,7 +24,7 @@ Agenda
 ### Ruby Golf!
 
 As is tradition, our first meeting of 2019 will be a slightly different kind of thing.  Instead
-of talks, we'll be pulling all our not-suitable-for-production Ruby tricks out of the bag and 
+of talks, we'll be pulling all our not-suitable-for-production Ruby tricks out of the bag and
 playing a few rounds of Ruby Golf!
 
 For those unfamiliar with this, put your clubs away: code golfing is where you try to solve a
@@ -46,7 +46,7 @@ Some quick tips to get you going:
 * We will provide a repository of code which you can clone on the day. This will
   contain tests to give you confidence that your solution works, along with some helpers
   to count characters fairly across everyone participating
-  
+
 
 There are no official prizes, just bragging rights in the pub afterwards. Speaking of...
 
@@ -75,7 +75,7 @@ informal.
 If you can't attend the talks we'd still be very happy to see you at this part
 of the meeting.  Do come along!
 
-Venue & Registration <a name="january18registration">&nbsp;</a>
+Venue & Registration <a name="january19registration">&nbsp;</a>
 -----------------------------------------------------------
 
 Prior to attending you should familiarise yourself with our
