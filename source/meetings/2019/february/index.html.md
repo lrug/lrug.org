@@ -60,6 +60,23 @@ than 10 minutes.
 > What is a CDN? Why use one? What support does Rails provide
 > out-of-the-box and what customisations can you make to do more?
 
+#### A developer and a designer, getting along famously
+
+[Celia Collins](https://twitter.com/celiadcollins) and [Boris Divjak](https://twitter.com/borisdivjak):
+
+> A short story about how a developer and a designer can learn to fuel
+> each-other’s ideas and why this matters. When our differences enable us
+> to see things from different perspectives, we can take on bigger and
+> more complex problems. When we collaborate every day, nothing can stop
+> us.
+
+#### Humans are hard
+
+[Matthew Rudy Jacobs](https://twitter.com/matthewrudy):
+
+> Lessons learned from the past decade of coding, learning to understand
+> and work with people.
+
 #### Something else?
 
 [You?](mailto:talks@lrug.org)
