@@ -77,6 +77,16 @@ than 10 minutes.
 > Lessons learned from the past decade of coding, learning to understand
 > and work with people.
 
+#### How to craft your commit history
+
+[Tatiana Stantonian](https://twitter.com/binaryberry):
+
+> A talk about the importance of narrating your code changes, with
+> practical tips on using git to edit and reorganise your commits. In this
+> talk you'll learn to resolve merge conflicts peacefully, use `git rebase
+> interactive --autosquash`, refer to your commits using `:/keyword`
+> instead of their SHA, and other exciting things!
+
 #### Something else?
 
 [You?](mailto:talks@lrug.org)
