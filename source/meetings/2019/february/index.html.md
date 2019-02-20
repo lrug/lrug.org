@@ -87,13 +87,13 @@ than 10 minutes.
 > interactive --autosquash`, refer to your commits using `:/keyword`
 > instead of their SHA, and other exciting things!
 
-#### Something else?
+#### Using ActiveRecord types for backwards compatibility
 
-[You?](mailto:talks@lrug.org)
+[Alex Balhatchet](https://twitter.com/kaokun)
 
-> We're still on the look out for more speakers for this event, so do
-> [get in touch](mailto:talks@lrug.org) if you'd like to be one of
-> them. More info can be found on our [readme](http://readme.lrug.org/#talks)
+> How the CharlieHR team handled a tricky change by using a custom 
+> ActiveRecord type as a temporary backwards compatibility layer between 
+> the code and the database.
 
 Afterwards
 ----------
