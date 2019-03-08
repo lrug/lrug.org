@@ -45,7 +45,7 @@ Agenda
 Afterwards
 ----------
 
-We plan to finish around 8pm.  That's not
+We plan to finish around 8:30pm.  That's not
 the end of the evening though, so if you'd like to socialise with other
 LRUG attendees and chat about all the talks you've just seen you have two
 choices:
