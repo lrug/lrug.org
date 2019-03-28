@@ -84,4 +84,4 @@ the same night.  Also, it's good manners, so please do [register with Skills
 Matter][skills-matter-event].
 
 [skills-matter-venue]: https://skillsmatter.com/locations/264-skills-matter-codenode
-[skills-matter-event]: https://skillsmatter.com/meetups/11949-lrug
+[skills-matter-event]: https://skillsmatter.com/meetups/12306-improve-confidence-in-your-code-with-mutation-testing
