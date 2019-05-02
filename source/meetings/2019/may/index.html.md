@@ -22,7 +22,7 @@ registration details are given below](#may19registration).
 Agenda
 ------
 
-## Getting the next generation into coding
+### Getting the next generation into coding
 
 [Pablo Brasero Moreno](https://twitter.com/pablobm):
 
@@ -30,7 +30,7 @@ Agenda
 > from several walks of life, including children. In this talk, I'll share
 > my thoughts and experiences on teaching children to code.
 
-## You?
+### You?
 
 We're still looking for more talks for this meeting.  Perhaps that could
 be you.  Do [get in touch](mailto:talks@lrug.org) with us if you'd like
