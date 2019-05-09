@@ -30,6 +30,22 @@ Agenda
 > from several walks of life, including children. In this talk, I'll share
 > my thoughts and experiences on teaching children to code.
 
+### Monoids
+
+[John Cinnamond](https://twitter.com/jcinnamond):
+
+> Mathematics can make you a better person. Well, not really. It can, 
+> however, help you think about programming. This talk provides a very quick 
+> introduction to a branch of mathematics called 'general algebra' and looks
+> at how it can apply to programming. We then take a real world programming 
+> challenge and solve it algebraically, then convert that algebraic solution
+> into working code. By the end you'll be left feeling confused, perhaps a 
+> little angry, almost certainly a little bored. But without even noticing 
+> anything has changed you'll soon start to look at difficult software
+> problems and see past the superficial complexity to get a better 
+> understanding of the underlying structures at play. And you'll be a better
+> person for it.
+
 ### You?
 
 We're still looking for more talks for this meeting.  Perhaps that could
