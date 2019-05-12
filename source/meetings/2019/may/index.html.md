@@ -46,13 +46,17 @@ Agenda
 > understanding of the underlying structures at play. And you'll be a better
 > person for it.
 
-### You?
+### Writing more elegant queries with ActiveRecord
 
-We're still looking for more talks for this meeting.  Perhaps that could
-be you.  Do [get in touch](mailto:talks@lrug.org) with us if you'd like
-to volunteer.  If you've never spoken before, or have and want a refresher
-we have some tips on [speaking at lrug](http://readme.lrug.org/#talks)
-that you might find useful.
+Josh Fleck:
+
+> So often, the biggest bottleneck to scaling is the database. It's also
+> one of the areas where a little engineering effort goes a long way. 
+> This talk exists because I think it is very rewarding to write queries
+> with ActiveRecord that are easily readable and able to scale. We'll 
+> walk through some real world examples of refactoring some mingin' 
+> ActiveRecord queries, learn optimisation techniques you can put to work
+> right away, and build a deeper knowledge of relational databases.
 
 Afterwards
 ----------
