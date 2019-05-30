@@ -10,10 +10,10 @@ title: June 2019 Meeting
 updated_at: 2019-06-02 22:31:15 +0100
 published_at: 2019-06-02 22:40:11 +0100
 created_at: 2019-05-27 22:31:15 +0100
-status: Draft
+status: Published
 ---
 
-The June 2019 meeting of LRUG will be on *Monday the 10th of May*,
+The June 2019 meeting of LRUG will be on *Monday the 10th of June*,
 from _6:00pm_ to _8:00pm_ (meeting start at _6:30pm_).  The venue, [Code
 Node][skills-matter-venue] between Moorgate and Liverpool St. stations, is
 provided by [Skills Matter](http://www.skillsmatter.com).  [Full venue and
@@ -21,6 +21,12 @@ registration details are given below](#june19registration).
 
 Agenda
 ------
+
+### User-First Internationalisation
+
+Tom Lord:
+
+> Expanding a website internationally comes with many challenges; perhaps none more difficult than translating its content. In this talk, we will discuss pros and cons of various tools and techniques that my team have used to tackle this problem in ruby (along with some insight into how this differs for statically typed languages) - with a pragmatic goal of providing the best possible end-user experience at all times.
 
 ### Simplify writing code with deliberate commits
 
@@ -77,4 +83,4 @@ the same night.  Also, it's good manners, so please do [register with Skills
 Matter][skills-matter-event].
 
 [skills-matter-venue]: https://skillsmatter.com/locations/264-skills-matter-codenode
-[skills-matter-event]: https://skillsmatter.com/meetups/11952-lrug
+[skills-matter-event]: https://skillsmatter.com/meetups/11953-lrug
