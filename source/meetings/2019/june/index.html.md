@@ -30,7 +30,7 @@ Tom Lord:
 
 ### Simplify writing code with deliberate commits
 
-[Joel Chippendale](https://twitter.com/joelchippindale):
+[Joel Chippindale](https://twitter.com/joelchippindale):
 
 > As developers, a key part of our work, is in breaking down large gnarly complex problems into smaller simpler ones. But this is hard and there are many distractions along the way. In this talk I will take you through 5 habits to adopt around commiting your code which will help you keep focussed on these smaller simpler problems and make it easier for you to write good code.
 
