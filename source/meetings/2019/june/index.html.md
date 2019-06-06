@@ -34,6 +34,12 @@ Tom Lord:
 
 > As developers, a key part of our work, is in breaking down large gnarly complex problems into smaller simpler ones. But this is hard and there are many distractions along the way. In this talk I will take you through 5 habits to adopt around commiting your code which will help you keep focussed on these smaller simpler problems and make it easier for you to write good code.
 
+### A practical guide for conducting efficient code reviews
+
+[Gonçalo Morais](https://twitter.com/gnclmorais)
+
+> Do you have code reviews at your daily work? Have you ever found yourself thinking they feel like a tug of war? That writing the code is the easy part of the job? That’s OK, we put so much emphasis in languages, patterns and lines of code that is easy to forget about other (soft) skills that are required every single day. This talk will provide you a few important thoughts to have in mind for a successful and fruitful code review, both in the shoes of the reviewer and the reviewee.
+
 
 Afterwards
 ----------
