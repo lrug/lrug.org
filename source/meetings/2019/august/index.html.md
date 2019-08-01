@@ -7,8 +7,8 @@ created_by:
   name: Murray Steele
 category: meeting
 title: August 2019 Meeting
-updated_at: 2019-07-31 21:49:23 +0100
-published_at: 2019-07-31 21:49:23 +0100
+updated_at: 2019-08-01 23:14:44 +0100
+published_at: 2019-08-01 23:14:44 +0100
 created_at: 2019-07-31 21:25:11 +0100
 status: Published
 ---
@@ -98,4 +98,4 @@ the same night.  Also, it's good manners, so please do [register with Skills
 Matter][skills-matter-event].
 
 [skills-matter-venue]: https://skillsmatter.com/locations/264-skills-matter-codenode
-[skills-matter-event]: #
+[skills-matter-event]: https://skillsmatter.com/meetups/12717-lrug-august-2019
