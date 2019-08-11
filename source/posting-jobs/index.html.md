@@ -15,9 +15,9 @@ So, you're wondering if someone in the illustrious LRUG community might be able 
 
 You'll need to be signed up to the mailing list in order to post (this helps us protect the group from spam). You can do so on the [mailing list page][mailing-list] -- look for the section "Subscribing to Chat".
 
-## Put `[JOBS]` in the subject
+## Prefix your subject with `[JOBS]`
 
-Alas, there are some people who are definitely not interested in any opportunities. You can help them by adding `[JOBS]` to the start of your subject line, which they can then use to filter your email appropriate. __Please use "[JOBS]" exactly, in uppercase, surrounded by square brackets.__
+Alas, there are some people who are definitely not interested in any opportunities. You can help them by adding `[JOBS]` to the start of your subject line, which they can then use to filter your email appropriate. __Please use "[JOBS]" exactly, in uppercase, surrounded by square brackets.  So, for example, if you wanted to post with the subject "Senior Rubyist needed, remote OK", you should use the subject line `[JOBS] Senior Rubyist needed, remote OK`.
 
 ## Be as specific as possible
 
