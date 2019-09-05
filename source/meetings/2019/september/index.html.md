@@ -32,13 +32,20 @@ Agenda
 > driving yourself mad with insane mathematical equations, integrals,
 > and whatnot.
 
-### Using Rails to build your own CRM
+### How to say no to Salesforce and build your own CRM
 
 [Edwin Wills](https://twitter.com/edwinwills):
 
-### Introducing Sorbet to our codebase
+> In 2016 Rentify decided to ditch Salesforce and build our own CRM tool to
+> help manage our growing portfolio of properties and tenants across London.
+> I'll talk through why we did this, some of the features we've built, and how > we've structured the technology behind it.
 
-[Ju Liu](https://twitter.com/arkh4m)
+### Have your Sorbet and eat it too
+
+[Ju Liu](https://twitter.com/arkh4m):
+
+> A short and sweet introduction to [Sorbet](https://sorbet.org), a type checker
+> for Ruby. Learn how you can use types to write bulletproof code!
 
 Afterwards
 ----------
