@@ -10,8 +10,6 @@ title: December 2018 Meeting
 updated_at:
 published_at: 2018-11-26 13:00:00 +0100
 created_at: 2018-11-26 13:00:00 +0100
-sponsors:
-  - :name: GitHub
 status: Published
 ---
 
