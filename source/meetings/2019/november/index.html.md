@@ -13,10 +13,16 @@ created_at: 2019-10-29 15:45:00 +0100
 status: Published
 ---
 
+Change of venue!
+------
+
+We received the sad news today that Skills Matter has gone into administration and all meet-ups and conferences have been cancelled with immediate effect.
+
+Thankfully our friends at the FT have stepped in last minute to provide a venue. Full details of the event below:
+
 The November 2019 meeting of LRUG will be on *Monday the 4th of November*,
-from _6:00pm_ to _8:00pm_ (meeting starts at _6:30pm_).  The venue, [Code
-Node][skills-matter-venue] between Moorgate and Liverpool St. stations, is
-provided by [Skills Matter](http://www.skillsmatter.com).  [Full venue and
+from _6:00pm_ to _8:00pm_ (meeting starts at _6:30pm_).  The venue, [FT][ft-venue] near St Paul's, is
+provided by the [FT](https://subs.ft.com/spa3_bc1).  [Full venue and
 registration details are given below](#nov19registration).
 
 Agenda
@@ -45,26 +51,12 @@ Agenda
 
 Afterwards
 ----------
-
-We aim to wrap all the talks up by 8pm and then move the meeting into
-socialising mode.  You have a choice for this:
-
-1. [Code Node][skills-matter-venue].  Skills Matter run a bar with a
-   choice of drinks (hard and soft) available.  As well as other LRUG members
-   you can network with attendees of the other meetups that Skills Matter are
-   hosting on the same night.
-2. [The Singer Tavern](http://singertavern.com/).  This bar is a short walk
-   north from Code Node (you can find it at [1 City Road, EC1Y
-   1AG](https://goo.gl/maps/w9kPu)).  This pub has a decent food menu on offer
-   as well as a selection of drinks and other LRUG attendees to help you
-   while the evening away.
+We're hoping to find a nearby pub for socialising after the talks (which should be wrapped up by 8pm) - suggestions welcome!
 
 Of course, even though this is the socialising part and seems more
 informal, please remember that still we consider it to be a part of the
 meeting and covered by our [code of conduct](http://readme.lrug.org/#code-of-conduct).
 
-If you can't attend the talks we'd still be very happy to see you at this part
-of the meeting.  Do come along!
 
 Venue & Registration <a name="nov19registration">&nbsp;</a>
 -----------------------------------------------------------
@@ -78,16 +70,11 @@ all attendees at the talks and afterwards in the pub.
 
 The address of the venue:
 
-> Skills Matter CodeNode<br/>10 South Place<br/>London<br/>EC2M 2RB<br/><br/>[See on a map](https://goo.gl/maps/ONJT4)
+> FT<br/>Bracken House<br/>1 Friday Street<br/>EC4M 9JA<br/><br/>[See on a map](https://goo.gl/maps/j2S4QxizSZQB33BN8)
 
 ### Registration
 
-To secure a place at the meeting you *must* [register with our hosts
-Skills Matter][skills-matter-event].  It helps to
-make sure we have the room laid out with enough chairs, and in extreme cases
-that we get priority on the larger rooms over other groups using the space on
-the same night.  Also, it's good manners, so please do [register with Skills
-Matter][skills-matter-event].
+The FT need a list of names for reception, so even if you've registered with Skills Matter please [complete this form for our new hosts][ft-event].
 
-[skills-matter-venue]: https://skillsmatter.com/locations/264-skills-matter-codenode
-[skills-matter-event]: https://skillsmatter.com/meetups/13030-lrug-november-2019
+[ft-venue]: https://goo.gl/maps/j2S4QxizSZQB33BN8
+[ft-event]:  https://docs.google.com/forms/d/e/1FAIpQLSebOgq4yoPzw90Xcni4KVgAlppmjUP2xpVTrwQrSDSY_Iy4-g/viewform
