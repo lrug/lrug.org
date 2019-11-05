@@ -108,15 +108,23 @@ module LRUGHelpers
   end
 
   def hosting_sponsors
-    meeting_pages.
-      select { |mp| mp.data.parts? && mp.data.parts.has_key?('hosted_by') }.
-      flat_map { |mp| mp.data.parts['hosted_by']['content'].split("\n") }.
-      map { |sponsor_tag| sponsor_tag.match(/name\="([^"]+)"/)[1] }
+    sponsor_list('hosted_by')
   end
 
   def meeting_sponsors
-    meeting_pages.select { |mp| mp.data.sponsors? }.flat_map { |mp| mp.data.sponsors }.uniq
+    sponsor_list('sponsors')
   end
+
+  private
+  def sponsor_list(data_key)
+    meeting_pages.
+      select { |mp| mp.data.key? data_key }.
+      flat_map { |mp| mp.data[data_key] }.
+      group_by { |sp| sp.name }.
+      sort_by { |_n, sps| -sps.size }.
+      map { |_n, sps| sps.first }
+  end
+  public
 
   def sponsor_logo(sponsor_name, size: 'sidebar')
     sponsor = data.sponsors.detect { |sponsor| sponsor.name == sponsor_name }
