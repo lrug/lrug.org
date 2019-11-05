@@ -12,8 +12,9 @@ published_at: 2016-08-19 17:01:22 +0100
 created_at: 2016-08-11 09:31:32 +0100
 sponsors:
   - :name: Hired
-parts: {}
 status: Published
+hosted_by:
+  - :name: Skills Matter
 ---
 
 The September 2016 meeting of LRUG will be on *Monday the 12th of September*, from 6:00pm to 8:00pm (talks start at 6:30pm).  The venue, [Code Node](https://skillsmatter.com/locations/264-skills-matter-codenode) between Moorgate and Liverpool St. stations, is provided by [Skills Matter](http://www.skillsmatter.com).  [Full venue and registration details are given below](#sep16registration).

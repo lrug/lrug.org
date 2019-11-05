@@ -7,9 +7,9 @@ title: July 2011 Meeting
 updated_at: 2013-02-12 23:09:33 Z
 published_at: 2011-07-02 07:51:26 Z
 created_at: 2011-07-02 14:51:26 Z
-parts: {}
-
 status: Published
+hosted_by:
+  - :name: Skills Matter
 ---
 
 The July 2011 meeting of LRUG will be on *Monday* the 11th of July, from 6:30pm to 8:00pm.  Our hosts [Skills Matter](http://skillsmatter.com/) will be providing the space, at their offices on Goswell Road; [The Skills Matter eXchange](http://skillsmatter.com/location-details/design-architecture/484/96).  It's a great space with plenty of room for the group, but you still need to <a href="#jul11registration">register to let Skills Matter know you are coming</a>.

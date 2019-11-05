@@ -10,10 +10,11 @@ title: November 2016 Meeting
 updated_at:
 published_at: 2016-10-17 13:20:16 +0100
 created_at: 2016-10-17 12:54:32 +0100
-parts: {}
 sponsors:
   - :name: Cogent
 status: Published
+hosted_by:
+  - :name: Skills Matter
 ---
 
 The November 2016 meeting of LRUG will be on *__Tuesday__ the 15th of November*, from

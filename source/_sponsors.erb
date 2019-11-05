@@ -15,6 +15,16 @@
     </div>
   <% end %>
   <h4>Hosted By</h4>
-  <%= render_content_part 'hosted_by', locals[:for_page], inherit: true %>
+  <% if content_part_exists? 'hosted_by', locals[:for_page] %>
+    <%= render_content_part 'hosted_by', locals[:for_page] %>
+  <% elsif locals[:for_page].data.has_key? 'hosted_by' %>
+    <div class="sponsor_list">
+      <% locals[:for_page].data.hosted_by.each do |host| %>
+        <p><%= sponsor_logo host.name, size: 'sidebar' %></p>
+      <% end %>
+    </div>
+  <% else %>
+    <% raise "Meeting doesn't have a host" %>
+  <% end %>
   <p>Thanks!</p>
 </div>

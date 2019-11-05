@@ -24,6 +24,8 @@ parts:
 
     :filter: .md
 status: Published
+hosted_by:
+  - :name: Skills Matter
 ---
 
 The January 2018 meeting of LRUG will be on *Monday the 8th of January*,

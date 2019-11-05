@@ -10,9 +10,9 @@ title: September 2013 Meeting
 updated_at: 2013-08-25 13:29:09 Z
 published_at: 2013-08-17 00:00:00 Z
 created_at: 2013-08-17 18:24:23 Z
-parts: {}
-
 status: Published
+hosted_by:
+  - :name: Skills Matter
 ---
 
 The September 2013 meeting of LRUG will be on *Monday* the 9th of September, from 6:30pm to 8:00pm.  Our hosts [Skills Matter](http://skillsmatter.com/) will be providing the space, at their offices on Goswell Road; [The Skills Matter eXchange](http://skillsmatter.com/location-details/design-architecture/484/96).  <a href="#sep13registration">Registration details are given below</a>.

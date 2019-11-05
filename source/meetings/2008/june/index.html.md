@@ -7,9 +7,9 @@ title: June 2008 Meeting
 updated_at: 2013-02-12 23:09:21 Z
 published_at: 2008-05-27 02:17:23 Z
 created_at: 2008-05-22 13:58:17 Z
-parts: {}
-
 status: Published
+hosted_by:
+  - :name: Skills Matter
 ---
 
 <a href="http://www.flickr.com/photos/snowblink/2569082736/" title="Books and Brownies (20080609-R0011188.jpg) by snowblink, on Flickr"><img src="http://farm4.static.flickr.com/3050/2569082736_12dca99249_m.jpg" width="240" height="240" alt="Books and Brownies (20080609-R0011188.jpg)" /></a>

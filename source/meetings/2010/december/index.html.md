@@ -7,9 +7,9 @@ title: December 2010 Meeting
 updated_at: 2013-02-12 23:09:31 Z
 published_at: 2010-12-01 08:52:35 Z
 created_at: 2010-12-01 16:52:35 Z
-parts: {}
-
 status: Published
+hosted_by:
+  - :name: Skills Matter
 ---
 
 The <span style="font-family: fantasy; font-size: 1.2em;">winterval</span> meeting will be on *Monday* the 13th of December, from 6:30pm to 8:00pm.  Our hosts [Skills Matter](http://skillsmatter.com/) will be providing the space, at their offices on Goswell Road; [The Skills Matter eXchange](http://skillsmatter.com/location-details/design-architecture/484/96).  It's a great space with plenty of room for the group, but you still need to <a href="#dec10registration">register to let Skills Matter know you are coming</a>.

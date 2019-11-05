@@ -11,11 +11,8 @@ updated_at: 2019-10-29 15:45:00 +0100
 published_at: 2019-10-29 15:45:00 +0100
 created_at: 2019-10-29 15:45:00 +0100
 status: Published
-parts:
-  hosted_by:
-    :content: |
-      {::sponsor name="FT" /}
-    :filter: .md
+hosted_by:
+  - :name: FT
 
 ---
 

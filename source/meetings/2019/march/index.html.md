@@ -11,6 +11,8 @@ updated_at: 2019-02-22 16:03:34 +0000
 published_at: 2019-02-22 16:03:34 +0000
 created_at: 2019-02-22 16:03:34 +0000
 status: Published
+hosted_by:
+  - :name: Skills Matter
 ---
 
 The March 2019 meeting of LRUG will be on *Monday the 11th of March*,

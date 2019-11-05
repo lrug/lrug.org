@@ -12,8 +12,9 @@ published_at: 2013-01-25 00:00:00 Z
 created_at: 2013-01-16 22:22:26 Z
 sponsors:
   - :name: Globaldev
-parts: {}
 status: Published
+hosted_by:
+  - :name: Skills Matter
 ---
 
 The February 2013 meeting of LRUG will be on *Monday* the 11th of February, from 6:30pm to 8:00pm.  Our hosts [Skills Matter](http://skillsmatter.com/) will be providing the space, at their offices on Goswell Road; [The Skills Matter eXchange](http://skillsmatter.com/location-details/design-architecture/484/96).  It's a great space with plenty of room for the group, but you still need to <a href="#feb13registration">register to let Skills Matter know you are coming</a>.

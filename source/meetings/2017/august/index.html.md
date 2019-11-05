@@ -10,10 +10,11 @@ title: August 2017 Meeting
 updated_at: 2017-07-19 10:00:00 +0000
 published_at: 2017-07-19 13:00:00 +0000
 created_at: 2017-07-19 10:00:00 +0000
-parts: {}
 sponsors:
   - :name: Nested
 status: Published
+hosted_by:
+  - :name: Skills Matter
 ---
 
 The August 2017 meeting of LRUG will be on *Monday the 14th of August*,

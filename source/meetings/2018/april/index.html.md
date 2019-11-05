@@ -10,8 +10,9 @@ published_at: 2018-03-21 23:40:00 +0000
 created_at: 2018-03-21 23:20:00 +0000
 sponsors:
   - :name: Explore
-parts: {}
 status: Published
+hosted_by:
+  - :name: Skills Matter
 ---
 
 The April 2018 meeting of LRUG will be on *Monday the 9th of April*,

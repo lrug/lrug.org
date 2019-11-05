@@ -12,8 +12,9 @@ published_at: 2013-06-24 00:00:00 Z
 created_at: 2013-06-19 08:55:36 Z
 sponsors:
   - :name: Workshare
-parts: {}
 status: Published
+hosted_by:
+  - :name: Skills Matter
 ---
 
 The July 2013 meeting of LRUG will be on *Monday* the 15th of July, from 6:30pm to 8:00pm.  Our hosts [Skills Matter](http://skillsmatter.com/) will be providing the space, at their offices on Goswell Road; [The Skills Matter eXchange](http://skillsmatter.com/location-details/design-architecture/484/96).  <a href="#jul13registration">Registration details are given below</a>.
