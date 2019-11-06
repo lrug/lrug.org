@@ -7,9 +7,9 @@ title: May 2009 Meeting
 updated_at: 2013-02-12 23:09:25 Z
 published_at: 2009-05-05 09:23:59 Z
 created_at: 2009-04-30 21:04:32 Z
-parts: {}
-
 status: Published
+hosted_by:
+  - :name: Skills Matter
 ---
 
 The next meeting of LRUG will be on Monday the 18th of May, from 6:30pm to 8:00pm.  As usual our hosts [Skills Matter](http://skillsmatter.com/) will provide the space at [their offices](http://skillsmatter.com/location-details/home/375/1).  The room is currently at capacity, but if you <a href="#may09registration">register with them</a> they'll put you on a waiting list.

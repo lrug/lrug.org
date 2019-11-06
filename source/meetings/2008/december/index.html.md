@@ -7,9 +7,9 @@ title: December 2008 Meeting
 updated_at: 2013-02-12 23:09:23 Z
 published_at: 2008-11-25 01:59:31 Z
 created_at: 2008-11-25 09:59:31 Z
-parts: {}
-
 status: Published
+hosted_by:
+  - :name: Skills Matter
 ---
 
 <a href="http://www.flickr.com/photos/snowblink/3095342287/" title="LRUGers (R0012228) by snowblink, on Flickr"><img src="http://farm4.static.flickr.com/3141/3095342287_f270a0604d.jpg" width="500" height="330" alt="LRUGers (R0012228)" /></a>

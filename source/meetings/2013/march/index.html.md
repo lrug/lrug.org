@@ -12,8 +12,9 @@ published_at: 2013-02-24 00:00:00 Z
 created_at: 2013-02-23 13:40:41 Z
 sponsors:
   - :name: House Trip
-parts: {}
 status: Published
+hosted_by:
+  - :name: Skills Matter
 ---
 
 The March 2013 meeting of LRUG will be on *Monday* the 11th of March, from 6:30pm to 8:00pm.  Our hosts [Skills Matter](http://skillsmatter.com/) will be providing the space, at their offices on Goswell Road; [The Skills Matter eXchange](http://skillsmatter.com/location-details/design-architecture/484/96).  <a href="#mar13registration">Registration details are given below</a>.

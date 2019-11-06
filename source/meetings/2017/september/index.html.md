@@ -10,8 +10,9 @@ title: September 2017 Meeting
 updated_at: 2017-09-05 10:00:00 +0000
 published_at: 2017-09-05 11:00:00 +0000
 created_at: 2017-09-05 10:00:00 +0000
-parts: {}
 status: Published
+hosted_by:
+  - :name: Skills Matter
 ---
 
 The September 2017 meeting of LRUG will be on *Monday the 11th of September*,

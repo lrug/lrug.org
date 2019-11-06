@@ -10,8 +10,9 @@ title: July 2016 Meeting
 updated_at:
 published_at: 2016-06-16 19:16:27 +0100
 created_at: 2016-06-16 18:22:45 +0100
-parts: {}
 status: Published
+hosted_by:
+  - :name: Skills Matter
 ---
 
 The July 2016 meeting of LRUG will be on *Monday the 11th of July*, from 6:00pm to 8:00pm (talks start at 6:30pm).  The venue, [Code Node](https://skillsmatter.com/locations/264-skills-matter-codenode) between Moorgate and Liverpool St. stations, is provided by [Skills Matter](http://www.skillsmatter.com).  [Full venue and registration details are given below](#july16registration).

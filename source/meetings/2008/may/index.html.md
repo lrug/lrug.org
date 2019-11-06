@@ -7,9 +7,9 @@ title: May 2008 Meeting
 updated_at: 2013-02-12 23:09:21 Z
 published_at: 2008-04-24 04:02:38 Z
 created_at: 2008-04-20 11:46:00 Z
-parts: {}
-
 status: Published
+hosted_by:
+  - :name: Skills Matter
 ---
 
 The next meeting of LRUG will be on Monday the 12th of May, from 6:30pm to 8:00pm, our usual [Skills Matter](http://www.skillsmatter.com/) venue at [1 Sekforde St.](http://maps.google.co.uk/maps?f=q&hl=en&q=EC1R+0BE&layer=&ie=UTF8&z=16&om=1&iwloc=addr).  However, depending on numbers (see the note about <a href="#may08registration">registration</a> below) we might move to a larger venue.

@@ -10,9 +10,9 @@ title: November 2014 Meeting
 updated_at: 2014-10-27 12:06:21 Z
 published_at: 2014-10-23 23:00:00 Z
 created_at: 2014-10-24 14:34:39 Z
-parts: {}
-
 status: Published
+hosted_by:
+  - :name: Skills Matter
 ---
 
 The November 2014 meeting of LRUG will be on *Monday the 10th of November*, from 6:30pm to 8:00pm.  Our hosts [Skills Matter](http://skillsmatter.com/) will be providing the space, at their offices on Goswell Road; [The Skills Matter eXchange](https://skillsmatter.com/locations/96-skills-matter-exchange).  <a href="#nov14registration">Registration details are given below</a>.

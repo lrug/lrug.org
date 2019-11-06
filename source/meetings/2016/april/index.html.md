@@ -10,8 +10,9 @@ title: April 2016 Meeting
 updated_at:
 published_at: 2016-03-16 21:32:46 +0000
 created_at: 2016-03-16 21:05:11 +0000
-parts: {}
 status: Published
+hosted_by:
+  - :name: Skills Matter
 ---
 
 The April 2016 meeting of LRUG will be on *Monday the 11th of April*, from 6:00pm to 8:00pm (talks start at 6:30pm).  The venue, [Code Node](https://skillsmatter.com/locations/264-skills-matter-codenode) between Moorgate and Liverpool St. stations, is provided by [Skills Matter](http://www.skillsmatter.com).  [Full venue and registration details are given below](#apr16registration).

@@ -23,6 +23,8 @@ parts:
       {::sponsor name="Braintree Payments" /}
     :filter: .md
 status: Published
+hosted_by:
+  - :name: Skills Matter
 ---
 
 The September 2015 meeting of LRUG will be on *Monday the 14th of September*, from 6:00pm to 8:00pm (talks start at 6:30pm).

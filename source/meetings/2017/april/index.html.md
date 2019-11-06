@@ -12,8 +12,9 @@ published_at: 2017-03-21 17:11:00 +0000
 created_at: 2017-03-16 17:01:00 +0000
 sponsors:
   - :name: FreeAgent
-parts: {}
 status: Published
+hosted_by:
+  - :name: Skills Matter
 ---
 
 The April 2017 meeting of LRUG will be on *Monday the 10th of April*,

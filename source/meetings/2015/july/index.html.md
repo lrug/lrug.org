@@ -20,11 +20,9 @@ parts:
       ##### Drinks
       {::sponsor name="thoughtbot" /}
     :filter: .md
-  hosted_by:
-    :content: |
-      {::sponsor name="Overleaf" /}
-      {::sponsor name="Altmetric" /}
-    :filter: .md
+hosted_by:
+  - :name: Overleaf
+  - :name: Altmetric
 status: Published
 ---
 

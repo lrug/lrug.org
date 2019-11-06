@@ -12,8 +12,9 @@ published_at: 2014-01-27 00:00:00 Z
 created_at: 2014-01-13 09:40:00 Z
 sponsors:
   - :name: ReThink Recruitment
-parts: {}
 status: Published
+hosted_by:
+  - :name: Skills Matter
 ---
 
 The February 2014 meeting of LRUG will be on *Monday* the 10th of February, from 6:30pm to 8:00pm.  Our hosts [Skills Matter](http://skillsmatter.com/) will be providing the space, at their offices on Goswell Road; [The Skills Matter eXchange](http://skillsmatter.com/location-details/design-architecture/484/96).  It's a great space with plenty of room for the group, but you still need to <a href="#feb14registration">register to let Skills Matter know you are coming</a>.

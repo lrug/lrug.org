@@ -10,8 +10,9 @@ title: November 2015 Meeting
 updated_at:
 published_at: 2015-10-20 12:11:36 +0200
 created_at: 2015-10-20 12:03:05 +0200
-parts: {}
 status: Published
+hosted_by:
+  - :name: Skills Matter
 ---
 
 The November 2015 meeting of LRUG will be on *Monday the 9th of November*, from 6:00pm to 8:00pm (talks start at 6:30pm).

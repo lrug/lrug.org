@@ -10,10 +10,11 @@ title: June 2017 Meeting
 updated_at: 2017-05-25 19:00:00 +0000
 published_at: 2017-05-25 19:00:00 +0000
 created_at: 2017-05-25 19:00:00 +0000
-parts: {}
 sponsors:
   - :name: BookingBug
 status: Published
+hosted_by:
+  - :name: Skills Matter
 ---
 
 The June 2017 meeting of LRUG will be on *Monday the 12th of June*,

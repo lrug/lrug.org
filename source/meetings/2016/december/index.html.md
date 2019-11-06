@@ -10,8 +10,9 @@ title: December 2016 Meeting
 updated_at:
 published_at: 2016-11-28 10:00:00 +0000
 created_at: 2016-11-27 21:57:02 +0000
-parts: {}
 status: Published
+hosted_by:
+  - :name: Skills Matter
 ---
 
 The December 2016 meeting of LRUG will be on *Monday the 12th of December*, from

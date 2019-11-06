@@ -10,8 +10,9 @@ title: January 2017 Meeting
 updated_at:
 published_at: 2016-12-27 19:12:13 +0000
 created_at: 2016-12-27 18:56:33 +0000
-parts: {}
 status: Published
+hosted_by:
+  - :name: Skills Matter
 ---
 
 The first LRUG meeting of 2017 will be on *Monday the 9th of January*, from

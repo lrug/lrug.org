@@ -7,9 +7,9 @@ title: March 2007 Meeting
 updated_at: 2013-02-12 23:09:14 Z
 published_at: 2007-02-19 08:04:48 Z
 created_at: 2007-02-19 16:03:12 Z
-parts: {}
-
 status: Published
+hosted_by:
+  - :name: Skills Matter
 ---
 
 Our next will be on March 12th, from 6:30pm to 8:00pm at our usual [Skills Matter](http://www.skillsmatter.com/) venue at [1 Sekforde St.](http://maps.google.co.uk/maps?f=q&hl=en&q=EC1R+0BE&layer=&ie=UTF8&z=16&om=1&iwloc=addr)

@@ -7,9 +7,9 @@ title: September 2006
 updated_at: 2013-02-12 23:09:12 Z
 published_at: 2006-09-05 04:51:51 Z
 created_at: 2006-09-05 11:51:51 Z
-parts: {}
-
 status: Published
+hosted_by:
+  - :name: Skills Matter
 ---
 
 Last night Alex Bradbury gave a great presentation on [ARIEL](http://ariel.rubyforge.org/), A Ruby

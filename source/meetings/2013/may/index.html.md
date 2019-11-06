@@ -12,8 +12,9 @@ published_at: 2013-04-18 00:00:00 Z
 created_at: 2013-04-17 20:30:34 Z
 sponsors:
   - :name: Team Prime
-parts: {}
 status: Published
+hosted_by:
+  - :name: Skills Matter
 ---
 
 The May 2013 meeting of LRUG will be on *Monday* the 13th of May, from 6:30pm to 8:00pm.  Our hosts [Skills Matter](http://skillsmatter.com/) will be providing the space, at their offices on Goswell Road; [The Skills Matter eXchange](http://skillsmatter.com/location-details/design-architecture/484/96).  <a href="#may13registration">Registration details are given below</a>.

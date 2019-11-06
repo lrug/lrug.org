@@ -13,6 +13,8 @@ created_at: 2018-05-14 12:43:04 +0100
 sponsors:
   - :name: Streetbees
 status: Published
+hosted_by:
+  - :name: Skills Matter
 ---
 
 The June 2018 meeting of LRUG will be on *Monday the 18th of June*,

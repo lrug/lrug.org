@@ -35,8 +35,8 @@ At most LRUG meetings we all sport name badge stickers made using [Big.First.Nam
 The following companies have sponsored one of our meetings by hosting us when our main venue sponsor couldn't for one reason or another!
 
 <ol class="meeting-sponsor-list">
-  <% hosting_sponsors.each do |host_name| %>
-    <li><%= sponsor_logo host_name %></li>
+  <% hosting_sponsors.reject { |host| ['LRUG', 'Skills Matter'].include? host.name }.each do |host| %>
+    <li><%= sponsor_logo host.name %></li>
   <% end %>
 </ol>
 

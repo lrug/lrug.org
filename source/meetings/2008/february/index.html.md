@@ -9,9 +9,9 @@ published_at: 2008-01-25 02:11:52 Z
 created_at: 2008-01-19 12:34:39 Z
 sponsors:
   - :name: QCon
-parts: {}
-
 status: Published
+hosted_by:
+  - :name: Skills Matter
 ---
 
 The next meeting of LRUG will be on Monday the 11th of February, from 6:30pm to 8:00pm, and we'll be returning to our usual [Skills Matter](http://www.skillsmatter.com/) venue at [1 Sekforde St.](http://maps.google.co.uk/maps?f=q&hl=en&q=EC1R+0BE&layer=&ie=UTF8&z=16&om=1&iwloc=addr).

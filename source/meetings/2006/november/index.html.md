@@ -7,9 +7,9 @@ title: November 2006 Meeting
 updated_at: 2013-02-12 23:09:13 Z
 published_at: 2006-10-23 03:07:58 Z
 created_at: 2006-10-23 10:07:17 Z
-parts: {}
-
 status: Published
+hosted_by:
+  - :name: Skills Matter
 ---
 
 Our next meeting will be on Monday November 13, 6:30-8pm. We've got two great speakers lined up.

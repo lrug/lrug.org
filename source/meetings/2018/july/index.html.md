@@ -13,6 +13,8 @@ created_at: 2018-06-28 20:59:00 +0100
 sponsors:
   - :name: thoughtbot
 status: Published
+hosted_by:
+  - :name: Skills Matter
 ---
 
 The July 2018 meeting of LRUG will be on *Monday the 9th of July*,

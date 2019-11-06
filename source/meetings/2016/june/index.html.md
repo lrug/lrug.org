@@ -10,8 +10,9 @@ title: June 2016 Meeting
 updated_at:
 published_at: 2016-05-24 14:26:33 +0100
 created_at: 2016-05-24 14:14:10 +0100
-parts: {}
 status: Published
+hosted_by:
+  - :name: Skills Matter
 ---
 
 The June 2016 meeting of LRUG will be on *Monday the 13th of June*, from 6:00pm to 8:00pm (talks start at 6:30pm).  The venue, [Code Node](https://skillsmatter.com/locations/264-skills-matter-codenode) between Moorgate and Liverpool St. stations, is provided by [Skills Matter](http://www.skillsmatter.com).  [Full venue and registration details are given below](#june16registration).

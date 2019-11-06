@@ -13,8 +13,9 @@ sponsors:
   - :name: Taskforce
   - :name: New Bamboo
   - :name: Brightbox
-parts: {}
 status: Published
+hosted_by:
+  - :name: Skills Matter
 ---
 
 The next meeting of LRUG will be on Wednesday the 12th of August, from 6:30pm to 8:00pm.  As usual our hosts [Skills Matter](http://skillsmatter.com/) will provide the space, at our new venue [The Crypt](http://skillsmatter.com/location-details/home/166/26) (it's very close to the other venues).  We still need people to <a href="#aug09registration">register</a> though to make sure the room is set up properly.

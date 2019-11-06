@@ -7,9 +7,9 @@ title: October 2006 Meeting
 updated_at: 2013-02-12 23:09:13 Z
 published_at: 2006-09-22 04:24:04 Z
 created_at: 2006-09-22 11:20:17 Z
-parts: {}
-
 status: Published
+hosted_by:
+  - :name: Skills Matter
 ---
 
 Our next meeting will be on Monday October 9, 6:30-8pm. 

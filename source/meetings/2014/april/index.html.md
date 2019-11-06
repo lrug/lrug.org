@@ -12,8 +12,9 @@ published_at: 2014-03-27 00:00:00 Z
 created_at: 2014-03-24 21:05:39 Z
 sponsors:
   - :name: Resource Guru
-parts: {}
 status: Published
+hosted_by:
+  - :name: Skills Matter
 ---
 
 The April 2014 meeting of LRUG will be on *Monday the 14th of April*, from 6:30pm to 8:00pm.  Our hosts [Skills Matter](http://skillsmatter.com/) will be providing the space, at their offices on Goswell Road; [The Skills Matter eXchange](https://skillsmatter.com/locations/96-skills-matter-exchange).  <a href="#apr14registration">Registration details are given below</a>.

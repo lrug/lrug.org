@@ -10,10 +10,11 @@ title: October 2015 Meeting
 updated_at:
 published_at: 2015-09-21 10:11:34 Z
 created_at: 2015-09-21 09:40:11 Z
-parts: {}
 sponsors:
   - :name: Future Learn
 status: Published
+hosted_by:
+  - :name: Skills Matter
 ---
 
 The October 2015 meeting of LRUG will be on *Monday the 12th of October*, from 6:00pm to 8:00pm (talks start at 6:30pm).

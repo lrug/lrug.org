@@ -9,8 +9,9 @@ published_at: 2012-07-19 00:00:00 Z
 created_at: 2012-07-19 08:52:08 Z
 sponsors:
   - :name: Yammer
-parts: {}
 status: Published
+hosted_by:
+  - :name: Skills Matter
 ---
 
 The August 2012 meeting of LRUG will be on *Monday* the 13th of August, from 6:30pm to 8:00pm.  Our hosts [Skills Matter](http://skillsmatter.com/) will be providing the space, at their offices on Goswell Road; [The Skills Matter eXchange](http://skillsmatter.com/location-details/design-architecture/484/96).  <a href="#aug12registration">Registration details are given below</a>.
