@@ -224,6 +224,22 @@
     }
   },
   {
+    "name":"Farmdrop",
+    "url":"https://www.farmdrop.com",
+    "logo": {
+      "sidebar": {
+        "url": "http://assets.lrug.org/images/farmdrop_logo_small.png",
+        "width":"120",
+        "height":"74"
+      },
+      "main":{
+        "url":"http://assets.lrug.org/images/farmdrop_logo_medium.png",
+        "width":"260",
+        "height":"161"
+      }
+    }
+  },
+  {
     "name":"FreeAgent",
     "url":"http://www.freeagent.com/",
     "logo": {
