@@ -18,7 +18,7 @@ hosted_by:
 
 The December 2019 meeting of LRUG will be on *Monday the 9th of December*,
 from _6:00pm_ to _8:00pm_ (meeting starts at _6:30pm_).  The venue this
-month is provided by [Farmdrop](https://www.farmdrop.com) and is in [their
+month is provided by [Farmdrop](https://farmdrop.workable.com) and is in [their
 offices][farmdrop-venue], near Old Street.  [Full venue and
 registration details are given below](#dec19registration).
 
@@ -29,7 +29,7 @@ Agenda
 
 Not only are Farmdrop providing the venue for this meeting, they've also
 kindly offered to supply some food to get us through the evening.  Thanks
-again [Farmdrop](https://www.farmdrop.com)!
+again [Farmdrop](https://farmdrop.workable.com)!
 
 ### A talk
 
