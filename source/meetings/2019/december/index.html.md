@@ -31,11 +31,15 @@ Not only are Farmdrop providing the venue for this meeting, they've also
 kindly offered to supply some food to get us through the evening.  Thanks
 again [Farmdrop](https://farmdrop.workable.com)!
 
-### A talk
+### Make Your System Observable
 
-[Someone](https://twitter.com/on_twitter) says:
+[Gerhard Lazu](https://twitter.com/gerhardlazu) says:
 
-> something about their talk
+> This is what happened when RabbitMQ became more observable. The same
+> benefits apply to your product too. Let me show you why.
+>
+> What does it mean for a system to be observable? Why is observability a
+> requirement? How does it make everything better?
 
 Afterwards
 ----------
