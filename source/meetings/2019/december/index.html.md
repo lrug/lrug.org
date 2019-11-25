@@ -8,9 +8,9 @@ created_by:
 category: meeting
 title: December 2019 Meeting
 updated_at: 2019-11-21 21:23:00 +0100
-published_at:
+published_at: 2019-11-25 10:48:00 +0100
 created_at: 2019-11-21 21:23:00 +0100
-status: Draft
+status: Published
 hosted_by:
   - :name: Farmdrop
 
