@@ -320,6 +320,22 @@
     }
   },
   {
+    "name":"GoCardless",
+    "url":"https://gocardless.com/",
+    "logo":{
+      "sidebar":{
+        "url":"http://assets.lrug.org/images/gocardless_logo_small.png",
+        "width":"120",
+        "height":"13"
+      },
+      "main":{
+        "url":"http://assets.lrug.org/images/gocardless_logo_medium.png",
+        "width":"260",
+        "height":"26"
+      }
+    }
+  },
+  {
     "name":"Go Free Range",
     "url":"http://gofreerange.com/",
     "logo": {
