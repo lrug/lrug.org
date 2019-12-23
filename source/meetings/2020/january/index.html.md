@@ -55,6 +55,16 @@ pulling data out of a database and rendering it on a website.
 > don't want to, but you can.  You can do something similar with BMP and
 > MIDI files too!
 
+#### Ruby's a critic
+
+[Nuno Silva](https://github.com/nunosilva800) says:
+
+> [RubyCritic](https://github.com/whitesmith/rubycritic/) provides a
+> report about code quality. You can run it locally to view how your
+> project is doing and what are the smelly spots. A way of getting sense
+> of how your code quality is evolving over time is by setting it up on
+> your CI and storing the reports artefacts.
+
 #### You?
 
 We’d like to hear from people using ruby for something that is a bit out
