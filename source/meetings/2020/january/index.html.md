@@ -65,6 +65,13 @@ pulling data out of a database and rendering it on a website.
 > of how your code quality is evolving over time is by setting it up on
 > your CI and storing the reports artefacts.
 
+#### Getting started with mruby
+
+[Fred Cheung](https://github.com/fglc2) says:
+
+> find out what [mruby](https://github.com/mruby/mruby) is, why you might
+> want to use it and obstacles you might encounter along the way.
+
 #### You?
 
 We’d like to hear from people using ruby for something that is a bit out
