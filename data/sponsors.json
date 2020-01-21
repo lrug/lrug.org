@@ -592,6 +592,22 @@
     }
   },
   {
+    "name":"Simply Business",
+    "url":"https://www.simplybusiness.co.uk/",
+    "logo":{
+      "sidebar":{
+        "url":"http://assets.lrug.org/images/simply_business_logo_small.png",
+        "width":"120",
+        "height":"111"
+      },
+      "main":{
+        "url":"http://assets.lrug.org/images/simply_business_logo_medium.png",
+        "width":"260",
+        "height":"240"
+      }
+    }
+  },
+  {
     "name":"Skills Matter",
     "url":"http://skillsmatter.com/",
     "logo":{
