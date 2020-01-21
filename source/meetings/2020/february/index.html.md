@@ -81,4 +81,4 @@ else come in your place.  We might be able to let in people on the night
 who haven't registered, but we can't guarantee it.
 
 [simplybusiness-venue]: https://goo.gl/maps/BRXZR9y98tSdjc8x7
-[simplybusiness-event]: https://www.eventbrite.com/
+[simplybusiness-event]: https://www.eventbrite.com/e/london-ruby-user-group-february-2020-meeting-tickets-90874033681
