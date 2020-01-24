@@ -38,11 +38,47 @@ off hunger pangs while we are amazed by all the talks. Thanks again
 This meeting is our annual lightning talks only event.  None of the talks
 are longer than 10 minutes, and so there's something for everyone.
 
-#### Title
+#### You don't know what you don't know
 
-[person](twitter or github or their website) says:
+[Elena Tanasoiu](https://twitter.com/elenatanasoiu) says:
 
-> short write up
+> How to start an investigation into transitioning from a monolith to a microservice architecture. A number of issues to consider before you start and how to make a list of blockers on the way.
+
+#### Designing Domain-Oriented Observability in your system
+
+[Alfredo Motta](https://twitter.com/mottalrd) says:
+
+> What does it mean to make a system observable? Too often this is translated
+> into simply installing technical tools to measure low-level concerns like
+> memory, CPU or background queues size. In this talk, I will present the
+> concept of Domain-Oriented Observability, explore how it affects the cost
+> of maintaining your system and finally show some of the tools and solutions
+> that can help you put it into practice.
+
+#### Semantic Versioning, Ruby Versoning, and the forward march of progress
+
+Jon Rowe.
+
+#### Influence your company beyond code
+
+Mugurel Chirica says:
+
+> It's important for all the engineers to realise that individually they are
+> able to help shape a company's culture, tech excellence, and tech direction.
+>
+> There are various ways to achieve this, in this talk I'll present some of
+> the common options while focusing on creating communities of practice -
+> groups of people that meet with a common goal in mind and relevant to the
+> company's interest, both sponsored by leadership or started by engineers.
+
+#### From confusion to contribution
+
+Nitish Rathi says:
+
+> How I refactored my way into an open source codebase, starting from a state
+> of confusion and ending up contributing to mocha, and some things I learned along the way.
+
+
 
 Afterwards
 ----------
