@@ -6,7 +6,7 @@ created_by:
   email: murray.steele@lrug.org
   name: Murray Steele
 category: meeting
-title: February 2020 Meeting
+title: Pruary 2020 Meeting
 updated_at: 2020-01-21 11:29:00 +0100
 published_at: 2020-01-24 19:27:00 +0100
 created_at: 2020-01-21 09:49:00 +0100
@@ -16,7 +16,7 @@ hosted_by:
 
 ---
 
-The February 2020 meeting of LRUG will be on *Monday the 13th of January*,
+The February 2020 meeting of LRUG will be on *Monday the 10th of February*,
 from _6:00pm_ to _8:00pm_ (meeting starts at _6:30pm_).  The venue this
 month is provided by [Simply Business](https://www.simplybusiness.co.uk/)
 and is in [their offices][simplybusiness-venue], on Gresham St near Bank
