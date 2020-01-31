@@ -78,6 +78,13 @@ Nitish Rathi says:
 > How I refactored my way into an open source codebase, starting from a state
 > of confusion and ending up contributing to mocha, and some things I learned along the way.
 
+#### How to manage happy remote development teams
+
+[Ali Najaf](https://twitter.com/alinajaf) says:
+
+> Things I learned about how to manage and work on distributed
+> software development teams while keeping everyone happy, at least some of
+> the time.
 
 
 Afterwards
