@@ -6,7 +6,7 @@ created_by:
   email: murray.steele@lrug.org
   name: Murray Steele
 category: meeting
-title: Pruary 2020 Meeting
+title: February 2020 Meeting
 updated_at: 2020-01-21 11:29:00 +0100
 published_at: 2020-01-24 19:27:00 +0100
 created_at: 2020-01-21 09:49:00 +0100
