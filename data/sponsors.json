@@ -432,6 +432,22 @@
     }
   },
   {
+    "name":"Makers",
+    "url":"http://makers.tech",
+    "logo": {
+      "sidebar": {
+        "url":"http://assets.lrug.org/images/makers_logo_small.png",
+        "width":"120",
+        "height":"76"
+      },
+      "main": {
+        "url":"http://assets.lrug.org/images/makers_logo_medium.png",
+        "width":"260",
+        "height":"165"
+      }
+    }
+  },
+  {
     "name":"New Bamboo",
     "url":"http://newbamboo.co.uk/",
     "logo": {
