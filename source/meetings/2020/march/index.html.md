@@ -8,7 +8,7 @@ created_by:
 category: meeting
 title: March 2020 Meeting
 updated_at: 2020-02-17 21:48:00 +0100
-published_at: 2020-02-22 21:48:00 +0100
+published_at: 2020-02-20 21:55:00 +0100
 created_at: 2020-02-17 21:00:00 +0100
 status: Published
 hosted_by:
@@ -31,16 +31,29 @@ Not only are Makers providing the venue for thie month's meeting, they're
 also being kind enough to provide some food for us.  Thanks again
 [Makers](https://makers.tech/)!
 
-### Stuff
+### I got an email from the Government the other day
 
-[Someone](https://twitter.com/#) says:
+[Stuart Harrison](https://twitter.com/pezholio) says:
 
-> a thing
+> Email has been around for a long time, predating even the Internet, and
+> despite the best efforts of big tech to monopolise our communications,
+> it's still the most popular way to for people to communicate online.
+> This ubiquity means it's a really easy wayf or Government to keep in
+> touch with us, but email is a tricky thing to manage, running
+> mailservers can be a faff, and email as a service solutions can be
+> expensive. In this talk I'll go through a potted history of email, talk
+> about a tool that the Government Digital Service have developed to make
+> email easier for goverment agencies, and a Ruby gem I've build to make
+> it even easier for Rails devs.
 
-#### You?
+### My first Rails bug report
 
-We have space for more talks.  If you have something you'd like to present
-to LRUG, [get in touch](mailto:talks@lrug.org) and let us know.
+[Alex Balhatchet](https://twitter.com/kaokun) says:
+
+> Story time! Here's the bug I found, how we determined it was a bug in
+> Rails 6, how we dealt with it including working around it and submitting
+> the bug report, and finally getting to remove our workaround once the
+> bug was fixed and the new Rails was installed :)
 
 Afterwards
 ----------
