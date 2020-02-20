@@ -86,7 +86,7 @@ The address of the venue:
 
 You can register to attend via [eventbrite][makers-event].
 
-The venue has a hard limit of 50 people.  If you register and realise you
+The venue has a hard limit of 70 people.  If you register and realise you
 can't come, please use eventbrite to give up your place so we can someone
 else come in your place.  We might be able to let in people on the night
 who haven't registered, but we can't guarantee it.
