@@ -55,6 +55,14 @@ also being kind enough to provide some food for us.  Thanks again
 > the bug report, and finally getting to remove our workaround once the
 > bug was fixed and the new Rails was installed :)
 
+### Tech for good with Ruby on Rails
+
+[James Hand](https://www.linkedin.com/in/jameshand-uk/) and [Alan Bridger](https://github.com/abridger) say:
+
+> Giki Social Enterprise uses Ruby on Rails to help people live
+> sustainably. We'll talk about what we do and why Rails is such a good
+> framework for helping people to make sustainable and healthy choices.
+
 Afterwards
 ----------
 
