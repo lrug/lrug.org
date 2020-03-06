@@ -63,6 +63,17 @@ also being kind enough to provide some food for us.  Thanks again
 > sustainably. We'll talk about what we do and why Rails is such a good
 > framework for helping people to make sustainable and healthy choices.
 
+### London Ruby Events
+
+[Jairo Diaz](https://www.linkedin.com/in/jairodiaz4/) says:
+
+> I am going to tell you about the Ruby events in London that I am
+> organising such as the [Ruby Hacknight](https://www.meetup.com/ruby-hacknight-london/)
+> and [Ruby London Jobs](https://www.meetup.com/Ruby-Jobs-London/) and
+> other events for the community that are the most common. I will also
+> mention different event formats which I have experienced and found
+> useful for different purposes.
+
 Afterwards
 ----------
 
