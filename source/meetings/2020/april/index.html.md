@@ -100,4 +100,4 @@ So that's that. All the remains to be said is
 **REMAIN INDOORS**
 
 
-[apr2020-eventbrite]: https://www.eventbrite.com/manage/events/100994264564/details
+[apr2020-eventbrite]: https://www.eventbrite.com/e/100994264564/
