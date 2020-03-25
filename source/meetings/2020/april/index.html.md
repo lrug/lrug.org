@@ -91,7 +91,7 @@ It's vital that you register because we will only be sending out the meeting con
 Some of you may already be living your days in Zoom meetings but if not, and if you want a head start, you can make sure you have the Zoom client by [visiting their download page](https://zoom.us/support/download).
 
 
-So that's that. All the remains to be said is
+So that's that. All that remains to be said is
 
 **REMAIN INDOORS**
 
