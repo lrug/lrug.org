@@ -1,16 +1,14 @@
 <div id="sponsors">
-  <% if content_part_exists? 'sponsors', locals[:for_page] %>
+  <% if has_sponsors? locals[:for_page] %>
     <h4>Meeting Sponsors</h4>
     <p>Sponsorship kindly provided by:</p>
     <div class="sponsor_list">
-      <%= render_content_part 'sponsors', locals[:for_page] %>
-    </div>
-  <% elsif locals[:for_page].data.has_key? 'sponsors' %>
-    <h4>Meeting Sponsors</h4>
-    <p>Sponsorship kindly provided by:</p>
-    <div class="sponsor_list">
-      <% locals[:for_page].data.sponsors.each do |sponsor| %>
-        <p><%= sponsor_logo sponsor.name, size: 'sidebar' %></p>
+      <% if content_part_exists? 'sponsors', locals[:for_page] %>
+        <%= render_content_part 'sponsors', locals[:for_page] %>
+      <% elsif locals[:for_page].data.has_key? 'sponsors' %>
+        <% locals[:for_page].data.sponsors.each do |sponsor| %>
+          <p><%= sponsor_logo sponsor.name, size: 'sidebar' %></p>
+        <% end %>
       <% end %>
     </div>
   <% end %>
@@ -24,7 +22,7 @@
       <% end %>
     </div>
   <% else %>
-    <% raise "Meeting doesn't have a host" %>
+    Nobody, we're doing it for ourselves!
   <% end %>
-  <p>Thanks!</p>
+  <% if thanks_needed? locals[:for_page] %><p>Thanks!</p><% end %>
 </div>

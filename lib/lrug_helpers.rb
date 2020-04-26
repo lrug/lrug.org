@@ -180,6 +180,18 @@ module LRUGHelpers
     regex
   end
 
+  def thanks_needed?(page)
+    has_sponsors?(page) || has_host?(page)
+  end
+
+  def has_sponsors?(page)
+    content_part_exists?('sponsors', page) || page.data.has_key?('sponsors')
+  end
+
+  def has_host?(page)
+    content_part_exists?('hosted_by', page) || page.data.has_key?('hosted_by')
+  end
+
   private
   def inline_content_render(content, fake_pathname, locals: {})
     # create a middleman filerenderer to do the work, the extension in
