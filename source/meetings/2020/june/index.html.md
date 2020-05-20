@@ -42,9 +42,24 @@ if there's something you'd like to say to LRUG
 > We present Hanami and its differences to Rails. Then
 > we show an integration case between a Hanami and a Rails project. Finally,
 > we close with a PR on the Hanami project.
->
 
 Panos is a Senior Software Engineer at [Lavanda](https://getlavanda.com/).
+
+### Agile or Waterfall; a risk management perspective
+
+[Alfredo Motta](https://twitter.com/mottalrd):
+
+> Today Agile is the default choice for software development out there. Every
+> conference, book, or blog post is telling us we are doomed to fail if we
+> don’t follow this established convention. But isn't it surprising to think
+> that Agile is advocated as the right methodology for every possible company
+> doing software out there? Are we going to organize software development
+> exactly the same way if we are working for a startup, NASA, or FedEx? It
+> seems hard to believe. In this presentation, I will explore the mental
+> model to help you choose when you should (or sometimes should not) use
+> Agile using the lenses of risk management. My goal is to provide guidance
+> for the puzzled business owner, project manager, or software developer who
+> wants to pick what's right for their company or team.
 
 Afterwards
 ----------
