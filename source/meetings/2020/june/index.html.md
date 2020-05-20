@@ -31,7 +31,7 @@ Agenda
 ------
 
 We've got two talks for you this month.  There's room for one
-more lightning talk so get in touch if you'd like to talk about something for no more than 10 minutes.  We constantly need more
+more lightning talk so get in touch if you'd like to talk about something for no more than 10 minutes.  We need more
 talks for the rest of year, so please get in touch on [talks@lrug.org](mailto:talks@lrug.org)
 if there's something you'd like to say to LRUG
 
