@@ -87,4 +87,4 @@ your spam just in case.
 
 Do prepare yourself in advance by [downloading the zoom client](https://zoom.us/support/download).
 
-[june2020-eventbrite]: https://www.example.com
+[june2020-eventbrite]:https://www.eventbrite.com/e/lrug-june-2020-2-social-2-distant-tickets-105798869266
