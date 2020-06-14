@@ -1,4 +1,76 @@
 {
+  "2020": {
+    "february": {
+      "how-to-manage-happy-remote-development-teams": [
+        {
+          "type": "video",
+          "url": "http://assets.lrug.org/videos/2020/february/ali-najaf-how-to-manage-happy-remote-development-teams-lrug-feb-2020.mp4",
+          "title": "LRUG February 2020 - Ali Najaf - How to manage remove development teams"
+        }
+      ],
+      "semantic-versioning-ruby-versioning-and-the-forward-march-of-progress": [
+        {
+          "type": "video",
+          "url": "http://assets.lrug.org/videos/2020/february/jon-rowe-semantic-versioning-ruby-versioning-and-the-forward-march-of-progress-lrug-feb-2020.mp4",
+          "title": "LRUG February 2020 - Jon Rowe - Semantic Versioning, Ruby Versoning, and the forward march of progress"
+        }
+      ],
+      "from-confusion-to-contribution": [
+        {
+          "type": "video",
+          "url": "http://assets.lrug.org/videos/2020/february/nitish-rathi-from-confusion-to-contribution-lrug-feb-2020.mp4",
+          "title": "LRUG February 2020 - Nitish Rathi - From confusion to contribution"
+        }
+      ],
+      "influence-your-company-beyond-code": [
+        {
+          "type": "video",
+          "url": "http://assets.lrug.org/videos/2020/february/mugurel-chirica-influence-your-company-beyond-writing-code-lrug-feb-2020.mp4",
+          "title": "LRUG February 2020 - Mugurel Chirica - Influence your company beyond code"
+        }
+      ],
+      "designing-domain-oriented-obvservaibility-in-your-system": [
+        {
+          "type": "video",
+          "url": "http://assets.lrug.org/videos/2020/february/alfredo-motta-designing-domain-oriented-observaibility-in-your-system-lrug-feb-2020.mp4",
+          "title": "LRUG February 2020 - Alfredo Motta - Designing Domain-Oriented Observability in your system"
+        }
+      ],
+      "you-dont-know-what-you-dont-know": [
+        {
+          "type": "video",
+          "url": "http://assets.lrug.org/videos/2020/february/elena-tanasoiu-you-dont-know-what-you-dont-know-lrug-feb-2020.mp4",
+          "title": "LRUG February 2020 - Elena Tanasoiu - You don't know what you don't know"
+        }
+      ]
+    },
+    "april": {
+      "how-to-take-control-of-code-quality": [
+        {
+          "type": "video",
+          "url": "http://assets.lrug.org/videos/2020/february/joel-chippindale-how-to-take-control-of-code-quality-lrug-apr-2020.mp4",
+          "title": "LRUG April 2020 - Joel Chippindale - How to take control of code quality"
+        }
+      ],
+      "music-experiments-in-sonic-pi": []
+    },
+    "may": {
+      "debugging-ruby-http-library-surprises": [
+        {
+          "type": "video",
+          "url": "http://assets.lrug.org/videos/2020/february/sam-joseph-debugging-ruby-http-library-surprises-lrug-may-2020.mp4",
+          "title": "LRUG May 2020 - Sam Joseph - Debugging Ruby HTTP Library Surprises"
+        }
+      ],
+      "comparing-the-speed-and-elegance-of-different-computer-languages": [
+        {
+          "type": "video",
+          "url": "http://assets.lrug.org/videos/2020/february/peter-bell-comparing-the-speed-and-elegance-of-different-computer-languages-lrug-apr-2020.mp4",
+          "title": "LRUG May 2020 - Peter Bell - Comparing the speed and elegance of different computer languages"
+        }
+      ]
+    }
+  },
   "2016": {
     "january": {
       "from-monolith-to-microservices-a-true-story": [

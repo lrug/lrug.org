@@ -43,7 +43,7 @@ Hopefully you have some to hand. Or you could always nibble on that hoard of toi
 
 We've got two talks for you in April; we've got room for a third, and we desperately need more for the rest of year (_cough_ [talks@lrug.org](mailto:talks@lrug.org) _cough_), but anyway, where's what we've got so far:
 
-### How to take control of your code quality
+### How to take control of code quality
 
 [Joel Chippindale](https://twitter.com/joelchippindale):
 
@@ -51,13 +51,15 @@ We've got two talks for you in April; we've got room for a third, and we despera
 >
 > This talk clarifies the value of maintaining a high quality codebase, gives you guidance on how to talk about this to help you get the support of your colleagues and managers for spending time on this and also outlines some key practices that will help you achieve this.
 
+{::coverage year="2020" month="april" talk="how-to-take-control-of-code-quality" /}
+
 ### Music Experiments in Sonic Pi
 
 [Rob McKinnon](https://github.com/robmckinnon):
 
 > Let's celebrate Sonic Pi's v3.2 release, scheduled for 28 Feb!
 > Sonic Pi's an open source Ruby code-based music creation and performance tool.
-> 
+>
 > Rob's presenting a few experiments in Sonic Pi, covering oddities such as:
 >
 > * negative melody
@@ -65,8 +67,10 @@ We've got two talks for you in April; we've got room for a third, and we despera
 > * just intonation
 > * microtonal music - 19 EDO (Equal Division of the Octave)
 > * interfacing with MIDI controllers over USB and bluetooth BLE.
-> 
+>
 > Also Rob will walk us through a memory management improvement PR to Sonic Pi - that may have made it into the release.
+
+{::coverage year="2020" month="april" talk="music-experiments-in-sonic-pi" /}
 
 Afterwards
 ----------
