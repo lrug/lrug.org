@@ -2,21 +2,51 @@ require 'kramdown/parser/kramdown'
 
 class Kramdown::Parser::LRUGExtendedKramdown < Kramdown::Parser::Kramdown
   cattr_accessor :sponsors
+  cattr_accessor :coverage
 
   def handle_extension(name, opts, body, type, line_no = nil)
     case name
     when 'sponsor'
       sponsor = render_sponsor(opts['name'], opts['size'])
-      @tree.children <<
-        if type == :block
-          Element.new(:p).tap { |e| e.children << sponsor }
-        else
-          sponsor
-        end
+      if sponsor
+        @tree.children <<
+          if type == :block
+            new_block_el(:p, location: line_no).tap { |e| e.children << sponsor }
+          else
+            sponsor
+          end
+      end
+      true
+    when 'coverage'
+      coverage = render_coverage(opts['year'], opts['month'], opts['talk'])
+      @tree.children << coverage if coverage
       true
     else
       super
     end
+  end
+
+  def render_coverage(year, month, talk_id)
+    coverage = find_coverage(year, month, talk_id)
+    if coverage&.any?
+      list = new_block_el(:ol, nil, nil, location: @src.current_line_number)
+      list.attr['class'] = 'coverage'
+      coverage.each do |coverage|
+        coverage_elem = new_block_el(:li, nil, nil, location: @src.current_line_number)
+        coverage_elem.attr['class'] = "coverage-item #{coverage['type']}"
+        link = Element.new(:a, nil, nil, location: @src.current_line_number)
+        link.attr['href'] = coverage['url']
+        link.attr['rel'] = 'nofollow'
+        add_text(coverage['title'], link)
+        coverage_elem.children << link
+        list.children << coverage_elem
+      end
+      list
+    end
+  end
+
+  def find_coverage(year, month, talk_id)
+    self.class.coverage.dig(year, month, talk_id)
   end
 
   def render_sponsor(sponsor_name, image_size)
@@ -28,7 +58,7 @@ class Kramdown::Parser::LRUGExtendedKramdown < Kramdown::Parser::Kramdown
       if sponsor_details.logo && sponsor_details.logo[image_size]
         link.children << render_sponsor_image(sponsor_details.name, sponsor_details.logo[image_size])
       else
-        link.value = sponsor_details.name
+        add_text(sponsor_details.name, link)
       end
       link
     else

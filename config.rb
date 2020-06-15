@@ -17,6 +17,7 @@ require 'lib/lrug_extended_kramdown'
 # Middleman::CoreExtensions::Collections::LazyCollectorStep instead
 # of the actual data we want.
 Kramdown::Parser::LRUGExtendedKramdown.sponsors = @app.data.sponsors
+Kramdown::Parser::LRUGExtendedKramdown.coverage = @app.data.coverage
 set :markdown, input: 'LRUGExtendedKramdown'
 
 configure :build do

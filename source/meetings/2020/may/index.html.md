@@ -52,6 +52,8 @@ if there's something you'd like to say to LRUG
 > The source code is in a public Github repository details of which I will
 > provide as part of my talk
 
+{::coverage year="2020" month="may" talk="comparing-the-speed-and-elegance-of-different-computer-languages" /}
+
 ### Debugging Ruby HTTP Library Surprises
 
 [Sam Joseph](http://github.com/tansaku):
@@ -63,6 +65,8 @@ if there's something you'd like to say to LRUG
 > gems being used in your stack, debugging can expose really tricky
 > dependency bugs, as I aim to demonstrate with one that I found in the
 > way different ruby HTTP libraries can interact.
+
+{::coverage year="2020" month="may" talk="debugging-ruby-http-library-surprises" /}
 
 Afterwards
 ----------

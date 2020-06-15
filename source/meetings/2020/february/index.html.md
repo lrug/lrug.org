@@ -42,7 +42,11 @@ are longer than 10 minutes, and so there's something for everyone.
 
 [Elena Tanasoiu](https://twitter.com/elenatanasoiu) says:
 
-> How to start an investigation into transitioning from a monolith to a microservice architecture. A number of issues to consider before you start and how to make a list of blockers on the way.
+> How to start an investigation into transitioning from a monolith to a
+> microservice architecture. A number of issues to consider before you
+> start and how to make a list of blockers on the way.
+
+{::coverage year="2020" month="february" talk="you-dont-know-what-you-dont-know" /}
 
 #### Designing Domain-Oriented Observability in your system
 
@@ -55,13 +59,20 @@ are longer than 10 minutes, and so there's something for everyone.
 > of maintaining your system and finally show some of the tools and solutions
 > that can help you put it into practice.
 
+{::coverage year="2020" month="february" talk="designing-domain-oriented-obvserability-in-your-system" /}
+
 #### Semantic Versioning, Ruby Versoning, and the forward march of progress
 
-Jon Rowe.
+[Jon Rowe](https://twitter.com/JonRowe) is going to tell us about how ruby
+versioning interprets semantic versioning, and the problems that brings
+for maintainers of projects like rspec that support multiple versions of
+ruby.
+
+{::coverage year="2020" month="february" talk="semantic-versioning-ruby-versioning-and-the-forward-march-of-progress" /}
 
 #### Influence your company beyond code
 
-Mugurel Chirica says:
+[Mugurel Chirica](https://twitter.com/budmc29) says:
 
 > It's important for all the engineers to realise that individually they are
 > able to help shape a company's culture, tech excellence, and tech direction.
@@ -71,12 +82,17 @@ Mugurel Chirica says:
 > groups of people that meet with a common goal in mind and relevant to the
 > company's interest, both sponsored by leadership or started by engineers.
 
+{::coverage year="2020" month="february" talk="influence-your-company-beyond-code" /}
+
 #### From confusion to contribution
 
-Nitish Rathi says:
+[Nitish Rathi](https://twitter.com/latebound) says:
 
-> How I refactored my way into an open source codebase, starting from a state
-> of confusion and ending up contributing to mocha, and some things I learned along the way.
+> How I refactored my way into an open source codebase, starting from a
+> state of confusion and ending up contributing to mocha, and some things
+> I learned along the way.
+
+{::coverage year="2020" month="february" talk="from-confusion-to-contribution" /}
 
 #### How to manage happy remote development teams
 
@@ -85,6 +101,8 @@ Nitish Rathi says:
 > Things I learned about how to manage and work on distributed
 > software development teams while keeping everyone happy, at least some of
 > the time.
+
+{::coverage year="2020" month="february" talk="how-to-manage-happy-remote-development-teams" /}
 
 
 Afterwards
