@@ -478,6 +478,11 @@
           "type": "video",
           "url": "https://skillsmatter.com/skillscasts/6282-exploring-to_proc",
           "title": "Exploring #to_proc SkillsCast"
+        },
+        {
+          "type": "write-up",
+          "url": "https://mudge.name/2014/11/26/data-structures-as-functions/",
+          "title": "Data Structures as Functions (or, Implementing Set#to_proc and Hash#to_proc in Ruby)"
         }
       ],
       "pkgr-packaging-ruby-applications-with-no-sweat": []
