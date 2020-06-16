@@ -919,7 +919,13 @@
           "title": "Live Coding in the Classroom"
         }
       ],
-      "be-a-good-unix-citizen": []
+      "be-a-good-unix-citizen": [
+        {
+          "type": "slides",
+          "url": "https://robm.me.uk/talks/2014-10-well-behaved-unix.pdf",
+          "title": "Writing Well-Behaved Unix Utilities in Ruby"
+        }
+      ]
     },
     "november": {
       "julia-fast-and-dynamic": [],
