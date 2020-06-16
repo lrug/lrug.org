@@ -31,6 +31,8 @@ Agenda
 > convenience but hint at a more powerful idea seen in other
 > programming languages.
 
+{::coverage year="2015" month="march" talk="exploring-to-proc" /}
+
 ### pkgr - Packaging Ruby applications with no sweat
 
 [Łukasz Korecki](http://lukasz.korecki.me) says:
