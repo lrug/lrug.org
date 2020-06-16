@@ -40,6 +40,8 @@ Agenda
 > Ruby with RVM, the installation of Phusion Passenger and how to deploy
 > a database.yml when you're not allowed to see live passwords.
 
+{::coverage year="2011" month="august" talk="managing-web-application-servers-with-puppet" /}
+
 ### Chef and Vagrant
 
 [Gareth Rushgrove](http://morethanseven.net/) is a sometimes Ruby programmer and occasional sysadmin. He curates the [devopsweekly mailing list](http://devopsweekly.com/), lives in Cambridge and writes code for fun and profit.
