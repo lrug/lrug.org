@@ -65,6 +65,8 @@ her team got on with mob-programming:
 > A short story about a contribution I made to rubygems that took a couple
 > of years. And how that's totally ok.
 
+{:coverage year="2016" month="october" talk="rubygems-an-open-source-contribution-story"}
+
 Afterwards
 ----------
 

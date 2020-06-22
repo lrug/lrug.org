@@ -29,15 +29,83 @@ This month we're having our annual lightning talk evening.  If you've not been t
 
 The current line-up of 20x20-ers is as follows:
 
-* [Paul Ardeleanu](http://pardel.net/) - Paul will talk to us about Rails & iPhone integration. ([Video](http://skillsmatter.com/podcast/ajax-ria/rails-iphone-integration))
-* [Ismael Celis](http://www.estadobeta.com/) - Using [Websockets](http://dev.w3.org/html5/websockets/) with [EventMachine](http://rubyeventmachine.com/). ([Video](http://skillsmatter.com/podcast/ajax-ria/using-websockets-with-eventmachine))
-* [Joel Chippindale](http://blog.monkeysthumb.org/) - Joel will talk about [Show Off](http://github.com/schacon/showoff/); ruby-based HTML presentation software (this talk might get a bit meta). ([Video](http://skillsmatter.com/podcast/ajax-ria/show-off-a-ruby-based-html-presentation-software))
-* [Lars Jorgensen](http://www.sanger.ac.uk/) - Evolution of data models in Rails. Lessons learned. ([Video](http://skillsmatter.com/podcast/ajax-ria/evolution-of-data-models-in-rails-lessons-learned))
-* [Alex MacCaw](http://www.eribium.org/) - [Bowline](http://github.com/maccman/bowline) - Alex has been building a ruby GUI framework and wants to show it off. ([Video](http://skillsmatter.com/podcast/ajax-ria/bowline-a-ruby-gui-framework))
-* [Anup Narkhede](http://www.anup.info/) - [birdpie.com](http://birdpie.com/) - Anup will introduce the site and the architecture behind it; [Rails 3.0](http://rubyonrails.org/), [Redis](http://code.google.com/p/redis/), and [Resque](http://github.com/defunkt/resque). ([Video](http://skillsmatter.com/podcast/ajax-ria/architecture-of-birdpie-a-twitter-application))
-* [Thomas Pomfret](http://mintdigital.com/) - [Rack::Cache](http://tomayko.com/src/rack-cache/) and associated things. ([Video](http://skillsmatter.com/podcast/ajax-ria/rackcache-and-associated-things))
-* [Brent Snook](http://fuglylogic.com/) - Decorating the domain - Wrapping polymorphic presentation logic around the model. ([Video](http://skillsmatter.com/podcast/ajax-ria/decorating-the-domain-wrapping-polymorphic-presentation-logic-around-the-model))
-* [Murray Steele](http://h-lame.com/) - The mailing list suggested that Murray talk about [Fibers in Ruby 1.9](http://ruby-doc.org/core-1.9/classes/Fiber.html). ([Video](http://skillsmatter.com/podcast/ajax-ria/fibers-in-ruby-1-9))
+#### Rails & iPhone integration
+
+[Paul Ardeleanu](http://pardel.net/):
+
+> Paul will talk to us about Rails & iPhone integration.
+
+{:coverage year="2010" month="february" talk="rails-and-iphone-integration"}
+
+#### Using Websockets with EventMachine
+
+[Ismael Celis](http://www.estadobeta.com/):
+
+> Using [Websockets](http://dev.w3.org/html5/websockets/) with
+> [EventMachine](http://rubyeventmachine.com/).
+
+{:coverage year="2010" month="february" talk="using-websockets-with-eventmachibne"}
+
+#### Show Off!
+
+[Joel Chippindale](http://blog.monkeysthumb.org/):
+
+> Joel will talk about [Show Off](http://github.com/schacon/showoff/);
+> ruby-based HTML presentation software (this talk might get a bit meta).
+
+{:coverage year="2010" month="february" talk="show-off" }
+
+#### Evolution of data models in rails
+
+[Lars Jorgensen](http://www.sanger.ac.uk/)
+
+> Evolution of data models in Rails. Lessons learned.
+
+{:coverage year="2010" month="february" talk="evolution-of-data-models-in-rails" }
+
+#### Bowline - a ruby GUI framework
+
+[Alex MacCaw](http://www.eribium.org/):
+
+> [Bowline](http://github.com/maccman/bowline) - Alex has been building a
+> ruby GUI framework and wants to show it off.
+
+{:coverage year="2010" month="february" talk="bowline" }
+
+#### An intro to birdpie.com
+
+[Anup Narkhede](http://www.anup.info/)
+
+> [birdpie.com](http://birdpie.com/) - Anup will introduce the site and
+> the architecture behind it; [Rails 3.0](http://rubyonrails.org/),
+> [Redis](http://code.google.com/p/redis/), and [Resque](http://github.com/defunkt/resque).
+
+{:coverage year="2010" month="february" talk="intro-to-birdpie" }
+
+#### Rack::Cache
+
+[Thomas Pomfret](http://mintdigital.com/):
+
+> All about [Rack::Cache](http://tomayko.com/src/rack-cache/) and associated things.
+
+{:coverage year="2010" month="february" talk="rack-cache" }
+
+#### Decorating the domain
+
+[Brent Snook](http://fuglylogic.com/):
+
+> Decorating the domain - Wrapping polymorphic presentation logic around the model.
+
+{:coverage year="2010" month="february" talk="decorating-the-domain" }
+
+#### Some rough fibrous material
+
+[Murray Steele](http://h-lame.com/)
+
+> The mailing list suggested that Murray talk about [Fibers in Ruby 1.9](http://ruby-doc.org/core-1.9/classes/Fiber.html).
+
+{:coverage year="2010" month="february" talk="some-rough-fibrous-material" }
+
 
 ### "Analogue Blog"
 
