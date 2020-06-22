@@ -427,8 +427,13 @@
       "an-open-source-contribution-story": [
         {
           "type": "transcript",
-          "title": "A rubygems contribution story - slides and transcript",
-          "url": "http://h-lame.com/talks/rubygems-contribution/"
+          "title": "Talks ∋ A rubygems contribution story - slides and transcript",
+          "url": "http://www.h-lame.com/talks/rubygems-contribution/"
+        },
+        {
+          "type": "video",
+          "url": "https://skillsmatter.com/skillscasts/9122-an-open-source-contribution-story",
+          "title": "Skills Matter : Skills Cast : An open-source contribution story"
         }
       ]
     },
@@ -1861,6 +1866,99 @@
     "december": {
       "hateoas": [],
       "usable-apis": []
+    }
+  },
+  "2010": {
+    "february": {
+      "rails-and-iphone-integration": [
+        {
+          "type": "video",
+          "url": "https://skillsmatter.com/skillscasts/1244-rails-iphone-integration",
+          "title": "Skills Matter : Skills Cast : Rails & iPhone Integration"
+        }
+      ],
+      "using-websockets-with-eventmachine": [
+        {
+          "type": "video",
+          "url": "https://skillsmatter.com/skillscasts/1255-using-websockets-with-eventmachine",
+          "title": "Skills Matter : Skills Cast : Using Websockets with EventMachine"
+        }
+      ],
+      "show-off": [
+        {
+          "type": "video",
+          "url": "https://skillsmatter.com/skillscasts/1252-show-off-a-ruby-based-html-presentation-software",
+          "title": "Skills Matter : Skills Cast : Show Off, a Ruby-Based HTML Presentation Software"
+        }
+      ],
+      "evolution-of-data-models-in-rails": [
+        {
+          "type": "video",
+          "url": "https://skillsmatter.com/skillscasts/1256-evolution-of-data-models-in-rails-lessons-learned",
+          "title": "Skills Matter : Skills Cast : Evolution of Data Models in Rails - Lessons Learned"
+        }
+      ],
+      "bowline": [
+        {
+          "type": "video",
+          "url": "https://skillsmatter.com/skillscasts/1245-bowline-a-ruby-gui-framework",
+          "title": "Skills Matter : Skills Cast : Bowline: A Ruby GUI Framework"
+        }
+      ],
+      "intro-to-birdpie": [
+        {
+          "type": "video",
+          "url": "https://skillsmatter.com/skillscasts/1246-architecture-of-birdpie-a-twitter-application",
+          "title": "Skills Matter : Skills Cast : Architecture of Birdpie, a Twitter Application"
+        }
+      ],
+      "rack-cache": [
+        {
+          "type": "video",
+          "url": "https://skillsmatter.com/skillscasts/1257-rackcache-and-associated-things",
+          "title": "Skills Matter : Skills Cast : Rack::Cache and associated things"
+        }
+      ],
+      "decorating-the-domain": [
+        {
+          "type": "video",
+          "url": "https://skillsmatter.com/skillscasts/1254-decorating-the-domain-wrapping-polymorphic-presentation-logic-around-the-model",
+          "title": "Skills Matter : Skills Cast : Decorating the Domain - Wrapping Polymorphic Presentation Logic Around the Model"
+        }
+      ],
+      "some-rough-fibrous-material": [
+        {
+          "type": "transcript",
+          "url": "http://www.h-lame.com/talks/some-rough-fibrous-material",
+          "title": "Talks ∋ Some rough fibrous material"
+        },
+        {
+          "type": "video",
+          "url": "https://skillsmatter.com/skillscasts/1247-fibers-in-ruby-1-9",
+          "title": "Skills Matter : Skills Cast : Fibers in Ruby 1.9"
+        }
+      ]
+    },
+    "june": {
+      "my-first-ruby": [
+        {
+          "type": "transcript",
+          "url": "http://www.h-lame.com/talks/my-first-ruby",
+          "title": "Talks ∋ My first ruby"
+        },
+        {
+          "type": "video",
+          "url": "https://skillsmatter.com/skillscasts/1427-my-first-ruby",
+          "title": "Skills Matter : Skills Cast : My first ruby"
+        }
+      ],
+      "unix-rediscovering-the-wheel": [
+        {
+          "type": "video",
+          "url": "https://skillsmatter.com/skillscasts/1428-unix-rediscovering-the-wheel",
+          "title": "Skills Matter : Skills Cast : UNIX: Rediscovering the wheel"
+        }
+      ]
     }
   },
   "2009": {
