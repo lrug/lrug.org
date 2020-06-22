@@ -33,7 +33,7 @@ Agenda
 >
 > 3. This bit of software was written in a weekend and has been in "production" for  7 years 11 months (according to the date I filled in for "when I first started using Ruby" on my Working With Rails profile) and it's been remarkably stable and unchanged for those 7 years.  I've no real evidence for this, but it's a scientific fact that it's the longest running piece of ruby software in the world... wouldn't you like to see inside it?
 
-{::coverage year="2010" month="june" talk="my-first-ruby"}
+{::coverage year="2010" month="june" talk="my-first-ruby" /}
 
 ### UNIX: Rediscovering the wheel
 
@@ -45,7 +45,7 @@ Agenda
 >
 > UNIX-like operating systems have been around for decades and lots of problems have come and gone in that time. I'm going to talk about some of the tools available that can be used to solve common Ruby and Rails deployment and development problems.
 
-{::coverage year="2010" month="june" talk="unix-rediscovering-the-wheel"}
+{::coverage year="2010" month="june" talk="unix-rediscovering-the-wheel" /}
 
 ### "Analogue Blog"
 
