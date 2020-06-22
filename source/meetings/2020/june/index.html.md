@@ -45,6 +45,8 @@ if there's something you'd like to say to LRUG
 
 Panos is a Senior Software Engineer at [Lavanda](https://getlavanda.com/).
 
+{::coverage year="2020" month="june" talk="hanami-another-opinionated-rack-based-framework"}
+
 ### Agile or Waterfall; a risk management perspective
 
 [Alfredo Motta](https://twitter.com/mottalrd):
@@ -60,6 +62,8 @@ Panos is a Senior Software Engineer at [Lavanda](https://getlavanda.com/).
 > Agile using the lenses of risk management. My goal is to provide guidance
 > for the puzzled business owner, project manager, or software developer who
 > wants to pick what's right for their company or team.
+
+{::coverage year="2020" month="june" talk="agile-or-waterfall-a-risk-management-perspective"}
 
 Afterwards
 ----------

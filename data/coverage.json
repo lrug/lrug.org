@@ -69,6 +69,22 @@
           "title": "LRUG May 2020 - Peter Bell - Comparing the speed and elegance of different computer languages"
         }
       ]
+    },
+    "june": {
+      "agile-or-waterfall-a-risk-management-perspective": [
+        {
+          "type": "video",
+          "url": "http://assets.lrug.org/videos/2020/june/alfredo-motta-agile-or-waterfall-a-risk-management-perspective-lrug-jun-2020.mp4",
+          "title": "LRUG June 2020 - Alfredo Motta - Agile or Waterfall; a risk management perspective"
+        }
+      ],
+      "hanami-another-opinionated-rack-based-framework": [
+        {
+          "type": "video",
+          "url": "http://assets.lrug.org/videos/2020/june/panos-matsinopoulos-hanami-another-opinionated-rack-based-framework-lrug-jun-2020.mp4",
+          "title": "LRUG June 2020 - Panos Matsinopoulos - Hanami, another opinionated rack-based framework"
+        }
+      ]
     }
   },
   "2016": {
