@@ -27,6 +27,20 @@ the web.
 that **we will only be sending out the zoom meeting url to people who
 have registered, so please do make sure you do it.**
 
+### RubyConfBY Raffle
+
+The kind folks at [RubyConfBY](https://rubyconference.by/) have given us _two_
+tickets to their conference to raffle to our attendess. The conference is going
+to be held (online) on the 18th & 19th of July, between 2-6PM CET (so that's
+1-5PM BST). They've got a great line up of very interesting talks, and of
+course, it's never been easy or cheaper to attend a conference since there's no
+travel or hotel costs to factor in. But _you_ can reduce that cost to zero by
+signing up to attend LRUG.
+
+During the meeting, we'll run a raffle for all registered attendees and pick
+two. And even if you don't win in the raffle, the organisers have arranged a
+discount for LRUG members, which we'll share on the night.
+
 Agenda
 ------
 
