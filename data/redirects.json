@@ -487,6 +487,11 @@
     "from":"meetings/2015/01/06/january-2015-meeting",
     "to":"/meetings/2015/january/"
   },
+  // redirects for mistakes
+  {
+    "from":"meetings/july",
+    "to":"/meetings/2020/july/"
+  },
   // redirect old nights urls
   {
     "from":"nights/2007/06/19/episode-1-pursuit",
