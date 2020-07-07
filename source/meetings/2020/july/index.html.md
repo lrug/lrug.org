@@ -65,6 +65,20 @@ application](https://github.com/jpawlyn/secure-user-accounts#secure-user-account
 Jolyon is a volunteer at Crowdfrica, ex Contentful, Wunder Mobility and Unboxed
 Consulting, and also an aspiring yardener.
 
+### Perfect is the enemy of good
+
+[Nicky Thompson](https://twitter.com/knotnicky):
+
+> This talk is a rambling rag-tag collection of software engineering and
+> problem-solving lessons learned over the course of *mumble* years as a
+> developer and now an engineering manager. It includes practical tips,
+> philosophical insights, or just advice that other people gave me that I
+> found helpful. These ideas have helped me be better at my job over the
+> years. They are tried and tested, things that I have actually done
+> throughout my career. They might or might not help you.
+
+Nicky is an Engineering Manager at FutureLearn, providing management and support to the Technology Team. Offline, Nicky enjoys watching bad TV and learning new stuff: this year it's a serious sewing/dressmaking habit.
+
 ### .... you?
 
 As I mentioned above, we've basically run out of offers to give talks. I can
