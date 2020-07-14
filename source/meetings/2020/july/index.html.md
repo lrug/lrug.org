@@ -79,6 +79,8 @@ Consulting, and also an aspiring yardener.
 
 Nicky is an Engineering Manager at FutureLearn, providing management and support to the Technology Team. Offline, Nicky enjoys watching bad TV and learning new stuff: this year it's a serious sewing/dressmaking habit.
 
+{::coverage year="2020" month="july" talk="perfect-is-the-enemy-of-good" /}
+
 ### .... you?
 
 As I mentioned above, we've basically run out of offers to give talks. I can
