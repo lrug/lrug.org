@@ -65,6 +65,8 @@ application](https://github.com/jpawlyn/secure-user-accounts#secure-user-account
 Jolyon is a volunteer at Crowdfrica, ex Contentful, Wunder Mobility and Unboxed
 Consulting, and also an aspiring yardener.
 
+{::coverage year="2020" month="july" talk="improved-security-for-password-authentication" /}
+
 ### Perfect is the enemy of good
 
 [Nicky Thompson](https://twitter.com/knotnicky):

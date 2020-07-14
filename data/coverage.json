@@ -93,6 +93,13 @@
           "url": "http://assets.lrug.org/videos/2020/july/nicky-thompson-perfect-is-the-enemy-of-good-lrug-jul-2020.mp4",
           "title": "LRUG July 2020 - Nicky Thompson - Perfect is the enemy of good"
         }
+      ],
+      "improved-security-for-password-authentication": [
+        {
+          "type": "video",
+          "url": "http://assets.lrug.org/videos/2020/july/jolyon-pawlyn-improved-security-for-password-authentication-lrug-jul-2020.mp4",
+          "title": "LRUG July 2020 - Jolyon Pawlyn - Improved security for password authentication"
+        }
       ]
     }
   },
