@@ -80,5 +80,4 @@ your spam just in case.
 
 Do prepare yourself in advance by [downloading the zoom client](https://zoom.us/support/download).
 
-[august2020-eventbrite]:
-https://www.eventbrite.com/e/lrug-august-2020-how-can-it-possibly-be-august-already-tickets-115704955637
+[august2020-eventbrite]: https://www.eventbrite.com/e/lrug-august-2020-how-can-it-possibly-be-august-already-tickets-115704955637
