@@ -45,6 +45,8 @@ if there's something you'd like to say to LRUG
 > by next week!). This is a set of lessons learned in a journey from self
 > taught front end developer to senior polyglot developer (via ruby).
 
+{::coverage year="2020" month="august" talk="language-doesnt-matter-what-makes-a-senior-engineer" /}
+
 ### Doing the right thing
 
 [Chris Zetter](https://chriszetter.com):
@@ -53,6 +55,8 @@ if there's something you'd like to say to LRUG
 > our behaviour. Using examples from my experience, i'll share some tools
 > that you can use to understand ethical decisions and ways to help
 > ourselves and our team make the right choices.
+
+{::coverage year="2020" month="august" talk="doing-the-right-thing" /}
 
 Afterwards
 ----------
