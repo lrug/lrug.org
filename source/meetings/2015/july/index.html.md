@@ -19,7 +19,7 @@ parts:
     :content: |
       ##### Drinks
       {::sponsor name="thoughtbot" /}
-    :filter: .md
+    :render_as: .md
 hosted_by:
   - :name: Overleaf
   - :name: Altmetric

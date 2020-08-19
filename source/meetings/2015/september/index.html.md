@@ -21,7 +21,7 @@ parts:
 
       ##### Tickets & Drinks
       {::sponsor name="Braintree Payments" /}
-    :filter: .md
+    :render_as: .md
 status: Published
 hosted_by:
   - :name: Skills Matter

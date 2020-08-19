@@ -15,14 +15,14 @@ parts:
         <% end %>
       </ul>
 
-    :filter: .erb
+    :render_as: .erb
   download_link:
     :content: |
       <p class="download">
         <a href="<%= page.data.file_url %>" title="Download the podcast directly">Download the podcast directly</a>, <a href="itpc://feeds.feedburner.com/lrugpodcast.xml">subscribe in iTunes</a> or <a href="http://feeds.feedburner.com/lrugpodcast">add the RSS feed</a> to your podcast client.
       </p>
 
-    :filter: .erb
+    :render_as: .erb
 updated_at: 2013-02-23 13:59:37 Z
 status: Published
 created_by:

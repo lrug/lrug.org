@@ -31,7 +31,7 @@ parts:
       {::sponsor name="Avdi Grimm" /}
       {::sponsor name="Peepcode" /}
 
-    :filter: .md
+    :render_as: .md
 status: Published
 hosted_by:
   - :name: Skills Matter

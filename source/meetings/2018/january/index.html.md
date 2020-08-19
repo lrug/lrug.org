@@ -22,7 +22,7 @@ parts:
       {::sponsor name="Carwow" /}
       {::sponsor name="Avdi Grimm" /}
 
-    :filter: .md
+    :render_as: .md
 status: Published
 hosted_by:
   - :name: Skills Matter

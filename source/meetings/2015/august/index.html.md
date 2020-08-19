@@ -21,7 +21,7 @@ parts:
 
       ##### Drinks
       {::sponsor name="thoughtbot" /}
-    :filter: .md
+    :render_as: .md
 status: Published
 hosted_by:
   - :name: Skills Matter
