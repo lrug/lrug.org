@@ -6,7 +6,7 @@ parts:
   excerpt:
     :content: |
       Peter Jones reviews his copy of ['Beginning Ruby' by Peter Cooper](http://www.amazon.co.uk/Beginning-Ruby-Experts-Voice-Source/dp/1590597664), published by [Apress](http://www.apress.com/)
-    :filter: .md
+    :render_as: .md
 updated_at: 2013-02-12 23:09:16 Z
 status: Published
 created_by: 

@@ -75,11 +75,11 @@ module LRUGHelpers
   def render_content_part(part_name, page, inherit: false)
     part = find_page_part(part_name, page, inherit: inherit)
     if part
-      if part['filter'].present?
-        renderers = part['filter'].split('.').reverse.reject { |renderer| renderer.blank? }
-        # Add all the filters to the fake path
-        pathname = "#{page.path}#content-part-#{part_name}#{part['filter']}"
-        # Always push things through erb even if it's not an explicit filter
+      if part['render_as'].present?
+        renderers = part['render_as'].split('.').reverse.reject { |renderer| renderer.blank? }
+        # Add all the render_as extensions to the fake path
+        pathname = "#{page.path}#content-part-#{part_name}#{part['render_as']}"
+        # Always push things through erb even if it's not an explicit render_as
         unless renderers.first == 'erb'
           renderers.prepend('erb')
           pathname.concat('.erb')

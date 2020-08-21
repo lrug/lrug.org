@@ -7,7 +7,7 @@ parts:
     :content: |
       Graham Seaman reviews his copy of ['Beginning Google Maps Applications with Rails and Ajax - from novice to
       professional' by A. Lewis](http://www.amazon.co.uk/Beginning-Google-Maps-Applications-Rails/dp/1590597877/ref=sr_1_2/203-7531475-6650320?ie=UTF8&s=books&qid=1180086616&sr=1-2),  published by [Apress](http://www.apress.com/)
-    :filter: .md
+    :render_as: .md
 updated_at: 2013-02-12 23:09:15 Z
 status: Published
 created_by: 

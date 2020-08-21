@@ -6,7 +6,7 @@ parts:
   excerpt: 
     :content: |
       Anthony Green has been writing reviews of programming books on [Amazon.co.uk](http://www.amazon.co.uk/) for a while now.  Below is a list of his current Ruby book reviews.
-    :filter: .md
+    :render_as: .md
 updated_at: 2013-02-12 23:09:15 Z
 status: Published
 created_by: 
