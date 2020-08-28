@@ -165,7 +165,7 @@ module LRUGHelpers
 
   def meeting_calendar_link
     render_markdown(
-      %{<span class="calendar-link">[![Calendar subscription](http://assets.lrug.org/images/calendar_down.gif) Meeting Calendar](/meeting-calendar)</span>}
+      %{<span class="calendar-link">[![Calendar subscription](https://assets.lrug.org/images/calendar_down.gif) Meeting Calendar](/meeting-calendar)</span>}
     )
   end
 

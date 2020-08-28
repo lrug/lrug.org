@@ -4,7 +4,7 @@ title: "Episode #5: Abdel Saleh"
 created_at: 2011-02-01 21:42:39 Z
 duration: "33:00"
 file_size: 31938890
-file_url: "http://assets.lrug.org/podcasts/lrug_podcast_episode_5.mp3"
+file_url: "https://assets.lrug.org/podcasts/lrug_podcast_episode_5.mp3"
 keywords: "ruby, london, said.fm, radio, podcast, heroku, machine learning"
 updated_at: 2013-02-12 23:09:32 Z
 status: Published

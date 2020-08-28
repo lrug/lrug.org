@@ -61,7 +61,7 @@ During the talks there will be some drinks available (alcoholic and soft), provi
 
 ### Pizza!
 
-[<img src="http://assets.lrug.org/images/skills_matter_medium.png" width="240" height="90" alt="Skills Matter?" title="Skills Matter"/>](http://www.skillsmatter.com/)
+[<img src="https://assets.lrug.org/images/skills_matter_medium.png" width="240" height="90" alt="Skills Matter?" title="Skills Matter"/>](http://www.skillsmatter.com/)
 
 During the talks there will be some pizzas available (vegetarian & vegan options available), provided by our hosts [Skills Matter](http://www.skillsmatter.com/).
 

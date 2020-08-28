@@ -1,14 +1,14 @@
 body {
-  background: #032979 url(http://assets.lrug.org/images/bottom.png) bottom left repeat-x;
+  background: #032979 url(https://assets.lrug.org/images/bottom.png) bottom left repeat-x;
   margin: 0em;
   padding: 0em;
 }
 div#container {
   /* #032a7a */
-  background: url(http://assets.lrug.org/images/lrug-nights-background.png) repeat-x;
+  background: url(https://assets.lrug.org/images/lrug-nights-background.png) repeat-x;
 }
 h1 {
-  background: transparent url(http://assets.lrug.org/images/lrug-nights-logo.png) no-repeat;
+  background: transparent url(https://assets.lrug.org/images/lrug-nights-logo.png) no-repeat;
   width: 593px;
   height: 488px;
   margin: auto;

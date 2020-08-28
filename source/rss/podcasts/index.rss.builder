@@ -36,7 +36,7 @@ xml.rss 'xmlns:itunes' => 'http://www.itunes.com/dtds/podcast-1.0.dtd', version:
       xml.itunes :name, 'El Rug'
       xml.itunes :email, 'chat@lrug.org'
     end
-    xml.itunes :image, href: 'http://assets.lrug.org/images/el-rug-sidebar.png'
+    xml.itunes :image, href: 'https://assets.lrug.org/images/el-rug-sidebar.png'
     xml.itunes :category, text: 'Technology'
     podcasts.each do |podcast|
       xml.item do

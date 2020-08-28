@@ -4,7 +4,7 @@ title: "Episode #4: Alex MacCaw"
 created_at: 2010-12-24 10:07:17 Z
 duration: "15:19"
 file_size: 14776027
-file_url: "http://assets.lrug.org/podcasts/lrug_podcast_episode_4.mp3"
+file_url: "https://assets.lrug.org/podcasts/lrug_podcast_episode_4.mp3"
 keywords: "ruby, london, javascript, lrug"
 updated_at: 2013-02-12 23:09:31 Z
 status: Published

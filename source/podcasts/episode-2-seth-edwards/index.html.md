@@ -4,7 +4,7 @@ title: "Episode #2: Seth Edwards"
 created_at: 2010-05-01 08:20:48 Z
 duration: "14:35"
 file_size: 14006148
-file_url: "http://assets.lrug.org/podcasts/lrug_podcast_episode_2.mp3"
+file_url: "https://assets.lrug.org/podcasts/lrug_podcast_episode_2.mp3"
 keywords: "mongodb, ruby, c#"
 updated_at: 2013-02-12 23:09:29 Z
 status: Published

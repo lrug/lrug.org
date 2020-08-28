@@ -4,7 +4,7 @@ title: "Episode #3: Murray Steele"
 created_at: 2010-07-06 22:23:53 Z
 duration: "26:54"
 file_size: 25819345
-file_url: "http://assets.lrug.org/podcasts/lrug_podcast_episode_3.mp3"
+file_url: "https://assets.lrug.org/podcasts/lrug_podcast_episode_3.mp3"
 keywords: "ruby, lrug, conference"
 updated_at: 2013-02-12 23:09:30 Z
 status: Published
