@@ -26,14 +26,15 @@
 }
 
 #main {
-  display: grid;
-  grid-template-columns: repeat(12, 1fr);
   grid-gap: var(--space-16);
+  overflow: hidden;
+
+  @media only screen and (min-width: 1024px) {
+    display: grid;
+    grid-template-columns: repeat(12, 1fr);
+  }
 
   #content-wrapper {
-    grid-column: 1 / 13;
-    grid-row: 1;
-
     @media only screen and (min-width: 1024px) {
       grid-column: 4 / 13;
       grid-row: 1;
@@ -41,9 +42,6 @@
   }
 
   #sidebar-wrapper {
-    grid-column: 1 / 13;
-    grid-row: 2;
-
     @media only screen and (min-width: 1024px) {
       grid-column: 1 / 4;
       grid-row: 1;
