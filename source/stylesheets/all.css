@@ -1,25 +1,5 @@
-.hidden {
-  display: none;
-}
-#page {
-  width: 700px;
-  margin: 20px auto;
-}
-#main {
-  margin-top: 1em;
-  overflow: auto;
-  height: 1%;
-}
 #info {
   text-align: right;
-}
-#sidebar-wrapper {
-  width: 200px;
-  float: right;
-}
-#content-wrapper {
-  width: 500px;
-  float: right;
 }
 #content {
   margin-top: 0em;
@@ -40,15 +20,9 @@ div#content .entry {
 div#content .first.entry {
   font-size: 1.1em;
 }
-.notice {
-  color: red;
-}
 .calendar-link img {
   display: inline;
   vertical-align: bottom;
-}
-.minor {
-  font-size: 90%;
 }
 
 @media print {
