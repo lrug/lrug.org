@@ -10,20 +10,6 @@
   overflow: auto;
   height: 1%;
 }
-#header {
-  font-size: 20px;
-}
-#site-title {
-  margin: 0em;
-  padding: 10px;
-  border: 1px dotted #f00;
-}
-#site-title span.line {
-  display: inline;
-}
-#site-title span.ruby {
-  color: #c00;
-}
 #info {
   text-align: right;
 }
