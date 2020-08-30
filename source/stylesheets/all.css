@@ -31,19 +31,6 @@
   width: 200px;
   float: right;
 }
-div#sidebar {
-  border: 1px dotted red;
-  margin-right: 20px;
-  padding: 0.5em 1em;
-  font-size: 0.95em;
-}
-div#sidebar h3 {
-  margin-top: 0em;
-  padding-top: 0em;
-}
-div#sidebar ul {
-  padding-left: 1em;
-}
 #content-wrapper {
   width: 500px;
   float: right;
@@ -66,11 +53,6 @@ div#content .entry {
 }
 div#content .first.entry {
   font-size: 1.1em;
-}
-img {
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
 }
 .notice {
   color: red;
