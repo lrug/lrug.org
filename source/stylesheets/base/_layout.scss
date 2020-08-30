@@ -1,0 +1,43 @@
+/* This is the base.erb layout:
+ * #page {}
+ *   #header {}
+ *   #main {}
+ *     #content-wrapper {}
+ *       #content {}
+ *     #sidebar-wrapper {}
+ *       #sidebar {}
+ *   #footer {}
+ */
+
+*, :before, :after {
+  box-sizing: border-box;
+}
+
+#page {
+  width: 100%;
+  max-width: var(--page-max-width);
+  margin: 0 auto;
+  padding-left: var(--space-8);
+  padding-right: var(--space-8);
+}
+
+#header {
+  //margin-bottom: var(--space-6);
+}
+
+
+#main {
+  display: grid;
+  grid-template-columns: repeat(12, 1fr);
+  grid-gap: var(--space-16);
+
+  #content-wrapper {
+    grid-column: 4 / 13;
+    grid-row: 1;
+  }
+
+  #sidebar-wrapper {
+    grid-column: 1 / 4;
+    grid-row: 1;
+  }
+}

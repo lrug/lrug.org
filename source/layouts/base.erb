@@ -19,7 +19,7 @@
     <link rel="shortcut icon" href="https://assets.lrug.org/favicon.ico" />
     <link rel="icon" href="https://assets.lrug.org/favicon.ico" />
 
-    <%= stylesheet_link_tag "normalize", "all" %>
+    <%= stylesheet_link_tag "site" %>
 
     <!-- Facebook OpenGraph tags -->
     <meta property="og:url" content="<%= the_url %>" />
@@ -41,6 +41,7 @@
   <body class="<%= page_classes %>">
     <div id="page">
       <%= partial 'header' %>
+
       <div id="main">
         <div id="content-wrapper">
           <div id="content">
@@ -53,6 +54,7 @@
           </div>
         </div>
       </div>
+
       <%= partial 'footer' %>
     </div>
   </body>
