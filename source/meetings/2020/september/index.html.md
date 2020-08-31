@@ -7,8 +7,8 @@ created_by:
   name: Murray Steele
 category: meeting
 title: September 2020 Meeting
-updated_at: 2020-08-16 20:47:00 +0100
-published_at: 2020-08-16 20:47:00 +0100
+updated_at: 2020-08-31 20:38:19 +0100
+published_at: 2020-08-31 20:38:00 +0100
 created_at: 2020-08-16 20:47:00 +0100
 status: Published
 
@@ -29,9 +29,10 @@ have registered, so please do make sure you do it.**
 Agenda
 ------
 
-We've got ??? talks this month. We also need more
-talks for the rest of year, so please get in touch on [talks@lrug.org](mailto:talks@lrug.org)
-if there's something you'd like to say to LRUG
+We've got two talks lined up for you this month. We also need more talks
+for the rest of year, and beyond, so please get in touch on
+[talks@lrug.org](mailto:talks@lrug.org) if there's something you'd like to
+say to LRUG.
 
 ### StimulusJS: Modest JS for the HTML you have
 
@@ -40,11 +41,13 @@ if there's something you'd like to say to LRUG
 > An overview of [StimulusJS]() (a small framework from Basecamp) and
 > discussion on when you might (or might not!) want to use it
 
-### You?
+### Wizards without magic
 
-We still have space in the agenda for another talk or two, so if there's
-something you'd like to say to a captive audience of rubyists, [do get in
-touch so we can give you that opportunity](mailto:talks@lrug.org)
+[Duncan Brown](https://github.com/duncanjbrown):
+
+> Multi-step forms (a.k.a wizards) are fiddly to build and difficult to
+> test. (And not just in Rails). Why is that, and how can we make them
+> better?
 
 Afterwards
 ----------
@@ -75,4 +78,4 @@ your spam just in case.
 
 Do prepare yourself in advance by [downloading the zoom client](https://zoom.us/support/download).
 
-[sept2020-eventbrite]: https://www.eventbrite.com/e/
+[sept2020-eventbrite]: https://www.eventbrite.com/e/lrug-september-2020-autumn-begins-tickets-118981989333
