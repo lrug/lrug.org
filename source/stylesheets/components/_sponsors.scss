@@ -2,8 +2,9 @@ div#sponsors {
   float: right;
   width: 130px;
   border: 1px dotted #f00;
-  padding: 5px;
-  margin-left: 5px;
+  padding: var(--space-3);
+  margin-left: var(--space-4);
+  margin-bottom: var(--space-2);
   font-size: 0.8em;
 }
 div#sponsors h4 {
