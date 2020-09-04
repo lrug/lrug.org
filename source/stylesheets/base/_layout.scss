@@ -26,23 +26,29 @@
 }
 
 #main {
-  grid-gap: var(--space-16);
   overflow: hidden;
+  display: grid;
+  grid-template-columns: repeat(12, 1fr);
 
-  @media only screen and (min-width: 1024px) {
-    display: grid;
-    grid-template-columns: repeat(12, 1fr);
+  @media only screen and (min-width: 1280px) {
+    grid-gap: var(--space-16);
   }
 
   #content-wrapper {
-    @media only screen and (min-width: 1024px) {
+    grid-column: span 12;
+    grid-row: 1;
+
+    @media only screen and (min-width: 1280px) {
       grid-column: 4 / 13;
       grid-row: 1;
     }
   }
 
   #sidebar-wrapper {
-    @media only screen and (min-width: 1024px) {
+    grid-column: span 12;
+    grid-row: 2;
+
+    @media only screen and (min-width: 1280px) {
       grid-column: 1 / 4;
       grid-row: 1;
     }
