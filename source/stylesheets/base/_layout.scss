@@ -39,9 +39,12 @@
     grid-column: span 12;
     grid-row: 1;
 
+    @media only screen and (min-width: 1024px) {
+      grid-column: 5 / 13;
+    }
+
     @media only screen and (min-width: 1280px) {
       grid-column: 4 / 13;
-      grid-row: 1;
     }
   }
 
@@ -49,9 +52,13 @@
     grid-column: span 12;
     grid-row: 2;
 
-    @media only screen and (min-width: 1280px) {
+    @media only screen and (min-width: 1024px) {
       grid-column: 1 / 4;
       grid-row: 1;
+    }
+
+    @media only screen and (min-width: 1280px) {
+      grid-column: 1 / 4;
     }
   }
 }
