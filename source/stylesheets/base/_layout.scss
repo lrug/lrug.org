@@ -15,11 +15,11 @@
 
 #page {
   width: 100%;
+  min-width: var(--page-min-width);
   max-width: var(--page-max-width);
   margin: 0 auto;
   padding-left: var(--space-8);
   padding-right: var(--space-8);
-  min-width: 375px;
 }
 
 #header {
