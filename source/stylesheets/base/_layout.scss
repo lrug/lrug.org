@@ -9,10 +9,6 @@
  *   #footer {}
  */
 
-*, :before, :after {
-  box-sizing: border-box;
-}
-
 #page {
   width: 100%;
   min-width: var(--page-min-width);
@@ -20,10 +16,6 @@
   margin: 0 auto;
   padding-left: var(--space-8);
   padding-right: var(--space-8);
-}
-
-#header {
-  //margin-bottom: var(--space-6);
 }
 
 #main {
