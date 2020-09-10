@@ -1,3 +1,21 @@
 *, :before, :after {
   box-sizing: border-box;
 }
+
+@media print {
+  a[href^="http"]:after {
+    content: " (" attr(href) ") ";
+    font-weight: normal;
+  }
+
+  a[href^="/"]:after {
+    content: " (http://lrug.org" attr(href) ") ";
+    font-weight: normal;
+  }
+
+  a[href^="#"]:after,
+  #sponsors a:after,
+  h2 a:after {
+    content: "" !important;
+  }
+}
