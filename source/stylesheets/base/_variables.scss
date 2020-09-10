@@ -1,18 +1,17 @@
-:root {
-  // Same spacing scale as Tailwind https://tailwindcss.com/docs/theme#spacing
-  --space-1: 0.25rem;
-  --space-2: 0.5rem;
-  --space-3: 0.75rem;
-  --space-4: 1rem;
-  --space-6: 1.5rem;
-  --space-8: 2rem;
-  --space-16: 4rem;
+// Same spacing scale as Tailwind https://tailwindcss.com/docs/theme#spacing
+$space-1: 0.25rem;
+$space-2: 0.5rem;
+$space-3: 0.75rem;
+$space-4: 1rem;
+$space-6: 1.5rem;
+$space-8: 2rem;
+$space-12: 3rem;
+$space-16: 4rem;
 
-  // Site 
-  --page-min-width: 320px;
-  --page-max-width: 1280px;
+// Site 
+$page-min-width: 320px;
+$page-max-width: 1280px;
 
-  // Breakpoints - Annoyingly you can't use them within media queries, but here they are anyway
-  // --screen-md: 1024px;
-  // --screen-lg: 1280px;
-}
+// Breakpoints - Annoyingly you can't use them within media queries, but here they are anyway
+$screen-md: 1024px;
+$screen-lg: 1280px;

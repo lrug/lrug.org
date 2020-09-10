@@ -1,6 +1,6 @@
 #sidebar {
   border: 1px dotted red;
-  padding: var(--space-4);
+  padding: $space-4;
 
   font-size: 0.95em;
 }
@@ -10,5 +10,5 @@
   padding-top: 0;
 }
 #sidebar ul {
-  padding-left: var(--space-4);
+  padding-left: $space-4;
 }

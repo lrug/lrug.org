@@ -11,11 +11,11 @@
 
 #page {
   width: 100%;
-  min-width: var(--page-min-width);
-  max-width: var(--page-max-width);
+  min-width: $page-min-width;
+  max-width: $page-max-width;
   margin: 0 auto;
-  padding-left: var(--space-8);
-  padding-right: var(--space-8);
+  padding-left: $space-8;
+  padding-right: $space-8;
 }
 
 #main {
@@ -23,19 +23,19 @@
   display: grid;
   grid-template-columns: repeat(12, 1fr);
 
-  @media only screen and (min-width: 1280px) {
-    grid-gap: var(--space-16);
+  @media only screen and (min-width: $screen-md) {
+    grid-gap: $space-12;
   }
 
   #content-wrapper {
     grid-column: span 12;
     grid-row: 1;
 
-    @media only screen and (min-width: 1024px) {
+    @media only screen and (min-width: $screen-md) {
       grid-column: 5 / 13;
     }
 
-    @media only screen and (min-width: 1280px) {
+    @media only screen and (min-width: $screen-md) {
       grid-column: 4 / 13;
     }
   }
