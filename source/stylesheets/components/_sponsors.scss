@@ -18,3 +18,9 @@ div#sponsors img {
   border: none;
   margin-bottom: 1em;
 }
+
+@media print {
+  #sponsors a:after {
+    content: "" !important;
+  }
+}
