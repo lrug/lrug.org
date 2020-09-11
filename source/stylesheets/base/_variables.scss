@@ -1,4 +1,4 @@
-// Same spacing scale as Tailwind https://tailwindcss.com/docs/theme#spacing
+// Spacing scale - Same as Tailwind https://tailwindcss.com/docs/theme#spacing
 $space-1: 0.25rem;
 $space-2: 0.5rem;
 $space-3: 0.75rem;
@@ -12,6 +12,6 @@ $space-16: 4rem;
 $page-min-width: 320px;
 $page-max-width: 1024px;
 
-// Breakpoints - Annoyingly you can't use them within media queries, but here they are anyway
+// Breakpoints - Based on Tailwind https://tailwindcss.com/docs/breakpoints#app
 $screen-md: 1024px;
 $screen-lg: 1280px;
