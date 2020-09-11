@@ -24,7 +24,7 @@
   grid-template-columns: repeat(12, 1fr);
 
   @media only screen and (min-width: $screen-md) {
-    grid-gap: $space-12;
+    grid-gap: $space-6;
   }
 
   #content-wrapper {
