@@ -11,6 +11,9 @@ div#content .entry {
   margin-bottom: 1em;
   border-bottom: 1px solid #f00;
 }
+
 div#content .first.entry {
-  font-size: 1.1em;
+  @media only screen and (min-width: $screen-lg) {
+    font-size: 1.1em;
+  }
 }

@@ -1,11 +1,10 @@
 #header {
   margin-top: $space-3;
-  margin-bottom: $space-3;
   overflow: hidden;
 
   @media only screen and (min-width: $screen-lg) {
     margin-top: $space-6;
-    margin-bottom: $space-6;
+    margin-bottom: $space-3;
   }
 
   .header__branding {
