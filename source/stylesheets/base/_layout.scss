@@ -14,8 +14,13 @@
   min-width: $page-min-width;
   max-width: $page-max-width;
   margin: 0 auto;
-  padding-left: $space-8;
-  padding-right: $space-8;
+  padding-left: $space-4;
+  padding-right: $space-4;
+
+  @media only screen and (min-width: $screen-md) {
+    padding-left: $space-8;
+    padding-right: $space-8;
+  }
 }
 
 #main {
