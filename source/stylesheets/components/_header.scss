@@ -1,15 +1,27 @@
 #header {
-  font-size: 20px;
   margin-top: $space-6;
+  margin-bottom: $space-6;
+  overflow: hidden;
+
+  .header__branding {
+    float: left;
+    margin-right: $space-4;
+    margin-bottom: $space-2;
+    background: #fffec9;
+    overflow: hidden;
+
+    @media only screen and (min-width: $screen-lg) {
+      display: none;
+    }
+  }
 
   #site-title {
     margin: 0;
     padding: $space-4;
     border: 1px dotted #f00;
+    font-size: 20px;
   }
-  #site-title span.line {
-    display: inline;
-  }
+
   #site-title span.ruby {
     color: #c00;
   }

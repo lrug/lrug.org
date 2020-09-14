@@ -13,5 +13,6 @@ $page-min-width: 320px;
 $page-max-width: 1024px;
 
 // Breakpoints - Based on Tailwind https://tailwindcss.com/docs/breakpoints#app
-$screen-md: 1024px;
-$screen-lg: 1280px;
+$screen-md: 768px;
+$screen-lg: 1024px;
+$screen-xl: 1280px;
