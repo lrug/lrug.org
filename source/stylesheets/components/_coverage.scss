@@ -1,0 +1,44 @@
+.coverage::before {
+  content: 'Coverage of this talk';
+  font-size: 1.2em;
+  font-weight: bold;
+}
+.coverage {
+  list-style: none;
+  padding: 5px;
+  border: 1px dotted #f00;
+
+  @media print {
+    display: none;
+  }
+}
+.coverage-item {
+  margin-top: 1em;
+}
+.coverage-item::before {
+  font-weight: bold;
+}
+.coverage-item.video::before {
+  content: 'Video:';
+}
+.coverage-item.link::before {
+  content: 'Link:';
+}
+.coverage-item.slides::before {
+  content: 'Slides:';
+}
+.coverage-item.transcript::before {
+  content: 'Transcript:';
+}
+.coverage-item.notes::before {
+  content: 'Notes:';
+}
+.coverage.write-up::before {
+  content: 'Write-up:';
+}
+.coverage-item.handout::before {
+  content: 'Handout:';
+}
+.coverage-item.photos::before {
+  content: 'Photos:';
+}

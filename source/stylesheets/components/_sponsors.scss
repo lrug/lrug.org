@@ -1,0 +1,26 @@
+div#sponsors {
+  float: right;
+  width: 130px;
+  border: 1px dotted #f00;
+  padding: $space-3;
+  margin-left: $space-4;
+  margin-bottom: $space-2;
+  font-size: 0.8em;
+}
+div#sponsors h4 {
+  margin-top: 0px;
+  margin-bottom: 0.5em;
+}
+div#sponsors p {
+  margin-bottom: 0px;
+}
+div#sponsors img {
+  border: none;
+  margin-bottom: 1em;
+}
+
+@media print {
+  #sponsors a:after {
+    content: "" !important;
+  }
+}

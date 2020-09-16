@@ -1,0 +1,37 @@
+#header {
+  margin-top: $space-3;
+  overflow: hidden;
+
+  @media only screen and (min-width: $screen-lg) {
+    margin-top: $space-6;
+    margin-bottom: $space-3;
+  }
+
+  .header__branding {
+    img {
+      background: #fffec9;
+      margin-bottom: $space-4;
+    }
+
+    @media only screen and (min-width: $screen-lg) {
+      display: none;
+    }
+  }
+
+  #site-title {
+    margin: 0;
+    padding: $space-4;
+    border: 1px dotted #f00;
+    font-size: 20px;
+    text-align: center;
+
+    @media only screen and (min-width: $screen-lg) {
+      text-align: left;
+    }
+  }
+
+
+  #site-title span.ruby {
+    color: #c00;
+  }
+}

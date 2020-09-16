@@ -1,0 +1,19 @@
+#content {
+  margin-top: 0;
+}
+div#content .first.entry h2, div#content h1 {
+  margin-top: 0;
+  font-size: 2em;
+}
+div#content .entry {
+  font-size: 0.9em;
+  padding-bottom: 1em;
+  margin-bottom: 1em;
+  border-bottom: 1px solid #f00;
+}
+
+div#content .first.entry {
+  @media only screen and (min-width: $screen-lg) {
+    font-size: 1.1em;
+  }
+}

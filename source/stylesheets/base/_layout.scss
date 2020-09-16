@@ -1,0 +1,65 @@
+/* This is the base.erb layout:
+ * #page {}
+ *   #header {}
+ *   #main {}
+ *     #content-wrapper {}
+ *       #content {}
+ *     #sidebar-wrapper {}
+ *       #sidebar {}
+ *   #footer {}
+ */
+
+#page {
+  width: 100%;
+  min-width: $page-min-width;
+  max-width: $page-max-width;
+  margin: 0 auto;
+  padding-left: $space-4;
+  padding-right: $space-4;
+
+  @media only screen and (min-width: $screen-lg) {
+    padding-left: $space-8;
+    padding-right: $space-8;
+  }
+}
+
+#main {
+  overflow: hidden;
+  display: grid;
+  grid-template-columns: repeat(12, 1fr);
+
+  @media only screen and (min-width: $screen-lg) {
+    grid-gap: $space-6;
+  }
+
+  #content-wrapper {
+    grid-column: span 13;
+    grid-row: 1;
+
+    @media only screen and (min-width: $screen-lg) {
+      grid-column: 5 / 13;
+    }
+
+    @media only screen and (min-width: $screen-lg) {
+      grid-column: 4 / 13;
+    }
+  }
+
+  #sidebar-wrapper {
+    grid-column: span 13;
+    grid-row: 2;
+
+    @media print {
+      display: none;
+    }
+
+    @media only screen and (min-width: 1024px) {
+      grid-column: 1 / 4;
+      grid-row: 1;
+    }
+
+    @media only screen and (min-width: 1280px) {
+      grid-column: 1 / 4;
+    }
+  }
+}

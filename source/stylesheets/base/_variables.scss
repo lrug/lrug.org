@@ -1,0 +1,18 @@
+// Spacing scale - Same as Tailwind https://tailwindcss.com/docs/theme#spacing
+$space-1: 0.25rem;
+$space-2: 0.5rem;
+$space-3: 0.75rem;
+$space-4: 1rem;
+$space-6: 1.5rem;
+$space-8: 2rem;
+$space-12: 3rem;
+$space-16: 4rem;
+
+// Site 
+$page-min-width: 320px;
+$page-max-width: 1024px;
+
+// Breakpoints - Based on Tailwind https://tailwindcss.com/docs/breakpoints#app
+$screen-md: 768px;
+$screen-lg: 1024px;
+$screen-xl: 1280px;

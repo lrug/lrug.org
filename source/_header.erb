@@ -1,9 +1,12 @@
 <div id="header">
   <div id="site-title">
-<span class="line"><%= link_to 'LRUG', '/' %></span> : <span class="line">london</span> <span class="line ruby"><%= link_to 'ruby', 'http://www.ruby-lang.org/en/' %></span> <span class="line">user</span> <span class="line">group</span>
+    <%= link_to image_tag('https://assets.lrug.org/images/el-rug-sidebar.png', alt: 'El Rug Logo', width: 65, height: 66), '/', class: 'header__branding' %>
+
+    <%= link_to 'LRUG', '/' %> :
+    london <span class="ruby"><%= link_to 'ruby', 'http://www.ruby-lang.org/en/' %></span> user group
+  </div>
+
+  <div class="readme-announcement">
+    <p>Check out our <%= link_to 'README', 'http://readme.lrug.org/' %> to find out about us and our <%= link_to 'Code of Conduct', 'http://readme.lrug.org/#code-of-conduct' %>.</p>
   </div>
 </div>
-<div class="readme-announcement">
-  <p>Check out our <%= link_to 'README', 'http://readme.lrug.org/' %> to find out about us and our <%= link_to 'Code of Conduct', 'http://readme.lrug.org/#code-of-conduct' %>.</p>
-</div>
-<hr class="hidden" />
