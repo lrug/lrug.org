@@ -1,4 +1,4 @@
-div#sponsors {
+.sponsors {
   float: right;
   width: 130px;
   border: 1px dotted #f00;
@@ -7,20 +7,20 @@ div#sponsors {
   margin-bottom: $space-2;
   font-size: 0.8em;
 }
-div#sponsors h4 {
+.sponsors h4 {
   margin-top: 0px;
   margin-bottom: 0.5em;
 }
-div#sponsors p {
+.sponsors p {
   margin-bottom: 0px;
 }
-div#sponsors img {
+.sponsors img {
   border: none;
   margin-bottom: 1em;
 }
 
 @media print {
-  #sponsors a:after {
+  .sponsors a:after {
     content: "" !important;
   }
 }
