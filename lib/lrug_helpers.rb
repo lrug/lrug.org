@@ -2,7 +2,7 @@ require 'nokogiri'
 
 module LRUGHelpers
   def generate_description(for_page = current_page)
-    extracted = _extract_description_from_page(for_page)
+    extracted = for_page.metadata[:page][:description] || _extract_description_from_page(for_page)
     extracted.presence || "An exciting page about #{page_title(for_page)} as it relates to the London Ruby User Group."
   end
 
