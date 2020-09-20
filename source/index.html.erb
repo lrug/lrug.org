@@ -17,6 +17,6 @@ layout: base
   meetings = meeting_pages.take(10)
   featured_meeting = meetings.shift
 %>
-<%= partial 'meetings/meeting', locals: { meeting: featured_meeting, first: true } %>
+<%= partial 'meetings/meeting', locals: { meeting: featured_meeting, first: true, skip_auto_ids: true} %>
 
-<%= partial 'meetings/meeting', collection: meetings %>
+<%= partial 'meetings/meeting', collection: meetings, locals: { skip_auto_ids: true } %>
