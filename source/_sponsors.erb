@@ -1,4 +1,4 @@
-<div class="sponsors">
+<aside class="sponsors">
   <% if has_sponsors? locals[:for_page] %>
     <h4>Meeting Sponsors</h4>
     <p>Sponsorship kindly provided by:</p>
@@ -22,7 +22,7 @@
       <% end %>
     </div>
   <% else %>
-    Nobody, we're doing it for ourselves!
+    <p>Nobody, we're doing it for ourselves!</p>
   <% end %>
   <% if thanks_needed? locals[:for_page] %><p>Thanks!</p><% end %>
-</div>
+</aside>
