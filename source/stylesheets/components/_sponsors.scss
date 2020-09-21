@@ -7,11 +7,13 @@
   margin-bottom: $space-2;
   font-size: 0.8em;
 }
-.sponsors h4 {
+.sponsors h1 {
   margin-top: 0px;
-  margin-bottom: 0.5em;
+  margin-bottom: $space-2;
+  font-size: 0.9rem;
 }
 .sponsors p {
+  margin-top: 0px;
   margin-bottom: 0px;
 }
 .sponsors img {
