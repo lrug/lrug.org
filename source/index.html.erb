@@ -18,6 +18,6 @@ description: The London Ruby User Group (LRUG) meets on the 2nd Monday of the mo
   meetings = meeting_pages.take(10)
   featured_meeting = meetings.shift
 %>
-<%= partial 'meetings/meeting', locals: { meeting: featured_meeting, first: true, skip_auto_ids: true} %>
+<%= partial 'meetings/meeting', locals: { meeting: featured_meeting, first: true } %>
 
-<%= partial 'meetings/meeting', collection: meetings, locals: { skip_auto_ids: true } %>
+<%= partial 'meetings/meeting', collection: meetings %>
