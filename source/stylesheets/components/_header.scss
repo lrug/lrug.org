@@ -7,6 +7,19 @@
     margin-bottom: $space-3;
   }
 
+  h1 {
+    margin: 0;
+    font-size: 1rem;
+
+    @media only screen and (min-width: $screen-md) {
+      font-size: 1.5rem;
+    }
+
+    @media only screen and (min-width: $screen-lg) {
+      font-size: 1.875rem;
+    }
+  }
+
   .header__branding {
     img {
       background: #fffec9;

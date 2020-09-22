@@ -1,8 +1,8 @@
 <!doctype html>
-<html>
+<html lang="en-gb">
   <head>
     <%
-      the_url = URI.join('http://lrug.org/', url_for(current_page))
+      the_url = URI.join('https://lrug.org/', url_for(current_page))
       the_title = "#{page_title} | London Ruby User Group"
       the_description = generate_description
     %>
@@ -10,15 +10,17 @@
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
 
-    <!-- Always force latest IE rendering engine or request Chrome Frame -->
-    <meta content="IE=edge,chrome=1" http-equiv="X-UA-Compatible">
+    <!-- Always force latest IE rendering engine -->
+    <meta content="IE=edge" http-equiv="X-UA-Compatible">
 
     <!-- Use title if it's in the page YAML frontmatter -->
     <title><%= the_title %></title>
+    <meta name="description" content="<%= the_description %>" />
 
     <link href="<%= rss_path %>" rel="alternate" title="RSS" type="application/rss+xml" />
     <link rel="shortcut icon" href="https://assets.lrug.org/favicon.ico" />
     <link rel="icon" href="https://assets.lrug.org/favicon.ico" />
+    <link rel="canonical" href="<%= the_url %>" />
 
     <%= stylesheet_link_tag "all" %>
 
@@ -36,7 +38,6 @@
     <meta name="twitter:description" content="<%= the_description %>" />
     <meta name="twitter:image" content="https://assets.lrug.org/images/el-rug-sidebar.png" />
     <meta name="twitter:url" content="<%= the_url %>" />
-
   </head>
 
   <body class="<%= page_classes %>">

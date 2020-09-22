@@ -38,7 +38,7 @@ say to LRUG.
 
 [Matt Swanson](https://twitter.com/_swanson):
 
-> An overview of [StimulusJS]() (a small framework from Basecamp) and
+> An overview of [StimulusJS](https://stimulusjs.org) (a small framework from Basecamp) and
 > discussion on when you might (or might not!) want to use it
 
 ### Wizards without magic

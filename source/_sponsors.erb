@@ -1,6 +1,6 @@
-<div id="sponsors">
+<aside class="sponsors">
   <% if has_sponsors? locals[:for_page] %>
-    <h4>Meeting Sponsors</h4>
+    <h1>Meeting Sponsors</h1>
     <p>Sponsorship kindly provided by:</p>
     <div class="sponsor_list">
       <% if content_part_exists? 'sponsors', locals[:for_page] %>
@@ -12,7 +12,7 @@
       <% end %>
     </div>
   <% end %>
-  <h4>Hosted By</h4>
+  <h1>Hosted By</h1>
   <% if content_part_exists? 'hosted_by', locals[:for_page] %>
     <%= render_content_part 'hosted_by', locals[:for_page] %>
   <% elsif locals[:for_page].data.has_key? 'hosted_by' %>
@@ -22,7 +22,7 @@
       <% end %>
     </div>
   <% else %>
-    Nobody, we're doing it for ourselves!
+    <p>Nobody, we're doing it for ourselves!</p>
   <% end %>
   <% if thanks_needed? locals[:for_page] %><p>Thanks!</p><% end %>
-</div>
+</aside>

@@ -2,7 +2,7 @@ require 'nokogiri'
 
 module LRUGHelpers
   def generate_description(for_page = current_page)
-    extracted = _extract_description_from_page(for_page)
+    extracted = for_page.data[:description] || _extract_description_from_page(for_page)
     extracted.presence || "An exciting page about #{page_title(for_page)} as it relates to the London Ruby User Group."
   end
 
@@ -131,7 +131,7 @@ module LRUGHelpers
     if sponsor
       link_text =
         if sponsor.logo? && sponsor.logo[size]
-          %{<img src="#{sponsor.logo[size].url}" width="#{sponsor.logo[size].width}" height="#{sponsor.logo[size].height}" alt="#{sponsor.name}" title="#{sponsor.name} Logo"/>}
+          %{<img src="#{sponsor.logo[size].url}" width="#{sponsor.logo[size].width}" height="#{sponsor.logo[size].height}" alt="#{sponsor.name}" title="#{sponsor.name} Logo" loading="lazy"/>}
         else
           sponsor.name
         end
@@ -165,7 +165,7 @@ module LRUGHelpers
 
   def meeting_calendar_link
     render_markdown(
-      %{<span class="calendar-link">[![Calendar subscription](https://assets.lrug.org/images/calendar_down.gif) Meeting Calendar](/meeting-calendar)</span>}
+      %{<span class="calendar-link">[<img src="https://assets.lrug.org/images/calendar_down.gif" alt="Calendar subscription" loading="lazy"> Meeting Calendar](/meeting-calendar)</span>}
     )
   end
 
