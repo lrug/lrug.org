@@ -1,9 +1,4 @@
 <% wrap_layout :base do %>
   <h1><%= page_title %></h1>
   <%= yield %>
-  <% if content_part_exists? 'extended', current_resource %>
-    <div id="extended">
-      <%= render_content_part 'extended', current_resource %>
-    </div>
-  <% end %>
 <% end %>
