@@ -5,7 +5,7 @@ body {
   margin: 0em;
   padding: 0em;
 }
-div#container {
+#container {
   /* #032a7a */
   background: url(https://assets.lrug.org/images/lrug-nights-background.png) repeat-x;
 }
@@ -22,7 +22,7 @@ h1 {
 h3 {
   margin-top: 0em;
 }
-div.content {
+.content {
   width: 573px;
   margin: auto;
   padding: 10px;
@@ -38,11 +38,11 @@ div.content {
 body:last-child:not(:root:root) div.content p {
   margin-bottom: 1em !important;
 }
-div.content p {
+.content p {
   margin-top: 0em;
   margin-bottom: 1em;
 }
-div.content p:last-child {
+.content p:last-child {
   margin-bottom: 0em;
 }
 a {

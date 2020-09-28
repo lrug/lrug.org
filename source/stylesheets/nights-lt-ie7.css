@@ -4,13 +4,13 @@ body {
   /* This doesn't quite do what we want, so we'll just leave it as a hint for what might have been */
 }
 
-div#container {
+#container {
    text-align: center;
 }
 
-div.content p {
+.content p {
   text-align: left;
 }
-div.content p:last-child {
+.content p:last-child {
   margin-bottom: 0em !important;
 }
