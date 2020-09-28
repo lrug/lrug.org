@@ -41,7 +41,7 @@ Agenda
 > experienced ruby developers will have the opportunity to show off
 > their skills and compete with their peers.
 
-Note: This is going to be a full evening of practical activity.  We'll break up into small groups on the night to go through what Andrew has prepared.  You should bring your laptop so you can play along.  Don't worry if you don't know anyone, there will be plenty of groups to join in on the night.  Also, you should sign up to the [mailing list](http://lists.lrug.org/listinfo.cgi/chat-lrug.org) to find out about any further instructions.
+Note: This is going to be a full evening of practical activity.  We'll break up into small groups on the night to go through what Andrew has prepared.  You should bring your laptop so you can play along.  Don't worry if you don't know anyone, there will be plenty of groups to join in on the night.  Also, you should sign up to the [mailing list](/mailing-list) to find out about any further instructions.
 
 {::coverage year="2011" month="may" talk="ruby-golf" /}
 

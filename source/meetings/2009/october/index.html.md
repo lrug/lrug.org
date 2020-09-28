@@ -31,7 +31,7 @@ Brent offered to talk about one or more of the following three gems he's been wo
 * [numerouno](http://github.com/brentsnook/numerouno/) - English natural language parser for numbers ('seventy seven'.as_number == 77)
 * [bumps](http://github.com/brentsnook/bumps/) - used to pull in Cucumber features from another source and also push the results of a run
 
-There was most interest in [bumps](http://github.com/brentsnook/bumps/) but if you get on our [mailing list](http://lists.lrug.org/listinfo.cgi/chat-lrug.org) you can let him know which you'd rather hear more about.
+There was most interest in [bumps](http://github.com/brentsnook/bumps/) but if you get on our [mailing list](/mailing-list) you can let him know which you'd rather hear more about.
 
 A video of Brent's talk is available on the [Skills Matter site](http://skillsmatter.com/podcast/ajax-ria/a-trio-of-gems).
 

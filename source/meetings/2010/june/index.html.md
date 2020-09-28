@@ -25,7 +25,7 @@ Agenda
 
 ### "My First Ruby"
 
-[Murray Steele](http://h-lame.com/) wants to talk about the first ruby script he ever wrote, and he thinks you might be interested because (in his own words from the [mailing list](http://lists.lrug.org/listinfo.cgi/chat-lrug.org) thread where he proposed the talk):
+[Murray Steele](http://h-lame.com/) wants to talk about the first ruby script he ever wrote, and he thinks you might be interested because (in his own words from the [mailing list](/mailing-list) thread where he proposed the talk):
 
 > 1. It's a mailing list with a web front-end.  The web stuff is pre-rails and I think it's interesting in terms of "look how far we've come".  Seriously, if you've never done web development without a higher-level framework like rails you'll be amazed.  (For anyone who's heard of it, it uses [NARF](http://sourceforge.net/projects/narf-lib/)).
 >

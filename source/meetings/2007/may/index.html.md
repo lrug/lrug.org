@@ -23,7 +23,7 @@ A video of the meeting, filmed by Skills Matter, is [available on Google Video](
 
 *Dan's had to postpone this till another meeting in the future, we're looking for something else.  Stay tuned for updates.*
 
-[Dan Webb](http://danwebb.net/) is going to give a talk about [OpenID](http://openid.net/).  Based on [this thread from the mailing list](http://lists.lrug.org/pipermail/chat-lrug.org/2007-May/001162.html), he's probably going to cover a bit about OpenID and then delve into specifics of how to implement it in your Rails app.  However, if there's something about OpenID and ruby or rails that you want to hear, then get on the [mailing list](http://lists.lrug.org/listinfo.cgi/chat-lrug.org) and ask.
+[Dan Webb](http://danwebb.net/) is going to give a talk about [OpenID](http://openid.net/).  Based on [this thread from the mailing list](http://lists.lrug.org/pipermail/chat-lrug.org/2007-May/001162.html), he's probably going to cover a bit about OpenID and then delve into specifics of how to implement it in your Rails app.  However, if there's something about OpenID and ruby or rails that you want to hear, then get on the [mailing list](/mailing-list) and ask.
 
 
 ### Distributed Processing Using Ruby on Rails
@@ -34,7 +34,7 @@ Slides area [available here](http://www.slideshare.net/martinbtt/getting-distrib
 
 ### Code Review
 
-We still have a bunch of code left over from the [March meeting](http://lrug.org./meetings/2007/02/19/march-2007-meeting/) so we're going to go over another bit of the code.  We'll post the piece of code to the [mailing list](http://lists.lrug.org/listinfo.cgi/chat-lrug.org) before hand so that people aren't seeing it for the first time during the meeting.
+We still have a bunch of code left over from the [March meeting](http://lrug.org./meetings/2007/02/19/march-2007-meeting/) so we're going to go over another bit of the code.  We'll post the piece of code to the [mailing list](/mailing-list) before hand so that people aren't seeing it for the first time during the meeting.
 
 We did say we'd try to make these more regular, so if you have some code you would like us to go over, either because you think it needs some help, or maybe it uses some quirky bit of ruby-fu and you think other people could learn from it, then let us know.
 
@@ -42,7 +42,7 @@ We did say we'd try to make these more regular, so if you have some code you wou
 
 There's been a lot of talk on the mailing list about having some kind of beginners session.  Unfortunately we've not come to any kind of conclusion as to what that might be, mostly because everyone wants different things.  Not to be dissuaded from helping out the "beginners" we're going to match up mentors and mentorees and give them some time at the end of the meeting to discuss amongst themselves how they want to do stuff.
 
-If you would like to be mentored, or would like to help the community by mentoring someone, then either get on the [mailing list](http://lists.lrug.org/listinfo.cgi/chat-lrug.org) and let us know, or contact [Peter Jones](mailto:peterbjones@yahoo.com) who has been compiling a list of mentors and mentorees.
+If you would like to be mentored, or would like to help the community by mentoring someone, then either get on the [mailing list](/mailing-list) and let us know, or contact [Peter Jones](mailto:peterbjones@yahoo.com) who has been compiling a list of mentors and mentorees.
 
 ### Pub
 

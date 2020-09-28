@@ -34,4 +34,4 @@ You might also consider coming along to a couple of meetings and standing up at 
 Make your email as friendly and informal as possible and explain why people would want to come and work for you.  What's different about the project, what's exciting about it, etc...  The LRUG list gets a lot of job offer emails, so you want yours to stand out. For example, don't post your job ad; let people
 know you are hiring and why it would be interesting to work there and people can get in touch for more details.
 
-[mailing-list]: http://lists.lrug.org/listinfo.cgi/chat-lrug.org
+[mailing-list]: /mailing-list

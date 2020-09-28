@@ -29,7 +29,7 @@ Some of the team ([Chris Parsons](http://chrismdp.github.com/), [Jolyon Pawlyn](
 
 ### Something else
 
-If you're interested in filling this slot, [find out what it means](/speaking) and then [get in touch](http://lists.lrug.org/listinfo.cgi/chat-lrug.org).
+If you're interested in filling this slot, [find out what it means](/speaking) and then [get in touch](/mailing-list).
 
 Pub
 ---

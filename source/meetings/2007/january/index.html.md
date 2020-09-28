@@ -32,4 +32,4 @@ Teams should be of 4 or less (we may change this on the night depending on numbe
 
 The prizes are a selection of Ruby books kindly donated by O'Reilly and Addison-Wesley, plus other bits and bobs donated by LRUG members.
 
-I've created an [upcoming event](http://upcoming.org/event/132196/), so you can register interest and keep an eye on the details, in case they change.  Alternatively join our [mailing list](http://lists.lrug.org/listinfo.cgi/chat-lrug.org) where we'll no doubt be discussing it.
+I've created an [upcoming event](http://upcoming.org/event/132196/), so you can register interest and keep an eye on the details, in case they change.  Alternatively join our [mailing list](/mailing-list) where we'll no doubt be discussing it.

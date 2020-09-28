@@ -40,7 +40,7 @@ A video of James's talk (actually presented by [Chris Mear](http://feedmechocola
 > At the moment instead of it being 'lessons learned' etc, it would still be very present tense, 
 > because these problems are ones I'm still working through.
 
-Jason might post on the [mailing list](http://lists.lrug.org/listinfo.cgi/chat-lrug.org) before the meeting some of his ideas to help stimulate the discussion part of his talk.  So if you are intersted make sure you watch out for his mails.
+Jason might post on the [mailing list](/mailing-list) before the meeting some of his ideas to help stimulate the discussion part of his talk.  So if you are intersted make sure you watch out for his mails.
 
 A video of Jasons talk, filmed by [Skills Matter](http://skillsmatter.com/podcast/ajax-ria/one-code-base-many-projects) is available on [Google Video](http://video.google.com/videoplay?docid=5376247944588981030&hl=en).
 

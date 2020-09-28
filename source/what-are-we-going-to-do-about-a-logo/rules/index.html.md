@@ -14,7 +14,7 @@ Voting / Sumbission Rules
 1. Design submissions stop by Wed 9th April, 2008 @ 1pm. **Deadline passed**
 2. [This page](http://lrug.org/what-are-we-going-to-do-about-a-logo) will be updated to present all submitted logos. **Complete**
 3. Voting Starts immediately after. **Voting has ENDED**
-   1. Votes via email to [the mailing list](http://lists.lrug.org/listinfo.cgi/chat-lrug.org) or [me](mailto:murray.steele@gmail.com) directly (I can't be arsed setting up a gameable online poll and trying to police it).
+   1. Votes via email to [the mailing list](/mailing-list) or [me](mailto:murray.steele@gmail.com) directly (I can't be arsed setting up a gameable online poll and trying to police it).
    2. It's not a secret ballot.  Your names will be attached to the logo you vote for.
    3. To avoid ambiguity, votes should include the full url (from [this page](http://lrug.org/what-are-we-going-to-do-about-a-logo)) for the one you like. (no "I vote for the red one that Dave did" votes will be counted).
    4. You have _**1**_ vote.  Use it wisely.
