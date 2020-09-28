@@ -21,7 +21,7 @@ Agenda
 
 [Paul Battley](http://po-ru.com/) has written [a game engine based on the game of battleships](https://github.com/threedaymonk/battleship) and will be letting us play with it.  *Before the meeting* you should write a player for Paul's game engine and during the meeting we'll pit the players against each other in a tournament.  Once the winner is declared we'll look at the player implementations and get their authors to talk about them.  In case you win you should be prepared to show off your code and discuss the strategy you implemented.
 
-There is more information available on the [mailing list thread where Paul announced the event](http://lists.lrug.org/pipermail/chat-lrug.org/2011-September/006352.html).  If you have any questions [the mailing list](http://lists.lrug.org/listinfo.cgi/chat-lrug.org) is the place to ask them.
+There is more information available on the [mailing list thread where Paul announced the event](http://lists.lrug.org/pipermail/chat-lrug.org/2011-September/006352.html).  If you have any questions [the mailing list](/mailing-list) is the place to ask them.
 
 _UPDATE_ 
 If you have written a player [read this missive from Paul](http://lists.lrug.org/pipermail/chat-lrug.org/2011-October/006510.html) and make sure you are prepared.

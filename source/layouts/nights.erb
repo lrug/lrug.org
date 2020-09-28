@@ -4,7 +4,7 @@
     <meta charset="utf-8">
 
     <!-- Always force latest IE rendering engine or request Chrome Frame -->
-    <meta content="IE=edge,chrome=1" http-equiv="X-UA-Compatible">
+    <meta content="IE=edge" http-equiv="X-UA-Compatible">
     <title>LRUG Nights : <%= page_title || "solvin' crimes, drinkin' beers" %></title>
     <link href="/rss/nights/" rel="alternate" title="RSS" type="application/rss+xml" />
     <%= stylesheet_link_tag "nights" %>
@@ -13,13 +13,13 @@
     <![endif]-->
   </head>
   <body>
-    <div id="container">
+    <main id="container">
       <h1>LRUG Nights</h1>
       <%= yield %>
-      <div id="inspiration" class="content">
-        <p><a href="/nights/">LRUG Nights</a> are semi-regular pub meet-ups that float around different venues.  You should watch <a href="http://lists.lrug.org/listinfo.cgi/chat-lrug.org">the mailing list</a> for details.  Each episode is organised by "Mitch", but if you come along he might ask you to help out with the next one.</p>
+      <aside id="inspiration" class="content">
+        <p><a href="/nights/">LRUG Nights</a> are semi-regular pub meet-ups that float around different venues.  You should watch <a href="/mailing-list">the mailing list</a> for details.  Each episode is organised by "Mitch", but if you come along he might ask you to help out with the next one.</p>
         <p>Inspired by <a href="http://github.com/lazyatom/acts_as_hasselhoff/">acts_as_hasselhoff</a> and <a href="http://en.wikipedia.org/wiki/Baywatch_Nights">his finest moment</a>.</p>
-      </div>
-    </div>
+      </aside>
+    </main>
   </body>
 </html>

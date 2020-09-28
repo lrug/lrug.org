@@ -39,7 +39,7 @@ A video of Tom's talk, filmed by [Skills Matter](http://skillsmatter.com/podcast
 
 <a href="http://www.flickr.com/photos/snowblink/2490608134/" title="Tim Becker (20080512-R0010881.jpg) by snowblink, on Flickr"><img src="http://farm4.static.flickr.com/3270/2490608134_e56cbaee24_m.jpg" width="240" height="240" alt="Tim Becker (20080512-R0010881.jpg)" /></a>
 
-[Tim Becker](http://blog.kuriositaet.de) popped up on our [mailing list](http://lists.lrug.org/listinfo.cgi/chat-lrug.org) to offer up a talk about a new meta-programming library called [weave](http://weave.rubyforge.org/) that he'd been developing.  In his own words:
+[Tim Becker](http://blog.kuriositaet.de) popped up on our [mailing list](/mailing-list) to offer up a talk about a new meta-programming library called [weave](http://weave.rubyforge.org/) that he'd been developing.  In his own words:
 
 > weave is a library for 'live native monkey patching'. It provides a
 > native wrapper to the C functions in the MRI Ruby implementation that

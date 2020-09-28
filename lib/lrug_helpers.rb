@@ -164,9 +164,7 @@ module LRUGHelpers
   end
 
   def meeting_calendar_link
-    render_markdown(
-      %{<span class="calendar-link">[<img src="https://assets.lrug.org/images/calendar_down.gif" alt="Calendar subscription" loading="lazy"> Meeting Calendar](/meeting-calendar)</span>}
-    )
+    %{<span class="calendar-link"><a href="/meeting-calendar"><img src="https://assets.lrug.org/images/calendar_down.gif" alt="Calendar subscription" loading="lazy"> Meeting Calendar</a></span>}
   end
 
   def indent_xml(indent, xml_string)

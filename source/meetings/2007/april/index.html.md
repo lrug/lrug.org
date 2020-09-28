@@ -25,7 +25,7 @@ First up, [Paolo Don&agrave;](http://paolodona.blogspot.com/) will be giving his
 
 ### REST Discussion
 
-Following that we'll have a REST discussion, chaired by [Jonathan Leighton](http://turnipspatch.com/), about the new RESTful features that Rails 1.2 brings us.  There were two long threads on the [LRUG mailing list](http://lists.lrug.org/listinfo.cgi/chat-lrug.org) that sparked this off, so you should read them for an idea of what we might cover.
+Following that we'll have a REST discussion, chaired by [Jonathan Leighton](http://turnipspatch.com/), about the new RESTful features that Rails 1.2 brings us.  There were two long threads on the [LRUG mailing list](/mailing-list) that sparked this off, so you should read them for an idea of what we might cover.
 
 * [The original thread](http://lists.lrug.org/pipermail/chat-lrug.org/2007-February/000916.html)
 * [The follow up](http://lists.lrug.org/pipermail/chat-lrug.org/2007-March/000981.html)
@@ -33,7 +33,7 @@ Following that we'll have a REST discussion, chaired by [Jonathan Leighton](http
 
 ### Misc.
 
-If we have enough time, we may do another installment of code-review at some point in the evening.  At our [last meeting](http://lrug.org/meetings/2007/02/19/march-2007-meeting/) we didn't get round to covering all the code, and people seemed really positive about making this a regular feature.  We'll try to post the code we're going to cover onto the [mailing list](http://lists.lrug.org/listinfo.cgi/chat-lrug.org) before hand, so we can get straight to the reviewing without having to explain it first.
+If we have enough time, we may do another installment of code-review at some point in the evening.  At our [last meeting](http://lrug.org/meetings/2007/02/19/march-2007-meeting/) we didn't get round to covering all the code, and people seemed really positive about making this a regular feature.  We'll try to post the code we're going to cover onto the [mailing list](/mailing-list) before hand, so we can get straight to the reviewing without having to explain it first.
 
 Registration
 ------------

@@ -38,9 +38,9 @@ For our Dojo, because the group is so large, we plan to split the attendees on t
 
 Hopefully everyone gets a turn at the laptop and so everyone will write some code on the night.  We hope it'll be a good way of letting inexperienced developers see how more experience developers approach problems and hopefully learn a lot by watching and working with them.  Of course, those experienced developers will also get a chance to be pulled up on things and forced to think outside of their, perhaps, fixed mindsets.
 
-There are still some details to be thrashed out, like what the problem will be, and how to split the meeting up into groups to ensure a even spread of ability in each group (see the [spreadsheet](http://spreadsheets.google.com/ccc?key=0Ai86AO7glNC9dFg4cEJkSUhOaEpCT0VHNnlWYnFld0E&hl=en_GB)).  We'll discuss all that on [the mailing list](http://lists.lrug.org/listinfo.cgi/chat-lrug.org), so do sign up and follow along.
+There are still some details to be thrashed out, like what the problem will be, and how to split the meeting up into groups to ensure a even spread of ability in each group (see the [spreadsheet](http://spreadsheets.google.com/ccc?key=0Ai86AO7glNC9dFg4cEJkSUhOaEpCT0VHNnlWYnFld0E&hl=en_GB)).  We'll discuss all that on [the mailing list](/mailing-list), so do sign up and follow along.
 
-The idea for this meeting wouldn't have been possible without help from [Matt Wynne](http://blog.mattwynne.net/) and [Ivan Sanchez](http://isanchez.net/), who have both run Dojo's in the past and will be helping out on [the mailing list](http://lists.lrug.org/listinfo.cgi/chat-lrug.org) and on the evening itself.
+The idea for this meeting wouldn't have been possible without help from [Matt Wynne](http://blog.mattwynne.net/) and [Ivan Sanchez](http://isanchez.net/), who have both run Dojo's in the past and will be helping out on [the mailing list](/mailing-list) and on the evening itself.
 
 The code produced by each of the 3 groups is available on the [LRUG github account](http://github.com/lrug):
 

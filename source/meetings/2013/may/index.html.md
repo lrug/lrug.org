@@ -48,7 +48,7 @@ Agenda
 >
 > Bring your laptop, and get your hands dirty with mruby.
 
-Randy will be sending out instructions on pre-requisites in a few days to [the mailing list](http://lists.lrug.org/listinfo.cgi/chat-lrug.org). Don't miss it!
+Randy will be sending out instructions on pre-requisites in a few days to [the mailing list](/mailing-list). Don't miss it!
 
 ### Drinks
 

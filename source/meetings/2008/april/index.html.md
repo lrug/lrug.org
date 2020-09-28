@@ -38,7 +38,7 @@ Some people that have volunteered so far:
 * Sean O'Halpin - [doodle](http://doodle.rubyforge.org/)
 * Dan Webb - "Fiddling with [god](http://god.rubyforge.org/)" (perhaps with a [starling](http://rubyforge.org/projects/starling/))
 
-There's plenty of room for more stuff, so [get in touch](http://lists.lrug.org/listinfo.cgi/chat-lrug.org) to volunteer something.
+There's plenty of room for more stuff, so [get in touch](/mailing-list) to volunteer something.
 
 Pub
 ---

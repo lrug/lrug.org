@@ -5,9 +5,10 @@
   font-size: 0.95em;
 }
 
-#sidebar h3 {
+#sidebar h1, #sidebar h2 {
   margin-top: 0;
   padding-top: 0;
+  font-size: 1.17em;
 }
 #sidebar ul {
   padding-left: $space-4;

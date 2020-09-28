@@ -13,7 +13,7 @@ Congratulations on becoming the "Mitch" for the next episode of [LRUG Nights](/n
 
 1. Change the password, so you are the only Mitch
 2. Nights have the title of the corresponding episode of [Baywatch Nights](http://www.tv.com/baywatch-nights/show/468/episode_listings.html?tag=subtabs;list).  Remember to use the correct title in all communications
-3. Choose a date, perhaps via [the mailing list](http://lists.lrug.org/listinfo.cgi/chat-lrug.org) or [IRC](/irc).  Tips:
+3. Choose a date, perhaps via [the mailing list](/mailing-list) or [IRC](/irc).  Tips:
    * roughly halfway between normal [meetings](/meetings) is good
    * check [lanyrd](http://lanyrd.com/) for clashes with other geek nights
    * the needs of the many outweigh the needs of the few, choose the night the majority can make
@@ -31,7 +31,7 @@ Congratulations on becoming the "Mitch" for the next episode of [LRUG Nights](/n
 6. Create an [lanyrd](http://lanyrd.com/) event so people can online calendar, as is their wont.
    * Add a link to the event on the lrug.org page you created.
    * Tell [http://twitter.com/hlame/](h-lame) about it so it can be added to [the LRUG series](http://lanyrd.com/series/lrug/)
-7. Email the [mailing list](http://lists.lrug.org/listinfo.cgi/chat-lrug.org) to let people know about it
+7. Email the [mailing list](/mailing-list) to let people know about it
    * Email other interested parties too: [ruby-talk](http://www.ruby-lang.org/en/community/mailing-lists/), [rails-talk](http://groups.google.com/group/rubyonrails-talk), etc...
 8. Turn up on the night and have fun. *THIS IS IMPORTANT*.
 9. Finally, and _most importantly_: on the night, find someone who is willing and committed to carry the mantle of the "Mitch" for the next meeting.
