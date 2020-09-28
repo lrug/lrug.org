@@ -8,7 +8,7 @@ created_at: 2007-05-25 09:30:44 Z
 parts:
   sidebar:
     :content: |
-      ### All Reviews
+      ## All Reviews
       <% book_reviews.each.with_index do |review, idx| %>
       <%= idx %>. <%= link_to review.data.title, review %>
       <% end %>

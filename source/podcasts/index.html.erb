@@ -8,14 +8,13 @@ created_at: 2010-04-03 14:30:29 Z
 parts:
   sidebar:
     :content: |
-      <h3>Episode List</h3>
-      <ul>
-        <% podcast_episodes.each do |podcast_episode| %>
-          <li><%= link_to podcast_episode.data.title, podcast_episode %></li>
-        <% end %>
-      </ul>
+      ## Episode List
 
-    :render_as: .erb
+      <% podcast_episodes.each do |podcast_episode| %>
+      * <%= link_to podcast_episode.data.title, podcast_episode %>
+      <% end %>
+
+    :render_as: .md
   download_link:
     :content: |
       <p class="download">
