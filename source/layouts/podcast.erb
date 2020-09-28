@@ -1,9 +1,7 @@
 <% wrap_layout :base do %>
   <% content_for(:rss_path) { 'podcasts/' } %>
   <h1><%= page_title %></h1>
-  <div class="vevent">
-    <%= yield %>
-  </div>
+  <%= yield %>
   <%= render_content_part 'download_link', current_page, inherit: true %>
   <p class="info">Posted by <%= current_page.data.created_by.name %> on <%= date_format current_page.data.published_at, "%b %d, %Y" %></p>
 <% end %>
