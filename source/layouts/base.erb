@@ -44,18 +44,18 @@
     <div id="page">
       <%= partial 'header' %>
 
-      <div id="main">
+      <main id="main">
         <div id="content-wrapper">
           <div id="content">
             <%= yield %>
           </div>
         </div>
         <div id="sidebar-wrapper">
-          <div id="sidebar">
+          <aside id="sidebar">
             <%= partial 'sidebar' %>
-          </div>
+          </aside>
         </div>
-      </div>
+      </main>
 
       <%= partial 'footer' %>
     </div>
