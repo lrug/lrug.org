@@ -131,7 +131,12 @@
           "type": "video",
           "url": "https://assets.lrug.org/videos/2020/september/matt-swanson-stimulusjs-modest-js-for-the-html-you-have-lrug-sep-2020.mp4",
           "title": "LRUG September 2020 - Matt Swanson - StimulusJS: Modest JS for the HTML you have"
-        }
+        },
+        {
+          "type": "slides",
+          "url": "https://docs.google.com/presentation/d/1uPA7CX_SGZPY2hFcf0YIvsSvCQzN7OTHVsvQnv5vKnY/",
+          "title": "StimulusJS: Modest JS for the HTML you have"
+        },
       ]
     }
   },
