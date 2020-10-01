@@ -1,5 +1,5 @@
---- 
-created_by: 
+---
+created_by:
   email: murray.steele@gmail.com
   name: Murray Steele
 category: meeting
@@ -28,22 +28,26 @@ Agenda
 > * Why you might want to use rails i18n even if you're only planning one language
 > * A little bit about how the i18n gem works for those unfamiliar with it
 > * Common problems you'll have and ways to work around them
-> 
+>
 > The app we localised is [http://www.kyero.com](http://www.kyero.com/) and the
-> tool we've built to help us and other ruby / rails devs using the i18n gem 
+> tool we've built to help us and other ruby / rails devs using the i18n gem
 > in [http://localeapp.com](http://localeapp.com/).
+
+{::coverage year="2012" month="january" talk="i18n" /}
 
 ### Joe Corcoran: Judge
 
 [Joe Corcoran](http://blog.joecorcoran.co.uk/) says:
 
 > I'll talk about building [Judge](https://github.com/joecorcoran/judge), a client side form validation gem for
-> Rails 3.  I'll explain how I've tried to keep it lightweight and 
+> Rails 3.  I'll explain how I've tried to keep it lightweight and
 > unassuming, why I ditched jQuery in favour of plain old JavaScript and
-> what I learned about Rails i18n, form builders and HTML data 
+> what I learned about Rails i18n, form builders and HTML data
 > attributes along the way.  I'll also give a brief introduction to
-> [Travis](http://travis-ci.org/), the distributed build system that I've been using for 
+> [Travis](http://travis-ci.org/), the distributed build system that I've been using for
 > continuous integration.
+
+{::coverage year="2012" month="january" talk="judge-client-side-form-validation-for-rails-3" /}
 
 Pub
 ---

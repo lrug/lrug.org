@@ -29,10 +29,10 @@
           "title": "LRUG February 2020 - Mugurel Chirica - Influence your company beyond code"
         }
       ],
-      "designing-domain-oriented-obvservaibility-in-your-system": [
+      "designing-domain-oriented-obvservability-in-your-system": [
         {
           "type": "video",
-          "url": "https://assets.lrug.org/videos/2020/february/alfredo-motta-designing-domain-oriented-observaibility-in-your-system-lrug-feb-2020.mp4",
+          "url": "https://assets.lrug.org/videos/2020/february/alfredo-motta-designing-domain-oriented-observability-in-your-system-lrug-feb-2020.mp4",
           "title": "LRUG February 2020 - Alfredo Motta - Designing Domain-Oriented Observability in your system"
         }
       ],
@@ -1415,8 +1415,7 @@
           "url": "http://skillsmatter.com/podcast/home/lightning-talk-capistrano",
           "title": "Skills Matter : London Ruby User Group : Conan the Deployer"
         }
-      ],
-      "lightning-talks": []
+      ]
     },
     "march": {
       "tdd-fishbowl-session": [

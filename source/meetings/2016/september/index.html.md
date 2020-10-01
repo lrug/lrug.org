@@ -33,6 +33,8 @@ Agenda
 > and his teammates. This talk is about the challenges and benefits of working
 > more closely with one another.
 
+{::coverage year="2016" month="september" talk="working-together" /}
+
 ### Total Rewrite
 
 [David Salgado](https://twitter.com/digitalronin) has some tips for tackling the dreaded re-write:
@@ -40,12 +42,16 @@ Agenda
 > Patterns and anti-patterns for when you're replacing your entire codebase,
 > and reasons why doing that is (usually) a very bad idea.
 
+{::coverage year="2016" month="september" talk="total-rewrite" /}
+
 ### Not working together
 
 [Gerhard Lazu](https://twitter.com/gerhardlazu) asks:
 
 > How does a small team spread across London & Omaha set up a global
 > production infrastructure while not working together?
+
+{::coverage year="2016" month="september" talk="not-working-together" /}
 
 ### Book Giveaway
 

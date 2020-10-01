@@ -30,12 +30,16 @@ Agenda
 > psychology that help us understand how, as developers, we might be
 > overloading ourselves and what to do about it.
 
+{::coverage year="2016" month="june" talk="hacking-your-head-managing-information-overload" /}
+
 ### Open Sesame: A beginners guide to passwords
 
 [Rob Kitromilides](https://twitter.com/robkitro) says:
 
 > What goes on when you log in to a website? How does it work? Why should
 > you care?
+
+{::coverage year="2016" month="june" talk="open-sesame-a-beginners-guide-to-passwords" /}
 
 ### Refactoring a monolith with rails engines
 
@@ -56,6 +60,8 @@ Agenda
 > a distributed system. The talk will cover the approach we are taking in this
 > (ongoing) refactor, the rules we found we needed to play by, and the lessons
 > we learned along the way.
+
+{::coverage year="2016" month="june" talk="refactoring-a-monolith-with-rails-engines" /}
 
 Afterwards
 ----------

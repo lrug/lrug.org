@@ -1,5 +1,5 @@
---- 
-created_by: 
+---
+created_by:
   email: murray.steele@gmail.com
   name: Murray Steele
 category: meeting
@@ -21,13 +21,47 @@ Agenda
 
 The plan for this month's meeting is to have several local rubyists talk about gems that they have written.  To let them give their gem a wider audience, and to show off that the LRUG community is a prolific bunch.  Confirmed so far:
 
-* [Paul Battley](http://po-ru.com/) - [htmlentities](http://rubygems.org/gems/htmlentities) - HTMLEntities is a simple library to facilitate encoding and decoding of named or numerical entities in HTML and XHTML documents.
-* [Ismael Celis](http://home.ismaelcelis.com/) - [hash_mapper](http://rubygems.org/gems/hash_mapper), [jbundle](http://rubygems.org/gems/jbundle), or [anisoptera](https://github.com/ismasan/anisoptera)
-* [Paul Fedory](http://paulfedory.com/) - [RolePlay](http://rubygems.org/gems/role_play) - RolePlay is a simple gem that provides roles for ActiveRecord objects (typically a user model, giving them the role of administrator or moderator.  As well as covering RolePlay, Paul will also cover tips for upgrading gems to have Rails 3 compatibility.
-* [Phil Nash](http://twitter.com/philnash) - [Asset Hat](http://rubygems.org/gems/asset_hat) - Asset Hat deals with asset optimisation once Rails has done it's job, getting your assets from your server to your user faster.
-* [Andrew Nesbitt](http://teabass.com/) - [Split](http://rubygems.org/gems/split) - Rack based split testing framework
-* [Matthew Sadler](http://sourcetagsandcodes.com/) - [http_tools](http://rubygems.org/gems/http_tools) - A fast-as-possible pure Ruby HTTP parser plus associated lower level utilities to aid working with HTTP and the web.
-* [Tom Stuart](http://mortice.github.com/) - [Matahari](http://rubygems.org/gems/matahari) - A test-spy library, inspired by Mockito and RR
+#### [Paul Battley](http://po-ru.com/)
+
+[htmlentities](http://rubygems.org/gems/htmlentities) - HTMLEntities is a simple library to facilitate encoding and decoding of named or numerical entities in HTML and XHTML documents.
+
+{::coverage year="2011" month="june" talk="htmlentities" /}
+
+#### [Ismael Celis](http://home.ismaelcelis.com/)
+
+[hash_mapper](http://rubygems.org/gems/hash_mapper), [jbundle](http://rubygems.org/gems/jbundle), or [anisoptera](https://github.com/ismasan/anisoptera)
+
+{::coverage year="2011" month="june" talk="hash-mapper-jbundle-or-anisoptera" /}
+
+#### [Paul Fedory](http://paulfedory.com/)
+
+[RolePlay](http://rubygems.org/gems/role_play) - RolePlay is a simple gem that provides roles for ActiveRecord objects (typically a user model, giving them the role of administrator or moderator.  As well as covering RolePlay, Paul will also cover tips for upgrading gems to have Rails 3 compatibility.
+
+{::coverage year="2011" month="june" talk="roleplay" /}
+
+#### [Phil Nash](http://twitter.com/philnash)
+
+[Asset Hat](http://rubygems.org/gems/asset_hat) - Asset Hat deals with asset optimisation once Rails has done it's job, getting your assets from your server to your user faster.
+
+{::coverage year="2011" month="june" talk="asset-hat" /}
+
+#### [Andrew Nesbitt](http://teabass.com/)
+
+[Split](http://rubygems.org/gems/split) - Rack based split testing framework
+
+{::coverage year="2011" month="june" talk="split-rack-based-a-b-testing" /}
+
+#### [Matthew Sadler](http://sourcetagsandcodes.com/)
+
+[http_tools](http://rubygems.org/gems/http_tools) - A fast-as-possible pure Ruby HTTP parser plus associated lower level utilities to aid working with HTTP and the web.
+
+{::coverage year="2011" month="june" talk="http-tools" /}
+
+#### [Tom Stuart](http://mortice.github.com/)
+
+[Matahari](http://rubygems.org/gems/matahari) - A test-spy library, inspired by Mockito and RR
+
+{::coverage year="2011" month="june" talk="matahari" /}
 
 Pub
 ---

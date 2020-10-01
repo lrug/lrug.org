@@ -31,6 +31,8 @@ Agenda
 > this, along with ideal approaches and best practices for gem
 > development.
 
+{::coverage year="2012" month="august" talk="cut-and-polish-crafting-gems" /}
+
 ### nil points: a talk about nothing, NULL, undefined, Maybe, and other ghosts in Ruby and beyond
 
 [David Nolan](http://kapoq.com/) has an idea about nil:
@@ -51,6 +53,8 @@ Agenda
 > way of a vintage Soviet computer, Jainism, a billion dollars, a
 > Peruvian tribe, and a Victorian wooden adding machine. And, since this
 > is Ruby, there will some reckless live monkey-patching.
+
+{::coverage year="2012" month="august" talk="nil-points-a-talk-about-nothing-null-undefined-maybe-and-other-ghosts-in-ruby-and-beyond" /}
 
 Pub
 ---

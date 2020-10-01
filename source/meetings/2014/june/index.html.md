@@ -28,6 +28,8 @@ Agenda
 > worked (and didn't work) for us while I was teaching at
 > [Codecraft](http://tech.fundingcircle.com/codecraft/).
 
+{::coverage year="2014" month="june" talk="patterns-antipatterns-in-teaching" /}
+
 ### Adventures with data structures and algorithms
 
 [Najaf Ali](http://happybearsoftware.com/) says:
@@ -49,6 +51,8 @@ Agenda
 > and feeling mischievous.
 >
 > *[SATR]: Shout Across The Room
+
+{::coverage year="2014" month="june" talk="adventures-with-data-structures-and-algorithms" /}
 
 Pub
 ---

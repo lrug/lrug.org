@@ -1,5 +1,5 @@
---- 
-created_by: 
+---
+created_by:
   email: murray.steele@gmail.com
   name: Murray Steele
 category: meeting
@@ -21,18 +21,20 @@ Agenda
 
 [James Coglan](http://jcoglan.com/) is going to talk to us about [Primer](https://github.com/jcoglan/primer) his caching system for rails:
 
-> It's no secret that expiring caches is hard. But it's also tedious, error-prone, 
-> and it forces a lot of duplication as your sweeper code is tightly coupled to 
-> how your views work. And caching itself introduces complexity: by caching data, 
+> It's no secret that expiring caches is hard. But it's also tedious, error-prone,
+> and it forces a lot of duplication as your sweeper code is tightly coupled to
+> how your views work. And caching itself introduces complexity: by caching data,
 > you're creating multiple ways to compute the same value.
 >
-> What if we could get rid of all this? I'm going to take a look at Primer, a Rails 
-> extension I've been working on that means you'll never write another cache sweeper. 
-> With a handful of mixins, you can keep writing your views the way you like and 
-> Primer will deal with keeping them snappy. You'll see how you can use ActiveRecord's 
-> reflections to automate a lot of caching work, how to regenerate your views offline 
-> using worker processes, and how to add real-time updates to your pages, all with 
+> What if we could get rid of all this? I'm going to take a look at Primer, a Rails
+> extension I've been working on that means you'll never write another cache sweeper.
+> With a handful of mixins, you can keep writing your views the way you like and
+> Primer will deal with keeping them snappy. You'll see how you can use ActiveRecord's
+> reflections to automate a lot of caching work, how to regenerate your views offline
+> using worker processes, and how to add real-time updates to your pages, all with
 > code you could write during your coffee break.
+
+{::coverage year="2011" month="march" talk="primer" /}
 
 ### Chris Parsons: Lessons learned BDD-ing a command-line utility gem
 
@@ -43,6 +45,8 @@ Also known as: "end to end is harder than you think". [Chris Parsons](http://chr
 > via SSH and HTTP. We'll discuss the use of [Aruba](https://github.com/aslakhellesoy/aruba) for command line
 > testing in cucumber, how to deal with external connections, and how to
 > discover your service interfaces as you build the client.
+
+{::coverage year="2011" month="march" talk="lessons-learned-bdd-ing-a-command-line-utility-gem" /}
 
 Pub
 ---

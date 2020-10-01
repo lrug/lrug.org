@@ -1,8 +1,8 @@
---- 
-updated_by: 
+---
+updated_by:
   email: murray.steele@gmail.com
   name: Murray Steele
-created_by: 
+created_by:
   email: murray.steele@gmail.com
   name: Murray Steele
 category: meeting
@@ -24,25 +24,29 @@ Agenda
 
 [Javier Ramirez](http://javier-ramirez.com/) wants to tell us about dealing with big data:
 
-> At [teowaki](https://teowaki.com/) we have a system for API usage analytics, 
-> with [Redis](http://redis.io/) as a fast intermediate store and 
-> [bigquery](https://developers.google.com/bigquery/) as a big data 
-> backend. As a result, we can launch aggregated queries on our 
-> traffic/usage data in just a few seconds and we can try and find 
-> for usage patterns that wouldn’t be obvious otherwise. 
+> At [teowaki](https://teowaki.com/) we have a system for API usage analytics,
+> with [Redis](http://redis.io/) as a fast intermediate store and
+> [bigquery](https://developers.google.com/bigquery/) as a big data
+> backend. As a result, we can launch aggregated queries on our
+> traffic/usage data in just a few seconds and we can try and find
+> for usage patterns that wouldn’t be obvious otherwise.
 >
-> In this session I will talk about how we entered the Big Data 
+> In this session I will talk about how we entered the Big Data
 > world, which alternatives we evaluated, and how we are using
 > Redis and Bigquery to solve our problem.
+
+{::coverage year="2014" month="january" talk="api-analytics-with-redis-and-bigquery" /}
 
 ### Using data tiering to squeeze scale out of SQL
 
 [Julien Letessier](http://dec0de.me/) also wants to talk about data:
 
 > As traffic grows, some of the data structures our application
-> has to manipulate gets contended. Ours is an unusual, but 
-> effective solution: segregate data into read-mostly and 
+> has to manipulate gets contended. Ours is an unusual, but
+> effective solution: segregate data into read-mostly and
 > write-mostly.
+
+{::coverage year="2014" month="january" talk="using-data-tiering-to-squeeze-scale-out-of-sql" /}
 
 Pub
 ---

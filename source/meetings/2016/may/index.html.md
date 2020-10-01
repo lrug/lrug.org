@@ -33,6 +33,8 @@ Agenda
 > examine research into its value, and suggest some practices on how to do it
 > well.
 
+{::coverage year="2016" month="may" talk="the-art-of-code-review" /}
+
 ### A Tale of Two Deployments - Machine Images, Immutable Servers And Green/Blue Deployment
 
 [Asfand Yar Qazi](http://www.thedevopsdoctors.com/) says:
@@ -45,6 +47,8 @@ Agenda
 > server clusters from pre-built machine images on each deploy. She could just
 > relax, as the infrastructure had been designed to filter out most problems
 > that could occur during deployment. Here is their story!
+
+{::coverage year="2016" month="may" talk="a-tale-of-two-deployments-machine-images-immutable-servers-and-green-blue-deployment" /}
 
 ### Convox: Painless deployment of Docker on AWS
 

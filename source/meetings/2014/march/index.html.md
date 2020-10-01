@@ -1,8 +1,8 @@
---- 
-updated_by: 
+---
+updated_by:
   email: murray.steele@gmail.com
   name: Murray Steele
-created_by: 
+created_by:
   email: murray.steele@gmail.com
   name: Murray Steele
 category: meeting
@@ -24,10 +24,12 @@ Agenda
 
 [Andrew Appleton](https://twitter.com/appltn) says:
 
-> A story about the problems we faced modelling state and 
-> recording state changes at [GoCardless](https://gocardless.com/blog/) and how we 
+> A story about the problems we faced modelling state and
+> recording state changes at [GoCardless](https://gocardless.com/blog/) and how we
 > generalised our solution to those problems into a new
 > gem, [Statesman](https://github.com/gocardless/statesman).
+
+{::coverage year="2014" month="march" talk="rage-against-the-state-machine" /}
 
 ### Marketing for Developers
 
@@ -35,15 +37,17 @@ Agenda
 
 > I’m a relative newcomer to Ruby, but I’ve got lots of experience in
 > marketing.
-> 
+>
 > Over the last two years I’ve spoken to many experienced devs about
 > their marketing challenges, and witnessed how simple marketing
 > mistakes can derail a project.
 >
-> In the consumer goods industry marketing is a discipline, with 
+> In the consumer goods industry marketing is a discipline, with
 > structured ways of working through it.   I will demonstrate that
 > this structure works well for tech startups, and give you a
 > practical checklist you can apply.
+
+{::coverage year="2014" month="march" talk="marketing-for-developers" /}
 
 ### Building a SOA network of daemons with Go, Ruby and ZMQ
 
@@ -64,6 +68,8 @@ Agenda
 > support your user facing apps.
 
 You can read a more detailed overview on [a blog post](http://new-bamboo.co.uk/blog/2013/09/17/micro-network-daemons-in-go) he wrote about it a while ago.
+
+{::coverage year="2014" month="march" talk="building-a-soa-network-of-daemons-with-go-ruby-and-zmq" /}
 
 Pub
 ---

@@ -1,8 +1,8 @@
---- 
-updated_by: 
+---
+updated_by:
   email: murray.steele@gmail.com
   name: Murray Steele
-created_by: 
+created_by:
   email: murray.steele@gmail.com
   name: Murray Steele
 category: meeting
@@ -24,15 +24,17 @@ Agenda
 
 [Andrew Nesbitt](http://nesbitt.io/) says:
 
-> In the past few years robots have started to invade our lives, as 
-> toys or tools for around the home or at work. These robots are 
-> often much more user friendly and more importantly, hackable, than 
-> traditional industrial robots, which has lowered the barrier to 
+> In the past few years robots have started to invade our lives, as
+> toys or tools for around the home or at work. These robots are
+> often much more user friendly and more importantly, hackable, than
+> traditional industrial robots, which has lowered the barrier to
 > writing software to control robots.
-> 
-> We'll look at one particular ruby library, [Artoo](http://artoo.io/), a micro-framework 
-> for robotics that lets you connect to multiple different hardware 
+>
+> We'll look at one particular ruby library, [Artoo](http://artoo.io/), a micro-framework
+> for robotics that lets you connect to multiple different hardware
 > devices and robots at the same time with some live demos as well.
+
+{::coverage year="2013" month="november" talk="controlling-robots-with-ruby" /}
 
 ### How to parse 'go'
 

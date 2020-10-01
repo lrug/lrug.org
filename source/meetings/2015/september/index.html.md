@@ -45,6 +45,8 @@ Agenda
 > will talk about why and how [the seal](https://github.com/binaryberry/seal/)
 > was built, and what I learned from building it.
 
+{::coverage year="2015" month="september" talk="a-pull-request-slackbot-the-seal" /}
+
 ### Containers Patterns for Rails
 
 [Jairo Diaz](https://twitter.com/codescrum) says:
@@ -55,6 +57,8 @@ Agenda
 > jobs. We will show how to set up and manage the configuration of these
 > elements.
 
+{::coverage year="2015" month="september" talk="containers-patterns-for-rails" /}
+
 ### Learning through blameless reviews
 
 [Joel Chippindale](https://twitter.com/joelchippindale) says:
@@ -62,6 +66,8 @@ Agenda
 > In this talk I will outline some of the ways that teams react to the
 > mistakes they make and how blameless reviews can help teams learn from
 > these mistakes
+
+{::coverage year="2015" month="september" talk="learning-through-blameless-reviews" /}
 
 ### Ticket Giveaway #1
 

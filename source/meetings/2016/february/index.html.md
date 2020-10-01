@@ -22,7 +22,7 @@ Agenda
 
 Once again our February meeting is given over to lightning talks of no more than 10 minutes.  This year we have:
 
-* [Charlotte Spencer](http://www.charlotteis.co.uk/) - "Making your first pull request"
+### [Charlotte Spencer](http://www.charlotteis.co.uk/) - "Making your first pull request"
 
   > Your First PR is an initiative with a goal to get people involved in making
   > pull requests to other open source projects. In this talk you will be
@@ -30,31 +30,41 @@ Once again our February meeting is given over to lightning talks of no more than
   > starter issues to work on, and learn how you can help others to make their
   > own awesome pull requests.
 
-* [Dave Nolan](http://kapoq.com/) - "ENUMERABLE!"
+{::coverage year="2016" month="february" talk="making-your-first-pull-request" /}
+
+### [Dave Nolan](http://kapoq.com/) - "ENUMERABLE!"
 
   > 10 real-life problems solved with 10 cool lesser-known methods from
   > [`Enumerable`](http://ruby-doc.org/core-2.3.0/Enumerable.html),
   > [`Enumerator`](http://ruby-doc.org/core-2.3.0/Enumerator.html),
   > and [`Array`](http://ruby-doc.org/core-2.3.0/Array.html).
 
-* [Fareed Dudhia](https://twitter.com/fmdud) - "Rails & Docker for Development: No Mess, No Fuss"
+{::coverage year="2016" month="february" talk="enumerable" /}
+
+### [Fareed Dudhia](https://twitter.com/fmdud) - "Rails & Docker for Development: No Mess, No Fuss"
 
   > Getting set up and used to using Docker for our local development
   > environment in minutes.
 
-* [Melinda Seckington](https://www.missgeeky.com) - "Imposter Syndrome: How we act and work together"
+{::coverage year="2016" month="february" talk="rails-docker-for-development-no-mess-no-fuss" /}
+
+### [Melinda Seckington](https://www.missgeeky.com) - "Imposter Syndrome: How we act and work together"
 
   > Often when we talk about imposter syndrome in developers, we look at what
   > the individual can do to stop it from happening. In this talk, I'll look
   > at what we can do as a team.
 
-* [Peter Saxton](https://twitter.com/crowdhailer) - "Building with domain concepts."
+{::coverage year="2016" month="february" talk="imposter-syndrome-how-we-act-and-work-together" /}
+
+### [Peter Saxton](https://twitter.com/crowdhailer) - "Building with domain concepts."
 
   > All useful software is applied to a particular problem domain. This talk
   > will encourage the use of value objects to better model a programs problem
   > domain.
 
-* [Tomas Valent](http://www.eq8.eu/) - "Web Developer Life Hacks"
+{::coverage year="2016" month="february" talk="building-with-domain-concepts" /}
+
+### [Tomas Valent](http://www.eq8.eu/) - "Web Developer Life Hacks"
 
   > In this talk we will have a look on some alternative work environment
   > setups that will help Web Developers to improve productivity.
@@ -64,7 +74,9 @@ Once again our February meeting is given over to lightning talks of no more than
   > * [http://www.eq8.eu/blogs/18-chromebook-for-web-developers](http://www.eq8.eu/blogs/18-chromebook-for-web-developers)
   > * [https://www.youtube.com/watch?v=sDQ8-LmWbow](https://www.youtube.com/watch?v=sDQ8-LmWbow)
 
-* [Tom Cartwright](http://www.tomcartwright.net/) - "Psychology of programming: A very short introduction"
+{::coverage year="2016" month="february" talk="web-developer-life-hacks" /}
+
+### [Tom Cartwright](http://www.tomcartwright.net/) - "Psychology of programming: A very short introduction"
 
   > The psychology of programming is field of research that deals with the
   > psychological aspects of writing computer programs. (see
@@ -72,13 +84,17 @@ Once again our February meeting is given over to lightning talks of no more than
   > introduction to the subject with a précis of the current research and few
   > reckons thrown in for good measure.
 
-* [Tom Stuart](http://codon.com) - "Automatic differentiation in Ruby"
+{::coverage year="2016" month="february" talk="psychology-of-programming-a-very-short-introduction" /}
+
+### [Tom Stuart](http://codon.com) - "Automatic differentiation in Ruby"
 
   > Finding the derivative of a mathematical function on a computer can be
   > difficult, but there’s a clever trick that makes it easy: first write a
   > program that computes the function, then execute it under a non-standard
   > interpretation of its values and operations. In this talk I’ll show you how
   > that works in Ruby.
+
+{::coverage year="2016" month="february" talk="automatic-differentiation-in-ruby" /}
 
 Pub
 ---

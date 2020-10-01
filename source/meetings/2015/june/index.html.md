@@ -32,6 +32,8 @@ Agenda
 > can use within your own systems. I'll also share some concrete examples
 > of what we've used it for at Cronofy.
 
+{::coverage year="2015" month="june" talk="redis-is-the-answer-what-s-the-question" /}
+
 ### Ruby Magic
 
 As a child, [Andrew McDonough](http://twitter.com/andrewmcdonough) loved
@@ -40,12 +42,16 @@ set.  As an adult, Andrew prefers to perform magic using Ruby.  In this
 talk, he will attempt an array of traditional magic tricks, using only
 [IRB](https://en.wikipedia.org/wiki/Interactive_Ruby_Shell).
 
+{::coverage year="2015" month="june" talk="ruby-magic" /}
+
 ### Test Bisection with RSpec
 
 [Simon Coffey](https://twitter.com/urbanautomaton) says:
 
 > I'll talk about a useful technique for debugging order-dependent test
 > failures, and introduce an upcoming feature in RSpec that automates it.
+
+{::coverage year="2015" month="june" talk="test-bisection-with-rspec" /}
 
 Pub
 ---

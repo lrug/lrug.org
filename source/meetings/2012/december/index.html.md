@@ -1,5 +1,5 @@
---- 
-created_by: 
+---
+created_by:
   email: murray.steele@gmail.com
   name: Murray Steele
 category: meeting
@@ -22,30 +22,36 @@ Agenda
 [Frederick Cheung](http://www.spacevatican.org/) will talk to us about FFI:
 
 > We all love ruby, but sometimes ruby is not enough. Whether it be a
-> performance bottleneck, a killer library written in C or some 
+> performance bottleneck, a killer library written in C or some
 > platform specific functionality you just have to have, sometimes you
 > need to drop down a level.
 >
 > There have been many talks that show how to take the first steps in
-> writing a ruby C extension. This isn't one of them. I propose 
+> writing a ruby C extension. This isn't one of them. I propose
 > instead to give an overview of different ways of extending ruby and
-> show what each approach brings to the table. I intend to cover 
-> 'classic' C extensions, RubyInline and FFI across a range of ruby 
+> show what each approach brings to the table. I intend to cover
+> 'classic' C extensions, RubyInline and FFI across a range of ruby
 > implementations.
+
+{::coverage year="2012" month="december" talk="going-native" /}
 
 ### My tests run faster than your tests
 
 [Joel Chippindale](http://blog.mocoso.co.uk/) says his talk will be:
 
-> An introduction to [Zeus](https://github.com/burke/zeus) and 
+> An introduction to [Zeus](https://github.com/burke/zeus) and
 > the approach it takes for making rails tests run lightning fast.
+
+{::coverage year="2012" month="december" talk="hermes-add-wings-to-ruby-and-javascript-development" /}
 
 ### Hermes, add wings to Ruby and Javascript development
 
 [Claudio Ortolina](http://claudio-ortolina.org/) is going to tell us about:
 
-> [Hermes](https://github.com/New-Bamboo/Hermes): A Vim/Tmux development environment to 
+> [Hermes](https://github.com/New-Bamboo/Hermes): A Vim/Tmux development environment to
 > easily work with Ruby and Javascript.
+
+{::coverage year="2012" month="december" talk="my-tests-run-faster-than-your-tests" /}
 
 Pub
 ---

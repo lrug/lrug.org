@@ -1,5 +1,5 @@
---- 
-created_by: 
+---
+created_by:
   email: murray.steele@gmail.com
   name: Murray Steele
 category: meeting
@@ -31,6 +31,8 @@ After much demand for a talk about [RSpec](http://rspec.rubyforge.org/) from LRU
 
 Slides and some extra examples are [available from Tom's blog](http://blog.experthuman.com/2007/7/10/lrug-rspec-on-rails-talk).
 
+{::coverage year="2007" month="july" talk="rspec-on-rails" /}
+
 ### Pub
 
 After all this we'll head to [The Crown Tavern](http://fancyapint.com/pubs/pub199.html) just round the corner from the Skills Matter office to __test__ (<small>sorry</small>) their beers.  Attendance of the main meeting is not a pre-requisite of coming to the pub, so if you can't make the main meeting it's ok to just turn up for the pub.
@@ -38,5 +40,5 @@ After all this we'll head to [The Crown Tavern](http://fancyapint.com/pubs/pub19
 Registration
 ------------
 
-As usual, [please register with Skills Matter](http://skillsmatter.com/menu/695) if you are planning to come, so they can manage seating and making sure we get the most appropriately sized room.  There's also an [upcoming event](http://upcoming.yahoo.com/event/208191/) for those of us that love online calendaring. 
+As usual, [please register with Skills Matter](http://skillsmatter.com/menu/695) if you are planning to come, so they can manage seating and making sure we get the most appropriately sized room.  There's also an [upcoming event](http://upcoming.yahoo.com/event/208191/) for those of us that love online calendaring.
 

@@ -1,13 +1,13 @@
---- 
-updated_by: 
+---
+updated_by:
   email: murray.steele@gmail.com
   name: Murray Steele
-created_by: 
+created_by:
   email: murray.steele@gmail.com
   name: Murray Steele
 category: meeting
 title: April 2015 Meeting
-updated_at: 
+updated_at:
 published_at: 2015-03-23 10:41:24 Z
 created_at: 2015-03-23 10:34:10 Z
 status: Published
@@ -25,10 +25,12 @@ Agenda
 [Melinda Seckington](https://missgeeky.com/) says:
 
 > Most developers are familiar with the basics of AI: how do you make a
-> computer, an algorithm, a system learn something? What most don't 
-> realize though is that the same principles are applied to people. This 
-> talk looks at the theory behind how people learn, and maps it to real 
+> computer, an algorithm, a system learn something? What most don't
+> realize though is that the same principles are applied to people. This
+> talk looks at the theory behind how people learn, and maps it to real
 > life examples of how specifically developers learn.
+
+{::coverage year="2015" month="april" talk="un-artificial-intelligence-how-people-learn" /}
 
 ### The shiny new mongo gem
 
@@ -45,6 +47,8 @@ Agenda
 > [MongoDB 3.0](http://docs.mongodb.org/manual/release-notes/3.0/) was also released a few weeks ago and she'll talk a bit
 > about what makes this version so monumental and why you should try
 > it out.
+
+{::coverage year="2015" month="april" talk="the-new-mongodb-ruby-driver-2-0" /}
 
 Pub
 ---

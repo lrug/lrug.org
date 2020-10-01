@@ -36,6 +36,8 @@ using docker and bundler:
 > unsatisfactory options available to speed up the process of "development
 > re-bundling".
 
+{::coverage year="2016" month="october" talk="development-re-bundling-in-dockerland" /}
+
 ### A month of I18n in 10 minutes
 
 [Chris Radford](https://twitter.com/chrisradford) is going to tell us how to
@@ -65,7 +67,7 @@ her team got on with mob-programming:
 > A short story about a contribution I made to rubygems that took a couple
 > of years. And how that's totally ok.
 
-{:coverage year="2016" month="october" talk="rubygems-an-open-source-contribution-story"}
+{:coverage year="2016" month="october" talk="rubygems-an-open-source-contribution-story" /}
 
 Afterwards
 ----------

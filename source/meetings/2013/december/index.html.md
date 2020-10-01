@@ -1,8 +1,8 @@
---- 
-updated_by: 
+---
+updated_by:
   email: murray.steele@gmail.com
   name: Murray Steele
-created_by: 
+created_by:
   email: murray.steele@gmail.com
   name: Murray Steele
 category: meeting
@@ -24,12 +24,14 @@ Agenda
 
 [Tymon Tobolski](http://teamon.eu/) from [DRUG](http://drug.org.pl/) is visiting and wants to talk to us about asset management:
 
-> As Ruby web developers we all know the pain of managing client 
-> side assets in (not only) Rails applications, especially in legacy 
+> As Ruby web developers we all know the pain of managing client
+> side assets in (not only) Rails applications, especially in legacy
 > applications. I have had enough and that's how [http://rails-assets.org](http://rails-assets.org)
 > was born. The main purpose of this talk, besides spreading the
-> word, is to show some details of how rails-assets works and to 
+> word, is to show some details of how rails-assets works and to
 > compare it with existing solutions
+
+{::coverage year="2013" month="december" talk="the-solution-to-assets-management-in-rails" /}
 
 ### From a raw TCP socket to a Rails application
 
@@ -39,28 +41,32 @@ Agenda
 > magic in the name of developer productivity, especially when
 > building web applications. In this talk I'm going to peel
 > back the layers of voodoo and show you how we go from a raw
-> TCP socket to a Rails app via rack applications and middleware. 
+> TCP socket to a Rails app via rack applications and middleware.
 >
 > We'll be coving:
-> 
-> * Very high level overview of TCP connections and a minimum 
+>
+> * Very high level overview of TCP connections and a minimum
 >   viable web server with netcat
 > * Rack applications, middleware, and how they're typically chained
 >   together
-> * How Rails chains together rack middleware to do what it does 
+> * How Rails chains together rack middleware to do what it does
 >   (i.e. tracing the code path of a request from class Railtie all
 >   the way down to your apps controllers).
 >
-> There will be live coding, so I request that you sacrifice a 
+> There will be live coding, so I request that you sacrifice a
 > llama or three in the name of the demo gods before the event.
+
+{::coverage year="2013" month="december" talk="from-a-raw-tcp-socket-to-a-rails-application" /}
 
 ### A FizzBuzz to rule them all
 
 [Rosario Rascuna](http://rosario.io/) runs a site called [coder sumo](http://codersumo.com/) and wants to talk to us about some things he's learned:
 
-> Do expressive programming languages influence how we approach a 
+> Do expressive programming languages influence how we approach a
 > problem? We'll look at a few things you can learn about software
 > developers after analysing 1500 FizzBuzz implementations.
+
+{::coverage year="2013" month="december" talk="a-fizzbuzz-to-rule-them-all" /}
 
 Pub
 ---

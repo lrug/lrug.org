@@ -1,5 +1,5 @@
---- 
-created_by: 
+---
+created_by:
   email: murray.steele@gmail.com
   name: Murray Steele
 category: meeting
@@ -37,16 +37,20 @@ Agenda
 > fair, I include the humiliating (character-building) mistakes I've
 > made along the way.
 
+{::coverage year="2012" month="july" talk="happier-deployments-through-gradual-feature-rollout" /}
+
 ### What Ruby can't do
 
 [J. Pablo Fernádez](http://pupeno.com/) is going to show us what ruby *can't* do:
 
 > Ruby is an amazing language, it has an beautiful object model, a
-> concise syntax and it allows you to write functional code 
-> elegantly. It's probably one of the most powerful programming 
+> concise syntax and it allows you to write functional code
+> elegantly. It's probably one of the most powerful programming
 > languages out there, yet, there are still some things it cannot
-> do. Let's explore those aspects because it'll open our minds to 
+> do. Let's explore those aspects because it'll open our minds to
 > think differently but most important, because it's fun!
+
+{::coverage year="2012" month="july" talk="what-ruby-can-t-do" /}
 
 Pub
 ---

@@ -30,6 +30,8 @@ Agenda
 > simpler than MRI, JRuby or Rubinius, and needing only techniques that can be
 > explained in a few slides.
 
+{::coverage year="2016" month="april" talk="jruby-truffle-a-faster-but-simpler-new-ruby" /}
+
 ### Doing Things Differently at Reevoo
 
 [Jonny Arnold](https://twitter.com/JonnyArnold89) is going to tell us about some agile practices:
@@ -43,12 +45,16 @@ Agenda
 > every two weeks? Come along to our public retrospective on what went well and
 > what we would never do again.
 
+{::coverage year="2016" month="april" talk="doing-things-differently-at-reevoo" /}
+
 ### Continuous Feedback
 
 [Chris Blackburn](https://twitter.com/burgersnatch) says:
 
 > How we left behind old-fashioned performance reviews by applying the things
 > we're taught to value in modern software delivery to our people.
+
+{::coverage year="2016" month="april" talk="continuous-feedback" /}
 
 Afterwards
 ----------

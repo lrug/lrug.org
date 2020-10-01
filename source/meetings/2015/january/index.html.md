@@ -1,8 +1,8 @@
---- 
-updated_by: 
+---
+updated_by:
   email: murray.steele@gmail.com
   name: Murray Steele
-created_by: 
+created_by:
   email: murray.steele@gmail.com
   name: Murray Steele
 category: meeting
@@ -26,21 +26,25 @@ Agenda
 
 > Many Rails codebases I look at work hard to put all logic into
 > the application source code, using the database only a dumb
-> store. But, there are circumstances where it makes sense to 
-> leverage features of a database and in this talk I'll cover one 
+> store. But, there are circumstances where it makes sense to
+> leverage features of a database and in this talk I'll cover one
 > of those features in Views. I'll walk through examples of why you
-> might want logic in two places, how views compare to caching 
-> for performance considerations, using views as a facade on 
+> might want logic in two places, how views compare to caching
+> for performance considerations, using views as a facade on
 > legacy tables and how to test views alongside your application.
+
+{::coverage year="2015" month="january" talk="who-s-afraid-of-database-views" /}
 
 ### PeerConnect all the things
 
 [Tom Cartwright](http://www.tomcartwright.net/) says:
 
-> [WebRTC](http://www.webrtc.org/) is an exciting technology currently in, or coming 
+> [WebRTC](http://www.webrtc.org/) is an exciting technology currently in, or coming
 > soon to a browser near you. In this talk I will explain what
-> it is, how it works and how to setup some ruby services to 
+> it is, how it works and how to setup some ruby services to
 > support a WebRTC-based application.
+
+{::coverage year="2015" month="january" talk="peerconnect-all-the-things" /}
 
 ### Telling stories through your commits
 
@@ -49,6 +53,8 @@ Agenda
 > In this talk we'll look at some of the ways that you can
 > improve how you develop code and communicate with your team
 > through your commits.
+
+{::coverage year="2015" month="january" talk="telling-stories-through-your-commits" /}
 
 Pub
 ---

@@ -50,6 +50,8 @@ Agenda
 > programming, and show you how to implement a minimal relational
 > language in Ruby. (Dog whistle: this is [μkanren](http://webyrd.net/scheme-2013/papers/HemannMuKanren2013.pdf).)
 
+{::coverage year="2015" month="august" talk="hello-declarative-world" /}
+
 ### Domain Driven Design, In the Wild
 
 [Chris Patuzzo](https://github.com/tuzz) says:
@@ -70,6 +72,8 @@ Agenda
 > aim to cut through the jargon and give concrete, real-world examples of
 > how we applied the principles of DDD to build a product that
 > anticipates change.
+
+{::coverage year="2015" month="august" talk="domain-driven-design-in-the-wild" /}
 
 ### Ticket Giveaway
 

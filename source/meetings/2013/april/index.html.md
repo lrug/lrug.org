@@ -1,8 +1,8 @@
---- 
-updated_by: 
+---
+updated_by:
   email: murray.steele@gmail.com
   name: Murray Steele
-created_by: 
+created_by:
   email: murray.steele@gmail.com
   name: Murray Steele
 category: meeting
@@ -25,31 +25,35 @@ Agenda
 [Najaf Ali](http://happybearsoftware.com) wants to school us on security:
 
 > He'll be covering:
-> 
+>
 > * How to improve the quality of your software by thinking like an attacker.
 > * Technical walkthroughs of real-life vulnerabilities.
 > * Practical tips for keeping your software secure over the long term.
+
+{::coverage year="2013" month="april" talk="better-security-for-your-web-applications" /}
 
 ### Say hello to Padrino
 
 [Xavier Riley](https://twitter.com/xavriley) is going to tell us all about [Padrino](http://www.padrinorb.com/):
 
-> Rails showed us the power of the full-stack framework. 
-> It was good, but some of us felt the power was at the 
+> Rails showed us the power of the full-stack framework.
+> It was good, but some of us felt the power was at the
 > expense of lightness (and joy?).
 >
 > Sinatra showed us the joy of simple. The bare essentials
-> to start working with http requests gave us back some 
+> to start working with http requests gave us back some
 > of the Zen of creating a codebase that did exactly what
 > it should and nothing more. Sadly, this Zen meant
 > reinventing wheels that Rails had already rolled.
 >
-> Padrino came after both of these projects and the 
-> developers learnt from them. They re-imagined the 
+> Padrino came after both of these projects and the
+> developers learnt from them. They re-imagined the
 > full stack using Sinatra as a base and building from
 > there. Sinatra++ you might think.
 
 There's a longer write up on the [Ruby Manor 4 vestibule](http://vestibule.rubymanor.org/proposals/47) where Xavier originally proposed the talk.
+
+{::coverage year="2013" month="april" talk="say-hello-to-padrino" /}
 
 Pub
 ---

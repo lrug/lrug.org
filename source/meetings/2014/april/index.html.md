@@ -34,6 +34,8 @@ Some of the team from [the ODI](http://theodi.org/) want to present about their 
 > which was [open source](https://github.com/alphagov), but never
 > really designed for reuse, and what they learned along the way.
 
+{::coverage year="2014" month="april" talk="adventures-in-early-adoption-of-open-source-code" /}
+
 ### Aspect-Oriented Programming in Ruby
 
 [Camille Baldock](http://camillebaldock.co.uk/) says:
@@ -59,6 +61,8 @@ Some of the team from [the ODI](http://theodi.org/) want to present about their 
 > * walk you through two existing Ruby frameworks to practice Aspect-Oriented Programming
 >
 > She will even attempt to prove that not all things coming from the Java world are necessarily bad.
+
+{::coverage year="2014" month="april" talk="aspect-oriented-programming-in-ruby" /}
 
 Pub
 ---

@@ -43,6 +43,8 @@ Agenda
 > our state machines. The resulting program will enable us to
 > analyse and visualise the interactions of a Vim user.
 
+{::coverage year="2013" month="october" talk="modelling-state-machines-with-ragel" /}
+
 ### Enumerators in Ruby
 
 [Olly Legg](http://www.51degrees.net/) says:
@@ -52,6 +54,8 @@ Agenda
 > I'll discuss where they're used in stdlib, how you can
 > implement them and (at least) one practical example where
 > they might be the right solution.
+
+{::coverage year="2013" month="october" talk="enumerators-in-ruby" /}
 
 ### Drinks!
 

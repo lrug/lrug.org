@@ -28,15 +28,60 @@ February is our annual lightning talk evening and as usual we're using the 20x20
 
 Our confirmed volunteers for 2012 are:
 
-* [Yann Armand](http://blog.harakys.com/): HULK SMASH! (your db column, not your whole app)
-* [Paul Battley](http://po-ru.com/): 1 + 2 = 3
-* [Pablo Brasero Moreno](http://pablobm.com/): Extremist Programming
-* [Steve Buckley](http://twitter.com/StevieBuckley): Contractor Rates & Salaries for Ruby Devs in London
-* [Seb Jacobs](http://sebjacobs.com/): mruby
-* [Nasir Jamal](http://twitter.com/_nasj): Love your Pull Requests
-* [Gerhard Lazu](http://gerhardlazu.com/): What would Jason Bourne do?
-* [Randy Morgan](https://github.com/randym): Polyglottous emberjs with rake-pipeline and localeapp
-* [Anurag Priyam](https://github.com/yeban): Afra: collectively mapping genomes
+#### [Yann Armand](http://blog.harakys.com/)
+
+HULK SMASH! (your db column, not your whole app)
+
+{::coverage year="2013" month="february" talk="hulk-smash-your-db-column-not-your-whole-app" /}
+
+#### [Paul Battley](http://po-ru.com/)
+
+1 + 2 = 3
+
+{::coverage year="2013" month="february" talk="1-2-3" /}
+
+#### [Pablo Brasero Moreno](http://pablobm.com/)
+
+Extremist Programming
+
+{::coverage year="2013" month="february" talk="extremist-programming" /}
+
+#### [Steve Buckley](http://twitter.com/StevieBuckley)
+
+Contractor Rates & Salaries for Ruby Devs in London
+
+{::coverage year="2013" month="february" talk="contractor-rates-salaries-for-ruby-devs-in-london" /}
+
+#### [Seb Jacobs](http://sebjacobs.com/)
+
+mruby
+
+{::coverage year="2013" month="february" talk="mruby" /}
+
+#### [Nasir Jamal](http://twitter.com/_nasj)
+
+Love your Pull Requests
+
+{::coverage year="2013" month="february" talk="love-your-pull-requests" /}
+
+#### [Gerhard Lazu](http://gerhardlazu.com/)
+
+What would Jason Bourne do?
+
+{::coverage year="2013" month="february" talk="what-would-jason-bourne-do" /}
+
+#### [Randy Morgan](https://github.com/randym)
+
+Polyglottous emberjs with rake-pipeline and localeapp
+
+{::coverage year="2013" month="february" talk="polyglottous-emberjs-with-rake-pipeline-and-localeapp" /}
+
+#### [Anurag Priyam](https://github.com/yeban)
+
+Afra: collectively mapping genomes
+
+{::coverage year="2013" month="february" talk="afra-collectively-mapping-genomes" /}
+
 
 Pub
 ---

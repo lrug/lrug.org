@@ -56,6 +56,8 @@ Agenda
 > and edge cases this brings with it and a tools we built to
 > make sure we had them covered.
 
+{::coverage year="2013" month="august" talk="rabbit-running-wild-you-need-a-hutch" /}
+
 ### Drinks!
 
 {::sponsor name="Team Prime" size="main" /}

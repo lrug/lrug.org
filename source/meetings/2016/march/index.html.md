@@ -30,6 +30,8 @@ Agenda
 > among rubyists, and outlining a few of the similarities and differences
 > between Elixir and Ruby.
 
+{::coverage year="2016" month="march" talk="elixir-for-rubyists" /}
+
 ### The full power of Redis
 
 Daniel Magliola is going to tell us about [Redis](http://redis.io/):
@@ -38,12 +40,16 @@ Daniel Magliola is going to tell us about [Redis](http://redis.io/):
 > give so much more. In this talk I'll give practical examples of use cases
 > where Redis outshines everything else I've tried.
 
+{::coverage year="2016" month="march" talk="the-full-power-of-redis" /}
+
 ### A reintroduction to codebar
 
 [Kimberley Cook](https://twitter.com/kimberleycook91) is going to tell us about [Codebar](https://codebar.io/):
 
 > In this talk I will discuss what codebar is, how we have expanded over the
 > last 2 years and how you can help us improve.
+
+{::coverage year="2016" month="march" talk="a-reintroduction-to-codebar" /}
 
 Afterwards
 ----------
