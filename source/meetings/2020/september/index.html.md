@@ -41,6 +41,8 @@ say to LRUG.
 > An overview of [StimulusJS](https://stimulusjs.org) (a small framework from Basecamp) and
 > discussion on when you might (or might not!) want to use it
 
+{::coverage year="2020" month="september" talk="stimulusjs-modest-js-for-the-html-you-have" /}
+
 ### Wizards without magic
 
 [Duncan Brown](https://github.com/duncanjbrown):
@@ -48,6 +50,8 @@ say to LRUG.
 > Multi-step forms (a.k.a wizards) are fiddly to build and difficult to
 > test. (And not just in Rails). Why is that, and how can we make them
 > better?
+
+{::coverage year="2020" month="september" talk="wizards-without-magic" /}
 
 Afterwards
 ----------
