@@ -1,5 +1,5 @@
---- 
-created_by: 
+---
+created_by:
   email: murray.steele@gmail.com
   name: Murray Steele
 category: meeting
@@ -25,25 +25,28 @@ Agenda
 > realtime to discover inbound links to the [BBC Zeitgeist](http://zeitgeist.prototyping.bbc.co.uk/zeitgeist)
 > and how we're reading the [Twitter Firehose](http://dev.twitter.com/pages/streaming_api) (about 1000 tweets/sec =
 > about 90 million a day) and storing the data in Amazon S3.
-> 
+>
 > There'll be a bit about [Hadoop](http://hadoop.apache.org/) and [Map/Reduce](http://en.wikipedia.org/wiki/Map_reduce) too.
 
 A video of Sean's talk, filmed by Skills Matter, [is available on the Skills Matter site](http://skillsmatter.com/podcast/ajax-ria/processing-tweets-at-the-bbc-1848).
+
+{::coverage year="2011" month="january" talk="processing-tweets-at-the-bbc" /}
 
 ### Matthew Rudy Jacobs: "Building a financial app in ruby and rails, and all the gems I made along the way"
 
 [Matthew](http://matthewrudy.com/) has been living it up in Hong Kong for the past year and will be making a brief stop at our humble meeting to explain some of the work he's been doing there in building a financial application.  He promises to cover at least some of these things:
 
-* big ints and careful rounding 
-* locking strategy 
+* big ints and careful rounding
+* locking strategy
 * state machines
 * currency handling
-* secure server configuration with chef 
-* data security 
+* secure server configuration with chef
+* data security
 * satisfying businessy types
 
 A video of Matthew's talk, filmed by Skills Matter, [is available on the Skills Matter site](http://skillsmatter.com/podcast/ajax-ria/building-a-financial-app-in-ruby-and-rails).
 
+{::coverage year="2011" month="january" talk="building-a-financial-app-in-rails" /}
 
 ### "Analogue Blog"
 

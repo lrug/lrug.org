@@ -27,6 +27,8 @@ Agenda
 > How we moved from a huge Rails monolith to small microservices - the how and
 > the why.
 
+{::coverage year="2016" month="january" talk="from-monolith-to-microservices-a-true-story" /}
+
 ### The journey to Primed.is
 
 [Neil Robertson](https://twitter.com/Whatthenar) & [Jake Prime](https://twitter.com/jakeprime) want to tell us about [Primed.is](http://primed.is).  First Neil will quickly introduce us to Primed.is:
@@ -47,6 +49,8 @@ Then Jake will talk to us about his journey while building it:
 > Primed. This is the talk I would like to have heard a year ago when I
 > was beginning that journey.
 
+{::coverage year="2016" month="january" talk="the-journey-to-primed-is" /}
+
 ### Using direnv with ruby and 12factor apps
 
 [Jonas Pfenniger Chevalier](http://zimbatm.com) will show us a new environment switcher tool he's written called direnv:
@@ -58,6 +62,8 @@ Then Jake will talk to us about his journey while building it:
 > how it can be used by ruby developers. Hopefully it will be useful to you in
 > the everyday life as a developer, or just spark some interesting
 > conversations.
+
+{::coverage year="2016" month="january" talk="using-direnv-with-ruby-and-12factor-apps" /}
 
 Pub
 ---

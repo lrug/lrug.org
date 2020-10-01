@@ -1,8 +1,8 @@
---- 
-updated_by: 
+---
+updated_by:
   email: murray.steele@gmail.com
   name: Murray Steele
-created_by: 
+created_by:
   email: murray.steele@gmail.com
   name: Murray Steele
 category: meeting
@@ -26,34 +26,40 @@ Agenda
 
 > It'll be about my adventures, frustrations and triumphs in learning to code and specifically in Ruby.
 
+{::coverage year="2014" month="may" talk="learning-to-code" /}
+
 ### How to win developers and influence designers
 
 [Adam Rogers](https://twitter.com/rodreegez) has a talk for us about working as a team better:
 
-> In 1936, Dale Carnegie wrote the book ["How to win friends and influence people"](http://www.amazon.co.uk/How-Win-Friends-Influence-People/dp/0091906814/). 
-> You may have heard of it. But what can this book, and others, teach us about 
+> In 1936, Dale Carnegie wrote the book ["How to win friends and influence people"](http://www.amazon.co.uk/How-Win-Friends-Influence-People/dp/0091906814/).
+> You may have heard of it. But what can this book, and others, teach us about
 > working as part of a software team today? Quite a lot, actually.
 >
 > We'll look at a few points that'll help us to work better, together.
+
+{::coverage year="2014" month="may" talk="how-to-win-developers-and-influence-designers" /}
 
 ### Deprecating ActiveResource: Alternative Approaches for Internal Rails Services
 
 [Gabe da Silveira](https://twitter.com/dasil003) is going to talk to us about ActiveResource:
 
 > Ruby on Rails has always been optimized for a single monolithic application
-> architecture.  But as applications grow, it has become more and more common 
-> for architects to seek out ways to break their monolithic Rails apps into 
+> architecture.  But as applications grow, it has become more and more common
+> for architects to seek out ways to break their monolithic Rails apps into
 > self-contained services.  For years the most natural answer of how to hook
-> up one Rails app to another's API has been to use ActiveResource, a core 
+> up one Rails app to another's API has been to use ActiveResource, a core
 > Rails plugin that provides an ActiveRecord-like interface to an external service.
-> 
+>
 > The allure of such a simple interface to a network service is undeniable, but
-> the downsides not nearly as obvious.  Many have built Rails apps relying on 
-> ActiveResource only to feel significant unforeseen pain down the line.  This 
-> talk provides a case study of an early adopter of ActiveResource during the 
+> the downsides not nearly as obvious.  Many have built Rails apps relying on
+> ActiveResource only to feel significant unforeseen pain down the line.  This
+> talk provides a case study of an early adopter of ActiveResource during the
 > Rails 1.2 era, the pain that it led to, and the eventual replacement of
 > ActiveResource with a bespoke private gem that provides a similar, but more
 > robust interface.
+
+{::coverage year="2014" month="may" talk="deprecating-activeresource-alternative-approaches-for-internal-rails-services" /}
 
 Pub
 ---

@@ -28,6 +28,8 @@ Agenda
 
 A video of Tom's talk is available on the [Skills Matter site](http://skillsmatter.com/podcast/ajax-ria/do-mix-your-drinks).
 
+{::coverage year="2009" month="july" talk="do-mix-your-drinks" /}
+
 ### Ruby+Arduino
 
 [Tomasz Wegrzanowski](http://t-a-w.blogspot.com/) will be giving a talk that he describes as follows:

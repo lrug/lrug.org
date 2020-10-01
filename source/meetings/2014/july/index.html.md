@@ -1,8 +1,8 @@
---- 
-updated_by: 
+---
+updated_by:
   email: murray.steele@gmail.com
   name: Murray Steele
-created_by: 
+created_by:
   email: murray.steele@gmail.com
   name: Murray Steele
 category: meeting
@@ -25,25 +25,29 @@ Agenda
 [John Maxwell](http://jgwmaxwell.com/) wants to talk to us about automated deployment:
 
 > The first principle of the Agile Manifesto says “Our highest
-> priority is to satisfy the customer through early and 
+> priority is to satisfy the customer through early and
 > continuous delivery of valuable software”, yet too often this
 > is not the reality. Delivery is one of the most disruptive
 > parts of the software development process for developers, but
-> can be easy to automate, empowering the iterative process. 
-> This talk is a manifesto for how to go from scratch to 
+> can be easy to automate, empowering the iterative process.
+> This talk is a manifesto for how to go from scratch to
 > automated deployment, with a few tales from the trenches of
 > mistakes made along the way.
+
+{::coverage year="2014" month="july" talk="continuous-deliverance-set-your-development-free" /}
 
 ### Welcome back to RSpec
 
 [Tom Stuart](http://codon.com/) is going to re-introduce us to RSpec:
 
 > [RSpec 3](https://relishapp.com/rspec/) has just been released, and it's come a long way since
-> [version 1](http://rspec.info). If you've had problems with RSpec in the past, now 
+> [version 1](http://rspec.info). If you've had problems with RSpec in the past, now
 > is a great time to revisit it — it's become much cleaner, simpler
-> and more focused. I'll give a quick overview of the main things 
-> that have changed over the years, and if there's time, I'll 
+> and more focused. I'll give a quick overview of the main things
+> that have changed over the years, and if there's time, I'll
 > explain a few of the new features in version 3.
+
+{::coverage year="2014" month="july" talk="welcome-back-to-rspec" /}
 
 ### Becoming a Developer & Codebar
 
@@ -51,9 +55,11 @@ Agenda
 
 > A short talk about my experience starting out as a professional
 > developer. The focus of this talk will be about a weekly event
-> through which I received a huge amount of support called [Codebar](http://codebar.io). 
-> At Codebar programming skills are taught for free to people 
-> underrepresented in the tech industry. 
+> through which I received a huge amount of support called [Codebar](http://codebar.io).
+> At Codebar programming skills are taught for free to people
+> underrepresented in the tech industry.
+
+{::coverage year="2014" month="july" talk="becoming-a-developer-codebar" /}
 
 Pub
 ---

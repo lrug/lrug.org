@@ -37,6 +37,8 @@ Agenda
 > out of badly coupled code, moved to continuous deployment, and greatly
 > improved our approach to product and software development.
 
+{::coverage year="2015" month="may" talk="rewriting-code-and-culture" /}
+
 ### Rails New Way
 
 [Kamil Lelonek](http://kamil.lelonek.me/) is going to talk about building modern, maintainable and robust Rails applications. He asks:
@@ -47,6 +49,8 @@ Agenda
 * Should we follow the Rails way or drop Rails at all?
 
 With presented building blocks he'll try to help solve common problems in current Rails applications.
+
+{::coverage year="2015" month="may" talk="rails-new-way-building-blocks-for-modern-rails-architecture" /}
 
 ### Book Giveaway
 

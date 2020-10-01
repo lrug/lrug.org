@@ -28,6 +28,8 @@ Agenda
 
 He wrote a little about this topic a couple of months ago on [his company blog](http://sidekickstudios.net/blog/2012/06/simples).
 
+{::coverage year="2012" month="september" talk="doing-less-and-keeping-it-simple" /}
+
 ### Objective C for Rubyists
 
 [Chris O'Sullivan](http://www.thechrisoshow.com/) is going to give us 15 minutes on Objective-C:
@@ -44,6 +46,8 @@ He wrote a little about this topic a couple of months ago on [his company blog](
 > to make your code more concise, readable, and a lot more like Ruby. In
 > this talk I'll give you a whirlwind tour of these changes.
 
+{::coverage year="2012" month="september" talk="objective-c-for-rubyists" /}
+
 ### Zero-Downtime Deployment
 
 [Jairo Diaz](http://www.codescrum.com/) says:
@@ -55,6 +59,8 @@ He wrote a little about this topic a couple of months ago on [his company blog](
 > frequent deployments .  This talks present a simple
 > configuration for zero-downtime deployments for ruby
 > applications.
+
+{::coverage year="2012" month="september" talk="zero-downtime-deployment" /}
 
 Pub
 ---

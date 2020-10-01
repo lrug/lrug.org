@@ -33,6 +33,8 @@ Agenda
 > As always, it doesn’t matter if you haven’t found time to do the reading. At
 > the Ruby Book Club, we like to make sure that everyone is on the same page.
 
+{::coverage year="2016" month="july" talk="ruby-book-club" /}
+
 ### Documenting Ruby APIs
 
 [Tom Kadwill](https://twitter.com/tomkadwill) says this about his talk:
@@ -40,6 +42,8 @@ Agenda
 > In this talk I will provide a short comparison of the popular API
 > documentation tools available for Ruby. I'll explain how you can use them to
 > generate API documentation for your own projects.
+
+{::coverage year="2016" month="july" talk="documenting-ruby-apis" /}
 
 ### Integrating React into a Rails application
 
@@ -49,6 +53,8 @@ Agenda
 > within a Rails environment, why you might want to, and what benefits it can
 > unlock. Also looking at how you can make this change to a large project which
 > lots of developers contribute to regularly.
+
+{::coverage year="2016" month="july" talk="integrating-react-into-a-rails-application" /}
 
 Afterwards
 ----------

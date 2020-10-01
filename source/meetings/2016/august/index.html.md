@@ -29,6 +29,8 @@ Agenda
 > Rails 5.0. With Action Cable we can develop interactive applications and live
 > notifications to our users.
 
+{::coverage year="2016" month="august" talk="action-cable" /}
+
 ### The Marvel Guide to Developers
 
 [Melinda Seckington](https://missgeeky.com) wants to talk to us about superhero developers:
@@ -42,11 +44,15 @@ Agenda
 > and lessons from Marvel superheroes, this talk will help you become the type
 > of developer that amplifies and helps others.
 
+{::coverage year="2016" month="august" talk="the-marvel-guide-to-developers" /}
+
 ### Tell, Don’t Ask
 
 [John Cinnamond](https://twitter.com/jcinnamond) has a deleted-scene from his Brighton Ruby talk on OO programming to share with us:
 
 > Everything you ever need to know about how to write the most wonderful code, in 10 minutes.
+
+{::coverage year="2016" month="august" talk="tell-don-t-ask" /}
 
 Afterwards
 ----------

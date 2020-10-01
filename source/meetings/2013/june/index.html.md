@@ -56,6 +56,8 @@ Agenda
 
 JB originally proposed this talk for [Ruby Manor 4](http://rubymanor.org/4/) and you can read more about [his proposal on vestibule](http://vestibule.rubymanor.org/proposals/10)
 
+{::coverage year="2013" month="june" talk="state-machines-are-people-too" /}
+
 ### Application Example based on Gov.uk public code
 
 [Jairo Diaz](http://www.codescrum.com) says:
@@ -64,6 +66,8 @@ JB originally proposed this talk for [Ruby Manor 4](http://rubymanor.org/4/) and
 > available from the [GOV.UK project](https://www.gov.uk). It
 > shows how we can implement custom customer service flows
 > based on the [SmartAnswers project](https://github.com/alphagov/smart-answers).
+
+{::coverage year="2013" month="june" talk="application-example-based-on-gov-uk-public-code" /}
 
 Pub
 ---

@@ -1,5 +1,5 @@
---- 
-created_by: 
+---
+created_by:
   email: murray.steele@gmail.com
   name: Murray Steele
 category: meeting
@@ -33,6 +33,8 @@ The initial panel will be:
 * [Tom Stuart](http://twitter.com/mortice) - The "fast specs" paradigm is a red herring for producing better code
 
 [Murray Steele](http://twitter.com/hlame) will act as moderator, but anyone can get involved by claiming the empty fifth chair.
+
+{::coverage year="2012" month="march" talk="tdd-fishbowl-session" /}
 
 Pub
 ---

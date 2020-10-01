@@ -1,5 +1,5 @@
---- 
-created_by: 
+---
+created_by:
   email: murray.steele@gmail.com
   name: Murray Steele
 category: meeting
@@ -19,7 +19,7 @@ Agenda
 
 ### Transformers: Code Blocks In Disguise
 
-[Aanand](http://aanandprasad.com/) has some Ruby code to show you. It looks a little strange - in fact, it doesn't even look valid. 
+[Aanand](http://aanandprasad.com/) has some Ruby code to show you. It looks a little strange - in fact, it doesn't even look valid.
 
     Array.run do
       x <- ["first", "second"]
@@ -30,6 +30,8 @@ Agenda
 
 What does it do, and how does it do it? If you know what a macro is, or a continuation, or a monad, you might be able to guess. If not, don't worry - by the end, you'll probably be as confused as everyone else, including the speaker.
 
+{::coverage year="2011" month="november" talk="transformers-code-blocks-in-disguise" /}
+
 ### My Adventures in Objective-C
 
 [Abdel](http://twitter.com/abdels) wants to tell us about his experiences of developing an iOS app from a Rubyists perspective:
@@ -37,10 +39,12 @@ What does it do, and how does it do it? If you know what a macro is, or a contin
 > I have been ducking Objective-C at every turn for a very long time. Who wants to learn a heavily typed static behemoth just to write an iPhone app?!
 >
 > So, I did what every self respecting programmer would do, throw alternative open solutions aka Javascript frameworks at the problem.
-> 
+>
 > But in the end I had to succumb to the will of the Almighty Apple - I needed their Objective C to make stuff happen ... and it wasn't that bad :)
-> 
+>
 > This is all the learning, similarities (of which there are a few) and differences between Objective-C and Ruby.
+
+{::coverage year="2011" month="november" talk="my-adventures-in-objective-c" /}
 
 Pub
 ---

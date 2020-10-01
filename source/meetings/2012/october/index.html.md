@@ -1,5 +1,5 @@
---- 
-created_by: 
+---
+created_by:
   email: murray.steele@gmail.com
   name: Murray Steele
 category: meeting
@@ -23,17 +23,21 @@ Agenda
 
 > A lot of importance is placed on good GUI design but it’s easy to
 > overlook good command line interfaces.
-> 
+>
 > Taking from our experiences writing the Brightbox Cloud cli (and years
 > of using cli tools, both good and bad), this talk will show you some of
 > things you need to consider when designing a good cli interface (with a
 > focus on Ruby!).
-> 
+>
 > And all this without turning to ncurses!
+
+{::coverage year="2012" month="october" talk="beautiful-command-line-interface-design" /}
 
 ### DTrace + Ruby
 
 [Anuj Dutta](http://www.andhapp.com/) has been poking about with [DTrace](http://dtrace.org/blogs/), a performance analysis and troubleshooting tool, and wants to talk to us about it.  He describes his talk as "An introduction to DTrace and it's current state in the Ruby world".  You should care because hooks for DTrace are [being added to ruby](http://bugs.ruby-lang.org/issues/2565) as we speak, (although they are targetting Ruby 2.0).
+
+{::coverage year="2012" month="october" talk="dtrace-ruby" /}
 
 Pub
 ---

@@ -44,6 +44,8 @@ Agenda
 > with progress along the way as nature intended. I'll also
 > mention some of the tools that make life much, much simpler.
 
+{::coverage year="2013" month="july" talk="the-reluctant-chef" /}
+
 ### Building and maintaining a Ruby team during the Rails crisis of 2013
 
 [Louis Goff-Beardsley](https://twitter.com/LouisRoR) says:
@@ -60,6 +62,8 @@ Agenda
 >    thinking of starting a team in the future. Overall I think
 >    it will be beneficial & interesting for everyone, even if
 >    you’re not thinking of starting your own team any time soon.
+
+{::coverage year="2013" month="july" talk="building-and-maintaining-a-ruby-team-during-the-rails-crisis-of-2013" /}
 
 ### Drinks!
 

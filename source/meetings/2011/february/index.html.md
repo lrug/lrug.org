@@ -1,5 +1,5 @@
---- 
-created_by: 
+---
+created_by:
   email: murray.steele@gmail.com
   name: Murray Steele
 category: meeting
@@ -23,15 +23,59 @@ It's February, so this means it's time for our annual lightning talk evening.  T
 
 The brave 20x20ers for 2011 are (in alphabetical order, on the night the talks will be randomised):
 
-* [James Adam](http://twitter.com/lazyatom): an exploration of why nobody needs to write any more test frameworks
-* [Ed Davey](http://twitter.com/misteredavey): ruby search systems (Sunspot, acts\_as\_ferret, ultraspinx, thinking\_sphinx, acts\_as\_solr, acts\_as\_xapian, xapit, raw mysql)
-* [Ben Griffiths](http://twitter.com/beng): [BASIC interpreter](https://github.com/techbelly/BASIC)
-* [Gerhard Lazu](http://twitter.com/gerhardlazu): How do we suck in 480 books per second from Amazon's API using Ruby via Redis into MongoDB
-* [Chris Lowis](http://twitter.com/chrislowis): W3C Audio XG Group (audio + javascript)
-* [Neil Middleton](http://twitter.com/neilmiddleton): Riding Rails through a TV induced storm
-* [Jim Myhrberg](http://twitter.com/jimeh): [Redistat](https://github.com/jimeh/redistat)
-* [Tom Stuart](http://twitter.com/tomstuart): ARel / Relational Algebra
-* [Tom ten Thij](http://twitter.com/tomtt): xpath + xpath use patterns in capybara
+#### [James Adam](http://twitter.com/lazyatom)
+
+> an exploration of why nobody needs to write any more test frameworks
+
+{::coverage year="2011" month="february" talk="an-exploration-of-why-nobody-needs-to-write-any-more-test-frameworks" /}
+
+#### [Ed Davey](http://twitter.com/misteredavey)
+
+> ruby search systems (Sunspot, acts\_as\_ferret, ultraspinx,
+> thinking\_sphinx, acts\_as\_solr, acts\_as\_xapian, xapit, raw mysql)
+
+{::coverage year="2011" month="february" talk="ruby-search-systems-sunspot-acts-as-ferret-ultraspinx-thinking-sphinx-acts-as-solr-acts-as-xapian-xapit-raw-mysql" /}
+
+#### [Ben Griffiths](http://twitter.com/beng)
+
+> [BASIC interpreter](https://github.com/techbelly/BASIC)
+
+{::coverage year="2011" month="february" talk="basic-interpreter" /}
+
+#### [Gerhard Lazu](http://twitter.com/gerhardlazu)
+
+> How do we suck in 480 books per second from Amazon's API using Ruby via Redis into MongoDB
+
+{::coverage year="2011" month="february" talk="how-do-we-suck-in-480-books-per-second-from-amazon-s-api-using-ruby-via-redis-into-mongodb" /}
+
+#### [Chris Lowis](http://twitter.com/chrislowis)
+
+> W3C Audio XG Group (audio + javascript)
+
+{::coverage year="2011" month="february" talk="w3c-audio-xg-group-audio-javascript" /}
+
+#### [Neil Middleton](http://twitter.com/neilmiddleton)
+
+> Riding Rails through a TV induced storm
+
+{::coverage year="2011" month="february" talk="riding-rails-through-a-tv-induced-storm" /}
+
+#### [Jim Myhrberg](http://twitter.com/jimeh)
+
+> [Redistat](https://github.com/jimeh/redistat)
+
+{::coverage year="2011" month="february" talk="redistat" /}
+
+#### [Tom Stuart](http://twitter.com/tomstuart)
+
+> ARel / Relational Algebra
+
+{::coverage year="2011" month="february" talk="relational-algebra-and-arel" /}
+
+#### [Tom ten Thij](http://twitter.com/tomtt)
+
+> xpath + xpath use patterns in capybara
+
 
 Looks like a fun night!
 

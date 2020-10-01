@@ -1,5 +1,5 @@
---- 
-created_by: 
+---
+created_by:
   email: murray.steele@gmail.com
   name: Murray Steele
 category: meeting
@@ -22,6 +22,8 @@ It's unintentional, but it looks like we have a theme this month of using ruby t
 ### Building a prototype site for the UK government
 
 Some of the team behind [alphagov](http://alpha.gov.uk), the new prototype for a UK government website will talk about the ruby they've used in delivering the site, and some of the lessons learned.
+
+{::coverage year="2011" month="july" talk="building-a-prototype-site-for-the-uk-government" /}
 
 ### Extracting value from legacy applications using Ruby
 

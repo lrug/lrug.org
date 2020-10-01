@@ -32,6 +32,8 @@ Agenda
 > well structured, easy to follow and with a consistent house style. How can
 > those same techniques help us write better code?
 
+{::coverage year="2015" month="november" talk="hack-like-a-journalist" /}
+
 ### Leveraging immutability in Ruby
 
 [Lorenzo Barasti](https://www.linkedin.com/pub/lorenzo-barasti/5a/918/685) says:
@@ -44,6 +46,8 @@ Agenda
 > We'll try to answer these questions by looking at the ideas behind the
 > implementation of some immutable data structure.
 
+{::coverage year="2015" month="november" talk="leveraging-immutability-in-ruby" /}
+
 ### No-Man’s Land - Finding peace at the border of art and tech
 
 [Kevin Monk](https://twitter.com/KevinMonk) and [Simon Sharville](http://www.simonsharville.co.uk/) :
@@ -54,6 +58,8 @@ Agenda
 > and a developer, we’ll discuss our approach to keeping both artists and
 > technicians within their comfort zone to create applications that work well
 > AND look good.
+
+{::coverage year="2015" month="november" talk="no-man-s-land-finding-peace-at-the-border-of-art-and-tech" /}
 
 Pub
 ---

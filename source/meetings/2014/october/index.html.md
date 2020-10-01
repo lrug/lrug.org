@@ -1,8 +1,8 @@
---- 
-updated_by: 
+---
+updated_by:
   email: murray.steele@gmail.com
   name: Murray Steele
-created_by: 
+created_by:
   email: murray.steele@gmail.com
   name: Murray Steele
 category: meeting
@@ -24,33 +24,37 @@ Agenda
 
 [Rob Miller](https://robm.me.uk/) says:
 
-> The Unix command line has been the foundation of how 
-> we use computers for over four decades, and has 
+> The Unix command line has been the foundation of how
+> we use computers for over four decades, and has
 > changed surprisingly little in that time. I'll look at
-> what it takes to elevate a throwaway one-liner or 
-> personal script into a robust and re-usable CLI app, 
+> what it takes to elevate a throwaway one-liner or
+> personal script into a robust and re-usable CLI app,
 > and look at the Ruby techniques that make it easy to
 > be a good Unix citizen.
+
+{::coverage year="2014" month="october" talk="be-a-good-unix-citizen" /}
 
 ### Live Coding in the Classroom
 
 [Sam Aaron](http://sam.aaron.name/) and [Xavier Riley](http://xavierriley.co.uk/) want to code up some music for us:
 
-> [Sonic Pi](http://sonic-pi.net/) is a Ruby-based live coding music 
-> synthesiser designed to help teach both computing 
+> [Sonic Pi](http://sonic-pi.net/) is a Ruby-based live coding music
+> synthesiser designed to help teach both computing
 > and music within schools. It uses fast feedback,
 > liveness and studio-quality sound production as a
-> means to engage school children in introductory 
-> coding. In this talk we will follow the story of 
-> Sonic Pi from its the humble beginnings of this 
-> project in a single class of school-children coding 
-> beeps and bleeps to its current standing as a 
-> state-of-the-art live coding system installed by 
-> default on all Raspberry Pis  used to live code 
-> in a variety of venues from Algoraves to national 
-> music venues.  All towards a simple but deep 
+> means to engage school children in introductory
+> coding. In this talk we will follow the story of
+> Sonic Pi from its the humble beginnings of this
+> project in a single class of school-children coding
+> beeps and bleeps to its current standing as a
+> state-of-the-art live coding system installed by
+> default on all Raspberry Pis  used to live code
+> in a variety of venues from Algoraves to national
+> music venues.  All towards a simple but deep
 > question - how can we give more people an understanding
 > of what programming is and can do?
+
+{::coverage year="2014" month="october" talk="live-coding-in-the-classroom" /}
 
 Pub
 ---

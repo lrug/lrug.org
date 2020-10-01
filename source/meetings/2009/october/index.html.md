@@ -41,6 +41,8 @@ During our last meeting, Tom was surprised by how many people (both Ruby newbies
 
 A video of Tom's talk is available on the [Skills Matter site](http://skillsmatter.com/podcast/ajax-ria/enumerators).
 
+{::coverage year="2009" month="october" talk="thinking-functionally-in-ruby" /}
+
 ### Others
 
 We still have room for one more speakers, or we can let Tom and Brent talk for longer.  [Let us know](/speaking/) if you're interested.

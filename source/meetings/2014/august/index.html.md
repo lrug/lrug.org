@@ -1,8 +1,8 @@
---- 
-updated_by: 
+---
+updated_by:
   email: murray.steele@gmail.com
   name: Murray Steele
-created_by: 
+created_by:
   email: murray.steele@gmail.com
   name: Murray Steele
 category: meeting
@@ -25,21 +25,23 @@ Agenda
 [Dirk Breuer](http://tfcl.de/) says:
 
 > [ArangoDB](https://www.arangodb.org/) is a multi-purpose NoSQL database. There are a lot
-> of features in it but without a proper high level library 
-> for common web frameworks no one will use a database these 
-> days. No matter how fancy it is. [Guacamole](http://guacamolegem.org/) is an ODM for 
-> ArangoDB to be used in Rack-based framework and especially 
+> of features in it but without a proper high level library
+> for common web frameworks no one will use a database these
+> days. No matter how fancy it is. [Guacamole](http://guacamolegem.org/) is an ODM for
+> ArangoDB to be used in Rack-based framework and especially
 > Rails. I will talk about the design choices, caveats and my
 > the general experience working on that kind of library. The
 > talk will not go too deep into technical details and should
 > be interesting to novice and experts alike.
 
+{::coverage year="2014" month="august" talk="how-to-make-guacamole" /}
+
 ### A gentle introduction to music theory (in ruby)
 
 [Alex Speller](http://alexspeller.com/) says:
 
-> Music theory can seem arcane and unapproachable. But underneath 
-> the weird names and symbols, the basics are actually pretty 
+> Music theory can seem arcane and unapproachable. But underneath
+> the weird names and symbols, the basics are actually pretty
 > simple. The real issue is that the documentation is bad and the
 > API is worse! In this talk I will show how to start with nothing
 > but a ruby interpreter, and generate sine waves, notes, scales,
@@ -47,6 +49,8 @@ Agenda
 > understandable to those who have never touched an instrument
 > before and will (hopefully) offer an interesting new perspective
 > even to those who are already well versed in music theory.
+
+{::coverage year="2014" month="august" talk="a-gentle-introduction-to-music-theory-in-ruby" /}
 
 Pub
 ---

@@ -40,6 +40,8 @@ Agenda
 > have coded, sorted by popularity.  Come join the festive coding fun as LRUG's
 > first CodeWarsJam!
 
+{::coverage year="2015" month="december" talk="festive-codewarsjam" /}
+
 ### Ticket Giveaway
 
 {::sponsor name="Beyond" size="main" /}

@@ -33,6 +33,8 @@ Agenda
 > version 1.2. I learnt a lot of interesting Ruby technique from him
 > and would like to share some of them with you.
 
+{::coverage year="2012" month="april" talk="demystifying-druby" /}
+
 ### Converting a Rails project from MRI to JRuby
 
 [Peter Vandenabeele](http://vandenabeele.com/) want to talk to us about his experiences converting an Ruby on Rails app from MRI Ruby to JRuby:
@@ -45,6 +47,8 @@ Agenda
  * using 1.9 compatible mode for new style hashes
  * waiting for rspec takes longer ...
  * use JRuby to connect to a Java lib (e.g. HBase jar) :-)
+
+{::coverage year="2012" month="april" talk="converting-a-rails-project-from-mri-to-jruby" /}
 
 Pub
 ---

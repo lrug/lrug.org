@@ -35,6 +35,8 @@ Agenda
 > talk will also touch on S3-backed site deploys & Route53
 > IP failover to that S3 site.
 
+{::coverage year="2013" month="march" talk="deliver" /}
+
 ### Passing on our skills to the next generation
 
 [Pablo Brasero Moreno](http://pablobm.com/) says:
@@ -43,6 +45,8 @@ Agenda
 > for a month. I will also tell us about "code clubs" in the
 > UK, and what technologies exist to assist teachers in
 > this task.
+
+{::coverage year="2013" month="march" talk="passing-on-our-skills-to-the-next-generation" /}
 
 Pub
 ---

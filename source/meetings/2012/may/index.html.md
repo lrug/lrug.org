@@ -1,5 +1,5 @@
---- 
-created_by: 
+---
+created_by:
   email: murray.steele@gmail.com
   name: Murray Steele
 category: meeting
@@ -22,30 +22,34 @@ Agenda
 [Elise Huard](http://jabberwocky.eu/) is going to give us a version of the talk she has proposed for [EuRuKo 2012](http://www.euruko2012.org/):
 
 > The Garbage Collector: how does it work?
-> What does it mean when people speak about stop-the-world, 
+> What does it mean when people speak about stop-the-world,
 > mark-and-sweep, generational garbage collectors?
 > How does ruby fare at collecting its own garbage?
 > What does it mean when they say 1.9.3's garbage collector has improved?
-> This talk will explain those concepts, what the impact of garbage 
+> This talk will explain those concepts, what the impact of garbage
 > collection is on our programs, and what future could be.
 
 This description is taken from her [pull request on EuRuKo's github-based cfp](https://github.com/euruko2012/call-for-proposals/pull/73).  If you like her talk, or have any comments, feel free to get involved over there to let the EuRuKo organisers know that they should select it.
+
+{::coverage year="2012" month="may" talk="ruby-s-bin-men-a-closer-look-at-the-garbage-collector" /}
 
 ### Dependency Injection, the Dependency Inversion Principle, and You
 
 [Tom Stuart](http://tomstuart.co.uk/) is also going to give us a version of his EuRuKo proposal:
 
-> It's received wisdom that Ruby doesn't need dependency injection 
-> frameworks. In this talk, I'll claim that this is at least in 
-> part because we don't apply the [Dependency Inversion Principle](http://www.objectmentor.com/resources/articles/dip.pdf) 
-> properly. I'll explore the intent of the principle, its benefits 
-> for maintainable and testable code, and show how to improve 
+> It's received wisdom that Ruby doesn't need dependency injection
+> frameworks. In this talk, I'll claim that this is at least in
+> part because we don't apply the [Dependency Inversion Principle](http://www.objectmentor.com/resources/articles/dip.pdf)
+> properly. I'll explore the intent of the principle, its benefits
+> for maintainable and testable code, and show how to improve
 > existing code through its application.
-> 
+>
 > I'll then go on to explore how to create objects with dependencies
 > wired in, hoping to settle the question of whether we need a framework to do this.
 
 Tom's talk is also available for discussion on the [EuRuKo gothub-based CFP](https://github.com/euruko2012/call-for-proposals/pull/72).  Comments, notes, etc.. should go there if you have them.
+
+{::coverage year="2012" month="may" talk="dependency-injection-the-dependency-inversion-principle-and-you" /}
 
 Pub
 ---

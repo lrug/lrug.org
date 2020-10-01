@@ -34,11 +34,15 @@ Agenda
 > mustache gem. How we debugged it and how we fixed it. This talk will be
 > a bit less boring than it sounds.
 
+{::coverage year="2015" month="october" talk="debugging-and-fixing-performance-issues-with-the-mustache-gem-and-partials" /}
+
 ### API-first banking
 
 [Jonas Huckestein](https://twitter.com/jonas) says:
 
 > What would you build on top of your bank if it had a REST API & Webhooks? At Mondo, we're looking forward to finding out. Our API (plus Ruby client library) is in beta ([docs here](https://getmondo.co.uk/docs/)), and we hosted our first hackathon a couple of weeks ago. Come along to find out what people built!
+
+{::coverage year="2015" month="october" talk="api-first-banking" /}
 
 ### ActiveRecord vs N+1
 
@@ -46,6 +50,8 @@ Agenda
 
 > In this talk would like to focus on dealing with N+1: how to detect it,
 > how to get rid of it and, most importantly, how to avoid it.
+
+{::coverage year="2015" month="october" talk="activerecord-vs-n-1" /}
 
 ### Book Giveaway
 

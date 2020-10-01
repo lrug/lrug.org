@@ -35,6 +35,8 @@ Agenda
 > propose ways to implement roles' injection in Ruby and discuss
 > how DCI could be used to supplement Rails' MVC paradigm.
 
+{::coverage year="2013" month="may" talk="dci-with-ruby-rails" /}
+
 ### Come get dirty with mruby
 
 [Randy Morgan](https://github.com/randym) is going to lead us in an exploration of [mruby](https://github.com/mruby/mruby):
@@ -49,6 +51,8 @@ Agenda
 > Bring your laptop, and get your hands dirty with mruby.
 
 Randy will be sending out instructions on pre-requisites in a few days to [the mailing list](/mailing-list). Don't miss it!
+
+{::coverage year="2013" month="may" talk="come-get-dirty-with-mruby" /}
 
 ### Drinks
 

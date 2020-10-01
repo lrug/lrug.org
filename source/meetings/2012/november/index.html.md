@@ -1,5 +1,5 @@
---- 
-created_by: 
+---
+created_by:
   email: murray.steele@gmail.com
   name: Murray Steele
 category: meeting
@@ -21,18 +21,22 @@ Agenda
 
 [Andrew Nesbitt](http://teabass.com/) says:
 
-> [Rubymotion](http://www.rubymotion.com/) lets you write native iOS apps in Ruby, this talk 
+> [Rubymotion](http://www.rubymotion.com/) lets you write native iOS apps in Ruby, this talk
 > explores the toolkit and the community that has sprung up around it.
+
+{::coverage year="2012" month="november" talk="an-introduction-to-rubymotion-writing-ios-apps-with-ruby" /}
 
 ### Background processing in Ruby (and Rails)
 
 [Khash Sajadi](http://sajadi.co.uk/dflat/) says:
 
 > This is an introduction to scalable background processing in Ruby
-> (and Rails) applications. It discusses best practises on task 
-> management, managing and scaling long running processes in apps 
+> (and Rails) applications. It discusses best practises on task
+> management, managing and scaling long running processes in apps
 > and overviews different solutions from high end of [Delayed Job](https://github.com/collectiveidea/delayed_job)
 > to more detailed ones like [Event Machine](http://rubyeventmachine.com/).
+
+{::coverage year="2012" month="november" talk="background-processing-in-ruby-and-rails" /}
 
 Pub
 ---

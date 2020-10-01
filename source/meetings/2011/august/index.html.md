@@ -1,5 +1,5 @@
---- 
-created_by: 
+---
+created_by:
   email: murray.steele@gmail.com
   name: Murray Steele
 category: meeting
@@ -33,7 +33,7 @@ Agenda
 > only install and configure servers quickly and in a repeatable way but
 > also let me be confident about the consistency of each and every
 > machine I deploy to.
-> 
+>
 > Using the example of getting a server ready to run a Rails application
 > using [Puppet](http://www.puppetlabs.com/) (and testing things out with the aid of [Vagrant](http://vagrantup.com/)), I will
 > showcase some patterns that we have developed for managing versions of
@@ -56,15 +56,17 @@ Agenda
 > from the command line provides modern developers the best of all
 > possible worlds.
 
+{::coverage year="2011" month="august" talk="vagrant-and-chef" /}
+
 ### <strike>Cucumber-chef</strike>
 
 *Stephen had to pull out, we'll try to reschedule him for our September meeting.*
 
 [Stephen Nelson-Smith](http://agilesysadmin.net) is the author of ["Test-driven infrastructure with Chef" (published by O'Reilly)](http://oreilly.com/catalog/0636920020042) and is going to talk to us about [cucumber-chef](http://www.cucumber-chef.org/):
 
-> [Cucumber-chef](https://github.com/Atalanta/cucumber-chef) is a library of tools to enable the 
-> emerging discipline of infrastructure as code to practice test driven development. It provides a 
-> testing platform within which [cucumber](http://cukes.info/) tests can be run which provision 
+> [Cucumber-chef](https://github.com/Atalanta/cucumber-chef) is a library of tools to enable the
+> emerging discipline of infrastructure as code to practice test driven development. It provides a
+> testing platform within which [cucumber](http://cukes.info/) tests can be run which provision
 > lightweight virtual machines, configure them by applying the appropriate [Chef](http://www.opscode.com/chef/)
 > roles to them, and then run acceptance and integration tests against the environment.
 
