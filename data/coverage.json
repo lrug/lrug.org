@@ -117,6 +117,22 @@
           "title": "LRUG August 2020 - Chris Zetter - Doing the right thing"
         }
       ]
+    },
+    "september": {
+      "wizards-without-magic": [
+        {
+          "type": "video",
+          "url": "https://assets.lrug.org/videos/2020/september/duncan-brown-wizards-without-magic-lrug-sep-2020.mp4",
+          "title": "LRUG September 2020 - Duncan Brown - Wizards without Magic"
+        }
+      ],
+      "stimulusjs-modest-js-for-the-html-you-have": [
+        {
+          "type": "video",
+          "url": "https://assets.lrug.org/videos/2020/september/matt-swanson-stimulusjs-modest-js-for-the-html-you-have-lrug-sep-2020.mp4",
+          "title": "LRUG September 2020 - Matt Swanson - StimulusJS: Modest JS for the HTML you have"
+        }
+      ]
     }
   },
   "2016": {
