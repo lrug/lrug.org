@@ -59,7 +59,7 @@ are longer than 10 minutes, and so there's something for everyone.
 > of maintaining your system and finally show some of the tools and solutions
 > that can help you put it into practice.
 
-{::coverage year="2020" month="february" talk="designing-domain-oriented-obvserability-in-your-system" /}
+{::coverage year="2020" month="february" talk="designing-domain-oriented-obvservability-in-your-system" /}
 
 #### Semantic Versioning, Ruby Versoning, and the forward march of progress
 
@@ -103,7 +103,6 @@ ruby.
 > the time.
 
 {::coverage year="2020" month="february" talk="how-to-manage-happy-remote-development-teams" /}
-
 
 Afterwards
 ----------
