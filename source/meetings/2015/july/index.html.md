@@ -75,8 +75,7 @@ The talks will end at 8pm and we'll head to [The Fellow](http://www.geronimo-inn
 
 [Chad Pytel](https://twitter.com/cpytel) from [thoughtbot](http://thoughtbot.com) was kind enough to put some money behind the bar at The Fellow.  Thanks to him and [thoughtbot](http://thoughtbot.com) for supporting us!
 
-Venue & Registration <a name="jul15registration">&nbsp;</a>
----------------------------------------------------
+## Venue & Registration {#jul15registration}
 
 Prior to attending you should familiarise yourself with our [README](http://readme.lrug.org/).
 

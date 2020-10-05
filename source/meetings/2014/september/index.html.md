@@ -74,8 +74,7 @@ The September 2014 meeting of LRUG will be on *Monday the 8th of September*, fro
 
 When the talks finish there's usually lots to mull over and talk about.  We have to leave Skills Matter's offices, but we don't stop the meeting; it continues at [The Slaughtered Lamb](http://www.theslaughteredlambpub.com/) which is a 5 minute walk away.  If you are unable to attend the talks, or miss out on a space, come join us for the socialising afterwards.
 
-Registration <a name="sep14registration">&nbsp;</a>
----------------------------------------------------
+## Registration {#sep14registration}
 
 To secure a place at the meeting you *must* [register with our hosts Skills Matter](https://www.skillsmatter.com/meetups/6530-lrug-september-meetup).  It helps to make sure we have the room laid out with enough chairs, and in extreme cases that we get priority on the larger rooms over other groups using the space on the same night.  Also, it's polite (don't forget [MINASWAN](http://oreilly.com/ruby/excerpts/ruby-learning-rails/ruby-glossary.html#I_indexterm_d1e32036)), so please do [register with Skills Matter](https://www.skillsmatter.com/meetups/6530-lrug-september-meetup).  Prior to attending you should familiarise yourself with our [README](http://readme.lrug.org/).
 

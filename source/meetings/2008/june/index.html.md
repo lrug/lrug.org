@@ -54,8 +54,7 @@ A video of Matt's talk, filmed by [Skills Matter](http://skillsmatter.com/podcas
 
 We'll head on over to [The Crown Tavern](http://fancyapint.com/pubs/pub199.html) for a drink after the talks.  We aim to finish the talks at around about 8pm, so if you don't think you'll be able to make it for the talks head on over to the pub to catch up on what went on.
 
-Registration <a name="jun08registration">&nbsp;</a>
----------------------------------------------------
+## Registration {#jun08registration}
 
 [Please register with Skills Matter](http://skillsmatter.com/event/ajax-ria/lrug-meeting-ruby-as-multimedia-glue-genomes-on-rails) if you are planning to come.  Registration allows SKills Matter to organise a larger room if we need it.  For the past few meetings we've used their overflow venue and thus avoided having to turn people away because of fire-regulations.  We hope to do so again so please [register now](http://skillsmatter.com/event/ajax-ria/lrug-meeting-ruby-as-multimedia-glue-genomes-on-rails) rather than later (Skills Matter need about a weeks notice to book the larger room).  
 

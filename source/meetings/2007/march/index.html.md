@@ -31,4 +31,6 @@ So, if you've got some code you'd like to subject to our collective wisdom, send
 
 Let's make the first LRUG with crowd-sourced content a success!
 
+## Registration {#mar07registration}
+
 As usual [please register with Skills Matter](http://skillsmatter.com/lrug) if you are planning to turn up so they have a handle on numbers for seating etc...  You can also track it via [upcoming](http://upcoming.org/event/160473) if you're into the whole-webcal thing.

@@ -85,8 +85,7 @@ of these venues:
 Attendance of the talks isn't a requirement for coming along to the afterwards
 part.  Do turn up and say "hi!", you'll be more than welcome.
 
-Venue & Registration <a name="oct16registration">&nbsp;</a>
------------------------------------------------------------
+## Venue & Registration {#oct16registration}
 
 Prior to attending you should familiarise yourself with our
 [README](http://readme.lrug.org/) paying close attention to [the code of

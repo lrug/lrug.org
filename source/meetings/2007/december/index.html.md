@@ -32,8 +32,7 @@ Slides are [available here](http://www.slideshare.net/hlame/wierd-wonderful-idea
 
 [The Crown Tavern](http://fancyapint.com/pubs/pub199.html) is only a hop, skip and jump away from the Skills Matter offices and we congregate here after the talks for a drink and a chat.  If you don't think you can make it for the 6:30 kick-off of the main presentation part of the evening, just come along to the pub for the socialising.
 
-Registration
-------------
+## Registration {#dec07registration}
 
 [Please register with Skills Matter](http://www.skillsmatter.com/lrug) if you are planning to come.  They need us to register so they make sure we get the most appropriately sized room, but they can only accommodate a larger than usual meeting (more than 80 folk) if they get enough notice to book a bigger room, so [register now](http://www.skillsmatter.com/lrug) rather than later.  There's also an [upcoming event](http://upcoming.yahoo.com/event/322274/) for those of us that love online calendaring. 
 

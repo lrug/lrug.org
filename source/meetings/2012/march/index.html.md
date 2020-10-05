@@ -39,8 +39,7 @@ The initial panel will be:
 
 It'll probably be a lively debate, and we'll want to carry on after 8pm.  We do this by heading over to [The Slaughtered Lamb](http://www.theslaughteredlambpub.com/) where we can continue in more informal settings.  If you can't make the talks you really should come along for the pub.
 
-Registration <a name="mar12registration">&nbsp;</a>
----------------------------------------------------
+## Registration {#mar12registration}
 
 To secure a place at the meeting you must [register with our hosts Skills Matter](http://skillsmatter.com/event-details/home/lrug-march-1331/js-3737).  It helps to make sure we have the room laid out with enough chairs, and in extreme cases that we get priority on the larger rooms over other groups using the space on the same night.  Also, it's polite (don't forget [MINASWAN](http://oreilly.com/ruby/excerpts/ruby-learning-rails/ruby-glossary.html#I_indexterm_d1e32036)), so please do [register with Skills Matter](http://skillsmatter.com/event-details/home/lrug-march-1331/js-3737).
 

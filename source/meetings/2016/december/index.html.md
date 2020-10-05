@@ -73,8 +73,7 @@ though, if you've a mind to keep things going you have a choice:
 If you are unable to attend the talks you are still more than welcome to come
 along for this part of the meeting.  The more the merrier.
 
-Venue & Registration <a name="dec16registration">&nbsp;</a>
------------------------------------------------------------
+## Venue & Registration {#dec16registration}
 
 Prior to attending you should familiarise yourself with our
 [README](http://readme.lrug.org/) paying close attention to [the code of

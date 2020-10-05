@@ -69,8 +69,7 @@ Our talks finish around 8pm, but that's not the end of the evening.  We carry on
 
 Also, the nice folks at [Yammer](https://www.yammer.com/) are sponsoring some drinks behind the bar again, so it's an even better idea to come along than usual.
 
-Registration <a name="sep12registration">&nbsp;</a>
----------------------------------------------------
+## Registration {#sep12registration}
 
 To secure a place at the meeting you *must* [register with our hosts Skills Matter](http://skillsmatter.com/event/ruby-rails/lrug-september-meetup).  It helps to make sure we have the room laid out with enough chairs, and in extreme cases that we get priority on the larger rooms over other groups using the space on the same night.  Also, it's polite (don't forget [MINASWAN](http://oreilly.com/ruby/excerpts/ruby-learning-rails/ruby-glossary.html#I_indexterm_d1e32036)), so please do [register with Skills Matter](http://skillsmatter.com/event/ruby-rails/lrug-september-meetup).
 

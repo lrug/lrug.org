@@ -53,8 +53,7 @@ A video of Tim's talk, filmed by [Skills Matter](http://skillsmatter.com/podcast
 
 It's LRUG tradition to follow up the formal part of the night with a drink or two at [The Crown Tavern](http://fancyapint.com/pubs/pub199.html).  It's an excellent opportunity to find out what the rest of the ruby community is up to, and find people to help you out with your own pet projects.  If you don't think you'll make it for the talks we're usually in the pub from about 8:00pm, so come along and don't miss out on the fun.
 
-Registration <a name="may08registration">&nbsp;</a>
----------------------------------------------------
+## Registration {#may08registration}
 
 [Please register with Skills Matter](http://skillsmatter.com/event/ajax-ria/london-ruby-user-group-may-meeting) if you are planning to come.  Registration allows SKills Matter to organise a larger room if we need it.  For the past couple of meetings we've used the overflow venue, but prior to that we've had to close registration and turn people away.  The larger room, close to the usual venue, needs about a weeks notice for Skills Matter to book it.  Please, therefore, [register now](http://skillsmatter.com/event/ajax-ria/london-ruby-user-group-may-meeting) rather than later.  
 

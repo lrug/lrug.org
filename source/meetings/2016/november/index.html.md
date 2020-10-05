@@ -88,8 +88,7 @@ evening you have a choice of where to go next:
 If you are unable to attend the talks you are still more than welcome to come
 along for this part of the meeting.  The more the merrier.
 
-Venue & Registration <a name="nov16registration">&nbsp;</a>
------------------------------------------------------------
+## Venue & Registration {#nov16registration}
 
 Prior to attending you should familiarise yourself with our
 [README](http://readme.lrug.org/) paying close attention to [the code of

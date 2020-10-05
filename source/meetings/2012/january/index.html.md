@@ -52,8 +52,7 @@ The January 2012 meeting of LRUG will be on *Monday* the 9th of January, from 6:
 
 The night doesn't end at 8pm after the talks though.  Oh No!.  We're a fun-lovin' gang so we head over to [The Slaughtered Lamb](http://www.theslaughteredlambpub.com/) to have a few drinks and continue the ruby chatter well into the night.  If you can't make the talks you really should come along for the pub.
 
-Registration <a name="jan12registration">&nbsp;</a>
----------------------------------------------------
+## Registration {#jan12registration}
 
 Skills Matter prefer that you [register your attendance with them](http://skillsmatter.com/event-details/home/lrug-january-2012) if you are coming to the meeting.  There's plenty of space so you'll get in if you forget, but it is polite (don't forget [MINASWAN](http://oreilly.com/ruby/excerpts/ruby-learning-rails/ruby-glossary.html#I_indexterm_d1e32036)), so please do [register](http://skillsmatter.com/event-details/home/lrug-january-2012).
 

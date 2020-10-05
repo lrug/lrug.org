@@ -54,8 +54,7 @@ Now, that *does* sound interesting, doesn't it?
 
 [The Crown Tavern](http://fancyapint.com/pubs/pub199.html) just round the corner from the Skills Matter office is where we'll retire to don smoking jackets, grab our pipes and recline in high backed leather armchairs making extravagant wagers about circumnavigating the globe.  If that sounds like your kind of thing, but you can't make the presentations, come along just for this bit.
 
-Registration
-------------
+## Registration {#aug07registration}
 
 As usual, [please register with Skills Matter](http://www.skillsmatter.com/menu/719) if you are planning to come, so they can manage seating and making sure we get the most appropriately sized room.  There's also an [upcoming event](http://upcoming.yahoo.com/event/223079) for those of us that love online calendaring. 
 

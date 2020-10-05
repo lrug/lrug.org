@@ -45,8 +45,7 @@ There's plenty of room for more stuff, so [get in touch](/mailing-list) to volun
 
 Exhausted and weary from all the code being thrown around we'll stumble into [The Crown Tavern](http://fancyapint.com/pubs/pub199.html) to try to make sense of it all.  Here's where we'll hatch master plans to combine all the gems, rake tasks and scripts into a new framework for world domination.  If you're not sure that you'll make it for the main meeting, but don't want to be left out of the LRUG master-plan you should definitely come along to the pub and sign up for a minor bureaucratic position in the New World Order.
 
-Registration <a name="apr08registration">&nbsp;</a>
----------------------------------------------------
+## Registration {#apr08registration}
 
 [Please register with Skills Matter](http://www.skillsmatter.com/event/ajax-ria/show-n-tell-soup-and-vanilla-rak-juggernaut-and-more) if you are planning to come.  Registration has pretty much become mandatory over the past few months to help Skills Matter with managing the rooms.  Last month registrations happened early enough that Skills Matter were able to book a larger venue, however prior to that registrations haven't been timely enough and we've had to close registration and turn people away at the doors.  The larger room, close to the usual venue, needs about a weeks notice for Skills Matter to book it.  Please, therefore, [register now](http://www.skillsmatter.com/event/ajax-ria/show-n-tell-soup-and-vanilla-rak-juggernaut-and-more) rather than later.  
 

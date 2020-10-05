@@ -51,8 +51,7 @@ The November 2013 meeting of LRUG will be on *Monday the 11th of November*, from
 
 After the talks many of us head over to [The Slaughtered Lamb](http://www.theslaughteredlambpub.com/) to continue the evening.  The speakers are usually there, so it's a perfect opportunity to ask them more in-depth questions about their talk, or just thank them for their effort.  If you can't make the talks, it's totally fine to just come along for this part of the meeting; we get there about 8pm.
 
-Registration <a name="nov13registration">&nbsp;</a>
----------------------------------------------------
+## Registration {#nov13registration}
 
 To secure a place at the meeting you *must* [register with our hosts Skills Matter](http://skillsmatter.com/event-details/home/november-lrug-meeting).  It helps to make sure we have the room laid out with enough chairs, and in extreme cases that we get priority on the larger rooms over other groups using the space on the same night.  Also, it's polite (don't forget [MINASWAN](http://oreilly.com/ruby/excerpts/ruby-learning-rails/ruby-glossary.html#I_indexterm_d1e32036)), so please do [register with Skills Matter](http://skillsmatter.com/event-details/home/november-lrug-meeting).
 

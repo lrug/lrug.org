@@ -34,8 +34,7 @@ Following that we'll have a REST discussion, chaired by [Jonathan Leighton](http
 
 If we have enough time, we may do another installment of code-review at some point in the evening.  At our [last meeting](http://lrug.org/meetings/2007/02/19/march-2007-meeting/) we didn't get round to covering all the code, and people seemed really positive about making this a regular feature.  We'll try to post the code we're going to cover onto the [mailing list](/mailing-list) before hand, so we can get straight to the reviewing without having to explain it first.
 
-Registration
-------------
+## Registration {#apr07registration}
 
 As usual, [please register with Skills Matter](http://skillsmatter.com/lrug) if you are planning to come, so they can manage seating and making sure we get the most appropriately sized room.  There's also an [upcoming event](http://upcoming.org/event/165162/) for those of us that love online calendaring. 
 

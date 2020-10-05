@@ -72,8 +72,7 @@ After the talks we like to wind down with food and drinks at:
 
 We'll be there from about 8pm so if you can't get to the earlier part of the evening feel free to come along to the pub and hang out.
 
-Venue & Registration <a name="jan16registration">&nbsp;</a>
-----------------------------------------------------------
+## Venue & Registration {#jan16registration}
 
 Prior to attending you should familiarise yourself with our [README](http://readme.lrug.org/) paying close attention to [the code of conduct](http://readme.lrug.org/#code-of-conduct).
 

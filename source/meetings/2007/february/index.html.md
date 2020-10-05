@@ -41,4 +41,6 @@ As a warm up to Richard's talk we've got [Paolo Don&agrave;](http://paolodona.bl
 
 Of course as usual we'll decamp to [the pub round the corner](http://www.fancyapint.com/main_site/thepubs/pub199.html) afterwards for a beer or two.
 
+## Registration {#feb07registration}
+
 If you're coming, make sure to register with Skills Matter on their [registration page](http://skillsmatter.com/lrug) so they have a handle on numbers.  For calendaring fans there's an [upcoming event](http://upcoming.org/event/144326/) too.  You'll still need to register with Skills Matter even if you say you are attending on upcoming, because there's nothing more fun than telling the internet something twice.

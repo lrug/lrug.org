@@ -42,8 +42,7 @@ A video of Aidy's talk, filmed by [Skills Matter](http://skillsmatter.com/podcas
 
 It's tradition that after the talks we descend on [The Crown Tavern](http://fancyapint.com/pubs/pub199.html), and make it difficult for anyone to get served at the bar for about 20 minutes.  This pub is very close to Skills Matter, and only a short stumble across Clerkenwell "Green" from the overflow venue if we're using it, and therefore is perfect for our post-meeting activities.  The meeting normally wraps up at about 8:00pm, so if you can't make it to that but still want to talk ruby, you'll find plenty of rubyists in this pub. Come along!
 
-Registration <a name="mar09registration">&nbsp;</a>
----------------------------------------------------
+## Registration {#mar09registration}
 
 [Please register with Skills Matter](http://skillsmatter.com/event/ajax-ria/lrug-march) if you are planning to come.  As we mentioned above, they need us to register for fire-regulations and making sure we get the best sized room for the number of attendees.  
 

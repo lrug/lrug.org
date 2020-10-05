@@ -55,8 +55,7 @@ We're a friendly bunch, so if you don't make it to the talks you can still join 
 
 Also, the nice folks at [House Trip](http://www.housetrip.com/) are sponsoring some drinks behind the bar, so there are even more reasons to make it along!
 
-Registration <a name="mar13registration">&nbsp;</a>
----------------------------------------------------
+## Registration {#mar13registration}
 
 To secure a place at the meeting you *must* [register with our hosts Skills Matter]( http://skillsmatter.com/event-details/home/lrug-march-1645).  It helps to make sure we have the room laid out with enough chairs, and in extreme cases that we get priority on the larger rooms over other groups using the space on the same night.  Also, it's polite (don't forget [MINASWAN](http://oreilly.com/ruby/excerpts/ruby-learning-rails/ruby-glossary.html#I_indexterm_d1e32036)), so please do [register with Skills Matter]( http://skillsmatter.com/event-details/home/lrug-march-1645).
 

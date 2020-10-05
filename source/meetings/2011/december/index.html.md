@@ -65,8 +65,7 @@ If you use, write, or maintain APIs for your web applications, you'll love our l
 
 We usually finish the talks at around 8pm and head over to [The Slaughtered Lamb](http://www.theslaughteredlambpub.com/) to chat about the talks, or whatever comes to mind, over a beer and a fish-finger sandwich.  Sometimes you can't make it to the main event, that's not a problem though, just come along to the pub and you'll be welcomed with open arms.  Especially if you get there a bit before 8pm and secure me a table.
 
-Registration <a name="dec11registration">&nbsp;</a>
----------------------------------------------------
+## Registration {#dec11registration}
 
 Skills Matter prefer that you [register your attendance with them](http://skillsmatter.com/event-details/home/ruby-apis/js-3123) if you are coming to the meeting.  There's plenty of space so you'll get in if you forget, but it is polite (don't forget [MINASWAN](http://oreilly.com/ruby/excerpts/ruby-learning-rails/ruby-glossary.html#I_indexterm_d1e32036)), so please do [register](http://skillsmatter.com/event-details/home/ruby-apis/js-3123).
 

@@ -64,8 +64,7 @@ These talks should end around about 8pm.  The night isn't over at that point tho
 
 Even if you can't make the talks you should definitely feel free to head over to one of these venues to hang out.
 
-Venue & Registration <a name="apr16registration">&nbsp;</a>
------------------------------------------------------------
+## Venue & Registration {#apr16registration}
 
 Prior to attending you should familiarise yourself with our [README](http://readme.lrug.org/) paying close attention to [the code of conduct](http://readme.lrug.org/#code-of-conduct).
 

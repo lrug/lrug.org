@@ -49,8 +49,7 @@ What does it do, and how does it do it? If you know what a macro is, or a contin
 
 We aim to finish up around about 8pm, but that's not the end of the evening.  After the talks we head on over to [The Slaughtered Lamb](http://www.theslaughteredlambpub.com/) for some light refreshment and informal chat.  If you can't make the first part of the meeting, please do feel free to turn up to this second part.
 
-Registration <a name="nov11registration">&nbsp;</a>
----------------------------------------------------
+## Registration {#nov11registration}
 
 Skills Matter prefer that you [register your attendance with them](http://skillsmatter.com/podcast/home/november-lrug/js-2838) if you are coming to the meeting.  There's plenty of space so you'll get in if you forget, but it is polite (don't forget [MINASWAN](http://oreilly.com/ruby/excerpts/ruby-learning-rails/ruby-glossary.html#I_indexterm_d1e32036)), so please do [register](http://skillsmatter.com/podcast/home/november-lrug/js-2838).
 

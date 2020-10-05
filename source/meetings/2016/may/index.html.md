@@ -74,8 +74,7 @@ We should be done with the talks by 8pm at which point have a choice to make:
 
 If you're unable to attend the talks it's more than acceptable to come along to one of these venues to hang out with the rest of the LRUG members.
 
-Venue & Registration <a name="may16registration">&nbsp;</a>
------------------------------------------------------------
+## Venue & Registration {#may16registration}
 
 Prior to attending you should familiarise yourself with our [README](http://readme.lrug.org/) paying close attention to [the code of conduct](http://readme.lrug.org/#code-of-conduct).
 

@@ -57,8 +57,7 @@ The June 2014 meeting of LRUG will be on *Monday the 9th of June*, from 6:30pm t
 
 We have to leave Skills Matter's offices by 8pm so we continue the meeting in a nearby pub, [The Slaughtered Lamb](http://www.theslaughteredlambpub.com/).  This is a great opportunity to chat to the speakers and other group members; even if you can't make it for the talks earlier in the evening.
 
-Registration <a name="jun14registration">&nbsp;</a>
----------------------------------------------------
+## Registration {#jun14registration}
 
 To secure a place at the meeting you *must* [register with our hosts Skills Matter](https://skillsmatter.com/meetups/6426-patterns-antipatterns-in-teaching#community).  It helps to make sure we have the room laid out with enough chairs, and in extreme cases that we get priority on the larger rooms over other groups using the space on the same night.  Also, it's polite (don't forget [MINASWAN](http://oreilly.com/ruby/excerpts/ruby-learning-rails/ruby-glossary.html#I_indexterm_d1e32036)), so please do [register with Skills Matter](https://skillsmatter.com/meetups/6426-patterns-antipatterns-in-teaching#community).  Prior to attending you should familiarise yourself with our [README](http://readme.lrug.org/).
 

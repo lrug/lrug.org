@@ -34,8 +34,7 @@ Slides are [available here](http://homepage.mac.com/djjwm/LRUG.pdf).
 
 Post-talks [The Crown Tavern](http://fancyapint.com/pubs/pub199.html), conveniently located just round the corner from the Skills Matter offices, becomes our home for the rest of the evening.  There's usually a lot of good discussions here, so if you don't think you can make it for the presentations then just come along to the pub, you're more than welcome.
 
-Registration
-------------
+## Registration {#oct07registration}
 
 As usual, [please register with Skills Matter](http://www.skillsmatter.com/lrug) if you are planning to come.  This way they can manage seating and make sure we get the most appropriately sized room.  There's also an [upcoming event](http://upcoming.yahoo.com/event/271749/) for those of us that love online calendaring. 
 

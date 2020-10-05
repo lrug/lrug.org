@@ -54,8 +54,7 @@ We missed out on this during the [Dojo meeting last month](/meetings/2009/08/18/
 
 At the end of the meeting we like to head over to [The Crown Tavern](http://fancyapint.com/pubs/pub199.html) for a spot of socialising over a beer or two.  We're usually at the pub from about 8:00pm ish so if you don't think you can make the "proper" meeting feel free to come along just for the pub.  It's fine to turn up to the meeting late though, you don't have to be there at 6:30 to get in!
 
-Registration <a name="oct09registration">&nbsp;</a>
----------------------------------------------------
+## Registration {#oct09registration}
 
 Our new venue doesn't have any capacity problems, so registration isn't mandatory.  That said, it's really helpful if you do [register with Skills Matter](http://skillsmatter.com/event/ajax-ria/lrug-oct) if you are planning on attending.  Registration lets Skills Matter layout the room properly and make sure everyone has a name badge to help with socialising later.
 

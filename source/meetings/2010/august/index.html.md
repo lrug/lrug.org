@@ -60,8 +60,7 @@ Our meetings start with a short period where we make announcements about things 
 
 After the talks we head on over to the more informal surroundings of [The Slaughtered Lamb](http://www.theslaughteredlambpub.com/) to finish the evening with a beer and maybe a fish-finger sandwich.  If you can't make it to for the talks, we'll be heading to the pub at around 8pm, so we can see you there.
 
-Registration <a name="aug10registration">&nbsp;</a>
----------------------------------------------------
+## Registration {#aug10registration}
 
 Skills Matter prefer that you [register your attendance with them](http://skillsmatter.com/event/ajax-ria/lrug-august) if you are coming to the meeting.  On a few exceptional occasions we've had to turn away people who haven't registered, but this has only been at extremely popular meetings, and has yet to happen at the new venue on Goswell Road.  It's better to be safe than sorry though, and it is polite (don't forget [MINASWAN](http://oreilly.com/ruby/excerpts/ruby-learning-rails/ruby-glossary.html#I_indexterm_d1e32036)), so please do [register](http://skillsmatter.com/event/ajax-ria/lrug-august).
 

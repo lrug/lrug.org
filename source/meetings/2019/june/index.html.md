@@ -19,7 +19,7 @@ The June 2019 meeting of LRUG will be on *Monday the 10th of June*,
 from _6:00pm_ to _8:00pm_ (meeting start at _6:30pm_).  The venue, [Code
 Node][skills-matter-venue] between Moorgate and Liverpool St. stations, is
 provided by [Skills Matter](http://www.skillsmatter.com).  [Full venue and
-registration details are given below](#june19registration).
+registration details are given below](#jun19registration).
 
 ## Agenda
 
@@ -65,8 +65,7 @@ informal.
 If you can't attend the talks we'd still be very happy to see you at this part
 of the meeting.  Do come along!
 
-Venue & Registration <a name="june19registration">&nbsp;</a>
------------------------------------------------------------
+## Venue & Registration {#jun19registration}
 
 Prior to attending you should familiarise yourself with our
 [README](http://readme.lrug.org/) paying close attention to [the code of

@@ -46,8 +46,7 @@ The December 2014 meeting of LRUG will be on *Monday the 8th of December*, from 
 
 That all sounds super-interesting and we'll want to talk it all over together, but we have to be out of Skills Matter by 8pm.  Don't worry though, that doesn't mean the evening is over!  [The Slaughtered Lamb](http://www.theslaughteredlambpub.com/) is a short walk away and has plenty of space for us to have those discussions. No need to register for this bit, if you can't make the talks do feel free to turn up just for the socialising afterwards.
 
-Registration <a name="dec14registration">&nbsp;</a>
----------------------------------------------------
+## Registration {#dec14registration}
 
 To secure a place at the meeting you *must* [register with our hosts Skills Matter](https://www.skillsmatter.com/meetups/6759-lrug-december-meetup).  It helps to make sure we have the room laid out with enough chairs, and in extreme cases that we get priority on the larger rooms over other groups using the space on the same night.  Also, it's polite (don't forget [MINASWAN](http://oreilly.com/ruby/excerpts/ruby-learning-rails/ruby-glossary.html#I_indexterm_d1e32036)), so please do [register with Skills Matter](https://www.skillsmatter.com/meetups/6759-lrug-december-meetup).  Prior to attending you should familiarise yourself with our [README](http://readme.lrug.org/).
 

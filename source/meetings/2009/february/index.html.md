@@ -36,8 +36,7 @@ Those brave volunteers are:
 
 After that many presentations there's bound to be a lot to talk about, so we'll make our way to [The Crown Tavern](http://fancyapint.com/pubs/pub199.html).  This pub is really close to either of the venues we use for our meetings and is perfect for a post-meeting chat and drink.  If you can't make it to the meeting, but still fancy some ruby chat, just head along to the pub and we'll be the ones crowding the bar from about 8:00pm onwards.
 
-Registration <a name="feb09registration">&nbsp;</a>
----------------------------------------------------
+## Registration {#feb09registration}
 
 [Please register with Skills Matter](http://skillsmatter.com/event/ajax-ria/lightning-talks-ruby-and-rails) if you are planning to come.  As we mentioned above, they need us to register for fire-regulations and making sure we get the best sized room for the number of attendees.  
 

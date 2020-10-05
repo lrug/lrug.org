@@ -92,8 +92,7 @@ If you can't make the talks then we'll be there from about 8pm; feel free to joi
 
 The nice folk at [thoughtbot](http://thoughtbot.com), have agreed to put some money behind the bar.  [Chad Pytel](https://twitter.com/cpytel) will be in attendance so do seek him out to thank him for buying your drink (and to find out what thoughtbot are up to in London).  Thanks [thoughtbot](http://thoughtbot.com) for supporting us!
 
-Venue & Registration <a name="aug15registration">&nbsp;</a>
-----------------------------------------------------------
+## Venue & Registration {#aug15registration}
 
 Prior to attending you should familiarise yourself with our [README](http://readme.lrug.org/).
 

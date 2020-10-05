@@ -74,8 +74,7 @@ The nice folks at [Workshare](http://www.workshare.com/) have arranged to have s
 
 Our talks finish up no later than 8pm, but that's not the end of the evening.  Most of us wander over to [The Slaughtered Lamb](http://www.theslaughteredlambpub.com/) to have a chat.  You don't have to attend the talks to turn up for the pub, so please do come along!
 
-Registration <a name="jul13registration">&nbsp;</a>
----------------------------------------------------
+## Registration {#jul13registration}
 
 To secure a place at the meeting you *must* [register with our hosts Skills Matter](http://skillsmatter.com/event-details/home/lrug-hosts-simon-coffey-and-louis-goff-beardsley).  It helps to make sure we have the room laid out with enough chairs, and in extreme cases that we get priority on the larger rooms over other groups using the space on the same night.  Also, it's polite (don't forget [MINASWAN](http://oreilly.com/ruby/excerpts/ruby-learning-rails/ruby-glossary.html#I_indexterm_d1e32036)), so please do [register with Skills Matter](http://skillsmatter.com/event-details/home/lrug-hosts-simon-coffey-and-louis-goff-beardsley).
 

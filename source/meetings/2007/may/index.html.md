@@ -47,8 +47,7 @@ If you would like to be mentored, or would like to help the community by mentori
 
 As usual, we'll retreat to the comforts of [The Crown Tavern](http://fancyapint.com/pubs/pub199.html) just round the corner from Skills Matter for a few beers and discussion after the event.  If you can't make the main meeting, maybe you can come along for the beers.
 
-Registration
-------------
+## Registration {#may07registration}
 
 As usual, [please register with Skills Matter](http://skillsmatter.com/lrug) if you are planning to come, so they can manage seating and making sure we get the most appropriately sized room.  There's also an [upcoming event](http://upcoming.yahoo.com/event/176863/) for those of us that love online calendaring. 
 

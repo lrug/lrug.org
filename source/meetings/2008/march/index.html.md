@@ -64,8 +64,7 @@ A video of this talk, filmed by Skills Matter, is [available on Google Video](ht
 
 As usual, we'll head down to [The Crown Tavern](http://fancyapint.com/pubs/pub199.html) after the "serious" meeting.  There's usually lots of good ruby chat in the pub and it's a great opportunity to try and thrash out those thorny problems with work or personal projects.  If you're not sure that you'll make it for the main meeting, you should definitely come along to the pub and meet up with us there.
 
-Registration <a name="mar08registration">&nbsp;</a>
----------------------------------------------------
+## Registration {#mar08registration}
 
 [Please register with Skills Matter](http://www.skillsmatter.com/lrug) if you are planning to come.  Registration has pretty much become mandatory, as in the past few meetings we've had to close the doors after an influx of registrants over the final weekend, resulting in standing room only.  Skills Matter can book a larger room, but they need much more notice in order to do so.  Please, therefore, [register now](http://www.skillsmatter.com/lrug) rather than later.  
 

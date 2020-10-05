@@ -30,8 +30,7 @@ Postponed from [last month's meeting](/meetings/2007/05/06/may-2007-meeting/), [
 
 We'll be sloping off to [The Crown Tavern](http://fancyapint.com/pubs/pub199.html) just round the corner from the Skills Matter office after the official meeting to continue the fun.  If you can't make it to the main meeting, you are more than welcome to pop along for the beers.
 
-Registration
-------------
+## Registration {#jun07registration}
 
 As usual, [please register with Skills Matter](http://skillsmatter.com/lrug) if you are planning to come, so they can manage seating and making sure we get the most appropriately sized room.  There's also an [upcoming event](http://upcoming.yahoo.com/event/201338/) for those of us that love online calendaring. 
 

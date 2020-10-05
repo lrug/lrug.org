@@ -44,8 +44,7 @@ Slides are [available here](http://www.stephenbartholomew.co.uk/2007/9/11/lrug-s
 
 After all this we move on from the Skills Matter office to [The Crown Tavern](http://fancyapint.com/pubs/pub199.html) just round the corner.  Here we sup from the selection of fine beers and wines on offer and continue the discussions.  If you can't make it to the presentations then feel free to come along just for this bit.
 
-Registration
-------------
+## Registration {#sep07registration}
 
 As usual, [please register with Skills Matter](http://www.skillsmatter.com/lrug) if you are planning to come, so they can manage seating and making sure we get the most appropriately sized room.  There's also an [upcoming event](http://upcoming.yahoo.com/event/257272) for those of us that love online calendaring. 
 

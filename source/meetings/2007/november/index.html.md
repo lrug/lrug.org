@@ -32,8 +32,7 @@ Slides are [available here](http://www.slideshare.net/fidothe/scripting-os-x-wit
 
 Once the last question has been asked of our weary speakers we head to [The Crown Tavern](http://fancyapint.com/pubs/pub199.html), a charming little pub located just moments from the Skills Matter office.  We're a friendly bunch, so if you don't think you can make it for the talk-based part of the meeting then just pop along to the pub and say "Hi".
 
-Registration
-------------
+## Registration {#nov07registration}
 
 As usual, [please register with Skills Matter](http://www.skillsmatter.com/lrug) if you are planning to come.  This way they can manage seating and make sure we get the most appropriately sized room.  There's also an [upcoming event](http://upcoming.yahoo.com/event/299940/) for those of us that love online calendaring. 
 

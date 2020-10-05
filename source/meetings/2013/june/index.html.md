@@ -76,8 +76,7 @@ We'll finish the formal talk-based part of the meeting at about 8pm and start th
 
 Also, the nice folks at [Yammer](http://www.yammer.com/) are putting some money behind the bar to provide some drinks for us, so there are even more reasons to make it along!
 
-Registration <a name="jun13registration">&nbsp;</a>
----------------------------------------------------
+## Registration {#jun13registration}
 
 To secure a place at the meeting you *must* [register with our hosts Skills Matter](http://skillsmatter.com/event/ajax-ria/lrug-june-meetup).  It helps to make sure we have the room laid out with enough chairs, and in extreme cases that we get priority on the larger rooms over other groups using the space on the same night.  Also, it's polite (don't forget [MINASWAN](http://oreilly.com/ruby/excerpts/ruby-learning-rails/ruby-glossary.html#I_indexterm_d1e32036)), so please do [register with Skills Matter](http://skillsmatter.com/event/ajax-ria/lrug-june-meetup).
 

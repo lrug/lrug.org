@@ -92,8 +92,7 @@ Our talks should end at about 8pm, so if you are unable to attend those you can 
 
 Not content with providing the tickets for FOWA, the extremely nice folk at [Braintree Payments](http://braintreepayments.com/) have also arranged to put some money behind the bar after the meeting.  Thanks again [Braintree Payments](http://braintreepayments.com/)!
 
-Venue & Registration <a name="sep15registration">&nbsp;</a>
-----------------------------------------------------------
+## Venue & Registration {#sep15registration}
 
 Prior to attending you should familiarise yourself with our [README](http://readme.lrug.org/).
 

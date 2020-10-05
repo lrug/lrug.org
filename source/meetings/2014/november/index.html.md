@@ -49,8 +49,7 @@ The November 2014 meeting of LRUG will be on *Monday the 10th of November*, from
 
 After the talks are finished we leave Skills Matter and move to [The Slaughtered Lamb](http://www.theslaughteredlambpub.com/) to continue the evening.  We finish the talks at about 8pm, so if you only want to attend this informal part aim to be at the pub by about 8:10 and you should be just in time to fight with us for room at the bar.
 
-Registration <a name="nov14registration">&nbsp;</a>
----------------------------------------------------
+## Registration {#nov14registration}
 
 To secure a place at the meeting you *must* [register with our hosts Skills Matter](https://www.skillsmatter.com/meetups/6695-lrug-november-meetup).  It helps to make sure we have the room laid out with enough chairs, and in extreme cases that we get priority on the larger rooms over other groups using the space on the same night.  Also, it's polite (don't forget [MINASWAN](http://oreilly.com/ruby/excerpts/ruby-learning-rails/ruby-glossary.html#I_indexterm_d1e32036)), so please do [register with Skills Matter](https://www.skillsmatter.com/meetups/6695-lrug-november-meetup).  Prior to attending you should familiarise yourself with our [README](http://readme.lrug.org/).
 

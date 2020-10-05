@@ -55,8 +55,7 @@ The July 2012 meeting of LRUG will be on *Monday* the 9th of July, from 6:30pm t
 
 The speaker-based part of the meeting finishes at 8pm, but that's not when LRUG finishes.  No!  We head over to [The Slaughtered Lamb](http://www.theslaughteredlambpub.com/) for the chat-based part of the meeting.  Attendance at the first part of the meeting is not required if you just fancy a pint with some ruby geeks.
 
-Registration <a name="jul12registration">&nbsp;</a>
----------------------------------------------------
+## Registration {#jul12registration}
 
 To secure a place at the meeting you must [register with our hosts Skills Matter](http://skillsmatter.com/event-details/home/happier-deploments/js-4501).  It helps to make sure we have the room laid out with enough chairs, and in extreme cases that we get priority on the larger rooms over other groups using the space on the same night.  Also, it's polite (don't forget [MINASWAN](http://oreilly.com/ruby/excerpts/ruby-learning-rails/ruby-glossary.html#I_indexterm_d1e32036)), so please do [register with Skills Matter](http://skillsmatter.com/event-details/home/happier-deploments/js-4501).
 

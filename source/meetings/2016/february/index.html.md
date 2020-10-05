@@ -104,8 +104,7 @@ There's bound to be something to talk about after all those talks and we now hav
 
 Talks should finish at about 8pm so if you can't make it along earlier feel free to come along to either venue afterwards to hang out.
 
-Venue & Registration <a name="feb16registration">&nbsp;</a>
-----------------------------------------------------------
+## Venue & Registration {#feb16registration}
 
 Prior to attending you should familiarise yourself with our [README](http://readme.lrug.org/) paying close attention to [the code of conduct](http://readme.lrug.org/#code-of-conduct).
 

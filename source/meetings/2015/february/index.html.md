@@ -47,8 +47,7 @@ Thanks to the nice folks at [Team Prime](http://www.team-prime.com/) and [Bath R
 
 All those talks are bound to generate some thoughts we'd like to discuss afterwards.  So we cross Goswell Road and head down to [The Slaughtered Lamb](http://www.theslaughteredlambpub.com/) to have those discussions in a more informal setting.  If you didn't make it for the talks then do feel free to turn up just for this bit.
 
-Registration <a name="feb15registration">&nbsp;</a>
----------------------------------------------------
+## Registration {#feb15registration}
 
 To secure a place at the meeting you *must* [register with our hosts Skills Matter](https://skillsmatter.com/meetups/6984-lrug-lightening-talks-evening).  It helps to make sure we have the room laid out with enough chairs, and in extreme cases that we get priority on the larger rooms over other groups using the space on the same night.  Also, it's polite (don't forget [MINASWAN](http://oreilly.com/ruby/excerpts/ruby-learning-rails/ruby-glossary.html#I_indexterm_d1e32036)), so please do [register with Skills Matter](https://skillsmatter.com/meetups/6984-lrug-lightening-talks-evening).  Prior to attending you should familiarise yourself with our [README](http://readme.lrug.org/).
 

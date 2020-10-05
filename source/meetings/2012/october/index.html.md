@@ -42,8 +42,7 @@ The October 2012 meeting of LRUG will be on *Monday* the 8th of October, from 6:
 
 The formal part of the evening is usually done no later than 8pm, but that's not when we go home.  We continue the meeting in a more relaxed setting at [The Slaughtered Lamb](http://www.theslaughteredlambpub.com/).  If you can't make the talks there are usually plenty of rubyists propping up the bar and arguing long into the evening about their preferred hash syntax, so please do come along!
 
-Registration <a name="oct12registration">&nbsp;</a>
----------------------------------------------------
+## Registration {#oct12registration}
 
 To secure a place at the meeting you *must* [register with our hosts Skills Matter](http://skillsmatter.com/event-details/home/beautiful-command-line-interface-design).  It helps to make sure we have the room laid out with enough chairs, and in extreme cases that we get priority on the larger rooms over other groups using the space on the same night.  Also, it's polite (don't forget [MINASWAN](http://oreilly.com/ruby/excerpts/ruby-learning-rails/ruby-glossary.html#I_indexterm_d1e32036)), so please do [register with Skills Matter](http://skillsmatter.com/event-details/home/beautiful-command-line-interface-design).
 

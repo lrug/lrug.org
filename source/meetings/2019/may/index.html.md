@@ -82,8 +82,7 @@ informal.
 If you can't attend the talks we'd still be very happy to see you at this part
 of the meeting.  Do come along!
 
-Venue & Registration <a name="may19registration">&nbsp;</a>
------------------------------------------------------------
+## Venue & Registration {#may19registration}
 
 Prior to attending you should familiarise yourself with our
 [README](http://readme.lrug.org/) paying close attention to [the code of

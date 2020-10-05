@@ -62,8 +62,7 @@ We'll start the meeting with 10-15 minutes of free time for anyone to speak.  Yo
 
 We aim to finish up the meeting by 8pm, after which we mosey on down to ... well ... we're not sure.   Skills Matter's new office isn't close to our old preferred pub, so we're going to have to find a new one.  We've organised a special [LRUG Nights](/nights) to do just that.  Watch this space to find out what pub we choose (or come along on the 6th to help us choose!).  Regardless of what pub we choose, if for any reason you can't make the talks it's fine to come along just for the pub part of the meeting.
 
-Registration <a name="jan10registration">&nbsp;</a>
----------------------------------------------------
+## Registration {#jan10registration}
 
 [Registration](http://skillsmatter.com/event/ajax-ria/lrug-jan-2010) isn't mandatory as Skills Matter's new office has plenty of space.  However, registration lets Skills Matter arrange the room properly and if you don't register you might have to sit on the floor.  It's also polite to let people know if you're coming.  So, please do [register](http://skillsmatter.com/event/ajax-ria/lrug-jan-2010).
 

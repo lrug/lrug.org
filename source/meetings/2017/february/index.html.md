@@ -120,8 +120,7 @@ informal.
 If for some reason you can't make the talks you're still more than welcome to
 attend this afterwards part.  We'd love to see you!
 
-Venue & Registration <a name="feb17registration">&nbsp;</a>
------------------------------------------------------------
+## Venue & Registration {#feb17registration}
 
 Prior to attending you should familiarise yourself with our
 [README](http://readme.lrug.org/) paying close attention to [the code of

@@ -59,8 +59,7 @@ The January 2015 meeting of LRUG will be on *Monday the 12th of January*, from 6
 
 After the speakers are done it's time for the rest of us to give our vocal chords a workout.  We have to leave Skills Matter by 8pm so we head to [The Slaughtered Lamb](http://www.theslaughteredlambpub.com/) to do so.  If you can't make the talks then do feel free to attend this part.  There's no need to register for this bit though, so just turn up!
 
-Registration <a name="jan15registration">&nbsp;</a>
----------------------------------------------------
+## Registration {#jan15registration}
 
 To secure a place at the meeting you *must* [register with our hosts Skills Matter](https://www.skillsmatter.com/meetups/6937-lrug-january-2015-meetup).  It helps to make sure we have the room laid out with enough chairs, and in extreme cases that we get priority on the larger rooms over other groups using the space on the same night.  Also, it's polite (don't forget [MINASWAN](http://oreilly.com/ruby/excerpts/ruby-learning-rails/ruby-glossary.html#I_indexterm_d1e32036)), so please do [register with Skills Matter](https://www.skillsmatter.com/meetups/6937-lrug-january-2015-meetup).  Prior to attending you should familiarise yourself with our [README](http://readme.lrug.org/).
 

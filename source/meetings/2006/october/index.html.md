@@ -20,7 +20,6 @@ Our next meeting will be on Monday October 9, 6:30-8pm.
 * Robert will talk about what you (and he) might want DSLs for.
 * Damien will cover the practical aspects of DSLs in Ruby and share his recent experiences developing a simple DSL to define business logic in an ecommerce application. (Slides and example code have been [made available here](http://svn.lrug.org/lrug_sandbox/presentations/ruby_dsl_presentation_tiest_2006/).)
 
-Registration
-------------
+## Registration {#oct06registration}
 
 For location details please [register to attend at our LRUG page](http://skillsmatter.com/london-ruby-ug) on the Skills Matter site.

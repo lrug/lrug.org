@@ -59,8 +59,7 @@ We aim to finish the talks by 8pm, but that's not where the meeting ends.  If yo
 
 Attendance at the talks isn't required to come along for the socialising part of the meeting, so please do head over if you can't make the earlier part.
 
-Venue & Registration <a name="mar16registration">&nbsp;</a>
------------------------------------------------------------
+## Venue & Registration {#mar16registration}
 
 Prior to attending you should familiarise yourself with our [README](http://readme.lrug.org/) paying close attention to [the code of conduct](http://readme.lrug.org/#code-of-conduct).
 

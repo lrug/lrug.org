@@ -67,8 +67,7 @@ During the talks there will be some drinks available, provided by the nice folks
 
 The two talks will take us to about 8pm, at which point we move on from Skills Matter to the second venue of the evening: [The Slaughtered Lamb](http://www.theslaughteredlambpub.com/).  There's no agenda here, just visit the bar and seek out those rubyists you've been meaning to say hi to for a while.  Attendance at the talks is obviously not required for attendance at the pub, so do come along anyway!
 
-Registration <a name="aug13registration">&nbsp;</a>
----------------------------------------------------
+## Registration {#aug13registration}
 
 To secure a place at the meeting you *must* [register with our hosts Skills Matter](http://skillsmatter.com/event-details/home/lrug-hosts-stephen-best-pete-hamilton).  It helps to make sure we have the room laid out with enough chairs, and in extreme cases that we get priority on the larger rooms over other groups using the space on the same night.  Also, it's polite (don't forget [MINASWAN](http://oreilly.com/ruby/excerpts/ruby-learning-rails/ruby-glossary.html#I_indexterm_d1e32036)), so please do [register with Skills Matter](http://skillsmatter.com/event-details/home/lrug-hosts-stephen-best-pete-hamilton).
 

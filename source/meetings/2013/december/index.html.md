@@ -71,8 +71,7 @@ The December 2013 meeting of LRUG will be on *Monday the 9th of December*, from 
 
 The talks end at around 8pm, but you'll find many attendees will continue the meeting by heading to [The Slaughtered Lamb](http://www.theslaughteredlambpub.com/).  This is a great place to grab a bite to eat and a drink and discuss the talks with the rest of the attendees and the speakers.  If you can't make the talks, do feel free to just turn up straight at the pub.
 
-Registration <a name="dec13registration">&nbsp;</a>
----------------------------------------------------
+## Registration {#dec13registration}
 
 To secure a place at the meeting you *must* [register with our hosts Skills Matter](http://skillsmatter.com/event-details/home/lrug-december-meet-up).  It helps to make sure we have the room laid out with enough chairs, and in extreme cases that we get priority on the larger rooms over other groups using the space on the same night.  Also, it's polite (don't forget [MINASWAN](http://oreilly.com/ruby/excerpts/ruby-learning-rails/ruby-glossary.html#I_indexterm_d1e32036)), so please do [register with Skills Matter](http://skillsmatter.com/event-details/home/lrug-december-meet-up).
 

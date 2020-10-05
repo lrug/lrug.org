@@ -57,8 +57,7 @@ A video of Francis's talk, filmed by [Skills Matter](http://skillsmatter.com/pod
 
 The talks generally are all done and dusted by 8pm, at which point we decamp to the local pub, [The Crown Tavern](http://fancyapint.com/pubs/pub199.html) for a spot of socialising.  If you can't make the talks for whatever reason, you're always welcome to turn up just for the post-mortem in the pub.
 
-Registration <a name="jul08registration">&nbsp;</a>
----------------------------------------------------
+## Registration {#jul08registration}
 
 [Please register with Skills Matter](http://skillsmatter.com/event/ajax-ria/rabbitmq-ruby) if you are planning to come.  Registration allows Skills Matter to organise a larger room if we need it.  For the past few meetings we've used their overflow venue and thus avoided having to turn people away because of fire-regulations.  We hope to do so again so please [register now](http://skillsmatter.com/event/ajax-ria/rabbitmq-ruby) rather than later (Skills Matter need about a weeks notice to book the larger room).  
 

@@ -74,8 +74,7 @@ After the talks finish, usually 8pm, we decamp to [The Slaughtered Lamb](http://
 The nice folks at [Resource Guru](http://resourceguruapp.com/) are buying us some drinks at the pub after the talks.  That's nice, isn't it?
 
 
-Registration <a name="apr14registration">&nbsp;</a>
----------------------------------------------------
+## Registration {#apr14registration}
 
 To secure a place at the meeting you *must* [register with our hosts Skills Matter](https://skillsmatter.com/meetups/6307-adventures-in-early-adoption-of-open-source-code).  It helps to make sure we have the room laid out with enough chairs, and in extreme cases that we get priority on the larger rooms over other groups using the space on the same night.  Also, it's polite (don't forget [MINASWAN](http://oreilly.com/ruby/excerpts/ruby-learning-rails/ruby-glossary.html#I_indexterm_d1e32036)), so please do [register with Skills Matter](https://skillsmatter.com/meetups/6307-adventures-in-early-adoption-of-open-source-code).  Prior to attending you should familiarise yourself with our [README](http://readme.lrug.org/).
 

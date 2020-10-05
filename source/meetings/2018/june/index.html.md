@@ -99,8 +99,7 @@ Don't worry that you'll miss out on this part if you can't make the talks.
 Attendance of the talks is far from mandatory to attend the socialising
 afterwards, so please do come along anyway if you can.
 
-Venue & Registration <a name="jun18registration">&nbsp;</a>
------------------------------------------------------------
+## Venue & Registration {#jun18registration}
 
 Prior to attending you should familiarise yourself with our
 [README](http://readme.lrug.org/) paying close attention to [the code of

@@ -64,8 +64,7 @@ The May 2014 meeting of LRUG will be on *Monday the 12th of May*, from 6:30pm to
 
 The second part of the evening starts after the talks finish, which is usually around 8pm, and we move from Skills Matter's offices to [The Slaughtered Lamb](http://www.theslaughteredlambpub.com/).  If you can't make the talks do feel free to head over to the pub to join us for this more informal side to the meeting.
 
-Registration <a name="may14registration">&nbsp;</a>
----------------------------------------------------
+## Registration {#may14registration}
 
 To secure a place at the meeting you *must* [register with our hosts Skills Matter](https://skillsmatter.com/meetups/6382-learning-to-code-how-to-win-developers-and-deprecating-activeresource).  It helps to make sure we have the room laid out with enough chairs, and in extreme cases that we get priority on the larger rooms over other groups using the space on the same night.  Also, it's polite (don't forget [MINASWAN](http://oreilly.com/ruby/excerpts/ruby-learning-rails/ruby-glossary.html#I_indexterm_d1e32036)), so please do [register with Skills Matter](https://skillsmatter.com/meetups/6382-learning-to-code-how-to-win-developers-and-deprecating-activeresource).  Prior to attending you should familiarise yourself with our [README](http://readme.lrug.org/).
 

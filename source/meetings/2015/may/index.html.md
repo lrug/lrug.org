@@ -61,8 +61,7 @@ The nice people at [Infinitium Global](https://www.linkedin.com/company/infiniti
 
 Our talks usually end at about 8pm after which many members can be found at [The Slaughtered Lamb](http://www.theslaughteredlambpub.com/) chatting about what they just learned and other goings-on in the ruby world.  The pub is large and has a good menu of food and drinks (alcoholic and non) so all are welcome, even if you were unable to attend the talks.
 
-Registration <a name="may15registration">&nbsp;</a>
----------------------------------------------------
+## Registration {#may15registration}
 
 To secure a place at the meeting you *must* [register with our hosts Skills Matter](https://skillsmatter.com/meetups/7167-rewriting-code-culture-and-rails-new-way).  It helps to make sure we have the room laid out with enough chairs, and in extreme cases that we get priority on the larger rooms over other groups using the space on the same night.  Also, it's polite (don't forget [MINASWAN](http://oreilly.com/ruby/excerpts/ruby-learning-rails/ruby-glossary.html#I_indexterm_d1e32036)), so please do [register with Skills Matter](https://skillsmatter.com/meetups/7167-rewriting-code-culture-and-rails-new-way).  Prior to attending you should familiarise yourself with our [README](http://readme.lrug.org/).
 

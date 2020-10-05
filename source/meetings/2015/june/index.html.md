@@ -56,8 +56,7 @@ talk, he will attempt an array of traditional magic tricks, using only
 
 All those talks will take us to about 8pm, after which we leave Skills Matter's offices and head over to [The Slaughtered Lamb](http://www.theslaughteredlambpub.com/) to continue the meeting.  While we ask you to [register for the talks](#jun15registration), there's no need to do so for this pub part; feel free to turn up even if you don't make it for the talks.
 
-Registration <a name="jun15registration">&nbsp;</a>
----------------------------------------------------
+## Registration {#jun15registration}
 
 To secure a place at the meeting you *must* [register with our hosts Skills Matter](https://skillsmatter.com/meetups/7216-lrug-june-2015-meetup).  It helps to make sure we have the room laid out with enough chairs, and in extreme cases that we get priority on the larger rooms over other groups using the space on the same night.  Also, it's polite (don't forget [MINASWAN](http://oreilly.com/ruby/excerpts/ruby-learning-rails/ruby-glossary.html#I_indexterm_d1e32036)), so please do [register with Skills Matter](https://skillsmatter.com/meetups/7216-lrug-june-2015-meetup).  Prior to attending you should familiarise yourself with our [README](http://readme.lrug.org/).
 

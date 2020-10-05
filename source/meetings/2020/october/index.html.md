@@ -61,8 +61,7 @@ something else tha would work for more attendees. If you have any ideas on that,
 do get in touch at [organisers@lrug.org](mailto:organisers@lrug.org) and we can
 explore it together.
 
-Registration <a name="oct20registration">&nbsp;</a>
-----------------------------------------------------
+## Registration {#oct20registration}
 
 Prior to attending you should familiarise yourself with our
 [README](http://readme.lrug.org/) paying close attention to [the code of

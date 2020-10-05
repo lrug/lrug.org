@@ -72,8 +72,7 @@ During the talks there will be some pizzas available (vegetarian & vegan options
 
 After the talks the evening continues in a more informal style at [The Slaughtered Lamb](http://www.theslaughteredlambpub.com/).  It's a great place to discuss the talks directly with the speakers, or chat to other rubyists about the great debates of the day.  If you are unable to make the talks, for whatever reason, do feel free to turn up for this part of the evening.  We're usually jostling for space at the bar from around 8pm.
 
-Registration <a name="oct13registration">&nbsp;</a>
----------------------------------------------------
+## Registration {#oct13registration}
 
 To secure a place at the meeting you *must* [register with our hosts Skills Matter](http://skillsmatter.com/event-details/home/lrug-october-2013-meeting).  It helps to make sure we have the room laid out with enough chairs, and in extreme cases that we get priority on the larger rooms over other groups using the space on the same night.  Also, it's polite (don't forget [MINASWAN](http://oreilly.com/ruby/excerpts/ruby-learning-rails/ruby-glossary.html#I_indexterm_d1e32036)), so please do [register with Skills Matter](http://skillsmatter.com/event-details/home/lrug-october-2013-meeting).
 

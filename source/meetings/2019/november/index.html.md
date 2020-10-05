@@ -58,8 +58,7 @@ informal, please remember that still we consider it to be a part of the
 meeting and covered by our [code of conduct](http://readme.lrug.org/#code-of-conduct).
 
 
-Venue & Registration <a name="nov19registration">&nbsp;</a>
------------------------------------------------------------
+## Venue & Registration {#nov19registration}
 
 Prior to attending you should familiarise yourself with our
 [README](http://readme.lrug.org/) paying close attention to [the code of

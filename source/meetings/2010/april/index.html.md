@@ -50,8 +50,7 @@ As usual we'll have 10-15 minutes at the start of the meeting for anyone to fill
 
 When the talks are finished, we make the short walk over to [The Slaughtered Lamb](http://www.theslaughteredlambpub.com/) to continue the evening in a more informal setting.  The talks tend to finish around about 8pm so if you find that you can't make it to the meeting but still fancy some Ruby chat, head along for just the pub bit.  Maybe you can score us a table?
 
-Registration <a name="apr10registration">&nbsp;</a>
----------------------------------------------------
+## Registration {#apr10registration}
 
 Skills Matter prefer that you [register your attendance with them](http://skillsmatter.com/event/ajax-ria/talks-on-time-data-type-and-mongodb/zx-548) if you are planning to come to the meeting.  You won't be turned away at the door if you haven't registered (unless we're *really* full), but it's useful for fire regulations and to help them arrange the room properly.  Finally, it's simply just polite, and well, [MINASWAN](http://oreilly.com/ruby/excerpts/ruby-learning-rails/ruby-glossary.html#I_indexterm_d1e32036), so please do [register](http://skillsmatter.com/event/ajax-ria/talks-on-time-data-type-and-mongodb/zx-548).
 

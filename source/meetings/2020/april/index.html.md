@@ -78,8 +78,7 @@ Afterwards... well, that's a good question. Obviously there's no pub, but we inv
 Or there's always [telly](https://www.youtube.com/watch?v=wnd1jKcfBRE).
 
 
-Registration <a name="apr20registration">&nbsp;</a>
------------------------------------------------------------
+## Registration {#apr20registration}
 
 Prior to attending you should familiarise yourself with our [README](http://readme.lrug.org/) paying close attention to [the code of conduct](http://readme.lrug.org/#code-of-conduct) which applies to all attendees, even though there's no pub or venue. Basically they are good rules to generally live your life by.
 

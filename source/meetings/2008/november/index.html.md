@@ -47,8 +47,7 @@ A video of Jasons talk, filmed by [Skills Matter](http://skillsmatter.com/podcas
 
 Once the hullabaloo of the talks is over with we finish up the evening with a couple of drinks in [The Crown Tavern](http://fancyapint.com/pubs/pub199.html) which is just a short walk from the venue.  If you can't make it for the talks you can still make it down to catch up on all the gossip.
 
-Registration <a name="nov08registration">&nbsp;</a>
----------------------------------------------------
+## Registration {#nov08registration}
 
 [Please register with Skills Matter](http://skillsmatter.com/event/ajax-ria/lrug-meeting-november) if you are planning to come.  Registration allows Skills Matter to organise the most appropriate room for the number of people coming.  In the past we've had to turn people away who didn't register because the room was full and there was no room for extra bodies.  We don't like having to do that, so please [register now](http://skillsmatter.com/event/ajax-ria/lrug-meeting-november) rather than later (Skills Matter need about a weeks notice to book the larger room) and secure your place.  
 

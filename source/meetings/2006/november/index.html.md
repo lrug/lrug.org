@@ -30,7 +30,6 @@ Tom Ward will encourage us to _Do Bad Things with Capistrano_, telling us what [
 
 We'll kick off with a quick review of activity of interest to the Ruby community - including brief impressions from [Rob McKinnon's](http://blog.theyworkforyou.co.nz/) first virtual attendence at a [Rubyists of Second Life Meeting](http://secondlife.com/events/event.php?id=311956&date=1161219600).
 
-Registration
-------------
+## Registration {#nov06registration}
 
 Please [register to attend at our LRUG page](http://skillsmatter.com/london-ruby-ug) on the Skills Matter site for location details. As usual we'll be heading to the pub after the meeting.

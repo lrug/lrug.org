@@ -66,8 +66,7 @@ The plan for this month's meeting is to have several local rubyists talk about g
 
 As is usual we'll decamp from Skills Matter's offices to [The Slaughtered Lamb](http://www.theslaughteredlambpub.com/) for a drink or two after the talks.  It's only a short walk away so we'll be there from about 8pm onwards.  If you can't make the main meeting then feel free to pitch up just for the pub-bit.  There's usually some rubyists there until closing time, so you're bound to find someone to talk to no matter what time you make it over.
 
-Registration <a name="jun11registration">&nbsp;</a>
----------------------------------------------------
+## Registration {#jun11registration}
 
 Skills Matter prefer that you [register your attendance with them](http://skillsmatter.com/expert-profile/ajax-ria/various-speakers) if you are coming to the meeting.  There's plenty of space so you'll get in if you forget, but it is polite (don't forget [MINASWAN](http://oreilly.com/ruby/excerpts/ruby-learning-rails/ruby-glossary.html#I_indexterm_d1e32036)), so please do [register](http://skillsmatter.com/expert-profile/ajax-ria/various-speakers).
 

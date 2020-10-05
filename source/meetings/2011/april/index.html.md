@@ -50,8 +50,7 @@ Note: Ben is talking at [SRC](http://scottishrubyconference.com/sessions) but it
 
 After all this we'll head to [The Slaughtered Lamb](http://www.theslaughteredlambpub.com/) to while away the rest of the evening in more informal settings.  The pub is only a five minute walk from Skills Matter's offices and we'll be there from about 8pm onwards. If you're unable to make it on time for the main meeting then feel free to join us for the pub-bit.
 
-Registration <a name="apr11registration">&nbsp;</a>
----------------------------------------------------
+## Registration {#apr11registration}
 
 Skills Matter prefer that you [register your attendance with them](http://skillsmatter.com/event/ajax-ria/building-cloud-castles/js-1540) if you are coming to the meeting.  On a few exceptional occasions we've had to turn away people who haven't registered, but this has only been at extremely popular meetings, and has yet to happen at the new venue on Goswell Road.  It's better to be safe than sorry though, and it is polite (don't forget [MINASWAN](http://oreilly.com/ruby/excerpts/ruby-learning-rails/ruby-glossary.html#I_indexterm_d1e32036)), so please do [register](http://skillsmatter.com/event/ajax-ria/building-cloud-castles/js-1540).
 

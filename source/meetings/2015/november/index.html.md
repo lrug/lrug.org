@@ -68,8 +68,7 @@ When the talks end we head over to a local pub to grab some food, a drink, and d
 
 We should be there just after 8pm.  If you're unable to attend the talks, do feel free to come along just for the pub.
 
-Venue & Registration <a name="nov15registration">&nbsp;</a>
-----------------------------------------------------------
+## Venue & Registration {#nov15registration}
 
 Prior to attending you should familiarise yourself with our [README](http://readme.lrug.org/) paying close attention to [the code of conduct](http://readme.lrug.org/#code-of-conduct).
 

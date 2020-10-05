@@ -114,8 +114,7 @@ Depending on how many lighning talks there are, we may have time at the start of
 
 The meeting will finish around 8pm and we'll be in a local pub shortly thereafter.  The pub we tried after the last meeting was [The Slaughtered Lamb](http://www.theslaughteredlambpub.com/) which is about 5 minutes walk from Skills Matter's new office.  If you can't make it for the main meeting consider, coming along as an advance guard to the pub and securing us some tables.
 
-Registration <a name="feb10registration">&nbsp;</a>
----------------------------------------------------
+## Registration {#feb10registration}
 
 [Registration](http://skillsmatter.com/event/ajax-ria/lightning-talk-evening) isn't mandatory as Skills Matter's new office has plenty of space.  That said, you really should register as it lets Skills Matter arrange the room properly and means you'll get a name badge so people know who you are.  If there aren't enough seats, people without name badges will have to sit on the floor.  Please do [register](http://skillsmatter.com/event/ajax-ria/lightning-talk-evening).
 

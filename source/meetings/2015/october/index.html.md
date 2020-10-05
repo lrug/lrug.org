@@ -66,8 +66,7 @@ Of the local pubs we've tried so far Singer Tavern seems the most accomodating s
 
 We aim to finish the talks no later than 8pm, which gives us an ETA of about 8:10 at the pub.  If you can't make the talks please do join us afterwards for food, drinks and ruby chat.
 
-Venue & Registration <a name="oct15registration">&nbsp;</a>
-----------------------------------------------------------
+## Venue & Registration {#oct15registration}
 
 Prior to attending you should familiarise yourself with our [README](http://readme.lrug.org/) paying close attention to [the code of conduct](http://readme.lrug.org/#code-of-conduct).
 

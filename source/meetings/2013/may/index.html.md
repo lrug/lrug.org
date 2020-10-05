@@ -63,8 +63,7 @@ Also, the nice folks at [Team Prime](http://www.team-prime.com/) are providing s
 
 The talks usually finish up around 8pm, but that's not the end of the meeting!  We continue at [The Slaughtered Lamb](http://www.theslaughteredlambpub.com/) which is about 5 minutes away.  Attendance at the talks is not a requirement on coming to the pub, so if you can't make it to them do feel free to turn up afterwards!
 
-Registration <a name="may13registration">&nbsp;</a>
----------------------------------------------------
+## Registration {#may13registration}
 
 To secure a place at the meeting you *must* [register with our hosts Skills Matter](http://skillsmatter.com/podcast/home/dci-with-ruby-rails).  It helps to make sure we have the room laid out with enough chairs, and in extreme cases that we get priority on the larger rooms over other groups using the space on the same night.  Also, it's polite (don't forget [MINASWAN](http://oreilly.com/ruby/excerpts/ruby-learning-rails/ruby-glossary.html#I_indexterm_d1e32036)), so please do [register with Skills Matter](http://skillsmatter.com/podcast/home/dci-with-ruby-rails).
 

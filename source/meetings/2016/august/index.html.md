@@ -62,8 +62,7 @@ We'll be done with the talks by about 8pm.  If you'd like to continue talking to
 
 If you can't make the talks you are more than welcome to come along afterwards to hang out with us.
 
-Venue & Registration <a name="aug16registration">&nbsp;</a>
------------------------------------------------------------
+## Venue & Registration {#aug16registration}
 
 Prior to attending you should familiarise yourself with our [README](http://readme.lrug.org/) paying close attention to [the code of conduct](http://readme.lrug.org/#code-of-conduct).
 

@@ -42,8 +42,7 @@ At the end of all things, one fact will be carved upon the smouldering husk that
 > but a short distance from the original meeting point, and from there did imbibe boozes.  All were welcome,
 > even those who couldn't make the main talks.  And there was much rejoicing in the tavern."
 
-Registration <a name="dec08registration">&nbsp;</a>
----------------------------------------------------
+## Registration {#dec08registration}
 
 [Please register with Skills Matter](http://skillsmatter.com/event/ajax-ria/lrug-meeting-december) if you are planning to come.  Registration allows Skills Matter to organise the most appropriate room for the number of people coming.  In the past we've had to turn people away who didn't register because the room was full and there was no room for extra bodies.  We don't like having to do that, so please [register now](http://skillsmatter.com/event/ajax-ria/lrug-meeting-december) rather than later (Skills Matter need about a weeks notice to book the larger room) and secure your place.  
 

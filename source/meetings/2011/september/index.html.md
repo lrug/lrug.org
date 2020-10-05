@@ -34,8 +34,7 @@ If you're interested in filling this slot, [find out what it means](/speaking) a
 
 The talks should finish by 8pm and after this we continue the evening in [The Slaughtered Lamb](http://www.theslaughteredlambpub.com/), a short walk from the talk venue.  If you're not interested in the talks, or can't make them for some reason, please do turn up to the pub.  The more the merrier!
 
-Registration <a name="sep11registration">&nbsp;</a>
----------------------------------------------------
+## Registration {#sep11registration}
 
 Skills Matter prefer that you [register your attendance with them](http://skillsmatter.com/event/ajax-ria/ruby-september) if you are coming to the meeting.  There's plenty of space so you'll get in if you forget, but it is polite (don't forget [MINASWAN](http://oreilly.com/ruby/excerpts/ruby-learning-rails/ruby-glossary.html#I_indexterm_d1e32036)), so please do [register](http://skillsmatter.com/event/ajax-ria/ruby-september).
 

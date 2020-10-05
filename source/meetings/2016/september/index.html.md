@@ -79,8 +79,7 @@ The meeting will finish around about 8pm when the prepared talks are over.  It's
 
 If you are unable to attend the talks you don't need to miss out, you can absolutely come along to meet us afterwards.
 
-Venue & Registration <a name="sep16registration">&nbsp;</a>
------------------------------------------------------------
+## Venue & Registration {#sep16registration}
 
 Prior to attending you should familiarise yourself with our [README](http://readme.lrug.org/) paying close attention to [the code of conduct](http://readme.lrug.org/#code-of-conduct).
 

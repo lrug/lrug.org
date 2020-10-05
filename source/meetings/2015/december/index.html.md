@@ -55,8 +55,7 @@ We'll be CodeWarsJam-ing until 8pm after which we'll close our laptops and seek 
 
 Even if you can't make the main meeting, there'll be loads to talk about so please do turn up just for this bit.
 
-Venue & Registration <a name="dec15registration">&nbsp;</a>
-----------------------------------------------------------
+## Venue & Registration {#dec15registration}
 
 Prior to attending you should familiarise yourself with our [README](http://readme.lrug.org/) paying close attention to [the code of conduct](http://readme.lrug.org/#code-of-conduct).
 

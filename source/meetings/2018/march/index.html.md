@@ -18,7 +18,7 @@ from _6:00pm_ to _8:00pm_ (talks start at _6:30pm_).  The venue, [Code
 Node][skills-matter-venue] between
 Moorgate and Liverpool St. stations, is provided by [Skills
 Matter](http://www.skillsmatter.com).  [Full venue and registration details are
-given below](#march18registration).
+given below](#mar18registration).
 
 ## Agenda
 
@@ -72,8 +72,7 @@ informal.
 If you can't attend the talks we'd still be very happy to see you at this part
 of the meeting.  Do come along!
 
-Venue & Registration <a name="march18registration">&nbsp;</a>
------------------------------------------------------------
+## Venue & Registration {#mar18registration}
 
 Prior to attending you should familiarise yourself with our
 [README](http://readme.lrug.org/) paying close attention to [the code of

@@ -62,8 +62,7 @@ any ideas on that, do get in touch at
 [organisers@lrug.org](mailto:organisers@lrug.org) and we can explore it
 together.
 
-Registration <a name="sept20registration">&nbsp;</a>
-----------------------------------------------------
+## Registration {#sept20registration}
 
 Prior to attending you should familiarise yourself with our [README](http://readme.lrug.org/)
 paying close attention to [the code of conduct](http://readme.lrug.org/#code-of-conduct)

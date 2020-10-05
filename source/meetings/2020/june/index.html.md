@@ -23,7 +23,7 @@ We'll run the meeting on our own zoom account, so make sure you have
 the zoom client for your preferred device, or know how to attend via
 the web.
 
-[Full registration details are given below](#june20registration), note
+[Full registration details are given below](#jun20registration), note
 that **we will only be sending out the zoom meeting url to people who
 have registered, so please do make sure you do it.**
 
@@ -71,8 +71,7 @@ felt a bit abrupt, if you've got a good idea of how to replicate the
 post-talk chats get in touch at [organisers@lrug.org](mailto:organisers@lrug.org)
 and we'll see what we can do.
 
-Registration <a name="june20registration">&nbsp;</a>
------------------------------------------------------------
+## Registration {#jun20registration}
 
 Prior to attending you should familiarise yourself with our [README](http://readme.lrug.org/)
 paying close attention to [the code of conduct](http://readme.lrug.org/#code-of-conduct)

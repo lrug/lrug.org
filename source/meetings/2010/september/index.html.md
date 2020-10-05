@@ -56,8 +56,7 @@ We start the meetings with announcements for the group.  If there's something yo
 
 When all the talking is over we break ranks and head out for some beer.  Our chosen pub [The Slaughtered Lamb](http://www.theslaughteredlambpub.com/) which is about 5 minutes from the Skills Matter office.  The main meeting finishes around 8pm and you'll find us joslting for service at the bar shortly after.  If you don't think you can make it for the talks, you should come along for the beers, as the talks are really just an excuse for going to the pub afterwards.
 
-Registration <a name="sep10registration">&nbsp;</a>
----------------------------------------------------
+## Registration {#sep10registration}
 
 Skills Matter prefer that you [register your attendance with them](http://skillsmatter.com/event/ajax-ria/rails-3-internals/rl-890) if you are coming to the meeting.  On a few exceptional occasions we've had to turn away people who haven't registered, but this has only been at extremely popular meetings, and has yet to happen at the new venue on Goswell Road.  It's better to be safe than sorry though, and it is polite (don't forget [MINASWAN](http://oreilly.com/ruby/excerpts/ruby-learning-rails/ruby-glossary.html#I_indexterm_d1e32036)), so please do [register](http://skillsmatter.com/event/ajax-ria/rails-3-internals/rl-890).
 
