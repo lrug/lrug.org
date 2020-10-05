@@ -21,8 +21,7 @@ Node][skills-matter-venue] between Moorgate and Liverpool St. stations, is
 provided by [Skills Matter](http://www.skillsmatter.com).  [Full venue and
 registration details are given below](#february19registration).
 
-Agenda
-------
+## Agenda
 
 ### Lightning Talks!
 
@@ -97,8 +96,7 @@ than 10 minutes.
 > ActiveRecord type as a temporary backwards compatibility layer between 
 > the code and the database.
 
-Afterwards
-----------
+## Afterwards
 
 Even with all these talks we still plan to finish around 8pm.  That's not
 the end of the evening though, so if you'd like to socialise with other

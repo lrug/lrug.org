@@ -27,8 +27,7 @@ the web.
 that **we will only be sending out the zoom meeting url to people who
 have registered, so please do make sure you do it.**
 
-Agenda
-------
+## Agenda
 
 We've got two talks this month. We also need more
 talks for the rest of year, so please get in touch on [talks@lrug.org](mailto:talks@lrug.org)
@@ -58,8 +57,7 @@ if there's something you'd like to say to LRUG
 
 {::coverage year="2020" month="august" talk="doing-the-right-thing" /}
 
-Afterwards
-----------
+## Afterwards
 
 Normally a few of us hang around in the Zoom chat after the meeting, but we're
 still on the lookout for other things we might try. If you've got a good idea of

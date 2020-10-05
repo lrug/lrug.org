@@ -14,8 +14,7 @@ hosted_by:
 
 The July 2011 meeting of LRUG will be on *Monday* the 11th of July, from 6:30pm to 8:00pm.  Our hosts [Skills Matter](http://skillsmatter.com/) will be providing the space, at their offices on Goswell Road; [The Skills Matter eXchange](http://skillsmatter.com/location-details/design-architecture/484/96).  It's a great space with plenty of room for the group, but you still need to <a href="#jul11registration">register to let Skills Matter know you are coming</a>.
 
-Agenda
-------
+## Agenda
 
 It's unintentional, but it looks like we have a theme this month of using ruby to build high-profile applications for large organizations.
 
@@ -29,8 +28,7 @@ Some of the team behind [alphagov](http://alpha.gov.uk), the new prototype for a
 
 [Jairo Diaz](http://twitter.com/codescrum) and John Small will be talking to us about the rails application they have developed for a large UK retailer and how they overcame some of the challenges along the way.
 
-Pub
----
+## Pub
 
 After these talks we'll make the short trip from Skills Matter's offices to the more informal surroundings of [The Slaughtered Lamb](http://www.theslaughteredlambpub.com/).  If you can't make it to the main meeting, you'll find us crowding the bar from around 8pm onwards.  The pub part of the meeting is very social and is a perfect opportunity to engage the speakers in more in-depth questions raised by their talks.  Or just talk about the latest trending topics on twitter.  It's your call.
 

@@ -27,25 +27,10 @@ the web.
 that **we will only be sending out the zoom meeting url to people who
 have registered, so please do make sure you do it.**
 
-### RubyConfBY Raffle
+## Agenda
 
-The kind folks at [RubyConfBY](https://rubyconference.by/) have given us _two_
-tickets to their conference to raffle to our attendess. The conference is going
-to be held (online) on the 18th & 19th of July, between 2-6PM CET (so that's
-1-5PM BST). They've got a great line up of very interesting talks, and of
-course, it's never been easy or cheaper to attend a conference since there's no
-travel or hotel costs to factor in. But _you_ can reduce that cost to zero by
-signing up to attend LRUG.
-
-During the meeting, we'll run a raffle for all registered attendees and pick
-two. And even if you don't win in the raffle, the organisers have arranged a
-discount for LRUG members, which we'll share on the night.
-
-Agenda
-------
-
-We've got one talk linked up so far for you this month.  There's room 
-for more so _please_ get in touch if you'd like to talk about 
+We've got one talk linked up so far for you this month.  There's room
+for more so _please_ get in touch if you'd like to talk about
 something. We also need more
 talks for the rest of year, so please get in touch on [talks@lrug.org](mailto:talks@lrug.org)
 if there's something you'd like to say to LRUG
@@ -94,8 +79,21 @@ interesting.
 Please get in touch on [talks@lrug.org](mailto:talks@lrug.org) and we will take
 it from there.
 
-Afterwards
-----------
+### RubyConfBY Raffle
+
+The kind folks at [RubyConfBY](https://rubyconference.by/) have given us _two_
+tickets to their conference to raffle to our attendess. The conference is going
+to be held (online) on the 18th & 19th of July, between 2-6PM CET (so that's
+1-5PM BST). They've got a great line up of very interesting talks, and of
+course, it's never been easy or cheaper to attend a conference since there's no
+travel or hotel costs to factor in. But _you_ can reduce that cost to zero by
+signing up to attend LRUG.
+
+During the meeting, we'll run a raffle for all registered attendees and pick
+two. And even if you don't win in the raffle, the organisers have arranged a
+discount for LRUG members, which we'll share on the night.
+
+## Afterwards
 
 Normally a few of us hang around in the Zoom chat after the meeting, but we're
 still on the lookout for other things we might try. If you've got a good idea of

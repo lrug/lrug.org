@@ -22,8 +22,7 @@ Moorgate and Liverpool St. stations, is provided by [Skills
 Matter](http://www.skillsmatter.com).  [Full venue and registration details are
 given below](#july17registration).
 
-Agenda
-------
+## Agenda
 
 ### Better scripting with Crystal
 
@@ -55,8 +54,7 @@ Agenda
 >
 > Finally we will take a deeper dive into a real world example; constructing a capable webserver.
 
-Afterwards
-----------
+## Afterwards
 
 The talks should be finished by 8pm. After that, you’ve got two main options if
 you want to keep chatting to other LRUG attendees:

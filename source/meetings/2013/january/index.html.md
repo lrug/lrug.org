@@ -39,8 +39,7 @@ hosted_by:
 
 The January 2013 meeting of LRUG will be on *Monday* the 14th of January, from 6:30pm to 8:00pm.  Our hosts [Skills Matter](http://skillsmatter.com/) will be providing the space, at their offices on Goswell Road; [The Skills Matter eXchange](http://skillsmatter.com/location-details/design-architecture/484/96).  <a href="#jan13registration">Registration details are given below</a>.
 
-Agenda
-------
+## Agenda
 
 ### Pub quiz!
 
@@ -74,8 +73,7 @@ During the pub quiz there will be a range of drinks available (soft drinks, as w
 * Unboxed Consulting {::sponsor name="Unboxed Consulting" size="main" /}
 * vzaar {::sponsor name="vzaar" size="main" /}
 
-Pub
----
+## Pub
 
 When the quiz ends and the prizes have been handed out, those with an appetite to continue the pub element of the quiz will head over to [The Slaughtered Lamb](http://www.theslaughteredlambpub.com/).  If you can't make the quiz, do feel free to turn up just to the pub later on.  Our normal meetings end no later than 8pm, but the quiz may run on a bit.
 

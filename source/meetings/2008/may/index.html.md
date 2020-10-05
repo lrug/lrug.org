@@ -14,8 +14,7 @@ hosted_by:
 
 The next meeting of LRUG will be on Monday the 12th of May, from 6:30pm to 8:00pm, our usual [Skills Matter](http://www.skillsmatter.com/) venue at [1 Sekforde St.](http://maps.google.co.uk/maps?f=q&hl=en&q=EC1R+0BE&layer=&ie=UTF8&z=16&om=1&iwloc=addr).  However, depending on numbers (see the note about <a href="#may08registration">registration</a> below) we might move to a larger venue.
 
-Agenda
-------
+## Agenda
 
 ### Settling New Caprica: getting your pet project off the ground.
 
@@ -48,8 +47,7 @@ A video of Tom's talk, filmed by [Skills Matter](http://skillsmatter.com/podcast
 
 A video of Tim's talk, filmed by [Skills Matter](http://skillsmatter.com/podcast/ajax-ria/monkeyweaving-live-native-monkeypatching) is available on [Google Video](http://video.google.com/videoplay?docid=-2152474464057803000)
 
-Pub
----
+## Pub
 
 <a href="http://www.flickr.com/photos/snowblink/2490614568/" title="Pub! (20080512-R0010897.jpg) by snowblink, on Flickr"><img src="http://farm3.static.flickr.com/2225/2490614568_1ace529bd7_m.jpg" width="240" height="240" alt="Pub! (20080512-R0010897.jpg)" /></a>
 

@@ -21,8 +21,7 @@ Node][skills-matter-venue] between Moorgate and Liverpool St. stations, is
 provided by [Skills Matter](http://www.skillsmatter.com).  [Full venue and
 registration details are given below](#september18registration).
 
-Agenda
-------
+## Agenda
 
 We've got three great talks for you in September:
 
@@ -44,8 +43,7 @@ We've got three great talks for you in September:
 
 > Complex SQL queries are inevitable when building a system. However getting results from a complex SQL query doesn’t need to be a slow process and in this talk I’ll show you how you can speed it up using Materialized Views.
 
-Afterwards
-----------
+## Afterwards
 
 We should be done with the talks by 8pm, but there's bound to be plenty
 to talk about after these so if you want to chat to your fellow attendees or

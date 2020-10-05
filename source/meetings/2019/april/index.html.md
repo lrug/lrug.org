@@ -21,8 +21,7 @@ Node][skills-matter-venue] between Moorgate and Liverpool St. stations, is
 provided by [Skills Matter](http://www.skillsmatter.com).  [Full venue and
 registration details are given below](#april19registration).
 
-Agenda
-------
+## Agenda
 
 ## Improve confidence in your code with mutation testing
 
@@ -36,8 +35,7 @@ Agenda
 
 >I'm remaking a classic boxing video game, with a twist: the narrative is defined through the hopes, dreams and desires of the player's opponents, not the player themselves. I'll be talking about flipping enemy design in games on its head, as well as demoing a key part of my boxing game: the trash-talk engine!
 
-Afterwards
-----------
+## Afterwards
 
 We plan to finish around 8pm.  That's not
 the end of the evening though, so if you'd like to socialise with other

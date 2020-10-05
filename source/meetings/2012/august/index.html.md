@@ -16,8 +16,7 @@ hosted_by:
 
 The August 2012 meeting of LRUG will be on *Monday* the 13th of August, from 6:30pm to 8:00pm.  Our hosts [Skills Matter](http://skillsmatter.com/) will be providing the space, at their offices on Goswell Road; [The Skills Matter eXchange](http://skillsmatter.com/location-details/design-architecture/484/96).  <a href="#aug12registration">Registration details are given below</a>.
 
-Agenda
-------
+## Agenda
 
 ### Cut and Polish: Crafting Gems
 
@@ -56,8 +55,7 @@ Agenda
 
 {::coverage year="2012" month="august" talk="nil-points-a-talk-about-nothing-null-undefined-maybe-and-other-ghosts-in-ruby-and-beyond" /}
 
-Pub
----
+## Pub
 
 We have to be out of the venue by 8pm, but we don't stop the meeting then.  We make the short walk to [The Slaughtered Lamb](http://www.theslaughteredlambpub.com/) and continue in more informal surroundings there.  It's a large pub so if you can't make the first part of the meeting there'll be more than enough room for you at this second part.
 

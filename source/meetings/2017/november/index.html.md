@@ -20,8 +20,7 @@ Moorgate and Liverpool St. stations, is provided by [Skills
 Matter](http://www.skillsmatter.com).  [Full venue and registration details are
 given below](#november17registration).
 
-Agenda
-------
+## Agenda
 
 ### OpenPolitics: making policy with open source ideas
 
@@ -53,8 +52,7 @@ Agenda
 > we tried, what works & what doesn't, and how to employ a punny chat
 > bot to help you.
 
-Afterwards
-----------
+## Afterwards
 
 The talks will take us to 8pm or thereabouts.  The end of the talks doesn't
 have to be the end of the evening though.  We suggest you choose one of

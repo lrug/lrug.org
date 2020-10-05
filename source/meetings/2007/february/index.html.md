@@ -14,8 +14,7 @@ hosted_by:
 
 Our next meeting will be on the 12th of February from 6:30pm to 8:00pm and see us return to our usual [Skills Matter](http://skillsmatter.com/) venue at [1 Sekforde St](http://maps.google.co.uk/maps?f=q&hl=en&q=EC1R+0BE&ie=UTF8&z=16&ll=51.523938,-0.104799&spn=0.008571,0.018969&om=1&iwloc=addr).
 
-Agenda
-------
+## Agenda
 
 ### Saving The World With Rails
 
@@ -38,7 +37,7 @@ As a warm up to Richard's talk we've got [Paolo Don&agrave;](http://paolodona.bl
 > presentation raises many questions, and Paolo will give us his point of view and try to stimulate a 
 > discussion around it. 
 
-### Pub
+## Pub
 
 Of course as usual we'll decamp to [the pub round the corner](http://www.fancyapint.com/main_site/thepubs/pub199.html) afterwards for a beer or two.
 

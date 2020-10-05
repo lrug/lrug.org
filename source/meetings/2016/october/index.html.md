@@ -22,8 +22,7 @@ Moorgate and Liverpool St. stations, is provided by [Skills
 Matter](http://www.skillsmatter.com).  [Full venue and registration details
 are given below](#oct16registration).
 
-Agenda
-------
+## Agenda
 
 ### Development Re-bundling in Dockerland
 
@@ -69,8 +68,7 @@ her team got on with mob-programming:
 
 {:coverage year="2016" month="october" talk="rubygems-an-open-source-contribution-story" /}
 
-Afterwards
-----------
+## Afterwards
 
 Our talks will be done by 8:45pm after which you can find LRUG attendees in one
 of these venues:

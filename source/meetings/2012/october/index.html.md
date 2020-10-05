@@ -14,8 +14,7 @@ hosted_by:
 
 The October 2012 meeting of LRUG will be on *Monday* the 8th of October, from 6:30pm to 8:00pm.  Our hosts [Skills Matter](http://skillsmatter.com/) will be providing the space, at their offices on Goswell Road; [The Skills Matter eXchange](http://skillsmatter.com/location-details/design-architecture/484/96).  <a href="#oct12registration">Registration details are given below</a>.
 
-Agenda
-------
+## Agenda
 
 ### Beautiful command-line interface design
 
@@ -39,8 +38,7 @@ Agenda
 
 {::coverage year="2012" month="october" talk="dtrace-ruby" /}
 
-Pub
----
+## Pub
 
 The formal part of the evening is usually done no later than 8pm, but that's not when we go home.  We continue the meeting in a more relaxed setting at [The Slaughtered Lamb](http://www.theslaughteredlambpub.com/).  If you can't make the talks there are usually plenty of rubyists propping up the bar and arguing long into the evening about their preferred hash syntax, so please do come along!
 

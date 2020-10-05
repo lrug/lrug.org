@@ -22,8 +22,7 @@ Moorgate and Liverpool St. stations, is provided by [Skills
 Matter](http://www.skillsmatter.com).  [Full venue and registration details are
 given below](#september17registration).
 
-Agenda
-------
+## Agenda
 
 ### Let Humans Human and Computers Computer - A Tale of Building Effective Automations
 
@@ -56,8 +55,7 @@ Agenda
 > story.
 
 
-Afterwards
-----------
+## Afterwards
 
 The talks will take us to 8pm or thereabouts.  The end of the talks doesn't
 have to be the end of the evening though.  We suggest you choose one of

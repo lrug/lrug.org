@@ -17,8 +17,7 @@ hosted_by:
 
 The March 2014 meeting of LRUG will be on *Monday the 10th of March*, from 6:30pm to 8:00pm.  Our hosts [Skills Matter](http://skillsmatter.com/) will be providing the space, at their offices on Goswell Road; [The Skills Matter eXchange](https://skillsmatter.com/locations/96-skills-matter-exchange).  <a href="#mar14registration">Registration details are given below</a>.
 
-Agenda
-------
+## Agenda
 
 ### Rage against the state machine
 
@@ -71,8 +70,7 @@ You can read a more detailed overview on [a blog post](http://new-bamboo.co.uk/b
 
 {::coverage year="2014" month="march" talk="building-a-soa-network-of-daemons-with-go-ruby-and-zmq" /}
 
-Pub
----
+## Pub
 
 Our talks usually end at 8pm, but that's not when the evening ends.  Most of the attendees head over to [The Slaughtered Lamb](http://www.theslaughteredlambpub.com/) to talk things over; the speakers are usually there too, so you can ask them about their talks if you didn't get a chance during Q&A.  The pub part of the evening open to all, so if you couldn't make the talks, or just don't fancy them, do turn up here!
 

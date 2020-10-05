@@ -14,8 +14,7 @@ hosted_by:
 
 The October 2011 meeting of LRUG will be on *Monday* the 10th of October, from 6:30pm to 8:00pm.  Our hosts [Skills Matter](http://skillsmatter.com/) will be providing the space, at their offices on Goswell Road; [The Skills Matter eXchange](http://skillsmatter.com/location-details/design-architecture/484/96).  It's a great space with plenty of room for the group, but you still need to <a href="#oct11registration">register to let Skills Matter know you are coming</a>.
 
-Agenda
-------
+## Agenda
 
 ### Battleship: Ruby Fight Club
 
@@ -26,8 +25,7 @@ There is more information available on the [mailing list thread where Paul annou
 _UPDATE_ 
 If you have written a player [read this missive from Paul](http://lists.lrug.org/pipermail/chat-lrug.org/2011-October/006510.html) and make sure you are prepared.
 
-Pub
----
+## Pub
 
 We should be done sinking each other's battleships by 8pm.  Those still on speaking terms will make the short trip to [The Slaughtered Lamb](http://www.theslaughteredlambpub.com/), to tell tall tales of maritime success and failure.  If you can't make the battle royale that is the main meeting, feel free to turn up to the pub.
 

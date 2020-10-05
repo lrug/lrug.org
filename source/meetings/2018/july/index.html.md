@@ -23,8 +23,7 @@ Node][skills-matter-venue] between Moorgate and Liverpool St. stations, is
 provided by [Skills Matter](http://www.skillsmatter.com).  [Full venue and
 registration details are given below](#july18registration).
 
-Agenda
-------
+## Agenda
 
 Our July meeting has three fantastic talks:
 
@@ -77,8 +76,7 @@ options.
 
 Thanks, [thoughtbot](https://www.thoughtbot.com/), for supporting us!
 
-Afterwards
-----------
+## Afterwards
 
 The talks will have finished by 8pm.  After that, though, you’ll probably have
 loads to talk about.  If you'd like to chat to the speakers or other attendees

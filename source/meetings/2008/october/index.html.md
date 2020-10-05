@@ -14,8 +14,7 @@ hosted_by:
 
 The next meeting of LRUG will be on Monday the 13th of October, from 6:30pm to 8:00pm.  Our hosts [Skills Matter](http://skillsmatter.com/) will choose the most appropriate venue based on the number of <a href="#oct08registration">registrations</a>.  Going on past meetings it'll be either in [Skills Matter's offices](http://maps.google.co.uk/maps?f=q&hl=en&geocode=&q=skillsmatter+ec1r+0be&ie=UTF8&cid=51524602,-104662,10325109927309711932&s=AARTsJrMIyRGqi5u5rwj683gPacEM_GIrA&ll=51.523297,-0.107889&spn=0.010601,0.018668&z=16&iwloc=A) or their overflow venue [The Old Sessions House](http://www.sessionshouse.com/) on [Clerkenwell Green](http://tinyurl.com/2bjjzz).  Please do <a href="#oct08registration">register your attendance</a> early to help them choose the right venue.
 
-Agenda
-------
+## Agenda
 
 ### Event Stream and LRUG Quiz
 
@@ -27,8 +26,7 @@ in production too.
 Steve will then host the LRUG pub quiz, covering the specialist topics
 of Ruby, Rails and a whole cartload of stuff for geeks to chuckle over.
 
-Pub
----
+## Pub
 
 After the talks we head on over to a local pub, [The Crown Tavern](http://fancyapint.com/pubs/pub199.html), for a thorough debriefing session.  The pub is open to all, so if you can't make the talks for whatever reason, come on down to the pub and get them in early (mine's a Franziskaner, cheers!).
 

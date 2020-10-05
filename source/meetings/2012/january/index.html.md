@@ -14,8 +14,7 @@ hosted_by:
 
 The January 2012 meeting of LRUG will be on *Monday* the 9th of January, from 6:30pm to 8:00pm.  Our hosts [Skills Matter](http://skillsmatter.com/) will be providing the space, at their offices on Goswell Road; [The Skills Matter eXchange](http://skillsmatter.com/location-details/design-architecture/484/96).  It's a great space with plenty of room for the group, but you still need to <a href="#jan12registration">register to let Skills Matter know you are coming</a>.
 
-Agenda
-------
+## Agenda
 
 ### Chris McGrath: I18n
 
@@ -49,8 +48,7 @@ Agenda
 
 {::coverage year="2012" month="january" talk="judge-client-side-form-validation-for-rails-3" /}
 
-Pub
----
+## Pub
 
 The night doesn't end at 8pm after the talks though.  Oh No!.  We're a fun-lovin' gang so we head over to [The Slaughtered Lamb](http://www.theslaughteredlambpub.com/) to have a few drinks and continue the ruby chatter well into the night.  If you can't make the talks you really should come along for the pub.
 

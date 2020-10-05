@@ -21,8 +21,7 @@ Node][skills-matter-venue] between Moorgate and Liverpool St. stations, is
 provided by [Skills Matter](http://www.skillsmatter.com).  [Full venue and
 registration details are given below](#march19registration).
 
-Agenda
-------
+## Agenda
 
 ## RSpec - Level Up
 
@@ -44,8 +43,7 @@ Agenda
 >In your grandparents’ attic you discover a mysterious old computer. You boot it up and discover it runs Ruby, but doesn’t support negative numbers! How can you implement negative numbers in an elegant way? We’ll explore two solutions and discover how important it is to pick the right representation.
 
 
-Afterwards
-----------
+## Afterwards
 
 We plan to finish around 8:30pm.  That's not
 the end of the evening though, so if you'd like to socialise with other

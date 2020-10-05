@@ -14,8 +14,7 @@ hosted_by:
 
 The July 2012 meeting of LRUG will be on *Monday* the 9th of July, from 6:30pm to 8:00pm.  Our hosts [Skills Matter](http://skillsmatter.com/) will be providing the space, at their offices on Goswell Road; [The Skills Matter eXchange](http://skillsmatter.com/location-details/design-architecture/484/96).  <a href="#jul12registration">Registration details are given below</a>.
 
-Agenda
-------
+## Agenda
 
 ### Happier deployments through gradual feature rollout
 
@@ -52,8 +51,7 @@ Agenda
 
 {::coverage year="2012" month="july" talk="what-ruby-can-t-do" /}
 
-Pub
----
+## Pub
 
 The speaker-based part of the meeting finishes at 8pm, but that's not when LRUG finishes.  No!  We head over to [The Slaughtered Lamb](http://www.theslaughteredlambpub.com/) for the chat-based part of the meeting.  Attendance at the first part of the meeting is not required if you just fancy a pint with some ruby geeks.
 

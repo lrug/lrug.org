@@ -20,8 +20,7 @@ hosted_by:
 
 The September meeting will be on *Monday* the 13th of September, from 6:30pm to 8:00pm.  Our hosts [Skills Matter](http://skillsmatter.com/) will be providing the space, at their offices on Goswell Road; [The Skills Matter eXchange](http://skillsmatter.com/location-details/design-architecture/484/96).  It's a great space with plenty of room for the group, but you still need to <a href="#sep10registration">register to let Skills Matter know you are coming</a>.
 
-Agenda
-------
+## Agenda
 
 ### Rails 3 Internals
 
@@ -53,8 +52,7 @@ A video of Alex's talk, filmed by Skills Matter, [is avaialable on the Skills Ma
 
 We start the meetings with announcements for the group.  If there's something you think the group should know, or something you're looking for help with, this is the time to say it.  You don't have to ask for permission, just get up and say your piece.  Just keep it short so you don't eat into the time for the scheduled talks.  In fact if it's longer than a minute, maybe you should think about [doing a longer talk](/speaking/).
 
-Pub
----
+## Pub
 
 When all the talking is over we break ranks and head out for some beer.  Our chosen pub [The Slaughtered Lamb](http://www.theslaughteredlambpub.com/) which is about 5 minutes from the Skills Matter office.  The main meeting finishes around 8pm and you'll find us joslting for service at the bar shortly after.  If you don't think you can make it for the talks, you should come along for the beers, as the talks are really just an excuse for going to the pub afterwards.
 

@@ -34,8 +34,7 @@ Our usual hosts are unavailable for this meeting.  Thankfully [Overleaf](https:/
 
 This venue has strict 100 person capacity and we require attendees to register in advance (for free).  <a href="#jul15registration">Full venue and registration details are given below</a>.
 
-Agenda
-------
+## Agenda
 
 ### LEARNING HOW TO LEARN RUBY (and rails, and sinatra, and ...)
 
@@ -68,8 +67,7 @@ Agenda
 > and some solutions we discovered based on our own experience at
 > SimplyBusiness.
 
-Pub
----
+## Pub
 
 The talks will end at 8pm and we'll head to [The Fellow](http://www.geronimo-inns.co.uk/london-the-fellow) shortly after.  We've reserved the entire first floor, so if you can't make the talks but want to hang out with some rubyists afterwards, head on over and climb the stairs to say "hi".
 

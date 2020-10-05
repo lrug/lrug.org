@@ -19,8 +19,7 @@ hosted_by:
 
 The May 2013 meeting of LRUG will be on *Monday* the 13th of May, from 6:30pm to 8:00pm.  Our hosts [Skills Matter](http://skillsmatter.com/) will be providing the space, at their offices on Goswell Road; [The Skills Matter eXchange](http://skillsmatter.com/location-details/design-architecture/484/96).  <a href="#may13registration">Registration details are given below</a>.
 
-Agenda
-------
+## Agenda
 
 ### DCI with Ruby & Rails
 
@@ -60,8 +59,7 @@ Randy will be sending out instructions on pre-requisites in a few days to [the m
 
 Also, the nice folks at [Team Prime](http://www.team-prime.com/) are providing some drinks during the talks, so there are even more reasons to make it along!  There'll be a range of beers and soft drinks available.
 
-Pub
----
+## Pub
 
 The talks usually finish up around 8pm, but that's not the end of the meeting!  We continue at [The Slaughtered Lamb](http://www.theslaughteredlambpub.com/) which is about 5 minutes away.  Attendance at the talks is not a requirement on coming to the pub, so if you can't make it to them do feel free to turn up afterwards!
 

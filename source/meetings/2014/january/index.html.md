@@ -17,8 +17,7 @@ hosted_by:
 
 The January 2013 meeting of LRUG will be on *Monday the 13th of January*, from 6:30pm to 8:00pm.  Our hosts [Skills Matter](http://skillsmatter.com/) will be providing the space, at their offices on Goswell Road; [The Skills Matter eXchange](http://skillsmatter.com/location-details/design-architecture/484/96).  <a href="#jan14registration">Registration details are given below</a>.
 
-Agenda
-------
+## Agenda
 
 ### API Analytics with Redis and Bigquery
 
@@ -48,8 +47,7 @@ Agenda
 
 {::coverage year="2014" month="january" talk="using-data-tiering-to-squeeze-scale-out-of-sql" /}
 
-Pub
----
+## Pub
 
 We aim to finish the talks by 8pm and continue the evening in more informal surroundings at [The Slaughtered Lamb](http://www.theslaughteredlambpub.com/).  Our speakers are usually in attendance so if you have any questions for them you didn't get a chance to ask at the talks, or just want to thank them for their time this is the perfect place for it.  If you didn't make it in time for the talks, you can also come along just for this part of the evening to talk to your fellow rubyists.
 

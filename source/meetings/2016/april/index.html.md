@@ -17,8 +17,7 @@ hosted_by:
 
 The April 2016 meeting of LRUG will be on *Monday the 11th of April*, from 6:00pm to 8:00pm (talks start at 6:30pm).  The venue, [Code Node](https://skillsmatter.com/locations/264-skills-matter-codenode) between Moorgate and Liverpool St. stations, is provided by [Skills Matter](http://www.skillsmatter.com).  [Full venue and registration details are given below](#apr16registration).
 
-Agenda
-------
+## Agenda
 
 ### JRuby+Truffle: A faster but simpler new Ruby
 
@@ -56,8 +55,7 @@ Agenda
 
 {::coverage year="2016" month="april" talk="continuous-feedback" /}
 
-Afterwards
-----------
+## Afterwards
 
 These talks should end around about 8pm.  The night isn't over at that point though; many other attendees will be hanging around and it's a good chance to chat about things raised in the talks, or just to meet up with other rubyists and discuss what's been going on in the ruby scene.  If you'd like to continue chatting to other attendees you have a choice:
 

@@ -27,8 +27,7 @@ the web.
 that **we will only be sending out the zoom meeting url to people who
 have registered, so please do make sure you do it.**
 
-Agenda
-------
+## Agenda
 
 We've got two talks for you this month.  There's room for one
 more lightning talk so get in touch if you'd like to talk about something for no more than 10 minutes.  We need more
@@ -65,8 +64,7 @@ Panos is a Senior Software Engineer at [Lavanda](https://getlavanda.com/).
 
 {::coverage year="2020" month="june" talk="agile-or-waterfall-a-risk-management-perspective" /}
 
-Afterwards
-----------
+## Afterwards
 
 Last time there was no afterwards, we just stopped the zoom meeting.  That
 felt a bit abrupt, if you've got a good idea of how to replicate the

@@ -20,8 +20,7 @@ Moorgate and Liverpool St. stations, is provided by [Skills
 Matter](http://www.skillsmatter.com).  [Full venue and registration details are
 given below](#december17registration).
 
-Agenda
-------
+## Agenda
 
 ### Everyday cryptography - talking about crypto without complex maths
 
@@ -52,8 +51,7 @@ Agenda
 > Excel(spreadsheet) injection, how they go together and why fighting
 > (accidental) code complexity matters.
 
-Afterwards
-----------
+## Afterwards
 
 We aim to finish up the talks by 8pm and if you'd like to socialise with other
 LRUG attendees afterwards you have two choices:

@@ -14,8 +14,7 @@ hosted_by:
 
 The September 2011 meeting of LRUG will be on *Monday* the 12th of September, from 6:30pm to 8:00pm.  Our hosts [Skills Matter](http://skillsmatter.com/) will be providing the space, at their offices on Goswell Road; [The Skills Matter eXchange](http://skillsmatter.com/location-details/design-architecture/484/96).  It's a great space with plenty of room for the group, but you still need to <a href="#sep11registration">register to let Skills Matter know you are coming</a>.
 
-Agenda
-------
+## Agenda
 
 ### Stories from the e-petitions front-line
 
@@ -31,8 +30,7 @@ Some of the team ([Chris Parsons](http://chrismdp.github.com/), [Jolyon Pawlyn](
 
 If you're interested in filling this slot, [find out what it means](/speaking) and then [get in touch](/mailing-list).
 
-Pub
----
+## Pub
 
 The talks should finish by 8pm and after this we continue the evening in [The Slaughtered Lamb](http://www.theslaughteredlambpub.com/), a short walk from the talk venue.  If you're not interested in the talks, or can't make them for some reason, please do turn up to the pub.  The more the merrier!
 

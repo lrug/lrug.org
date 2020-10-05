@@ -17,8 +17,7 @@ hosted_by:
 
 The December 2014 meeting of LRUG will be on *Monday the 8th of December*, from 6:30pm to 8:00pm.  Our hosts [Skills Matter](http://skillsmatter.com/) will be providing the space, at their offices on Goswell Road; [The Skills Matter eXchange](https://skillsmatter.com/locations/96-skills-matter-exchange).  <a href="#dec14registration">Registration details are given below</a>.
 
-Agenda
-------
+## Agenda
 
 ### Are you sure it's right?
 
@@ -43,8 +42,7 @@ Agenda
 > some of the common pitfalls that you might fall into
 > when using this new major version of RSpec.
 
-Pub
----
+## Pub
 
 That all sounds super-interesting and we'll want to talk it all over together, but we have to be out of Skills Matter by 8pm.  Don't worry though, that doesn't mean the evening is over!  [The Slaughtered Lamb](http://www.theslaughteredlambpub.com/) is a short walk away and has plenty of space for us to have those discussions. No need to register for this bit, if you can't make the talks do feel free to turn up just for the socialising afterwards.
 

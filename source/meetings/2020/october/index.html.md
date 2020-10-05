@@ -26,15 +26,14 @@ the web.
 that **we will only be sending out the zoom meeting url to people who
 have registered, so please do make sure you do it.**
 
-Agenda
-------
+## Agenda
 
 We've got two talks lined up for you this month. We also need more talks
 for the rest of year, and beyond, so please get in touch on
 [talks@lrug.org](mailto:talks@lrug.org) if there's something you'd like to
 say to LRUG.
 
-### JWTs - what Rails developers need to know 
+### JWTs - what Rails developers need to know
 
 [Dan Moore](https://twitter.com/mooreds):
 
@@ -54,8 +53,7 @@ say to LRUG.
 > might not know if you've been out of circulation or are just entering the
 > job market, and help you level up your tech test game.
 
-Afterwards
-----------
+## Afterwards
 
 A few of us usually hang out in the Zoom chat after the meeting. It only really
 works with a handful of people though, so we're still on the lookout for

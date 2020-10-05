@@ -16,8 +16,7 @@ hosted_by:
 
 The April 2012 meeting of LRUG will be on *Tuesday* the 3rd of April, from 6:30pm to 8:00pm.  Our hosts [Skills Matter](http://skillsmatter.com/) will be providing the space, at their offices on Goswell Road; [The Skills Matter eXchange](http://skillsmatter.com/location-details/design-architecture/484/96).  <a href="#apr12registration">Registration details are given below</a>.
 
-Agenda
-------
+## Agenda
 
 ### Demystifying dRuby
 
@@ -50,8 +49,7 @@ Agenda
 
 {::coverage year="2012" month="april" talk="converting-a-rails-project-from-mri-to-jruby" /}
 
-Pub
----
+## Pub
 
 Whatever we end up doing during the formal part of the meeting, we know it has to end by 8pm.  After that we head over to [The Slaughtered Lamb](http://www.theslaughteredlambpub.com/) fore more fun.  Attending the talks isn't mandatory for attendance of the pub, so if you can't make the talks you really should come along for the pub.
 

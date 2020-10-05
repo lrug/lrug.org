@@ -14,8 +14,7 @@ hosted_by:
 
 The November meeting will be on *Monday* the 8th of November, from 6:30pm to 8:00pm.  Our hosts [Skills Matter](http://skillsmatter.com/) will be providing the space, at their offices on Goswell Road; [The Skills Matter eXchange](http://skillsmatter.com/location-details/design-architecture/484/96).  It's a great space with plenty of room for the group, but you still need to <a href="#nov10registration">register to let Skills Matter know you are coming</a>.
 
-Agenda
-------
+## Agenda
 
 ### Priit Tamboon - Using git hooks for staging and production
 
@@ -33,8 +32,7 @@ A video of Kalvir's talk, filmed by Skills Matter, [is available on the Skills M
 
 We start the meetings with short announcements about anything and everything that the group might be interested in.  We announce when people are hiring, we announce new conferences that people might want to attend or present at, we announce interesting blog posts to spark debate in the pub afterwards.  Anything goes really!  You don't have to ask for permission, just get up and say your piece, but keep it quick so you don't run on into the time for the scheduled talks.  In fact if it's longer than a minute, maybe you should think about [doing a longer talk](/speaking/).
 
-Pub
----
+## Pub
 
 At the end of the evening we'll all head on over to [The Slaughtered Lamb](http://www.theslaughteredlambpub.com/) to continue the meeting in more informal surroundings.  The main meeting should finish around 8pm, so you'll find us ordering our drinks at the bar shortly after.  If you don't think you can make it for the workshop you really should think about coming along for drinks later on, as no doubt there'll be lots of interesting chat in the pub.
 

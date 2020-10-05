@@ -24,8 +24,7 @@ Moorgate and Liverpool St. stations, is provided by [Skills
 Matter](http://www.skillsmatter.com).  [Full venue and registration details are
 given below](#august17registration).
 
-Agenda
-------
+## Agenda
 
 ### Let the Cats out of the bag
 
@@ -76,8 +75,7 @@ speak with Ruby on Rails developers looking for their next challenge.
 
 Thanks for supporting us [Nested][]!
 
-Afterwards
-----------
+## Afterwards
 
 The talks will take us to 8pm or thereabouts.  The end of the talks doesn't
 have to be the end of the evening though.  We suggest you choose one of

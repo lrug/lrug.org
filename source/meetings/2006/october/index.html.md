@@ -14,8 +14,7 @@ hosted_by:
 
 Our next meeting will be on Monday October 9, 6:30-8pm. 
 
-Agenda
-------
+## Agenda
 [Robert Brook](http://www.robertbrook.com/) and [Damien Tanner](http://iamrice.org) will both be presenting on different aspects of Domain Specific Languages (DSL).
 
 * Robert will talk about what you (and he) might want DSLs for.

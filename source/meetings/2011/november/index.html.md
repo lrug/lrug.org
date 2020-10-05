@@ -14,8 +14,7 @@ hosted_by:
 
 The November 2011 meeting of LRUG will be on *Monday* the 14th of November, from 6:30pm to 8:00pm.  Our hosts [Skills Matter](http://skillsmatter.com/) will be providing the space, at their offices on Goswell Road; [The Skills Matter eXchange](http://skillsmatter.com/location-details/design-architecture/484/96).  It's a great space with plenty of room for the group, but you still need to <a href="#nov11registration">register to let Skills Matter know you are coming</a>.
 
-Agenda
-------
+## Agenda
 
 ### Transformers: Code Blocks In Disguise
 
@@ -46,8 +45,7 @@ What does it do, and how does it do it? If you know what a macro is, or a contin
 
 {::coverage year="2011" month="november" talk="my-adventures-in-objective-c" /}
 
-Pub
----
+## Pub
 
 We aim to finish up around about 8pm, but that's not the end of the evening.  After the talks we head on over to [The Slaughtered Lamb](http://www.theslaughteredlambpub.com/) for some light refreshment and informal chat.  If you can't make the first part of the meeting, please do feel free to turn up to this second part.
 

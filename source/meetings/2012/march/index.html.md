@@ -14,8 +14,7 @@ hosted_by:
 
 The March 2012 meeting of LRUG will be on *Monday* the 12th of March, from 6:30pm to 8:00pm.  Our hosts [Skills Matter](http://skillsmatter.com/) will be providing the space, at their offices on Goswell Road; [The Skills Matter eXchange](http://skillsmatter.com/location-details/design-architecture/484/96).  <a href="#mar12registration">Registration details are given below</a>.
 
-Agenda
-------
+## Agenda
 
 ### TDD Fishbowl
 
@@ -36,8 +35,7 @@ The initial panel will be:
 
 {::coverage year="2012" month="march" talk="tdd-fishbowl-session" /}
 
-Pub
----
+## Pub
 
 It'll probably be a lively debate, and we'll want to carry on after 8pm.  We do this by heading over to [The Slaughtered Lamb](http://www.theslaughteredlambpub.com/) where we can continue in more informal settings.  If you can't make the talks you really should come along for the pub.
 

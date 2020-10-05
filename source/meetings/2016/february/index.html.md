@@ -17,8 +17,7 @@ hosted_by:
 
 The February 2016 meeting of LRUG will be on *Monday the 8th of February*, from 6:00pm to 8:00pm (talks start at 6:30pm).  The venue, [Code Node](https://skillsmatter.com/locations/264-skills-matter-codenode) between Moorgate and Liverpool St. stations, is provided by [Skills Matter](http://www.skillsmatter.com).  [Full venue and registration details are given below](#feb16registration).
 
-Agenda
-------
+## Agenda
 
 Once again our February meeting is given over to lightning talks of no more than 10 minutes.  This year we have:
 
@@ -96,8 +95,7 @@ Once again our February meeting is given over to lightning talks of no more than
 
 {::coverage year="2016" month="february" talk="automatic-differentiation-in-ruby" /}
 
-Pub
----
+## Pub
 
 There's bound to be something to talk about after all those talks and we now have two options for winding down the evening and chatting to other LRUG attendees:
 

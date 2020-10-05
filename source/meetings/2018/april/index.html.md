@@ -21,8 +21,7 @@ Node][skills-matter-venue] between Moorgate and Liverpool St. stations,
 is provided by [Skills Matter](http://www.skillsmatter.com).  [Full venue
 and registration details are given below](#april18registration).
 
-Agenda
-------
+## Agenda
 
 ### You’re doing documentation wrong (and so am I)
 
@@ -52,8 +51,7 @@ Agenda
 > Enumerators to scale millions of background jobs at Shopify and how it
 > influenced the way developers think when writing resilient code.
 
-Drinks Sponsor
---------------
+## Drinks Sponsor
 
 {::sponsor name="Explore" size="main" /}
 
@@ -68,8 +66,7 @@ with Ruby on Rails developers looking for their next challenge.
 
 Thanks for supporting us [The Explore Group](https://www.explore-group.com/)!
 
-Afterwards
-----------
+## Afterwards
 
 Our aim is to finish the talks by 8pm. The night doesn't have to end there
 though, to continue hanging out with other LRUG attendees you can visit:

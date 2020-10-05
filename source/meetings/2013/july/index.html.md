@@ -19,8 +19,7 @@ hosted_by:
 
 The July 2013 meeting of LRUG will be on *Monday* the 15th of July, from 6:30pm to 8:00pm.  Our hosts [Skills Matter](http://skillsmatter.com/) will be providing the space, at their offices on Goswell Road; [The Skills Matter eXchange](http://skillsmatter.com/location-details/design-architecture/484/96).  <a href="#jul13registration">Registration details are given below</a>.
 
-Agenda
-------
+## Agenda
 
 ### The reluctant Chef
 
@@ -71,8 +70,7 @@ Agenda
 
 The nice folks at [Workshare](http://www.workshare.com/) have arranged to have some drinks made available *during* the meeting, so it's an even better idea than usual to <a href="#jul13registration">register your attendance</a> and secure your place!
 
-Pub
----
+## Pub
 
 Our talks finish up no later than 8pm, but that's not the end of the evening.  Most of us wander over to [The Slaughtered Lamb](http://www.theslaughteredlambpub.com/) to have a chat.  You don't have to attend the talks to turn up for the pub, so please do come along!
 

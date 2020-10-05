@@ -20,8 +20,7 @@ hosted_by:
 
 The February meeting will be on Wednesday the 10th of February, from 6:30pm to 8:00pm.  Our hosts [Skills Matter](http://skillsmatter.com/) will be providing the space, at their new offices on Goswell Road; [The Skills Matter eXchange](http://skillsmatter.com/location-details/design-architecture/484/96).  It's a great new space and we there won't be the problems we've had in the past with fitting people in, but you should still <a href="#feb10registration">register early</a> to let Skills Matter know you are coming.
 
-Agenda
-------
+## Agenda
 
 ### Lightning talks!
 
@@ -111,8 +110,7 @@ The current line-up of 20x20-ers is as follows:
 
 Depending on how many lighning talks there are, we may have time at the start of the meeting for 10-15 minutes of free time for anyone to speak.  You don't need to ask for permission or let us know in advance that you have something to say here, just turn up, stand up and say it!  It's a forum for announcements, or pleas for help, or a soapbox for starting discussions.  Just remember not to run on for too long as there's probably other people that want to say something too (it would also be embarrassing if you ran on for longer than our scheduled lightning talks!).
 
-Pub
----
+## Pub
 
 The meeting will finish around 8pm and we'll be in a local pub shortly thereafter.  The pub we tried after the last meeting was [The Slaughtered Lamb](http://www.theslaughteredlambpub.com/) which is about 5 minutes walk from Skills Matter's new office.  If you can't make it for the main meeting consider, coming along as an advance guard to the pub and securing us some tables.
 

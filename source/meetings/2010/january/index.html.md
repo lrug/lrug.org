@@ -20,8 +20,7 @@ hosted_by:
 
 The first meeting of LRUG in 2010 will be on Wednesday the 13th of January, from 6:30pm to 8:00pm.  Our hosts [Skills Matter](http://skillsmatter.com/) will be providing the space, at their new offices on Goswell Road; [The Skills Matter eXchange](http://skillsmatter.com/location-details/design-architecture/484/96).  It's a bright new space and we shouldn't have any problems with fitting people in, but you should still <a href="#jan10registration">register your attendance early</a> to let Skills Matter know you are coming.
 
-Agenda
-------
+## Agenda
 
 ### <strike>Symbol vs. String</strike>
 
@@ -59,8 +58,7 @@ A video of Daniel's talk is available on the [Skills Matter site](http://skillsm
 
 We'll start the meeting with 10-15 minutes of free time for anyone to speak.  You don't need to ask for permission or let us know in advance that you have something to say here, just turn up, stand up and say it!  It's a forum for announcements, or pleas for help, or a soapbox for starting discussions.  Just remember not to run on for too long as there's probably other people that want to say something too.
 
-Pub
----
+## Pub
 
 We aim to finish up the meeting by 8pm, after which we mosey on down to ... well ... we're not sure.   Skills Matter's new office isn't close to our old preferred pub, so we're going to have to find a new one.  We've organised a special [LRUG Nights](/nights) to do just that.  Watch this space to find out what pub we choose (or come along on the 6th to help us choose!).  Regardless of what pub we choose, if for any reason you can't make the talks it's fine to come along just for the pub part of the meeting.
 

@@ -16,8 +16,7 @@ hosted_by:
 
 The next meeting of LRUG will be on Monday the 14th of April, from 6:30pm to 8:00pm, in the [Skills Matter](http://www.skillsmatter.com/) overflow venue [The Old Sessions House](http://www.sessionshouse.com/) on [Clerkenwell Green](http://tinyurl.com/2bjjzz).  However, depending on numbers (see the note about <a href="#apr08registration">registration</a> below) we might move to a larger venue.
 
-Agenda
-------
+## Agenda
 
 A video of the meeting, filmed by Skills Matter, is [available on Google video](http://video.google.com/videoplay?docid=-2485256619067067324) (or [the Skills Matter site](http://skillsmatter.com/podcast/ajax-ria/demos-soup-vanilla-rak-juggernaut-doodle-and-more)).
 
@@ -40,8 +39,7 @@ Some people that have volunteered so far:
 
 There's plenty of room for more stuff, so [get in touch](/mailing-list) to volunteer something.
 
-Pub
----
+## Pub
 
 <a href="http://www.flickr.com/photos/snowblink/2420966405/" title="Chris and Dale (20080414-R0010629.jpg) by snowblink, on Flickr"><img src="http://farm3.static.flickr.com/2058/2420966405_19be44809e_m.jpg" width="240" height="240" alt="Chris and Dale (20080414-R0010629.jpg)" /></a>
 

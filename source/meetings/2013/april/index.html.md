@@ -17,8 +17,7 @@ hosted_by:
 
 The April 2013 meeting of LRUG will be on *Monday* the 8th of April, from 6:30pm to 8:00pm.  Our hosts [Skills Matter](http://skillsmatter.com/) will be providing the space, at their offices on Goswell Road; [The Skills Matter eXchange](http://skillsmatter.com/location-details/design-architecture/484/96).  <a href="#apr13registration">Registration details are given below</a>.
 
-Agenda
-------
+## Agenda
 
 ### Better security for your web applications
 
@@ -55,8 +54,7 @@ There's a longer write up on the [Ruby Manor 4 vestibule](http://vestibule.rubym
 
 {::coverage year="2013" month="april" talk="say-hello-to-padrino" /}
 
-Pub
----
+## Pub
 
 After the talks we head over to [The Slaughtered Lamb](http://www.theslaughteredlambpub.com/) for a drink or two and the opportunity to chat.  If you're unlucky enough to be unable to make the talks, you are more than welcome at the bar.
 

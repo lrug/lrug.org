@@ -23,8 +23,7 @@ The December 2015 meeting of LRUG will be on *Monday the 14th of December*, from
 
 [Skills Matter](http://www.skillsmatter.com) are our hosts and have recently moved to [Code Node](https://skillsmatter.com/locations/264-skills-matter-codenode) a great new venue between Moorgate and Liverpool St. stations.  [Full venue and registration details are given below](#dec15registration).
 
-Agenda
-------
+## Agenda
 
 ### Festive `CodeWarsJam`
 
@@ -48,8 +47,7 @@ Agenda
 
 The organisers of [Beyond](http://beyondconf.co/), a conference aimed at junior developers in London on 23rd November, have provided a pair of free tickets for 1 lucky LRUG member and a discount code for £90 off the ticket price for everyone else.  The tickets were be raffled off on our [mailing list](/mailing-list) with the winners contacted on Friday 13th November.  Thanks [Beyond](http://beyondconf.co/) organisers!
 
-Pub
----
+## Pub
 
 We'll be CodeWarsJam-ing until 8pm after which we'll close our laptops and seek out some food and drink.  Our preferred local haunt is:
 

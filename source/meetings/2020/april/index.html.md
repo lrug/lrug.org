@@ -34,8 +34,7 @@ The good news is that we've done some testing and we think we can hold a decent 
 
 [Full registration details are given below](#apr20registration). **We will only be sending out joining details to people who have registered, so please do make sure you do it.**
 
-Agenda
-------
+## Agenda
 
 ### Food & Drinks
 
@@ -72,8 +71,7 @@ We've got two talks for you in April; we've got room for a third, and we despera
 
 {::coverage year="2020" month="april" talk="music-experiments-in-sonic-pi" /}
 
-Afterwards
-----------
+## Afterwards
 
 Afterwards... well, that's a good question. Obviously there's no pub, but we invite you instead to conjure up the image of a gently roaring fire, and perhaps to open a beer or other beverage while holding that image in your mind, and then think to yourself that it's really a wonder to be alive at all, even in strange times such as these, and really doesn't it demonstrate how much we all rely on each other, on our neighbours and colleagues and friends, and _gosh darn it_ we shouldn't forget that when this is all over, that we truly do _need_ each other, and we shouldn't take each other for granted, and dammit Billy I just gotta say it that _I love you dude_, I know I shoulda said it before all this, but I want to say it now so you know, you're a good friend Billy, you really are, and thanks for being there for me.
 

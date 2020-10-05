@@ -14,8 +14,7 @@ hosted_by:
 
 The May 2011 meeting of LRUG will be on *Monday* the 9th of May, from 6:30pm to 8:00pm.  Our hosts [Skills Matter](http://skillsmatter.com/) will be providing the space, at their offices on Goswell Road; [The Skills Matter eXchange](http://skillsmatter.com/location-details/design-architecture/484/96).  It's a great space with plenty of room for the group, but you still need to <a href="#may11registration">register to let Skills Matter know you are coming</a>.
 
-Agenda
-------
+## Agenda
 
 ### Andrew McDonough : Ruby Golf
 
@@ -45,8 +44,7 @@ Note: This is going to be a full evening of practical activity.  We'll break up 
 
 {::coverage year="2011" month="may" talk="ruby-golf" /}
 
-Pub
----
+## Pub
 
 After all this golfing we'll make the short trip to [The Slaughtered Lamb](http://www.theslaughteredlambpub.com/) for our 19th hole.  We normally finish up the meetings at around 8pm, and are in the bar by 8:05pm.  If you can't make the main meeting (but you really should try, it'll be a great way to flex your ruby muscles and learn about short-cuts you never knew existed) don't feel like you can't come along just for the pub part; you'd be more than welcome.
 

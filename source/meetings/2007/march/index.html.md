@@ -14,6 +14,8 @@ hosted_by:
 
 Our next will be on March 12th, from 6:30pm to 8:00pm at our usual [Skills Matter](http://www.skillsmatter.com/) venue at [1 Sekforde St.](http://maps.google.co.uk/maps?f=q&hl=en&q=EC1R+0BE&layer=&ie=UTF8&z=16&om=1&iwloc=addr)
 
+## Agenda
+
 As part of Monday's meeting [Tom Ward](mailto:tom@popdog.net) is going to help lead a code review. We'll look at some sections of ruby, and open the floor for comments, questions and constructive criticism.  Hopefully it will get everyone thinking, and help share knowledge across the group.  For it to work though, what we need is code!
 
 Here are some examples of things we're looking for:

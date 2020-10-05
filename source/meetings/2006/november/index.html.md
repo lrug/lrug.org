@@ -14,8 +14,7 @@ hosted_by:
 
 Our next meeting will be on Monday November 13, 6:30-8pm. We've got two great speakers lined up.
 
-Agenda
-------
+## Agenda
 
 ### Ten Things I Hate About Rails
 

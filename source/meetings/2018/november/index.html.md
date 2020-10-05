@@ -23,8 +23,7 @@ Node][skills-matter-venue] between Moorgate and Liverpool St. stations, is
 provided by [Skills Matter](http://www.skillsmatter.com).  [Full venue and
 registration details are given below](#november18registration).
 
-Agenda
-------
+## Agenda
 
 ## Open Banking - From Scraping to APIs
 
@@ -67,8 +66,7 @@ There should be plenty, but turn up early if you want to make sure you get some.
 
 Thanks again to [GitHub](https://github.com/) for supporting us!
 
-Afterwards
-----------
+## Afterwards
 
 We aim to finish up the talks by 8pm.  This doesn't mean you have to go home
 though, if you're keen to talk about what you've just heard, or just mingle with

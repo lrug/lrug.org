@@ -19,8 +19,7 @@ hosted_by:
 
 The March 2013 meeting of LRUG will be on *Monday* the 11th of March, from 6:30pm to 8:00pm.  Our hosts [Skills Matter](http://skillsmatter.com/) will be providing the space, at their offices on Goswell Road; [The Skills Matter eXchange](http://skillsmatter.com/location-details/design-architecture/484/96).  <a href="#mar13registration">Registration details are given below</a>.
 
-Agenda
-------
+## Agenda
 
 ### deliver
 
@@ -48,8 +47,7 @@ Agenda
 
 {::coverage year="2013" month="march" talk="passing-on-our-skills-to-the-next-generation" /}
 
-Pub
----
+## Pub
 
 We're a friendly bunch, so if you don't make it to the talks you can still join us for a drink afterwards.  The talks normally finish up by 8pm and you can find us crowding the bar at [The Slaughtered Lamb](http://www.theslaughteredlambpub.com/) shortly after.
 

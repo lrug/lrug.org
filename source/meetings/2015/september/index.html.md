@@ -33,8 +33,7 @@ The September 2015 meeting of LRUG will be on *Monday the 14th of September*, fr
 
 We're back with our usual hosts, [Skills Matter](http://www.skillsmatter.com), but it's in their new [Code Node venue](https://skillsmatter.com/locations/264-skills-matter-codenode) between Moorgate and Liverpool St. stations.  [Full venue and registration details are given below](#sep15registration).
 
-Agenda
-------
+## Agenda
 
 ### A pull request slackbot : the seal
 
@@ -81,8 +80,7 @@ The organisers of [All Your Base](http://allyourbaseconf.com/2015/), a data and 
 
 The nice folk at [Braintree Payments](http://braintreepayments.com/) got in touch to provide us with two 1-day passes for [FOWA London 2015](https://www.google.com/url?q=https://futureofwebapps.com/london-2015/&sa=D&usg=AFQjCNFk7OQF0n8x7h7KsPZ4NqZEvJtDXw), a web and frontend conference in London on 5-7th October.  They also provided a 20% discount code for those too unlucky to win one of the passes.  The tickets will be raffled off on our [mailing list](/mailing-list) with the winners contacted on Monday 14th September.  Thanks [Braintree Payments](http://braintreepayments.com/)!
 
-Pub
----
+## Pub
 
 After the talks we continue the meeting at a nearby pub.  We're still trying out the local pubs to see which one will suit us the best.  This time we're going to try out Singer Tavern:
 

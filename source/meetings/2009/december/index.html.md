@@ -20,8 +20,7 @@ hosted_by:
 
 The next meeting of LRUG will be on Wednesday the 9th of December, from 6:30pm to 8:00pm.  Our hosts [Skills Matter](http://skillsmatter.com/) will provide the space, at our new venue [The Crypt](http://skillsmatter.com/location-details/home/166/26) (it's very close to our previous venues).  Despite the new venue it's still important for people to <a href="#dec09registration">register</a> so Skills Matter know how many people to expect and set the room up correctly.
 
-Agenda
-------
+## Agenda
 
 ### DDD (Domain Driven Design)
 
@@ -49,8 +48,7 @@ A video of Rob's talk can be found on the [Skills Matter site](http://skillsmatt
 
 At the start of each meeting we have 10-15 minutes set aside for anyone in the room to speak.  It's run "open" style, so you don't need to ask for permission, just stand up and say something.  In the past we've had new site announcements, gem demos, new framework announcements, overviews of recent conferences; basically anything you might post a link to on something like [Ruby Flow](http://rubyflow.com), you should think about mentioning here.
 
-Pub
----
+## Pub
 
 We aim to finish up the meeting by 8pm, after which we mosey on down to [The Crown Tavern](http://fancyapint.com/pubs/pub199.html) to continue the evening.  If for any reason you can't make the talks feel free to come along to the pub and mix with your fellow rubyists.  In fact, if you get there early, you can get the first drinks in!
 

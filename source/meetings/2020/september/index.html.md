@@ -26,8 +26,7 @@ the web.
 that **we will only be sending out the zoom meeting url to people who
 have registered, so please do make sure you do it.**
 
-Agenda
-------
+## Agenda
 
 We've got two talks lined up for you this month. We also need more talks
 for the rest of year, and beyond, so please get in touch on
@@ -53,8 +52,7 @@ say to LRUG.
 
 {::coverage year="2020" month="september" talk="wizards-without-magic" /}
 
-Afterwards
-----------
+## Afterwards
 
 It's not quite hanging our of drinks and food in a local pub, but a few
 of us usally hang out in the Zoom chat after the meeting to chat.  It only

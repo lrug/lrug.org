@@ -22,8 +22,7 @@ Moorgate and Liverpool St. stations, is provided by [Skills
 Matter](http://www.skillsmatter.com).  [Full venue and registration details are
 given below](#feb17registration).
 
-Agenda
-------
+## Agenda
 
 As is traditional, our February meeting consists entirely of lightning talks of
 no more than 10 minutes.  This year we have:
@@ -96,8 +95,7 @@ Rosa has had to cancel due to illness, we hope to reschedule her talk for a late
 > how this might make your code clearer and easier to test. Slightly
 > inspired by getting more into functional programming languages.
 
-Afterwards
-----------
+## Afterwards
 
 We aim to finish up the talks and formal part of the meeting by 8pm, but that
 doesn't mean you have to go home.  There's bound to be something to talk about

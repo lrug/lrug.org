@@ -16,8 +16,7 @@ hosted_by:
 
 The next meeting of LRUG will be on Monday the 8th of December, from 6:30pm to 8:00pm.  Our hosts [Skills Matter](http://skillsmatter.com/) have provided their overflow venue [The Old Sessions House](http://www.sessionshouse.com/) on [Clerkenwell Green](http://tinyurl.com/5qfpkc) for this meeting because of the number of <a href="#dec08registration">registrations</a>.  They still want you to <a href="#dec08registration">register your attendance</a> though, so you can be let into the venue.
 
-Agenda
-------
+## Agenda
 
 ### Javascript Testing
 
@@ -35,8 +34,7 @@ A video of Chris's talk, filmed by [Skills Matter](http://skillsmatter.com/podca
 
 A video of Matthew's talk, filmed by [Skills Matter](http://skillsmatter.com/podcast/ajax-ria/ruby-vs-the-world) is available on [Google Video](http://video.google.com/videoplay?docid=134589307988772388&hl=en).
 
-Pub
----
+## Pub
 
 At the end of all things, one fact will be carved upon the smouldering husk that was once this earth.  That fact shall read:
 

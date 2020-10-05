@@ -24,8 +24,7 @@ Moorgate and Liverpool St. stations, is provided by [Skills
 Matter](http://www.skillsmatter.com).  [Full venue and registration details are
 given below](#june17registration).
 
-Agenda
-------
+## Agenda
 
 ### This Code Sucks — A Story About Nonviolent Programming
 
@@ -63,8 +62,7 @@ challenge.
 
 Thanks for supporting us [BookingBug](https://www.bookingbug.co.uk/)!
 
-Afterwards
-----------
+## Afterwards
 
 The talks should be finished by 8pm. After that, you’ve got two main options if
 you want to keep chatting to other LRUG attendees:

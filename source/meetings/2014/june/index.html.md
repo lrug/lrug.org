@@ -17,8 +17,7 @@ hosted_by:
 
 The June 2014 meeting of LRUG will be on *Monday the 9th of June*, from 6:30pm to 8:00pm.  Our hosts [Skills Matter](http://skillsmatter.com/) will be providing the space, at their offices on Goswell Road; [The Skills Matter eXchange](https://skillsmatter.com/locations/96-skills-matter-exchange).  <a href="#jun14registration">Registration details are given below</a>.
 
-Agenda
-------
+## Agenda
 
 ### Patterns & Antipatterns in Teaching
 
@@ -54,8 +53,7 @@ Agenda
 
 {::coverage year="2014" month="june" talk="adventures-with-data-structures-and-algorithms" /}
 
-Pub
----
+## Pub
 
 We have to leave Skills Matter's offices by 8pm so we continue the meeting in a nearby pub, [The Slaughtered Lamb](http://www.theslaughteredlambpub.com/).  This is a great opportunity to chat to the speakers and other group members; even if you can't make it for the talks earlier in the evening.
 

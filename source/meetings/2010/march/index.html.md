@@ -20,8 +20,7 @@ hosted_by:
 
 The March meeting will be on Wednesday the 10th of March, from 6:30pm to 8:00pm.  Our hosts [Skills Matter](http://skillsmatter.com/) will be providing the space, at their new offices on Goswell Road; [The Skills Matter eXchange](http://skillsmatter.com/location-details/design-architecture/484/96).  It's a great new space and we there won't be the problems we've had in the past with fitting people in, but you still need to <a href="#mar10registration">register to let Skills Matter know you are coming</a>.
 
-Agenda
-------
+## Agenda
 
 ### Software Craftsmanship
 
@@ -51,8 +50,7 @@ Videos of [Chris's talk](http://skillsmatter.com/podcast/agile-scrum/chris-parso
 
 After the hiatus in February, the analogue blog will return at the start of this meeting.  There'll be about 10-15 minutes available for anyone to get up and say something to the group.  It's a open forum for the local community to speak to each other, maybe to announce a newly released gem or library, maybe to ask the rest of the group for some help, or to suggest a theme for a future meeting.  The only rule is that you shouldn't go on for too long as there are other people that want to say something too.
 
-Pub
----
+## Pub
 
 After the meeting we head on over to [The Slaughtered Lamb](http://www.theslaughteredlambpub.com/) which is about 5 minutes walk from the Skills Matter eXchange.  If you can't make it to the meeting, we usually finish up at about 8pm if you want to head along for just the pub bit.
 

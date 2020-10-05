@@ -17,8 +17,7 @@ hosted_by:
 
 The July 2014 meeting of LRUG will be on *Monday the 14th of July*, from 6:30pm to 8:00pm.  Our hosts [Skills Matter](http://skillsmatter.com/) will be providing the space, at their offices on Goswell Road; [The Skills Matter eXchange](https://skillsmatter.com/locations/96-skills-matter-exchange).  <a href="#jul14registration">Registration details are given below</a>.
 
-Agenda
-------
+## Agenda
 
 ### Continuous Deliverance - set your development free
 
@@ -61,8 +60,7 @@ Agenda
 
 {::coverage year="2014" month="july" talk="becoming-a-developer-codebar" /}
 
-Pub
----
+## Pub
 
 Our talks finish up around 8pm and you can find us crowding [The Slaughtered Lamb](http://www.theslaughteredlambpub.com/) by about 8:10pm.  We're a friendly group and this part of the evening is the perfect time to talk to the speakers and other attendees about the talks or other goings-on in the wider Ruby world.  If you didn't make the talks you're still welcome to come along for this pub bit!
 

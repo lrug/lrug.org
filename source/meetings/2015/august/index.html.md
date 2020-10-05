@@ -33,8 +33,7 @@ The August 2015 meeting of LRUG will be on *Monday the 10th of August*, from 6:0
 
 We're back with our usual hosts, [Skills Matter](http://www.skillsmatter.com), but it's in their new [Code Node venue](https://skillsmatter.com/locations/264-skills-matter-codenode) between Moorgate and Liverpool St. stations.  [Full venue and registration details are given below](#aug15registration).
 
-Agenda
-------
+## Agenda
 
 ### Hello, declarative world
 
@@ -81,8 +80,7 @@ Agenda
 
 The organisers of [container.camp](http://container.camp), a conference about software virtualization to be held in London on 11th September, were kind enough to get in touch and provide a free ticket to their conference and a discount code for everyone.  The ticket was raffled off on our [mailing list](/mailing-list) with the winners contacted on Friday 7th August.  Thanks [container.camp](http://container.camp) organisers!
 
-Pub
----
+## Pub
 
 The talks will end at 8pm and we'll head to a local pub.  As it's a new venue we don't know which one will best accomodate us so we're going to try out Finch's Pub:
 

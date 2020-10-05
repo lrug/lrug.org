@@ -27,8 +27,7 @@ Moorgate and Liverpool St. stations, is provided by [Skills
 Matter](http://www.skillsmatter.com).  [Full venue and registration details
 are given below](#nov16registration).
 
-Agenda
-------
+## Agenda
 
 ### The invisible cost of code
 
@@ -73,8 +72,7 @@ looking to hire ruby devs, if you're interested they'll help you relocate.
 
 Thanks for supporting us [Cogent](http://cogent.co)!
 
-Afterwards
-----------
+## Afterwards
 
 The talks part of the meeting ends around 8:00pm.  If you'd like to continue the
 evening you have a choice of where to go next:

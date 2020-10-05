@@ -27,8 +27,7 @@ the web.
 that **we will only be sending out the zoom meeting url to people who
 have registered, so please do make sure you do it.**
 
-Agenda
-------
+## Agenda
 
 We've got two talks for you in May so far.  There's room for at least one
 more mid-length talk, or a couple of short ones.  We constantly need more
@@ -68,8 +67,7 @@ if there's something you'd like to say to LRUG
 
 {::coverage year="2020" month="may" talk="debugging-ruby-http-library-surprises" /}
 
-Afterwards
-----------
+## Afterwards
 
 Last time there was no afterwards, we just stopped the zoom meeting.  That
 felt a bit abrupt, if you've got a good idea of how to replicate the

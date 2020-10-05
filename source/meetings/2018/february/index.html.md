@@ -21,8 +21,7 @@ Node](skills-matter-venue) between Moorgate and Liverpool St. stations, is
 provided by [Skills Matter](http://www.skillsmatter.com).  [Full venue and
 registration details are given below](#feb18registration).
 
-Agenda
-------
+## Agenda
 
 In February we devote our whole evening to lightning talks of no more than 10
 minutes.  This year our talks are:
@@ -103,8 +102,7 @@ minutes.  This year our talks are:
 > It turns out Git has a cool feature that can help us trust the code we deploy.
 > We'll discuss Git Commit Signing, how it can help us, and what downsides it may have.
 
-Afterwards
-----------
+## Afterwards
 
 We should be done with the talks by 8pm, but there's bound to be plenty
 to talk about after these so if you want to chat to your fellow attendees or

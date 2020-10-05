@@ -21,8 +21,7 @@ Node][skills-matter-venue] between Moorgate and Liverpool St. stations, is
 provided by [Skills Matter](http://www.skillsmatter.com).  [Full venue and
 registration details are given below](#august18registration).
 
-Agenda
-------
+## Agenda
 
 We've got three great talks for you in August:
 
@@ -45,8 +44,7 @@ We've got three great talks for you in August:
 > A lot of real problems can be described by a collection of mathematical equations. From sudoku to dependency resolution to verifying correctness of processors and cryptographic protocols.
 > [Z3](https://github.com/taw/z3) is a very powerful solver for such problems, and an elegant Ruby DSL is a great interface to it.
 
-Afterwards
-----------
+## Afterwards
 
 We should be done with the talks by 8pm, but there's bound to be plenty
 to talk about after these so if you want to chat to your fellow attendees or

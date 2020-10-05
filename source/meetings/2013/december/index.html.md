@@ -17,8 +17,7 @@ hosted_by:
 
 The December 2013 meeting of LRUG will be on *Monday the 9th of December*, from 6:30pm to 8:00pm.  Our hosts [Skills Matter](http://skillsmatter.com/) will be providing the space, at their offices on Goswell Road; [The Skills Matter eXchange](http://skillsmatter.com/location-details/design-architecture/484/96).  <a href="#dec13registration">Registration details are given below</a>.
 
-Agenda
-------
+## Agenda
 
 ### The solution to assets management in Rails
 
@@ -68,8 +67,7 @@ Agenda
 
 {::coverage year="2013" month="december" talk="a-fizzbuzz-to-rule-them-all" /}
 
-Pub
----
+## Pub
 
 The talks end at around 8pm, but you'll find many attendees will continue the meeting by heading to [The Slaughtered Lamb](http://www.theslaughteredlambpub.com/).  This is a great place to grab a bite to eat and a drink and discuss the talks with the rest of the attendees and the speakers.  If you can't make the talks, do feel free to just turn up straight at the pub.
 

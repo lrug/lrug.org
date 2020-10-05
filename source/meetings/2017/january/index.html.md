@@ -22,8 +22,7 @@ Moorgate and Liverpool St. stations, is provided by [Skills
 Matter](http://www.skillsmatter.com).  [Full venue and registration details
 are given below](#jan17registration).
 
-Agenda
-------
+## Agenda
 
 ### A developer's misadventures in business
 
@@ -43,8 +42,7 @@ Agenda
 > assess connascence and I'll suggest how using the metric can help you improve
 > the quality of your code.
 
-Afterwards
-----------
+## Afterwards
 
 We aim to finish up the talks and formal part of the meeting by 8pm, but that
 doesn't mean you have to go home.  Even if you are observing a January detox

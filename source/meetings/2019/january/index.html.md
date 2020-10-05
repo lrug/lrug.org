@@ -20,8 +20,7 @@ Moorgate and Liverpool St. stations, is provided by [Skills
 Matter](http://www.skillsmatter.com).  [Full venue and registration details are
 given below](#january19registration).
 
-Agenda
-------
+## Agenda
 
 ### Ruby Golf!
 
@@ -52,8 +51,7 @@ Some quick tips to get you going:
 
 There are no official prizes, just bragging rights in the pub afterwards. Speaking of...
 
-Afterwards
-----------
+## Afterwards
 
 We aim to finish by 8pm (although it may over-run depending on how much fun we're having!).
 

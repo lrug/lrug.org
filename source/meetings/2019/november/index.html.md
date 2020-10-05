@@ -16,8 +16,7 @@ hosted_by:
 
 ---
 
-Change of venue!
-------
+## Change of venue!
 
 We received the sad news today that Skills Matter has gone into administration and all meet-ups and conferences have been cancelled with immediate effect.
 
@@ -28,8 +27,7 @@ from _6:00pm_ to _8:00pm_ (meeting starts at _6:30pm_).  The venue, [FT][ft-venu
 provided by the [FT](https://subs.ft.com/spa3_bc1).  [Full venue and
 registration details are given below](#nov19registration).
 
-Agenda
-------
+## Agenda
 
 ### Call the Cops: Bringing style to a lawless codebase
 
@@ -52,8 +50,7 @@ Agenda
 > the process, we found some very counter-intuitive performance results that I'd
 > like to share with you.
 
-Afterwards
-----------
+## Afterwards
 We're hoping to find a nearby pub for socialising after the talks (which should be wrapped up by 8pm) - suggestions welcome!
 
 Of course, even though this is the socialising part and seems more

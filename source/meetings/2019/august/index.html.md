@@ -21,8 +21,7 @@ Node][skills-matter-venue] between Moorgate and Liverpool St. stations, is
 provided by [Skills Matter](http://www.skillsmatter.com).  [Full venue and
 registration details are given below](#aug19registration).
 
-Agenda
-------
+## Agenda
 
 ### Spree Commerce: How to run an eCommerce platform?
 
@@ -51,8 +50,7 @@ Agenda
 > In this talk we'll talk you through 10 things that you could use, copy
 > or learn from GOV.UK 's public GitHub repos.
 
-Afterwards
-----------
+## Afterwards
 
 This should all finish by 8pm, at which point we break out of the
 classroom and offer you a choice for continuing the evening with your

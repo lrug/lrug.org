@@ -21,8 +21,7 @@ Node][skills-matter-venue] between Moorgate and Liverpool St. stations, is
 provided by [Skills Matter](http://www.skillsmatter.com).  [Full venue and
 registration details are given below](#december18registration).
 
-Agenda
-------
+## Agenda
 
 ## The Case of the Missing Method — A Ruby Mystery Story
 
@@ -57,8 +56,7 @@ Agenda
 > about these topics and more in this lightning talk about testing with
 > Capybara & Chrome
 
-Afterwards
-----------
+## Afterwards
 
 We aim to finish up the talks by 8pm.  This doesn't mean you have to go home
 though, if you're keen to talk about what you've just heard, or just mingle with

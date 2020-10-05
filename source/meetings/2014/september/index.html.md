@@ -17,8 +17,7 @@ hosted_by:
 
 The September 2014 meeting of LRUG will be on *Monday the 8th of September*, from 6:30pm to 8:00pm.  Our hosts [Skills Matter](http://skillsmatter.com/) will be providing the space, at their offices on Goswell Road; [The Skills Matter eXchange](https://skillsmatter.com/locations/96-skills-matter-exchange).  <a href="#sep14registration">Registration details are given below</a>.
 
-Agenda
-------
+## Agenda
 
 ### How not to become a terrible human being once you get a leadership title.
 
@@ -71,8 +70,7 @@ Agenda
 
 {::coverage year="2014" month="september" talk="learn-to-code-in-12-weeks" /}
 
-Pub
----
+## Pub
 
 When the talks finish there's usually lots to mull over and talk about.  We have to leave Skills Matter's offices, but we don't stop the meeting; it continues at [The Slaughtered Lamb](http://www.theslaughteredlambpub.com/) which is a 5 minute walk away.  If you are unable to attend the talks, or miss out on a space, come join us for the socialising afterwards.
 

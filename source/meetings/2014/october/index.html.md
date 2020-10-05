@@ -17,8 +17,7 @@ hosted_by:
 
 The October 2014 meeting of LRUG will be on *Monday the 13th of October*, from 6:30pm to 8:00pm.  Our hosts [Skills Matter](http://skillsmatter.com/) will be providing the space, at their offices on Goswell Road; [The Skills Matter eXchange](https://skillsmatter.com/locations/96-skills-matter-exchange).  <a href="#oct14registration">Registration details are given below</a>.
 
-Agenda
-------
+## Agenda
 
 ### Be a good UNIX citizen
 
@@ -56,8 +55,7 @@ Agenda
 
 {::coverage year="2014" month="october" talk="live-coding-in-the-classroom" /}
 
-Pub
----
+## Pub
 
 Our talks finish around about 8pm, but the meeting continues in the more relaxed surroundings of [The Slaughtered Lamb](http://www.theslaughteredlambpub.com/).  Most attendees stick around for this bit, so it's a good chance to catch up with old friends or make some new ones as you discuss the talks and chat about the latest goings on in the ruby community.  Attendance of the formal part is not a prerequisite for attending the pub bit, so do come along!
 

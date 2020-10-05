@@ -17,8 +17,7 @@ hosted_by:
 
 The January 2015 meeting of LRUG will be on *Monday the 12th of January*, from 6:30pm to 8:00pm.  Our hosts [Skills Matter](http://skillsmatter.com/) will be providing the space, at their offices on Goswell Road; [The Skills Matter eXchange](https://skillsmatter.com/locations/96-skills-matter-exchange).  <a href="#jan15registration">Registration details are given below</a>.
 
-Agenda
-------
+## Agenda
 
 ### Who’s afraid of database views?
 
@@ -56,8 +55,7 @@ Agenda
 
 {::coverage year="2015" month="january" talk="telling-stories-through-your-commits" /}
 
-Pub
----
+## Pub
 
 After the speakers are done it's time for the rest of us to give our vocal chords a workout.  We have to leave Skills Matter by 8pm so we head to [The Slaughtered Lamb](http://www.theslaughteredlambpub.com/) to do so.  If you can't make the talks then do feel free to attend this part.  There's no need to register for this bit though, so just turn up!
 

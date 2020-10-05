@@ -19,8 +19,7 @@ hosted_by:
 
 The March 2015 meeting of LRUG will be on *Monday the 9th of March*, from 6:30pm to 8:00pm.  Our hosts [Skills Matter](http://skillsmatter.com/) will be providing the space, at their offices on Goswell Road; [The Skills Matter eXchange](https://skillsmatter.com/locations/96-skills-matter-exchange).  <a href="#mar15registration">Registration details are given below</a>.
 
-Agenda
-------
+## Agenda
 
 ### Exploring #to_proc
 
@@ -62,8 +61,7 @@ The nice people at [Braintree Payments](https://braintreepayments.com) have arra
 
 Thanks [Braintree](https://braintreepayments.com)!
 
-Pub
----
+## Pub
 
 The talks end at 8pm and I'm sure all that talking and pizza will have given us a bit of a thirst.  The evening continues at [The Slaughtered Lamb](http://www.theslaughteredlambpub.com/) which is a 5 minute walk from the Skills Matter office.  It's a great opportunity to talk to the speakers in question, or just catch up with some other London rubyists.  If you're unable to attend the talks please feel free to attend the pub only.
 

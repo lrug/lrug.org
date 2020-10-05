@@ -20,8 +20,7 @@ hosted_by:
 
 The May meeting will be on Wednesday the 12th of May, from <strike>6:30pm to 8:00pm</strike><strong>7:00pm to 8:30pm</strong>.  Our hosts [Skills Matter](http://skillsmatter.com/) will be providing the space, at their offices on Goswell Road; [The Skills Matter eXchange](http://skillsmatter.com/location-details/design-architecture/484/96).  It's a great space with plenty of room for the group, but you still need to <a href="#may10registration">register to let Skills Matter know you are coming</a>.
 
-Agenda
-------
+## Agenda
 
 ### (j)ruby profilers
 
@@ -49,8 +48,7 @@ A video of Makoto's talk is available on the [Skills Matter site](http://skillsm
 
 There'll always be time at the start of the meeting (and between the speakers) for anyone in the group to get up and say something.  Use this time to let us know about anything you think is relevant to the group: maybe announce that your awesome team is hiring, or that you've just released a really interesting gem, or draw people's attention to a controversial blog post, or event to ask for some help working on a personal project.  It's really up to you what you say, just keep it short because we don't want to eat into the time for the scheduled talks.
 
-Pub
----
+## Pub
 
 We aim to finish at about <strong>8:30pm</strong>, after which we make the short walk from Skills Matter's offices to our watering hole of choice: [The Slaughtered Lamb](http://www.theslaughteredlambpub.com/).  Even if you can't make the formal part of the evening, you know where we are if you want to pop along for some of the more informal chat.  You'll be more than welcome.
 

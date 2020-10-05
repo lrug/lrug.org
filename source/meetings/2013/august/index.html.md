@@ -19,8 +19,7 @@ hosted_by:
 
 The August 2013 meeting of LRUG will be on *Monday* the 12th of August, from 6:30pm to 8:00pm.  Our hosts [Skills Matter](http://skillsmatter.com/) will be providing the space, at their offices on Goswell Road; [The Skills Matter eXchange](http://skillsmatter.com/location-details/design-architecture/484/96).  <a href="#aug13registration">Registration details are given below</a>.
 
-Agenda
-------
+## Agenda
 
 ### Improve your code with dependency injection
 
@@ -64,8 +63,7 @@ Agenda
 
 During the talks there will be some drinks available, provided by the nice folks at [Team Prime](http://www.team-prime.com/).
 
-Pub
----
+## Pub
 
 The two talks will take us to about 8pm, at which point we move on from Skills Matter to the second venue of the evening: [The Slaughtered Lamb](http://www.theslaughteredlambpub.com/).  There's no agenda here, just visit the bar and seek out those rubyists you've been meaning to say hi to for a while.  Attendance at the talks is obviously not required for attendance at the pub, so do come along anyway!
 

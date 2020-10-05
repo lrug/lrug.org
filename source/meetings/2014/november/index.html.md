@@ -17,8 +17,7 @@ hosted_by:
 
 The November 2014 meeting of LRUG will be on *Monday the 10th of November*, from 6:30pm to 8:00pm.  Our hosts [Skills Matter](http://skillsmatter.com/) will be providing the space, at their offices on Goswell Road; [The Skills Matter eXchange](https://skillsmatter.com/locations/96-skills-matter-exchange).  <a href="#nov14registration">Registration details are given below</a>.
 
-Agenda
-------
+## Agenda
 
 ### Julia  - Fast and Dynamic
 
@@ -46,8 +45,7 @@ Agenda
 > inside Docker, how to test this complex stack 
 > and concurrency using the Celluloid gem.
 
-Pub
----
+## Pub
 
 After the talks are finished we leave Skills Matter and move to [The Slaughtered Lamb](http://www.theslaughteredlambpub.com/) to continue the evening.  We finish the talks at about 8pm, so if you only want to attend this informal part aim to be at the pub by about 8:10 and you should be just in time to fight with us for room at the bar.
 

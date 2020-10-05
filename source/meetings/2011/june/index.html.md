@@ -14,8 +14,7 @@ hosted_by:
 
 The June 2011 meeting of LRUG will be on *Monday* the 13th of June, from 6:30pm to 8:00pm.  Our hosts [Skills Matter](http://skillsmatter.com/) will be providing the space, at their offices on Goswell Road; [The Skills Matter eXchange](http://skillsmatter.com/location-details/design-architecture/484/96).  It's a great space with plenty of room for the group, but you still need to <a href="#jun11registration">register to let Skills Matter know you are coming</a>.
 
-Agenda
-------
+## Agenda
 
 ### Here's My Gem
 
@@ -63,8 +62,7 @@ The plan for this month's meeting is to have several local rubyists talk about g
 
 {::coverage year="2011" month="june" talk="matahari" /}
 
-Pub
----
+## Pub
 
 As is usual we'll decamp from Skills Matter's offices to [The Slaughtered Lamb](http://www.theslaughteredlambpub.com/) for a drink or two after the talks.  It's only a short walk away so we'll be there from about 8pm onwards.  If you can't make the main meeting then feel free to pitch up just for the pub-bit.  There's usually some rubyists there until closing time, so you're bound to find someone to talk to no matter what time you make it over.
 

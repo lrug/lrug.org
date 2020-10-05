@@ -17,8 +17,7 @@ hosted_by:
 
 The June 2015 meeting of LRUG will be on *Monday the 8th of June*, from 6:30pm to 8:00pm.  Our hosts [Skills Matter](http://skillsmatter.com/) will be providing the space, at their offices on Goswell Road; [The Skills Matter eXchange](https://skillsmatter.com/locations/96-skills-matter-exchange).  <a href="#jun15registration">Registration details are given below</a>.
 
-Agenda
-------
+## Agenda
 
 ### Redis is the answer, what's the question?
 
@@ -53,8 +52,7 @@ talk, he will attempt an array of traditional magic tricks, using only
 
 {::coverage year="2015" month="june" talk="test-bisection-with-rspec" /}
 
-Pub
----
+## Pub
 
 All those talks will take us to about 8pm, after which we leave Skills Matter's offices and head over to [The Slaughtered Lamb](http://www.theslaughteredlambpub.com/) to continue the meeting.  While we ask you to [register for the talks](#jun15registration), there's no need to do so for this pub part; feel free to turn up even if you don't make it for the talks.
 

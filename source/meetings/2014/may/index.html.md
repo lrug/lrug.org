@@ -17,8 +17,7 @@ hosted_by:
 
 The May 2014 meeting of LRUG will be on *Monday the 12th of May*, from 6:30pm to 8:00pm.  Our hosts [Skills Matter](http://skillsmatter.com/) will be providing the space, at their offices on Goswell Road; [The Skills Matter eXchange](https://skillsmatter.com/locations/96-skills-matter-exchange).  <a href="#may14registration">Registration details are given below</a>.
 
-Agenda
-------
+## Agenda
 
 ### Learning to Code
 
@@ -61,8 +60,7 @@ Agenda
 
 {::coverage year="2014" month="may" talk="deprecating-activeresource-alternative-approaches-for-internal-rails-services" /}
 
-Pub
----
+## Pub
 
 The second part of the evening starts after the talks finish, which is usually around 8pm, and we move from Skills Matter's offices to [The Slaughtered Lamb](http://www.theslaughteredlambpub.com/).  If you can't make the talks do feel free to head over to the pub to join us for this more informal side to the meeting.
 

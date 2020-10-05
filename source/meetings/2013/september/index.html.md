@@ -17,8 +17,7 @@ hosted_by:
 
 The September 2013 meeting of LRUG will be on *Monday* the 9th of September, from 6:30pm to 8:00pm.  Our hosts [Skills Matter](http://skillsmatter.com/) will be providing the space, at their offices on Goswell Road; [The Skills Matter eXchange](http://skillsmatter.com/location-details/design-architecture/484/96).  <a href="#sep13registration">Registration details are given below</a>.
 
-Agenda
-------
+## Agenda
 
 ### Concerned about Concerns?
 
@@ -45,8 +44,7 @@ Agenda
 > iterative way and which tools we chose for each situation; some of 
 > which are not limited to Ruby.
 
-Pub
----
+## Pub
 
 Our talks finish at roughly 8pm and we move on to [The Slaughtered Lamb](http://www.theslaughteredlambpub.com/) for the rest of the evening.  This is your chance to talk to the speakers without the rest of the crowd scrutinising your questions, and to talk to the rest of the crowd without interrupting the speakers.  If you can't make it for the talks, perhaps because you <a href="#sep13registration">didn't register in time</a>, then do turn up just for the pub bit.
 

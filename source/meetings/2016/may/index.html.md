@@ -19,8 +19,7 @@ hosted_by:
 
 The May 2016 meeting of LRUG will be on *Monday the 9th of May*, from 6:00pm to 8:00pm (talks start at 6:30pm).  The venue, [Code Node](https://skillsmatter.com/locations/264-skills-matter-codenode) between Moorgate and Liverpool St. stations, is provided by [Skills Matter](http://www.skillsmatter.com).  [Full venue and registration details are given below](#may16registration).
 
-Agenda
-------
+## Agenda
 
 ### The Art of Code Review
 
@@ -66,8 +65,7 @@ Agenda
 
 The nice people at [Pusher](https://pusher.com/) have provided 5 tickets for [Brighton Ruby conference](http://brightonruby.com/), a one day, single track, conference for Rubyists & the Ruby-curious in Brighton on 8th July.  The tickets were raffled off on our [mailing list](/mailing-list) with the winners contacted on Thursdayday 5th May.  Thanks [Pusher](https://pusher.com/)!
 
-Afterwards
-----------
+## Afterwards
 
 We should be done with the talks by 8pm at which point have a choice to make:
 

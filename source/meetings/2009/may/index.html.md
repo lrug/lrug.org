@@ -14,8 +14,7 @@ hosted_by:
 
 The next meeting of LRUG will be on Monday the 18th of May, from 6:30pm to 8:00pm.  As usual our hosts [Skills Matter](http://skillsmatter.com/) will provide the space at [their offices](http://skillsmatter.com/location-details/home/375/1).  The room is currently at capacity, but if you <a href="#may09registration">register with them</a> they'll put you on a waiting list.
 
-Agenda
-------
+## Agenda
 
 ### Ruby FFI
 

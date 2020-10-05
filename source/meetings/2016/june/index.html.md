@@ -17,8 +17,7 @@ hosted_by:
 
 The June 2016 meeting of LRUG will be on *Monday the 13th of June*, from 6:00pm to 8:00pm (talks start at 6:30pm).  The venue, [Code Node](https://skillsmatter.com/locations/264-skills-matter-codenode) between Moorgate and Liverpool St. stations, is provided by [Skills Matter](http://www.skillsmatter.com).  [Full venue and registration details are given below](#june16registration).
 
-Agenda
-------
+## Agenda
 
 ###  Hacking Your Head : Managing Information Overload
 
@@ -63,8 +62,7 @@ Agenda
 
 {::coverage year="2016" month="june" talk="refactoring-a-monolith-with-rails-engines" /}
 
-Afterwards
-----------
+## Afterwards
 
 These talks will end by 8pm which is quite early, so if you'd like to continue
 the evening in the company of other LRUG folk you can:

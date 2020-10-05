@@ -20,8 +20,7 @@ Moorgate and Liverpool St. stations, is provided by [Skills
 Matter](http://www.skillsmatter.com).  [Full venue and registration details are
 given below](#march18registration).
 
-Agenda
-------
+## Agenda
 
 ### Web Architecture choices & Ruby
 
@@ -50,8 +49,7 @@ Agenda
 > markup language that takes a lot of pain out of making responsive emails. You
 > can find more information at http://mjml.io.
 
-Afterwards
-----------
+## Afterwards
 
 The talks should be finished by 8pm. If you'd like to socialise with other LRUG
 attendees afterwards, you have two choices:

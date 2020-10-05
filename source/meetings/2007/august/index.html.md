@@ -14,8 +14,7 @@ hosted_by:
 
 The next meeting of LRUG will be on Monday the 13th of August, from 6:30pm to 8:00pm at our usual [Skills Matter](http://www.skillsmatter.com/) venue at [1 Sekforde St.](http://maps.google.co.uk/maps?f=q&hl=en&q=EC1R+0BE&layer=&ie=UTF8&z=16&om=1&iwloc=addr).
 
-Agenda
-------
+## Agenda
 
 No theme this month unfortunately, unless you count random Ruby goodness as a theme.  No?  Ah well, I'll try better for next time.
 
