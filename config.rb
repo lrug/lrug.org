@@ -12,6 +12,7 @@ set :years, meeting_years.sort
 require "lib/lrug_helpers"
 helpers LRUGHelpers
 
+# get our kramdown `{::blah}` extensions
 require 'lib/lrug_extended_kramdown'
 # we have to refer to this via `@app` as otherwise it ends up being a
 # Middleman::CoreExtensions::Collections::LazyCollectorStep instead
@@ -19,6 +20,11 @@ require 'lib/lrug_extended_kramdown'
 Kramdown::Parser::LRUGExtendedKramdown.sponsors = @app.data.sponsors
 Kramdown::Parser::LRUGExtendedKramdown.coverage = @app.data.coverage
 set :markdown, input: 'LRUGExtendedKramdown'
+
+# get our kramdown renderer extensions
+# NOTE: this just extends the default middleman kramdown renderer because
+# there's no extension hook for changing this class
+require 'lib/lrug_extended_middleman_kramdown_html'
 
 configure :build do
   ignore 'archive/*'
