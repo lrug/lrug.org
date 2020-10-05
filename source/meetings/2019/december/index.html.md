@@ -22,8 +22,7 @@ month is provided by [Farmdrop](https://farmdrop.workable.com) and is in [their
 offices][farmdrop-venue], near Old Street.  [Full venue and
 registration details are given below](#dec19registration).
 
-Agenda
-------
+## Agenda
 
 ### Food
 
@@ -41,8 +40,7 @@ again [Farmdrop](https://farmdrop.workable.com)!
 > What does it mean for a system to be observable? Why is observability a
 > requirement? How does it make everything better?
 
-Afterwards
-----------
+## Afterwards
 We aim to finish the talks by 8pm, although likely earlier if there isn't
 a full complement of them, and will head to a nearby pub shortly after to
 discuss what we've just heard and socialise.  Check back sooner to find
@@ -52,9 +50,7 @@ Of course, even though this is the socialising part and seems more
 informal, please remember that still we consider it to be a part of the
 meeting and covered by our [code of conduct](http://readme.lrug.org/#code-of-conduct).
 
-
-Venue & Registration <a name="dec19registration">&nbsp;</a>
------------------------------------------------------------
+## Venue & Registration {#dec19registration}
 
 Prior to attending you should familiarise yourself with our
 [README](http://readme.lrug.org/) paying close attention to [the code of

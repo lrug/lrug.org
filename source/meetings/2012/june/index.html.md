@@ -14,8 +14,7 @@ hosted_by:
 
 The June 2012 meeting of LRUG will be on *Monday* the 11th of June, from 6:30pm to 8:00pm.  Our hosts [Skills Matter](http://skillsmatter.com/) will be providing the space, at their offices on Goswell Road; [The Skills Matter eXchange](http://skillsmatter.com/location-details/design-architecture/484/96).  <a href="#jun12registration">Registration details are given below</a>.
 
-Agenda
-------
+## Agenda
 
 ### Introduction to Elasticsearch
 
@@ -59,13 +58,11 @@ Agenda
 
 {::coverage year="2012" month="june" talk="hexagonal-rails" /}
 
-Pub
----
+## Pub
 
 We have to be out of the venue by 8pm, but that doesn't mean you have to go home!  We wander the short distance to [The Slaughtered Lamb](http://www.theslaughteredlambpub.com/) to spend the rest of the evening chatting about the talks and what's going on in the Ruby scene in general.  If there's some reason you can't make the talks, feel free to turn up at the pub and say hi.
 
-Registration <a name="jun12registration">&nbsp;</a>
----------------------------------------------------
+## Registration {#jun12registration}
 
 To secure a place at the meeting you must [register with our hosts Skills Matter](http://skillsmatter.com/podcast/home/elasticsearch/js-4290).  It helps to make sure we have the room laid out with enough chairs, and in extreme cases that we get priority on the larger rooms over other groups using the space on the same night.  Also, it's polite (don't forget [MINASWAN](http://oreilly.com/ruby/excerpts/ruby-learning-rails/ruby-glossary.html#I_indexterm_d1e32036)), so please do [register with Skills Matter](http://skillsmatter.com/podcast/home/elasticsearch/js-4290).
 

@@ -14,8 +14,7 @@ hosted_by:
 
 The September 2008 meeting of LRUG will be held on Monday 8th September, from 6:30pm to 8:00pm.  Please register [here](http://skillsmatter.com/event/home/lrug-meeting-top-ten-most-horrendous-ruby-hacks-rlisp-lisp-inside-ruby).  It will either be at [Skills Matter](http://www.skillsmatter.com/), or their overflow venue at [The Old Sessions House](http://www.sessionshouse.com/) on [Clerkenwell Green](http://tinyurl.com/2bjjzz), depending on the number of registrations.
 
-Agenda
-------
+## Agenda
 
 ### Top Ten Most Horrendous Ruby Hacks
 
@@ -25,8 +24,7 @@ Agenda
 
 [Tomasz Wegrzanowski](http://t-a-w.blogspot.com/) will be presenting a talk on his project [RLisp](http://chaosforge.org/taw/rlisp/), a Lisp dialect naturally embedded in Ruby
 
-Pub
----
+## Pub
 
 The talks generally are all done and dusted by 8pm, at which point we decamp to the local pub, [The Crown Tavern](http://fancyapint.com/pubs/pub199.html) for a spot of socialising.  If you can't make the talks for whatever reason, you're always welcome to turn up just for the post-mortem in the pub.
 

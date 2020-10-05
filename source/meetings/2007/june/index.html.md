@@ -14,8 +14,7 @@ hosted_by:
 
 The next meeting of LRUG will be on Monday the 11th of June, from 6:30pm to 8:00pm at our usual [Skills Matter](http://www.skillsmatter.com/) venue at [1 Sekforde St.](http://maps.google.co.uk/maps?f=q&hl=en&q=EC1R+0BE&layer=&ie=UTF8&z=16&om=1&iwloc=addr).
 
-Agenda
-------
+## Agenda
 
 A video of the evening, filmed by Skills Matter, is [available on Google Video](http://video.google.com/videoplay?docid=-1413414136003348187&hl=en-GB).
 
@@ -27,12 +26,11 @@ A video of the evening, filmed by Skills Matter, is [available on Google Video](
 
 Postponed from [last month's meeting](/meetings/2007/05/06/may-2007-meeting/), [Dan Webb](http://danwebb.net/) takes us on a whirlwind tour of [OpenID](http://openid.net/) and how to implement it in your Ruby or Rails application.
 
-### Pub
+## Pub
 
 We'll be sloping off to [The Crown Tavern](http://fancyapint.com/pubs/pub199.html) just round the corner from the Skills Matter office after the official meeting to continue the fun.  If you can't make it to the main meeting, you are more than welcome to pop along for the beers.
 
-Registration
-------------
+## Registration {#jun07registration}
 
 As usual, [please register with Skills Matter](http://skillsmatter.com/lrug) if you are planning to come, so they can manage seating and making sure we get the most appropriately sized room.  There's also an [upcoming event](http://upcoming.yahoo.com/event/201338/) for those of us that love online calendaring. 
 

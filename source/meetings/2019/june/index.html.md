@@ -19,10 +19,9 @@ The June 2019 meeting of LRUG will be on *Monday the 10th of June*,
 from _6:00pm_ to _8:00pm_ (meeting start at _6:30pm_).  The venue, [Code
 Node][skills-matter-venue] between Moorgate and Liverpool St. stations, is
 provided by [Skills Matter](http://www.skillsmatter.com).  [Full venue and
-registration details are given below](#june19registration).
+registration details are given below](#jun19registration).
 
-Agenda
-------
+## Agenda
 
 ### User-First Internationalisation
 
@@ -43,8 +42,7 @@ Tom Lord:
 > Do you have code reviews at your daily work? Have you ever found yourself thinking they feel like a tug of war? That writing the code is the easy part of the job? That’s OK, we put so much emphasis in languages, patterns and lines of code that is easy to forget about other (soft) skills that are required every single day. This talk will provide you a few important thoughts to have in mind for a successful and fruitful code review, both in the shoes of the reviewer and the reviewee.
 
 
-Afterwards
-----------
+## Afterwards
 
 All these talks will take us to around about 8pm, after which we have two
 choices for socialising with your fellow LRUG attendees:
@@ -67,8 +65,7 @@ informal.
 If you can't attend the talks we'd still be very happy to see you at this part
 of the meeting.  Do come along!
 
-Venue & Registration <a name="june19registration">&nbsp;</a>
------------------------------------------------------------
+## Venue & Registration {#jun19registration}
 
 Prior to attending you should familiarise yourself with our
 [README](http://readme.lrug.org/) paying close attention to [the code of

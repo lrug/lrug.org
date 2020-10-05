@@ -20,8 +20,7 @@ hosted_by:
 
 The next meeting of LRUG will be on Wednesday the 12th of August, from 6:30pm to 8:00pm.  As usual our hosts [Skills Matter](http://skillsmatter.com/) will provide the space, at our new venue [The Crypt](http://skillsmatter.com/location-details/home/166/26) (it's very close to the other venues).  We still need people to <a href="#aug09registration">register</a> though to make sure the room is set up properly.
 
-Agenda
-------
+## Agenda
 
 ### Making your rails app kick ass with ruby-prof and kcachegrind
 
@@ -61,8 +60,7 @@ A video of Alex's talk is available on the [Skills Matter site](http://skillsmat
 
 <del>Stealing</del><ins>Borrowing</ins> an idea from the [Sydney Ruby User Group](http://rubyonrails.com.au/sydney-meetups) we'll put aside some time at the start of the meeting where you can pass on information you think is of interest to the group.  For example you could announce a new gem you've written or found useful recently, let people know about any interesting events that are happening soon or just bring people's attention to news or gossip within the greater ruby community.  If you'd think about blogging it or starring it in your RSS reader, then mention it here.  This section will last for about 10-15 minutes and anyone can speak if they keep it short and to the point!
 
-Pub
----
+## Pub
 
 <a href="http://www.flickr.com/photos/snowblink/3889759483/" title="The Others (20090812-R0012408) by snowblink, on Flickr"><img src="http://farm3.static.flickr.com/2481/3889759483_21378fd800.jpg" width="500" height="375" alt="The Others (20090812-R0012408)" /></a>
 
@@ -70,8 +68,7 @@ At the end of the formal part of the meeting we change into our smoking jackets 
 
 <a href="http://www.flickr.com/photos/snowblink/3890552430/" title="Chris and Mike (20090812-R0012411) by snowblink, on Flickr"><img src="http://farm3.static.flickr.com/2627/3890552430_b52d7cc84d.jpg" width="500" height="385" alt="Chris and Mike (20090812-R0012411)" /></a>
 
-Registration <a name="aug09registration">&nbsp;</a>
----------------------------------------------------
+## Registration {#aug09registration}
 
 We need people to [register with Skills Matter](http://skillsmatter.com/event/ajax-ria/lrug-aug) if they are planning on attending.  Registration lets Skills Matter know how many people to expect to turn up and plan the venue accordingly.  There shouldn't be any capacity problems with the new venue, but you should still [register as early as you can](http://skillsmatter.com/event/ajax-ria/lrug-aug) to help them out.
 

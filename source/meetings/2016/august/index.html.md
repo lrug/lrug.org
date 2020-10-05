@@ -17,8 +17,7 @@ hosted_by:
 
 The August 2016 meeting of LRUG will be on *Monday the 8th of August*, from 6:00pm to 8:00pm (talks start at 6:30pm).  The venue, [Code Node](https://skillsmatter.com/locations/264-skills-matter-codenode) between Moorgate and Liverpool St. stations, is provided by [Skills Matter](http://www.skillsmatter.com).  [Full venue and registration details are given below](#aug16registration).
 
-Agenda
-------
+## Agenda
 
 ### Action Cable
 
@@ -54,8 +53,7 @@ Agenda
 
 {::coverage year="2016" month="august" talk="tell-don-t-ask" /}
 
-Afterwards
-----------
+## Afterwards
 
 We'll be done with the talks by about 8pm.  If you'd like to continue talking to your fellow LRUG attendees about the topics brought up by the speakers, goings on in the ruby community at large, or anything else you have a choice to make.  You can:
 
@@ -64,8 +62,7 @@ We'll be done with the talks by about 8pm.  If you'd like to continue talking to
 
 If you can't make the talks you are more than welcome to come along afterwards to hang out with us.
 
-Venue & Registration <a name="aug16registration">&nbsp;</a>
------------------------------------------------------------
+## Venue & Registration {#aug16registration}
 
 Prior to attending you should familiarise yourself with our [README](http://readme.lrug.org/) paying close attention to [the code of conduct](http://readme.lrug.org/#code-of-conduct).
 

@@ -16,8 +16,7 @@ hosted_by:
 
 The next meeting of LRUG will be on Monday the 11th of February, from 6:30pm to 8:00pm, and we'll be returning to our usual [Skills Matter](http://www.skillsmatter.com/) venue at [1 Sekforde St.](http://maps.google.co.uk/maps?f=q&hl=en&q=EC1R+0BE&layer=&ie=UTF8&z=16&om=1&iwloc=addr).
 
-Agenda
-------
+## Agenda
 
 ### Lightning Talks
 
@@ -44,7 +43,6 @@ The kind folk organising the [QCon](http://qcon.infoq.com/london/conference/) co
 
 Once the excitement of the slides and ticket raffle have died down, we'll head on over to [The Crown Tavern](http://fancyapint.com/pubs/pub199.html).  This pub is only a couple of minutes walk from the Skills Matter offices and so is perfect for a post-meeting chat and drink.  As usual, if you're not sure that you'll make it in time for the main meeting, you are more than welcome to just head along to the pub and meet up with us there.
 
-Registration
-------------
+## Registration {#feb08registration}
 
 [Please register with Skills Matter](http://www.skillsmatter.com/lrug) if you are planning to come.  They need us to register so they make sure we get the most appropriately sized room, but they can only accommodate a larger than usual meeting (more than 80 folk) if they get enough notice to book a bigger room, so [register now](http://www.skillsmatter.com/lrug) rather than later.  There's also an [upcoming event](http://upcoming.yahoo.com/event/415440/) for those of us that love online calendaring.

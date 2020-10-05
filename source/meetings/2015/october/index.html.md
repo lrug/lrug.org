@@ -23,8 +23,7 @@ The October 2015 meeting of LRUG will be on *Monday the 12th of October*, from 6
 
 [Skills Matter](http://www.skillsmatter.com) continue to host us, but do remember that they've moved.  We're in [Code Node venue](https://skillsmatter.com/locations/264-skills-matter-codenode) between Moorgate and Liverpool St. stations.  [Full venue and registration details are given below](#oct15registration).
 
-Agenda
-------
+## Agenda
 
 ### Debugging and fixing performance issues with the mustache gem and partials
 
@@ -59,8 +58,7 @@ Agenda
 
 Our friends at [Future Learn](https://www.linkedin.com/company/infinitium-global) have arranged to give away a book to 16 lucky LRUG members.  The 16 winners of the giveaway are able to choose a copy of [Practical Object Oriented Design with Ruby](http://www.poodr.com/) or [10 PRINT CHR$(205.5+RND(1)); : GOTO 10](https://mitpress.mit.edu/books/10-print-chr2055rnd1-goto-10).  If you'd like to enter use [this form](http://goo.gl/forms/aE4fuUdgtz).  The deadline for entry is 1pm on Monday, 12th October 2015.
 
-Pub
----
+## Pub
 
 Of the local pubs we've tried so far Singer Tavern seems the most accomodating so we'll try it again:
 
@@ -68,8 +66,7 @@ Of the local pubs we've tried so far Singer Tavern seems the most accomodating s
 
 We aim to finish the talks no later than 8pm, which gives us an ETA of about 8:10 at the pub.  If you can't make the talks please do join us afterwards for food, drinks and ruby chat.
 
-Venue & Registration <a name="oct15registration">&nbsp;</a>
-----------------------------------------------------------
+## Venue & Registration {#oct15registration}
 
 Prior to attending you should familiarise yourself with our [README](http://readme.lrug.org/) paying close attention to [the code of conduct](http://readme.lrug.org/#code-of-conduct).
 

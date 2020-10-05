@@ -19,8 +19,7 @@ hosted_by:
 
 The April 2014 meeting of LRUG will be on *Monday the 14th of April*, from 6:30pm to 8:00pm.  Our hosts [Skills Matter](http://skillsmatter.com/) will be providing the space, at their offices on Goswell Road; [The Skills Matter eXchange](https://skillsmatter.com/locations/96-skills-matter-exchange).  <a href="#apr14registration">Registration details are given below</a>.
 
-Agenda
-------
+## Agenda
 
 ### Adventures in early-adoption of open-source code
 
@@ -64,8 +63,7 @@ Some of the team from [the ODI](http://theodi.org/) want to present about their 
 
 {::coverage year="2014" month="april" talk="aspect-oriented-programming-in-ruby" /}
 
-Pub
----
+## Pub
 
 After the talks finish, usually 8pm, we decamp to [The Slaughtered Lamb](http://www.theslaughteredlambpub.com/) to finish up the evening.  Although you have to [register](#apr14registration) for the talks, the pub part is open to all.  If you can't make the talks feel free to turn up for this second half of the event.
 
@@ -76,8 +74,7 @@ After the talks finish, usually 8pm, we decamp to [The Slaughtered Lamb](http://
 The nice folks at [Resource Guru](http://resourceguruapp.com/) are buying us some drinks at the pub after the talks.  That's nice, isn't it?
 
 
-Registration <a name="apr14registration">&nbsp;</a>
----------------------------------------------------
+## Registration {#apr14registration}
 
 To secure a place at the meeting you *must* [register with our hosts Skills Matter](https://skillsmatter.com/meetups/6307-adventures-in-early-adoption-of-open-source-code).  It helps to make sure we have the room laid out with enough chairs, and in extreme cases that we get priority on the larger rooms over other groups using the space on the same night.  Also, it's polite (don't forget [MINASWAN](http://oreilly.com/ruby/excerpts/ruby-learning-rails/ruby-glossary.html#I_indexterm_d1e32036)), so please do [register with Skills Matter](https://skillsmatter.com/meetups/6307-adventures-in-early-adoption-of-open-source-code).  Prior to attending you should familiarise yourself with our [README](http://readme.lrug.org/).
 

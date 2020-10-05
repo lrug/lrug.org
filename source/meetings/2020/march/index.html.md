@@ -22,8 +22,7 @@ month is provided by [Makers](https://makers.tech/) and is in [their
 offices][makers-venue], on Commercial Stret.  [Full venue and registration
 details are given below](#mar20registration).
 
-Agenda
-------
+## Agenda
 
 ### Food & Drinks
 
@@ -74,8 +73,7 @@ also being kind enough to provide some food for us.  Thanks again
 > mention different event formats which I have experienced and found
 > useful for different purposes.
 
-Afterwards
-----------
+## Afterwards
 
 We should be finished these talks by 8pm.  Usually we head to a local pub
 afterwards to talk about what we've just heard and get to know our fellow
@@ -87,8 +85,7 @@ informal, please remember that still we consider it to be a part of the
 meeting and covered by our [code of conduct](http://readme.lrug.org/#code-of-conduct).
 
 
-Venue & Registration <a name="mar20registration">&nbsp;</a>
------------------------------------------------------------
+## Venue & Registration {#mar20registration}
 
 Prior to attending you should familiarise yourself with our
 [README](http://readme.lrug.org/) paying close attention to [the code of

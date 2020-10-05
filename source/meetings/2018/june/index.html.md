@@ -23,8 +23,7 @@ Node][skills-matter-venue] between Moorgate and Liverpool St. stations, is
 provided by [Skills Matter](http://www.skillsmatter.com).  [Full venue and
 registration details are given below](#jun18registration).
 
-Agenda
-------
+## Agenda
 
 Our June meeting has two talks and a prize draw!
 
@@ -75,8 +74,7 @@ Thanks [streetbees](https://www.streetbees.com/careers)!
 
 <sup><a name="brtp-hat">*</a></sup> <small>We may not use an actual hat.</small>
 
-Afterwards
-----------
+## Afterwards
 
 Our talks will finish by 8pm, but that doesn't have to be the end of the evening
 for you.  If you'd like to talk to the speakers, or to other attendees about the
@@ -101,8 +99,7 @@ Don't worry that you'll miss out on this part if you can't make the talks.
 Attendance of the talks is far from mandatory to attend the socialising
 afterwards, so please do come along anyway if you can.
 
-Venue & Registration <a name="jun18registration">&nbsp;</a>
------------------------------------------------------------
+## Venue & Registration {#jun18registration}
 
 Prior to attending you should familiarise yourself with our
 [README](http://readme.lrug.org/) paying close attention to [the code of

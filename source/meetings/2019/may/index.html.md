@@ -21,8 +21,7 @@ Node][skills-matter-venue] between Moorgate and Liverpool St. stations, is
 provided by [Skills Matter](http://www.skillsmatter.com).  [Full venue and
 registration details are given below](#may19registration).
 
-Agenda
-------
+## Agenda
 
 ### Getting the next generation into coding
 
@@ -60,8 +59,7 @@ Josh Fleck:
 > ActiveRecord queries, learn optimisation techniques you can put to work
 > right away, and build a deeper knowledge of relational databases.
 
-Afterwards
-----------
+## Afterwards
 
 All these talks will take us to around about 8pm, after which we have two
 choices for socialising with your fellow LRUG attendees:
@@ -84,8 +82,7 @@ informal.
 If you can't attend the talks we'd still be very happy to see you at this part
 of the meeting.  Do come along!
 
-Venue & Registration <a name="may19registration">&nbsp;</a>
------------------------------------------------------------
+## Venue & Registration {#may19registration}
 
 Prior to attending you should familiarise yourself with our
 [README](http://readme.lrug.org/) paying close attention to [the code of

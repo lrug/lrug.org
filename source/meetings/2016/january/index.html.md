@@ -17,8 +17,7 @@ hosted_by:
 
 The January 2016 meeting of LRUG will be on *Monday the 11th of January*, from 6:00pm to 8:00pm (talks start at 6:30pm).  The venue, [Code Node](https://skillsmatter.com/locations/264-skills-matter-codenode) between Moorgate and Liverpool St. stations, is provided by [Skills Matter](http://www.skillsmatter.com).  [Full venue and registration details are given below](#jan16registration).
 
-Agenda
-------
+## Agenda
 
 ### From monolith to microservices: A true story
 
@@ -65,8 +64,7 @@ Then Jake will talk to us about his journey while building it:
 
 {::coverage year="2016" month="january" talk="using-direnv-with-ruby-and-12factor-apps" /}
 
-Pub
----
+## Pub
 
 After the talks we like to wind down with food and drinks at:
 
@@ -74,8 +72,7 @@ After the talks we like to wind down with food and drinks at:
 
 We'll be there from about 8pm so if you can't get to the earlier part of the evening feel free to come along to the pub and hang out.
 
-Venue & Registration <a name="jan16registration">&nbsp;</a>
-----------------------------------------------------------
+## Venue & Registration {#jan16registration}
 
 Prior to attending you should familiarise yourself with our [README](http://readme.lrug.org/) paying close attention to [the code of conduct](http://readme.lrug.org/#code-of-conduct).
 

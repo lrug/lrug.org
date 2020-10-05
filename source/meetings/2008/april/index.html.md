@@ -16,8 +16,7 @@ hosted_by:
 
 The next meeting of LRUG will be on Monday the 14th of April, from 6:30pm to 8:00pm, in the [Skills Matter](http://www.skillsmatter.com/) overflow venue [The Old Sessions House](http://www.sessionshouse.com/) on [Clerkenwell Green](http://tinyurl.com/2bjjzz).  However, depending on numbers (see the note about <a href="#apr08registration">registration</a> below) we might move to a larger venue.
 
-Agenda
-------
+## Agenda
 
 A video of the meeting, filmed by Skills Matter, is [available on Google video](http://video.google.com/videoplay?docid=-2485256619067067324) (or [the Skills Matter site](http://skillsmatter.com/podcast/ajax-ria/demos-soup-vanilla-rak-juggernaut-doodle-and-more)).
 
@@ -40,15 +39,13 @@ Some people that have volunteered so far:
 
 There's plenty of room for more stuff, so [get in touch](/mailing-list) to volunteer something.
 
-Pub
----
+## Pub
 
 <a href="http://www.flickr.com/photos/snowblink/2420966405/" title="Chris and Dale (20080414-R0010629.jpg) by snowblink, on Flickr"><img src="http://farm3.static.flickr.com/2058/2420966405_19be44809e_m.jpg" width="240" height="240" alt="Chris and Dale (20080414-R0010629.jpg)" /></a>
 
 Exhausted and weary from all the code being thrown around we'll stumble into [The Crown Tavern](http://fancyapint.com/pubs/pub199.html) to try to make sense of it all.  Here's where we'll hatch master plans to combine all the gems, rake tasks and scripts into a new framework for world domination.  If you're not sure that you'll make it for the main meeting, but don't want to be left out of the LRUG master-plan you should definitely come along to the pub and sign up for a minor bureaucratic position in the New World Order.
 
-Registration <a name="apr08registration">&nbsp;</a>
----------------------------------------------------
+## Registration {#apr08registration}
 
 [Please register with Skills Matter](http://www.skillsmatter.com/event/ajax-ria/show-n-tell-soup-and-vanilla-rak-juggernaut-and-more) if you are planning to come.  Registration has pretty much become mandatory over the past few months to help Skills Matter with managing the rooms.  Last month registrations happened early enough that Skills Matter were able to book a larger venue, however prior to that registrations haven't been timely enough and we've had to close registration and turn people away at the doors.  The larger room, close to the usual venue, needs about a weeks notice for Skills Matter to book it.  Please, therefore, [register now](http://www.skillsmatter.com/event/ajax-ria/show-n-tell-soup-and-vanilla-rak-juggernaut-and-more) rather than later.  
 

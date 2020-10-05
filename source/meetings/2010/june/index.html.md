@@ -20,8 +20,7 @@ hosted_by:
 
 The June meeting will be on *Monday* the 14th of June, from 6:30pm to 8:00pm.  Our hosts [Skills Matter](http://skillsmatter.com/) will be providing the space, at their offices on Goswell Road; [The Skills Matter eXchange](http://skillsmatter.com/location-details/design-architecture/484/96).  It's a great space with plenty of room for the group, but you still need to <a href="#jun10registration">register to let Skills Matter know you are coming</a>.
 
-Agenda
-------
+## Agenda
 
 ### "My First Ruby"
 
@@ -51,13 +50,11 @@ Agenda
 
 As per usual there will be some time at the start of the meeting for anyone in the group to get up and let us know about anything you think is relevant to the group.  Recently it's just been recruitment announcements, which are great, but it'd be even better if people mentioned some other news items; maybe you've just released a top-notch gem, or read a thought-provoking article you want to let people know about, or there's some event you've spotted that you think rubyists would be interested in.  It's really up to you what you say, just keep it short because we don't want to eat into the time for the scheduled talks.
 
-Pub
----
+## Pub
 
 The meeting usually finishes at around 8pm, but that's not the end of the evening.  We can be found at around 8:05pm jostling for service at [The Slaughtered Lamb](http://www.theslaughteredlambpub.com/).  If you're not going to make it to the main meeting, you really should come along to the pub for a quick drink and a bit of a blather.
 
-Registration <a name="jun10registration">&nbsp;</a>
----------------------------------------------------
+## Registration {#jun10registration}
 
 Skills Matter prefer that you [register your attendance with them](http://skillsmatter.com/event/ajax-ria/my-first-ruby/rl-311) if you are coming to the meeting.  On a few exceptional occasions we've had to turn away people who haven't registered, but this has only been at extremely popular meetings, and has yet to happen at the new venue on Goswell Road.  It's better to be safe than sorry though, and it is polite (don't forget [MINASWAN](http://oreilly.com/ruby/excerpts/ruby-learning-rails/ruby-glossary.html#I_indexterm_d1e32036)), so please do [register](http://skillsmatter.com/event/ajax-ria/my-first-ruby/rl-311).
 

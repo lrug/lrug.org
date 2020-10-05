@@ -14,8 +14,7 @@ hosted_by:
 
 The November 2012 meeting of LRUG will be on *Monday* the 12th of November, from 6:30pm to 8:00pm.  Our hosts [Skills Matter](http://skillsmatter.com/) will be providing the space, at their offices on Goswell Road; [The Skills Matter eXchange](http://skillsmatter.com/location-details/design-architecture/484/96).  <a href="#nov12registration">Registration details are given below</a>.
 
-Agenda
-------
+## Agenda
 
 ### An introduction to Rubymotion: Writing iOS apps with Ruby
 
@@ -38,13 +37,11 @@ Agenda
 
 {::coverage year="2012" month="november" talk="background-processing-in-ruby-and-rails" /}
 
-Pub
----
+## Pub
 
 The talks will finish around 8pm, but that doesn't mean you have to go home.  Oh no!  Us LRUG folks are a friendly lot, and so we continue the evening over at [The Slaughtered Lamb](http://www.theslaughteredlambpub.com/) which is a short walk from the Skills Matter office.  Do join us there if you can't make the formal talks.
 
-Registration <a name="nov12registration">&nbsp;</a>
----------------------------------------------------
+## Registration {#nov12registration}
 
 To secure a place at the meeting you *must* [register with our hosts Skills Matter](http://skillsmatter.com/event-details/home/lrug-november-meetup).  It helps to make sure we have the room laid out with enough chairs, and in extreme cases that we get priority on the larger rooms over other groups using the space on the same night.  Also, it's polite (don't forget [MINASWAN](http://oreilly.com/ruby/excerpts/ruby-learning-rails/ruby-glossary.html#I_indexterm_d1e32036)), so please do [register with Skills Matter](http://skillsmatter.com/event-details/home/lrug-november-meetup).
 

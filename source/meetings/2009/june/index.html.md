@@ -17,8 +17,7 @@ hosted_by:
 
 The next meeting of LRUG will be on Monday the 8th of June, from 6:30pm to 8:00pm.  As usual our hosts [Skills Matter](http://skillsmatter.com/) will provide the space at either [their offices](http://skillsmatter.com/location-details/home/375/1) or one of their overflow venues.  The venue we get is dependent on how many people <a href="#jun09registration">register</a> and the availability of <a href="/sponors">sponsorship</a> to pay for a larger room.  Do your bit by <a href="#jun09registration">registering early</a>.
 
-Agenda
-------
+## Agenda
 
 ### RDF in Rails
 
@@ -54,8 +53,7 @@ A video of Tom's talk is available on the [Skills Matter site](http://skillsmatt
 
 At the end of all this we like to drop our polite facade and scramble to be first at the bar and woe betide anyone that gets in our way.  The pub we head to is [The Crown Tavern](http://fancyapint.com/pubs/pub199.html), which is conveniently located close to all of the venues that Skills Matter provide.  If the main meeting doesn't fit with your hectic schedule surely you can fit in a pint on the way home?  We aim to finish up the talks at 8pm, so come to the pub for then and chat with your local ruby community.
 
-Registration <a name="jun09registration">&nbsp;</a>
----------------------------------------------------
+## Registration {#jun09registration}
 
 We need people to [register with Skills Matter](http://skillsmatter.com/event/ajax-ria/lrug-june) if they are planning on attending.  Registration lets Skills Matter know how many people to expect to turn up and plan the venue accordingly.  If enough people register we need to book a larger venue, but that can take some time so Skills Matter need some notice to do so.  So [please register as early](http://skillsmatter.com/event/ajax-ria/lrug-june) as you can.  If you register late they might not have enough time to book a larger room and you might get put on a waiting list or simply turned away.  We don't want that!
 

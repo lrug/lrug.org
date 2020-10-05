@@ -14,8 +14,7 @@ hosted_by:
 
 The February 2012 meeting of LRUG will be on *Tuesday* the 21st of February, from 6:30pm to 8:00pm.  Our hosts [Skills Matter](http://skillsmatter.com/) will be providing the space, at their offices on Goswell Road; [The Skills Matter eXchange](http://skillsmatter.com/location-details/design-architecture/484/96).  It's a great space with plenty of room for the group, but you still need to <a href="#feb12registration">register to let Skills Matter know you are coming</a>.
 
-Agenda
-------
+## Agenda
 
 ### Lightning talks!
 
@@ -77,13 +76,11 @@ Also, these brave folk have volunteered, but are waiting in the wings before con
 
 This is not the running order, on the night we randomise the order of the speakers *for even more fun*!
 
-Pub
----
+## Pub
 
 With all these talks on the night, you're bound to want to chat to at least one of the speakers afterwards.  Have no fear! We do that in [The Slaughtered Lamb](http://www.theslaughteredlambpub.com/), which is only five minutes from Skills Matter's offices.  We'll be there from about 8pm, so if you can't make the talks come along just for the pub bit.
 
-Registration <a name="feb12registration">&nbsp;</a>
----------------------------------------------------
+## Registration {#feb12registration}
 
 Skills Matter ask that you [register your attendance with them](http://skillsmatter.com/event-details/home/lrug-lightning-talks-2012/js-3484) if you are coming to the meeting.  There's usually plenty of space for everyone so it's not a huge problem if you don't register, we'll still be allowed in.  However, it does help with arranging the room to make sure there are enough seats laid out, and it's polite (don't forget [MINASWAN](http://oreilly.com/ruby/excerpts/ruby-learning-rails/ruby-glossary.html#I_indexterm_d1e32036)), so please do [register](http://skillsmatter.com/event-details/home/lrug-lightning-talks-2012/js-3484).
 

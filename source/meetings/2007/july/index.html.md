@@ -14,8 +14,7 @@ hosted_by:
 
 The next meeting of LRUG will be on Monday the 9th of July, from 6:30pm to 8:00pm at our usual [Skills Matter](http://www.skillsmatter.com/) venue at [1 Sekforde St.](http://maps.google.co.uk/maps?f=q&hl=en&q=EC1R+0BE&layer=&ie=UTF8&z=16&om=1&iwloc=addr).
 
-Agenda
-------
+## Agenda
 
 It's a testing spectacular this month, with both talks focusing on testing methodologies and the libraries that make sticking to those methodologies easier.
 
@@ -33,12 +32,11 @@ Slides and some extra examples are [available from Tom's blog](http://blog.exper
 
 {::coverage year="2007" month="july" talk="rspec-on-rails" /}
 
-### Pub
+## Pub
 
 After all this we'll head to [The Crown Tavern](http://fancyapint.com/pubs/pub199.html) just round the corner from the Skills Matter office to __test__ (<small>sorry</small>) their beers.  Attendance of the main meeting is not a pre-requisite of coming to the pub, so if you can't make the main meeting it's ok to just turn up for the pub.
 
-Registration
-------------
+## Registration {#jul07registration}
 
 As usual, [please register with Skills Matter](http://skillsmatter.com/menu/695) if you are planning to come, so they can manage seating and making sure we get the most appropriately sized room.  There's also an [upcoming event](http://upcoming.yahoo.com/event/208191/) for those of us that love online calendaring.
 

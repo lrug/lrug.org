@@ -20,8 +20,7 @@ hosted_by:
 
 The July meeting will be on *Monday* the 12th of July, from 6:30pm to 8:00pm.  Our hosts [Skills Matter](http://skillsmatter.com/) will be providing the space, at their offices on Goswell Road; [The Skills Matter eXchange](http://skillsmatter.com/location-details/design-architecture/484/96).  It's a great space with plenty of room for the group, but you still need to <a href="#jul10registration">register to let Skills Matter know you are coming</a>.
 
-Agenda
-------
+## Agenda
 
 ### Carat: An interpreted language, written in Ruby
 
@@ -66,13 +65,11 @@ A video of Phil's talk, filmed by Skills Matter, [is available on the Skills Mat
 
 We start the meeting with a short amount of time where anyone in the room can make an announcement.  In the past few months it's mostly been the LRUG job board, but that's not all we want people to talk about.  If you've written some fancy new gem and want to tell people about it, this is the time and place to do it.  If you read a controversial article about some aspect of ruby that you want to draw people's attention to, this is a great time to mention it.  If you've got your finger on the pulse and know about some new hack day or other geek event, this is the room full of people you should mention it to.  The rules are simple, you just have to be quick.
 
-Pub
----
+## Pub
 
 We aim to finish up the formal proceedings of the evening at 8pm.  After that we head to a local pub, [The Slaughtered Lamb](http://www.theslaughteredlambpub.com/), and have some beers and a chat.  If you fancy some lively ruby discussion, but you can't make it for 6:30 you are more than welcome to head straight to the pub.  Just look for a group of people wildly debating the syntax of the latest version of RSpec and you'll have found the right group.
 
-Registration <a name="jul10registration">&nbsp;</a>
----------------------------------------------------
+## Registration {#jul10registration}
 
 Skills Matter prefer that you [register your attendance with them](http://skillsmatter.com/event/ajax-ria/july-meeting) if you are coming to the meeting.  On a few exceptional occasions we've had to turn away people who haven't registered, but this has only been at extremely popular meetings, and has yet to happen at the new venue on Goswell Road.  It's better to be safe than sorry though, and it is polite (don't forget [MINASWAN](http://oreilly.com/ruby/excerpts/ruby-learning-rails/ruby-glossary.html#I_indexterm_d1e32036)), so please do [register](http://skillsmatter.com/event/ajax-ria/july-meeting).
 

@@ -19,8 +19,7 @@ hosted_by:
 
 The May 2013 meeting of LRUG will be on *Monday* the 13th of May, from 6:30pm to 8:00pm.  Our hosts [Skills Matter](http://skillsmatter.com/) will be providing the space, at their offices on Goswell Road; [The Skills Matter eXchange](http://skillsmatter.com/location-details/design-architecture/484/96).  <a href="#may13registration">Registration details are given below</a>.
 
-Agenda
-------
+## Agenda
 
 ### DCI with Ruby & Rails
 
@@ -60,13 +59,11 @@ Randy will be sending out instructions on pre-requisites in a few days to [the m
 
 Also, the nice folks at [Team Prime](http://www.team-prime.com/) are providing some drinks during the talks, so there are even more reasons to make it along!  There'll be a range of beers and soft drinks available.
 
-Pub
----
+## Pub
 
 The talks usually finish up around 8pm, but that's not the end of the meeting!  We continue at [The Slaughtered Lamb](http://www.theslaughteredlambpub.com/) which is about 5 minutes away.  Attendance at the talks is not a requirement on coming to the pub, so if you can't make it to them do feel free to turn up afterwards!
 
-Registration <a name="may13registration">&nbsp;</a>
----------------------------------------------------
+## Registration {#may13registration}
 
 To secure a place at the meeting you *must* [register with our hosts Skills Matter](http://skillsmatter.com/podcast/home/dci-with-ruby-rails).  It helps to make sure we have the room laid out with enough chairs, and in extreme cases that we get priority on the larger rooms over other groups using the space on the same night.  Also, it's polite (don't forget [MINASWAN](http://oreilly.com/ruby/excerpts/ruby-learning-rails/ruby-glossary.html#I_indexterm_d1e32036)), so please do [register with Skills Matter](http://skillsmatter.com/podcast/home/dci-with-ruby-rails).
 

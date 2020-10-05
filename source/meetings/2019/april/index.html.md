@@ -19,10 +19,9 @@ The April 2019 meeting of LRUG will be on *Monday the 8th of April*,
 from _6:00pm_ to _8:00pm_ (meeting start at _6:30pm_).  The venue, [Code
 Node][skills-matter-venue] between Moorgate and Liverpool St. stations, is
 provided by [Skills Matter](http://www.skillsmatter.com).  [Full venue and
-registration details are given below](#april19registration).
+registration details are given below](#apr19registration).
 
-Agenda
-------
+## Agenda
 
 ## Improve confidence in your code with mutation testing
 
@@ -36,8 +35,7 @@ Agenda
 
 >I'm remaking a classic boxing video game, with a twist: the narrative is defined through the hopes, dreams and desires of the player's opponents, not the player themselves. I'll be talking about flipping enemy design in games on its head, as well as demoing a key part of my boxing game: the trash-talk engine!
 
-Afterwards
-----------
+## Afterwards
 
 We plan to finish around 8pm.  That's not
 the end of the evening though, so if you'd like to socialise with other
@@ -62,8 +60,7 @@ informal.
 If you can't attend the talks we'd still be very happy to see you at this part
 of the meeting.  Do come along!
 
-Venue & Registration <a name="april19registration">&nbsp;</a>
------------------------------------------------------------
+## Venue & Registration {#apr19registration}
 
 Prior to attending you should familiarise yourself with our
 [README](http://readme.lrug.org/) paying close attention to [the code of

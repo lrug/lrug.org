@@ -14,8 +14,7 @@ hosted_by:
 
 The October 2012 meeting of LRUG will be on *Monday* the 8th of October, from 6:30pm to 8:00pm.  Our hosts [Skills Matter](http://skillsmatter.com/) will be providing the space, at their offices on Goswell Road; [The Skills Matter eXchange](http://skillsmatter.com/location-details/design-architecture/484/96).  <a href="#oct12registration">Registration details are given below</a>.
 
-Agenda
-------
+## Agenda
 
 ### Beautiful command-line interface design
 
@@ -39,13 +38,11 @@ Agenda
 
 {::coverage year="2012" month="october" talk="dtrace-ruby" /}
 
-Pub
----
+## Pub
 
 The formal part of the evening is usually done no later than 8pm, but that's not when we go home.  We continue the meeting in a more relaxed setting at [The Slaughtered Lamb](http://www.theslaughteredlambpub.com/).  If you can't make the talks there are usually plenty of rubyists propping up the bar and arguing long into the evening about their preferred hash syntax, so please do come along!
 
-Registration <a name="oct12registration">&nbsp;</a>
----------------------------------------------------
+## Registration {#oct12registration}
 
 To secure a place at the meeting you *must* [register with our hosts Skills Matter](http://skillsmatter.com/event-details/home/beautiful-command-line-interface-design).  It helps to make sure we have the room laid out with enough chairs, and in extreme cases that we get priority on the larger rooms over other groups using the space on the same night.  Also, it's polite (don't forget [MINASWAN](http://oreilly.com/ruby/excerpts/ruby-learning-rails/ruby-glossary.html#I_indexterm_d1e32036)), so please do [register with Skills Matter](http://skillsmatter.com/event-details/home/beautiful-command-line-interface-design).
 

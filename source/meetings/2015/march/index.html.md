@@ -19,8 +19,7 @@ hosted_by:
 
 The March 2015 meeting of LRUG will be on *Monday the 9th of March*, from 6:30pm to 8:00pm.  Our hosts [Skills Matter](http://skillsmatter.com/) will be providing the space, at their offices on Goswell Road; [The Skills Matter eXchange](https://skillsmatter.com/locations/96-skills-matter-exchange).  <a href="#mar15registration">Registration details are given below</a>.
 
-Agenda
-------
+## Agenda
 
 ### Exploring #to_proc
 
@@ -62,13 +61,11 @@ The nice people at [Braintree Payments](https://braintreepayments.com) have arra
 
 Thanks [Braintree](https://braintreepayments.com)!
 
-Pub
----
+## Pub
 
 The talks end at 8pm and I'm sure all that talking and pizza will have given us a bit of a thirst.  The evening continues at [The Slaughtered Lamb](http://www.theslaughteredlambpub.com/) which is a 5 minute walk from the Skills Matter office.  It's a great opportunity to talk to the speakers in question, or just catch up with some other London rubyists.  If you're unable to attend the talks please feel free to attend the pub only.
 
-Registration <a name="mar15registration">&nbsp;</a>
----------------------------------------------------
+## Registration {#mar15registration}
 
 To secure a place at the meeting you *must* [register with our hosts Skills Matter](https://skillsmatter.com/meetups/7063-exploring-to_proc-and-pkgr).  It helps to make sure we have the room laid out with enough chairs, and in extreme cases that we get priority on the larger rooms over other groups using the space on the same night.  Also, it's polite (don't forget [MINASWAN](http://oreilly.com/ruby/excerpts/ruby-learning-rails/ruby-glossary.html#I_indexterm_d1e32036)), so please do [register with Skills Matter](https://skillsmatter.com/meetups/7063-exploring-to_proc-and-pkgr).  Prior to attending you should familiarise yourself with our [README](http://readme.lrug.org/).
 

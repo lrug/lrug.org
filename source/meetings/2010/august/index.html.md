@@ -20,8 +20,7 @@ hosted_by:
 
 The August meeting will be on *Monday* the 9th of August, from 6:30pm to 8:00pm.  Our hosts [Skills Matter](http://skillsmatter.com/) will be providing the space, at their offices on Goswell Road; [The Skills Matter eXchange](http://skillsmatter.com/location-details/design-architecture/484/96).  It's a great space with plenty of room for the group, but you still need to <a href="#aug10registration">register to let Skills Matter know you are coming</a>.
 
-Agenda
-------
+## Agenda
 
 ### Making old projects better
 
@@ -57,13 +56,11 @@ A video of Tom's talk, filmed by Skills Matter, [is available on the Skills Matt
 
 Our meetings start with a short period where we make announcements about things going on in the community.  If you have something you think the rest of the group might want to know about; an event, a new gem, a blog post, a company that's hiring or even just to introduce yourself, then this is the time and place to do it.  The only rules are that you can't go on about it, we don't want to eat into the time for the scheduled talks.
 
-Pub
----
+## Pub
 
 After the talks we head on over to the more informal surroundings of [The Slaughtered Lamb](http://www.theslaughteredlambpub.com/) to finish the evening with a beer and maybe a fish-finger sandwich.  If you can't make it to for the talks, we'll be heading to the pub at around 8pm, so we can see you there.
 
-Registration <a name="aug10registration">&nbsp;</a>
----------------------------------------------------
+## Registration {#aug10registration}
 
 Skills Matter prefer that you [register your attendance with them](http://skillsmatter.com/event/ajax-ria/lrug-august) if you are coming to the meeting.  On a few exceptional occasions we've had to turn away people who haven't registered, but this has only been at extremely popular meetings, and has yet to happen at the new venue on Goswell Road.  It's better to be safe than sorry though, and it is polite (don't forget [MINASWAN](http://oreilly.com/ruby/excerpts/ruby-learning-rails/ruby-glossary.html#I_indexterm_d1e32036)), so please do [register](http://skillsmatter.com/event/ajax-ria/lrug-august).
 

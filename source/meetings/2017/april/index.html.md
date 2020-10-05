@@ -24,8 +24,7 @@ Moorgate and Liverpool St. stations, is provided by [Skills
 Matter](http://www.skillsmatter.com).  [Full venue and registration details are
 given below](#apr17registration).
 
-Agenda
-------
+## Agenda
 
 We are a third of the way into the year, and now is the perfect time to
 spring-clean the cobwebs from your mind palace with three excellent talks from
@@ -66,8 +65,7 @@ our community:
 The nice people at [FreeAgent](https://freeagent.com/) have provided 3 tickets for [Brighton Ruby conference](http://brightonruby.com/), a one day, single track, conference for Rubyists in Brighton on the 7th July. The tickets are being raffled off on our [mailing list](/mailing-list).  Thanks [FreeAgent](https://freeagent.com/)!
 
 
-Afterwards
-----------
+## Afterwards
 
 The more-structured part of the meeting ends at 8pm, but that doesn't mean your
 Ruby-related fun needs to end.  Amidst the near-infinite sea of possibilities
@@ -92,8 +90,7 @@ informal.
 If for some reason you can't make the talks you're still more than welcome to
 attend this afterwards part.  We'd love to see you!
 
-Venue & Registration <a name="apr17registration">&nbsp;</a>
------------------------------------------------------------
+## Venue & Registration {#apr17registration}
 
 Prior to attending you should familiarise yourself with our
 [README](http://readme.lrug.org/) paying close attention to [the code of

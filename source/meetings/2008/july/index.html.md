@@ -14,8 +14,7 @@ hosted_by:
 
 The next meeting of LRUG will be on Monday the 14th of July, from 6:30pm to 8:00pm.  It's very likely it will held be in the [Skills Matter](http://www.skillsmatter.com/) overflow venue at [The Old Sessions House](http://www.sessionshouse.com/) on [Clerkenwell Green](http://tinyurl.com/2bjjzz).  Please do <a href="#registration">register your attendance</a> early (see the note about <a href="#jul08registration">registration</a> below).
 
-Agenda
-------
+## Agenda
 
 Note: Expect more info on each of these talks as we get closer to the actual date of the meeting.
 
@@ -54,13 +53,11 @@ Francis will probably also cover some of the site's he's been using xapian on, s
 
 A video of Francis's talk, filmed by [Skills Matter](http://skillsmatter.com/podcast/ajax-ria/act-as-xapian) is available on [Google Video](http://video.google.com/videoplay?docid=6233140832834795067&hl=en).
 
-Pub
----
+## Pub
 
 The talks generally are all done and dusted by 8pm, at which point we decamp to the local pub, [The Crown Tavern](http://fancyapint.com/pubs/pub199.html) for a spot of socialising.  If you can't make the talks for whatever reason, you're always welcome to turn up just for the post-mortem in the pub.
 
-Registration <a name="jul08registration">&nbsp;</a>
----------------------------------------------------
+## Registration {#jul08registration}
 
 [Please register with Skills Matter](http://skillsmatter.com/event/ajax-ria/rabbitmq-ruby) if you are planning to come.  Registration allows Skills Matter to organise a larger room if we need it.  For the past few meetings we've used their overflow venue and thus avoided having to turn people away because of fire-regulations.  We hope to do so again so please [register now](http://skillsmatter.com/event/ajax-ria/rabbitmq-ruby) rather than later (Skills Matter need about a weeks notice to book the larger room).  
 

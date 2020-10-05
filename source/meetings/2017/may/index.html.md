@@ -22,8 +22,7 @@ Moorgate and Liverpool St. stations, is provided by [Skills
 Matter](http://www.skillsmatter.com).  [Full venue and registration details are
 given below](#may17registration).
 
-Agenda
-------
+## Agenda
 
 ### 5 Things I wish my grandfather told me about ActiveRecord and Postgres
 
@@ -51,8 +50,7 @@ Agenda
 > and a look at the broader idea of the relationship between mathematics and
 > computing.
 
-Afterwards
-----------
+## Afterwards
 
 The more-structured part of the meeting ends at 8pm, but that doesn't mean your
 Ruby-related fun needs to end.  Amidst the near-infinite sea of possibilities
@@ -77,8 +75,7 @@ informal.
 If for some reason you can't make the talks you're still more than welcome to
 attend this afterwards part.  We'd love to see you!
 
-Venue & Registration <a name="may17registration">&nbsp;</a>
------------------------------------------------------------
+## Venue & Registration {#may17registration}
 
 Prior to attending you should familiarise yourself with our
 [README](http://readme.lrug.org/) paying close attention to [the code of

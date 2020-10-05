@@ -22,8 +22,7 @@ Moorgate and Liverpool St. stations, is provided by [Skills
 Matter](http://www.skillsmatter.com).  [Full venue and registration details
 are given below](#dec16registration).
 
-Agenda
-------
+## Agenda
 
 ###  Software architecture analysis with runtime type detection in ruby
 
@@ -58,8 +57,7 @@ Agenda
 > get more information out of your A/B tests, and hopefully convince you
 > there's more to them than deciding on some copy, or the colour of a button.
 
-Afterwards
-----------
+## Afterwards
 
 These talks should bring us up to about 8pm.  The meeting doesn't end there
 though, if you've a mind to keep things going you have a choice:
@@ -75,8 +73,7 @@ though, if you've a mind to keep things going you have a choice:
 If you are unable to attend the talks you are still more than welcome to come
 along for this part of the meeting.  The more the merrier.
 
-Venue & Registration <a name="dec16registration">&nbsp;</a>
------------------------------------------------------------
+## Venue & Registration {#dec16registration}
 
 Prior to attending you should familiarise yourself with our
 [README](http://readme.lrug.org/) paying close attention to [the code of

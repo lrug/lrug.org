@@ -20,10 +20,9 @@ from _6:00pm_ to _8:00pm_ (talks start at _6:30pm_).  The venue, [Code
 Node](https://skillsmatter.com/locations/264-skills-matter-codenode) between
 Moorgate and Liverpool St. stations, is provided by [Skills
 Matter](http://www.skillsmatter.com).  [Full venue and registration details are
-given below](#july17registration).
+given below](#jul17registration).
 
-Agenda
-------
+## Agenda
 
 ### Better scripting with Crystal
 
@@ -55,8 +54,7 @@ Agenda
 >
 > Finally we will take a deeper dive into a real world example; constructing a capable webserver.
 
-Afterwards
-----------
+## Afterwards
 
 The talks should be finished by 8pm. After that, you’ve got two main options if
 you want to keep chatting to other LRUG attendees:
@@ -79,8 +77,7 @@ informal.
 If for some reason you can't make the talks you're still more than welcome to
 attend this afterwards part.  We'd love to see you!
 
-Venue & Registration <a name="july17registration">&nbsp;</a>
------------------------------------------------------------
+## Venue & Registration {#jul17registration}
 
 Prior to attending you should familiarise yourself with our
 [README](http://readme.lrug.org/) paying close attention to [the code of

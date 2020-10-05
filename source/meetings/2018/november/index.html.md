@@ -21,10 +21,9 @@ The November 2018 meeting of LRUG will be on *Monday the 12th of November*,
 from _6:00pm_ to _8:00pm_ (talks start at _6:30pm_).  The venue, [Code
 Node][skills-matter-venue] between Moorgate and Liverpool St. stations, is
 provided by [Skills Matter](http://www.skillsmatter.com).  [Full venue and
-registration details are given below](#november18registration).
+registration details are given below](#nov18registration).
 
-Agenda
-------
+## Agenda
 
 ## Open Banking - From Scraping to APIs
 
@@ -67,8 +66,7 @@ There should be plenty, but turn up early if you want to make sure you get some.
 
 Thanks again to [GitHub](https://github.com/) for supporting us!
 
-Afterwards
-----------
+## Afterwards
 
 We aim to finish up the talks by 8pm.  This doesn't mean you have to go home
 though, if you're keen to talk about what you've just heard, or just mingle with
@@ -93,8 +91,7 @@ Don't worry that you'll miss out on this part if you can't make the talks.
 Attendance of the talks is far from mandatory to attend the socialising
 afterwards, so please do come along anyway if you can.
 
-Venue & Registration <a name="november18registration">&nbsp;</a>
-----------------------------------------------------------------
+## Venue & Registration {#nov18registration}
 
 Prior to attending you should familiarise yourself with our
 [README](http://readme.lrug.org/) paying close attention to [the code of

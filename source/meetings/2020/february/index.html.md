@@ -23,8 +23,7 @@ and is in [their offices][simplybusiness-venue], on Gresham St near Bank
 and Moorgate stations.  [Full venue and registration details are given
 below](#feb20registration).
 
-Agenda
-------
+## Agenda
 
 ### Food & Drinks
 
@@ -104,8 +103,7 @@ ruby.
 
 {::coverage year="2020" month="february" talk="how-to-manage-happy-remote-development-teams" /}
 
-Afterwards
-----------
+## Afterwards
 
 These lightning talks should be finished by 8pm after which we'll go to a
 local pub to talk about all the things we've heard.  We'll defer to our
@@ -117,8 +115,7 @@ informal, please remember that still we consider it to be a part of the
 meeting and covered by our [code of conduct](http://readme.lrug.org/#code-of-conduct).
 
 
-Venue & Registration <a name="feb20registration">&nbsp;</a>
------------------------------------------------------------
+## Venue & Registration {#feb20registration}
 
 Prior to attending you should familiarise yourself with our
 [README](http://readme.lrug.org/) paying close attention to [the code of

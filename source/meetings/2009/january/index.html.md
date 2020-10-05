@@ -14,8 +14,7 @@ hosted_by:
 
 The next meeting of LRUG will be on Monday the 12th of January, from 6:30pm to 8:00pm. [Skills Matter](http://www.skillsmatter.com/) are hosting us as usual in [their offices](http://maps.google.co.uk/maps?f=q&hl=en&q=EC1R+0BE&layer=&ie=UTF8&z=16&om=1&iwloc=addr), but you'll need to [register your attendance](#jan09registration) for them to let you in.
 
-Agenda
-------
+## Agenda
 
 ### Couch DB
 
@@ -34,8 +33,7 @@ A video of Paul's talk, filmed by [Skills Matter](http://skillsmatter.com/podcas
 
 There's always time for a drink after the meeting and we usually head to [The Crown Tavern](http://fancyapint.com/pubs/pub199.html) which is just round the corner from the venue.  If you can't make it to the talks part of the evening, the pub should be overflowing with ruby chat from about 8:00pm onwards, so come along!
 
-Registration <a name="jan09registration">&nbsp;</a>
----------------------------------------------------
+## Registration {#jan09registration}
 
 [Please register with Skills Matter](http://skillsmatter.com/event/ajax-ria/lrug-january) if you are planning to come.  They need us to register for fire-regulations and making sure we get the best sized room for the number of attendees.  
 

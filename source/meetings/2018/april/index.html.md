@@ -19,10 +19,9 @@ The April 2018 meeting of LRUG will be on *Monday the 9th of April*,
 from _6:00pm_ to _8:00pm_ (talks start at _6:30pm_).  The venue, [Code
 Node][skills-matter-venue] between Moorgate and Liverpool St. stations,
 is provided by [Skills Matter](http://www.skillsmatter.com).  [Full venue
-and registration details are given below](#april18registration).
+and registration details are given below](#apr18registration).
 
-Agenda
-------
+## Agenda
 
 ### You’re doing documentation wrong (and so am I)
 
@@ -52,8 +51,7 @@ Agenda
 > Enumerators to scale millions of background jobs at Shopify and how it
 > influenced the way developers think when writing resilient code.
 
-Drinks Sponsor
---------------
+## Drinks Sponsor
 
 {::sponsor name="Explore" size="main" /}
 
@@ -68,8 +66,7 @@ with Ruby on Rails developers looking for their next challenge.
 
 Thanks for supporting us [The Explore Group](https://www.explore-group.com/)!
 
-Afterwards
-----------
+## Afterwards
 
 Our aim is to finish the talks by 8pm. The night doesn't have to end there
 though, to continue hanging out with other LRUG attendees you can visit:
@@ -92,8 +89,7 @@ informal.
 If you can't attend the talks we'd still be very happy to see you at this part
 of the meeting.  Do come along!
 
-Venue & Registration <a name="april18registration">&nbsp;</a>
------------------------------------------------------------
+## Venue & Registration {#apr18registration}
 
 Prior to attending you should familiarise yourself with our
 [README](http://readme.lrug.org/) paying close attention to [the code of

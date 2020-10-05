@@ -21,8 +21,7 @@ Node][skills-matter-venue] between Moorgate and Liverpool St. stations, is
 provided by [Skills Matter](http://www.skillsmatter.com).  [Full venue and
 registration details are given below](#oct19registration).
 
-Agenda
-------
+## Agenda
 
 ### Concurrency in Crystal
 
@@ -51,8 +50,7 @@ Agenda
 > your time as a software engineer to help make management easier and more
 > systematic.
 
-Afterwards
-----------
+## Afterwards
 
 We aim to wrap all the talks up by 8pm and then move the meeting into
 socialising mode.  You have a choice for this:
@@ -74,8 +72,7 @@ meeting and covered by our [code of conduct](http://readme.lrug.org/#code-of-con
 If you can't attend the talks we'd still be very happy to see you at this part
 of the meeting.  Do come along!
 
-Venue & Registration <a name="oct19registration">&nbsp;</a>
------------------------------------------------------------
+## Venue & Registration {#oct19registration}
 
 Prior to attending you should familiarise yourself with our
 [README](http://readme.lrug.org/) paying close attention to [the code of

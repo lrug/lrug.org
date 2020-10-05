@@ -14,8 +14,7 @@ hosted_by:
 
 The next meeting of LRUG will be on Monday the 9th of February, from 6:30pm to 8:00pm.  As usual our hosts [Skills Matter](http://skillsmatter.com/) will provide the space, either at [their offices](http://maps.google.co.uk/maps?f=q&hl=en&q=EC1R+0BE&layer=&ie=UTF8&z=16&om=1&iwloc=addr) or [their overflow venue](http://tinyurl.com/5qfpkc), depending on the number of <a href="#feb09registration">registrations</a>.  So make sure that you do <a href="#feb09registration">register your attendance</a> to help them choose and so you can be let into the venue.
 
-Agenda
-------
+## Agenda
 
 ### Lightning Talks
 
@@ -37,8 +36,7 @@ Those brave volunteers are:
 
 After that many presentations there's bound to be a lot to talk about, so we'll make our way to [The Crown Tavern](http://fancyapint.com/pubs/pub199.html).  This pub is really close to either of the venues we use for our meetings and is perfect for a post-meeting chat and drink.  If you can't make it to the meeting, but still fancy some ruby chat, just head along to the pub and we'll be the ones crowding the bar from about 8:00pm onwards.
 
-Registration <a name="feb09registration">&nbsp;</a>
----------------------------------------------------
+## Registration {#feb09registration}
 
 [Please register with Skills Matter](http://skillsmatter.com/event/ajax-ria/lightning-talks-ruby-and-rails) if you are planning to come.  As we mentioned above, they need us to register for fire-regulations and making sure we get the best sized room for the number of attendees.  
 

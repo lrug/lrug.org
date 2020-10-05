@@ -21,7 +21,7 @@ We've added a new announcement segment to the meeting. It's a chance
 for everyone to share releases, news and events with the group. Here's
 a summary of last night's announcements and pub chat:
 
-# Recent Releases by the London crew
+## Recent Releases by the London crew
 
 ### [UJS Rails Plugin 0.3.1](http://www.ujs4rails.com/)
 by Luke Redpath and Dan Webb
@@ -37,7 +37,7 @@ A library for mocking and stubbing within a TestCase.
 
 
 
-# Events of Interest
+## Events of Interest
 
 Join upcoming.org to keep up with the [latest events](http://upcoming.org/group/1589/):
 
@@ -56,7 +56,7 @@ Selenium author Jason Huggins speaking
 The European Ruby Conference, held in Munich
 
 
-# News
+## News
 
 ### Structured releasing of Rails Plugins
 [James Adam](http://interblah.net/2006/8/18/the-rails-plugins-repository) and [Luke Redpath](http://www.lukeredpath.co.uk/2006/8/18/rails-plugin-repository-is-on-the-way/) have a project under way to standardize the

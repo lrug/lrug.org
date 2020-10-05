@@ -19,8 +19,7 @@ hosted_by:
 
 The July 2013 meeting of LRUG will be on *Monday* the 15th of July, from 6:30pm to 8:00pm.  Our hosts [Skills Matter](http://skillsmatter.com/) will be providing the space, at their offices on Goswell Road; [The Skills Matter eXchange](http://skillsmatter.com/location-details/design-architecture/484/96).  <a href="#jul13registration">Registration details are given below</a>.
 
-Agenda
-------
+## Agenda
 
 ### The reluctant Chef
 
@@ -71,13 +70,11 @@ Agenda
 
 The nice folks at [Workshare](http://www.workshare.com/) have arranged to have some drinks made available *during* the meeting, so it's an even better idea than usual to <a href="#jul13registration">register your attendance</a> and secure your place!
 
-Pub
----
+## Pub
 
 Our talks finish up no later than 8pm, but that's not the end of the evening.  Most of us wander over to [The Slaughtered Lamb](http://www.theslaughteredlambpub.com/) to have a chat.  You don't have to attend the talks to turn up for the pub, so please do come along!
 
-Registration <a name="jul13registration">&nbsp;</a>
----------------------------------------------------
+## Registration {#jul13registration}
 
 To secure a place at the meeting you *must* [register with our hosts Skills Matter](http://skillsmatter.com/event-details/home/lrug-hosts-simon-coffey-and-louis-goff-beardsley).  It helps to make sure we have the room laid out with enough chairs, and in extreme cases that we get priority on the larger rooms over other groups using the space on the same night.  Also, it's polite (don't forget [MINASWAN](http://oreilly.com/ruby/excerpts/ruby-learning-rails/ruby-glossary.html#I_indexterm_d1e32036)), so please do [register with Skills Matter](http://skillsmatter.com/event-details/home/lrug-hosts-simon-coffey-and-louis-goff-beardsley).
 

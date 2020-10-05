@@ -14,8 +14,7 @@ hosted_by:
 
 The May 2012 meeting of LRUG will be on *Monday* the 14th of May, from 6:30pm to 8:00pm.  Our hosts [Skills Matter](http://skillsmatter.com/) will be providing the space, at their offices on Goswell Road; [The Skills Matter eXchange](http://skillsmatter.com/location-details/design-architecture/484/96).  <a href="#may12registration">Registration details are given below</a>.
 
-Agenda
-------
+## Agenda
 
 ### Ruby's bin men: a closer look at the garbage collector
 
@@ -51,13 +50,11 @@ Tom's talk is also available for discussion on the [EuRuKo gothub-based CFP](htt
 
 {::coverage year="2012" month="may" talk="dependency-injection-the-dependency-inversion-principle-and-you" /}
 
-Pub
----
+## Pub
 
 After the talks we continue the evening in [The Slaughtered Lamb](http://www.theslaughteredlambpub.com/).  If you can't make the talks, we're usually in the pub by 8pm, so you should come and join us.
 
-Registration <a name="may12registration">&nbsp;</a>
----------------------------------------------------
+## Registration {#may12registration}
 
 To secure a place at the meeting you must [register with our hosts Skills Matter](http://skillsmatter.com/event-details/home/lrug-may-1376/js-4073).  It helps to make sure we have the room laid out with enough chairs, and in extreme cases that we get priority on the larger rooms over other groups using the space on the same night.  Also, it's polite (don't forget [MINASWAN](http://oreilly.com/ruby/excerpts/ruby-learning-rails/ruby-glossary.html#I_indexterm_d1e32036)), so please do [register with Skills Matter](http://skillsmatter.com/event-details/home/lrug-may-1376/js-4073).
 

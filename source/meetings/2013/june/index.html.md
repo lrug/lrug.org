@@ -19,8 +19,7 @@ hosted_by:
 
 The June 2013 meeting of LRUG will be on *Monday* the 10th of June, from 6:30pm to 8:00pm.  Our hosts [Skills Matter](http://skillsmatter.com/) will be providing the space, at their offices on Goswell Road; [The Skills Matter eXchange](http://skillsmatter.com/location-details/design-architecture/484/96).  <a href="#jun13registration">Registration details are given below</a>.
 
-Agenda
-------
+## Agenda
 
 ### State Transitions Are People Too
 
@@ -69,8 +68,7 @@ JB originally proposed this talk for [Ruby Manor 4](http://rubymanor.org/4/) and
 
 {::coverage year="2013" month="june" talk="application-example-based-on-gov-uk-public-code" /}
 
-Pub
----
+## Pub
 
 We'll finish the formal talk-based part of the meeting at about 8pm and start the informal pub-based part about 5 minutes later in [The Slaughtered Lamb](http://www.theslaughteredlambpub.com/).  If you can't make the talks, do come along just for the pub, someone can get you caught up on what happened and no-one will know you weren't there!
 
@@ -78,8 +76,7 @@ We'll finish the formal talk-based part of the meeting at about 8pm and start th
 
 Also, the nice folks at [Yammer](http://www.yammer.com/) are putting some money behind the bar to provide some drinks for us, so there are even more reasons to make it along!
 
-Registration <a name="jun13registration">&nbsp;</a>
----------------------------------------------------
+## Registration {#jun13registration}
 
 To secure a place at the meeting you *must* [register with our hosts Skills Matter](http://skillsmatter.com/event/ajax-ria/lrug-june-meetup).  It helps to make sure we have the room laid out with enough chairs, and in extreme cases that we get priority on the larger rooms over other groups using the space on the same night.  Also, it's polite (don't forget [MINASWAN](http://oreilly.com/ruby/excerpts/ruby-learning-rails/ruby-glossary.html#I_indexterm_d1e32036)), so please do [register with Skills Matter](http://skillsmatter.com/event/ajax-ria/lrug-june-meetup).
 

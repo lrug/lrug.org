@@ -19,8 +19,7 @@ hosted_by:
 
 The March 2013 meeting of LRUG will be on *Monday* the 11th of March, from 6:30pm to 8:00pm.  Our hosts [Skills Matter](http://skillsmatter.com/) will be providing the space, at their offices on Goswell Road; [The Skills Matter eXchange](http://skillsmatter.com/location-details/design-architecture/484/96).  <a href="#mar13registration">Registration details are given below</a>.
 
-Agenda
-------
+## Agenda
 
 ### deliver
 
@@ -48,8 +47,7 @@ Agenda
 
 {::coverage year="2013" month="march" talk="passing-on-our-skills-to-the-next-generation" /}
 
-Pub
----
+## Pub
 
 We're a friendly bunch, so if you don't make it to the talks you can still join us for a drink afterwards.  The talks normally finish up by 8pm and you can find us crowding the bar at [The Slaughtered Lamb](http://www.theslaughteredlambpub.com/) shortly after.
 
@@ -57,8 +55,7 @@ We're a friendly bunch, so if you don't make it to the talks you can still join 
 
 Also, the nice folks at [House Trip](http://www.housetrip.com/) are sponsoring some drinks behind the bar, so there are even more reasons to make it along!
 
-Registration <a name="mar13registration">&nbsp;</a>
----------------------------------------------------
+## Registration {#mar13registration}
 
 To secure a place at the meeting you *must* [register with our hosts Skills Matter]( http://skillsmatter.com/event-details/home/lrug-march-1645).  It helps to make sure we have the room laid out with enough chairs, and in extreme cases that we get priority on the larger rooms over other groups using the space on the same night.  Also, it's polite (don't forget [MINASWAN](http://oreilly.com/ruby/excerpts/ruby-learning-rails/ruby-glossary.html#I_indexterm_d1e32036)), so please do [register with Skills Matter]( http://skillsmatter.com/event-details/home/lrug-march-1645).
 

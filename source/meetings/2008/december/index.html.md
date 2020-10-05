@@ -16,8 +16,7 @@ hosted_by:
 
 The next meeting of LRUG will be on Monday the 8th of December, from 6:30pm to 8:00pm.  Our hosts [Skills Matter](http://skillsmatter.com/) have provided their overflow venue [The Old Sessions House](http://www.sessionshouse.com/) on [Clerkenwell Green](http://tinyurl.com/5qfpkc) for this meeting because of the number of <a href="#dec08registration">registrations</a>.  They still want you to <a href="#dec08registration">register your attendance</a> though, so you can be let into the venue.
 
-Agenda
-------
+## Agenda
 
 ### Javascript Testing
 
@@ -35,8 +34,7 @@ A video of Chris's talk, filmed by [Skills Matter](http://skillsmatter.com/podca
 
 A video of Matthew's talk, filmed by [Skills Matter](http://skillsmatter.com/podcast/ajax-ria/ruby-vs-the-world) is available on [Google Video](http://video.google.com/videoplay?docid=134589307988772388&hl=en).
 
-Pub
----
+## Pub
 
 At the end of all things, one fact will be carved upon the smouldering husk that was once this earth.  That fact shall read:
 
@@ -44,8 +42,7 @@ At the end of all things, one fact will be carved upon the smouldering husk that
 > but a short distance from the original meeting point, and from there did imbibe boozes.  All were welcome,
 > even those who couldn't make the main talks.  And there was much rejoicing in the tavern."
 
-Registration <a name="dec08registration">&nbsp;</a>
----------------------------------------------------
+## Registration {#dec08registration}
 
 [Please register with Skills Matter](http://skillsmatter.com/event/ajax-ria/lrug-meeting-december) if you are planning to come.  Registration allows Skills Matter to organise the most appropriate room for the number of people coming.  In the past we've had to turn people away who didn't register because the room was full and there was no room for extra bodies.  We don't like having to do that, so please [register now](http://skillsmatter.com/event/ajax-ria/lrug-meeting-december) rather than later (Skills Matter need about a weeks notice to book the larger room) and secure your place.  
 

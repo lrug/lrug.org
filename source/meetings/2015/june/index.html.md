@@ -17,8 +17,7 @@ hosted_by:
 
 The June 2015 meeting of LRUG will be on *Monday the 8th of June*, from 6:30pm to 8:00pm.  Our hosts [Skills Matter](http://skillsmatter.com/) will be providing the space, at their offices on Goswell Road; [The Skills Matter eXchange](https://skillsmatter.com/locations/96-skills-matter-exchange).  <a href="#jun15registration">Registration details are given below</a>.
 
-Agenda
-------
+## Agenda
 
 ### Redis is the answer, what's the question?
 
@@ -53,13 +52,11 @@ talk, he will attempt an array of traditional magic tricks, using only
 
 {::coverage year="2015" month="june" talk="test-bisection-with-rspec" /}
 
-Pub
----
+## Pub
 
 All those talks will take us to about 8pm, after which we leave Skills Matter's offices and head over to [The Slaughtered Lamb](http://www.theslaughteredlambpub.com/) to continue the meeting.  While we ask you to [register for the talks](#jun15registration), there's no need to do so for this pub part; feel free to turn up even if you don't make it for the talks.
 
-Registration <a name="jun15registration">&nbsp;</a>
----------------------------------------------------
+## Registration {#jun15registration}
 
 To secure a place at the meeting you *must* [register with our hosts Skills Matter](https://skillsmatter.com/meetups/7216-lrug-june-2015-meetup).  It helps to make sure we have the room laid out with enough chairs, and in extreme cases that we get priority on the larger rooms over other groups using the space on the same night.  Also, it's polite (don't forget [MINASWAN](http://oreilly.com/ruby/excerpts/ruby-learning-rails/ruby-glossary.html#I_indexterm_d1e32036)), so please do [register with Skills Matter](https://skillsmatter.com/meetups/7216-lrug-june-2015-meetup).  Prior to attending you should familiarise yourself with our [README](http://readme.lrug.org/).
 

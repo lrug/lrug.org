@@ -22,8 +22,7 @@ Moorgate and Liverpool St. stations, is provided by [Skills
 Matter](http://www.skillsmatter.com).  [Full venue and registration details are
 given below](#mar17registration).
 
-Agenda
-------
+## Agenda
 
 After the flurry of February's traditional lightning talks, we're back to the
 regular format, with three talks for your enjoyment:
@@ -50,8 +49,7 @@ regular format, with three talks for your enjoyment:
 > them with Little Boxes.
 
 
-Afterwards
-----------
+## Afterwards
 
 We aim to finish up the talks and formal part of the meeting by 8pm, but that
 doesn't mean you have to go home.  Why not celebrate our headlong rush towards
@@ -76,8 +74,7 @@ informal.
 If for some reason you can't make the talks you're still more than welcome to
 attend this afterwards part.  We'd love to see you!
 
-Venue & Registration <a name="mar17registration">&nbsp;</a>
------------------------------------------------------------
+## Venue & Registration {#mar17registration}
 
 Prior to attending you should familiarise yourself with our
 [README](http://readme.lrug.org/) paying close attention to [the code of

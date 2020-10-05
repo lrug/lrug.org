@@ -20,10 +20,9 @@ from _6:00pm_ to _8:00pm_ (talks start at _6:30pm_).  The venue, [Code
 Node](https://skillsmatter.com/locations/264-skills-matter-codenode) between
 Moorgate and Liverpool St. stations, is provided by [Skills
 Matter](http://www.skillsmatter.com).  [Full venue and registration details are
-given below](#september17registration).
+given below](#sep17registration).
 
-Agenda
-------
+## Agenda
 
 ### Let Humans Human and Computers Computer - A Tale of Building Effective Automations
 
@@ -56,8 +55,7 @@ Agenda
 > story.
 
 
-Afterwards
-----------
+## Afterwards
 
 The talks will take us to 8pm or thereabouts.  The end of the talks doesn't
 have to be the end of the evening though.  We suggest you choose one of
@@ -82,8 +80,7 @@ informal.
 If for some reason you can't make the talks you're still more than welcome to
 attend this afterwards part.  We'd love to see you!
 
-Venue & Registration <a name="september17registration">&nbsp;</a>
------------------------------------------------------------
+## Venue & Registration {#sep17registration}
 
 Prior to attending you should familiarise yourself with our
 [README](http://readme.lrug.org/) paying close attention to [the code of

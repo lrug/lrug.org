@@ -14,8 +14,7 @@ hosted_by:
 
 The August 2011 meeting of LRUG will be on *Monday* the 8th of August, from 6:30pm to 8:00pm.  Our hosts [Skills Matter](http://skillsmatter.com/) will be providing the space, at their offices on Goswell Road; [The Skills Matter eXchange](http://skillsmatter.com/location-details/design-architecture/484/96).  It's a great space with plenty of room for the group, but you still need to <a href="#aug11registration">register to let Skills Matter know you are coming</a>.
 
-Agenda
-------
+## Agenda
 
 ### Managing Web Application Servers with Puppet
 
@@ -70,13 +69,11 @@ Agenda
 > lightweight virtual machines, configure them by applying the appropriate [Chef](http://www.opscode.com/chef/)
 > roles to them, and then run acceptance and integration tests against the environment.
 
-Pub
----
+## Pub
 
 We aim to finish up the talk part of the evening by 8pm.  At this point we talk a short walk to [The Slaughtered Lamb](http://www.theslaughteredlambpub.com/) to round off the evening with wine and song.  If you're unable to attend the talks, you're more than welcome to turn up at the pub whenever you can.
 
-Registration <a name="aug11registration">&nbsp;</a>
----------------------------------------------------
+## Registration {#aug11registration}
 
 Skills Matter prefer that you [register your attendance with them](http://skillsmatter.com/podcast/home/lrug-puppet/js-2293) if you are coming to the meeting.  There's plenty of space so you'll get in if you forget, but it is polite (don't forget [MINASWAN](http://oreilly.com/ruby/excerpts/ruby-learning-rails/ruby-glossary.html#I_indexterm_d1e32036)), so please do [register](http://skillsmatter.com/podcast/home/lrug-puppet/js-2293).
 

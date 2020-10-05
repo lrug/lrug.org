@@ -17,8 +17,7 @@ hosted_by:
 
 The August 2014 meeting of LRUG will be on *Monday the 11th of August*, from 6:30pm to 8:00pm.  Our hosts [Skills Matter](http://skillsmatter.com/) will be providing the space, at their offices on Goswell Road; [The Skills Matter eXchange](https://skillsmatter.com/locations/96-skills-matter-exchange).  <a href="#aug14registration">Registration details are given below</a>.
 
-Agenda
-------
+## Agenda
 
 ### How to make Guacamole
 
@@ -52,13 +51,11 @@ Agenda
 
 {::coverage year="2014" month="august" talk="a-gentle-introduction-to-music-theory-in-ruby" /}
 
-Pub
----
+## Pub
 
 The presentation-based part of the meeting ends at 8pm and we move to the social part of the meeting shortly after.  For this 2nd half we switch venues to [The Slaughtered Lamb](http://www.theslaughteredlambpub.com/) so if you can't make the talks, or don't register in time, feel free to turn up just for this pub bit.
 
-Registration <a name="aug14registration">&nbsp;</a>
----------------------------------------------------
+## Registration {#aug14registration}
 
 To secure a place at the meeting you *must* [register with our hosts Skills Matter](https://www.skillsmatter.com/meetups/6493-how-to-make-guacamole-a-gentle-introduction-to-music-theory-in-ruby).  It helps to make sure we have the room laid out with enough chairs, and in extreme cases that we get priority on the larger rooms over other groups using the space on the same night.  Also, it's polite (don't forget [MINASWAN](http://oreilly.com/ruby/excerpts/ruby-learning-rails/ruby-glossary.html#I_indexterm_d1e32036)), so please do [register with Skills Matter](https://www.skillsmatter.com/meetups/6493-how-to-make-guacamole-a-gentle-introduction-to-music-theory-in-ruby).  Prior to attending you should familiarise yourself with our [README](http://readme.lrug.org/).
 

@@ -19,10 +19,9 @@ The July 2019 meeting of LRUG will be on *Monday the 8th of July*,
 from _6:00pm_ to _8:00pm_ (meeting start at _6:30pm_).  The venue, [Code
 Node][skills-matter-venue] between Moorgate and Liverpool St. stations, is
 provided by [Skills Matter](http://www.skillsmatter.com).  [Full venue and
-registration details are given below](#july19registration).
+registration details are given below](#jul19registration).
 
-Agenda
-------
+## Agenda
 
 ### What does a Coconut and Serverless have in common?
 
@@ -45,8 +44,7 @@ Agenda
 > In this talk I'll walk you through how to build a Cloud66 clone, a DevOps platform that's gaining ground in the Rails community. Wouldn't it be nice to provide a service with a Github link and have all the AWS infrastructure (EC2 servers, load balancers, databases etc) set up for you whilst you grind your coffee beans. Come to this talk to find out how easy that actually is. 
 
 
-Afterwards
-----------
+## Afterwards
 
 All these talks will take us to around about 8pm, after which we have two
 choices for socialising with your fellow LRUG attendees:
@@ -69,8 +67,7 @@ informal.
 If you can't attend the talks we'd still be very happy to see you at this part
 of the meeting.  Do come along!
 
-Venue & Registration <a name="july19registration">&nbsp;</a>
------------------------------------------------------------
+## Venue & Registration {#jul19registration}
 
 Prior to attending you should familiarise yourself with our
 [README](http://readme.lrug.org/) paying close attention to [the code of

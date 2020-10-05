@@ -20,8 +20,7 @@ hosted_by:
 
 The next meeting of LRUG will be on Wednesday the 9th of September, from 6:30pm to 8:00pm.  As usual our hosts [Skills Matter](http://skillsmatter.com/) will provide the space, at our new venue [The Crypt](http://skillsmatter.com/location-details/home/166/26) (it's very close to the other venues).  We still need people to <a href="#sep09registration">register</a> though to make sure the room is set up properly.
 
-Agenda
-------
+## Agenda
 
 ### Coding Dojo
 
@@ -54,13 +53,11 @@ There is also a video of the evening available on [the Skills Matter site](http:
 
 Following on from [last month](http://lists.lrug.org/pipermail/chat-lrug.org/2009-August/003971.html) there'll be 10-15 minutes at the start of the meeting for the analogue blog.  The Analogue Blog is open for anyone to say whatever they think is interesting; you could announce a gem you've written, you could point out a nice plugin or tool that you've been using recently, you can mention a blog post that got you thinking, you could ask for some help on a pet-project, basically anything goes, just keep it short so that everyone else has time to speak!
 
-Pub
----
+## Pub
 
 This meeting is going to be very different to our normal presentation-based meetings, and as such is bound to generate a lot to talk about.  No-one likes to talk with a dry throat so, as usual, we'll head on over to [The Crown Tavern](http://fancyapint.com/pubs/pub199.html) for some sweet throat lubrication.  Although we start the formal meeting proceedings at 6:30, and are open to late-comers, there are plenty of LRUG regulars who can't quite make it.  If you're one of those feel free to head on over to pub for about 8pm, which is when we aim to finish up the Dojo.
 
-Registration <a name="sep09registration">&nbsp;</a>
----------------------------------------------------
+## Registration {#sep09registration}
 
 Our new venue shouldn't have any capacity problems.  However, we'd still like for people to [register with Skills Matter](http://skillsmatter.com/event/ajax-ria/lrug-sep) if they are planning on attending.  Registration lets Skills Matter layout the room properly and make sure everyone has a name badge.  For this event it'll also help us know how many groups to split up into, so please do [register as early as you can](http://skillsmatter.com/event/ajax-ria/lrug-sep) to help us out.
 

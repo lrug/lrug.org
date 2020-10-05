@@ -22,8 +22,7 @@ month is provided by [GoCardless](https://gocardless.com/about/careers/)
 and is in [their offices][gocardless-venue], on Goswell Road.  [Full venue
 and registration details are given below](#jan20registration).
 
-Agenda
-------
+## Agenda
 
 ### Food & Drinks
 
@@ -91,8 +90,7 @@ using ruby for that doesn’t fit that bill, but also isn’t a standard
 webapp?  We'd love to hear about it, whatever it is.  Show us what ruby
 can do!
 
-Afterwards
-----------
+## Afterwards
 
 Our goal is to be finished exploring ruby's talents by 8pm, after which
 we'll move to a nearby pub to talk about the talents on show and do a spot
@@ -104,8 +102,7 @@ informal, please remember that still we consider it to be a part of the
 meeting and covered by our [code of conduct](http://readme.lrug.org/#code-of-conduct).
 
 
-Venue & Registration <a name="jan20registration">&nbsp;</a>
------------------------------------------------------------
+## Venue & Registration {#jan20registration}
 
 Prior to attending you should familiarise yourself with our
 [README](http://readme.lrug.org/) paying close attention to [the code of

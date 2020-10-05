@@ -17,8 +17,7 @@ hosted_by:
 
 The April 2015 meeting of LRUG will be on *Monday the 13th of April*, from 6:30pm to 8:00pm.  Our hosts [Skills Matter](http://skillsmatter.com/) will be providing the space, at their offices on Goswell Road; [The Skills Matter eXchange](https://skillsmatter.com/locations/96-skills-matter-exchange).  <a href="#apr15registration">Registration details are given below</a>.
 
-Agenda
-------
+## Agenda
 
 ### Un-artificial Intelligence: How People Learn
 
@@ -50,13 +49,11 @@ Agenda
 
 {::coverage year="2015" month="april" talk="the-new-mongodb-ruby-driver-2-0" /}
 
-Pub
----
+## Pub
 
 The formal talks-and-speakers-based part of the meeting ends around 8pm, after which we make the short trip to [The Slaughtered Lamb](http://www.theslaughteredlambpub.com/) to continue the event.  Most of the attendees and speakers are usually here so it's a great chance to find out what's going on in the LRUG community, or to catch up with or make some new friends.  Attendance of the talks is not a prerequisite for coming to the pub, so please do come along!
 
-Registration <a name="apr15registration">&nbsp;</a>
----------------------------------------------------
+## Registration {#apr15registration}
 
 To secure a place at the meeting you *must* [register with our hosts Skills Matter](https://skillsmatter.com/meetups/7113-un-artificial-intelligence-and-the-new-mongodb-ruby-driver-2-point-0).  It helps to make sure we have the room laid out with enough chairs, and in extreme cases that we get priority on the larger rooms over other groups using the space on the same night.  Also, it's polite (don't forget [MINASWAN](http://oreilly.com/ruby/excerpts/ruby-learning-rails/ruby-glossary.html#I_indexterm_d1e32036)), so please do [register with Skills Matter](https://skillsmatter.com/meetups/7113-un-artificial-intelligence-and-the-new-mongodb-ruby-driver-2-point-0).  Prior to attending you should familiarise yourself with our [README](http://readme.lrug.org/).
 

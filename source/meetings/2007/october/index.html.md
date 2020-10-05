@@ -14,8 +14,7 @@ hosted_by:
 
 The next meeting of LRUG will be on Monday the 8th of October, from 6:30pm to 8:00pm at our usual [Skills Matter](http://www.skillsmatter.com/) venue at [1 Sekforde St.](http://maps.google.co.uk/maps?f=q&hl=en&q=EC1R+0BE&layer=&ie=UTF8&z=16&om=1&iwloc=addr).
 
-Agenda
-------
+## Agenda
 
 ### resouces_controller
 
@@ -35,8 +34,7 @@ Slides are [available here](http://homepage.mac.com/djjwm/LRUG.pdf).
 
 Post-talks [The Crown Tavern](http://fancyapint.com/pubs/pub199.html), conveniently located just round the corner from the Skills Matter offices, becomes our home for the rest of the evening.  There's usually a lot of good discussions here, so if you don't think you can make it for the presentations then just come along to the pub, you're more than welcome.
 
-Registration
-------------
+## Registration {#oct07registration}
 
 As usual, [please register with Skills Matter](http://www.skillsmatter.com/lrug) if you are planning to come.  This way they can manage seating and make sure we get the most appropriately sized room.  There's also an [upcoming event](http://upcoming.yahoo.com/event/271749/) for those of us that love online calendaring. 
 

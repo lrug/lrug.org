@@ -14,8 +14,7 @@ hosted_by:
 
 The next meeting of LRUG will be on Monday the 10th of December, from 6:30pm to 8:00pm at our usual [Skills Matter](http://www.skillsmatter.com/) venue at [1 Sekforde St.](http://maps.google.co.uk/maps?f=q&hl=en&q=EC1R+0BE&layer=&ie=UTF8&z=16&om=1&iwloc=addr).
 
-Agenda
-------
+## Agenda
 
 ### Rails CMS Roundup
 
@@ -33,8 +32,7 @@ Slides are [available here](http://www.slideshare.net/hlame/wierd-wonderful-idea
 
 [The Crown Tavern](http://fancyapint.com/pubs/pub199.html) is only a hop, skip and jump away from the Skills Matter offices and we congregate here after the talks for a drink and a chat.  If you don't think you can make it for the 6:30 kick-off of the main presentation part of the evening, just come along to the pub for the socialising.
 
-Registration
-------------
+## Registration {#dec07registration}
 
 [Please register with Skills Matter](http://www.skillsmatter.com/lrug) if you are planning to come.  They need us to register so they make sure we get the most appropriately sized room, but they can only accommodate a larger than usual meeting (more than 80 folk) if they get enough notice to book a bigger room, so [register now](http://www.skillsmatter.com/lrug) rather than later.  There's also an [upcoming event](http://upcoming.yahoo.com/event/322274/) for those of us that love online calendaring. 
 

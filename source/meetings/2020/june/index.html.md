@@ -23,12 +23,11 @@ We'll run the meeting on our own zoom account, so make sure you have
 the zoom client for your preferred device, or know how to attend via
 the web.
 
-[Full registration details are given below](#june20registration), note
+[Full registration details are given below](#jun20registration), note
 that **we will only be sending out the zoom meeting url to people who
 have registered, so please do make sure you do it.**
 
-Agenda
-------
+## Agenda
 
 We've got two talks for you this month.  There's room for one
 more lightning talk so get in touch if you'd like to talk about something for no more than 10 minutes.  We need more
@@ -65,23 +64,21 @@ Panos is a Senior Software Engineer at [Lavanda](https://getlavanda.com/).
 
 {::coverage year="2020" month="june" talk="agile-or-waterfall-a-risk-management-perspective" /}
 
-Afterwards
-----------
+## Afterwards
 
 Last time there was no afterwards, we just stopped the zoom meeting.  That
 felt a bit abrupt, if you've got a good idea of how to replicate the
 post-talk chats get in touch at [organisers@lrug.org](mailto:organisers@lrug.org)
 and we'll see what we can do.
 
-Registration <a name="june20registration">&nbsp;</a>
------------------------------------------------------------
+## Registration {#jun20registration}
 
 Prior to attending you should familiarise yourself with our [README](http://readme.lrug.org/)
 paying close attention to [the code of conduct](http://readme.lrug.org/#code-of-conduct)
 which applies to all attendees, even though there's no pub or venue.
 Basically they are good rules to generally live your life by.
 
-### Registration
+### Secure your place
 
 Even in a virtual world there are limited places for attending the meeting
 so you need to register via [eventbrite][june2020-eventbrite].  The link to

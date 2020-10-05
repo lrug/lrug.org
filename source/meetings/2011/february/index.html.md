@@ -14,8 +14,7 @@ hosted_by:
 
 The <span class="summary">LRUG February 2011 meeting</span> will be on <span class="dtstart"><span class="value" title="20110207">*Monday* the 7th of February</span>, from <span class="value" title="18:30">6:30pm</span></span> to <span class="dtend" title="20110207T20:00">8:00pm</span>.  Our hosts [Skills Matter](http://skillsmatter.com/) will be providing the space, at <span class="location hcard">their offices on <span class="adr">Goswell Road</span>; <span class="url">[<span class="fn">The Skills Matter eXchange</span>](http://skillsmatter.com/location-details/design-architecture/484/96)</span></span>.  It's a great space with plenty of room for the group, but you still need to <a href="#feb11registration">register to let Skills Matter know you are coming</a>.
 
-Agenda
-------
+## Agenda
 
 ### Lightning talks!
 
@@ -79,13 +78,11 @@ The brave 20x20ers for 2011 are (in alphabetical order, on the night the talks w
 
 Looks like a fun night!
 
-Pub
----
+## Pub
 
 These short talks are bound to raise more questions than they answer and to answer those questions we'll head over to [The Slaughtered Lamb](http://www.theslaughteredlambpub.com/).  It's only five minutes from Skills Matter's offices and does a killer fish-finger sandwich.  The talks will probably finish around 8pm, so if for some reason you aren't able to make it for the talks (but you really should try), head to the pub for about 8pm and you'll find blocking all reasonable access to the bar for about 20-30 minutes.  Maybe get there a bit earlier?
 
-Registration <a name="feb11registration">&nbsp;</a>
----------------------------------------------------
+## Registration {#feb11registration}
 
 Skills Matter ask that you [register your attendance with them](http://skillsmatter.com/event/ajax-ria/lrug-lightning-talks/rl-311) if you are coming to the meeting.  On a few exceptional occasions we've had to turn away people who haven't registered.  This has only been at extremely popular meetings and has yet to happen at Goswell Road, but it's better to be safe than sorry though.  It is just good manners though (don't forget [MINASWAN](http://oreilly.com/ruby/excerpts/ruby-learning-rails/ruby-glossary.html#I_indexterm_d1e32036)), so please do [register](http://skillsmatter.com/event/ajax-ria/lrug-lightning-talks/rl-311).
 

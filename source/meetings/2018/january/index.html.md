@@ -35,8 +35,7 @@ Moorgate and Liverpool St. stations, is provided by [Skills
 Matter](http://www.skillsmatter.com).  [Full venue and registration details are
 given below](#january18registration).
 
-Agenda
-------
+## Agenda
 
 ### Quiz!
 
@@ -100,8 +99,7 @@ us out please do get in touch with us at
 your stomach of helping us out the benefits of sponsorship [are explained
 on our readme site](http://readme.lrug.org/#sponsorship).
 
-Afterwards
-----------
+## Afterwards
 
 We aim to finish the quiz by 8pm (although it may over-run depending on how
 long the marking and prize-giving takes).  There's bound to be some heated

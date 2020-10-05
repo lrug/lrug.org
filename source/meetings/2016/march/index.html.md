@@ -17,8 +17,7 @@ hosted_by:
 
 The March 2016 meeting of LRUG will be on *Monday the 14th of March*, from 6:00pm to 8:00pm (talks start at 6:30pm).  The venue, [Code Node](https://skillsmatter.com/locations/264-skills-matter-codenode) between Moorgate and Liverpool St. stations, is provided by [Skills Matter](http://www.skillsmatter.com).  [Full venue and registration details are given below](#mar16registration).
 
-Agenda
-------
+## Agenda
 
 ### Elixir for Rubyists
 
@@ -51,8 +50,7 @@ Daniel Magliola is going to tell us about [Redis](http://redis.io/):
 
 {::coverage year="2016" month="march" talk="a-reintroduction-to-codebar" /}
 
-Afterwards
-----------
+## Afterwards
 
 We aim to finish the talks by 8pm, but that's not where the meeting ends.  If you'd like to continue chatting to other attendees you have a choice:
 
@@ -61,8 +59,7 @@ We aim to finish the talks by 8pm, but that's not where the meeting ends.  If yo
 
 Attendance at the talks isn't required to come along for the socialising part of the meeting, so please do head over if you can't make the earlier part.
 
-Venue & Registration <a name="mar16registration">&nbsp;</a>
------------------------------------------------------------
+## Venue & Registration {#mar16registration}
 
 Prior to attending you should familiarise yourself with our [README](http://readme.lrug.org/) paying close attention to [the code of conduct](http://readme.lrug.org/#code-of-conduct).
 

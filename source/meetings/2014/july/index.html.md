@@ -17,8 +17,7 @@ hosted_by:
 
 The July 2014 meeting of LRUG will be on *Monday the 14th of July*, from 6:30pm to 8:00pm.  Our hosts [Skills Matter](http://skillsmatter.com/) will be providing the space, at their offices on Goswell Road; [The Skills Matter eXchange](https://skillsmatter.com/locations/96-skills-matter-exchange).  <a href="#jul14registration">Registration details are given below</a>.
 
-Agenda
-------
+## Agenda
 
 ### Continuous Deliverance - set your development free
 
@@ -61,13 +60,11 @@ Agenda
 
 {::coverage year="2014" month="july" talk="becoming-a-developer-codebar" /}
 
-Pub
----
+## Pub
 
 Our talks finish up around 8pm and you can find us crowding [The Slaughtered Lamb](http://www.theslaughteredlambpub.com/) by about 8:10pm.  We're a friendly group and this part of the evening is the perfect time to talk to the speakers and other attendees about the talks or other goings-on in the wider Ruby world.  If you didn't make the talks you're still welcome to come along for this pub bit!
 
-Registration <a name="jul14registration">&nbsp;</a>
----------------------------------------------------
+## Registration {#jul14registration}
 
 To secure a place at the meeting you *must* [register with our hosts Skills Matter](https://skillsmatter.com/meetups/6451-welcome-back-to-rspec-continuous-deliverance).  It helps to make sure we have the room laid out with enough chairs, and in extreme cases that we get priority on the larger rooms over other groups using the space on the same night.  Also, it's polite (don't forget [MINASWAN](http://oreilly.com/ruby/excerpts/ruby-learning-rails/ruby-glossary.html#I_indexterm_d1e32036)), so please do [register with Skills Matter](https://skillsmatter.com/meetups/6451-welcome-back-to-rspec-continuous-deliverance).  Prior to attending you should familiarise yourself with our [README](http://readme.lrug.org/).
 

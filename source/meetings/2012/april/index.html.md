@@ -16,8 +16,7 @@ hosted_by:
 
 The April 2012 meeting of LRUG will be on *Tuesday* the 3rd of April, from 6:30pm to 8:00pm.  Our hosts [Skills Matter](http://skillsmatter.com/) will be providing the space, at their offices on Goswell Road; [The Skills Matter eXchange](http://skillsmatter.com/location-details/design-architecture/484/96).  <a href="#apr12registration">Registration details are given below</a>.
 
-Agenda
-------
+## Agenda
 
 ### Demystifying dRuby
 
@@ -50,8 +49,7 @@ Agenda
 
 {::coverage year="2012" month="april" talk="converting-a-rails-project-from-mri-to-jruby" /}
 
-Pub
----
+## Pub
 
 Whatever we end up doing during the formal part of the meeting, we know it has to end by 8pm.  After that we head over to [The Slaughtered Lamb](http://www.theslaughteredlambpub.com/) fore more fun.  Attending the talks isn't mandatory for attendance of the pub, so if you can't make the talks you really should come along for the pub.
 
@@ -59,8 +57,7 @@ Whatever we end up doing during the formal part of the meeting, we know it has t
 
 The nice folks at [Yammer](https://www.yammer.com/) are sponsoring some drinks behind the bar, so it's an even better idea to come along.
 
-Registration <a name="apr12registration">&nbsp;</a>
----------------------------------------------------
+## Registration {#apr12registration}
 
 To secure a place at the meeting you must [register with our hosts Skills Matter](http://skillsmatter.com/event-details/home/lrug-april-1356/js-3942).  It helps to make sure we have the room laid out with enough chairs, and in extreme cases that we get priority on the larger rooms over other groups using the space on the same night.  Also, it's polite (don't forget [MINASWAN](http://oreilly.com/ruby/excerpts/ruby-learning-rails/ruby-glossary.html#I_indexterm_d1e32036)), so please do [register with Skills Matter](http://skillsmatter.com/event-details/home/lrug-april-1356/js-3942).
 

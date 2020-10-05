@@ -19,8 +19,7 @@ hosted_by:
 
 The February 2014 meeting of LRUG will be on *Monday* the 10th of February, from 6:30pm to 8:00pm.  Our hosts [Skills Matter](http://skillsmatter.com/) will be providing the space, at their offices on Goswell Road; [The Skills Matter eXchange](http://skillsmatter.com/location-details/design-architecture/484/96).  It's a great space with plenty of room for the group, but you still need to <a href="#feb14registration">register to let Skills Matter know you are coming</a>.
 
-Agenda
-------
+## Agenda
 
 ### Lightning talks!
 
@@ -67,8 +66,7 @@ FirefoxOS on Rails
 Open Source, how to get started
 
 
-Pub
----
+## Pub
 
 Once we finish up with the talks we head over to [The Slaughtered Lamb](http://www.theslaughteredlambpub.com/) to continue the evening in more informal, if admittedly slightly noisier surroundings.  If you can't make it for the talks feel free to pop along to the pub for about 8pm, which is when we usually finish up.
 
@@ -76,8 +74,7 @@ Once we finish up with the talks we head over to [The Slaughtered Lamb](http://w
 
 The nice people at [ReThink Recruitment](http://www.rethink-recruitment.com/) are buying some drinks at the pub after the talks.  Thanks!
 
-Registration <a name="feb14registration">&nbsp;</a>
----------------------------------------------------
+## Registration {#feb14registration}
 
 To secure a place at the meeting you *must* [register with our hosts Skills Matter](https://skillsmatter.com/meetups/6190-london-ruby-lightning-talks).  It helps to make sure we have the room laid out with enough chairs, and in extreme cases that we get priority on the larger rooms over other groups using the space on the same night.  Also, it's polite (don't forget [MINASWAN](http://oreilly.com/ruby/excerpts/ruby-learning-rails/ruby-glossary.html#I_indexterm_d1e32036)), so please do [register with Skills Matter](https://skillsmatter.com/meetups/6190-london-ruby-lightning-talks).
 

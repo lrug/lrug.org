@@ -19,8 +19,7 @@ hosted_by:
 
 The February 2013 meeting of LRUG will be on *Monday* the 11th of February, from 6:30pm to 8:00pm.  Our hosts [Skills Matter](http://skillsmatter.com/) will be providing the space, at their offices on Goswell Road; [The Skills Matter eXchange](http://skillsmatter.com/location-details/design-architecture/484/96).  It's a great space with plenty of room for the group, but you still need to <a href="#feb13registration">register to let Skills Matter know you are coming</a>.
 
-Agenda
-------
+## Agenda
 
 ### Lightning talks!
 
@@ -83,8 +82,7 @@ Afra: collectively mapping genomes
 {::coverage year="2013" month="february" talk="afra-collectively-mapping-genomes" /}
 
 
-Pub
----
+## Pub
 
 Once we finish up with the talks we head over to [The Slaughtered Lamb](http://www.theslaughteredlambpub.com/) to continue the evening in more informal, if admittedly slightly noisier surroundings.  If you can't make it for the talks feel free to pop along to the pub for about 8pm, which is when we usually finish up.
 
@@ -92,8 +90,7 @@ Once we finish up with the talks we head over to [The Slaughtered Lamb](http://w
 
 Also, the nice folks at [Globaldev](http://www.globaldev.co.uk/) are sponsoring some drinks behind the bar, so it's an even better idea to come along than usual.
 
-Registration <a name="feb13registration">&nbsp;</a>
----------------------------------------------------
+## Registration {#feb13registration}
 
 To secure a place at the meeting you *must* [register with our hosts Skills Matter](http://skillsmatter.com/event-details/home/lrug-lightening-talks).  It helps to make sure we have the room laid out with enough chairs, and in extreme cases that we get priority on the larger rooms over other groups using the space on the same night.  Also, it's polite (don't forget [MINASWAN](http://oreilly.com/ruby/excerpts/ruby-learning-rails/ruby-glossary.html#I_indexterm_d1e32036)), so please do [register with Skills Matter](http://skillsmatter.com/event-details/home/lrug-lightening-talks).
 

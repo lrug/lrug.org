@@ -21,8 +21,7 @@ Node][skills-matter-venue] between Moorgate and Liverpool St. stations, is
 provided by [Skills Matter](http://www.skillsmatter.com).  [Full venue and
 registration details are given below](#may18registration).
 
-Agenda
-------
+## Agenda
 
 We've got three great talks for you in May:
 
@@ -61,8 +60,7 @@ We've got three great talks for you in May:
 > study writing? This talk explores concepts from three books about writing and 
 > applies them to coding.
 
-Afterwards
-----------
+## Afterwards
 
 We should be done with the talks by 8pm, but there's bound to be plenty
 to talk about after these so if you want to chat to your fellow attendees or
@@ -87,8 +85,7 @@ Don't worry that you'll miss out on this part if you can't make the talks.
 Attendance of the talks is far from mandatory to attend the socialising
 afterwards, so please do come along anyway if you can.
 
-Venue & Registration <a name="may18registration">&nbsp;</a>
------------------------------------------------------------
+## Venue & Registration {#may18registration}
 
 Prior to attending you should familiarise yourself with our
 [README](http://readme.lrug.org/) paying close attention to [the code of

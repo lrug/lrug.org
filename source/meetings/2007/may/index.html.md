@@ -14,8 +14,7 @@ hosted_by:
 
 The next meeting of LRUG will be on Monday the 14th of May, from 6:30pm to 8:00pm at our usual [Skills Matter](http://www.skillsmatter.com/) venue at [1 Sekforde St.](http://maps.google.co.uk/maps?f=q&hl=en&q=EC1R+0BE&layer=&ie=UTF8&z=16&om=1&iwloc=addr).
 
-Agenda
-------
+## Agenda
 
 A video of the meeting, filmed by Skills Matter, is [available on Google Video](http://video.google.com/videoplay?docid=3054467356135188291).
 
@@ -44,12 +43,11 @@ There's been a lot of talk on the mailing list about having some kind of beginne
 
 If you would like to be mentored, or would like to help the community by mentoring someone, then either get on the [mailing list](/mailing-list) and let us know, or contact [Peter Jones](mailto:peterbjones@yahoo.com) who has been compiling a list of mentors and mentorees.
 
-### Pub
+## Pub
 
 As usual, we'll retreat to the comforts of [The Crown Tavern](http://fancyapint.com/pubs/pub199.html) just round the corner from Skills Matter for a few beers and discussion after the event.  If you can't make the main meeting, maybe you can come along for the beers.
 
-Registration
-------------
+## Registration {#may07registration}
 
 As usual, [please register with Skills Matter](http://skillsmatter.com/lrug) if you are planning to come, so they can manage seating and making sure we get the most appropriately sized room.  There's also an [upcoming event](http://upcoming.yahoo.com/event/176863/) for those of us that love online calendaring. 
 

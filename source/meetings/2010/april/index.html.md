@@ -20,8 +20,7 @@ hosted_by:
 
 The April meeting will be on Wednesday the 14th of April, from 6:30pm to 8:00pm.  Our hosts [Skills Matter](http://skillsmatter.com/) will be providing the space, at their offices on Goswell Road; [The Skills Matter eXchange](http://skillsmatter.com/location-details/design-architecture/484/96).  It's a great space with plenty of room for the group, but you still need to <a href="#apr10registration">register to let Skills Matter know you are coming</a>.
 
-Agenda
-------
+## Agenda
 
 ### What every computer programmer should know about time
 
@@ -47,13 +46,11 @@ A video of Seth's talk is available on the [Skills Matter site](http://skillsmat
 
 As usual we'll have 10-15 minutes at the start of the meeting for anyone to fill up with something they think might be of interest to the group.  It's really up to you what you say: announce a gem you've written, ask for help on a project, say you are interested in talking to someone in the pub after wards who knows about a particular gem, or even just say hi. the only rule is to keep it short as there'll be others who want to say something and we don't want to eat into the time for the scheduled talks.
 
-Pub
----
+## Pub
 
 When the talks are finished, we make the short walk over to [The Slaughtered Lamb](http://www.theslaughteredlambpub.com/) to continue the evening in a more informal setting.  The talks tend to finish around about 8pm so if you find that you can't make it to the meeting but still fancy some Ruby chat, head along for just the pub bit.  Maybe you can score us a table?
 
-Registration <a name="apr10registration">&nbsp;</a>
----------------------------------------------------
+## Registration {#apr10registration}
 
 Skills Matter prefer that you [register your attendance with them](http://skillsmatter.com/event/ajax-ria/talks-on-time-data-type-and-mongodb/zx-548) if you are planning to come to the meeting.  You won't be turned away at the door if you haven't registered (unless we're *really* full), but it's useful for fire regulations and to help them arrange the room properly.  Finally, it's simply just polite, and well, [MINASWAN](http://oreilly.com/ruby/excerpts/ruby-learning-rails/ruby-glossary.html#I_indexterm_d1e32036), so please do [register](http://skillsmatter.com/event/ajax-ria/talks-on-time-data-type-and-mongodb/zx-548).
 

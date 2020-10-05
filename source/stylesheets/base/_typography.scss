@@ -34,6 +34,16 @@ img {
   margin-right: auto;
 }
 
+h1, h2, h3, h4, h5, h6 {
+  .heading-anchor {
+    visibility: hidden;
+  }
+  &:hover {
+    .heading-anchor {
+      visibility: visible;
+    }
+  }
+}
 
 @media print {
   h2 a[href]:after {

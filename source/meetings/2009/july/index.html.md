@@ -19,8 +19,7 @@ hosted_by:
 
 The next meeting of LRUG will be on Wednesday the 8th of July, from 6:30pm to 8:00pm.  As usual our hosts [Skills Matter](http://skillsmatter.com/) will provide the space, this time at a new venue [The Crypt](http://skillsmatter.com/location-details/home/166/26) (it's very close to the other venues).  We still need people to <a href="#jul09registration">register</a> though to make sure the room is set up properly.
 
-Agenda
-------
+## Agenda
 
 ### Do Mix Your Drinks
 
@@ -41,13 +40,11 @@ A video of Tom's talk is available on the [Skills Matter site](http://skillsmatt
 
 A video of Tomasz's talk is available on the [Skills Matter site](http://skillsmatter.com/podcast/ajax-ria/rubyarduino).
 
-Pub
----
+## Pub
 
 After the meeting it's usual to continue the meeting in a more informal style at [The Crown Tavern](http://fancyapint.com/pubs/pub199.html).  This pub is just down the street from our new venue, in fact you'd have to walk past it on the way to the tube station, so it's hard to avoid.  Speaking of avoiding things, if you can't make the main meeting, we aim to be in the pub from about 8pm and you're more than welcome to come along and help us prop up the bar.
 
-Registration <a name="jul09registration">&nbsp;</a>
----------------------------------------------------
+## Registration {#jul09registration}
 
 We need people to [register with Skills Matter](http://skillsmatter.com/event/ajax-ria/lrug-july) if they are planning on attending.  Registration lets Skills Matter know how many people to expect to turn up and plan the venue accordingly.  We shouldn't have capacity problems with the new venue, but you should still [register as early as you can](http://skillsmatter.com/event/ajax-ria/lrug-july) to help them out.
 

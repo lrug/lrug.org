@@ -14,8 +14,7 @@ hosted_by:
 
 The April 2011 meeting of LRUG will be on *Monday* the 11th of April, from 6:30pm to 8:00pm.  Our hosts [Skills Matter](http://skillsmatter.com/) will be providing the space, at their offices on Goswell Road; [The Skills Matter eXchange](http://skillsmatter.com/location-details/design-architecture/484/96).  It's a great space with plenty of room for the group, but you still need to <a href="#apr11registration">register to let Skills Matter know you are coming</a>.
 
-Agenda
-------
+## Agenda
 
 ### Ben Scofield: Building Cloud Castles
 
@@ -47,13 +46,11 @@ Note: Ben is talking at [SRC](http://scottishrubyconference.com/sessions) but it
 
 {::coverage year="2011" month="april" talk="ruby-goes-to-hollywood" /}
 
-Pub
----
+## Pub
 
 After all this we'll head to [The Slaughtered Lamb](http://www.theslaughteredlambpub.com/) to while away the rest of the evening in more informal settings.  The pub is only a five minute walk from Skills Matter's offices and we'll be there from about 8pm onwards. If you're unable to make it on time for the main meeting then feel free to join us for the pub-bit.
 
-Registration <a name="apr11registration">&nbsp;</a>
----------------------------------------------------
+## Registration {#apr11registration}
 
 Skills Matter prefer that you [register your attendance with them](http://skillsmatter.com/event/ajax-ria/building-cloud-castles/js-1540) if you are coming to the meeting.  On a few exceptional occasions we've had to turn away people who haven't registered, but this has only been at extremely popular meetings, and has yet to happen at the new venue on Goswell Road.  It's better to be safe than sorry though, and it is polite (don't forget [MINASWAN](http://oreilly.com/ruby/excerpts/ruby-learning-rails/ruby-glossary.html#I_indexterm_d1e32036)), so please do [register](http://skillsmatter.com/event/ajax-ria/building-cloud-castles/js-1540).
 

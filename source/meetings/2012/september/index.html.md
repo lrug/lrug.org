@@ -16,8 +16,7 @@ hosted_by:
 
 The September 2012 meeting of LRUG will be on *Monday* the 10th of September, from 6:30pm to 8:00pm.  Our hosts [Skills Matter](http://skillsmatter.com/) will be providing the space, at their offices on Goswell Road; [The Skills Matter eXchange](http://skillsmatter.com/location-details/design-architecture/484/96).  <a href="#sep12registration">Registration details are given below</a>.
 
-Agenda
-------
+## Agenda
 
 ### Doing less and keeping it simple
 
@@ -62,8 +61,7 @@ He wrote a little about this topic a couple of months ago on [his company blog](
 
 {::coverage year="2012" month="september" talk="zero-downtime-deployment" /}
 
-Pub
----
+## Pub
 
 Our talks finish around 8pm, but that's not the end of the evening.  We carry on at [The Slaughtered Lamb](http://www.theslaughteredlambpub.com/) which is a short walk from the Skills Matter office.  There's usually lots of conversations going on after the talks, so if you can't make the talks please do feel free to pop along for a drink at the pub.
 
@@ -71,8 +69,7 @@ Our talks finish around 8pm, but that's not the end of the evening.  We carry on
 
 Also, the nice folks at [Yammer](https://www.yammer.com/) are sponsoring some drinks behind the bar again, so it's an even better idea to come along than usual.
 
-Registration <a name="sep12registration">&nbsp;</a>
----------------------------------------------------
+## Registration {#sep12registration}
 
 To secure a place at the meeting you *must* [register with our hosts Skills Matter](http://skillsmatter.com/event/ruby-rails/lrug-september-meetup).  It helps to make sure we have the room laid out with enough chairs, and in extreme cases that we get priority on the larger rooms over other groups using the space on the same night.  Also, it's polite (don't forget [MINASWAN](http://oreilly.com/ruby/excerpts/ruby-learning-rails/ruby-glossary.html#I_indexterm_d1e32036)), so please do [register with Skills Matter](http://skillsmatter.com/event/ruby-rails/lrug-september-meetup).
 

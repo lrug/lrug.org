@@ -15,10 +15,9 @@ hosted_by:
   - :name: Skills Matter
 ---
 
-The July 2016 meeting of LRUG will be on *Monday the 11th of July*, from 6:00pm to 8:00pm (talks start at 6:30pm).  The venue, [Code Node](https://skillsmatter.com/locations/264-skills-matter-codenode) between Moorgate and Liverpool St. stations, is provided by [Skills Matter](http://www.skillsmatter.com).  [Full venue and registration details are given below](#july16registration).
+The July 2016 meeting of LRUG will be on *Monday the 11th of July*, from 6:00pm to 8:00pm (talks start at 6:30pm).  The venue, [Code Node](https://skillsmatter.com/locations/264-skills-matter-codenode) between Moorgate and Liverpool St. stations, is provided by [Skills Matter](http://www.skillsmatter.com).  [Full venue and registration details are given below](#jul16registration).
 
-Agenda
-------
+## Agenda
 
 ### Ruby Book Club
 
@@ -56,8 +55,7 @@ Agenda
 
 {::coverage year="2016" month="july" talk="integrating-react-into-a-rails-application" /}
 
-Afterwards
-----------
+## Afterwards
 
 The talks will end by 8pm, but that's not the end of the LRUG meeting. There are a couple of options for how to continue your evening with other LRUG attendees.  You can:
 
@@ -66,8 +64,7 @@ The talks will end by 8pm, but that's not the end of the LRUG meeting. There are
 
 All are welcome at this post-talk part of the meeting where no registration is required.  Feel free to turn up just for this part if you can't make it to the talks earlier in the evening.
 
-Venue & Registration <a name="july16registration">&nbsp;</a>
------------------------------------------------------------
+## Venue & Registration {#jul16registration}
 
 Prior to attending you should familiarise yourself with our [README](http://readme.lrug.org/) paying close attention to [the code of conduct](http://readme.lrug.org/#code-of-conduct).
 

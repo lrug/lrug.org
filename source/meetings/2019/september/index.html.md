@@ -21,8 +21,7 @@ Node][skills-matter-venue] between Moorgate and Liverpool St. stations, is
 provided by [Skills Matter](http://www.skillsmatter.com).  [Full venue and
 registration details are given below](#sep19registration).
 
-Agenda
-------
+## Agenda
 
 ### Computer Graphics for Ruby developers
 
@@ -49,8 +48,7 @@ Agenda
 > A short and sweet introduction to [Sorbet](https://sorbet.org), a type checker
 > for Ruby. Learn how you can use types to write bulletproof code!
 
-Afterwards
-----------
+## Afterwards
 
 This should all finish by 8pm, at which point we break out of the
 classroom and offer you a choice for continuing the evening with your
@@ -74,8 +72,7 @@ informal.
 If you can't attend the talks we'd still be very happy to see you at this part
 of the meeting.  Do come along!
 
-Venue & Registration <a name="sep19registration">&nbsp;</a>
------------------------------------------------------------
+## Venue & Registration {#sep19registration}
 
 Prior to attending you should familiarise yourself with our
 [README](http://readme.lrug.org/) paying close attention to [the code of

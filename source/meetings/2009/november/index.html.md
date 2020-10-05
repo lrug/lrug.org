@@ -20,8 +20,7 @@ hosted_by:
 
 The next meeting of LRUG will be on Wednesday the 11th of November, from 6:30pm to 8:00pm.  Our hosts [Skills Matter](http://skillsmatter.com/) will provide the space, at our new venue [The Crypt](http://skillsmatter.com/location-details/home/166/26) (it's very close to our previous venues).  Despite the new venue it's still important for people to <a href="#nov09registration">register</a> so Skills Matter know how many people to expect and set the room up correctly.
 
-Agenda
-------
+## Agenda
 
 We're hoping for a "Ruby in Sys Admin" theme this month.
 
@@ -48,13 +47,11 @@ A video of Julian's talk is available on the [Skills Matter site](http://skillsm
 
 At the start of each meeting we have 10-15 minutes set aside for people to speak about anything they think is of interest to the group.  It's "open" style, so you don't need to ask for permission, just turn up and say something.  In the past we've had overviews of recent conferences, discussions of alternative JS frameworks for Rails, announcements about new events, calls for help reviewing patches for Rails, a quick demo of a new gem.  Basically anything you might post a link to on something like [Ruby Flow](http://rubyflow.com), you should think about mentioning here.
 
-Pub
----
+## Pub
 
 At the end of the meeting we like to head over to [The Crown Tavern](http://fancyapint.com/pubs/pub199.html) for a spot of socialising over a beer or two.  We're usually at the pub from about 8:00pm ish so if you don't think you can make the "proper" meeting feel free to come along just for the pub.  It's fine to turn up to the meeting late though, you don't have to be there at 6:30 to get in!
 
-Registration <a name="nov09registration">&nbsp;</a>
----------------------------------------------------
+## Registration {#nov09registration}
 
 [Registration](http://skillsmatter.com/event/ajax-ria/lrug-nov) isn't mandatory as there's always room in the venue on the night, however, registration lets Skills Matter arrange the room properly so if you don't register you might have to sit on the floor.  So, please do [register](http://skillsmatter.com/event/ajax-ria/lrug-nov).
 

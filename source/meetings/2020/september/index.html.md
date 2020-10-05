@@ -26,8 +26,7 @@ the web.
 that **we will only be sending out the zoom meeting url to people who
 have registered, so please do make sure you do it.**
 
-Agenda
-------
+## Agenda
 
 We've got two talks lined up for you this month. We also need more talks
 for the rest of year, and beyond, so please get in touch on
@@ -53,8 +52,7 @@ say to LRUG.
 
 {::coverage year="2020" month="september" talk="wizards-without-magic" /}
 
-Afterwards
-----------
+## Afterwards
 
 It's not quite hanging our of drinks and food in a local pub, but a few
 of us usally hang out in the Zoom chat after the meeting to chat.  It only
@@ -64,15 +62,14 @@ any ideas on that, do get in touch at
 [organisers@lrug.org](mailto:organisers@lrug.org) and we can explore it
 together.
 
-Registration <a name="sept20registration">&nbsp;</a>
-----------------------------------------------------
+## Registration {#sept20registration}
 
 Prior to attending you should familiarise yourself with our [README](http://readme.lrug.org/)
 paying close attention to [the code of conduct](http://readme.lrug.org/#code-of-conduct)
 which applies to all attendees, even though there's no pub or venue.
 Basically they are good rules to generally live your life by.
 
-### Registration
+### Secure your place
 
 Even in a virtual world there are limited places for attending the meeting
 so **[you need to register via eventbrite][sept2020-eventbrite]**.  The link to

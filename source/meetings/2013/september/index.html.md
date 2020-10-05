@@ -17,8 +17,7 @@ hosted_by:
 
 The September 2013 meeting of LRUG will be on *Monday* the 9th of September, from 6:30pm to 8:00pm.  Our hosts [Skills Matter](http://skillsmatter.com/) will be providing the space, at their offices on Goswell Road; [The Skills Matter eXchange](http://skillsmatter.com/location-details/design-architecture/484/96).  <a href="#sep13registration">Registration details are given below</a>.
 
-Agenda
-------
+## Agenda
 
 ### Concerned about Concerns?
 
@@ -45,13 +44,11 @@ Agenda
 > iterative way and which tools we chose for each situation; some of 
 > which are not limited to Ruby.
 
-Pub
----
+## Pub
 
 Our talks finish at roughly 8pm and we move on to [The Slaughtered Lamb](http://www.theslaughteredlambpub.com/) for the rest of the evening.  This is your chance to talk to the speakers without the rest of the crowd scrutinising your questions, and to talk to the rest of the crowd without interrupting the speakers.  If you can't make it for the talks, perhaps because you <a href="#sep13registration">didn't register in time</a>, then do turn up just for the pub bit.
 
-Registration <a name="sep13registration">&nbsp;</a>
----------------------------------------------------
+## Registration {#sep13registration}
 
 To secure a place at the meeting you *must* [register with our hosts Skills Matter](http://skillsmatter.com/event-details/home/concerned-about-concerns).  It helps to make sure we have the room laid out with enough chairs, and in extreme cases that we get priority on the larger rooms over other groups using the space on the same night.  Also, it's polite (don't forget [MINASWAN](http://oreilly.com/ruby/excerpts/ruby-learning-rails/ruby-glossary.html#I_indexterm_d1e32036)), so please do [register with Skills Matter](http://skillsmatter.com/event-details/home/concerned-about-concerns).
 
