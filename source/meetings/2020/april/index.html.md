@@ -77,20 +77,17 @@ Afterwards... well, that's a good question. Obviously there's no pub, but we inv
 
 Or there's always [telly](https://www.youtube.com/watch?v=wnd1jKcfBRE).
 
-
 ## Registration {#apr20registration}
 
 Prior to attending you should familiarise yourself with our [README](http://readme.lrug.org/) paying close attention to [the code of conduct](http://readme.lrug.org/#code-of-conduct) which applies to all attendees, even though there's no pub or venue. Basically they are good rules to generally live your life by.
 
-
-### Registration
+### Secure your place
 
 You can register to attend via [eventbrite][apr2020-eventbrite].
 
 It's vital that you register because we will only be sending out the meeting connection details to those registered attendees. So keep your eyes peeled for an email in your inbox on the day.
 
 Some of you may already be living your days in Zoom meetings but if not, and if you want a head start, you can make sure you have the Zoom client by [visiting their download page](https://zoom.us/support/download).
-
 
 So that's that. All that remains to be said is
 

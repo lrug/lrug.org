@@ -71,7 +71,7 @@ paying close attention to [the code of conduct](http://readme.lrug.org/#code-of-
 which applies to all attendees, even though there's no pub or venue.
 Basically they are good rules to generally live your life by.
 
-### Registration
+### Secure your place
 
 Even in a virtual world there are limited places for attending the meeting
 so **[you need to register via eventbrite][august2020-eventbrite]**.  The link to
