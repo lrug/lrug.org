@@ -42,6 +42,8 @@ say to LRUG.
 > discuss why JWTs matter and the nuts and bolts of JWTs. We’ll also discuss
 > how you might use a JWT in your Rails or Ruby application.
 
+{::coverage year="2020" month="october" talk="jwts-what-rails-developers-need-to-know" /}
+
 ### Getting Past the Tech Test
 
 [Michael Mazour](https://www.linkedin.com/in/mmazour/):
@@ -52,6 +54,8 @@ say to LRUG.
 > going to explain some of the unwritten rules and expectations that you
 > might not know if you've been out of circulation or are just entering the
 > job market, and help you level up your tech test game.
+
+{::coverage year="2020" month="october" talk="getting-past-the-tech-test" /}
 
 ## Afterwards
 
