@@ -1,0 +1,212 @@
+---
+january:
+  from-monolith-to-microservices-a-true-story:
+  - type: video
+    url: https://skillsmatter.com/skillscasts/7346-from-monolith-to-microservices-a-true-story
+    title: 'Skills Matter : Skills Cast : From monolith to microservers: A true story'
+  the-journey-to-primed-is:
+  - type: video
+    url: https://skillsmatter.com/skillscasts/7334-primed-is-improving-recruitment-pain-and-a-guide-to-becoming-a-ruby-on-rails-developer
+    title: 'Skills Matter : Skills Cast : Primed.is - improving recruitment pain'
+  - type: video
+    url: https://skillsmatter.com/skillscasts/7335-a-guide-to-becoming-a-ruby-on-rails-developer
+    title: 'Skills Matter : Skills Cast : A guide to becoming a ruby on rails developer'
+  using-direnv-with-ruby-and-12factor-apps:
+  - type: video
+    url: https://skillsmatter.com/skillscasts/7348-using-direnv-with-ruby-and-12factor-apps
+    title: 'Skills Matter : Skills Cast : Using direnv with ruby and 12factor apps'
+february:
+  making-your-first-pull-request:
+  - type: slides
+    url: https://slidr.io/Charlotteis/making-your-first-pull-request
+    title: Making Your First Pull Request - Slides
+  - type: video
+    url: https://skillsmatter.com/skillscasts/7336-making-your-first-pull-request
+    title: 'Skills Matter : Skills Cast : Making your first pull request'
+  rails-docker-for-development-no-mess-no-fuss:
+  - type: video
+    url: https://skillsmatter.com/skillscasts/7571-rails-and-docker-for-development-no-mess-no-fuss
+    title: 'Skills Matter : Skills Cast : Rails & Docker for development: No mess,
+      No fuss'
+  enumerable:
+  - type: video
+    url: https://skillsmatter.com/skillscasts/7452-enumerable
+    title: 'Skills Matter : Skills Cast : Enumerable!'
+  imposter-syndrome-how-we-act-and-work-together:
+  - type: video
+    url: https://skillsmatter.com/skillscasts/7579-imposter-syndrome-how-we-act-and-work-together
+    title: 'Skills Matter : Skills Cast : Imposter Syndrome : How we act and work
+      together'
+  building-with-domain-concepts:
+  - type: video
+    url: https://skillsmatter.com/skillscasts/7454-building-with-domain-concepts
+    title: 'Skills Matter : Skills Cast : Building with domain concepts'
+  web-developer-life-hacks:
+  - type: notes
+    url: http://www.eq8.eu/talks/1-web-developer-life-hacks
+    title: Web Developer Life Hacks
+  - type: slides
+    url: https://docs.google.com/presentation/d/1dsb-Gl45_abRkqF9J38D6JrOmS0JWpwA5PEWyOcQAbc/edit
+    title: Slides for Talk
+  - type: video
+    url: https://skillsmatter.com/skillscasts/7455-web-developer-life-hacks
+    title: 'Skills Matter : Skills Cast : Web developer life hacks'
+  psychology-of-programming-a-very-short-introduction:
+  - type: video
+    url: https://skillsmatter.com/skillscasts/7456-psychology-of-programming-a-very-short-introduction
+    title: 'Skills Matter : Skills Cast : Psychology of programming: A very short
+      introduction'
+  automatic-differentiation-in-ruby:
+  - type: link
+    url: https://github.com/tomstuart/dual_number
+    title: dual_number
+  - type: slides
+    url: https://speakerdeck.com/tomstuart/automatic-differentiation-in-ruby
+    title: Automatic differentiation in Ruby
+  - type: video
+    url: https://skillsmatter.com/skillscasts/7457-automatic-differentiation-in-ruby
+    title: 'Skills Matter : Skills Cast : Automatic differentiation in Ruby'
+  - type: video
+    url: https://www.youtube.com/watch?v=TI7mtWB4WiA
+    title: Automatic differentiation in Ruby (extended version)
+  - type: write-up
+    url: http://codon.com/automatic-differentiation-in-ruby
+    title: Automatic differentiation in Ruby
+march:
+  elixir-for-rubyists:
+  - type: slides
+    url: https://speakerdeck.com/digitalronin/elixir-for-rubyists
+    title: Elixir for Rubyists
+  - type: video
+    url: https://skillsmatter.com/skillscasts/7633-elixir-for-rubyists
+    title: 'Skills Matter : Skills casts : Elixir for Rubyists'
+  the-full-power-of-redis:
+  - type: video
+    url: https://skillsmatter.com/skillscasts/7669-the-full-power-of-redis
+    title: 'Skills Matter : Skills cast : The full power of Redis'
+  a-reintroduction-to-codebar:
+  - type: video
+    url: https://skillsmatter.com/skillscasts/7670-a-reintroduction-to-codebar
+    title: 'Skills Matter : Skills Cast : A reintroduction to codebar'
+april:
+  jruby-truffle-a-faster-but-simpler-new-ruby:
+  - type: video
+    url: https://skillsmatter.com/skillscasts/7884-jruby-truffle-a-faster-but-simpler-new-ruby
+    title: 'Skills Matter : Skills Cast : JRuby + Truffle: A faster but simpler new
+      Ruby'
+  doing-things-differently-at-reevoo:
+  - type: slides
+    url: https://docs.google.com/presentation/d/1R5NMqfaxUlNaksdEHOIVPoGMr_besZKTVkonNkwGCNI/edit?usp=sharing
+    title: Annotated Slides
+  - type: video
+    url: https://skillsmatter.com/skillscasts/7880-doing-things-differently-at-reevoo
+    title: 'Skills Matter : Skills Cast : Doing things differently at Reevoo'
+  continuous-feedback:
+  - type: link
+    url: https://www.madetech.com/blog/continuous-feedback-peer-review-for-the-21st-century
+    title: Continuous Feedback Blog Post
+  - type: slides
+    url: https://speakerdeck.com/chrisblackburn/continuous-feedback
+    title: Continuous Feedback slides
+  - type: video
+    url: https://skillsmatter.com/skillscasts/7881-continuous-feedback
+    title: 'Skills Matter : Skills Cast : Continuous Feedback'
+may:
+  the-art-of-code-review:
+  - type: slides
+    url: https://speakerdeck.com/jcinnamond/the-art-of-code-review
+    title: The Art of Code Review
+  a-tale-of-two-deployments-machine-images-immutable-servers-and-green-blue-deployment:
+  - type: link
+    url: http://www.thedevopsdoctors.com/blog/2016/3/6/a-tale-of-two-deployments
+    title: A Tale of Two Deployments - The blog post that the speech was based on
+  - type: slides
+    url: https://drive.google.com/file/d/0B_eY8bjtumvEZzZBbkVHWFJXbnM/view?usp=sharing
+    title: Slides to an updated version of the talk
+  convox-painless-deployment-of-docker-on-aws: []
+june:
+  hacking-your-head-managing-information-overload:
+  - type: slides
+    url: http://www.slideshare.net/JoPearce5/hacking-your-head-managing-information-overload-extended
+    title: 'Hacking Your Head : Managing Information Overload (extended)'
+  - type: video
+    url: https://skillsmatter.com/skillscasts/8303-hacking-your-head-managing-information-overload
+    title: 'Skills Matter : Skills Cast : Hacking your head - Managing information
+      overload'
+  open-sesame-a-beginners-guide-to-passwords:
+  - type: video
+    url: https://skillsmatter.com/skillscasts/8304-open-sesame-a-beginners-guide-to-passwords
+    title: 'Skills Matter : Skills Cast : Open Sesame: A beginners guide to passwords'
+  refactoring-a-monolith-with-rails-engines:
+  - type: video
+    url: https://skillsmatter.com/skillscasts/8305-refactoring-a-monolith-with-rails-engines
+    title: 'Skills Matter : Skills Cast : Refactoring a monolith with rails engines'
+july:
+  ruby-book-club:
+  - type: slides
+    url: https://speakerdeck.com/nodunayo/ruby-book-club-live
+    title: Ruby Book Club LIVE
+  - type: video
+    url: https://skillsmatter.com/skillscasts/8404-ruby-book-club
+    title: 'Skills Matter : Skills Cast : Ruby Book Club'
+  documenting-ruby-apis:
+  - type: video
+    url: https://skillsmatter.com/skillscasts/8405-documenting-ruby-apis
+    title: 'Skills Matter : Skills Cast : Documenting Ruby APIs'
+  integrating-react-into-a-rails-application:
+  - type: slides
+    url: https://speakerdeck.com/edds/using-react-at-deliveroo-lrug
+    title: Using React at Deliveroo - LRUG
+  - type: video
+    url: https://skillsmatter.com/skillscasts/8406-integrating-react-into-a-rails-application
+    title: 'Skills Matter : Skills Cast : Integrating React into a Rails application'
+august:
+  action-cable:
+  - type: slides
+    url: http://www.slideshare.net/javicus/actioncable-for-lrug
+    title: Action Cable Live Demo
+  - type: video
+    url: https://skillsmatter.com/skillscasts/8408-action-cable
+    title: 'Skills Matter : Skills Cast : ActionCable'
+  the-marvel-guide-to-developers:
+  - type: video
+    url: https://skillsmatter.com/skillscasts/8559-the-marvel-guide-to-developers
+    title: 'Skills Matter : Skills Cast : The Marvel Guide to Developers'
+  tell-don-t-ask:
+  - type: video
+    url: https://skillsmatter.com/skillscasts/8611-tell-dont-ask
+    title: 'Skills Matter : Skills Cast : Tell, don''t Ask'
+september:
+  working-together:
+  - type: slides
+    title: Working together slides
+    url: https://jamesjoshuahill.github.io/talk/2016/09/12/working-together/
+  total-rewrite:
+  - type: slides
+    title: Total Rewrite
+    url: https://speakerdeck.com/digitalronin/total-rewrite
+  not-working-together:
+  - type: slides
+    title: Not Working Together
+    url: https://speakerdeck.com/gerhardlazu/not-working-together
+october:
+  development-re-bundling-in-dockerland:
+  - type: link
+    title: bundlecache [Example code]
+    url: https://github.com/charlieegan3/bundlecache
+  - type: slides
+    title: Development Rebundling in Dockerland
+    url: http://rawgit.com/charlieegan3/4ccc5dc72fede1b92325ea78146b1760/raw/f6cdb6065791793d40f97679fae5fc25a9ad8966/slides.html#22
+  a-month-of-i18n-in-10-minutes: []
+  joining-the-mob-top-12-mob-programming-tips-and-thoughts: []
+  an-open-source-contribution-story:
+  - type: transcript
+    title: Talks ∋ A rubygems contribution story - slides and transcript
+    url: http://www.h-lame.com/talks/rubygems-contribution/
+  - type: video
+    url: https://skillsmatter.com/skillscasts/9122-an-open-source-contribution-story
+    title: 'Skills Matter : Skills Cast : An open-source contribution story'
+november:
+  the-invisible-cost-of-code: []
+  aws-elastic-beanstalk-docker-for-rails-developers: []
+  where-does-my-code-go-rails-edition: []

@@ -1,0 +1,20 @@
+---
+july:
+  do-mix-your-drinks:
+  - type: slides
+    url: https://speakerdeck.com/tomstuart/do-mix-your-drinks
+    title: Do Mix Your Drinks
+  - type: video
+    url: https://skillsmatter.com/podcast/agile-testing/do-mix-your-drinks
+    title: Do Mix Your Drinks
+october:
+  thinking-functionally-in-ruby:
+  - type: slides
+    url: https://speakerdeck.com/tomstuart/thinking-functionally-in-ruby
+    title: Thinking Functionally in Ruby
+  - type: video
+    url: http://skillsmatter.com/podcast/ajax-ria/enumerators
+    title: Thinking Functionally in Ruby
+  - type: write-up
+    url: http://www.rubyinside.com/functional-programming-in-ruby-2713.html
+    title: Thinking Functionally In Ruby – A Great Presentation by Tom Stuart

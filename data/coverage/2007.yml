@@ -1,0 +1,6 @@
+---
+july:
+  rspec-on-rails:
+  - type: slides
+    url: https://speakerdeck.com/tomstuart/rspec-on-rails
+    title: RSpec (on Rails)
