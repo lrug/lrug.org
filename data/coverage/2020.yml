@@ -1,0 +1,96 @@
+---
+february:
+  how-to-manage-happy-remote-development-teams:
+  - type: video
+    url: https://assets.lrug.org/videos/2020/february/ali-najaf-how-to-manage-happy-remote-development-teams-lrug-feb-2020.mp4
+    title: LRUG February 2020 - Ali Najaf - How to manage remove development teams
+  semantic-versioning-ruby-versioning-and-the-forward-march-of-progress:
+  - type: video
+    url: https://assets.lrug.org/videos/2020/february/jon-rowe-semantic-versioning-ruby-versioning-and-the-forward-march-of-progress-lrug-feb-2020.mp4
+    title: LRUG February 2020 - Jon Rowe - Semantic Versioning, Ruby Versoning, and
+      the forward march of progress
+  from-confusion-to-contribution:
+  - type: video
+    url: https://assets.lrug.org/videos/2020/february/nitish-rathi-from-confusion-to-contribution-lrug-feb-2020.mp4
+    title: LRUG February 2020 - Nitish Rathi - From confusion to contribution
+  influence-your-company-beyond-code:
+  - type: video
+    url: https://assets.lrug.org/videos/2020/february/mugurel-chirica-influence-your-company-beyond-writing-code-lrug-feb-2020.mp4
+    title: LRUG February 2020 - Mugurel Chirica - Influence your company beyond code
+  designing-domain-oriented-obvservability-in-your-system:
+  - type: video
+    url: https://assets.lrug.org/videos/2020/february/alfredo-motta-designing-domain-oriented-observability-in-your-system-lrug-feb-2020.mp4
+    title: LRUG February 2020 - Alfredo Motta - Designing Domain-Oriented Observability
+      in your system
+  you-dont-know-what-you-dont-know:
+  - type: video
+    url: https://assets.lrug.org/videos/2020/february/elena-tanasoiu-you-dont-know-what-you-dont-know-lrug-feb-2020.mp4
+    title: LRUG February 2020 - Elena Tanasoiu - You don't know what you don't know
+april:
+  how-to-take-control-of-code-quality:
+  - type: video
+    url: https://assets.lrug.org/videos/2020/april/joel-chippindale-how-to-take-control-of-your-code-quality-lrug-apr-2020.mp4
+    title: LRUG April 2020 - Joel Chippindale - How to take control of code quality
+  music-experiments-in-sonic-pi: []
+may:
+  debugging-ruby-http-library-surprises:
+  - type: video
+    url: https://assets.lrug.org/videos/2020/may/sam-joseph-debugging-ruby-http-library-surprises-lrug-may-2020.mp4
+    title: LRUG May 2020 - Sam Joseph - Debugging Ruby HTTP Library Surprises
+  comparing-the-speed-and-elegance-of-different-computer-languages:
+  - type: video
+    url: https://assets.lrug.org/videos/2020/may/peter-bell-comparing-the-speed-and-elegance-of-different-computer-languages-lrug-apr-2020.mp4
+    title: LRUG May 2020 - Peter Bell - Comparing the speed and elegance of different
+      computer languages
+june:
+  agile-or-waterfall-a-risk-management-perspective:
+  - type: video
+    url: https://assets.lrug.org/videos/2020/june/alfredo-motta-agile-or-waterfall-a-risk-management-perspective-lrug-jun-2020.mp4
+    title: LRUG June 2020 - Alfredo Motta - Agile or Waterfall; a risk management
+      perspective
+  hanami-another-opinionated-rack-based-framework:
+  - type: video
+    url: https://assets.lrug.org/videos/2020/june/panos-matsinopoulos-hanami-another-opinionated-rack-based-framework-lrug-jun-2020.mp4
+    title: LRUG June 2020 - Panos Matsinopoulos - Hanami, another opinionated rack-based
+      framework
+july:
+  perfect-is-the-enemy-of-good:
+  - type: video
+    url: https://assets.lrug.org/videos/2020/july/nicky-thompson-perfect-is-the-enemy-of-good-lrug-jul-2020.mp4
+    title: LRUG July 2020 - Nicky Thompson - Perfect is the enemy of good
+  improved-security-for-password-authentication:
+  - type: video
+    url: https://assets.lrug.org/videos/2020/july/jolyon-pawlyn-improved-security-for-password-authentication-lrug-jul-2020.mp4
+    title: LRUG July 2020 - Jolyon Pawlyn - Improved security for password authentication
+august:
+  language-doesnt-matter-what-makes-a-senior-engineer:
+  - type: video
+    url: https://assets.lrug.org/videos/2020/august/matt-bee-language-doesnt-matter-what-makes-a-senior-engineer-lrug-aug-2020.mp4
+    title: LRUG August 2020 - Matt Bee - Language doesn't matter/ what makes a senior
+      engineer?
+  doing-the-right-thing:
+  - type: video
+    url: https://assets.lrug.org/videos/2020/august/chris-zetter-doing-the-right-thing-lrug-aug-2020.mp4
+    title: LRUG August 2020 - Chris Zetter - Doing the right thing
+september:
+  wizards-without-magic:
+  - type: video
+    url: https://assets.lrug.org/videos/2020/september/duncan-brown-wizards-without-magic-lrug-sep-2020.mp4
+    title: LRUG September 2020 - Duncan Brown - Wizards without Magic
+  stimulusjs-modest-js-for-the-html-you-have:
+  - type: video
+    url: https://assets.lrug.org/videos/2020/september/matt-swanson-stimulusjs-modest-js-for-the-html-you-have-lrug-sep-2020.mp4
+    title: 'LRUG September 2020 - Matt Swanson - StimulusJS: Modest JS for the HTML
+      you have'
+  - type: slides
+    url: https://docs.google.com/presentation/d/1uPA7CX_SGZPY2hFcf0YIvsSvCQzN7OTHVsvQnv5vKnY/
+    title: 'StimulusJS: Modest JS for the HTML you have'
+october:
+  jwts-what-rails-developers-need-to-know:
+  - type: video
+    url: https://assets.lrug.org/videos/2020/october/dan-moore-jwts-what-rails-developers-need-to-know-lrug-oct-2020.mp4
+    title: LRUG October 2020 - Dan Moore - JWTs - what Rails developers need to know
+  getting-past-the-tech-test:
+  - type: video
+    url: https://assets.lrug.org/videos/2020/october/michael-mazour-getting-past-the-tech-test-lrug-oct-2020.mp4
+    title: LRUG October 2020 - Michael Mazour - Getting past the tech test

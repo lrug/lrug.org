@@ -1,0 +1,172 @@
+---
+january:
+  using-data-tiering-to-squeeze-scale-out-of-sql:
+  - type: link
+    url: https://github.com/hubb/data-tiering
+    title: data-tiering gem
+  - type: slides
+    url: http://www.slideshare.net/mezis/data-tiering-squeezing-scale-out-of-mysql-lrug-presentation-20140113
+    title: 'Data Tiering: Squeezing Scale out of MySQL (LRUG Presentation 2014-01-13)'
+  - type: video
+    url: http://skillsmatter.com/podcast/nosql/using-data-tiering-to-squeeze-scale-out-of-sql/jd-8885
+    title: 'Skills Matter : London Ruby User Group : Using data tiering to squeeze
+      scale out of SQL'
+  - type: write-up
+    url: http://dev.housetrip.com/2013/11/15/data-tiering/
+    title: Using data tiering to squeeze scale out of SQL
+  api-analytics-with-redis-and-bigquery:
+  - type: notes
+    url: https://teowaki.com/teams/javier-community/link-categories/bigquery-talk
+    title: Interesting links to complement my talk about google bigquery
+  - type: slides
+    url: http://www.slideshare.net/supercoco9/api-analytics-redis-bigquery-lrug
+    title: api analytics redis bigquery. Lrug
+  - type: video
+    url: http://skillsmatter.com/podcast/nosql/pi-analytics-with-redis-and-bigquery/jd-8884
+    title: 'Skills Matter : London Ruby User Group : API Analytics with Redis and
+      BigQuery'
+february:
+  20x20-lightning-talks: []
+  a-conversation-between-a-developer-and-a-manager: []
+  firefoxos-on-rails: []
+  open-source-how-to-get-started: []
+  docker-ansible-the-path-to-continuous-delivery:
+  - type: slides
+    url: https://speakerdeck.com/gerhardlazu/ansible-and-docker-the-path-to-continuous-delivery-lrug-20x20
+    title: Ansible & Docker - The Path to Continuous Delivery LRUG 20x20
+  - type: write-up
+    url: http://gerhard.lazu.co.uk/ansible-docker-the-path-to-continuous-delivery-1
+    title: Ansible & Docker - The Path to Continuous Delivery I
+  angularjs-for-rubyists: []
+  create-your-own-blog-using-jekyll: []
+  visually-representing-memory-leaks-in-ruby-applications: []
+  five-facts-about-smell: []
+  10-things-i-hate-about-your-documentation: []
+march:
+  marketing-for-developers:
+  - type: slides
+    url: https://s3.amazonaws.com/eBench/LRUG_marketing_for_developers.pdf
+    title: Summary Slide
+  - type: video
+    url: https://skillsmatter.com/skillscasts/5094-marketing-for-developers
+    title: 'Skills Matter Skillscast : LRUG : Marketing for developers'
+  rage-against-the-state-machine:
+  - type: slides
+    url: https://speakerdeck.com/appltn/rage-against-the-state-machine
+    title: Rage against the state machine
+  - type: video
+    url: https://skillsmatter.com/skillscasts/5093-rage-against-the-state-machine
+    title: 'Skills Matter Skillscast : LRUG : Rage against the state machine'
+  building-a-soa-network-of-daemons-with-go-ruby-and-zmq:
+  - type: slides
+    url: http://www.slideshare.net/ismasan/go-rubyudppubsub
+    title: Networked pub/sub with UDP, Go, Ruby and ZMQ
+  - type: video
+    url: https://skillsmatter.com/skillscasts/5110-building-a-soa-network-of-daemons-with-go-ruby-and-zmq
+    title: 'Skills Matter Skillscast : LRUG : Building a SOA network of daemons with
+      Go, Ruby, and ZMQ'
+april:
+  adventures-in-early-adoption-of-open-source-code:
+  - type: slides
+    url: http://theodi.github.io/presentations/2014-04-how-to-gds.html
+    title: How Do I GDS?
+  - type: video
+    url: https://skillsmatter.com/skillscasts/5181-adventures-in-early-adoption-of-open-source-code
+    title: 'Skills Matter : Skills Cast : Adventures in early-adoption of open-source
+      code'
+  aspect-oriented-programming-in-ruby:
+  - type: video
+    url: https://skillsmatter.com/skillscasts/5199-aspect-oriented-programming-in-ruby
+    title: 'Skills Matter : Skills Cast : Aspect-oriented programming in Ruby'
+may:
+  learning-to-code:
+  - type: slides
+    url: http://www.slideshare.net/trekr5/may-lrug-talk
+    title: 'Learning to Code : May LRUG talk'
+  - type: video
+    url: https://skillsmatter.com/skillscasts/5281-learning-to-code
+    title: 'Skills Matter : SKILLSCAST : Learning to Code'
+  how-to-win-developers-and-influence-designers:
+  - type: video
+    url: https://skillsmatter.com/skillscasts/5282-how-to-win-developers-and-influence-designers
+    title: 'Skills Matter : SKILLSCAST : How to win developers and influence designers'
+  deprecating-activeresource-alternative-approaches-for-internal-rails-services:
+  - type: slides
+    url: https://speakerdeck.com/gtd/deprecating-activeresource
+    title: Deprecating ActiveResource
+  - type: video
+    url: https://skillsmatter.com/skillscasts/5283-deprecating-activeresource-alternative-approaches-for-internal-rails-services
+    title: 'Skills Matter : SKILLSCAST : Deprecating ActiveResource: Alternative Approaches
+      for Internal Rails Services'
+june:
+  patterns-antipatterns-in-teaching:
+  - type: video
+    url: https://skillsmatter.com/skillscasts/5366-patterns-antipatterns-in-teaching
+    title: 'Skills Matter : SKILLSCAST : Patterns & Antipatterns in Teaching'
+  adventures-with-data-structures-and-algorithms:
+  - type: video
+    url: https://skillsmatter.com/skillscasts/5367-adventures-with-data-structures-and-algorithms
+    title: 'Skills Matter : SKILLSCAST : Adventures with data structures and algorithms'
+july:
+  welcome-back-to-rspec:
+  - type: slides
+    url: https://speakerdeck.com/tomstuart/welcome-back-to-rspec
+    title: Welcome back to RSpec
+  - type: video
+    url: https://skillsmatter.com/skillscasts/5438-welcome-back-to-rspec
+    title: Welcome back to RSpec
+  continuous-deliverance-set-your-development-free:
+  - type: video
+    url: https://skillsmatter.com/skillscasts/5440-continuous-deliverance-set-your-development-free
+    title: 'Skills Matter : SKILLSCAST : Continuous Deliverance - set your development
+      free'
+  becoming-a-developer-codebar:
+  - type: video
+    url: https://skillsmatter.com/skillscasts/5454-becoming-a-developer-and-codebar
+    title: 'Skills Matter : SKILLSCAST : Becoming a Developer & Codebar'
+  - type: write-up
+    url: http://techfoxuk.wordpress.com/2014/07/20/speaking-at-lrug/
+    title: Speaking at LRUG | techfox_uk
+august:
+  a-gentle-introduction-to-music-theory-in-ruby:
+  - type: video
+    url: https://skillsmatter.com/skillscasts/5511-a-gentle-introduction-to-music-theory-in-ruby
+    title: 'Skills Matter : Skillscast : A gentle introduction to music theory (in
+      ruby)'
+  how-to-make-guacamole:
+  - type: video
+    url: https://skillsmatter.com/skillscasts/5510-how-to-make-guacamole
+    title: 'Skills Matter : Skillscast : How to make guacamole'
+september:
+  how-not-to-become-a-terrible-human-being-once-you-get-a-leadership-title:
+  - type: video
+    url: https://skillsmatter.com/skillscasts/5707-how-not-to-become-a-terrible-human-being-once-you-get-a-leadership-title
+    title: 'Skills Matter : Skillscast : How not to become a terrible human being
+      once you get a leadership title'
+  bebox-convention-over-configuration-for-puppet-repositories:
+  - type: slides
+    url: https://speakerdeck.com/jairodiaz/bebox-convention-over-configuration-for-puppet-repositories
+    title: Bebox – Convention over configuration for puppet repositories
+  - type: video
+    url: https://www.skillsmatter.com/skillscasts/5708-bebox-convention-over-configuration-for-puppet-repositories
+    title: Bebox - Convention over configuration for puppet repositories
+  learn-to-code-in-12-weeks:
+  - type: video
+    url: https://skillsmatter.com/skillscasts/5709-learn-to-code-in-12-weeks
+    title: 'Skills Matter : Skillscast : Learn to code in 12 weeks?'
+october:
+  live-coding-in-the-classroom:
+  - type: video
+    url: https://skillsmatter.com/skillscasts/5809-live-coding-in-the-classroom
+    title: Live Coding in the Classroom
+  be-a-good-unix-citizen:
+  - type: slides
+    url: https://robm.me.uk/talks/2014-10-well-behaved-unix.pdf
+    title: Writing Well-Behaved Unix Utilities in Ruby
+november:
+  julia-fast-and-dynamic: []
+  peas-a-docker-and-ruby-based-paas: []
+  possible-third-talk: []
+december:
+  are-you-sure-it-s-right: []
+  an-rspec-3-talk: []
