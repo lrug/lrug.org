@@ -90,6 +90,15 @@ october:
   - type: video
     url: https://assets.lrug.org/videos/2020/october/dan-moore-jwts-what-rails-developers-need-to-know-lrug-oct-2020.mp4
     title: LRUG October 2020 - Dan Moore - JWTs - what Rails developers need to know
+  - type: slides
+    url: https://docs.google.com/presentation/d/1Sr52vuZzUB2EgdOw_CZD1tgbs5e0amCbfQH_Wx7iagQ/
+    title: 'JWTs - What Rails Developers need to know'
+  - type: link
+    url: https://fusionauth.io/learn/expert-advice/tokens/building-a-secure-jwt
+    title: 'Building a Secure Signed JWT'
+  - type: repo
+    url: https://github.com/fusionauth/fusionauth-example-ruby-jwt
+    title: 'Ruby JWT Examples'
   getting-past-the-tech-test:
   - type: video
     url: https://assets.lrug.org/videos/2020/october/michael-mazour-getting-past-the-tech-test-lrug-oct-2020.mp4
