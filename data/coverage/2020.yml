@@ -34,7 +34,7 @@ april:
   - type: slides
     url: https://blog.mocoso.co.uk/assets/take-control-of-code-quality/take-control-of-code-quality--lrug-apr-2020.pdf
     title: 'How to take control of code quality'
-  - type: link
+  - type: transcript
     url: https://blog.mocoso.co.uk/talks/2020/02/27/take-control-of-code-quality/
     title: 'How to take control of code quality'
   music-experiments-in-sonic-pi: []
