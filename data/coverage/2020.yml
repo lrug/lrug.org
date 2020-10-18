@@ -31,6 +31,12 @@ april:
   - type: video
     url: https://assets.lrug.org/videos/2020/april/joel-chippindale-how-to-take-control-of-your-code-quality-lrug-apr-2020.mp4
     title: LRUG April 2020 - Joel Chippindale - How to take control of code quality
+  - type: slides
+    url: https://blog.mocoso.co.uk/assets/take-control-of-code-quality/take-control-of-code-quality--lrug-apr-2020.pdf
+    title: 'How to take control of code quality'
+  - type: link
+    url: https://blog.mocoso.co.uk/talks/2020/02/27/take-control-of-code-quality/
+    title: 'How to take control of code quality'
   music-experiments-in-sonic-pi: []
 may:
   debugging-ruby-http-library-surprises:
