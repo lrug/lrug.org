@@ -109,3 +109,6 @@ october:
   - type: video
     url: https://assets.lrug.org/videos/2020/october/michael-mazour-getting-past-the-tech-test-lrug-oct-2020.mp4
     title: LRUG October 2020 - Michael Mazour - Getting past the tech test
+  - type: slides
+    url: https://speakerdeck.com/mmazour/getting-past-the-tech-test
+    title: 'Getting Past the Tech Test'
