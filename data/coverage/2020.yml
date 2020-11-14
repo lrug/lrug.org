@@ -112,3 +112,12 @@ october:
   - type: slides
     url: https://speakerdeck.com/mmazour/getting-past-the-tech-test
     title: 'Getting Past the Tech Test'
+november:
+  patches-welcome:
+  - type: video
+    url: https://assets.lrug.org/videos/2020/november/denny-de-la-haye-patches-welcome-lrug-nov-2020.mp4
+    title: 'LRUG November 2020 - Denny de la Haye - Patches Welcome!'
+  convention-over-kubernetes-almost-configless-deploys-with-kuby:
+  - type: video
+    url: https://assets.lrug.org/videos/2020/november/cameron-dutro-convention-over-kubernetes-almost-configless-deploys-with-kuby-lrug-nov-2020.mp4
+    title: 'LRUG November 2020 - Cameron Dutro - Convention over Kubernetes: (Almost) Configless Deploys with Kuby'

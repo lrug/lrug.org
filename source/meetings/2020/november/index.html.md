@@ -44,13 +44,15 @@ last 4+ years writing Ruby, and most of the 15+ before that writing Perl. The
 switch between the two was less traumatic than he expected, but it did lead to
 starting another open source software project last year...
 
+{::coverage year="2020" month="november" talk="patches-welcome" /}
+
 ### Convention over Kubernetes: (Almost) Configless Deploys with Kuby
 
 > Rails' most well-known mantra is "convention over configuration," i.e. sane
 > defaults that limit the cognitive overhead of application development. It's
 > easy to learn and easy to build with. The development experience is
 > fantastic... right up until the point you want to deploy your app to
->production. It's at that point that the hand-holding stops. 
+>production. It's at that point that the hand-holding stops.
 >
 > Heroku to the rescue, right? Just push your git repo to "heroku master" and
 > never think about deployment again! Heroku is a great option for many small
@@ -73,6 +75,8 @@ has held previous positions at Fluther, Twitter, and Lumos Labs. When he's not
 reading about, using, or working on technology, Cameron can be found hiking in
 the hills behind his house or hanging out at home with his wife, daughter, and
 cat.
+
+{::coverage year="2020" month="november" talk="convention-over-kubernetes-almost-configless-deploys-with-kuby" /}
 
 ## Afterwards
 
