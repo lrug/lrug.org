@@ -117,6 +117,9 @@ november:
   - type: video
     url: https://assets.lrug.org/videos/2020/november/denny-de-la-haye-patches-welcome-lrug-nov-2020.mp4
     title: 'LRUG November 2020 - Denny de la Haye - Patches Welcome!'
+  - type: link
+    url: https://denny.me/LRUG
+    title: 'Links to pages and projects mentioned in "Patches Welcome!"'
   convention-over-kubernetes-almost-configless-deploys-with-kuby:
   - type: video
     url: https://assets.lrug.org/videos/2020/november/cameron-dutro-convention-over-kubernetes-almost-configless-deploys-with-kuby-lrug-nov-2020.mp4
