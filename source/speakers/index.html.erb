@@ -1,0 +1,21 @@
+---
+published_at: 2020-11-18 00:00:00 Z
+title: Speakers
+created_at: 2020-11-18 00:00:00 Z
+updated_at: 2020-11-18 00:00:00 Z
+status: Published
+created_by:
+  email: me@mikerogers.io
+  name: Mike Rogers
+---
+
+<% data.coverage.sort_by { |key, value| -key.to_i }.each do |year, month_and_talks| %>
+  <h2><%= year %></h2>
+
+  <% month_and_talks.sort_by { |month, talks| Date::MONTHNAMES.index(month.capitalize) }.each do |month, talks| %>
+    <h3><%= month.capitalize %></h3>
+    <% talks.each do |slug, talk| %>
+      <p><%= talk.first[:title] if talk.first %></p>
+    <% end %>
+  <% end %>
+<% end %>
