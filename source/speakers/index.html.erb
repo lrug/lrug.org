@@ -9,6 +9,39 @@ created_by:
   name: Mike Rogers
 ---
 
+<div class="speaker__list">
+
+  <% all_speakers.each do |speaker| %>
+    <div class="speaker">
+      <div class="speaker__avatar">
+        <%= image_tag speaker.avatar_url, alt: "#{speaker.name} avatar" %>
+      </div>
+
+      <div class="speaker__details">
+        <h2 class="speaker__name"><%= speaker.name %></h2>
+        <div class="speaker__socials">
+          <% link_to "https://twitter.com/#{speaker.twitter_username}" do %>
+            <%= image_tag 'twitter.svg', width: 24, height: 24 %>
+          <% end %>
+
+          <% link_to "https://github.com/#{speaker.github_username}" do %>
+            <%= image_tag 'github.svg', width: 24, height: 24 %>
+          <% end %>
+        </div>
+
+        <p><%= speaker.bio %></p>
+
+        <p>Talks: <%= speaker.talks.count %></p>
+
+        <p>
+          <%= link_to speaker.blog, speaker.blog %>
+        </p>
+      </div>
+    </div>
+  <% end %>
+
+</div>
+
 <% data.coverage.sort_by { |key, value| -key.to_i }.each do |year, month_and_talks| %>
   <h2><%= year %></h2>
 

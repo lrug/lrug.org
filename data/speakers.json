@@ -1,0 +1,80 @@
+{
+  "Mike Rogers": {
+    "profile": {
+      "github_username": "MikeRogers0"
+    },
+    "talks": []
+  },
+  "Ali Najaf": {
+    "profile": {
+      "github_username": "",
+      "twitter_username": "alinajaf",
+      "avatar_url": "",
+      "bio": "",
+      "blog": ""
+    },
+    "talks": [
+      "how-to-manage-happy-remote-development-teams"
+    ]
+  },
+  "Jon Rowe": {
+    "profile": {
+      "github_username": "",
+      "twitter_username": "JonRowe",
+      "avatar_url": "",
+      "bio": "",
+      "blog": ""
+    },
+    "talks": [
+      "semantic-versioning-ruby-versioning-and-the-forward-march-of-progress"
+    ]
+  },
+  "Nitish Rathi": {
+    "profile": {
+      "github_username": "",
+      "twitter_username": "latebound",
+      "avatar_url": "",
+      "bio": "",
+      "blog": ""
+    },
+    "talks": [
+      "from-confusion-to-contribution"
+    ]
+  },
+  "Mugurel Chirica": {
+    "profile": {
+      "github_username": "",
+      "twitter_username": "budmc29",
+      "avatar_url": "",
+      "bio": "",
+      "blog": ""
+    },
+    "talks": [
+      "influence-your-company-beyond-code"
+    ]
+  },
+  "Alfredo Motta": {
+    "profile": {
+      "github_username": "",
+      "twitter_username": "mottalrd",
+      "avatar_url": "",
+      "bio": "",
+      "blog": ""
+    },
+    "talks": [
+      "designing-domain-oriented-obvservability-in-your-system"
+    ]
+  },
+  "Elena Tanasoiu": {
+    "profile": {
+      "github_username": "",
+      "twitter_username": "elenatanasoiu",
+      "avatar_url": "",
+      "bio": "",
+      "blog": ""
+    },
+    "talks": [
+      "you-dont-know-what-you-dont-know"
+    ]
+  }
+}

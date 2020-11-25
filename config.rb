@@ -12,6 +12,9 @@ set :years, meeting_years.sort
 require "lib/lrug_helpers"
 helpers LRUGHelpers
 
+require "lib/speaker_helpers"
+helpers SpeakerHelpers
+
 # get our kramdown `{::blah}` extensions
 require 'lib/lrug_extended_kramdown'
 # we have to refer to this via `@app` as otherwise it ends up being a
