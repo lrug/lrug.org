@@ -1,7 +1,7 @@
 module GenerateSpeakerList
   class Generator
     def initialize
-      @files = Dir['source/meetings/*/*/index.html.md']
+      @files = Dir['source/meetings/*/*/index.html.md'].sort
       @authors = []
     end
 
@@ -10,7 +10,6 @@ module GenerateSpeakerList
         @authors << ParseFile.new(file).call
       end
 
-      puts "File: #{file}"
       pp @authors
     end
   end
