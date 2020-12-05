@@ -41,14 +41,3 @@ created_by:
   <% end %>
 
 </div>
-
-<% data.coverage.sort_by { |key, value| -key.to_i }.each do |year, month_and_talks| %>
-  <h2><%= year %></h2>
-
-  <% month_and_talks.sort_by { |month, talks| Date::MONTHNAMES.index(month.capitalize) }.each do |month, talks| %>
-    <h3><%= month.capitalize %></h3>
-    <% talks.each do |slug, talk| %>
-      <p><%= talk.first[:title] if talk.first %></p>
-    <% end %>
-  <% end %>
-<% end %>
