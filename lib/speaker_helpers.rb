@@ -1,4 +1,3 @@
-require 'httparty'
 require 'ostruct'
 
 module SpeakerHelpers
