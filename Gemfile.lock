@@ -31,9 +31,6 @@ GEM
     hamster (3.0.0)
       concurrent-ruby (~> 1.0)
     hashie (3.6.0)
-    httparty (0.18.1)
-      mime-types (~> 3.0)
-      multi_xml (>= 0.5.2)
     i18n (0.9.5)
       concurrent-ruby (~> 1.0)
     kramdown (2.3.0)
@@ -74,12 +71,8 @@ GEM
       servolux
       tilt (~> 2.0.9)
       uglifier (~> 3.0)
-    mime-types (3.3.1)
-      mime-types-data (~> 3.2015)
-    mime-types-data (3.2020.1104)
     mini_portile2 (2.4.0)
     minitest (5.14.2)
-    multi_xml (0.6.0)
     nokogiri (1.10.10)
       mini_portile2 (~> 2.4.0)
     padrino-helpers (0.13.3.4)
@@ -117,7 +110,6 @@ PLATFORMS
 DEPENDENCIES
   builder
   git
-  httparty
   middleman
   nokogiri
   pry

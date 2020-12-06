@@ -5,6 +5,5 @@ gem 'middleman'
 
 gem 'builder'
 gem 'git'
-gem 'httparty'
 gem 'nokogiri'
 gem 'pry'
