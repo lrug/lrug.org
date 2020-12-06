@@ -27,6 +27,10 @@ module GenerateSpeakerList
     def parse_file_line(line)
       if @recording && line.start_with?('## ')
         @recording = false
+      elsif @recording && line.start_with?('## Misc.')
+        @recording = false
+      elsif @recording && line.start_with?('## Pub')
+        @recording = false
       elsif !@recording && line.start_with?('## Agenda')
         @recording = true
       end

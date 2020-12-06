@@ -7,16 +7,34 @@ module GenerateSpeakerList
     def initialize
       @files = Dir['source/meetings/*/*/index.html.md'].sort.reverse
       @talks = []
+      @authors = {}
     end
 
     def call
       load_all_talks_from_files!
 
-      @talks = @talks.flatten.group_by { |talk| talk[:author] }
+      @talks = @talks.flatten.select { |talk| talk[:author] != nil }.group_by { |talk| talk[:author] }
 
-      pp @talks
+      @talks.each do |author_name, talks|
+        @authors[author_name] = {
+          name: author_name,
+          links: talks.collect { |talk| talk[:author_link] }.uniq.compact,
+          talks: talks.collect do |talk|
+            {
+              title: talk[:title],
+              coverage: talk[:coverage],
+              summary: talk[:summary],
+              year: talk[:year],
+              month: talk[:month]
+            }
+          end
+        }
+      end
 
-      save_talks_to_json!
+
+      pp @authors
+
+      save_authors_to_json!
     end
 
     private
@@ -27,8 +45,8 @@ module GenerateSpeakerList
       end
     end
 
-    def save_talks_to_json!
-      File.write(SPEAKERS_DATA_FILE, JSON.pretty_generate(@talks))
+    def save_authors_to_json!
+      File.write(SPEAKERS_DATA_FILE, JSON.pretty_generate(@authors))
     end
   end
 end

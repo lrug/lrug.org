@@ -1,6 +1,6 @@
 module GenerateSpeakerList
   class ParseAgendaItem
-    MARKDOWN_LINK_REGEX = /\[([^\]]+)\]\(([^)]+)\)(.*+)/
+    MARKDOWN_LINK_REGEX = /(.*)\[([^\]]+)\]\(([^)]+)\)(.*+)/
 
     def initialize(agenda_item, year, month)
       @agenda_item = agenda_item
@@ -21,7 +21,7 @@ module GenerateSpeakerList
     end
 
     def valid?
-      !title.nil? && !author.nil?
+      title != "" && author != "" && summary != "" && coverage != nil
     end
 
     def title
@@ -31,13 +31,13 @@ module GenerateSpeakerList
     def author
       return unless @agenda_item[2].match?(MARKDOWN_LINK_REGEX)
 
-      @agenda_item[2].strip.gsub(MARKDOWN_LINK_REGEX, '\1')
+      @agenda_item[2].strip.gsub(MARKDOWN_LINK_REGEX, '\2')
     end
 
     def author_link
       return unless @agenda_item[2].match?(MARKDOWN_LINK_REGEX)
 
-      @agenda_item[2].strip.gsub(MARKDOWN_LINK_REGEX, '\2')
+      @agenda_item[2].strip.gsub(MARKDOWN_LINK_REGEX, '\3')
     end
 
     def coverage
