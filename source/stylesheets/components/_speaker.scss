@@ -1,7 +1,7 @@
 .speaker__list {
   display: grid;
   grid-template-columns: repeat(12, 1fr);
-  grid-gap: $space-6;
+  grid-gap: $space-3;
 }
 
 .speaker {
