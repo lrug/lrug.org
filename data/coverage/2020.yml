@@ -124,3 +124,8 @@ november:
   - type: video
     url: https://assets.lrug.org/videos/2020/november/cameron-dutro-convention-over-kubernetes-almost-configless-deploys-with-kuby-lrug-nov-2020.mp4
     title: 'LRUG November 2020 - Cameron Dutro - Convention over Kubernetes: (Almost) Configless Deploys with Kuby'
+december:
+  create-a-twitter-clone-in-15-minutes-in-pure-ruby-with-matestack:
+  - type: video
+    url: https://assets.lrug.org/videos/2020/december/jonas-jabari-create-a-twitter-clone-in-15-minutes-in-pure-ruby-with-matestack.lrug-dec-2020.mp4
+    title: 'LRUG December 2020 - Jonas Jabari - Create a Twitter clone in 15 minutes in pure Ruby with Matestack'
