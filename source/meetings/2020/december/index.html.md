@@ -34,6 +34,8 @@ We've got one talk lined up for you this month, but we always need more. Email
 > ERB, HTML and JavaScript. In a live coding session, we will create a Twitter
 > clone using Matestack's core features from scratch!
 
+{::coverage year="2020" month="december" talk="create-a-twitter-clone-in-15-minutes-in-pure-ruby-with-matestack" /}
+
 ## Afterwards
 
 For the good of the country, we have had to pause our normal post-LRUG pub time,
