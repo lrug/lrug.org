@@ -53,6 +53,8 @@ For info on how to submit questions for the talk [check out Thayer's email
 to the mailing list](http://lists.lrug.org/pipermail/chat-lrug.org/2020-December/025636.html)
 explaining the situation.
 
+{::coverage year="2021" month="january" talk="recruiting-101-instead-of-404" /}
+
 ## Afterwards
 
 We're all at home so there's no post-meeting pub meetup, however a few
