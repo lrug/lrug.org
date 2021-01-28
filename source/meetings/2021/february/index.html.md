@@ -27,6 +27,16 @@ time.  As ever, we're still looking for volunteers (we have room for up to
 eight of you), so get in touch [talks@lrug.org](mailto:talks@lrug.org), if
 you've got something to say.
 
+### An intro to Bridgetown: A static site generator for the modern JAMStack era.
+
+[Ayush Newatia](https://binarysolo.chapter24.blog):
+
+> [Bridgetown](https://www.bridgetownrb.com) is a new Ruby-powered static
+> site generator that was forked from Jekyll 4.1. It has a focus on modern
+> ideas and includes Webpack as a first-class citizen. In this talk I'll
+> give a demo of what differentiates Bridgetown from Jekyll and some of
+> its best features; followed by a short Q&A.
+
 ### The Path(name) of least resistance
 
 [Fred Cheung](https://twitter.com/fglc2):
@@ -36,6 +46,13 @@ you've got something to say.
 > [Pathname](https://github.com/ruby/pathname). Pathname unifies the other
 > pretenders to the throne with a consistent, rubyish interface that is a
 > joy to work with.
+
+### Are we parallel yet? A first look at Ruby Ractors
+
+[Lorenzo Barasti](https://twitter.com/lbarasti):
+
+> A speedrun through actor-based concurrency, the Ractor API and the
+> future of parallel applications in Ruby.
 
 ### Uncovering some ruby magic in `awesome_print`
 
@@ -49,7 +66,7 @@ you've got something to say.
 
 ### Taking Rails Offline
 
-[Mike Rogers](https://twitter.com/mikerogers0)
+[Mike Rogers](https://twitter.com/mikerogers0):
 
 > Networks are unreliable & drop out all the time! Lets make our apps more
 > resilient to that!
