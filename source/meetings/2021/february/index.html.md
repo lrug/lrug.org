@@ -37,6 +37,8 @@ you've got something to say.
 > give a demo of what differentiates Bridgetown from Jekyll and some of
 > its best features; followed by a short Q&A.
 
+{::coverage year="2021" month="february" talk="an-intro-to-bridgetown" /}
+
 ### The Path(name) of least resistance
 
 [Fred Cheung](https://twitter.com/fglc2):
@@ -47,12 +49,16 @@ you've got something to say.
 > pretenders to the throne with a consistent, rubyish interface that is a
 > joy to work with.
 
+{::coverage year="2021" month="february" talk="the-pathname-of-least-resistance" /}
+
 ### Are we parallel yet? A first look at Ruby Ractors
 
 [Lorenzo Barasti](https://twitter.com/lbarasti):
 
 > A speedrun through actor-based concurrency, the Ractor API and the
 > future of parallel applications in Ruby.
+
+{::coverage year="2021" month="february" talk="are-we-parallel-yet" /}
 
 ### Uncovering some ruby magic in `awesome_print`
 
@@ -64,12 +70,16 @@ you've got something to say.
 > 1.methods.take(1.methods.length)` does not. I will peer into the magic
 > and divulge its secrets.
 
+{::coverage year="2021" month="february" talk="uncovering-some-ruby-magic-in-awesome-print" /}
+
 ### Taking Rails Offline
 
 [Mike Rogers](https://twitter.com/mikerogers0):
 
 > Networks are unreliable & drop out all the time! Lets make our apps more
 > resilient to that!
+
+{::coverage year="2021" month="february" talk="taking-rails-offline" /}
 
 ## Afterwards
 
