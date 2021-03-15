@@ -1,32 +1,30 @@
 ---
 updated_by:
-  email: brooke@alchemists.io
+  email: murray.steele@lrug.org
   name: Brooke Kuhlmann
 created_by:
   email: brooke@alchemists.io
   name: Brooke Kuhlmann
 category: meeting
 title: April 2021 Meeting
-published_at: 2020-01-18 21:30:00 +0000
+published_at: 2020-03-15 22:44:00 +0000
 created_at: 2020-01-18 21:30:00 +0000
-status: Draft
-
-
-
+status: Published
 ---
 
-The January 2021 meeting of LRUG will be on *Monday the 14th of April*,
-from _6:20pm_ to _8:00pm_ (meeting starts at _6:30pm_).  Still online.
+The April 2021 meeting of LRUG will be on *Monday the 12th of April*,
+from _6:20pm_ to _8:00pm_ (meeting starts at _6:30pm_).  It's our first
+meeting of the 2nd year of remote-only LRUG.
 
 [Full registration details are given below](#april21registration), note
-that **we will only be sending out the zoom meeting url to people who
-have registered, so please do make sure you do it.**
+that **the zoom meeting url is only sent to registered attendees, so
+please do make sure you do it.**
 
 ## Agenda
 
-We've got one talk lined up for you this month, but we always need more.
-Email [talks@lrug.org](mailto:talks@lrug.org), if you'd like to start your
-2021 presenting to the enthralled hordes of LRUG attendees.
+We've got one talk lined up for you this month so far.  We've always space
+for more though.  Email [talks@lrug.org](mailto:talks@lrug.org), if you've
+got something you'd like to share with your fellow LRUG attendees.
 
 ### Git Rebase
 
@@ -51,10 +49,11 @@ Email [talks@lrug.org](mailto:talks@lrug.org), if you'd like to start your
 
 ## Afterwards
 
-We're all at home so there's no post-meeting pub meetup, however a few
-attendees often hang around on in the zoom call after the talks are over.
-It's a pale-shadow of the pub meetup, so if you have some ideas about
-doing something better do get in touch at
+Despite spending a year doing this, we've yet to work out a decent online
+version of the post-meeting pub.  That said, we leave the zoom call
+running aftet the talks are over and the formal goodbyes have been said.
+You're more than welcome to hang out with the handful of folk who do stay
+on.  If you've got any ideas for something better let us know at
 [organisers@lrug.org](mailto:organisers@lrug.org).
 
 ## Registration {#april21registration}
@@ -67,9 +66,12 @@ attendees, even though we are all in our own little bubbles.
 ### Secure your place
 
 Even in a virtual world there are limited places for attending the
-meeting. The link to the zoom meeting will only be sent to registered
-attendees on the day of the meeting, around about 6pm. Keep an eye out
-for the email and check your spam just in case.
+meeting so **[you need to register via eventbrite][april2021-eventbrite]**.
+The link to the zoom meeting will only be sent to registered attendees on
+the day of the meeting, around about 6pm. Keep an eye out for the email
+and check your spam just in case.
 
 Do prepare yourself in advance by [downloading the zoom
 client](https://zoom.us/support/download).
+
+[april2021-eventbrite]: https://www.eventbrite.com/e/lrug-april-2021-tickets-146500616287
