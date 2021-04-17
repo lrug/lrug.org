@@ -34,3 +34,11 @@ march:
   - type: video
     url: https://assets.lrug.org/videos/2021/march/matt-patterson-data-as-a-foreign-language-or-a-tale-of-two-or-possibly-three-type-systems-lrug-mar-2021.mp4
     title: 'LRUG March 2021 - Matt Patterson - Data as a foreign language, or: A tale of two (or possibly three) type systems'
+april:
+  git-rebase:
+  - type: video
+    url: https://assets.lrug.org/videos/2021/april/brooke-kuhlmann-git-rebase-lrug-apr-2021.mp4
+    title: 'LRUG April 2021 - Brooke Kuhlmann - Git rebase'
+  - type: slides
+    url: https://www.alchemists.io/presentations/git_rebase/
+    title: 'Alchemists.io | Presentations | Git Rebase'

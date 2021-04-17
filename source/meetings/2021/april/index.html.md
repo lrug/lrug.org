@@ -45,7 +45,7 @@ got something you'd like to share with your fellow LRUG attendees.
 > mission is to create an inclusive and thoughtful collective focused
 > on the craft, quality, ethics, and security of software engineering.
 
-{::coverage year="2021" month="april" talk="git_rebase" /}
+{::coverage year="2021" month="april" talk="git-rebase" /}
 
 ## Afterwards
 
