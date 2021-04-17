@@ -39,25 +39,29 @@ content.
 > Oh, and the only open-source implementation is in Java, so Java’s type system is
 > in the mix.
 >
-> I’ll look at a couple of cases where the different approaches and 
-> assumptions of Ruby and XDM (and Java, which just can’t help sticking 
+> I’ll look at a couple of cases where the different approaches and
+> assumptions of Ruby and XDM (and Java, which just can’t help sticking
 > its nose in) interact in an interesting way.
+
+{::coverage year="2021" month="march" talk="data-as-a-foreign-language" /}
 
 ### Sundae Club: Livestreaming Ruby on Rails
 
 [Max Shelley](https://www.twitter.com/maxshelley):
 
-> I host a [weekly livestream](https://www.youtube.com/c/sundaeclub) where 
-> each week I work on a Ruby on Rails app and, along with those watching, we 
-> plan then build different features and discuss different possible 
-> approaches. It’s casual, aimed very loosely at learners, hopefully useful 
+> I host a [weekly livestream](https://www.youtube.com/c/sundaeclub) where
+> each week I work on a Ruby on Rails app and, along with those watching, we
+> plan then build different features and discuss different possible
+> approaches. It’s casual, aimed very loosely at learners, hopefully useful
 > and receives positive feedback from those that watch or interact.
 >
-> When I mention livestreaming to others, they’re often interested in how it 
-> works, what I get from doing it, what those who interact with the streams 
-> get out of it and how they could potentially get involved in streaming. 
-> This talk aims to answer those questions, along with any others you may 
+> When I mention livestreaming to others, they’re often interested in how it
+> works, what I get from doing it, what those who interact with the streams
+> get out of it and how they could potentially get involved in streaming.
+> This talk aims to answer those questions, along with any others you may
 > have, come and say hello!
+
+{::coverage year="2021" month="march" talk="sundae-club" /}
 
 ## Afterwards
 
