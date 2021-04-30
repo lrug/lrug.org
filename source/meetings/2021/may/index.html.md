@@ -37,6 +37,20 @@ sharing a talk with us.
 
 {::coverage year="2021" month="may" talk="your-fortified-cookie-jar" /}
 
+### Is this feature a waste of time?
+
+[Tom Lord](https://github.com/tom-lord) says:
+
+> Sometimes a new feature may be objectively worthwhile; but often one
+> might be left wondering “Does this actually make our product better?”,
+> or “Is this making the business more money?”.
+>
+> In this talk, I will explore the virtues of defining North Star metrics,
+> AB testing product variations to statistical significance, and using
+> funnel analysis to quantify a feature's value.
+
+{::coverage year="2021" month="may" talk="is-this-feature-a-waste-of-time" /}
+
 ## Afterwards
 
 We leave the zoom call running after the talks are over for as long as our
