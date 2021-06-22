@@ -7,7 +7,7 @@ created_by:
   name: Murray Steele
 category: meeting
 title: July 2021 Meeting
-published_at: 2021-06-22 22:40:00 +0100
+published_at: 2021-06-22 22:05:00 +0100
 created_at: 2021-06-22 21:33:00 +0100
 status: Published
 ---
