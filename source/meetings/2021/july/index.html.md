@@ -44,6 +44,17 @@ please do make sure you do it.**
 
 {::coverage year="2021" month="july" talk="ruby-on-rails-for-fun-and-social-good" /}
 
+### Using packwerk to enforce modularity in a Rails application
+
+[Rob Faldo](https://www.linkedin.com/in/robertfaldo/) says:
+
+> One of the aspects of Ruby & Rails that gives it the reputation for not
+> scaling well is that unlike some languages/frameworks it has no way to
+> enforce modularity. Over time and with many developers this usually
+> leads to 'spaghetti code'. This talk will introduce a solution to this
+> problem called [packwerk](https://github.com/Shopify/packwerk) (a ruby
+> gem by Shopify), as well as touch on some alternatives.
+
 ## Afterwards
 
 The zoom call will stay open after the talks are finished for a little bit
