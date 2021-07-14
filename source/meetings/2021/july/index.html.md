@@ -55,6 +55,8 @@ please do make sure you do it.**
 > problem called [packwerk](https://github.com/Shopify/packwerk) (a ruby
 > gem by Shopify), as well as touch on some alternatives.
 
+{::coverage year="2021" month="july" talk="using-packwerk-to-enforce-modularity-in-a-rails-application" /}
+
 ## Afterwards
 
 The zoom call will stay open after the talks are finished for a little bit
