@@ -1,4 +1,9 @@
 ---
+january:
+  re-interpreting-data:
+  - type: transcript
+    url: http://h-lame.com/talks/re-interpreting-data/
+    title: Talks ∋ Re-interpreting Data
 february:
   how-to-manage-happy-remote-development-teams:
   - type: video

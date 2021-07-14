@@ -51,3 +51,7 @@ may:
   - type: video
     url: https://assets.lrug.org/videos/2021/may/tom-lord-is-this-feature-a-waste-of-time-lrug-may-2021.mp4
     title: 'LRUG May 2021 - Tom Lord - Is This Feature a Waste of Time?'
+july:
+  breaking-up-monoliths-with-crc-cards: []
+  ruby-on-rails-for-fun-and-social-good: []
+  using-packwerk-to-enforce-modularity-in-a-rails-application: []

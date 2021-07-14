@@ -44,6 +44,8 @@ pulling data out of a database and rendering it on a website.
 > setup, the architecture and the code that goes into making something
 > like this work and what can go wrong!
 
+{::coverage year="2020" month="january" talk="ruby-on-the-big-screen" /}
+
 #### Re-interpreting data
 
 [Murray Steele](https://twitter.com/hlame) says:
@@ -53,6 +55,8 @@ pulling data out of a database and rendering it on a website.
 > file header for it, could I _hear_ my data?  Yes, you can.  You probably
 > don't want to, but you can.  You can do something similar with BMP and
 > MIDI files too!
+
+{::coverage year="2020" month="january" talk="re-interpreting-data" /}
 
 #### Ruby's a critic
 
@@ -64,12 +68,16 @@ pulling data out of a database and rendering it on a website.
 > of how your code quality is evolving over time is by setting it up on
 > your CI and storing the reports artefacts.
 
+{::coverage year="2020" month="january" talk="rubys-a-critic" /}
+
 #### Getting started with mruby
 
 [Fred Cheung](https://github.com/fglc2) says:
 
 > find out what [mruby](https://github.com/mruby/mruby) is, why you might
 > want to use it and obstacles you might encounter along the way.
+
+{::coverage year="2020" month="january" talk="getting-started-with-mruby" /}
 
 #### You?
 
