@@ -3,7 +3,7 @@ rvm:
 - 2.7.2
 cache: bundler
 install: bundle install
-script: bundle exec middleman build
+script: bundle exec middleman build --verbose
 after_success:
 - tar -cf lrug.org.tar public
 - bzip2 lrug.org.tar
