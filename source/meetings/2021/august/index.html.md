@@ -33,7 +33,24 @@ do make sure you do it.**
 
 {::coverage year="2021" month="august" talk="building-startups-with-ruby-on-rails" /}
 
-More to come...
+### Do regex dream of Turing Completeness?
+
+[Daniel Magliola](https://twitter.com/dmagliola) says:
+
+> We're used to using Regular Expressions every day for pattern matching and
+> text replacement, but... What can Regexes actually do? How far can we push
+> them? Can we implement actual logic with them?
+>
+> What if I told you... You can actually implement Conway's Game of Life with
+> just a Regex? What if I told you... You can actually implement ANYTHING with
+> just a Regex?
+>
+> Join me on a wild ride exploring amazing Game of Life patterns, unusual Regex
+> techniques, Turing Completeness, programatically generating complex Regexes
+> with Ruby, and what all this means for ou understanding of what a Regex can
+> do.
+
+{::coverage year="2021" month="august" talk="do-regexp-dream-of-turing-completeness" /}
 
 ## Afterwards
 
