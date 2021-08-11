@@ -44,7 +44,7 @@ please do make sure you do it.**
 
 {::coverage year="2021" month="july" talk="ruby-on-rails-for-fun-and-social-good" /}
 
-### Using packwerk to enforce modularity in a Rails application
+### Improving Rails scalability using modularity with enforced boundaries
 
 [Rob Faldo](https://www.linkedin.com/in/robertfaldo/) says:
 
@@ -55,7 +55,7 @@ please do make sure you do it.**
 > problem called [packwerk](https://github.com/Shopify/packwerk) (a ruby
 > gem by Shopify), as well as touch on some alternatives.
 
-{::coverage year="2021" month="july" talk="using-packwerk-to-enforce-modularity-in-a-rails-application" /}
+{::coverage year="2021" month="july" talk="improving-rails-scalability-using-modularity-with-enforced-boundaries" /}
 
 ## Afterwards
 
