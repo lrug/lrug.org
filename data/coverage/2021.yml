@@ -52,9 +52,18 @@ may:
     url: https://assets.lrug.org/videos/2021/may/tom-lord-is-this-feature-a-waste-of-time-lrug-may-2021.mp4
     title: 'LRUG May 2021 - Tom Lord - Is This Feature a Waste of Time?'
 july:
-  breaking-up-monoliths-with-crc-cards: []
+  breaking-up-monoliths-with-crc-cards:
+  - type: video
+    url: https://assets.lrug.org/videos/2021/july/hemal-varambhia-breaking-up-monoliths-with-crc-cards-lrug-jul-2021.mp4
+    title: 'LRUG July 2021 - Hemal Varambhia - Breaking up monoliths with CRC cards'
   ruby-on-rails-for-fun-and-social-good:
+  - type: video
+    url: https://assets.lrug.org/videos/2021/july/alex-rudall-ruby-on-rails-for-fun-and-social-good-lrug-jul-2021.mp4
+    title: 'LRUG July 2021 - Alex Rudall - Ruby on Rails for Fun and Social Good'
   - type: video
     url: https://www.youtube.com/watch?v=_zsj6uek4Qw
     title: 'A new way to tackle homelessness | TEDx Brighton'
-  using-packwerk-to-enforce-modularity-in-a-rails-application: []
+  improving-rails-scalability-using-modularity-with-enforced-boundaries:
+  - type: video
+    url: https://assets.lrug.org/videos/2021/july/rob-faldo-improving-rails-scalability-using-modularity-with-enforced-boundaries-lrug-jul-2021.mp4
+    title: 'LRUG July 2021 - Rob Faldo - Improving Rails scalability using modularity with enforced boundaries'
