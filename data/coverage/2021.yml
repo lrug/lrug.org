@@ -67,3 +67,12 @@ july:
   - type: video
     url: https://assets.lrug.org/videos/2021/july/rob-faldo-improving-rails-scalability-using-modularity-with-enforced-boundaries-lrug-jul-2021.mp4
     title: 'LRUG July 2021 - Rob Faldo - Improving Rails scalability using modularity with enforced boundaries'
+august:
+  building-startups-with-ruby-on-rails:
+  - type: video
+    url: https://assets.lrug.org/videos/2021/august/tom-blomfield-10-years-on-building-startups-with-ruby-on-rails-lrug-aug-2021.mp4
+    title: 'LRUG August 2021 - Tom Blomfield - 10 years on - building startups with Ruby on Rails'
+  do-regexp-dream-of-turing-completeness:
+  - type: video
+    url: https://assets.lrug.org/videos/2021/august/daniel-magliola-do-regex-dream-of-turing-completeness-lrug-aug-2021.mp4
+    title: 'LRUG August 2021 - Daniel Magliola - Do regex dream of Turing Completeness?'
