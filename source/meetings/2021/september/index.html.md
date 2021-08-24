@@ -15,7 +15,7 @@ status: Published
 The September 2021 meeting of LRUG will be on _Monday the 13th of September_,
 from _6:20pm_ to _8:00pm_ (meeting starts at _6:30pm_).
 
-[Full registration details are given below](#aug21registration), and please do
+[Full registration details are given below](#sep21registration), and please do
 note that **the zoom meeting url is only sent to registered attendees, so please
 do make sure you do it.**
 
@@ -39,7 +39,7 @@ so you can ask them questions you weren't able to during the meeting. If you've
 got any ideas for something better, then please do let us know at
 [organisers@lrug.org](mailto:organisers@lrug.org). Thanks!
 
-## Registration {#aug21registration}
+## Registration {#sep21registration}
 
 Prior to attending you **must** familiarise yourself with our
 [README](http://readme.lrug.org/) paying particular attention to [the code of
