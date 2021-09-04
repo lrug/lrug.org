@@ -23,7 +23,7 @@ do make sure you do it.**
 
 ### How to use flamegraphs to find performance problems
 
-Jade Dickinson will be running an interactive workshop:
+[Jade Dickinson](https://twitter.com/_jadedickinson) will be running an interactive workshop:
 
 > Slow Ruby code can be a puzzle, but it doesn’t have to be that way. In this
 > talk you will see how fun it can be to use flamegraphs to find performance
@@ -32,7 +32,7 @@ Jade Dickinson will be running an interactive workshop:
 
 ## Afterwards
 
-The zoom call will stay open after the talks are finished for a little bit if
+The zoom call will stay open after the workshop is finished for a little bit if
 attendees want to chat for a while. It's not as good as shouting across a table
 at the Singer Tavern, but we make do with what we can. The speakers may hang out
 so you can ask them questions you weren't able to during the meeting. If you've
@@ -44,8 +44,7 @@ got any ideas for something better, then please do let us know at
 Prior to attending you **must** familiarise yourself with our
 [README](http://readme.lrug.org/) paying particular attention to [the code of
 conduct](http://readme.lrug.org/#code-of-conduct) which applies to all
-attendees, even though we are only tiny flat moving images like prisoners in the
-Phantom Zone.
+attendees, even though we float on screens like so many tiny programming postage stamps.
 
 ### Secure your place
 
@@ -58,4 +57,4 @@ just in case.
 Give yourself a head-start by [downloading the zoom
 client](https://zoom.us/support/download) (lol, as if you don't already have it).
 
-[sep2021-eventbrite]:
+[sep2021-eventbrite]: https://www.eventbrite.com/e/lrug-september-2021-tickets-169732878609
