@@ -71,10 +71,10 @@ GEM
       servolux
       tilt (~> 2.0.9)
       uglifier (~> 3.0)
-    mini_portile2 (2.5.1)
+    mini_portile2 (2.6.1)
     minitest (5.14.2)
-    nokogiri (1.11.4)
-      mini_portile2 (~> 2.5.0)
+    nokogiri (1.12.5)
+      mini_portile2 (~> 2.6.1)
       racc (~> 1.4)
     padrino-helpers (0.13.3.4)
       i18n (~> 0.6, >= 0.6.7)
