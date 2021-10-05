@@ -50,6 +50,16 @@ optimising their postgresql db:
 > management and given us confidence that our production data is in a
 > consistent state.
 
+### Memoization: My Favourite Antipattern
+
+[Joel Biffin](https://github.com/joelbiffin/) says:
+
+> As Rubyists we love to use built-in language features to set ourselves
+> apart for the rest. It's part of what makes programming in Ruby so
+> enjoyable! **Memoization** is no exception to this. But, *what if we
+> don't really need all of that memoization*? *Is memoization an
+> anti-pattern in its own right?*
+
 ## Afterwards
 
 We do our best to keep the zoom call open for a while after the talks for
