@@ -67,11 +67,11 @@ july:
   - type: video
     url: https://assets.lrug.org/videos/2021/july/rob-faldo-improving-rails-scalability-using-modularity-with-enforced-boundaries-lrug-jul-2021.mp4
     title: 'LRUG July 2021 - Rob Faldo - Improving Rails scalability using modularity with enforced boundaries'
-  - type: slides 
-    url: https://docs.google.com/presentation/d/12EjD9OtIOtFpRqBaFKWmu4y1ogJK-WsO8l5TgTt1EmI/edit?usp=sharing 
+  - type: slides
+    url: https://docs.google.com/presentation/d/12EjD9OtIOtFpRqBaFKWmu4y1ogJK-WsO8l5TgTt1EmI/edit?usp=sharing
     title: 'Improving Rails scalability using modularity with enforced boundaries'
-  - type: link 
-    url: https://robertfaldo.medium.com/improving-rails-scalability-using-the-modular-monolith-approach-with-enforced-boundaries-f8cea89e85b9 
+  - type: link
+    url: https://robertfaldo.medium.com/improving-rails-scalability-using-the-modular-monolith-approach-with-enforced-boundaries-f8cea89e85b9
     title: 'Blog post on "Improving Rails scalability using modularity with enforced boundaries"'
 august:
   building-startups-with-ruby-on-rails:
@@ -82,3 +82,9 @@ august:
   - type: video
     url: https://assets.lrug.org/videos/2021/august/daniel-magliola-do-regex-dream-of-turing-completeness-lrug-aug-2021.mp4
     title: 'LRUG August 2021 - Daniel Magliola - Do regex dream of Turing Completeness?'
+september:
+  how-to-use-flamegraphs-to-find-performance-problems: []
+october:
+  solargraph-a-ruby-language-server-to-make-your-editor-smart: []
+  how-denormalizing-our-postgres-turned-great: []
+  memoization-my-favourite-antipattern: []

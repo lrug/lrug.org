@@ -34,6 +34,8 @@ plugin and wants to tell us all about it:
 > Ruby. I'll also talk about the challenges that Rails poses for such
 > tooling and how solargraph-rails attempts to overcome them.
 
+{::coverage year="2021" month="october" talk="solargraph-a-ruby-language-server-to-make-your-editor-smart" /}
+
 ### How denormalizing our Postgres turned great
 
 [Thierry Deo](https://github.com/tdeo) co-founder and lead dev at
@@ -50,6 +52,8 @@ optimising their postgresql db:
 > management and given us confidence that our production data is in a
 > consistent state.
 
+{::coverage year="2021" month="october" talk="how-denormalizing-our-postgres-turned-great" /}
+
 ### Memoization: My Favourite Antipattern
 
 [Joel Biffin](https://github.com/joelbiffin/) says:
@@ -59,6 +63,8 @@ optimising their postgresql db:
 > enjoyable! **Memoization** is no exception to this. But, *what if we
 > don't really need all of that memoization*? *Is memoization an
 > anti-pattern in its own right?*
+
+{::coverage year="2021" month="october" talk="memoization-my-favourite-antipattern" /}
 
 ## Afterwards
 

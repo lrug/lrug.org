@@ -30,8 +30,10 @@ do make sure you do it.**
 > problems. You’ll enjoy this talk if you know you have slow areas in your
 > Ruby application\*, and would like to learn how to find the code responsible.
 
-You can find out more about what you need to prepare for the workshop via [Jade's 
+You can find out more about what you need to prepare for the workshop via [Jade's
 mailing list post about it](http://lists.lrug.org/pipermail/chat-lrug.org/2021-September/025800.html).
+
+{::coverage year="2021" month="september" talk="how-to-use-flamegraphs-to-find-performance-problems" /}
 
 ## Afterwards
 
