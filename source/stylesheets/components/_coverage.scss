@@ -33,11 +33,14 @@
 .coverage-item.notes::before {
   content: 'Notes:';
 }
-.coverage.write-up::before {
+.coverage-item.write-up::before {
   content: 'Write-up:';
 }
 .coverage-item.handout::before {
   content: 'Handout:';
+}
+.coverage-item.code::before {
+  content: 'Code:';
 }
 .coverage-item.photos::before {
   content: 'Photos:';
