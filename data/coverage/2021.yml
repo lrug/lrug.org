@@ -85,6 +85,18 @@ august:
 september:
   how-to-use-flamegraphs-to-find-performance-problems: []
 october:
-  solargraph-a-ruby-language-server-to-make-your-editor-smart: []
+  solargraph-a-ruby-language-server-to-make-your-editor-smart:
+  - type: slides
+    url: http://iftheshoefritz.com/lsp/intellisense/solargraph/lrug/2021/10/11/lrug-solargraph.html
+    title: If The Shoe Fritz - Solargraph talk at LRUG October 2021
+  - type: write-up
+    url: http://iftheshoefritz.com/lsp/intellisense/solargraph/2021/07/24/conversation-editor-lsp.html
+    title: If The Shoe Fritz - A conversation between your editor and a language server
+  - type: code
+    url: https://github.com/iftheshoefritz/solargraph-rails
+    title: The solargraph-rails plugin
+  - type: code
+    url: https://github.com/castwide/solargraph
+    title: The solargraph project
   how-denormalizing-our-postgres-turned-great: []
   memoization-my-favourite-antipattern: []
