@@ -26,6 +26,8 @@ set :markdown, input: 'LRUGExtendedKramdown'
 # there's no extension hook for changing this class
 require 'lib/lrug_extended_middleman_kramdown_html'
 
+activate :asset_hash
+
 configure :build do
   ignore 'archive/*'
 end
