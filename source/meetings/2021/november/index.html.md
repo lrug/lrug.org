@@ -50,6 +50,17 @@ attendees, so please do make sure you do it.**
 
 {::coverage year="2021" month="november" talk="why-rails-is-still-relevant-for-startups-in-2021" /}
 
+### Service Objects and Domain objects differences
+
+[Patricia Cupueran](https://twitter.com/pa1809ty) says:
+
+> Understanding what a service and domain objects are. Distinguishing the
+> difference between procedures and objects. Why using service objects is
+> a bad idea. Advantages of using modules, concerns and PORO's instead of
+> service objects.
+
+{::coverage year="2021" month="november" talk="service-objects-and-domain-objects-differences" /}
+
 ## Afterwards
 
 It's been nearly 2 years of this and we still haven't worked out a good
