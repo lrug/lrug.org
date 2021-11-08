@@ -86,6 +86,9 @@ september:
   how-to-use-flamegraphs-to-find-performance-problems: []
 october:
   solargraph-a-ruby-language-server-to-make-your-editor-smart:
+  - type: video
+    url: https://assets.lrug.org/videos/2021/october/fritz-meissner-your-editor-language-server-protocol-and-solargraph-lrug-oct-2021.mp4
+    title: 'LRUG October 2021 - Fritz Meissner - Your editor, Language Server Protocol, and Solargraph'
   - type: slides
     url: http://iftheshoefritz.com/lsp/intellisense/solargraph/lrug/2021/10/11/lrug-solargraph.html
     title: If The Shoe Fritz - Solargraph talk at LRUG October 2021
@@ -98,5 +101,11 @@ october:
   - type: code
     url: https://github.com/castwide/solargraph
     title: The solargraph project
-  how-denormalizing-our-postgres-turned-great: []
-  memoization-my-favourite-antipattern: []
+  how-denormalizing-our-postgres-turned-great:
+    - type: video
+      url: https://assets.lrug.org/videos/2021/october/thierry-deo-how-denormalizing-our-postgres-turned-great-lrug-oct-2021.mp4
+      title: 'LRUG October 2021 - Thierry Deo - How denormalizing our Postgres turned great'
+  memoization-my-favourite-antipattern:
+    - type: video
+      url: https://assets.lrug.org/videos/2021/october/joel-biffin-memoization-my-favourite-antipattern-lrug-oct-2021.mp4
+      title: 'LRUG October 2021 - Joel Biffin - Memoization: My Favourite Antipattern'
