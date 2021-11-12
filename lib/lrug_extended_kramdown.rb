@@ -28,6 +28,7 @@ class Kramdown::Parser::LRUGExtendedKramdown < Kramdown::Parser::Kramdown
 
   def render_coverage(year, month, talk_id)
     coverage = find_coverage(year, month, talk_id)
+    raise "Missing coverage for #{year}, #{month}, #{talk_id}" if coverage.nil?
     if coverage&.any?
       list = new_block_el(:ol, nil, nil, location: @src.current_line_number)
       list.attr['class'] = 'coverage'
