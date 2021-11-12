@@ -114,6 +114,9 @@ november:
     - type: video
       title: LRUG November 2021 - Christian Gregg - Failing better with Load Shedding & Deadline Propagation across services
       url: https://assets.lrug.org/videos/2021/november/christian-gregg-failing-better-with-load-shedding-and-deadline-propagation-across-services-lrug-nov-2021.mp4
+    - type: slides
+      title: Failing better with Load Shedding & Deadline Propagation across services
+      url: https://github.com/lrug/lrug.org/files/7529520/presentation.pdf
   why-rails-is-still-relevant-for-startups-in-2021:
     - type: video
       title: LRUG November 2021 - Chris Parsons - Why Rails is still relevant for startups in 2021
