@@ -121,6 +121,9 @@ november:
     - type: video
       title: LRUG November 2021 - Chris Parsons - Why Rails is still relevant for startups in 2021
       url: https://assets.lrug.org/videos/2021/november/chris-parsons-why-rails-is-still-relevant-for-startups-in-2021-lrug-nov-2021.mp4
+    - type: slides
+      title: Why Rails is still relevant for startups in 2021
+      url: https://speakerdeck.com/chrismdp/why-rails-is-still-relevant-for-startups-in-2021
   service-objects-and-domain-objects-differences:
     - type: video
       title: LRUG November 2021 - Patricia Cupueran - Service Objects and Domain Objects differences
