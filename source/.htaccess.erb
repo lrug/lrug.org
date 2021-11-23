@@ -1,6 +1,7 @@
 ErrorDocument 404 /file-not-found/
 
 RewriteEngine On
+RewriteRule  ^styles.css$  <%= asset_path(:css, "all") %>  [R=302,NC,L]
 <% data.redirects.each do |redirect| %>
 RewriteRule  <%= format_redirect_from_regex(redirect.from) %>  <%= redirect.to %>  [<%= redirect.rules || 'R=301,NC,L' %>]
 <% end %>
