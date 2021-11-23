@@ -2,7 +2,6 @@ language: ruby
 rvm:
 - 2.7.2
 cache: bundler
-install: bundle install
 script: bundle exec middleman build
 after_success:
 - tar -cf lrug.org.tar public
@@ -20,6 +19,6 @@ deploy:
     repo: lrug/lrug.org
     branch: master
 notifications:
-  webhooks: 
+  webhooks:
   - http://webhook.lrug.org/deploy-lrug.cgi
   - http://postb.in/HMbJCDZL
