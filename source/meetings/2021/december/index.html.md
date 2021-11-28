@@ -7,8 +7,8 @@ created_by:
   name: Alessandro Proserpio
 category: meeting
 title: December 2021 Meeting
-published_at: 2021-10-28 19:53:00 +0100
-created_at: 2021-10-28 18:53:00 +0100
+published_at: 2021-11-28 19:39:00 +0100
+created_at: 2021-11-28 18:53:00 +0100
 status: Published
 ---
 
