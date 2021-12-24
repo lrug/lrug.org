@@ -1,10 +1,10 @@
 ---
 updated_by:
-email: alessandro.proserpio@lrug.org
-name: Alessandro Proserpio
+  email: alessandro.proserpio@lrug.org
+  name: Alessandro Proserpio
 created_by:
-email: alessandro.proserpio@lrug.org
-name: Alessandro Proserpio
+  email: alessandro.proserpio@lrug.org
+  name: Alessandro Proserpio
 category: meeting
 title: January 2022 Meeting
 published_at: 2021-12-24 20:30:00 +0100
