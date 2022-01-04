@@ -30,6 +30,14 @@ Ruby on Rails, and more.
 > friends, and win bragging rights. Or simply invite them and enjoy spending
 > time with them.
 
+The quiz will have 4 categories, and each category will have between 20 and 30
+questions. The 4 categories are:
+
+- Ruby
+- Ruby on Rails
+- General computing
+- London
+
 {::coverage year="2022" month="january" talk="pub-quiz" /}
 
 ## Afterwards
