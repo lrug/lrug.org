@@ -27,13 +27,13 @@ eight of you), so get in touch [talks@lrug.org](mailto:talks@lrug.org), if
 you've got something to say.
 
 
-### Javascript in Rails: A new hope
+### Javascript in Rails: A New Hope
 
 [Frederick Cheung](https://twitter.com/fglc2):
 
 > Tired of slow webpack builds and daunting configuration files?
 > Find out how the new css-bundling and js-bundling gems can roll back the years
-> and make javascript in rails simple again.
+> and make javascript in rails fast and simple again.
 
 ### Your talk here
 
