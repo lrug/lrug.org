@@ -37,7 +37,7 @@ you've got something to say.
 
 ### Your talk here
 
-Got something to say? Get in touch! talks@lrug.org](mailto:talks@lrug.org)
+Got something to say? Get in touch! [talks@lrug.org](mailto:talks@lrug.org)
 
 ## Afterwards
 
