@@ -35,6 +35,17 @@ you've got something to say.
 > Find out how the new css-bundling and js-bundling gems can roll back the years
 > and make javascript in rails fast and simple again.
 
+### Getting past enemy images
+
+[Pablo Dejuan](https://pablo.pm):
+
+> Enemy images hinder our communication with people when we need them
+> the most: to agree with another colleague over a code review, to interview
+> a third party, to have an important conversation with our boss or direct
+> report (technical or non-technical topic).
+> In this talk we will raise awareness and cover one way of overcoming the
+> initial enemy image to get a better outcome for us and our team.
+
 ### Your talk here
 
 Got something to say? Get in touch! [talks@lrug.org](mailto:talks@lrug.org)
