@@ -46,6 +46,13 @@ you've got something to say.
 > In this talk we will raise awareness and cover one way of overcoming the
 > initial enemy image to get a better outcome for us and our team.
 
+### The tale of the 60+ second page loads
+
+[Jared Turner](https://www.linkedin.com/in/jaredlt/):
+
+> A monstrous mystery and a head-scratching hunt. Follow along to discover
+> why, just why, is that darn page so slow!?
+
 ### Your talk here
 
 Got something to say? Get in touch! [talks@lrug.org](mailto:talks@lrug.org)
