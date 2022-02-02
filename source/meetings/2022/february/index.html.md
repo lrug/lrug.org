@@ -53,6 +53,16 @@ you've got something to say.
 > A monstrous mystery and a head-scratching hunt. Follow along to discover
 > why, just why, is that darn page so slow!?
 
+### solargraph-dead_end
+
+[Fritz Meissner](https://twitter.com/fritzmeissner):
+
+> The awesome dead_end gem gives really good feedback on where that elusive
+> missing `end` keyword is hiding in your Ruby file.
+> At a thoughtbot hackathon a few of us worked on a solargraph plugin
+> for it so you can get this feedback in your editor. Come hear about
+> the results!
+
 ### Your talk here
 
 Got something to say? Get in touch! [talks@lrug.org](mailto:talks@lrug.org)
