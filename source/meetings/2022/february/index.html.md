@@ -63,6 +63,13 @@ you've got something to say.
 > for it so you can get this feedback in your editor. Come hear about
 > the results!
 
+### Introducing ViewComponent
+
+[Simon Fish](https://simon.fish)
+
+> The view layer is the Wild West of Rails. Let's look at how ViewComponent
+> helps you break down and test your Rails views.
+
 ### Your talk here
 
 Got something to say? Get in touch! [talks@lrug.org](mailto:talks@lrug.org)
