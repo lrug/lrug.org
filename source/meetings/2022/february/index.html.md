@@ -70,6 +70,14 @@ you've got something to say.
 > The view layer is the Wild West of Rails. Let's look at how ViewComponent
 > helps you break down and test your Rails views.
 
+### A Little Pessimism Never Killed Nobody
+
+Marija Mandić
+
+> Come join and hear my experience on a real life example of concurrency problem
+> and different approaches to fixing it.
+>
+
 ### Your talk here
 
 Got something to say? Get in touch! [talks@lrug.org](mailto:talks@lrug.org)
