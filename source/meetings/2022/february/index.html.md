@@ -72,7 +72,7 @@ you've got something to say.
 
 ### A Little Pessimism Never Killed Nobody
 
-Marija Mandić
+[Marija Mandić](https://www.linkedin.com/in/marija-mandic/)
 
 > Come join and hear my experience on a real life example of concurrency problem
 > and different approaches to fixing it.
