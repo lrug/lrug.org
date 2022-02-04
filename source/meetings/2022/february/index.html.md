@@ -78,6 +78,16 @@ Marija Mandić
 > and different approaches to fixing it.
 >
 
+### Metaprogramming I Do In My Side Projects That My Colleagues Won't Let Me Do In The Real App At Work :-(
+
+[PJ](https://github.com/isitpj)
+
+> Metaprogramming is fun but, more importantly, makes you feel *really* clever.
+> However, it's not always the best fit for codebases with multiple
+> contributors. Let's take a few minutes to explore some neat tricks you can
+> do when you don't need to worry about other people understanding your code
+> 😀
+
 ### Your talk here
 
 Got something to say? Get in touch! [talks@lrug.org](mailto:talks@lrug.org)
