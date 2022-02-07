@@ -88,9 +88,12 @@ you've got something to say.
 > do when you don't need to worry about other people understanding your code
 > 😀
 
-### Your talk here
+### How to think about Learning
 
-Got something to say? Get in touch! [talks@lrug.org](mailto:talks@lrug.org)
+[Hywel Carver](https://www.linkedin.com/in/hywelc/)
+
+> Why do we learn? How do we learn? How do we learn well?
+> 3 mental models that will answer the first 3 of those questions and change how you think
 
 ## Afterwards
 
