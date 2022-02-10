@@ -22,10 +22,7 @@ have registered, because we have limited places, so please do it.**
 ## Agenda
 
 It's our annual ⚡️lightning⚡️ talks event.  All short talks, all the
-time.  As ever, we're still looking for volunteers (we have room for up to
-eight of you), so get in touch [talks@lrug.org](mailto:talks@lrug.org), if
-you've got something to say.
-
+time.
 
 ### Javascript in Rails: A New Hope
 
