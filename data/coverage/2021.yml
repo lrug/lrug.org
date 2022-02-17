@@ -128,3 +128,16 @@ november:
     - type: video
       title: LRUG November 2021 - Patricia Cupueran - Service Objects and Domain Objects differences
       url: https://assets.lrug.org/videos/2021/november/patricia-cupueran-service-objects-and-domain-objects-differences-lrug-nov-2021.mp4
+december:
+  enough-coverage-to-beat-the-band:
+    - type: video
+      title: LRUG December 2021 - Kevin Murphy - Enough coverage to beat the band
+      url: https://assets.lrug.org/videos/2021/december/kevin-murphy-enough-coverage-to-beat-the-band-lrug-dec-2021.mp4
+  when-activerecord-meets-cte:
+    - type: video
+      title: LRUG December 2021 - Johnson Zhan - When ActiveRecord meets CTE!?
+      url: https://assets.lrug.org/videos/2021/december/johnson-zhan-when-activerecord-meets-cta-lrug-dec-2021.mp4
+  finding-hiring-and-onboarding-junior-ruby-developers:
+    - type: video
+      title: LRUG December 2021 - Alex Balhatchet - Finding, Hiring and onboarding junior Ruby developers
+      url: https://assets.lrug.org/videos/2021/december/alex-balhatchet-finding-hiring-and-onboarding-junior-ruby-developers-lrug-dec-2021.mp4
