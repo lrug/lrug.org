@@ -10,6 +10,8 @@ title: February 2022 Meeting
 published_at: 2022-01-13 21:30:00 +0000
 created_at: 2022-01-13 20:42:00 +0000
 status: Published
+sponsors:
+  - :name: Cleo
 ---
 
 The February 2022 meeting of LRUG will be on *Monday the 21st of February*,
@@ -91,6 +93,27 @@ time.
 
 > Why do we learn? How do we learn? How do we learn well?
 > 3 mental models that will answer the first 3 of those questions and change how you think
+
+## iPad giveaway
+
+{::sponsor name="Cleo" size="main" /}
+
+The kind people at [Cleo](https://www.meetcleo.com), a fintech chatbot
+fighting for the world's financial health, have kindly offered to sponsor
+the meeting to the tune of a couple of iPads. Everyone that attends the
+meeting will be entered into a prize draw to win one of these iPads and
+the winning names will be drawn from a hat<sup>[*](#ig-hat)</sup>.
+
+Cleo are currently hiring so check out [their careers
+site](https://web.meetcleo.com/careers), or apply directly for their two
+open roles for [backend ruby
+engineers](https://boards.greenhouse.io/cleoai/jobs/5033034002) and
+[senior backend ruby
+engineers](https://boards.greenhouse.io/cleoai/jobs/4628944002).
+
+Thanks [Cleo](https://www.meetcleo.com)!
+
+<sup><a name="ig-hat">*</a></sup> <small>We may not use an actual hat.</small>
 
 ## Afterwards
 

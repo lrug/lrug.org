@@ -1,4 +1,4 @@
-.sponsors {
+aside.sponsors {
   float: right;
   width: 130px;
   border: 1px dotted #f00;
@@ -6,25 +6,24 @@
   margin-left: $space-4;
   margin-bottom: $space-2;
   font-size: 0.8em;
-}
-.sponsors h1 {
-  margin-top: 0px;
-  margin-bottom: $space-2;
-  font-size: 0.9rem;
-}
-.sponsors p {
-  margin-top: 0px;
-  margin-bottom: 0px;
-}
-.sponsors img {
-  border: none;
-  margin-bottom: 1em;
-  width: 100%;
-  height: auto;
-}
-
-@media print {
-  .sponsors a:after {
-    content: "" !important;
+  h1 {
+    margin-top: 0px;
+    margin-bottom: $space-2;
+    font-size: 0.9rem;
+  }
+  p {
+    margin-top: 0px;
+    margin-bottom: 0px;
+  }
+  img {
+    border: none;
+    margin-bottom: 1em;
+    width: 100%;
+    height: auto;
+  }
+  @media print {
+    a:after {
+      content: "" !important;
+    }
   }
 }
