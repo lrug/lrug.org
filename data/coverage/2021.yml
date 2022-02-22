@@ -136,7 +136,7 @@ december:
   when-activerecord-meets-cte:
     - type: video
       title: LRUG December 2021 - Johnson Zhan - When ActiveRecord meets CTE!?
-      url: https://assets.lrug.org/videos/2021/december/johnson-zhan-when-activerecord-meets-cta-lrug-dec-2021.mp4
+      url: https://assets.lrug.org/videos/2021/december/johnson-zhan-when-activerecord-meets-cte-lrug-dec-2021.mp4
   finding-hiring-and-onboarding-junior-ruby-developers:
     - type: video
       title: LRUG December 2021 - Alex Balhatchet - Finding, Hiring and onboarding junior Ruby developers
