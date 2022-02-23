@@ -133,6 +133,12 @@ december:
     - type: video
       title: LRUG December 2021 - Kevin Murphy - Enough coverage to beat the band
       url: https://assets.lrug.org/videos/2021/december/kevin-murphy-enough-coverage-to-beat-the-band-lrug-dec-2021.mp4
+    - type: link
+      url: https://kevinjmurphy.com/coverage
+      title: 'Presentation Resources'
+    - type: link
+      url: https://dev.to/kevin_j_m/rubys-got-you-covered-2c6k
+      title: "Blog post: Ruby's Got You Covered"
   when-activerecord-meets-cte:
     - type: video
       title: LRUG December 2021 - Johnson Zhan - When ActiveRecord meets CTE!?
