@@ -43,6 +43,14 @@ have registered, because we have limited places, so please do it.**
 > [tricks](https://github.com/CGA1123/slugcmplr) to help you do just that
 > by detaching building and releasing your application to production!
 
+### The Browser Environment - A Systems Programmer's Perspective
+
+[Eleanor McHugh](http://slideshare.net/feyeleanor) says:
+
+> A quirky introduction to writing realtime web systems with Sinatra as
+> the backend. The highlight will be WebSockets but there'll also be
+> coverage of DOM manipulation, AJAX/fetch, and timer events.
+
 ## Afterwards
 
 After the formal part of the meeting, if you want to keep on LRUGging a
