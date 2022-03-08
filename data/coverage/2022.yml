@@ -5,3 +5,34 @@ february:
   - type: slides
     url: https://docs.google.com/presentation/d/1-vodmNcE930xHAjb5kyCiI3eJyZFPuUL48njnoPNlvM
     title: The tale of the 60+ second page loads
+  - type: video
+    title: LRUG February 2022 - Jared Turner - The tale of the 60+ second page loads
+    url: https://assets.lrug.org/videos/2022/february/speaker-jared-turner-the-tale-of-the-60-plus-second-page-loads-lrug-feb-2022.mp4
+  javascript-in-rails-a-new-hope:
+  - type: video
+    title: LRUG February 2022 - Frederick Cheung - Javascript in Rails A New Hope
+    url: https://assets.lrug.org/videos/2022/february/speaker-frederick-cheung-javascript-in-rails-a-new-hope-lrug-feb-2022.mp4
+  getting-past-enemy-images:
+  - type: video
+    title: LRUG February 2022 - Pablo Dejuan - Getting past enemy images
+    url: https://assets.lrug.org/videos/2022/february/speaker-pablo-dejuan-getting-past-enemy-images-lrug-feb-2022.mp4
+  solargraph-dead-end:
+    - type: video
+      title: LRUG February 2022 - Fritz Meissner - solargraph-dead_end
+      url: https://assets.lrug.org/videos/2022/february/speaker-fritz-meissner-solargraph-dead-end-lrug-feb-2022.mp4
+  introducing-viewcomponent:
+    - type: video
+      title: LRUG February 2022 - Simon Fish - Introducing ViewComponent
+      url: https://assets.lrug.org/videos/2022/february/speaker-simon-fish-introducing-viewcomponent-lrug-feb-2022.mp4
+  a-little-pessimism-never-killed-nobody:
+    - type: video
+      title: LRUG February 2022 - Marija Mandić - A Little Pessimism Never Killed Nobody
+      url: https://assets.lrug.org/videos/2022/february/speaker-simon-fish-introducing-viewcomponent-lrug-feb-2022.mp4
+  metaprogramming-my-colleagues-wont-let-me-do-at-work:
+    - type: video
+      title: LRUG February 2022 - PJ - Metaprogramming I Do In My Side Projects That My Colleagues Won't Let Me Do In The Real App At Work :-(
+      url: https://assets.lrug.org/videos/2022/february/speaker-pj-metaprogramming-my-colleagues-wont-let-me-do-at-work-lrug-feb-2022.mp4
+  how-to-think-about-learning:
+    - type: video
+      title: LRUG February 2022 - Hywel Carver - How to think about Learning
+      url: https://assets.lrug.org/videos/2022/february/speaker-hywel-carver-how-to-think-about-learning-lrug-feb-2022.mp4
