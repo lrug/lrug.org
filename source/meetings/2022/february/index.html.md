@@ -34,6 +34,8 @@ time.
 > Find out how the new css-bundling and js-bundling gems can roll back the years
 > and make javascript in rails fast and simple again.
 
+{::coverage year="2022" month="february" talk="javascript-in-rails-a-new-hope" /}
+
 ### Getting past enemy images
 
 [Pablo Dejuan](https://pablo.pm):
@@ -45,12 +47,16 @@ time.
 > In this talk we will raise awareness and cover one way of overcoming the
 > initial enemy image to get a better outcome for us and our team.
 
+{::coverage year="2022" month="february" talk="getting-past-enemy-images" /}
+
 ### The tale of the 60+ second page loads
 
 [Jared Turner](https://www.linkedin.com/in/jaredlt/):
 
 > A monstrous mystery and a head-scratching hunt. Follow along to discover
 > why, just why, is that darn page so slow!?
+
+{::coverage year="2022" month="february" talk="the-tale-of-the-sixty-plus-second-page-loads" /}
 
 ### solargraph-dead_end
 
@@ -62,6 +68,8 @@ time.
 > for it so you can get this feedback in your editor. Come hear about
 > the results!
 
+{::coverage year="2022" month="february" talk="solargraph-dead-end" /}
+
 ### Introducing ViewComponent
 
 [Simon Fish](https://simon.fish)
@@ -69,13 +77,16 @@ time.
 > The view layer is the Wild West of Rails. Let's look at how ViewComponent
 > helps you break down and test your Rails views.
 
+{::coverage year="2022" month="february" talk="introducing-viewcomponent" /}
+
 ### A Little Pessimism Never Killed Nobody
 
 [Marija Mandić](https://www.linkedin.com/in/marija-mandic/)
 
 > Come join and hear my experience on a real life example of concurrency problem
 > and different approaches to fixing it.
->
+
+{::coverage year="2022" month="february" talk="a-little-pessimism-never-killed-nobody" /}
 
 ### Metaprogramming I Do In My Side Projects That My Colleagues Won't Let Me Do In The Real App At Work :-(
 
@@ -87,12 +98,16 @@ time.
 > do when you don't need to worry about other people understanding your code
 > 😀
 
+{::coverage year="2022" month="february" talk="metaprogramming-my-colleagues-wont-let-me-do-at-work" /}
+
 ### How to think about Learning
 
 [Hywel Carver](https://www.linkedin.com/in/hywelc/)
 
 > Why do we learn? How do we learn? How do we learn well?
 > 3 mental models that will answer the first 3 of those questions and change how you think
+
+{::coverage year="2022" month="february" talk="how-to-think-about-learning" /}
 
 ## iPad giveaway
 
