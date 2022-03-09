@@ -129,6 +129,9 @@ november:
   - type: video
     url: https://skillsmatter.com/skillscasts/6984-hack-like-a-journalist
     title: 'Skills Matter : Skills Cast : Hack like a journalist'
+  - type: slides
+    url: https://speakerdeck.com/scottmatthewman/hack-like-a-journalist
+    title: 'Slides for Hack like a journalist'
   leveraging-immutability-in-ruby:
   - type: video
     url: https://skillsmatter.com/skillscasts/7064-leveraging-immutability-in-ruby
