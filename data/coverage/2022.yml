@@ -36,3 +36,15 @@ february:
     - type: video
       title: LRUG February 2022 - Hywel Carver - How to think about Learning
       url: https://assets.lrug.org/videos/2022/february/speaker-hywel-carver-how-to-think-about-learning-lrug-feb-2022.mp4
+march:
+  the-browser-environemnt-a-system-programmer's-perspective:
+    - type: video
+      title: LRUG March 2022 - Eleanor McHugh - The Browser Environment A System Programmer's perspective
+      url: https://assets.lrug.org/videos/2022/march/eleanor-mchugh-the-browser-environment-a-system-programmer-perspective-lrug-mar-2022.mp4
+  running-full-builds-after-merging-ship-faster-with-git-tree-based-caching:
+    - type: video
+      title: "LRUG March 2022 - Christian Gregg - Running full builds after merging? 🥱: Ship faster with git tree based caching"
+      url: https://assets.lrug.org/videos/2022/march/christian-gregg-running-full-builds-after-merging-ship-faster-with-git-tree-based-caching-lrug-mar-2022.mp4
+    - type: write-up
+      title: 🚢 Ship faster with git-tree based caching
+      url: https://blog.bissy.io/posts/merge_to_deploy_in_a_minute/
