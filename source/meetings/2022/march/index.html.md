@@ -43,6 +43,8 @@ have registered, because we have limited places, so please do it.**
 > [tricks](https://github.com/CGA1123/slugcmplr) to help you do just that
 > by detaching building and releasing your application to production!
 
+{::coverage year="2022" month="march" talk="running-full-builds-after-merging-ship-faster-with-git-tree-based-caching" /}
+
 ### The Browser Environment - A Systems Programmer's Perspective
 
 [Eleanor McHugh](http://slideshare.net/feyeleanor) says:
@@ -50,6 +52,8 @@ have registered, because we have limited places, so please do it.**
 > A quirky introduction to writing realtime web systems with Sinatra as
 > the backend. The highlight will be WebSockets but there'll also be
 > coverage of DOM manipulation, AJAX/fetch, and timer events.
+
+{::coverage year="2022" month="march" talk="the-browser-environemnt-a-system-programmer's-perspective" /}
 
 ## Afterwards
 
