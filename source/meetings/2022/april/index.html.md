@@ -25,11 +25,6 @@ have registered, because we have limited places, so please do it.**
 
 [Panos Matsinopoulos](https://getlavanda.com) says:
 
-
-> Fjust needs to be a couple of sentences really, not a
-> full abstract. We use markdown so feel free to format it or embed links for
-> the writeup.
-> 
 > In the Ruby world, we traditionally address the PDF generation problem
 > using gems like [Prawn](https://github.com/prawnpdf/prawn) and [PDFKit](https://github.com/pdfkit/pdfkit)
 > or libraries like [whtmltopdf](https://wkhtmltopdf.org/).
@@ -41,7 +36,7 @@ have registered, because we have limited places, so please do it.**
 > In this talk, we will be covering how we did it, what were the challenges
 > and what pros and cons over the incumbent tools for Ruby.
 
-{::coverage year="2022" month="april" talk="using-react-in-a-ruby-project-to-dynamically-generate-p-d-f-documents" /}
+{::coverage year="2022" month="april" talk="using-react-in-a-ruby-project-to-dynamically-generate-pdf-documents" /}
 
 ### A parse parse pitch: using JSON and custom parsers to create efficient flexible data structures.
 
@@ -50,7 +45,7 @@ have registered, because we have limited places, so please do it.**
 > JSON and custom parsers let you do neat things like: 
 > complex pricing, map data to 3D models, auto generate images… 
 
-{::coverage year="2022" month="march" talk="a-parse-parse-pitch-using-j-s-o-n-and-custom-parsers-to-create-efficient-flexible-data-structures" /}
+{::coverage year="2022" month="march" talk="a-parse-parse-pitch-using-json-and-custom-parsers-to-create-efficient-flexible-data-structures" /}
 
 ## Afterwards
 
