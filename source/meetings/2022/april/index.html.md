@@ -40,7 +40,7 @@ have registered, because we have limited places, so please do it.**
 
 ### A parse parse pitch: using JSON and custom parsers to create efficient flexible data structures.
 
-[Eleanor McHugh](http://slideshare.net/feyeleanor) says:
+[Winston Ferguson](https://www.linkedin.com/in/winstonferguson) says:
 
 > JSON and custom parsers let you do neat things like: 
 > complex pricing, map data to 3D models, auto generate images… 
