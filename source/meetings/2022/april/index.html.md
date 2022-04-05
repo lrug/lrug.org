@@ -74,4 +74,4 @@ and check your spam just in case.
 Do prepare yourself in advance by [downloading the zoom
 client](https://zoom.us/support/download).
 
-[apr2022-eventbrite]: https://www.eventbrite.com/e/lrug-march-2022-tickets-292085996077
+[apr2022-eventbrite]: https://www.eventbrite.com/e/lrug-april-2022-tickets-313838388067
