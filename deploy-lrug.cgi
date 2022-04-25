@@ -35,13 +35,21 @@ else
     # Extract the archive to the new release directory
     `tar xjvf #{TMP_FILE} -C #{NEW_RELEASE}`
 
-    # Update the symlink
-    `ln -fsn #{NEW_RELEASE} #{CURRENT_SYMLINK}`
+    if $? == 0
+      # Update the symlink
+      `ln -fsn #{NEW_RELEASE} #{CURRENT_SYMLINK}`
 
-    # Remove the oldest release
-    FileUtils.rm_rf(OLDEST_RELEASE)
-    
-    response = "OK"
+      # Remove the oldest release
+      FileUtils.rm_rf(OLDEST_RELEASE)
+
+      response = "OK"
+    else
+      response = "Not deploying; tar exited with value #{$?}"
+      puts "HTTP-Version: HTTP/1.0 500 Failed"
+      puts
+      puts response
+      exit(0)
+    end
   else
     response = "Not deploying; passed = #{passed.inspect}, branch = #{params['branch'].inspect}"
   end
