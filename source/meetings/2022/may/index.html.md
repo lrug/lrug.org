@@ -36,7 +36,7 @@ have registered, because we have limited places, so please do it.**
 
 ### [GOV.UK][]’s response to COVID-19
 
-[Leena Gupta](https://twitter.com/LeenaG) and [Rosa Fox](https://twitter.com/rosaemerald) say:
+[Leena Gupte](https://twitter.com/LeenaG) and [Rosa Fox](https://twitter.com/rosaemerald) say:
 
 > Leena and Rosa have been Senior Developers/Tech Leads on the [GOV.UK][]
 > Coronavirus team. The team’s work began in March 2020 when a service
