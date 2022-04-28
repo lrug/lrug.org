@@ -23,7 +23,7 @@ GEM
     fast_blank (1.0.0)
     fastimage (2.2.0)
     ffi (1.13.1)
-    git (1.7.0)
+    git (1.11.0)
       rchardet (~> 1.8)
     haml (5.2.0)
       temple (>= 0.8.0)
