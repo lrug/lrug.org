@@ -48,3 +48,8 @@ march:
     - type: write-up
       title: 🚢 Ship faster with git-tree based caching
       url: https://blog.bissy.io/posts/merge_to_deploy_in_a_minute/
+may:
+  mining-a-gem:
+    - type: video
+      title: "LRUG May 2022 - Duncan Brown - Mining a gem: how to safely discover, extract and share useful code from your Rails app"
+      url: https://assets.lrug.org/videos/2022/may/duncan-brown-mining-a-gem-how-to-safely-discover-extract-and-share-useful-code-from-your-rails-app-lrug-may-2022.mp4
