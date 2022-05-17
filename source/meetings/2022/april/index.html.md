@@ -45,7 +45,7 @@ have registered, because we have limited places, so please do it.**
 > JSON and custom parsers let you do neat things like: 
 > complex pricing, map data to 3D models, auto generate images… 
 
-{::coverage year="2022" month="march" talk="a-parse-parse-pitch-using-json-and-custom-parsers-to-create-efficient-flexible-data-structures" /}
+{::coverage year="2022" month="april" talk="a-parse-parse-pitch-using-json-and-custom-parsers-to-create-efficient-flexible-data-structures" /}
 
 ## Afterwards
 
