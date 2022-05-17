@@ -44,7 +44,7 @@ have registered, because we have limited places, so please do it.**
 
 When the talks come to an end we can't quite replicate the convivial atmosphere of hanging out in a local pub with your fellow attendees, but we do leave the zoom call running to let those interested chat for a while.  If you have some ideas about an alternative approach, then let us know at [organisers@lrug.org](mailto:organisers@lrug.org).
 
-## Registration {#may22registration}
+## Registration {#june22registration}
 
 Prior to attending you should familiarise yourself with our
 [README](http://readme.lrug.org/) paying close attention to [the code of
