@@ -48,7 +48,7 @@ march:
     - type: write-up
       title: 🚢 Ship faster with git-tree based caching
       url: https://blog.bissy.io/posts/merge_to_deploy_in_a_minute/
-may:
+april:
   using-react-in-a-ruby-project-to-dynamically-generate-pdf-documents:
     - type: video
       title: "LRUG April 2022 - Panos Matsinopoulos - Using React in a Ruby Project to Dynamically Generate PDF Documents 1"
