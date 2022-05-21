@@ -40,6 +40,17 @@ have registered, because we have limited places, so please do it.**
 
 {::coverage year="2022" month="june" talk="rebasing-like-a-pro" /}
 
+### The messy middle – 5 Software Engineering lessons from a 5 years startup journey
+
+[Alfredo Motta](https://twitter.com/mottalrd) says:
+
+> These are some of the lessons that I have learned over my 5 years at a
+> Fintech startup that went from 0 to 100k customers and grew the team from 4
+> to 50 people. I will present some of the software architecture tradeoffs I
+> have been presented with and I am still puzzled about today.
+
+{::coverage year="2022" month="june" talk="the-messy-middle" /}
+
 ## Afterwards
 
 When the talks come to an end we can't quite replicate the convivial atmosphere of hanging out in a local pub with your fellow attendees, but we do leave the zoom call running to let those interested chat for a while.  If you have some ideas about an alternative approach, then let us know at [organisers@lrug.org](mailto:organisers@lrug.org).
