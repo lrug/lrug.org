@@ -63,5 +63,11 @@ may:
       title: "LRUG May 2022 - Duncan Brown - Mining a gem: how to safely discover, extract and share useful code from your Rails app"
       url: https://assets.lrug.org/videos/2022/may/duncan-brown-mining-a-gem-how-to-safely-discover-extract-and-share-useful-code-from-your-rails-app-lrug-may-2022.mp4
 june:
-  rebasing-like-a-pro: []
-  the-messy-middle: []
+  rebasing-like-a-pro:
+    - type: video
+      title: "LRUG June 2022 - Daniel Magliola - Get your PRs merged, rebasing like a Pro"
+      url: https://assets.lrug.org/videos/2022/june/daniel-magliola-get-your-prs-merged-rebasing-like-a-pro-lrug-jun-2022.mp4
+  the-messy-middle:
+    - type: video
+      title: "LRUG June 2022 - Alfredo Motta - The Messy Middle - 5 software engineering lessons from a 5 year startup journey"
+      url: https://assets.lrug.org/videos/2022/june/alfredo-motta-the-messy-middle-5-software-engineering-lessons-from-a-5-years-startup-journey-lrug-jun-2022
