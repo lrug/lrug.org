@@ -7,8 +7,8 @@ created_by:
   name: Paolo Fabbri
 category: meeting
 title: August 2022 Meeting
-published_at: 2022-07-04 13:00:00 +0000
-created_at: 2022-07-04 13:00:00 +0000
+published_at: 2022-08-02 13:00:00 +0000
+created_at: 2022-08-02 13:00:00 +0000
 status: Published
 ---
 
@@ -21,15 +21,14 @@ have registered, because we have limited places, so please do it.**
 
 ## Agenda
 
-### Building a Mortgage Lender at Generation Home
+### rbperf: Understanding Ruby with BPF
 
-[André Barbosa](https://www.linkedin.com/in/andrebarbosaie/) says:
+[Javier Honduvilla Coto](https://www.linkedin.com/in/andrebarbosaie) says:
 
-> It’s not often that you hear about a startup doings things differently in the mortgages world. And there’s some good reasons for it, the cost of entry is super high!
->
-> It’s not just funding and regulations either. You also need to back it up with the right technology and tools to manage a highly complex business where mistakes can be very costly. On top of that, startups need to move fast to out-innovate the incumbents with only a fraction of the resources.
->
-> At Generation Home Ruby has been a catalyst to help us deliver a product we’re proud of in a short time-scale. We’ll talk about some of the challenges we faced early on, how Ruby, Rails and the whole ecosystem helped us deliver and what still lays ahead of us.
+> Was thinking to talk about some CRuby internal details, how the stack is laid out under the hood, and what is needed to be able to implement
+> something like rbperf, as well as its architecture and the features that make it unique (very low-overhead, 'true' on-CPU profiling, system call
+> tracing, no need to restart the Ruby process, etc) as well as it's limitations compared to other profilers (Linux-only, some BPF limitations
+> that we can discuss, and others).
 
 ## Afterwards
 
@@ -53,4 +52,4 @@ and check your spam just in case.
 Do prepare yourself in advance by [downloading the zoom
 client](https://zoom.us/support/download).
 
-[july2022-eventbrite]:https://www.eventbrite.com/e/lrug-july-2022-tickets-379334027287
+[august2022-eventbrite]:https://www.eventbrite.com/e/lrug-august-2022-tickets-394751441187
