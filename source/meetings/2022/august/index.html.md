@@ -21,14 +21,17 @@ have registered, because we have limited places, so please do it.**
 
 ## Agenda
 
-### rbperf: Understanding Ruby with BPF
+### Low overhead Ruby profiling and tracing with rbperf
 
-[Javier Honduvilla Coto](https://www.linkedin.com/in/andrebarbosaie) says:
+[Javier Honduvilla Coto](https://www.linkedin.com/in/javierhonduco/) says:
 
-> Was thinking to talk about some CRuby internal details, how the stack is laid out under the hood, and what is needed to be able to implement
-> something like rbperf, as well as its architecture and the features that make it unique (very low-overhead, 'true' on-CPU profiling, system call
-> tracing, no need to restart the Ruby process, etc) as well as it's limitations compared to other profilers (Linux-only, some BPF limitations
-> that we can discuss, and others).
+
+> Understanding our applications' performance can be tricky. Some of the readily available performance tools introduce a big overhead which makes them not suitable for use in production environments, where in many cases, it's the best place to troubleshoot performance issues.
+> 
+> [rbperf](https://github.com/javierhonduco/rbperf/) is a low-overhead on-CPU profiler and tracer that is suitable for usage in production environments. It doesn't require the application under investigation to be restarted or disturbed in any way.
+> 
+> We will discuss some of the tradeoffs in its design, its architecture, the features that make it unique, as well as its limitations compared to other tools. We will also take a look at how the Ruby stack is laid out in memory and the role BPF plays in rbperf.
+
 
 ## Afterwards
 
