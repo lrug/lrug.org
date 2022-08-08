@@ -47,7 +47,7 @@ attendees, even though we are all in our own little bubbles.
 ### Secure your place
 
 Even in a virtual world there are limited places for attending the
-meeting so **[you need to register via eventbrite][july2022-eventbrite]**.
+meeting so **[you need to register via eventbrite][august2022-eventbrite]**.
 The link to the zoom meeting will only be sent to registered attendees on
 the day of the meeting, around about 6pm. Keep an eye out for the email
 and check your spam just in case.
