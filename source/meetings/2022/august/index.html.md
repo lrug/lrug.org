@@ -31,6 +31,8 @@ have registered, because we have limited places, so please do it.**
 > [rbperf](https://github.com/javierhonduco/rbperf/) is a low-overhead on-CPU profiler and tracer that is suitable for usage in production environments. It doesn't require the application under investigation to be restarted or disturbed in any way.
 > 
 > We will discuss some of the tradeoffs in its design, its architecture, the features that make it unique, as well as its limitations compared to other tools. We will also take a look at how the Ruby stack is laid out in memory and the role BPF plays in rbperf.
+> 
+{::coverage year="2022" month="august" talk="low-overhead-ruby-profiling-and-tracing-with-rbperf" /}
 
 
 ## Afterwards

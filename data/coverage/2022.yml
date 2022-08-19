@@ -71,3 +71,8 @@ june:
     - type: video
       title: "LRUG June 2022 - Alfredo Motta - The Messy Middle - 5 software engineering lessons from a 5 year startup journey"
       url: https://assets.lrug.org/videos/2022/june/alfredo-motta-the-messy-middle-5-software-engineering-lessons-from-a-5-years-startup-journey-lrug-jun-2022.mp4
+august:
+  low-overhead-ruby-profiling-and-tracing-with-rbperf:
+    - type: video
+      title: "LRUG August 2022 - Javier Honduvilla Coto - Low overhead Ruby profiling and tracing with rbperf"
+      url: https://assets.lrug.org/videos/2022/august/javier-honduvilla-coto-low-overhead-ruby-profiling-and-tracing-with-rbperf-lrug-aug-2022.mp4
