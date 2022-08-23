@@ -23,7 +23,7 @@ September*, from _6:00pm_ to _8:00pm_ (meeting starts at _6:30pm_).
 For the first time since March 2020 we're having an in person event. The
 lovely folk at [Funding Circle](https://fundingcircle.com) are hosting us
 in [their offices][fc-venue], on Queen Victoria St. [Full venue and
-registration details are given below](#mar20registration).
+registration details are given below](#sep20registration).
 
 
 ## Agenda
@@ -56,7 +56,7 @@ registration details are given below](#mar20registration).
 
 When the talks come to an end we'll decamp to a local pub for some food, some drinks and some chat with your fellow attendees.  We'll post details of the pub shortly, once Funding Circle tell us which is the best one to go to!
 
-## Venue & Registration {#september22registration}
+## Venue & Registration {#sep22registration}
 
 Prior to attending you should familiarise yourself with our
 [README](http://readme.lrug.org/) paying close attention to [the code of
