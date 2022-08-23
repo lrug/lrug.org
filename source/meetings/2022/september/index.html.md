@@ -23,7 +23,7 @@ September*, from _6:00pm_ to _8:00pm_ (meeting starts at _6:30pm_).
 For the first time since March 2020 we're having an in person event. The
 lovely folk at [Funding Circle](https://fundingcircle.com) are hosting us
 in [their offices][fc-venue], on Queen Victoria St. [Full venue and
-registration details are given below](#sep20registration).
+registration details are given below](#sep22registration).
 
 
 ## Agenda
