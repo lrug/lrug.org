@@ -38,7 +38,7 @@ registration details are given below](#sep22registration).
 >
 > Let's look at what they do and reproduce some of their methods in Ruby!
 
-{::coverage year="2022" month="august" talk="how-music-works-using-ruby" /}
+{::coverage year="2022" month="september" talk="how-music-works-using-ruby" /}
 
 ### Building a Mortgage Lender at Generation Home
 
@@ -50,7 +50,18 @@ registration details are given below](#sep22registration).
 >
 > At Generation Home Ruby has been a catalyst to help us deliver a product we’re proud of in a short time-scale. We’ll talk about some of the challenges we faced early on, how Ruby, Rails and the whole ecosystem helped us deliver and what still lays ahead of us.
 
-{::coverage year="2022" month="august" talk="building-a-mortgage-lender-at-generation-home" /}
+{::coverage year="2022" month="september" talk="building-a-mortgage-lender-at-generation-home" /}
+
+### Fixing flaky tests, using RSpec's `--seed` option
+
+[Shen Sat](https://www.linkedin.com/in/shen-sat) says:
+
+> Fixing a flaky test in the build pipeline of your application often
+> requires first replicating the failing test locally. I'm going to show you
+> how I used RSpec's `--seed` to help me do this for a flaky test I was
+> recently grappling with, and how it led led me to a fix ✨
+
+{::coverage year="2022" month="september" talk="fixing-flaky-tests-using-rspecs-seed-option" /}
 
 ## Afterwards
 
