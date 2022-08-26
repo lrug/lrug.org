@@ -52,6 +52,17 @@ registration details are given below](#sep22registration).
 
 {::coverage year="2022" month="august" talk="building-a-mortgage-lender-at-generation-home" /}
 
+### Fixing flaky tests, using RSpec's `--seed` option
+
+[Shen Sat](https://www.linkedin.com/in/shen-sat) says:
+
+> Fixing a flaky test in the build pipeline of your application often
+> requires first replicating the failing test locally. I'm going to show you
+> how I used RSpec's `--seed` to help me do this for a flaky test I was
+> recently grappling with, and how it led led me to a fix ✨
+
+{::coverage year="2022" month="september" talk="fixing-flaky-tests-using-rspecs-seed-option" /}
+
 ## Afterwards
 
 When the talks come to an end we'll decamp to a local pub for some food, some drinks and some chat with your fellow attendees.  We'll post details of the pub shortly, once Funding Circle tell us which is the best one to go to!
