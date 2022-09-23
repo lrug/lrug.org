@@ -76,3 +76,16 @@ august:
     - type: video
       title: "LRUG August 2022 - Javier Honduvilla Coto - Low overhead Ruby profiling and tracing with rbperf"
       url: https://assets.lrug.org/videos/2022/august/javier-honduvilla-coto-low-overhead-ruby-profiling-and-tracing-with-rbperf-lrug-aug-2022.mp4
+september:
+  how-music-works-using-ruby:
+    - type: video
+      title: "LRUG September 2022 - Thijs Cadier - How Music Works, Using Ruby"
+      url: https://assets.lrug.org/videos/2022/september/thijs-cadier-how-music-works-using-ruby-lrug-sep-2022.mp4
+  building-a-mortgage-lender-at-generation-home:
+    - type: video
+      title: "LRUG September 2022 - André Barbosa - Building a Mortgage Lender at Generation Home"
+      url: https://assets.lrug.org/videos/2022/september/andre-barbosa-buildin-a-mortgage-lender-at-generation-home-lrug-sep-2022.mp4
+  fixing-flaky-tests-using-rspecs-seed-option:
+    - type: video
+      title: "LRUG September 2022 - Shen Sat - Fixing Flaky Tests Using RSpec's --seed Option"
+      url: https://assets.lrug.org/videos/2022/september/shen-sat-fixing-flaky-tests-using-rspecs-seed-option-lrug-sep-2022.mp4
