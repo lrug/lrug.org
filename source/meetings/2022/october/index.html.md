@@ -29,14 +29,7 @@ details are given below](#oct22registration).
 
 ## Agenda
 
-### How to be completely ignorant
-
-[Paul Battley](https://po-ru.com) says:
-
-> How much does a bit of code need to know to do its job? I'll show how I
-> transformed a bit of complicated, untested, flaky, and poorly understood code
-> into something pleasant to deal with and easy to test by applying the
-> principle of making it know as little as possible.
+We're still working out the details - [get in touch](mailto:talks@lrug.org) if you'd like a spot to share your thoughts with the group.
 
 ## Afterwards
 
