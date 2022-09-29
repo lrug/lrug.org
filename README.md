@@ -59,6 +59,6 @@ deploys the website as follows:
 [markdown]: https://kramdown.gettalong.org/quickref.html
 [kramdown]: https://kramdown.gettalong.org/
 [bundler]: https://bundler.io/
-[travis]: https://travis-ci.org/
-[travis-lrug]: https://travis-ci.org/lrug/lrug.org/
+[travis]: https://app.travis-ci.com/
+[travis-lrug]: https://app.travis-ci.com/github/lrug/lrug.org/
 [travis-release]: https://github.com/lrug/lrug.org/releases/tag/travis-release
