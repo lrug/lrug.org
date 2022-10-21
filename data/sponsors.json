@@ -814,5 +814,21 @@
         "height":"100"
       }
     }
+  },
+  {
+    "name":"Zappi",
+    "url":"https://zappi.co/",
+    "logo": {
+      "sidebar": {
+        "url":"https://assets.lrug.org/images/zappi_logo_small.png",
+        "width":"120",
+        "height":"44"
+      },
+      "main": {
+        "url":"https://assets.lrug.org/images/zappi_logo_medium.png",
+        "width":"260",
+        "height":"95"
+      }
+    }
   }
 ]
