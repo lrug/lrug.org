@@ -20,13 +20,9 @@ November*, from _6:00pm_ to _8:00pm_ (meeting starts at _6:30pm_).
 
 **👪 in person meeting alert 👪**
 
-We are keeping up our streak of in person events. The lovely folks at are
-hosting us in their offices
-For the first time since March 2020 we're having an in person event. The
-lovely folk at [Zappi](https://www.zappi.io/web/) are hosting us
+In-person seems to be working out, so we're doing it again.  This time the lovely folks at [Zappi](https://www.zappi.io/web/) are hosting us
 in [their offices][zappi-venue], on  Camden High St. [Full venue and
 registration details are given below](#nov22registration).
-
 
 ## Agenda
 
