@@ -38,7 +38,9 @@ details are given below](#oct22registration).
 > into something pleasant to deal with and easy to test by applying the
 > principle of making it know as little as possible.
 
-### The long road to ruby 3 followed by the short road to ruby 3.1
+{::coverage year="2022" month="october" talk="how-to-be-completely-ignorant" /}
+
+### The long road to ruby 3 vs. the short road to ruby 3.1
 
 [Murray Steele](https://twitter.com/hlame) says:
 
@@ -47,6 +49,8 @@ details are given below](#oct22registration).
 > app so smoothly that we became drunk on our own competence and totally
 > messed up our upgrade to ruby 3.1 the following week.  A rare talk
 > where you will learn some best _and_ worst practices.
+
+{::coverage year="2022" month="october" talk="the-long-road-to-ruby-3-0-vs-the-short-road-to-ruby-3-1" /}
 
 ## Afterwards
 

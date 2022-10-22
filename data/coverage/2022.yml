@@ -89,3 +89,12 @@ september:
     - type: video
       title: "LRUG September 2022 - Shen Sat - Fixing Flaky Tests Using RSpec's --seed Option"
       url: https://assets.lrug.org/videos/2022/september/shen-sat-fixing-flaky-tests-using-rspecs-seed-option-lrug-sep-2022.mp4
+october:
+  how-to-be-completely-ignorant:
+    - type: video
+      title: "LRUG October 2022 - Paul Battley - Hwo to be completely ignorant"
+      url: https://assets.lrug.org/videos/2022/october/paul-battley-how-to-be-completely-ignorant-lrug-oct-2022.mp4
+  the-long-road-to-ruby-3-0-vs-the-short-road-to-ruby-3-1:
+    - type: video
+      title: "LRUG October 2022 - Murray Steele - The long road to ruby 3.0 vs. the short road to ruby 3.1"
+      url: https://assets.lrug.org/videos/2022/october/murray-steele-the-long-road-to-ruby-3-0-vs-the-short-road-to-ruby-3-1-lrug-oct-2022.mp4
