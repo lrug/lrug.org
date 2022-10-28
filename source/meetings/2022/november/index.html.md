@@ -55,6 +55,21 @@ registration details are given below](#nov22registration).
 >
 > And finally, I will show you how to level up our productivity even further by automating debugging steps using `ruby/debug`'s scriptable breakpoints.
 
+### Keeping developers happy with a fast CI
+
+[Christian Bruckmayer](https://twitter.com/bruckmayer) says:
+
+> When talking about performance, most developers think application speed,
+> faster algorithms or better data structures. But what about your test
+> suite? CI time is developer waiting time!
+>
+> At Shopify we have more than 170,000 Ruby tests and we add 30,000 more
+> annually. The sheer amount of tests and their growth requires some
+> aggressive methods. We will illustrate some of our techniques including
+> monitoring, test selection, timeouts and the 80/20 rule. If you have
+> experience in writing tests and want to learn tricks on how to speed up
+> your test suite, this talk is for you!
+
 ## Afterwards
 
 When the talks come to an end we'll decamp to a local pub for some food, some
