@@ -98,3 +98,6 @@ october:
     - type: video
       title: "LRUG October 2022 - Murray Steele - The long road to ruby 3.0 vs. the short road to ruby 3.1"
       url: https://assets.lrug.org/videos/2022/october/murray-steele-the-long-road-to-ruby-3-0-vs-the-short-road-to-ruby-3-1-lrug-oct-2022.mp4
+    - type: transcript
+      url: http://h-lame.com/talks/the-long-road-to-ruby-3-0-vs-the-short-road-to-ruby-3-1/
+      title: Talks ∋ The long road to ruby 3.0 vs. the short road to ruby 3.1
