@@ -33,13 +33,13 @@ contributing guidelines](CONTRIBUTING.md).
 
 ## Deploying
 
-Commits to master are automatically deployed to [the live site][lrug].
+Commits to `main` are automatically deployed to [the live site][lrug].
 
 We use [travis ci][travis] to build and deploy the site.  Our [travis
 project][travis-lrug] is controlled by our [travis config](.travis.yml).
 
 On branches the deploy script simply runs `bundle exec middleman build` and
-reports success or failure with that process.  On the master branch it also
+reports success or failure with that process.  On the `main` branch it also
 deploys the website as follows:
 
 1. travis runs `bundle exec middleman build`
