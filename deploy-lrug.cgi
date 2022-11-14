@@ -15,7 +15,7 @@ if params.nil?
   response = "Failed to parse payload:\n\n#{cgi.params.inspect}"
 else
   passed = params['state'] == 'passed' 
-  on_default_branch = params['branch'] == 'master'
+  on_default_branch = params['branch'] == 'main'
 
   if passed && on_default_branch
     TAR_URL = "https://github.com/lrug/lrug.org/releases/download/travis-release/lrug.org.tar.bz2"
