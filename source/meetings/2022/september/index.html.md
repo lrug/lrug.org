@@ -72,7 +72,7 @@ When the talks come to an end we'll decamp to a local pub for some food, some dr
 Prior to attending you should familiarise yourself with our
 [README](http://readme.lrug.org/) paying close attention to [the code of
 conduct](http://readme.lrug.org/#code-of-conduct) which applies to all
-attendees, even though we are all in our own little bubbles.
+attendees.
 
 ### Secure your place
 

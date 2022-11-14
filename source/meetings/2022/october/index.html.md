@@ -61,7 +61,7 @@ After the talks we'll avoid outstaying our welcome with our hosts and move on to
 Prior to attending you should familiarise yourself with our
 [README](http://readme.lrug.org/) paying close attention to [the code of
 conduct](http://readme.lrug.org/#code-of-conduct) which applies to all
-attendees, even though we are all in our own little bubbles.
+attendees.
 
 ### Secure your place
 
