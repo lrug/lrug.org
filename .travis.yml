@@ -17,7 +17,7 @@ deploy:
   skip_cleanup: true
   on:
     repo: lrug/lrug.org
-    branch: master
+    branch: main
 notifications:
   webhooks:
   - http://webhook.lrug.org/deploy-lrug.cgi
