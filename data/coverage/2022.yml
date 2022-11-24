@@ -101,3 +101,22 @@ october:
     - type: transcript
       url: http://h-lame.com/talks/the-long-road-to-ruby-3-0-vs-the-short-road-to-ruby-3-1/
       title: Talks ∋ The long road to ruby 3.0 vs. the short road to ruby 3.1
+november:
+  data-indexing-with-rgb:
+    - type: video
+      title: "LRUG November 2022 - Benji Lewis - Data indexing with RGB (Ruby, Graphs and Bitmaps)"
+      url: https://assets.lrug.org/videos/2022/november/benji-lewis-data-indexing-with-rgb-ruby-graphs-and-bitmaps-lrug-nov-2022.mp4
+  ruby-debug-the-best-investment-for-your-productivity:
+    - type: video
+      title: "LRUG November 2022 - Stan Lo - ruby/debug - The best investment for your productivity"
+      url: https://assets.lrug.org/videos/2022/november/stan-lo-ruby-debug-the-best-investment-for-your-productivity-lrug-nov-2022.mp4
+    - type: slides
+      title: "ruby/debug - The best investment for your productivity"
+      url: https://github.com/st0012/slides/blob/main/2022-11-14-lrug/Ruby%20debugger%20-%20The%20best%20investment%20for%20your%20productivity%20-%20LRUG.pdf
+  keeping-developers-happy-with-a-fast-ci:
+    - type: video
+      title: "LRUG November 2022 - Christian Bruckmayer - Keeping developers happy with a fast CI"
+      url: https://assets.lrug.org/videos/2022/november/christian-bruckmayer-keeping-developers-happy-with-a-fast-ci-lrug-nov-2022.mp4
+    - type: slides
+      title: "Slides from the Rubyconf 2021 version of 'Keeping developers happy with a fast CI'"
+      url: https://bruckmayer.net/ruby-conf-2021

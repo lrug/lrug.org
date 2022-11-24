@@ -41,6 +41,8 @@ registration details are given below](#nov22registration).
 > layer was used to index a bitmap store and, in turn, led to us being able
 > to interrogate our entire dataset orders of magnitude faster than before.
 
+{::coverage year="2022" month="november" talk="data-indexing-with-rgb" /}
+
 ### `ruby/debug` - The best investment for your productivity
 
 [Stan Lo](https://twitter.com/_st0012) says:
@@ -54,6 +56,8 @@ registration details are given below](#nov22registration).
 > By using them together, we can reduce unnecessary context switching and make our debugging sessions more efficient. You will also learn more about `ruby/debug` while we walk through these techniques with its commands and console.
 >
 > And finally, I will show you how to level up our productivity even further by automating debugging steps using `ruby/debug`'s scriptable breakpoints.
+
+{::coverage year="2022" month="november" talk="ruby-debug-the-best-investment-for-your-productivity" /}
 
 ### Keeping developers happy with a fast CI
 
@@ -69,6 +73,8 @@ registration details are given below](#nov22registration).
 > monitoring, test selection, timeouts and the 80/20 rule. If you have
 > experience in writing tests and want to learn tricks on how to speed up
 > your test suite, this talk is for you!
+
+{::coverage year="2022" month="november" talk="keeping-developers-happy-with-a-fast-ci" /}
 
 ## Afterwards
 
