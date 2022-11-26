@@ -51,7 +51,7 @@ registration details are given below](#dec22registration).
 
 ###  What does "high priority" mean? The secret to happy queues
 
-[Daniel Magliola]()
+[Daniel Magliola](https://mobile.twitter.com/dmagliola)
 
 > Like most web applications, you run important jobs in the background. And
 > today, some of your urgent jobs are running late. Again. No matter how many
