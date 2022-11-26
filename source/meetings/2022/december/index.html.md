@@ -25,7 +25,7 @@ registration details are given below](#dec22registration).
 
 ## Agenda
 
-### Mutation testing - study case"
+### Mutation testing - study case
 
 [Adam Piotrowski](https://twitter.com/pan_sarin) (also [here](https://www.linkedin.com/in/adamsarin)) says:
 
@@ -49,6 +49,19 @@ registration details are given below](#dec22registration).
 > taking a few bad turns until we finally emerge with a few PR's that
 > not only Fix GC, but make our project better too.
 
+###  What does "high priority" mean? The secret to happy queues
+
+[Daniel Magliola]()
+
+> Like most web applications, you run important jobs in the background. And
+> today, some of your urgent jobs are running late. Again. No matter how many
+> changes you make to how you enqueue and run your jobs, the problem keeps
+> happening. The good news is you're not alone. Most teams struggle with this
+> problem, try more or less the same solutions, and have roughly the same
+> result. In the end, it all boils down to one thing: keeping latency low. In
+> this talk I will present a latency-focused approach to managing your queues
+> reliably, keeping your jobs flowing and your users happy. 
+
 ## Afterwards
 
 When the talks come to an end we'll decamp to a local pub for some food, some
@@ -71,7 +84,7 @@ The address of the venue:
 
 > Euston House, 24 Eversholt Street<br/>London, NW1 1AD<br/>England, United Kingdom[See on a map][zinc-venue]
 
-The venue has a hard limit of 70 people.  If you register and realise you
+The venue has a hard limit of 100 people.  If you register and realise you
 can't come, please use eventbrite to give up your place so we can someone
 else come in your place.  We might be able to let in people on the night
 who haven't registered, but we can't guarantee it.
