@@ -67,6 +67,10 @@ registration details are given below](#dec22registration).
 When the talks come to an end we'll decamp to a local pub for some food, some
 drinks and some chat with your fellow attendees.
 
+Of course, even though this is the socialising part and seems more
+informal, please remember that still we consider it to be a part of the
+meeting and covered by our [code of conduct](http://readme.lrug.org/#code-of-conduct).
+
 ## Venue & Registration {#dec22registration}
 
 Prior to attending you should familiarise yourself with our
