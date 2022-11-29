@@ -25,14 +25,6 @@ registration details are given below](#dec22registration).
 
 ## Agenda
 
-### Mutation testing - study case
-
-[Adam Piotrowski](https://twitter.com/pan_sarin) (also [here](https://www.linkedin.com/in/adamsarin)) says:
-
-> Let's talk about why and how we measure our test coverage. If you are
-> using line test coverage measurement and you are happy with it, please let
-> me show you some differences and examples of line TC vs mutation TC.
-
 ### Heaping on the Complexity
 
 [Matt Valentine-House](https://ruby.social/@eightbitraptor) says:
