@@ -830,5 +830,21 @@
         "height":"95"
       }
     }
+  },
+  {
+    "name":"Zinc",
+    "url":"https://www.zinc.vc",
+    "logo":{
+      "sidebar":{
+        "url":"https://assets.lrug.org/images/zinc-logo-small.png",
+        "width":"120",
+        "height":"46"
+      },
+      "main":{
+        "url":"https://assets.lrug.org/images/zinc-logo-small.png",
+        "width":"260",
+        "height":"99"
+      }
+    }
   }
 ]
