@@ -14,7 +14,7 @@ response = nil
 if params.nil?
   response = "Failed to parse payload:\n\n#{cgi.params.inspect}"
 else
-  passed = params['state'] == 'passed'
+  passed = params['state'] == 'success'
   on_default_branch = params['branch'] == 'main'
 
   if passed && on_default_branch
