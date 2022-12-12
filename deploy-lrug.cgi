@@ -3,18 +3,18 @@
 # This script should be installed at web webhook URL specified
 # in .travis.yml
 
-require "cgi" 
-require "json" 
+require "cgi"
+require "json"
 require 'fileutils'
- 
-cgi = CGI.new 
+
+cgi = CGI.new
 params = JSON.parse(cgi.params['payload'].first) rescue nil
 response = nil
 
 if params.nil?
   response = "Failed to parse payload:\n\n#{cgi.params.inspect}"
 else
-  passed = params['state'] == 'passed' 
+  passed = params['state'] == 'passed'
   on_default_branch = params['branch'] == 'main'
 
   if passed && on_default_branch

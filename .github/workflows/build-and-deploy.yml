@@ -1,0 +1,80 @@
+name: Build and Deploy
+
+on: [push]
+
+jobs:
+  build-and-deploy:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v3
+
+      - name: Install Ruby
+        uses: ruby/setup-ruby@v1
+        with:
+          bundler-cache: true
+
+      - name: Ruby Version
+        run: |
+          ruby -v
+
+      - name: Middleman Build
+        run: |
+          export TERM=xterm
+          bundle exec middleman build -e production --verbose
+
+      - name: Prepare Release Asset
+        if: ${{ success() && github.ref_name == 'main' }}
+        run: |
+          tar -cf lrug.org.tar public
+          bzip2 lrug.org.tar
+
+      - name: Delete old release asset
+        if: ${{ success() && github.ref_name == 'main' }}
+        uses: actions/github-script@v6
+        with:
+          script: |
+            const travis_release_id = 2386641;
+            const release_assets = await github.rest.repos.listReleaseAssets({
+              owner: "lrug",
+              repo: "lrug.org",
+              release_id: travis_release_id
+            });
+            for (const asset of release_assets.data) {
+              if (asset.name == "lrug.org.tar.bz2") {
+                await github.rest.repos.deleteReleaseAsset({
+                  owner: "lrug",
+                  repo: "lrug.org",
+                  asset_id: asset.id
+                });
+              }
+            }
+
+      - name: Upload Release Asset
+        if: ${{ success() && github.ref_name == 'main' }}
+        uses: actions/github-script@v6
+        with:
+          script: |
+            const upload_url = "https://uploads.github.com/repos/lrug/lrug.org/releases/2386641/assets{?name,label}";
+            const fs = require("fs");
+            const asset_path = "./lrug.org.tar.bz2";
+            const headers = {
+              "content-type": "application/x-tar",
+              "content-length": fs.statSync(asset_path).size
+            };
+
+            await github.request({
+              method: "POST",
+              url: upload_url,
+              headers: headers,
+              name: "lrug.org.tar.bz2",
+              data: fs.readFileSync(asset_path)
+            });
+
+      - name: Trigger deploy
+        if: ${{ success() && github.ref_name == 'main' }}
+        run: |
+          curl http://webhook.lrug.org/deploy-lrug.cgi \
+            -X POST \
+            -H "Content-Type: application/x-www-form-urlencoded" \
+            --data-urlencode "payload={\"actor\":\"${{ github.actor }}\",\"ref\":\"${{ github.ref }}\",\"branch\":\"${{ github.ref_name }}\",\"state\":\"${{ job.status }}\"}"
