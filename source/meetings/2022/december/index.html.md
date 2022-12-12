@@ -17,15 +17,20 @@ hosted_by:
 
 **Unfortunately, the December 2022 meeting is cancelled**
 
-<s>
-The December 2022 meeting of LRUG will be on *Monday the 12th of
-December*, from _6:00pm_ to _8:00pm_ (meeting starts at _6:30pm_).~~
+<p><s>
+The December 2022 meeting of LRUG will be on Monday the 12th of
+December, from 6:00pm to 8:00pm (meeting starts at 6:30pm).
+</s></p>
 
-**👪 in person meeting alert 👪**
 
-and with the December meetup it will be our fourth in person meetup of the 2022; all thanks to the helps of the amazing people at [Zinc](https://www.zinc.vc) at [their offices][zinc-venue], on Eversholt Street. [Full venue and
-registration details are given below](#dec22registration).
-</s>
+<p><s>
+👪 in person meeting alert 👪
+</s></p>
+
+
+<p><s>and with the December meetup it will be our fourth in person meetup of the 2022; all thanks to the helps of the amazing people at Zinc at their offices, on Eversholt Street. Full venue and registration details are given below.</s></p>
+
+
 ## Agenda
 
 ### Heaping on the Complexity
