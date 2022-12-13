@@ -740,14 +740,14 @@
     "url":"https://unboxed.co/",
     "logo":{
       "sidebar":{
-        "url":"https://assets.lrug.org/images/unboxed_co_logo_small.png",
+        "url":"https://assets.lrug.org/images/unboxed-new-logo-small.png",
         "width":"120",
-        "height":"30"
+        "height":"15"
       },
       "main":{
-        "url":"https://assets.lrug.org/images/unboxed_co_logo_medium.png",
+        "url":"https://assets.lrug.org/images/unboxed-new-logo-medium.png",
         "width":"260",
-        "height":"64"
+        "height":"32"
       }
     }
   },
