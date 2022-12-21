@@ -15,7 +15,7 @@ hosted_by:
 
 ---
 
-The January 2022 meeting of LRUG will be on Monday the 12th of
+The January 2022 meeting of LRUG will be on Monday the 9th of
 January, from 6:00pm to 8:00pm (meeting starts at 6:30pm).
 
 **👪 in person meeting alert 👪**
