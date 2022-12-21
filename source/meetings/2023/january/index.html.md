@@ -31,11 +31,34 @@ below](#jan23registration).
 
 ## Agenda
 
-### ???
+### Heaping on the Complexity
 
-[Someone]() says:
+[Matt Valentine-House](https://ruby.social/@eightbitraptor) says:
 
-> A talk?
+> Join me on a journey through Ruby's Garbage Collector!
+> 
+> In this talk I'll teach you some of the details about how the Ruby
+> interpreter manages memory. I'll introduce a project my team and I are
+> working on that aims to make Ruby faster by improving its memory
+> efficiency, and then we'll talk about how our implementation broke
+> Garbage Collection.
+
+> After that we'll go on a journey together, through some weeds, and
+> taking a few bad turns until we finally emerge with a few PR's that
+> not only Fix GC, but make our project better too.
+
+###  What does "high priority" mean? The secret to happy queues
+
+[Daniel Magliola](https://mobile.twitter.com/dmagliola)
+
+> Like most web applications, you run important jobs in the background. And
+> today, some of your urgent jobs are running late. Again. No matter how many
+> changes you make to how you enqueue and run your jobs, the problem keeps
+> happening. The good news is you're not alone. Most teams struggle with this
+> problem, try more or less the same solutions, and have roughly the same
+> result. In the end, it all boils down to one thing: keeping latency low. In
+> this talk I will present a latency-focused approach to managing your queues
+> reliably, keeping your jobs flowing and your users happy. 
 
 ## Afterwards
 
