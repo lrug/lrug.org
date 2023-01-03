@@ -60,6 +60,17 @@ below](#jan23registration).
 > this talk I will present a latency-focused approach to managing your queues
 > reliably, keeping your jobs flowing and your users happy. 
 
+### Solargraph-rails in 2022
+
+[Fritz Meissner](https://twitter.com/fritzmeissner)
+
+> From chewing-gum-and-regex to 35,000 lines of code and YAML! Come hear
+> about the past year of work on the solargraph-rails gem. You'll see new
+> features, mostly from merging with the solargraph-ARC gem, and hear about
+> the lessons learned along the way: more code means more to maintain and
+> understand, but there's a surprising amount that can be done just by
+> putting one foot in front of the other.
+
 ## Afterwards
 
 Once we're done with the talks we'll leave Unboxed (after doing our best
