@@ -37,7 +37,7 @@ registration details are given below](#feb23registration).
 
 ## Afterwards
 
-Once we're done with the talks we'll leave Unboxed (after doing our best
+Once we're done with the talks we'll leave the venue (after doing our best
 to help tidy up) and find a local pub for to eat, drink, and discuss the
 talks we've just heard.
 
