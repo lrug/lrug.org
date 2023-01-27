@@ -47,6 +47,8 @@ below](#jan23registration).
 > taking a few bad turns until we finally emerge with a few PR's that
 > not only Fix GC, but make our project better too.
 
+{::coverage year="2023" month="january" talk="heaping-on-the-complexity" /}
+
 ###  What does "high priority" mean? The secret to happy queues
 
 [Daniel Magliola](https://mobile.twitter.com/dmagliola)
@@ -60,6 +62,8 @@ below](#jan23registration).
 > this talk I will present a latency-focused approach to managing your queues
 > reliably, keeping your jobs flowing and your users happy. 
 
+{::coverage year="2023" month="january" talk="what-does-high-priority-mean-the-secret-to-happy-queues" /}
+
 ### Solargraph-rails in 2022
 
 [Fritz Meissner](https://twitter.com/fritzmeissner)
@@ -70,6 +74,8 @@ below](#jan23registration).
 > the lessons learned along the way: more code means more to maintain and
 > understand, but there's a surprising amount that can be done just by
 > putting one foot in front of the other.
+
+{::coverage year="2023" month="january" talk="solargraph-rails-in-2022" /}
 
 ## Afterwards
 
