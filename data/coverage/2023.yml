@@ -1,0 +1,14 @@
+---
+january:
+  heaping-on-the-complexity:
+    - type: video
+      title: LRUG January 2023 - Matt Valentine-House - Heaping on the Complexity
+      url: https://assets.lrug.org/videos/2023/january/daniel-magliola-what-does-high-priority-mean-the-secret-to-happy-queues-lrug-jan-2023.mp4
+  what-does-high-priority-mean-the-secret-to-happy-queues:
+    - type: video
+      title: LRUG January 2023 - Daniel Magliola - What does "high priority" mean? The secret to happy queues
+      url: https://assets.lrug.org/videos/2023/january/matt-valentine-house-heaping-on-the-complexity-lrug-jan-2023.mp4
+  solargraph-rails-in-2022:
+    - type: video
+      title: LRUG January 2023 - Fritz Meissner - Solargraph-rails in 2022
+      url: https://assets.lrug.org/videos/2023/january/fritz-meissner-solargraph-rails-in-2022-lrug-jan-2023.mp4
