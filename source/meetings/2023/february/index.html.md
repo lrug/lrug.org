@@ -35,6 +35,16 @@ registration details are given below](#feb23registration).
 
 > Last September I began regularly livestreaming my work on a side project to build a WebAssembly interpreter in Ruby. In this talk I’ll tell you how it’s going and what I’ve learned so far.
 
+### To mentee or to mentor - that is the question
+
+[Matt Bee](https://www.twitter.com/mattbee) says:
+
+> I started out 2022 looking for a mentor to help me on my ruby career
+adventure. After reflection (and some interesting insights) I realised that
+perhaps that was the wrong way round, and I would get more from being the
+mentor - here I'll share a journey, lessons learned and why maybe you
+should mentor someone too.
+
 ## Afterwards
 
 Once we're done with the talks we'll leave the venue (after doing our best
