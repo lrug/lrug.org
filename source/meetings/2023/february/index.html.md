@@ -45,6 +45,15 @@ perhaps that was the wrong way round, and I would get more from being the
 mentor - here I'll share a journey, lessons learned and why maybe you
 should mentor someone too.
 
+### Data Structures in 3 Paradigms: Ruby Spotlight
+
+[Frank Kair](https://github.com/frankkair) says:
+
+> Using a simple data structure as a starting point, we discuss three
+different programming paradigms (imperative, object oriented and
+functional), not only in terms of implementation, but also as a broader
+framework for learning and having a richer mental model for problem solving.
+
 ## Afterwards
 
 Once we're done with the talks we'll leave the venue (after doing our best
