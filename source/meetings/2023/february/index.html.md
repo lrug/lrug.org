@@ -54,6 +54,14 @@ different programming paradigms (imperative, object oriented and
 functional), not only in terms of implementation, but also as a broader
 framework for learning and having a richer mental model for problem solving.
 
+### Using the 'mob' tool for productive pairing
+
+[Chris Zetter](https://chriszetter.com) says:
+
+> My team started using the opinionated 'mob' tool for our
+remote mob and pair programming sessions. I'll explain what the tool does
+and how I've found it helps us to maintain momentum while pairing.
+
 ## Afterwards
 
 Once we're done with the talks we'll leave the venue (after doing our best
