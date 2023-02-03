@@ -15,7 +15,7 @@ hosted_by:
 
 ---
 
-The February 2022 meeting of LRUG will be on Monday the 13th of
+The February 2023 meeting of LRUG will be on Monday the 13th of
 February, from 6:00pm to 8:00pm (meeting starts at 6:30pm).
 
 **👪 in person meeting alert 👪**
