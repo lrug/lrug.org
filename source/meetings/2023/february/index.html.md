@@ -70,7 +70,7 @@ and how I've found it helps us to maintain momentum while pairing.
 bug arising from an assumption made as part of an optimisation many years
 ago that is no longer true.
 
-### Tech Debt for the rest of ys
+### Tech Debt for the rest of us
 
 [Alfredo Motta](https://twitter.com/mottalrd) says:
 
