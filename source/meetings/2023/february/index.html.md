@@ -62,6 +62,16 @@ framework for learning and having a richer mental model for problem solving.
 remote mob and pair programming sessions. I'll explain what the tool does
 and how I've found it helps us to maintain momentum while pairing.
 
+### Strings: Interpolation, Optimisations and bugs
+
+[Matt Valentine-House](https://ruby.social/@eightbitraptor) says:
+
+> In this talk we'll explore a bit about how string interpolation works in Ruby. We'll do this while investigating and fixing a
+bug arising from an assumption made as part of an optimisation many years
+ago that is no longer true.
+
+
+
 ## Afterwards
 
 Once we're done with the talks we'll leave the venue (after doing our best
