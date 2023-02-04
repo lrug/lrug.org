@@ -62,6 +62,29 @@ framework for learning and having a richer mental model for problem solving.
 remote mob and pair programming sessions. I'll explain what the tool does
 and how I've found it helps us to maintain momentum while pairing.
 
+### Strings: Interpolation, Optimisations and bugs
+
+[Matt Valentine-House](https://ruby.social/@eightbitraptor) says:
+
+> In this talk we'll explore a bit about how string interpolation works in Ruby. We'll do this while investigating and fixing a
+bug arising from an assumption made as part of an optimisation many years
+ago that is no longer true.
+
+### Tech Debt for the rest of ys
+
+[Alfredo Motta](https://twitter.com/mottalrd) says:
+
+> Tech Debt can be messy, but it doesn't have to be. In this short talk I'll
+present a simple approach to identify your Tech Debt, monitor it over time
+and make it actionable.
+
+### WET: Why DRY isn't always best
+
+[Fell Sunderland](https://twitter.com/felltir) says
+
+> An opinionated look at the pros and cons of
+choosing abstractions early vs. waiting and duplicating effort
+
 ## Afterwards
 
 Once we're done with the talks we'll leave the venue (after doing our best
