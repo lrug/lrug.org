@@ -78,6 +78,13 @@ ago that is no longer true.
 present a simple approach to identify your Tech Debt, monitor it over time
 and make it actionable.
 
+### WET: Why DRY isn't always best
+
+[Fell Sunderland](https://twitter.com/felltir) says
+
+> An opinionated look at the pros and cons of
+choosing abstractions early vs. waiting and duplicating effort
+
 ## Afterwards
 
 Once we're done with the talks we'll leave the venue (after doing our best
