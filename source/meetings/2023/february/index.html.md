@@ -70,14 +70,6 @@ and how I've found it helps us to maintain momentum while pairing.
 bug arising from an assumption made as part of an optimisation many years
 ago that is no longer true.
 
-### Tech Debt for the rest of us
-
-[Alfredo Motta](https://twitter.com/mottalrd) says:
-
-> Tech Debt can be messy, but it doesn't have to be. In this short talk I'll
-present a simple approach to identify your Tech Debt, monitor it over time
-and make it actionable.
-
 ### WET: Why DRY isn't always best
 
 [Fell Sunderland](https://twitter.com/felltir) says
