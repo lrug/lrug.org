@@ -77,6 +77,15 @@ ago that is no longer true.
 > An opinionated look at the pros and cons of
 choosing abstractions early vs. waiting and duplicating effort
 
+### Using ChatGPT to Program in Ruby
+
+[Jairo Diaz](https://www.linkedin.com/in/jairodiaz4/) says
+
+> The talk will be about using ChatGPT, an advanced language model developed
+by OpenAI, to explore programming with a bot. The aim is to show how
+developers can use ChatGPT to learn, write, and debug code in the Ruby
+programming language.
+
 ## Afterwards
 
 Once we're done with the talks we'll leave the venue (after doing our best
