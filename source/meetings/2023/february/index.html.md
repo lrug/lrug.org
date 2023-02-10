@@ -86,6 +86,11 @@ by OpenAI, to explore programming with a bot. The aim is to show how
 developers can use ChatGPT to learn, write, and debug code in the Ruby
 programming language.
 
+### “Pure” OOP in Ruby
+[Dmitry Non](https://nondv.wtf/blog.html) says
+
+> What if Ruby had NOTHING except classes and objects?
+
 ## Afterwards
 
 Once we're done with the talks we'll leave the venue (after doing our best
