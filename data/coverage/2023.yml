@@ -12,3 +12,36 @@ january:
     - type: video
       title: LRUG January 2023 - Fritz Meissner - Solargraph-rails in 2022
       url: https://assets.lrug.org/videos/2023/january/fritz-meissner-solargraph-rails-in-2022-lrug-jan-2023.mp4
+february:
+  using-the-mob-tool:
+    - type: video
+      title: LRUG February 2023 - Chris Zetter - Using the mob tool for productive pairing
+      url: https://assets.lrug.org/videos/2023/february/chris-zetter-using-the-mob-tool-for-productive-pairing-lrug-feb-2023.mp4
+  pure-oop-in-ruby:
+    - type: video
+      title: LRUG February 2023 - Dmitry Non - "Pure" OOP in Ruby
+      url: https://assets.lrug.org/videos/2023/february/dmitry-non-pure-oop-in-ruby-lrug-feb-2023.mp4
+  wet-why-dry-isnt-always-best:
+    - type: video
+      title: LRUG February 2023 - Fell Sunderland - WET: Why DRY isn't always best
+      url: https://assets.lrug.org/videos/2023/february/fell-sunderland-wet-why-dry-isnt-always-best-lrug-feb-2023.mp4
+  data-structures-in-3-paradigms:
+    - type: video
+      title: LRUG February 2023 - Frank Kair - Data structures in 3 paradigms: Ruby spotlight
+      url: https://assets.lrug.org/videos/2023/february/frank-kair-data-structures-in-3-paradigms-ruby-spotlight-lrug-feb-2023.mp4
+  using-chatgpt-to-program-in-ruby:
+    - type: video
+      title: LRUG February 2023 - Jairo Diaz - Using ChatGPT to program in Ruby
+      url: https://assets.lrug.org/videos/2023/february/jairo-diaz-using-chatgpt-to-program-in-ruby-lrug-feb-2023.mp4
+  to-mentor-or-to-mentee:
+    - type: video
+      title: LRUG February 2023 - Matt Bee - To mentor or to mentee that is the question
+      url: https://assets.lrug.org/videos/2023/february/matt-bee-to-mentor-or-to-mentee-that-is-the-question-lrug-feb-2023.mp4
+  strings-interpolation-optimisation-and-bugs:
+    - type: video
+      title: LRUG February 2023 - Matt Valentine-House - Strings: Interpolation, optimisation and bugs
+      url: https://assets.lrug.org/videos/2023/february/matt-valentine-house-strings-interpolation-optimisation-and-bugs-lrug-feb-2023.mp4
+  a-supposedly-fun-thing-ill-never-stream-again:
+    - type: video
+      title: LRUG February 2023 - Tom Stuart - A supposedly fun thing I'll never stream again: Live coding a Ruby project
+      url: https://assets.lrug.org/videos/2023/february/tom-stuart-a-supposedly-fun-thing-ill-never-stream-again-live-coding-a-ruby-project-lrug-feb-2023.mp4
