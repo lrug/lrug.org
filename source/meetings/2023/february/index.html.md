@@ -35,7 +35,9 @@ registration details are given below](#feb23registration).
 
 > Last September I began regularly livestreaming my work on a side project to build a WebAssembly interpreter in Ruby. In this talk I’ll tell you how it’s going and what I’ve learned so far.
 
-### To mentee or to mentor - that is the question
+{::coverage year="2023" month="february" talk="a-supposedly-fun-thing-ill-never-stream-again" /}
+
+### To mentor or to mentee - that is the question
 
 [Matt Bee](https://www.twitter.com/mattbee) says:
 
@@ -44,6 +46,8 @@ adventure. After reflection (and some interesting insights) I realised that
 perhaps that was the wrong way round, and I would get more from being the
 mentor - here I'll share a journey, lessons learned and why maybe you
 should mentor someone too.
+
+{::coverage year="2023" month="february" talk="to-mentor-or-to-mentee" /}
 
 ### Data Structures in 3 Paradigms: Ruby Spotlight
 
@@ -54,6 +58,8 @@ different programming paradigms (imperative, object oriented and
 functional), not only in terms of implementation, but also as a broader
 framework for learning and having a richer mental model for problem solving.
 
+{::coverage year="2023" month="february" talk="data-structures-in-3-paradigms" /}
+
 ### Using the 'mob' tool for productive pairing
 
 [Chris Zetter](https://chriszetter.com) says:
@@ -61,6 +67,8 @@ framework for learning and having a richer mental model for problem solving.
 > My team started using the opinionated 'mob' tool for our
 remote mob and pair programming sessions. I'll explain what the tool does
 and how I've found it helps us to maintain momentum while pairing.
+
+{::coverage year="2023" month="february" talk="using-the-mob-tool" /}
 
 ### Strings: Interpolation, Optimisations and bugs
 
@@ -70,12 +78,16 @@ and how I've found it helps us to maintain momentum while pairing.
 bug arising from an assumption made as part of an optimisation many years
 ago that is no longer true.
 
+{::coverage year="2023" month="february" talk="strings-interpolation-optimisation-and-bugs" /}
+
 ### WET: Why DRY isn't always best
 
 [Fell Sunderland](https://twitter.com/felltir) says
 
 > An opinionated look at the pros and cons of
 choosing abstractions early vs. waiting and duplicating effort
+
+{::coverage year="2023" month="february" talk="wet-why-dry-isnt-always-best" /}
 
 ### Using ChatGPT to Program in Ruby
 
@@ -86,10 +98,14 @@ by OpenAI, to explore programming with a bot. The aim is to show how
 developers can use ChatGPT to learn, write, and debug code in the Ruby
 programming language.
 
+{::coverage year="2023" month="february" talk="using-chatgpt-to-program-in-ruby" /}
+
 ### “Pure” OOP in Ruby
 [Dmitry Non](https://nondv.wtf/blog.html) says
 
 > What if Ruby had NOTHING except classes and objects?
+
+{::coverage year="2023" month="february" talk="pure-oop-in-ruby" /}
 
 ## Afterwards
 
