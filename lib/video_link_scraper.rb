@@ -16,6 +16,13 @@ class VideoLinkScraper
   end
 
   def skillsmatter_scrape
+    talk_links = scrape_talk_links
+    talk_links.each do |talk_link|
+      video_info_scrape(talk_link)
+    end 
+  end
+
+  def scrape_talk_links 
     talk_links = []
     # just for testing - replace [0] with @page_numbers
     [0].each do |number|
@@ -30,7 +37,7 @@ class VideoLinkScraper
     end
 
     talk_links.flatten!
-  end
+  end 
 
   def video_info_scrape(url)
     html = URI.open(url)
@@ -51,16 +58,14 @@ class VideoLinkScraper
 
   def add_to_yaml_file(title, month, year, url)
     coverage_info = { 
-      year.to_i => {
-        month => {
-          'type' => 'video',
-          'url' => url,
-          'title' => 'Skills Matter : London Ruby User Group : ' + title, 
-        }
-      }  
+      'year' => year.to_i,
+      'month' => month,
+      'type' => 'video',
+      'url' => url,
+      'title' => 'Skills Matter : London Ruby User Group : ' + title, 
     }
-
-    File.open(@filepath, "w") { |f| f.write(coverage_info.to_yaml) }
+        
+    File.open(@filepath, "a") { |f| f.write(coverage_info.to_yaml) }
   end 
 end
 
