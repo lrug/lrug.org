@@ -57,13 +57,13 @@ Hopefully you all remember that physical meetings involve finite space and so to
 
 The address of the venue:
 
-> Cleo
-> Unit 2.10
-> 2nd Floor
-> Tea Building
-> 56 Shoreditch High St.
-> London
-> E1 6JJ
+	Cleo
+	Unit 2.10
+	2nd Floor
+	Tea Building
+	56 Shoreditch High St.
+	London
+	E1 6JJ
 
 [See on a map][cleo-venue]
 
