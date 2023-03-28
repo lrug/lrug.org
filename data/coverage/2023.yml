@@ -45,3 +45,12 @@ february:
     - type: video
       title: "LRUG February 2023 - Tom Stuart - A supposedly fun thing I'll never stream again: Live coding a Ruby project"
       url: https://assets.lrug.org/videos/2023/february/tom-stuart-a-supposedly-fun-thing-ill-never-stream-again-live-coding-a-ruby-project-lrug-feb-2023.mp4
+march:
+  native-apps-are-dead-long-live-native-apps:
+    - type: video
+      title: "LRUG March 2023 - Ayush Newatia - Native apps are dead, long live native apps"
+      url: https://assets.lrug.org/videos/2023/march/ayush-newatia-native-apps-are-dead-long-live-native-apps-lrug-mar-2023.mp4
+  end-to-end-typing-for-web-applications:
+    - type: video
+      title: "LRUG March 2023 - Frederick Cheung - End to end typing for web applications"
+      url: https://assets.lrug.org/videos/2023/march/frederick-cheung-end-to-end-typing-for-web-applications-lrug-mar-2023.mp4

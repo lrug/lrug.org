@@ -29,6 +29,8 @@ lovely folk at [Zinc](https://zinc.vc) at their offices, on Eversholt Street. [F
 
 > You’ve heard it hundreds of times: Hybrid apps suck. That may have been true in the past, but things have changed significantly in the last decade. With tools like Turbo Native working in conjunction with Ruby on Rails, it’s possible to mix web technologies with native APIs to build slick hybrid mobile apps. We’ll take a look at why the hybrid approach gets such a bad rap, why that reputation is undeserved, and how we can build hybrid apps that don't suck.
 
+{::coverage year="2023" month="march" talk="native-apps-are-dead-long-live-native-apps" /}
+
 ### End to End typing for web applications
 
 [Frederick Cheung](https://ruby.social/@fglc2) says:
@@ -36,6 +38,8 @@ lovely folk at [Zinc](https://zinc.vc) at their offices, on Eversholt Street. [F
 > Ever had a bug because the frontend made incorrect assumptions about the shape of response data from the backend? Or maybe you trod nervously during a refactor? Or perhaps you broke an app by changing the backend data in a way you didn’t think would matter?
 
 > Learn how avoid this type of mistake, enabling you to keep moving fast, by having a single source of truth for your data types, checked both on the frontend and the backend.
+
+{::coverage year="2023" month="march" talk="end-to-end-typing-for-web-applications" /}
 
 ## Afterwards
 
