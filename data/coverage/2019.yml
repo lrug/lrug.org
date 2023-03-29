@@ -1,6 +1,71 @@
----
-example_month:
-  talk-title-key-in-coverage-tag:
+october:
+  i18n:
   - type: video
-    url: https://assets.lrug.org/videos/2019/full-month-name/talk-file-name.mp4
-    title: LRUG Month 2019 - Speaker Name - Talk title
+    url: http://skillsmatter.com/podcast/home/i18n
+    title: 'Skills Matter : London Ruby User Group: I18n'
+  judge-client-side-form-validation-for-rails-3:
+  - type: slides
+    url: http://presentations.joecorcoran.co.uk/judge_lrug/
+    title: 'Judge: Client-side form validation in Rails 3'
+  - type: video
+    url: http://skillsmatter.com/podcast/home/judge
+    title: 'Skills Matter : London Ruby User Group: Judge: Client side form validation
+      for rails 3'
+november:
+  breaking-up-is-hard-to-do:
+  - type: video
+    url: http://skillsmatter.com/podcast/home/lrug-lightning-authentication
+    title: 'Skills Matter : London Ruby User Group : Breaking up is hard to do'
+---
+i18n:
+- type: video
+  url: http://skillsmatter.com/podcast/home/i18n
+  title: 'Skills Matter : London Ruby User Group: I18n'
+judge-client-side-form-validation-for-rails-3:
+- type: slides
+  url: http://presentations.joecorcoran.co.uk/judge_lrug/
+  title: 'Judge: Client-side form validation in Rails 3'
+- type: video
+  url: http://skillsmatter.com/podcast/home/judge
+  title: 'Skills Matter : London Ruby User Group: Judge: Client side form validation
+    for rails 3'
+using-software-engineering-practices-to-improve-engineering-management:
+  type:
+  url: https://skillsmatter.com/skillscasts/14586-using-software-engineering-practices-to-improve-engineering-management
+  title: 'Skills Matter : London Ruby User Group : Using software engineering practices
+    to improve engineering management'
+---
+i18n:
+- type: video
+  url: http://skillsmatter.com/podcast/home/i18n
+  title: 'Skills Matter : London Ruby User Group: I18n'
+judge-client-side-form-validation-for-rails-3:
+- type: slides
+  url: http://presentations.joecorcoran.co.uk/judge_lrug/
+  title: 'Judge: Client-side form validation in Rails 3'
+- type: video
+  url: http://skillsmatter.com/podcast/home/judge
+  title: 'Skills Matter : London Ruby User Group: Judge: Client side form validation
+    for rails 3'
+concurrency-in-crystal:
+  type:
+  url: https://skillsmatter.com/skillscasts/14569-concurrency-in-crystal
+  title: 'Skills Matter : London Ruby User Group : Concurrency in Crystal'
+---
+i18n:
+- type: video
+  url: http://skillsmatter.com/podcast/home/i18n
+  title: 'Skills Matter : London Ruby User Group: I18n'
+judge-client-side-form-validation-for-rails-3:
+- type: slides
+  url: http://presentations.joecorcoran.co.uk/judge_lrug/
+  title: 'Judge: Client-side form validation in Rails 3'
+- type: video
+  url: http://skillsmatter.com/podcast/home/judge
+  title: 'Skills Matter : London Ruby User Group: Judge: Client side form validation
+    for rails 3'
+how-to-stop-worrying,-love-the-spa-and-appreciate-rails:
+  type:
+  url: https://skillsmatter.com/skillscasts/14571-how-to-stop-worrying-love-the-spa-and-appreciate-rails
+  title: 'Skills Matter : London Ruby User Group : How to stop worrying, love the
+    SPA and appreciate Rails'

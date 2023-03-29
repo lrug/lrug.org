@@ -19,7 +19,7 @@ class VideoLinkScraper
     talk_links = scrape_talk_links
     talk_links.each do |talk_link|
       video_info_scrape(talk_link)
-    end 
+    end
   end
 
   def scrape_talk_links 
@@ -37,7 +37,7 @@ class VideoLinkScraper
     end
 
     talk_links.flatten!
-  end 
+  end
 
   def video_info_scrape(url)
     html = URI.open(url)
