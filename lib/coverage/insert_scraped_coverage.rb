@@ -34,7 +34,7 @@ class InsertScrapedCoverage
 
   def merge_scraped_coverage_into_coverage_file
     # Update array to include all years once the scraper has run
-    [2019].each do |year|
+    (2007..2019).each do |year|
       filepath = "./data/coverage/#{year}.yml"
       target_file = File.open(filepath, 'r')
       target_file_yaml = YAML.safe_load(target_file)
