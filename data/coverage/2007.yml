@@ -4,3 +4,55 @@ july:
   - type: slides
     url: https://speakerdeck.com/tomstuart/rspec-on-rails
     title: RSpec (on Rails)
+  small-tech-teams:
+    type: video
+    url: https://skillsmatter.com/skillscasts/14142-lrug-july
+    title: 'Skills Matter : London Ruby User Group : Small Tech Teams'
+november:
+  concurrency-in-crystal:
+    type: video
+    url: https://skillsmatter.com/skillscasts/test
+    title: 'Skills Matter : London Ruby User Group : Concurrency in Crystal'
+october:
+  concurrency-in-crystal:
+    type: video
+    url: https://skillsmatter.com/skillscasts/14569-concurrency-in-crystal
+    title: 'Skills Matter : London Ruby User Group : Concurrency in Crystal'
+  how-to-stop-worrying,-love-the-spa-and-appreciate-rails:
+    type: video
+    url: https://skillsmatter.com/skillscasts/14571-how-to-stop-worrying-love-the-spa-and-appreciate-rails
+    title: 'Skills Matter : London Ruby User Group : How to stop worrying, love the
+      SPA and appreciate Rails'
+  using-software-engineering-practices-to-improve-engineering-management:
+    type: video
+    url: https://skillsmatter.com/skillscasts/14586-using-software-engineering-practices-to-improve-engineering-management
+    title: 'Skills Matter : London Ruby User Group : Using software engineering practices
+      to improve engineering management'
+september:
+  computer-graphics-for-ruby-developers:
+    type: video
+    url: https://skillsmatter.com/skillscasts/14493-computer-graphics-for-ruby-developers
+    title: 'Skills Matter : London Ruby User Group : Computer Graphics for Ruby developers'
+  how-to-say-no-to-salesforce-and-build-your-own-crm:
+    type: video
+    url: https://skillsmatter.com/skillscasts/14494-how-to-say-no-to-salesforce-and-build-your-own-crm
+    title: 'Skills Matter : London Ruby User Group : How to say no to Salesforce and
+      build your own CRM'
+  have-your-sorbet-and-eat-it-too:
+    type: video
+    url: https://skillsmatter.com/skillscasts/14506-have-your-sorbet-and-eat-it-too
+    title: 'Skills Matter : London Ruby User Group : Have your Sorbet and eat it too'
+august:
+  pattern-matching-in-ruby-2.7:
+    type: video
+    url: https://skillsmatter.com/skillscasts/14333-title-pattern-matching-in-ruby-2-7
+    title: 'Skills Matter : London Ruby User Group : Pattern matching in ruby 2.7 '
+  spree-commerce:-how-to-run-an-ecommerce-platform?:
+    type: video
+    url: https://skillsmatter.com/skillscasts/14334-spree-commerce-how-to-run-an-ecommerce-platform
+    title: 'Skills Matter : London Ruby User Group : Spree Commerce: How to run an
+      eCommerce platform?'
+  reuse-your-government's-code:
+    type: video
+    url: https://skillsmatter.com/skillscasts/14335-reuse-your-government-s-code
+    title: 'Skills Matter : London Ruby User Group : Reuse your government''s code'
