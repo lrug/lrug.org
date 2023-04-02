@@ -6,17 +6,13 @@ class InsertScrapedCoverage
   # the "Skills Matter : ..." boiler plate assigned to the begining of each coverage title 
   END_OF_BOILER_PLATE_TITLE = 40
 
-  def initialize
-    @filepath = './data/coverage/scraped_coverage.yml'
-  end
-
   def self.call
     @insert_scraped_coverage = InsertScrapedCoverage.new
     @insert_scraped_coverage.merge_scraped_coverage_into_coverage_file
   end
 
   def formatted_coverage
-    raw_coverage_info = YAML.load_stream(File.open(@filepath))
+    raw_coverage_info = YAML.load_stream(File.open('./data/coverage/scraped_coverage.yml'))
     raw_coverage_info.map do |coverage|
       {
         'year' => coverage['year'],
@@ -34,14 +30,24 @@ class InsertScrapedCoverage
 
   def merge_scraped_coverage_into_coverage_file
     # Update array to include all years once the scraper has run
-    (2007..2019).each do |year|
+    (2010..2019).each do |year|
       filepath = "./data/coverage/#{year}.yml"
       target_file = File.open(filepath, 'r')
       target_file_yaml = YAML.safe_load(target_file)
-
-      formatted_coverage.each do |coverage|
+      formatted_coverage_for_year = formatted_coverage.select { |coverage| coverage['year'] == year }
+  
+      formatted_coverage_for_year.each do |coverage|
         if target_file_yaml && target_file_yaml.keys.include?(coverage['month'])
-          target_file_yaml[coverage['month']].merge!(coverage['formatted_entry'])
+          if target_file_yaml[coverage['month']][coverage['formatted_entry'].keys.first]
+            entry_to_update = target_file_yaml[coverage['month']][coverage['formatted_entry'].keys.first]
+            if entry_to_update.is_a?(Hash)
+              [entry_to_update].flatten(0).concat(coverage['formatted_entry'].values).uniq!
+            else
+              entry_to_update.concat(coverage['formatted_entry'].values).uniq!
+            end
+          else
+            target_file_yaml[coverage['month']].merge!(coverage['formatted_entry'])
+          end
         else
           target_file_yaml.merge!({coverage['month'] => coverage['formatted_entry']})
         end

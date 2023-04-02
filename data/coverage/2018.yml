@@ -4,3 +4,185 @@ example_month:
   - type: video
     url: https://assets.lrug.org/videos/2018/full-month-name/talk-file-name.mp4
     title: LRUG Month 2018 - Speaker Name - Talk title
+december:
+  the-case-of-the-missing-method-—-a-ruby-mystery-story:
+    type: video
+    url: https://skillsmatter.com/skillscasts/13199-the-case-of-the-missing-method-a-ruby-mystery-story
+    title: 'Skills Matter : London Ruby User Group : The Case of the Missing Method
+      — A Ruby Mystery Story'
+  pro-capybara-herding:-feature-testing-tips:
+    type: video
+    url: https://skillsmatter.com/skillscasts/13201-pro-capybara-herding-feature-testing-tips
+    title: 'Skills Matter : London Ruby User Group : Pro Capybara Herding: Feature
+      Testing Tips'
+  the-problem-with-compiling-ruby:
+    type: video
+    url: https://skillsmatter.com/skillscasts/13208-the-problem-with-compiling-ruby
+    title: 'Skills Matter : London Ruby User Group : The Problem with Compiling Ruby'
+november:
+  open-banking---from-scraping-to-apis:
+    type: video
+    url: https://skillsmatter.com/skillscasts/13036-open-banking-from-scraping-to-apis
+    title: 'Skills Matter : London Ruby User Group : Open Banking - From Scraping
+      to APIs '
+  automate-your-home-with-ruby:
+    type: video
+    url: https://skillsmatter.com/skillscasts/13037-automate-your-home-with-ruby
+    title: 'Skills Matter : London Ruby User Group : Automate Your Home with Ruby'
+  most-valuable-employee-traits-from-a-business-owner-perspective:
+    type: video
+    url: https://skillsmatter.com/skillscasts/13145-most-valuable-employee-traits-from-a-business-owner-perspective
+    title: 'Skills Matter : London Ruby User Group :  Most Valuable Employee Traits
+      from a Business Owner Perspective'
+october:
+  unicode-spaß:
+    type: video
+    url: https://skillsmatter.com/skillscasts/12957-unicode-spass
+    title: 'Skills Matter : London Ruby User Group : Unicode Spaß'
+  hubbadddo:
+    type: video
+    url: https://skillsmatter.com/skillscasts/12958-hubbadddo
+    title: 'Skills Matter : London Ruby User Group : hubbaDDDo'
+  interface-incantations:
+    type: video
+    url: https://skillsmatter.com/skillscasts/12960-interface-incantations
+    title: 'Skills Matter : London Ruby User Group : Interface incantations'
+september:
+  tune-up-your-system-with-materialized-views:
+    type: video
+    url: https://skillsmatter.com/skillscasts/12798-tune-up-your-system-with-materialized-view
+    title: 'Skills Matter : London Ruby User Group : Tune up your system with Materialized
+      Views'
+  how-to-spend-more-time-writing-features-and-less-time-managing-servers-thanks-to-the-modern-cloud:
+    type: video
+    url: https://skillsmatter.com/skillscasts/12799-how-to-spend-more-time-writing-features-and-less-time-managing-servers-thanks-to-the-modern-cloud
+    title: 'Skills Matter : London Ruby User Group : How to spend more time writing
+      features and less time managing servers thanks to the modern cloud'
+  how-to-scrape-dynamic-web-pages-using-ruby:
+    type: video
+    url: https://skillsmatter.com/skillscasts/12800-how-to-scrape-dynamic-web-pages-using-ruby
+    title: 'Skills Matter : London Ruby User Group : How to scrape dynamic web pages
+      using Ruby'
+august:
+  the-fast-and-the-furriest---performance-refactoring-with-bunnies:
+    type: video
+    url: https://skillsmatter.com/skillscasts/12468-lrug-london-ruby-user-group
+    title: 'Skills Matter : London Ruby User Group : The Fast and The Furriest - Performance
+      refactoring with bunnies'
+  data-driven-dependency-management:
+    type: video
+    url: https://skillsmatter.com/skillscasts/12658-data-driven-dependency-management
+    title: 'Skills Matter : London Ruby User Group : Data-Driven Dependency Management'
+  logic-programming-with-ruby-and-z3:
+    type: video
+    url: https://skillsmatter.com/skillscasts/12660-logic-programming-with-ruby-and-z3
+    title: 'Skills Matter : London Ruby User Group : Logic Programming with Ruby and
+      Z3'
+july:
+  write-better-tests-with-property-based-testing:
+    type: video
+    url: https://skillsmatter.com/skillscasts/12365-lrug-july
+    title: 'Skills Matter : London Ruby User Group : Write Better Tests With Property
+      Based Testing'
+  css-shapes:-upgrade-your-page-layouts:
+    type: video
+    url: https://skillsmatter.com/skillscasts/12366-css-shapes-upgrade-your-page-layouts
+    title: 'Skills Matter : London Ruby User Group : CSS Shapes: Upgrade Your Page
+      Layouts'
+  as-you-like-it---if-shakespeare-had-written-functions-as-a-service:
+    type: video
+    url: https://skillsmatter.com/skillscasts/12367-as-you-like-it-if-shakespeare-had-written-functions-as-a-service
+    title: 'Skills Matter : London Ruby User Group : As You Like It - If Shakespeare
+      Had Written Functions as a Service'
+june:
+  how-to-grow-a-small-development-team:
+    type: video
+    url: https://skillsmatter.com/skillscasts/12118-lrug-june
+    title: 'Skills Matter : London Ruby User Group : How to Grow a Small Development
+      Team'
+  breaking-into-computers-over-the-internet:
+    type: video
+    url: https://skillsmatter.com/skillscasts/12119-breaking-into-computers-over-the-internet
+    title: 'Skills Matter : London Ruby User Group : Breaking into Computers Over
+      the Internet'
+may:
+  on-writing-<%=-code-%>:
+    type: video
+    url: https://skillsmatter.com/skillscasts/11902-lrug-may
+    title: 'Skills Matter : London Ruby User Group : On writing <%= code %>'
+  an-introduction-to-event-sourcing:
+    type: video
+    url: https://skillsmatter.com/skillscasts/11903-an-introduction-to-event-sourcing
+    title: 'Skills Matter : London Ruby User Group : An Introduction to Event Sourcing'
+  software-development-–-a-view-from-the-boardroom:
+    type: video
+    url: https://skillsmatter.com/skillscasts/11969-software-development-a-view-from-the-boardroom
+    title: 'Skills Matter : London Ruby User Group : Software Development – a view
+      from the Boardroom'
+april:
+  sliding-puzzles:
+    type: video
+    url: https://skillsmatter.com/skillscasts/11694-london-ruby-user-group-april
+    title: 'Skills Matter : London Ruby User Group : Sliding Puzzles'
+  you’re-doing-documentation-wrong-(and-so-am-i):
+    type: video
+    url: https://skillsmatter.com/skillscasts/11695-you-re-doing-documentation-wrong-and-so-am-i
+    title: 'Skills Matter : London Ruby User Group : You’re doing documentation wrong
+      (and so am I)'
+  scaling-millions-of-jobs-with-enumerators:
+    type: video
+    url: https://skillsmatter.com/skillscasts/11829-scaling-millions-of-jobs-with-enumerators
+    title: 'Skills Matter : London Ruby User Group : Scaling Millions of Jobs with
+      Enumerators'
+march:
+  web-architecture-choices-&-ruby:
+    type: video
+    url: https://skillsmatter.com/skillscasts/11594-lrug-march
+    title: 'Skills Matter : London Ruby User Group : Web Architecture choices & Ruby'
+  strong-opinions,-loosely-held:
+    type: video
+    url: https://skillsmatter.com/skillscasts/11595-strong-opinions-loosely-held
+    title: 'Skills Matter : London Ruby User Group : Strong opinions, loosely held'
+  make-responsive-emails-super-duper-easily-with-mjml:
+    type: video
+    url: https://skillsmatter.com/skillscasts/11596-make-responsive-emails-super-duper-easily-with-mjml
+    title: 'Skills Matter : London Ruby User Group : Make responsive emails super-duper
+      easily with MJML'
+february:
+  the-human-cost-of-messy-code:
+    type: video
+    url: https://skillsmatter.com/skillscasts/11447-the-human-cost-of-messy-code
+    title: 'Skills Matter : London Ruby User Group : The Human Cost of Messy Code'
+  search-relevancy:
+    type: video
+    url: https://skillsmatter.com/skillscasts/11448-search-relevancy
+    title: 'Skills Matter : London Ruby User Group : Search Relevancy'
+  _why-symbol#to_proc-works-and-more:
+    type: video
+    url: https://skillsmatter.com/skillscasts/11456-_why-symbol-to_proc-works-and-more
+    title: 'Skills Matter : London Ruby User Group : _why Symbol#to_proc works and
+      more'
+  introduction-to-active-storage:
+    type: video
+    url: https://skillsmatter.com/skillscasts/11458-introduction-to-active-storage
+    title: 'Skills Matter : London Ruby User Group : Introduction to Active Storage'
+  things-i-wish-i'd-known-about-ruby-gems:
+    type: video
+    url: https://skillsmatter.com/skillscasts/11470-things-i-wish-i-d-known-about-ruby-gems
+    title: 'Skills Matter : London Ruby User Group : Things I wish I''d known about
+      Ruby Gems'
+  increase-your-quality-of-life:-an-rspec-primer:
+    type: video
+    url: https://skillsmatter.com/skillscasts/11471-increase-your-quality-of-life-an-rspec-primer
+    title: 'Skills Matter : London Ruby User Group : Increase Your Quality of Life:
+      An RSpec Primer'
+  git-commit-signing:-code-we-can-trust?:
+    type: video
+    url: https://skillsmatter.com/skillscasts/11472-git-commit-signing-code-we-can-trust
+    title: 'Skills Matter : London Ruby User Group : Git commit signing: Code we can
+      trust?'
+january:
+  lrug-pub-quiz-night:
+    type: video
+    url: https://skillsmatter.com/skillscasts/11345-lrug-pub-quiz-night
+    title: 'Skills Matter : London Ruby User Group : LRUG Pub Quiz Night'

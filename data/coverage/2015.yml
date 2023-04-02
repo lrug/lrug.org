@@ -4,6 +4,9 @@ january:
   - type: video
     url: https://skillsmatter.com/skillscasts/6129-peerconnect-all-the-things
     title: 'Skills Matter : Skillscast : PeerConnect All The Things'
+  - type: video
+    url: https://skillsmatter.com/skillscasts/6129-peerconnect-all-the-things
+    title: 'Skills Matter : London Ruby User Group : PeerConnect all the things'
   who-s-afraid-of-database-views:
   - type: slides
     url: https://speakerdeck.com/robb1e/whos-afraid-of-database-views
@@ -18,16 +21,52 @@ january:
   - type: video
     url: https://skillsmatter.com/skillscasts/6128-telling-stories-through-your-commits
     title: 'Skills Matter : Skillscast : Telling Stories Through Your Commits'
+  - type: video
+    url: https://skillsmatter.com/skillscasts/6128-telling-stories-through-your-commits
+    title: 'Skills Matter : London Ruby User Group : Telling stories through your
+      commits'
+  who’s-afraid-of-database-views?:
+    type: video
+    url: https://skillsmatter.com/skillscasts/6127-whos-afraid-of-database-views
+    title: 'Skills Matter : London Ruby User Group : Who’s afraid of database views?'
 february:
   lightning-talks: []
-  a-library-for-handling-postcodes: []
-  finding-and-taking-opportunities-in-the-enterprise: []
-  microaggression-impact-on-women-in-it: []
-  introducing-yournextmp: []
-  how-to-help-beginners-learn-to-code: []
+  a-library-for-handling-postcodes:
+  - type: video
+    url: https://skillsmatter.com/skillscasts/6267-a-library-for-handling-postcodes
+    title: 'Skills Matter : London Ruby User Group : A library for handling postcodes'
+  finding-and-taking-opportunities-in-the-enterprise:
+  - type: video
+    url: https://skillsmatter.com/skillscasts/6266-finding-and-taking-opportunities-in-the-enterprise
+    title: 'Skills Matter : London Ruby User Group : Finding and taking opportunities
+      in the enterprise'
+  microaggression-impact-on-women-in-it:
+  - type: video
+    url: https://skillsmatter.com/skillscasts/6265-microaggression-impact-on-women-in-it
+    title: 'Skills Matter : London Ruby User Group : Microaggression Impact on Women
+      in IT'
+  introducing-yournextmp:
+  - type: video
+    url: https://skillsmatter.com/skillscasts/6264-introducing-yournextmp
+    title: 'Skills Matter : London Ruby User Group : Introducing YourNextMP'
+  how-to-help-beginners-learn-to-code:
+  - type: video
+    url: https://skillsmatter.com/skillscasts/6263-how-to-help-beginners-learn-to-code
+    title: 'Skills Matter : London Ruby User Group : How to help beginners learn to
+      code'
   the-weird-bits-of-ruby: []
-  sorting-out-colour: []
-  tech-evangelism: []
+  sorting-out-colour:
+  - type: video
+    url: https://skillsmatter.com/skillscasts/6261-sorting-out-colour
+    title: 'Skills Matter : London Ruby User Group : Sorting out Colour'
+  tech-evangelism:
+  - type: video
+    url: https://skillsmatter.com/skillscasts/6262-tech-evangelism
+    title: 'Skills Matter : London Ruby User Group : Tech Evangelism'
+  ruby:-the-weird-bits:
+    type: video
+    url: https://skillsmatter.com/skillscasts/6181-ruby-the-weird-bits
+    title: 'Skills Matter : London Ruby User Group : Ruby: The Weird Bits'
 march:
   exploring-to-proc:
   - type: slides
@@ -41,6 +80,15 @@ march:
     title: Data Structures as Functions (or, Implementing Set#to_proc and Hash#to_proc
       in Ruby)
   pkgr-packaging-ruby-applications-with-no-sweat: []
+  exploring-#to_proc:
+    type: video
+    url: https://skillsmatter.com/skillscasts/6282-exploring-to_proc
+    title: 'Skills Matter : London Ruby User Group : Exploring #to_proc'
+  pkgr---packaging-ruby-applications-with-no-sweat:
+    type: video
+    url: https://skillsmatter.com/skillscasts/6283-pkgr-packaging-ruby-applications-with-no-sweat
+    title: 'Skills Matter : London Ruby User Group : pkgr - Packaging Ruby applications
+      with no sweat'
 april:
   un-artificial-intelligence-how-people-learn:
   - type: video
@@ -50,21 +98,40 @@ april:
   - type: video
     url: https://skillsmatter.com/skillscasts/6344-the-new-mongodb-ruby-driver-2-0
     title: 'Skills Matter : Skills Cast : The shiny new mongo gem'
+  un-artificial-intelligence:-how-people-learn:
+    type: video
+    url: https://skillsmatter.com/skillscasts/6326-un-artificial-intelligence-how-people-learn
+    title: 'Skills Matter : London Ruby User Group : Un-artificial Intelligence: How
+      People Learn'
+  the-new-mongodb-ruby-driver-2.0:
+    type: video
+    url: https://skillsmatter.com/skillscasts/6344-the-new-mongodb-ruby-driver-2-0
+    title: 'Skills Matter : London Ruby User Group : The new MongoDB Ruby driver 2.0'
 may:
   rewriting-code-and-culture:
   - type: video
     url: https://skillsmatter.com/skillscasts/6383-rewriting-code-and-culture
     title: 'Skills Matter : Skillscast : Rewriting Code and Culture'
+  - type: video
+    url: https://skillsmatter.com/skillscasts/6383-rewriting-code-and-culture
+    title: 'Skills Matter : London Ruby User Group : Rewriting Code and Culture'
   rails-new-way-building-blocks-for-modern-rails-architecture:
   - type: video
     url: https://skillsmatter.com/skillscasts/6384-rails-new-way
     title: 'Skills Matter : Skillscast : Rails New Way - building blocks for modern
       Rails architecture'
+  rails-new-way:
+    type: video
+    url: https://skillsmatter.com/skillscasts/6384-rails-new-way
+    title: 'Skills Matter : London Ruby User Group : Rails New Way'
 june:
   ruby-magic:
   - type: video
     url: https://skillsmatter.com/skillscasts/6455-ruby-magic
     title: 'Skills Matter : Skillscast : Ruby Magic'
+  - type: video
+    url: https://skillsmatter.com/skillscasts/6455-ruby-magic
+    title: 'Skills Matter : London Ruby User Group : Ruby Magic'
   redis-is-the-answer-what-s-the-question:
   - type: video
     url: https://skillsmatter.com/skillscasts/6454-redis-is-the-answer-what-s-the-question
@@ -73,6 +140,14 @@ june:
   - type: video
     url: https://skillsmatter.com/skillscasts/6456-test-bisection-with-rspec
     title: 'Skills Matter : Skillscast : Test Bisection with RSpec'
+  - type: video
+    url: https://skillsmatter.com/skillscasts/6456-test-bisection-with-rspec
+    title: 'Skills Matter : London Ruby User Group : Test Bisection with RSpec'
+  redis-is-the-answer,-what's-the-question?:
+    type: video
+    url: https://skillsmatter.com/skillscasts/6454-redis-is-the-answer-what-s-the-question
+    title: 'Skills Matter : London Ruby User Group : Redis is the answer, what''s
+      the question?'
 july:
   flaky-tests-capybara-best-practices: []
   learning-how-to-learn-ruby-and-rails-and-sinatra-and: []
@@ -85,11 +160,23 @@ august:
   - type: video
     url: https://skillsmatter.com/skillscasts/6524-domain-driven-design-in-the-wild
     title: 'Skills Matter : Skillscast : Domain Driven Design, In the Wild'
+  hello,-declarative-world:
+    type: video
+    url: https://skillsmatter.com/skillscasts/6523-hello-declarative-world
+    title: 'Skills Matter : London Ruby User Group : Hello, declarative world'
+  domain-driven-design,-in-the-wild:
+    type: video
+    url: https://skillsmatter.com/skillscasts/6524-domain-driven-design-in-the-wild
+    title: 'Skills Matter : London Ruby User Group : Domain Driven Design, In the
+      Wild'
 september:
   learning-through-blameless-reviews:
   - type: video
     url: https://skillsmatter.com/skillscasts/6591-learning-through-blameless-reviews
     title: 'Skills Matter : Skillscast : Learning through blameless reviews'
+  - type: video
+    url: https://skillsmatter.com/skillscasts/6591-learning-through-blameless-reviews
+    title: 'Skills Matter : London Ruby User Group : Learning through blameless reviews'
   a-pull-request-slackbot-the-seal:
   - type: video
     url: https://skillsmatter.com/skillscasts/6584-how-to-onboard-junior-developers-well-by-tatiana-soukiassian
@@ -104,6 +191,14 @@ september:
   - type: video
     url: https://skillsmatter.com/skillscasts/6585-containers-patterns-for-rails
     title: Containers Patterns for Rails
+  - type: video
+    url: https://skillsmatter.com/skillscasts/6585-containers-patterns-for-rails
+    title: 'Skills Matter : London Ruby User Group : Containers Patterns for Rails'
+  a-pull-request-slackbot-:-the-seal:
+    type: video
+    url: https://skillsmatter.com/skillscasts/6584-how-to-onboard-junior-developers-well-by-tatiana-soukiassian
+    title: 'Skills Matter : London Ruby User Group : A pull request slackbot : the
+      seal'
 october:
   debugging-and-fixing-performance-issues-with-the-mustache-gem-and-partials:
   - type: slides
@@ -116,6 +211,10 @@ october:
   - type: write-up
     url: https://gdstechnology.blog.gov.uk/2015/06/09/major-performance-issue-with-mustache-and-partials/
     title: 'Technology at GDS : Major performance issue with Mustache and partials'
+  - type: video
+    url: https://skillsmatter.com/skillscasts/6598-debugging-and-fixing-performance-issues-with-the-mustache-gem-and-partials
+    title: 'Skills Matter : London Ruby User Group : Debugging and fixing performance
+      issues with the mustache gem and partials'
   activerecord-vs-n-1:
   - type: video
     url: https://skillsmatter.com/skillscasts/6731-activerecord-vs-n-1
@@ -124,6 +223,13 @@ october:
   - type: video
     url: https://skillsmatter.com/skillscasts/6732-api-first-banking
     title: 'Skills Matter : Skills Cast : API-first banking'
+  - type: video
+    url: https://skillsmatter.com/skillscasts/6732-api-first-banking
+    title: 'Skills Matter : London Ruby User Group : API-first banking'
+  activerecord-vs-n+1:
+    type: video
+    url: https://skillsmatter.com/skillscasts/6731-activerecord-vs-n-1
+    title: 'Skills Matter : London Ruby User Group : ActiveRecord vs N+1'
 november:
   hack-like-a-journalist:
   - type: video
@@ -131,16 +237,27 @@ november:
     title: 'Skills Matter : Skills Cast : Hack like a journalist'
   - type: slides
     url: https://speakerdeck.com/scottmatthewman/hack-like-a-journalist
-    title: 'Slides for Hack like a journalist'
+    title: Slides for Hack like a journalist
+  - type: video
+    url: https://skillsmatter.com/skillscasts/6984-hack-like-a-journalist
+    title: 'Skills Matter : London Ruby User Group : Hack like a journalist'
   leveraging-immutability-in-ruby:
   - type: video
     url: https://skillsmatter.com/skillscasts/7064-leveraging-immutability-in-ruby
     title: 'Skills Matter : Skills Cast : Leveraging immutability in Ruby'
+  - type: video
+    url: https://skillsmatter.com/skillscasts/7064-leveraging-immutability-in-ruby
+    title: 'Skills Matter : London Ruby User Group : Leveraging immutability in Ruby'
   no-man-s-land-finding-peace-at-the-border-of-art-and-tech:
   - type: video
     url: https://skillsmatter.com/skillscasts/7058-no-man-s-land-finding-peace-at-the-border-of-art-and-tech
     title: 'Skills Matter : Skills Cast : No-Man''s Land - Finding peace at the border
       of art and tech'
+  no-man’s-land---finding-peace-at-the-border-of-art-and-tech:
+    type: video
+    url: https://skillsmatter.com/skillscasts/7058-no-man-s-land-finding-peace-at-the-border-of-art-and-tech
+    title: 'Skills Matter : London Ruby User Group : No-Man’s Land - Finding peace
+      at the border of art and tech'
 december:
   festive-codewarsjam:
   - type: link
@@ -149,3 +266,7 @@ december:
   - type: video
     url: https://skillsmatter.com/skillscasts/7167-london-ruby-usergroup
     title: 'Skills Matter : Skills Cast : Festive Codewars Jam'
+  lrug---festive-codewarsjam:
+    type: video
+    url: https://skillsmatter.com/skillscasts/7167-london-ruby-usergroup
+    title: 'Skills Matter : London Ruby User Group : LRUG - Festive CodeWarsJam'
