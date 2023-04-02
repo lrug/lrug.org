@@ -31,6 +31,22 @@ lovely folk at [Cleo](https://web.meetcleo.com/) at their offices, in Shoreditch
 >
 > In this talk, we’ll misuse Ruby’s internals to build an arrow operator that lets us assign upwards. We’ll see some powerful Ruby metaprogramming features that allow us to bend Ruby to our will – and we’ll talk about why it’s good to write code that’s just plain daft.
 
+### Build a mini Ruby debugger in under 300 lines
+
+[Stan Lo](https://github.com/st0012) says:
+
+> As developers, we know that the best way to learn is by doing. Many of us have
+> built mini-rails, mini-sinatra, and even mini-rubies. But have you ever built
+> your own debugger?
+>
+> In this talk, I'll show you how to create a mini Ruby debugger that's both
+> powerful and fun to use. You'll learn how to:
+> - Run your program with debugger with a simple command
+> - Set breakpoints and through debugger commands
+> - Step through your code to find bugs
+>
+> And best of all, you'll do it all in under 300 lines of code!
+
 ## Afterwards
 
 Once we're done with the talks we'll leave the venue (after doing our best
