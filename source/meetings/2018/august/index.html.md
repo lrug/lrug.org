@@ -31,11 +31,15 @@ We've got three great talks for you in August:
 
 > I’ve been a developer for several years and throughout my career I’ve learned how to write clean, well-tested code. I’ve also discovered that sometimes writing the most beautiful poetic code can be horrendously slow when working with lots of data. What I really want is fast code. I know the topic of performance can seem intimidating at first - don’t worry I am by no means an expert in performance either! My talk isn't about compiler optimisation, multithreading, profilers, buffer management or cyclomatic complexity. In fact, what I’ve found is that optimising code doesn’t need to be more complicated than good old fashioned refactoring. Using a real problem that I encountered, my talk will take you through how I made slow code fast. Oh, and bunnies. Lots and lots of bunnies.
 
+{::coverage year="2018" month="august" talk="the-fast-and-the-furriest---performance-refactoring-with-bunnies" /}
+
 ## Data-driven dependency management
 
 [Grey Baker](https://twitter.com/greybaker)
 
 > How buggy / insecure are new gem releases? Analysis of 10 years of Rubysec data and 50,000 dependency updates PRs.
+
+{::coverage year="2018" month="august" talk="data-driven-dependency-management" /}
 
 ## Logic Programming with Ruby and Z3
 
@@ -43,6 +47,8 @@ We've got three great talks for you in August:
 
 > A lot of real problems can be described by a collection of mathematical equations. From sudoku to dependency resolution to verifying correctness of processors and cryptographic protocols.
 > [Z3](https://github.com/taw/z3) is a very powerful solver for such problems, and an elegant Ruby DSL is a great interface to it.
+
+{::coverage year="2018" month="august" talk="logic-programming-with-ruby-and-z3" /}
 
 ## Afterwards
 

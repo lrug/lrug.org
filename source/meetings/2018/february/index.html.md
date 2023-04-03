@@ -34,11 +34,15 @@ minutes.  This year our talks are:
 > harder to change and annoying to work with. There are human costs to these
 > decisions we make every day that have implications beyond the codebase.
 
+{::coverage year="2018" month="february" talk="the-human-cost-of-messy-code" /}
+
 ## Search Relevancy
 
 [Rosa Fox](https://twitter.com/rosaemerald) says:
 
 > A quick introduction to search result relevancy featuring GOV.UK.
+
+{::coverage year="2018" month="february" talk="search-relevancy" /}
 
 ## \_why Symbol#to\_proc works and more
 
@@ -47,16 +51,7 @@ minutes.  This year our talks are:
 > How `Symbol#to_proc` found its way into Ruby core, who put it there, ways it
 > can be extended, and a crude drawing of a fish.
 
-## Software Development – a view from the Boardroom
-
-[Alan Buxton](https://twitter.com/alanbuxton) says:
-
-> Chances are you are building software for a business to use or sell, or both.
-> It’s likely that there is a board of directors involved making decisions that
-> affect you and your software. This talk aims to give you a personal insight
-> into what it’s like to be a CTO on a startup’s board in the hope that it
-> gives you another perspective on ‘the business’ and helps you become a more
-> rounded developer.
+{::coverage year="2018" month="february" talk="_why-symbol#to_proc-works-and-more" /}
 
 ## Introduction to Active Storage
 
@@ -66,6 +61,8 @@ minutes.  This year our talks are:
 > in Rails applications. How to install Active Storage and integrate it with
 > cloud services like Amazon S3. Comparison to the existing file upload
 > solutions.
+
+{::coverage year="2018" month="february" talk="introduction-to-active-storage" /}
 
 ## Things I wish I'd known about Ruby Gems
 
@@ -77,6 +74,8 @@ minutes.  This year our talks are:
 > works, how to debug errors coming from a gem you're using and how to make your
 > own gem.
 
+{::coverage year="2018" month="february" talk="things-i-wish-i'd-known-about-ruby-gems" /}
+
 ## Increase your quality of life: An RSpec primer
 
 [Elena Tanasoiu](https://twitter.com/elenatanasoiu) says:
@@ -85,6 +84,8 @@ minutes.  This year our talks are:
 > here to offer you a short but sweet look into Rspec and what it can do. It’s
 > a list of nice to knows, but did you actually know them? Based on [“Effective
 > testing with Rspec 3” by Myron Marston and Ian Dees](https://pragprog.com/book/rspec3/effective-testing-with-rspec-3)
+
+{::coverage year="2018" month="february" talk="increase-your-quality-of-life:-an-rspec-primer" /}
 
 ## Git commit signing: Code we can trust?
 
@@ -101,6 +102,8 @@ minutes.  This year our talks are:
 >
 > It turns out Git has a cool feature that can help us trust the code we deploy.
 > We'll discuss Git Commit Signing, how it can help us, and what downsides it may have.
+
+{::coverage year="2018" month="february" talk="git-commit-signing:-code-we-can-trust?" /}
 
 ## Afterwards
 

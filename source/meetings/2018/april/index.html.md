@@ -33,6 +33,8 @@ and registration details are given below](#apr18registration).
 > is either missing or makes no sense. How can we make little changes to the
 > way we think about documentation to make things better?
 
+{::coverage year="2018" month="april" talk="you’re-doing-documentation-wrong-(and-so-am-i)" /}
+
 ### Sliding Puzzles
 
 [Chris Patuzzo](https://twitter.com/chrispatuzzo) says:
@@ -40,6 +42,8 @@ and registration details are given below](#apr18registration).
 > Did you ever play with one of those cheap plastic-y tile puzzles as a
 > child? Let's try to solve them with Ruby and use that as an excuse to talk
 > about combinatorics, complexity theory and proof.
+
+{::coverage year="2018" month="april" talk="sliding-puzzles" /}
 
 ### Scaling millions of jobs with Enumerators
 
@@ -50,6 +54,8 @@ and registration details are given below](#apr18registration).
 > that we use every day (Rails). Join the talk to learn how we’ve used
 > Enumerators to scale millions of background jobs at Shopify and how it
 > influenced the way developers think when writing resilient code.
+
+{::coverage year="2018" month="april" talk="scaling-millions-of-jobs-with-enumerators" /}
 
 ## Drinks Sponsor
 

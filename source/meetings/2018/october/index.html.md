@@ -30,16 +30,22 @@ We've got three great talks for you in October:
 
 > How do programming languages deal with the rules of languages? And what happens if these rules change?
 
+{::coverage year="2018" month="october" talk="unicode-spaß" /}
+
 
 ## hubbaDDDo
 [Stanisław Klajn](https://skillsmatter.com/members/broisatse)
 
 > Hubbado is an online, community-driven job marketplace. We'd like to share how we explore our domain of job-matching and use the resulting domain knowledge to improve our system design. We will also cover some techniques of extracting domain logic within existing Rails application using Trailblazer and service objects as well as some patterns we are trying out to reduce coupling in relatively large application like CQRS with Event Sourcing.
 
+{::coverage year="2018" month="october" talk="hubbadddo" /}
+
 ## Interface incantations
 [Jo Pearce](https://twitter.com/jdpearce)
 
 > According to the witches of Terry Pratchett’s Discworld, most magic is simply headology. This talk will mix literary references and outline the headology of interface design, from basic charms and illusions that fool and entice us to the unforgivable curses that can shape our thinking and behaviour.
+
+{::coverage year="2018" month="october" talk="interface-incantations" /}
 
 
 ## Afterwards

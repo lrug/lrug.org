@@ -36,6 +36,8 @@ registration details are given below](#nov18registration).
 > in a complex ecosystem that contains both established banking institutions and
 > fintech startups.
 
+{::coverage year="2018" month="november" talk="open-banking---from-scraping-to-apis" /}
+
 ## Ruby HomeKit
 
 [Karl Entwistle](https://twitter.com/karlentwistle):
@@ -43,6 +45,8 @@ registration details are given below](#nov18registration).
 > A lightning talk about how I implemented [the HomeKit Accessory Protocol in
 > Ruby](https://github.com/karlentwistle/ruby_home). A set of protocols and
 > libraries to access devices for home automation on iOS.
+
+{::coverage year="2018" month="november" talk="automate-your-home-with-ruby" /}
 
 ## Most valuable employee traits from a business owner perspective
 
@@ -53,6 +57,8 @@ registration details are given below](#nov18registration).
 > well as personal development at the current position as well as for the future
 > ones? This talk will give insight on the business side of the
 > employer-employee relationship.
+
+{::coverage year="2018" month="november" talk="most-valuable-employee-traits-from-a-business-owner-perspective" /}
 
 ### Food!
 

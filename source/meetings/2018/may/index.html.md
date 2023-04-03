@@ -36,6 +36,8 @@ We've got three great talks for you in May:
 > gives you another perspective on ‘the business’ and helps you become a more
 > rounded developer.
 
+{::coverage year="2018" month="may" talk="software-development-–-a-view-from-the-boardroom" /}
+
 ## An Introduction to Event Sourcing
 
 [Alfredo Motta](https://twitter.com/mottalrd)
@@ -51,6 +53,8 @@ We've got three great talks for you in May:
 > some of the tradeoffs and challenges you might find and how you could start 
 > experimenting with it.
 
+{::coverage year="2018" month="may" talk="an-introduction-to-event-sourcing" /}
+
 ## On Writing <%= code %>
 
 [Elliot Hilaire](https://twitter.com/elliotthilaire)
@@ -59,6 +63,8 @@ We've got three great talks for you in May:
 > writing goes back more than 5000 years. So, what can we learn from people who
 > study writing? This talk explores concepts from three books about writing and 
 > applies them to coding.
+
+{::coverage year="2018" month="may" talk="on-writing-<%=-code-%>" /}
 
 ## Afterwards
 
