@@ -20,13 +20,13 @@ The next meeting of LRUG will be on Monday the 12th of January, from 6:30pm to 8
 
 [Paul Carey](http://pa.ulcarey.com/) has been tinkering with [CouchDB](http://couchdb.apache.org/) for a while and has even written a ruby library called [RelaxDB](http://github.com/paulcarey/relaxdb/) for it.  In his talk he's going to cover both of those things.
 
-A video of Paul's talk, filmed by [Skills Matter](http://skillsmatter.com/podcast/ajax-ria/lrug-january) is available on [Google Video](http://video.google.com/videoplay?docid=-2169461626544475602&hl=en).
+{::coverage year="2009" month="january" talk="couch-db" /}
 
 ### Abstractions For Website APIs
 
 [Paul Mison](http://husk.org/) is going to do a short talk on libraries and abstractions for website APIs.  Specifically how he thinks they should be written (and how he thinks they shouldn't be).  The talk will mostly focus on [Flickr](http://flickr.com/), so an understanding of [Flickr's API](http://www.flickr.com/services/api/) and the [existing abstractions](http://www.google.co.uk/search?hl=en&q=flickr+api+ruby) might be of use.
 
-A video of Paul's talk, filmed by [Skills Matter](http://skillsmatter.com/podcast/ajax-ria/abstractions-for-website-apis) is available on [Google Video](http://video.google.com/videoplay?docid=8266557515860595758&hl=en).
+{::coverage year="2009" month="january" talk="abstractions-for-website-apis" /}
 
 
 ### Pub

@@ -20,6 +20,8 @@ The next meeting of LRUG will be on Monday the 18th of May, from 6:30pm to 8:00p
 
 [Sean O'Halpin](http://seanohalpin.github.com/) will be talking about [Ruby FFI](http://kenai.com/projects/ruby-ffi), probably using his [FFI-ncurses](http://github.com/seanohalpin/ffi-ncurses/) gem to provide some examples.
 
+{::coverage year="2009" month="may" talk="ruby-ffi" /}
+
 ### Treetop
 
 [Roland Swingler](http://knaveofdiamonds.tumblr.com/) has been looking at [Treetop](http://treetop.rubyforge.org/):
@@ -32,7 +34,7 @@ The next meeting of LRUG will be on Monday the 18th of May, from 6:30pm to 8:00p
 > mini-language from scratch to build XMPP bots, and using it as part of
 > your screen-scraping toolbox.
 
-A video of Roland's talk is available on the [Skills Matter site](http://skillsmatter.com/podcast/ajax-ria/treetop).
+{::coverage year="2009" month="may" talk="treetop" /}
 
 ### Scheme
 
@@ -49,7 +51,7 @@ A video of Roland's talk is available on the [Skills Matter site](http://skillsm
 > includes booleans, integer arithmetic, variables, user-defined functions,
 > conditionals, recursion and lexical closures.
 
-A video of James' talk is available on the [Skills Matter site](http://skillsmatter.com/podcast/ajax-ria/implementing-scheme-in-ruby).
+{::coverage year="2009" month="may" talk="implementing-scheme-in-ruby" /}
 
 ## Pub
 

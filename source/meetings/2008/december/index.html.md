@@ -24,15 +24,13 @@ The next meeting of LRUG will be on Monday the 8th of December, from 6:30pm to 8
 
 [Chris O'Sullivan](http://thechrisoshow.com/) loves testing, and it's been eating away at him that he can't test the javascript he writes for his rails apps.  In this talk he'll be showing off how he finally worked out how to test this stuff and return to the shores of Testingland.
 
-A video of Chris's talk, filmed by [Skills Matter](http://skillsmatter.com/podcast/ajax-ria/javascript-testing) is available on [Google Video](http://video.google.com/videoplay?docid=3708135635111089912&hl=en).
+{::coverage year="2008" month="december" talk="javascript-testing" /}
 
 ### Ruby Vs. The World
 
 <a href="http://www.flickr.com/photos/snowblink/3096183996/" title="Matthew (R0012230) by snowblink, on Flickr"><img src="http://farm4.static.flickr.com/3060/3096183996_52994ea89b.jpg" width="500" height="375" alt="Matthew (R0012230)" /></a>
 
 [Matthew Rudy Jacobs](http://matthewrudy.com/) has been comparing Ruby against how other languages do similar things.  In this talk he's going to present his findings and suggest some things that as Rubyists we might learn from our alternate language using brethren.  
-
-A video of Matthew's talk, filmed by [Skills Matter](http://skillsmatter.com/podcast/ajax-ria/ruby-vs-the-world) is available on [Google Video](http://video.google.com/videoplay?docid=134589307988772388&hl=en).
 
 ## Pub
 

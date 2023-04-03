@@ -34,7 +34,7 @@ The next meeting of LRUG will be on Wednesday the 12th of August, from 6:30pm to
 > are a bit of information-overload. So I thought I could give a talk on
 > how to set them up - where/how to use them and what they can do for you.
 
-A video of Taryn's talk is available on the [Skills Matter site](http://skillsmatter.com/podcast/ajax-ria/making-your-rails-app-kick-ass-with-ruby-prof-and-kcachegrind).
+{::coverage year="2009" month="august" talk="making-your-rails-app-kick-ass-with-ruby-prof-and-kcachegrind" /}
 
 ### AMQP in Ruby
 
@@ -48,7 +48,7 @@ A video of Taryn's talk is available on the [Skills Matter site](http://skillsma
 
 If he's finished writing it, [Gerhard Lazu](http://www.gerhardlazu.com/) will do a demo of a app for buffering [ICY streams](http://en.wikipedia.org/wiki/SHOUTcast) using AMQP.
 
-A video of Alex's talk is available on the [Skills Matter site](http://skillsmatter.com/podcast/ajax-ria/amqp-in-ruby).
+{::coverage year="2009" month="august" talk="amqp-in-ruby" /}
 
 ### <strike>Heroku (maybe)</strike>
 
