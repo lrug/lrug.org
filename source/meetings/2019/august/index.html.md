@@ -34,6 +34,8 @@ registration details are given below](#aug19registration).
 > help overcome them. I will also share with you insight into the future
 > plans regarding the Spree framework.
 
+{::coverage year="2019" month="august" talk="spree-commerce:-how-to-run-an-ecommerce-platform?" /}
+
 ### Pattern matching in ruby 2.7
 
 [Frederick Cheung](https://twitter.com/fglc2):
@@ -42,6 +44,8 @@ registration details are given below](#aug19registration).
 > let’s take a sneak peak at how it looks and how it compares to other
 > languages implementation of it.
 
+{::coverage year="2019" month="august" talk="pattern-matching-in-ruby-2.7" /}
+
 ### Reuse your government's code
 
 [Tijmen Brommet](https://twitter.com/tijmenbr)
@@ -49,6 +53,8 @@ registration details are given below](#aug19registration).
 > Developers on GOV.UK have been coding in the open for the last 8 years.
 > In this talk we'll talk you through 10 things that you could use, copy
 > or learn from GOV.UK 's public GitHub repos.
+
+{::coverage year="2019" month="august" talk="reuse-your-government's-code" /}
 
 ## Afterwards
 

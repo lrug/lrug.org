@@ -31,11 +31,15 @@ registration details are given below](#jul19registration).
 
 >  Using AWS and Google Cloud, we will then dive in to demo and examples to show you how to get started and the true potentials of serverless - plus tons of facts about coconuts Until last year the support for Ruby in the world of FAAS was next to non-existent, now that AWS Lambda has officially started supporting Ruby, I want to catch up any Rubyists who are not yet familiar with the technology, so it can be another tool for the toolbox.
 
+{::coverage year="2019" month="july" talk="what-does-a-coconut-and-serverless-have-in-common?" /}
+
 ### Small Tech Teams
 
 [Tim Diggins](https://twitter.com/timdiggins):
 
 > When I read the tech process literature I feel it's very interesting but it's often about quite a different universe from the world of working on small/tiny tech teams (teams with 1-3 developers/testers/architects/designers). Does that mean that the processes they talk about are only applicable to larger teams? Or maybe that small tech teams don't have the problems that these processes aim to solve. In this talk I want to start to unpick some of this, with the help of 40+ volunteers (thanks for your survey responses).
+
+{::coverage year="2019" month="july" talk="small-tech-teams" /}
 
 ### Automating AWS Infrastructure for Rails Applications
 
@@ -43,6 +47,7 @@ registration details are given below](#jul19registration).
 
 > In this talk I'll walk you through how to build a Cloud66 clone, a DevOps platform that's gaining ground in the Rails community. Wouldn't it be nice to provide a service with a Github link and have all the AWS infrastructure (EC2 servers, load balancers, databases etc) set up for you whilst you grind your coffee beans. Come to this talk to find out how easy that actually is. 
 
+{::coverage year="2019" month="july" talk="automating-aws-infrastructure-for-rails-applications" /}
 
 ## Afterwards
 

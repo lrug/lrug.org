@@ -29,11 +29,15 @@ registration details are given below](#apr19registration).
 
 >In this talk I'm going to explain mutation testing and how it helped me be more confident about my Ruby code, and also how to write better Ruby in the future.
 
+{::coverage year="2019" month="april" talk="improve-confidence-in-your-code-with-mutation-testing" /}
+
 ## Giving my enemies a voice
 
 [Shen Sat](https://twitter.com/shen_sat):
 
 >I'm remaking a classic boxing video game, with a twist: the narrative is defined through the hopes, dreams and desires of the player's opponents, not the player themselves. I'll be talking about flipping enemy design in games on its head, as well as demoing a key part of my boxing game: the trash-talk engine!
+
+{::coverage year="2019" month="april" talk="giving-my-enemies-a-voice" /}
 
 ## Afterwards
 

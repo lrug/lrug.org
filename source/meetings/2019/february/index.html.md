@@ -40,12 +40,16 @@ than 10 minutes.
 > from existing alternatives that you should really have it under your
 > radar.
 
+{::coverage year="2019" month="february" talk="a-different-take-on-validation-using-the-dry-validation-gem" /}
+
 #### Capybara architecture overview
 
 [Ben Holmes](http://benholmes.uk/):
 
 > We'll briefly review the implementation of [Capybara's
 > DSL](https://github.com/teamcapybara/capybara) for browser testing.
+
+{::coverage year="2019" month="february" talk="capybara-architecture-overview" /}
 
 #### Automating Infrastructure Tasks with the Serverless Framework
 
@@ -54,12 +58,16 @@ than 10 minutes.
 > How to leverage serverless tools to help you manage parts of your
 > infrastructure
 
+{::coverage year="2019" month="february" talk="automating-infrastructure-tasks-with-the-serverless-framework" /}
+
 #### Using Rails with a Content Distribution Network (CDN)
 
 [Gideon Goldberg](https://twitter.com/gidsg):
 
 > What is a CDN? Why use one? What support does Rails provide
 > out-of-the-box and what customisations can you make to do more?
+
+{::coverage year="2019" month="february" talk="using-rails-with-a-content-distribution-network-(cdn)" /}
 
 #### A developer and a designer, getting along famously
 
@@ -71,12 +79,16 @@ than 10 minutes.
 > more complex problems. When we collaborate every day, nothing can stop
 > us.
 
+{::coverage year="2019" month="february" talk="a-developer-and-a-designer,-getting-along-famously" /}
+
 #### Humans are hard
 
 [Matthew Rudy Jacobs](https://twitter.com/matthewrudy):
 
 > Lessons learned from the past decade of coding, learning to understand
 > and work with people.
+
+{::coverage year="2019" month="february" talk="humans-are-hard" /}
 
 #### How to craft your commit history
 
@@ -88,6 +100,8 @@ than 10 minutes.
 > interactive --autosquash`, refer to your commits using `:/keyword`
 > instead of their SHA, and other exciting things!
 
+{::coverage year="2019" month="february" talk="how-to-craft-your-commit-history" /}
+
 #### Using ActiveRecord types for backwards compatibility
 
 [Alex Balhatchet](https://twitter.com/kaokun)
@@ -95,6 +109,8 @@ than 10 minutes.
 > How the CharlieHR team handled a tricky change by using a custom 
 > ActiveRecord type as a temporary backwards compatibility layer between 
 > the code and the database.
+
+{::coverage year="2019" month="february" talk="using-activerecord-types-for-backwards-compatibility" /}
 
 ## Afterwards
 
