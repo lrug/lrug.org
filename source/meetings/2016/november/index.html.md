@@ -38,6 +38,8 @@ are given below](#nov16registration).
 > identify some of the costs and suggest ways of reducing them. Hint: write
 > less code in the first place.
 
+{::coverage year="2016" month="november" talk="the-invisible-cost-of-code" /}
+
 ### AWS Elastic Beanstalk & Docker for Rails developers.
 
 [Tomas Valent](https://twitter.com/equivalent8) says:
@@ -49,6 +51,8 @@ are given below](#nov16registration).
 > and ship it to AWS EB setup.  We will look at some awesome configuration
 > options.
 
+{::coverage year="2016" month="november" talk="aws-elastic-beanstalk-&-docker-for-rails-developers" /}
+
 ### Where does my code go? - Rails Edition
 
 Michael Lennox says:
@@ -59,6 +63,8 @@ Michael Lennox says:
 > 'architecture astronaut' or fighting rails to implement 'better' patterns,
 > it's a really basic intro to some of the layers you can implement tomorrow
 > to compartmentalise your code without having to fight the framework.
+
+{::coverage year="2016" month="november" talk="where-does-my-code-go?" /}
 
 ### Food and Drinks
 

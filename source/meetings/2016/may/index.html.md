@@ -59,6 +59,8 @@ The May 2016 meeting of LRUG will be on *Monday the 9th of May*, from 6:00pm to 
 > application on AWS. We've been able to replace a bunch of terraform +
 > chef/ansible scripts and use Docker in production without the headache.
 
+{::coverage year="2016" month="may" talk="convox:-painless-deployment-of-docker-on-aws" /}
+
 ### Ticket Giveaway
 
 {::sponsor name="Pusher" size="main" /}
