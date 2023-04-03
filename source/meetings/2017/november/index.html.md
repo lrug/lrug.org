@@ -34,12 +34,16 @@ given below](#nov17registration).
 > evolved, and how it currently works atop git and GitHub to make open
 > source workflows democratic and accessible by non-developers.
 
+{::coverage year="2017" month="november" talk="openpolitics:-making-policy-with-open-source-ideas" /}
+
 ### Mock objects: delicious and addictive
 
 [Duncan Brown](https://twitter.com/duncanjbrown) says:
 
 > You must mock, but where do you begin? Where do you end? And how do you know > when to stop? A cautionary tale. I will talk about the mocking library
 > [stripe-ruby-mock](https://github.com/rebelidealist/stripe-ruby-mock).
+
+{::coverage year="2017" month="november" talk="mock-objects:-delicious-and-addictive" /}
 
 ### 5 ways to keep docs up to date
 
@@ -51,6 +55,8 @@ given below](#nov17registration).
 > cycle for GOV.UK's internal developer documentation. I'll cover what
 > we tried, what works & what doesn't, and how to employ a punny chat
 > bot to help you.
+
+{::coverage year="2017" month="november" talk="5-ways-to-keep-docs-up-to-date" /}
 
 ## Afterwards
 

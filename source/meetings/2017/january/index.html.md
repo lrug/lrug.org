@@ -33,6 +33,8 @@ are given below](#jan17registration).
 > to learn for the business to survive, and things you can do to better
 > understand business, whether or not you intend to start one yourself.
 
+{::coverage year="2017" month="january" talk="a-developers-misadventures-in-business" /}
+
 ### A guide to connascence
 
 [Tom Cartwright](https://twitter.com/tomcartwrightuk) says:
@@ -41,6 +43,8 @@ are given below](#jan17registration).
 > the types and strengths of coupling within a system. I will show you how to
 > assess connascence and I'll suggest how using the metric can help you improve
 > the quality of your code.
+
+{::coverage year="2017" month="january" talk="a-guide-to-connascence" /}
 
 ## Afterwards
 

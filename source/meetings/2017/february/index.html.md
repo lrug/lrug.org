@@ -37,12 +37,16 @@ no more than 10 minutes.  This year we have:
 > report can be a powerful trigger for changing technology, process, and even
 > yourself.
 
+{::coverage year="2017" month="february" talk="dependency-injection-with-little-boxes" /}
+
 ### Doing bad things in Postgres for fun and profit
 
 [Ryan MacGillivray](https://twitter.com/RyanMacG) says:
 
 > A brief glimpse at the unwise things you can do with the Postgres array
 > datatype.
+
+{::coverage year="2017" month="february" talk="dependency-injection-with-little-boxes" /}
 
 ### A (Pointed) Guide to Beer
 
@@ -51,6 +55,8 @@ no more than 10 minutes.  This year we have:
 > There are hundreds of beer styles from all over the world. This very brief
 > introduction to beer will enumerate a few of them: how they’re made, what
 > they taste like, and when to drink them.
+
+{::coverage year="2017" month="february" talk="dependency-injection-with-little-boxes" /}
 
 ### Logstash: JRuby and Java at Elastic
 
@@ -94,6 +100,8 @@ Rosa has had to cancel due to illness, we hope to reschedule her talk for a late
 > A few examples and techniques for avoiding mutable state in Ruby, and
 > how this might make your code clearer and easier to test. Slightly
 > inspired by getting more into functional programming languages.
+
+{::coverage year="2017" month="february" talk="london-ruby-lightning-talks" /}
 
 ## Afterwards
 

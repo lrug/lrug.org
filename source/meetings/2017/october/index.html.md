@@ -30,6 +30,8 @@ given below](#oct17registration).
 > violinist and Makers Academy alumna to promote practices that lead to code
 > that’s well-designed, extensible, easy to debug, and enjoyable to write.
 
+{::coverage year="2017" month="october" talk="work-smart,-not-hard" /}
+
 ### Splitting strings
 
 [Chris Zetter](https://twitter.com/czetter) says:
@@ -37,12 +39,16 @@ given below](#oct17registration).
 > I'll be talking about a bug I caused that led me on a journey of software
 > archaeology. I'll be sharing what I discovered along the way.
 
+{::coverage year="2017" month="october" talk="splitting-strings" /}
+
 ### Making a Ruby with Lisp Syntax
 
 [Emily Woods](https://twitter.com/emily_m_woods) says:
 
 > I'll be discussing compiler design and sharing my experiences of designing a
 > Lisp-like language which compiles to Ruby.
+
+{::coverage year="2017" month="october" talk="making-a-ruby-with-lisp-syntax" /}
 
 ## Afterwards
 

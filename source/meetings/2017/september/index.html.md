@@ -35,6 +35,8 @@ given below](#sep17registration).
 > make computers do what they do best and at the same time keep us humans
 > in control.
 
+{::coverage year="2017" month="september" talk="let-humans-human-and-computers-computer---a-tale-of-building-effective-automations" /}
+
 
 ### Hindsight: Creating the Perfect Project History
 
@@ -45,6 +47,7 @@ given below](#sep17registration).
 > tools. How would you have built your app if you knew from the start
 > everything you know now.
 
+{::coverage year="2017" month="september" talk="hindsight:-creating-the-perfect-project-history" /}
 
 ### A Trip Back to Where I Grew Up
 
@@ -54,6 +57,7 @@ given below](#sep17registration).
 > find that things had changed for the better, and wants to share his
 > story.
 
+{::coverage year="2017" month="september" talk="a-trip-back-to-where-i-grew-up" /}
 
 ## Afterwards
 

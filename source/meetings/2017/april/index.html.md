@@ -41,6 +41,7 @@ our community:
 > to compile & deploy a non-Rails app, moving from CoffeeScript to ES6, and
 > whether the Asset Pipeline is a good fit for such an app.
 
+{::coverage year="2017" month="april" talk="mobile-journey-at-freeagent" /}
 
 ### Live Coding
 
@@ -49,6 +50,7 @@ our community:
 > A whirlwind exploration of how ’going live’ either online (all the rage on
 > social media!) or in the flesh is being applied to coding.
 
+{::coverage year="2017" month="april" talk="live-coding" /}
 
 ### Practical hypermedia APIs in Ruby
 
@@ -57,6 +59,8 @@ our community:
 > Ismael will share their experience building hypermedia APIs in Ruby.
 > What matters, what doesn’t, and what implications the approach might have
 > on the way you design server code, client implementations and documentation.
+
+{::coverage year="2017" month="april" talk="practical-hypermedia-apis-in-ruby" /}
 
 ### Ticket Giveaway
 
