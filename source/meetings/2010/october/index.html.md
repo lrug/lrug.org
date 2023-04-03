@@ -38,7 +38,7 @@ evil in the world, head along to this self help group. It would be
 great if people could share some of the ideas you have brewing in your
 mind before hand. Just get in touch with [Joseph directly](http://twitter.com/josephwilk) or [via the LRUG mailing list](/mailing-list) and help make this a Cuketastic (sorry) workshop!
 
-A video of parts of this workshop, filmed by Skills Matter, [is available on the Skills Matter site](http://skillsmatter.com/podcast/ajax-ria/cucumber-workshop).
+{::coverage year="2010" month="october" talk="cucumber-workshop" /}
 
 ### "Analogue Blog"
 

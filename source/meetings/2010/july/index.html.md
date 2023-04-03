@@ -46,7 +46,7 @@ The July meeting will be on *Monday* the 12th of July, from 6:30pm to 8:00pm.  O
 
 For those who like spoilers you can see [the code on github](http://github.com/jonleighton/carat) and read [Jonathan's final year report about the project](http://dump.jonathanleighton.com/project.pdf)
 
-A video of Jonathan's talk, filmed by Skills Matter, [is available on the Skills Matter site](http://skillsmatter.com/podcast/ajax-ria/carat-an-interpreted-language-written-in-ruby).
+{::coverage year="2010" month="july" talk="carat:-an-interpreted-language,-written-in-ruby" /}
 
 ### ActionEmbedding
 
@@ -59,7 +59,7 @@ A video of Jonathan's talk, filmed by Skills Matter, [is available on the Skills
 > between them. I'll try to explain why I think this is a good idea, show
 > you what the plugin can do at the moment and talk about how I see it evolving.
 
-A video of Phil's talk, filmed by Skills Matter, [is available on the Skills Matter site](http://skillsmatter.com/podcast/ajax-ria/actionembedding).
+{::coverage year="2010" month="july" talk="actionembedding" /}
 
 ### "Analogue Blog"
 

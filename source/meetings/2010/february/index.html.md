@@ -34,7 +34,7 @@ The current line-up of 20x20-ers is as follows:
 
 > Paul will talk to us about Rails & iPhone integration.
 
-{:coverage year="2010" month="february" talk="rails-and-iphone-integration" /}
+{::coverage year="2010" month="february" talk="rails-and-iphone-integration" /}
 
 #### Using Websockets with EventMachine
 
@@ -43,7 +43,7 @@ The current line-up of 20x20-ers is as follows:
 > Using [Websockets](http://dev.w3.org/html5/websockets/) with
 > [EventMachine](http://rubyeventmachine.com/).
 
-{:coverage year="2010" month="february" talk="using-websockets-with-eventmachibne" /}
+{::coverage year="2010" month="february" talk="using-websockets-with-eventmachine" /}
 
 #### Show Off!
 
@@ -52,7 +52,7 @@ The current line-up of 20x20-ers is as follows:
 > Joel will talk about [Show Off](http://github.com/schacon/showoff/);
 > ruby-based HTML presentation software (this talk might get a bit meta).
 
-{:coverage year="2010" month="february" talk="show-off" /}
+{::coverage year="2010" month="february" talk="show-off" /}
 
 #### Evolution of data models in rails
 
@@ -60,7 +60,7 @@ The current line-up of 20x20-ers is as follows:
 
 > Evolution of data models in Rails. Lessons learned.
 
-{:coverage year="2010" month="february" talk="evolution-of-data-models-in-rails" /}
+{::coverage year="2010" month="february" talk="evolution-of-data-models-in-rails" /}
 
 #### Bowline - a ruby GUI framework
 
@@ -69,7 +69,7 @@ The current line-up of 20x20-ers is as follows:
 > [Bowline](http://github.com/maccman/bowline) - Alex has been building a
 > ruby GUI framework and wants to show it off.
 
-{:coverage year="2010" month="february" talk="bowline" /}
+{::coverage year="2010" month="february" talk="bowline" /}
 
 #### An intro to birdpie.com
 
@@ -79,7 +79,7 @@ The current line-up of 20x20-ers is as follows:
 > the architecture behind it; [Rails 3.0](http://rubyonrails.org/),
 > [Redis](http://code.google.com/p/redis/), and [Resque](http://github.com/defunkt/resque).
 
-{:coverage year="2010" month="february" talk="intro-to-birdpie" /}
+{::coverage year="2010" month="february" talk="intro-to-birdpie" /}
 
 #### Rack::Cache
 
@@ -87,7 +87,7 @@ The current line-up of 20x20-ers is as follows:
 
 > All about [Rack::Cache](http://tomayko.com/src/rack-cache/) and associated things.
 
-{:coverage year="2010" month="february" talk="rack-cache" /}
+{::coverage year="2010" month="february" talk="rack-cache" /}
 
 #### Decorating the domain
 
@@ -95,7 +95,7 @@ The current line-up of 20x20-ers is as follows:
 
 > Decorating the domain - Wrapping polymorphic presentation logic around the model.
 
-{:coverage year="2010" month="february" talk="decorating-the-domain" /}
+{::coverage year="2010" month="february" talk="decorating-the-domain" /}
 
 #### Some rough fibrous material
 
@@ -103,7 +103,7 @@ The current line-up of 20x20-ers is as follows:
 
 > The mailing list suggested that Murray talk about [Fibers in Ruby 1.9](http://ruby-doc.org/core-1.9/classes/Fiber.html).
 
-{:coverage year="2010" month="february" talk="some-rough-fibrous-material" /}
+{::coverage year="2010" month="february" talk="some-rough-fibrous-material" /}
 
 
 ### "Analogue Blog"

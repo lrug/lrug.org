@@ -40,13 +40,15 @@ The September meeting will be on *Monday* the 13th of September, from 6:30pm to 
 > Nothing too fancy but should be useful for developing your next Rails
 > 3 project.
 
-A video of Priit's talk, filmed by Skills Matter, [is available on the Skills Matter site](http://skillsmatter.com/podcast/ajax-ria/rails-3-internals).
+{::coverage year="2010" month="september" talk="rails-3-internals" /}
 
 ### Asynchronous interfaces
 
 [Alex MacCaw](http://www.eribium.org/) will talk about moving state to the client side as opposed to the more traditional request/response model.  He'll go through the various options, such as [Syncro](http://github.com/maccman/syncro) (the successor to Juggernaut), and [SuperApp](http://github.com/maccman/superapp) (his JS framework).
 
 A video of Alex's talk, filmed by Skills Matter, [is avaialable on the Skills Matter site](http://skillsmatter.com/podcast/ajax-ria/asynchronous-interfaces).
+
+{::coverage year="2010" month="september" talk="asynchronous-interfaces" /}
 
 ### "Analogue Blog"
 

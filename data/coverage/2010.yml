@@ -42,6 +42,16 @@ february:
   - type: video
     url: https://skillsmatter.com/skillscasts/1247-fibers-in-ruby-1-9
     title: 'Skills Matter : Skills Cast : Fibers in Ruby 1.9'
+may:
+  tokyo-cabinet,-tokyo-tyrant-and-kyoto-cabinet:-the-world-of-mikio-ware:
+  - type: video
+    url: https://skillsmatter.com/skillscasts/1402-makoto-inoue-tokyo-cabinet-tokyo-tyrant-kyoto-cabinet-mikio-ware
+    title: 'Skills Matter : London Ruby User Group : Tokyo Cabinet, Tokyo Tyrant and
+      Kyoto Cabinet: the World of Mikio Ware'
+  ruby-profilers:
+  - type: video
+    url: https://skillsmatter.com/skillscasts/1407-daniel-lucraft-ruby-profilers
+    title: 'Skills Matter : London Ruby User Group : Ruby Profilers'
 june:
   my-first-ruby:
   - type: transcript
@@ -58,64 +68,54 @@ june:
     url: https://skillsmatter.com/skillscasts/1428-unix-rediscovering-the-wheel
     title: 'Skills Matter : Skills Cast : UNIX: Rediscovering the wheel'
   unix:-rediscovering-the-wheel:
-    type: video
+  - type: video
     url: https://skillsmatter.com/skillscasts/1428-unix-rediscovering-the-wheel
     title: 'Skills Matter : London Ruby User Group : UNIX: Rediscovering the wheel'
-december:
-  japanese-and-ruby:
-    type: video
-    url: https://skillsmatter.com/skillscasts/1803-japanese-and-ruby
-    title: 'Skills Matter : London Ruby User Group : Japanese and Ruby'
-november:
-  using-git-hooks-for-staging-and-production:
-    type: video
-    url: https://skillsmatter.com/skillscasts/1742-using-git-hooks-for-staging-and-production
-    title: 'Skills Matter : London Ruby User Group : Using git hooks for staging and
-      production'
-  more-websockets:
-    type: video
-    url: https://skillsmatter.com/skillscasts/1743-more-websockets
-    title: 'Skills Matter : London Ruby User Group : More Websockets'
-october:
-  cucumber-workshop:
-    type: video
-    url: https://skillsmatter.com/skillscasts/1598-cucumber-workshop
-    title: 'Skills Matter : London Ruby User Group : Cucumber Workshop'
-september:
-  rails-3-internals:
-    type: video
-    url: https://skillsmatter.com/skillscasts/1543-rails-3-internals
-    title: 'Skills Matter : London Ruby User Group : Rails 3 internals'
-  asynchronous-interfaces:
-    type: video
-    url: https://skillsmatter.com/skillscasts/1563-asynchronous-interfaces
-    title: 'Skills Matter : London Ruby User Group : Asynchronous interfaces'
-august:
-  making-old-projects-better:
-    type: video
-    url: https://skillsmatter.com/skillscasts/1506-making-old-projects-better
-    title: 'Skills Matter : London Ruby User Group : Making old projects better'
-  ittybittyboom.com-and-cramp:
-    type: video
-    url: https://skillsmatter.com/skillscasts/1513-cramp
-    title: 'Skills Matter : London Ruby User Group : Ittybittyboom.com and Cramp'
 july:
   carat:-an-interpreted-language,-written-in-ruby:
-    type: video
+  - type: video
     url: https://skillsmatter.com/skillscasts/1458-carat-an-interpreted-language-written-in-ruby
     title: 'Skills Matter : London Ruby User Group : Carat: An interpreted language,
       written in Ruby'
   actionembedding:
-    type: video
+  - type: video
     url: https://skillsmatter.com/skillscasts/1461-actionembedding
     title: 'Skills Matter : London Ruby User Group : ActionEmbedding'
-may:
-  tokyo-cabinet,-tokyo-tyrant-and-kyoto-cabinet:-the-world-of-mikio-ware:
-    type: video
-    url: https://skillsmatter.com/skillscasts/1402-makoto-inoue-tokyo-cabinet-tokyo-tyrant-kyoto-cabinet-mikio-ware
-    title: 'Skills Matter : London Ruby User Group : Tokyo Cabinet, Tokyo Tyrant and
-      Kyoto Cabinet: the World of Mikio Ware'
-  ruby-profilers:
-    type: video
-    url: https://skillsmatter.com/skillscasts/1407-daniel-lucraft-ruby-profilers
-    title: 'Skills Matter : London Ruby User Group : Ruby Profilers'
+august:
+  making-old-projects-better:
+  - type: video
+    url: https://skillsmatter.com/skillscasts/1506-making-old-projects-better
+    title: 'Skills Matter : London Ruby User Group : Making old projects better'
+  ittybittyboom.com-and-cramp:
+  - type: video
+    url: https://skillsmatter.com/skillscasts/1513-cramp
+    title: 'Skills Matter : London Ruby User Group : Ittybittyboom.com and Cramp'
+september:
+  rails-3-internals:
+  - type: video
+    url: https://skillsmatter.com/skillscasts/1543-rails-3-internals
+    title: 'Skills Matter : London Ruby User Group : Rails 3 internals'
+  asynchronous-interfaces:
+  - type: video
+    url: https://skillsmatter.com/skillscasts/1563-asynchronous-interfaces
+    title: 'Skills Matter : London Ruby User Group : Asynchronous interfaces'
+october:
+  cucumber-workshop:
+  - type: video
+    url: https://skillsmatter.com/skillscasts/1598-cucumber-workshop
+    title: 'Skills Matter : London Ruby User Group : Cucumber Workshop'
+november:
+  using-git-hooks-for-staging-and-production:
+  - type: video
+    url: https://skillsmatter.com/skillscasts/1742-using-git-hooks-for-staging-and-production
+    title: 'Skills Matter : London Ruby User Group : Using git hooks for staging and
+      production'
+  more-websockets:
+  - type: video
+    url: https://skillsmatter.com/skillscasts/1743-more-websockets
+    title: 'Skills Matter : London Ruby User Group : More Websockets'
+december:
+  japanese-and-ruby:
+  - type: video
+    url: https://skillsmatter.com/skillscasts/1803-japanese-and-ruby
+    title: 'Skills Matter : London Ruby User Group : Japanese and Ruby'

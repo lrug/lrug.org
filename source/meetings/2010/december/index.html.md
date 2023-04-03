@@ -27,7 +27,7 @@ The <span style="font-family: fantasy; font-size: 1.2em;">winterval</span> meeti
 > written by another Japanese (the Matz). I will also add some of 
 > my own thoughts onto the talk.
 
-A video of Makoto's talk, filmed by Skills Matter, [is available on the Skills Matter site](http://skillsmatter.com/podcast/ajax-ria/japanese-and-ruby).
+{::coverage year="2010" month="december" talk="japanese-and-ruby" /}
 
 ### <strike>Sean O'Halpin - Processing Tweets at the BBC</strike>
 
