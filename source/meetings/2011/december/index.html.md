@@ -47,6 +47,9 @@ If you use, write, or maintain APIs for your web applications, you'll love our l
 > and whilst not resilient to change in some magical sense, it should allow you to write clients
 > that are easier to adapt and update.
 
+{::coverage year="2011" month="december" talk="hypermedia-as-the-engine-of-application-state" /}
+
+
 ### Javier Ramirez: Usable APIs
 
 [Javier Ramirez](http://twitter.com/supercoco9) says:
@@ -60,6 +63,8 @@ If you use, write, or maintain APIs for your web applications, you'll love our l
 > I want to talk about some of the points that can help making your API more developer-friendly. 
 > Some of the areas I'll cover will be discoverability, authentication, headers, formats, parameters, 
 > documentation and tools.
+
+{::coverage year="2011" month="december" talk="usable-apis" /}
 
 ## Pub
 

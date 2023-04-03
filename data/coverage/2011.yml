@@ -249,9 +249,8 @@ september:
     url: https://skillsmatter.com/skillscasts/2530-september-london-ruby-user-group
     title: 'Skills Matter : London Ruby User Group : Scaling e-petitions'
 october:
-  battleship-ruby-fight-club: []
   lrug-battleship:-ruby-fight-club:
-    type: video
+  - type: video
     url: https://skillsmatter.com/skillscasts/2698-lrug-battleship
     title: 'Skills Matter : London Ruby User Group : LRUG Battleship: Ruby Fight Club'
 november:
@@ -278,13 +277,12 @@ november:
     title: 'Skills Matter : London Ruby User Group : Transformers: Code Blocks In
       Disguise'
 december:
-  hateoas: []
   usable-apis:
   - type: video
     url: https://skillsmatter.com/skillscasts/2914-usable-api
     title: 'Skills Matter : London Ruby User Group : Usable APIs'
   hypermedia-as-the-engine-of-application-state:
-    type: video
+  - type: video
     url: https://skillsmatter.com/skillscasts/2913-hypermedia-as-the-engine-of-application-state
     title: 'Skills Matter : London Ruby User Group : Hypermedia as the Engine of Application
       State'

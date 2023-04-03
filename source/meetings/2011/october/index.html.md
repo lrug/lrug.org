@@ -25,6 +25,8 @@ There is more information available on the [mailing list thread where Paul annou
 _UPDATE_ 
 If you have written a player [read this missive from Paul](http://lists.lrug.org/pipermail/chat-lrug.org/2011-October/006510.html) and make sure you are prepared.
 
+{::coverage year="2011" month="october" talk="lrug-battleship:-ruby-fight-club" /}
+
 ## Pub
 
 We should be done sinking each other's battleships by 8pm.  Those still on speaking terms will make the short trip to [The Slaughtered Lamb](http://www.theslaughteredlambpub.com/), to tell tall tales of maritime success and failure.  If you can't make the battle royale that is the main meeting, feel free to turn up to the pub.
