@@ -1,8 +1,7 @@
 ---
 january:
-  pub-quiz: []
   a-pub-quiz-with-a-twist-of-ruby!:
-    type: video
+  - type: video
     url: https://skillsmatter.com/skillscasts/3875-a-pub-quiz-with-a-twist-of-ruby
     title: 'Skills Matter : London Ruby User Group : A Pub Quiz With A Twist of Ruby!'
 february:
@@ -79,20 +78,20 @@ february:
     url: https://skillsmatter.com/skillscasts/3975-simple-does-it
     title: 'Skills Matter : London Ruby User Group : What would Jason Bourne do'
   hulk-smash!:
-    type: video
+  - type: video
     url: https://skillsmatter.com/skillscasts/3968-hulk-smash
     title: 'Skills Matter : London Ruby User Group : HULK SMASH!'
   afra:-collectively-mapping-genomes:
-    type: video
+  - type: video
     url: https://skillsmatter.com/skillscasts/3970-afra-collectively-mapping-genomes
     title: 'Skills Matter : London Ruby User Group : AFRA: COLLECTIVELY MAPPING GENOMES'
   contractor-rates-&-salaries-for-ruby-devs-in-london:
-    type: video
+  - type: video
     url: https://skillsmatter.com/skillscasts/3971-contractor-rates-salaries-for-ruby-devs-in-london
     title: 'Skills Matter : London Ruby User Group : CONTRACTOR RATES & SALARIES FOR
       RUBY DEVS IN LONDON'
   1+2=3:
-    type: video
+  - type: video
     url: https://skillsmatter.com/skillscasts/3973-one-plus-two-equals-three
     title: 'Skills Matter : London Ruby User Group : 1+2=3'
 march:
@@ -115,7 +114,7 @@ march:
     title: 'Skills Matter : London Ruby User Group : Passing on our skills to the
       next generation'
   showing-off-deliver:
-    type: video
+  - type: video
     url: https://skillsmatter.com/skillscasts/3992-lrug-gerhard-lazu
     title: 'Skills Matter : London Ruby User Group : Showing off deliver'
 april:
@@ -140,7 +139,7 @@ april:
     title: 'Skills Matter : London Ruby User Group : Better security for your web
       applications'
   padrino:
-    type: video
+  - type: video
     url: https://skillsmatter.com/skillscasts/4085-padrino
     title: 'Skills Matter : London Ruby User Group : Padrino'
 may:
@@ -158,12 +157,8 @@ may:
   - type: video
     url: http://skillsmatter.com/podcast/home/exploration-of-mruby
     title: 'Skills Matter : London Ruby User Group : Exploration of mruby'
-  dci-with-ruby-&-rails:
-    type: video
-    url: https://skillsmatter.com/skillscasts/4144-dci-with-ruby-rails
-    title: 'Skills Matter : London Ruby User Group : DCI with Ruby & Rails'
   exploration-of-mruby:
-    type: video
+  - type: video
     url: https://skillsmatter.com/skillscasts/4241-exploration-of-mruby
     title: 'Skills Matter : London Ruby User Group : Exploration of mruby'
 june:
@@ -180,11 +175,11 @@ june:
     url: http://skillsmatter.com/podcast/ajax-ria/application-example-based-on-gov-uk-public-code
     title: 'Skills Matter : Application Example based on Gov.uk public code.'
   june-meetup:
-    type: video
+  - type: video
     url: https://skillsmatter.com/skillscasts/4247-state-transitions
     title: 'Skills Matter : London Ruby User Group : June Meetup'
   application-example-based-on-gov.uk-public-code:
-    type: video
+  - type: video
     url: https://skillsmatter.com/skillscasts/4293-application-example-based-on-gov-uk-public-code
     title: 'Skills Matter : London Ruby User Group : Application Example based on
       Gov.uk public code'
@@ -216,18 +211,17 @@ august:
     url: http://skillsmatter.com/podcast/home/rabbit-running-wild-you-need-a-hutch/jd-8244
     title: 'Skills Matter : London Ruby User Group:Rabbit running wild?'
   rabbit-running-wild?-you-need-a-hutch!:
-    type: video
+  - type: video
     url: https://skillsmatter.com/skillscasts/4438-rabbit-running-wild-you-need-a-hutch
     title: 'Skills Matter : London Ruby User Group : Rabbit running wild? You need
       a hutch!'
 september:
-  concerned-about-concerns: []
   scaling-beyond-rails:
   - type: video
     url: https://skillsmatter.com/skillscasts/4525-scaling-beyond-rails
     title: 'Skills Matter : London Ruby User Group : Scaling beyond Rails'
   concerned-about-concerns?:
-    type: video
+  - type: video
     url: https://skillsmatter.com/skillscasts/4514-concerned-about-concerns
     title: 'Skills Matter : London Ruby User Group : Concerned about Concerns?'
 october:
@@ -275,7 +269,7 @@ november:
     url: https://skillsmatter.com/skillscasts/4882-controlling-robots-with-ruby
     title: 'Skills Matter : London Ruby User Group : Controlling Robots with Ruby'
   how-to-parse-'go':
-    type: video
+  - type: video
     url: https://skillsmatter.com/skillscasts/4883-how-to-parse-go
     title: 'Skills Matter : London Ruby User Group : How to parse ''go'''
 december:
