@@ -30,6 +30,8 @@ The December 2014 meeting of LRUG will be on *Monday the 8th of December*, from 
 > * Validations and verifications
 > * Security tools and frameworks
 
+{::coverage year="2014" month="december" talk="are-you-sure-it's-right?" /}
+
 ### An RSpec 3 Talk
 
 [Sam Phippen](http://samphippen.com/) says:
@@ -41,6 +43,8 @@ The December 2014 meeting of LRUG will be on *Monday the 8th of December*, from 
 > RSpec 3, the upgrade path between RSpec 2 and 3 and 
 > some of the common pitfalls that you might fall into
 > when using this new major version of RSpec.
+
+{::coverage year="2014" month="december" talk="an-rspec-3-talk" /}
 
 ## Pub
 

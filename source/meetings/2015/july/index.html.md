@@ -67,6 +67,7 @@ This venue has strict 100 person capacity and we require attendees to register i
 > and some solutions we discovered based on our own experience at
 > SimplyBusiness.
 
+
 ## Pub
 
 The talks will end at 8pm and we'll head to [The Fellow](http://www.geronimo-inns.co.uk/london-the-fellow) shortly after.  We've reserved the entire first floor, so if you can't make the talks but want to hang out with some rubyists afterwards, head on over and climb the stairs to say "hi".
