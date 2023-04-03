@@ -26,14 +26,15 @@ The February 2015 meeting of LRUG will be on *Monday the 9th of February*, from 
 
 As usual we give our February meeting over to lightning talks of no more than 10 minutes in length.
 
-* Paul Battley: A library for handling postcodes
-* Andrew Donovan: Finding and taking opportunities in the enterprise
-* Paula Kennedy: Microaggression: Impact on Women in IT
-* Mark Longair: Introducing [YourNextMP](https://yournextmp.com/)
-* Evgeny Shadchnev: How to help beginners learn to code
-* Alex Sunderland: The weird bits of ruby
-* Pip Taylor: Sorting out [Colour](https://github.com/ms-digital-labs/color_sort)
-* Michael Wawra: Tech Evangelism
+* Paul Battley: A library for handling postcodes - [Link to video](https://skillsmatter.com/skillscasts/6267-a-library-for-handling-postcodes)
+* Andrew Donovan: Finding and taking opportunities in the enterprise - [Link to video](https://skillsmatter.com/skillscasts/6266-finding-and-taking-opportunities-in-the-enterprise)
+* Paula Kennedy: Microaggression: Impact on Women in IT - [Link to video](https://skillsmatter.com/skillscasts/6265-microaggression-impact-on-women-in-it)
+* Mark Longair: Introducing [YourNextMP](https://yournextmp.com/) - [Link to video](https://skillsmatter.com/skillscasts/6264-introducing-yournextmp)
+* Evgeny Shadchnev: How to help beginners learn to code - [Link to video](https://skillsmatter.com/skillscasts/6263-how-to-help-beginners-learn-to-code)
+* Alex Sunderland: The weird bits of ruby - [Link to video](https://skillsmatter.com/skillscasts/6181-ruby-the-weird-bits)
+* Pip Taylor: Sorting out [Colour](https://github.com/ms-digital-labs/color_sort) - [Link to video](https://skillsmatter.com/skillscasts/6261-sorting-out-colour)
+* Michael Wawra: Tech Evangelism - [Link to video](https://skillsmatter.com/skillscasts/6262-tech-evangelism)
+
 
 ### Bath Ruby Conf tickets giveaway
 

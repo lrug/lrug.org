@@ -26,11 +26,10 @@ january:
     title: 'Skills Matter : London Ruby User Group : Telling stories through your
       commits'
   who’s-afraid-of-database-views?:
-    type: video
+  - type: video
     url: https://skillsmatter.com/skillscasts/6127-whos-afraid-of-database-views
     title: 'Skills Matter : London Ruby User Group : Who’s afraid of database views?'
 february:
-  lightning-talks: []
   a-library-for-handling-postcodes:
   - type: video
     url: https://skillsmatter.com/skillscasts/6267-a-library-for-handling-postcodes
@@ -64,7 +63,7 @@ february:
     url: https://skillsmatter.com/skillscasts/6262-tech-evangelism
     title: 'Skills Matter : London Ruby User Group : Tech Evangelism'
   ruby:-the-weird-bits:
-    type: video
+  - type: video
     url: https://skillsmatter.com/skillscasts/6181-ruby-the-weird-bits
     title: 'Skills Matter : London Ruby User Group : Ruby: The Weird Bits'
 march:
@@ -81,11 +80,11 @@ march:
       in Ruby)
   pkgr-packaging-ruby-applications-with-no-sweat: []
   exploring-#to_proc:
-    type: video
+  - type: video
     url: https://skillsmatter.com/skillscasts/6282-exploring-to_proc
     title: 'Skills Matter : London Ruby User Group : Exploring #to_proc'
   pkgr---packaging-ruby-applications-with-no-sweat:
-    type: video
+  - type: video
     url: https://skillsmatter.com/skillscasts/6283-pkgr-packaging-ruby-applications-with-no-sweat
     title: 'Skills Matter : London Ruby User Group : pkgr - Packaging Ruby applications
       with no sweat'
@@ -99,12 +98,12 @@ april:
     url: https://skillsmatter.com/skillscasts/6344-the-new-mongodb-ruby-driver-2-0
     title: 'Skills Matter : Skills Cast : The shiny new mongo gem'
   un-artificial-intelligence:-how-people-learn:
-    type: video
+  - type: video
     url: https://skillsmatter.com/skillscasts/6326-un-artificial-intelligence-how-people-learn
     title: 'Skills Matter : London Ruby User Group : Un-artificial Intelligence: How
       People Learn'
   the-new-mongodb-ruby-driver-2.0:
-    type: video
+  - type: video
     url: https://skillsmatter.com/skillscasts/6344-the-new-mongodb-ruby-driver-2-0
     title: 'Skills Matter : London Ruby User Group : The new MongoDB Ruby driver 2.0'
 may:
@@ -121,7 +120,7 @@ may:
     title: 'Skills Matter : Skillscast : Rails New Way - building blocks for modern
       Rails architecture'
   rails-new-way:
-    type: video
+  - type: video
     url: https://skillsmatter.com/skillscasts/6384-rails-new-way
     title: 'Skills Matter : London Ruby User Group : Rails New Way'
 june:
@@ -144,7 +143,7 @@ june:
     url: https://skillsmatter.com/skillscasts/6456-test-bisection-with-rspec
     title: 'Skills Matter : London Ruby User Group : Test Bisection with RSpec'
   redis-is-the-answer,-what's-the-question?:
-    type: video
+  - type: video
     url: https://skillsmatter.com/skillscasts/6454-redis-is-the-answer-what-s-the-question
     title: 'Skills Matter : London Ruby User Group : Redis is the answer, what''s
       the question?'
@@ -161,11 +160,11 @@ august:
     url: https://skillsmatter.com/skillscasts/6524-domain-driven-design-in-the-wild
     title: 'Skills Matter : Skillscast : Domain Driven Design, In the Wild'
   hello,-declarative-world:
-    type: video
+  - type: video
     url: https://skillsmatter.com/skillscasts/6523-hello-declarative-world
     title: 'Skills Matter : London Ruby User Group : Hello, declarative world'
   domain-driven-design,-in-the-wild:
-    type: video
+  - type: video
     url: https://skillsmatter.com/skillscasts/6524-domain-driven-design-in-the-wild
     title: 'Skills Matter : London Ruby User Group : Domain Driven Design, In the
       Wild'
@@ -195,7 +194,7 @@ september:
     url: https://skillsmatter.com/skillscasts/6585-containers-patterns-for-rails
     title: 'Skills Matter : London Ruby User Group : Containers Patterns for Rails'
   a-pull-request-slackbot-:-the-seal:
-    type: video
+  - type: video
     url: https://skillsmatter.com/skillscasts/6584-how-to-onboard-junior-developers-well-by-tatiana-soukiassian
     title: 'Skills Matter : London Ruby User Group : A pull request slackbot : the
       seal'
@@ -227,7 +226,7 @@ october:
     url: https://skillsmatter.com/skillscasts/6732-api-first-banking
     title: 'Skills Matter : London Ruby User Group : API-first banking'
   activerecord-vs-n+1:
-    type: video
+  - type: video
     url: https://skillsmatter.com/skillscasts/6731-activerecord-vs-n-1
     title: 'Skills Matter : London Ruby User Group : ActiveRecord vs N+1'
 november:
@@ -254,7 +253,7 @@ november:
     title: 'Skills Matter : Skills Cast : No-Man''s Land - Finding peace at the border
       of art and tech'
   no-man’s-land---finding-peace-at-the-border-of-art-and-tech:
-    type: video
+  - type: video
     url: https://skillsmatter.com/skillscasts/7058-no-man-s-land-finding-peace-at-the-border-of-art-and-tech
     title: 'Skills Matter : London Ruby User Group : No-Man’s Land - Finding peace
       at the border of art and tech'
@@ -267,6 +266,6 @@ december:
     url: https://skillsmatter.com/skillscasts/7167-london-ruby-usergroup
     title: 'Skills Matter : Skills Cast : Festive Codewars Jam'
   lrug---festive-codewarsjam:
-    type: video
+  - type: video
     url: https://skillsmatter.com/skillscasts/7167-london-ruby-usergroup
     title: 'Skills Matter : London Ruby User Group : LRUG - Festive CodeWarsJam'
