@@ -25,6 +25,8 @@ The next meeting of LRUG will be on Monday the 9th of MArch, from 6:30pm to 8:00
 > look at the [Ruby-GNOME2](http://ruby-gnome2.sourceforge.jp/) bindings, and how to interface [Vala](http://live.gnome.org/Vala) (a C# like language) with Ruby
 > for performance.
 
+Daniel's even hoping to push his first milestone release of Redcar just before the meeting.  You can track his progress [on the Redcar lighthouse project](http://redcar.lighthouseapp.com/projects/25090-redcar/milestones).
+
 {::coverage year="2009" month="march" talk="redcar:-ruby,-gnome-and-textmate" /}
 
 ### Cucumber, Celerity, & FireWatir

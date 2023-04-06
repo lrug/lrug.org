@@ -62,38 +62,11 @@ february:
   - type: video
     url: http://skillsmatter.com/podcast/home/lightning-talk-capistrano
     title: 'Skills Matter : London Ruby User Group : Conan the Deployer'
-  lightning-talk-1:-a-history-of-websockets:
-    type: video
-    url: https://skillsmatter.com/skillscasts/3024-lrug-lightning-talks
-    title: 'Skills Matter : London Ruby User Group : Lightning talk 1: A history of
-      websockets'
-  lightning-talk-2:-capistrano-extensions:
-    type: video
-    url: https://skillsmatter.com/skillscasts/3025-lightning-talk-capistrano
-    title: 'Skills Matter : London Ruby User Group : Lightning talk 2: capistrano
-      extensions'
-  lightning-talk-3:-removing-authentication:
-    type: video
-    url: https://skillsmatter.com/skillscasts/3026-lrug-lightning-authentication
-    title: 'Skills Matter : London Ruby User Group : Lightning talk 3: Removing authentication'
-  lightning-talk-4:ruby-poetry:
-    type: video
-    url: https://skillsmatter.com/skillscasts/3027-lrug-custom-documentation-generators
-    title: 'Skills Matter : London Ruby User Group : Lightning talk 4:Ruby Poetry'
   chris-parsons:-the-crowd-sourced-talk.:
     type: video
     url: https://skillsmatter.com/skillscasts/3028-chris-parsons-the-crowd-sourced-talk
     title: 'Skills Matter : London Ruby User Group : Chris Parsons: The crowd-sourced
       talk.'
-  lrug-lightning-talks:-reading-tea-leaves---predict-the-future-with-ruby:
-    type: video
-    url: https://skillsmatter.com/skillscasts/3089-lrug-lightning-talks-reading-tea-leaves-predict-the-future-with-ruby
-    title: 'Skills Matter : London Ruby User Group : LRUG Lightning Talks: Reading
-      tea leaves - predict the future with ruby'
-  lrug-lightning-talk:-tech-interns:
-    type: video
-    url: https://skillsmatter.com/skillscasts/3092-lrug-tech-interns
-    title: 'Skills Matter : London Ruby User Group : LRUG Lightning Talk: Tech interns'
 march:
   tdd-fishbowl-session:
   - type: video
@@ -129,10 +102,6 @@ april:
     url: https://skillsmatter.com/skillscasts/3204-mri-jruby
     title: 'Skills Matter : London Ruby User Group : Converting a Rails project from
       MRI to JRuby'
-  demestifying-druby:
-    type: video
-    url: https://skillsmatter.com/skillscasts/3203-demestifying-druby
-    title: 'Skills Matter : London Ruby User Group : Demestifying dRuby'
 may:
   ruby-s-bin-men-a-closer-look-at-the-garbage-collector:
   - type: video

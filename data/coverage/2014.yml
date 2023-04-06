@@ -34,7 +34,6 @@ january:
     url: https://skillsmatter.com/skillscasts/4954-pi-analytics-with-redis-and-bigquery
     title: 'Skills Matter : London Ruby User Group : PI Analytics with Redis and Bigquery'
 february:
-  20x20-lightning-talks: []
   a-conversation-between-a-developer-and-a-manager:
   - type: video
     url: https://skillsmatter.com/skillscasts/5053-a-conversation-between-a-developer-and-a-manager
@@ -44,7 +43,6 @@ february:
   - type: video
     url: https://skillsmatter.com/skillscasts/5056-firefoxos-on-rails
     title: 'Skills Matter : London Ruby User Group : FirefoxOS on Rails'
-  open-source-how-to-get-started: []
   docker-ansible-the-path-to-continuous-delivery:
   - type: slides
     url: https://speakerdeck.com/gerhardlazu/ansible-and-docker-the-path-to-continuous-delivery-lrug-20x20
@@ -60,7 +58,6 @@ february:
   - type: video
     url: https://skillsmatter.com/skillscasts/5054-create-your-own-blog-using-jekyll
     title: 'Skills Matter : London Ruby User Group : Create your own blog using jekyll'
-  visually-representing-memory-leaks-in-ruby-applications: []
   five-facts-about-smell:
   - type: video
     url: https://skillsmatter.com/skillscasts/5050-five-facts-about-smell

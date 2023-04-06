@@ -30,6 +30,7 @@ january:
     url: https://skillsmatter.com/skillscasts/6127-whos-afraid-of-database-views
     title: 'Skills Matter : London Ruby User Group : Who’s afraid of database views?'
 february:
+  lightning-talks: 
   a-library-for-handling-postcodes:
   - type: video
     url: https://skillsmatter.com/skillscasts/6267-a-library-for-handling-postcodes
@@ -53,7 +54,6 @@ february:
     url: https://skillsmatter.com/skillscasts/6263-how-to-help-beginners-learn-to-code
     title: 'Skills Matter : London Ruby User Group : How to help beginners learn to
       code'
-  the-weird-bits-of-ruby: []
   sorting-out-colour:
   - type: video
     url: https://skillsmatter.com/skillscasts/6261-sorting-out-colour

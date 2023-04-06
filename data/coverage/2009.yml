@@ -34,16 +34,6 @@ september:
   - type: video
     url: https://skillsmatter.com/skillscasts/973-coding-dojo-973
     title: 'Skills Matter : London Ruby User Group : Coding Dojo'
-august:
-  amqp-in-ruby:
-  - type: video
-    url: https://skillsmatter.com/skillscasts/867-amqp-in-ruby
-    title: 'Skills Matter : London Ruby User Group : AMQP in Ruby'
-  making-your-rails-app-kick-ass-with-ruby-prof-and-kcachegrind:
-  - type: video
-    url: https://skillsmatter.com/skillscasts/868-making-your-rails-app-kick-ass-with-ruby-prof-and-kcachegrind
-    title: 'Skills Matter : London Ruby User Group : Making your rails app kick ass
-      with ruby-prof and kcachegrind'
 june:
   rdf-in-rails:
   - type: video

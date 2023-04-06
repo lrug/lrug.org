@@ -8,7 +8,7 @@ february:
   hulk-smash-your-db-column-not-your-whole-app:
   - type: video
     url: http://skillsmatter.com/podcast/home/hulk-smash
-    title: 'Skills Matter : London Ruby User Group : HULK SMASH!'
+    title: 'Skills Matter : London Ruby User Group : Hulk Smash!'
   1-2-3:
   - type: link
     url: https://bitbucket.org/threedaymonk/onetwothree
@@ -21,11 +21,8 @@ february:
     url: https://speakerdeck.com/pablobm/extremist-programming
     title: Extremist Programming
   - type: video
-    url: http://skillsmatter.com/podcast/home/extremist-programming
-    title: 'Skills Matter : London Ruby User Group : Extremist Programming'
-  - type: video
     url: https://skillsmatter.com/skillscasts/3972-extremist-programming
-    title: 'Skills Matter : London Ruby User Group : EXTREMIST PROGRAMMING'
+    title: 'Skills Matter : London Ruby User Group : Extremist Programming'
   contractor-rates-salaries-for-ruby-devs-in-london:
   - type: video
     url: http://skillsmatter.com/podcast/home/contractor-rates-salaries-for-ruby-devs-in-london
@@ -35,65 +32,52 @@ february:
   - type: slides
     url: https://speakerdeck.com/sebjacobs/mruby-and-me
     title: Mruby & Me
-  - type: video
+  - type: video q
     url: http://skillsmatter.com/podcast/home/mruby
-    title: 'Skills Matter : London Ruby User Group : mruby'
-  - type: video
-    url: https://skillsmatter.com/skillscasts/3976-mruby
-    title: 'Skills Matter : London Ruby User Group : MRUBY'
+    title: 'Skills Matter : London Ruby User Group : Mruby & Me'
   love-your-pull-requests:
   - type: slides
     url: http://www.slideshare.net/nasirj/love-your-pullrequests
-    title: Love your pull_requests
+    title: Love your pull requests
   - type: video
     url: http://skillsmatter.com/podcast/home/love-your-pull-requests
     title: 'Skills Matter : London Ruby User Group : Love your pull requests'
-  - type: video
-    url: https://skillsmatter.com/skillscasts/3974-love-your-pull-requests
-    title: 'Skills Matter : London Ruby User Group : LOVE YOUR PULL REQUESTS'
   polyglottous-emberjs-with-rake-pipeline-and-localeapp:
   - type: video
-    url: http://skillsmatter.com/podcast/home/polyglottous-emberjs-with-rake-pipeline-and-localeapp
+    url: https://skillsmatter.com/skillscasts/3969-polyglottous-emberjs-with-rake-pipeline-and-localeapp
     title: 'Skills Matter : London Ruby User Group : Polyglottus ember.js with rake-pipeline
       and localeapp'
-  - type: video
-    url: https://skillsmatter.com/skillscasts/3969-polyglottous-emberjs-with-rake-pipeline-and-localeapp
-    title: 'Skills Matter : London Ruby User Group : POLYGLOTTOUS EMBERJS WITH RAKE-PIPELINE
-      AND LOCALEAPP'
   afra-collectively-mapping-genomes:
   - type: slides
     url: https://docs.google.com/presentation/d/1KooSW7gcGOHFGYsUTK10P4EC1VXMo0emNJxG_5srkm8/edit?usp=sharing
-    title: 'Skills Matter : London Ruby User Group : Afra: Collectively Mapping Genomes'
+    title: 'Afra: Collectively Mapping Genomes'
   - type: video
     url: http://skillsmatter.com/podcast/home/afra-collectively-mapping-genomes
     title: 'Skills Matter : London Ruby User Group : Afra: Collectively Mapping Genomes'
   what-would-jason-bourne-do:
   - type: slides
     url: https://speakerdeck.com/gerhardlazu/what-would-jason-bourne-do
-    title: Speaker Deck - Share Presentations without the Mess
+    title: What would Jason Bourne do?
   - type: video
     url: http://skillsmatter.com/podcast/home/simple-does-it
     title: 'Skills Matter : London Ruby User Group : What would Jason Bourne do?'
-  - type: video
-    url: https://skillsmatter.com/skillscasts/3975-simple-does-it
-    title: 'Skills Matter : London Ruby User Group : What would Jason Bourne do'
-  hulk-smash!:
-  - type: video
-    url: https://skillsmatter.com/skillscasts/3968-hulk-smash
-    title: 'Skills Matter : London Ruby User Group : HULK SMASH!'
-  afra:-collectively-mapping-genomes:
-  - type: video
-    url: https://skillsmatter.com/skillscasts/3970-afra-collectively-mapping-genomes
-    title: 'Skills Matter : London Ruby User Group : AFRA: COLLECTIVELY MAPPING GENOMES'
-  contractor-rates-&-salaries-for-ruby-devs-in-london:
-  - type: video
-    url: https://skillsmatter.com/skillscasts/3971-contractor-rates-salaries-for-ruby-devs-in-london
-    title: 'Skills Matter : London Ruby User Group : CONTRACTOR RATES & SALARIES FOR
-      RUBY DEVS IN LONDON'
-  1+2=3:
-  - type: video
-    url: https://skillsmatter.com/skillscasts/3973-one-plus-two-equals-three
-    title: 'Skills Matter : London Ruby User Group : 1+2=3'
+  # hulk-smash!:
+  # - type: video
+  #   url: https://skillsmatter.com/skillscasts/3968-hulk-smash
+  #   title: 'Skills Matter : London Ruby User Group : HULK SMASH!'
+  # afra:-collectively-mapping-genomes:
+  # - type: video
+  #   url: https://skillsmatter.com/skillscasts/3970-afra-collectively-mapping-genomes
+  #   title: 'Skills Matter : London Ruby User Group : AFRA: COLLECTIVELY MAPPING GENOMES'
+  # contractor-rates-&-salaries-for-ruby-devs-in-london:
+  # - type: video
+  #   url: https://skillsmatter.com/skillscasts/3971-contractor-rates-salaries-for-ruby-devs-in-london
+  #   title: 'Skills Matter : London Ruby User Group : CONTRACTOR RATES & SALARIES FOR
+  #     RUBY DEVS IN LONDON'
+  # 1+2=3:
+  # - type: video
+  #   url: https://skillsmatter.com/skillscasts/3973-one-plus-two-equals-three
+  #   title: 'Skills Matter : London Ruby User Group : 1+2=3'
 march:
   deliver:
   - type: slides
@@ -254,7 +238,6 @@ october:
     title: 'Skills Matter : London Ruby User Group : Modelling state machines with
       Ragel'
 november:
-  how-to-parse-go: []
   controlling-robots-with-ruby:
   - type: link
     url: https://github.com/andrew/artoo-experiments

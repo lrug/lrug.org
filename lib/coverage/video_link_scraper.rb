@@ -26,7 +26,6 @@ class VideoLinkScraper
 
   def scrape_talk_links
     talk_links = []
-    # just for testing - replace [0] with @page_numbers
     @page_numbers.each do |number|
       page_url = "#{BASE_URL}/groups/3-london-ruby-user-group?page=#{number}&#past_events"
       sleep 1
