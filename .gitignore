@@ -12,3 +12,6 @@
 .DS_Store
 
 /.capistrano
+
+# Ignore scraped coverage file
+/data/coverage/scraped_coverage.yml
