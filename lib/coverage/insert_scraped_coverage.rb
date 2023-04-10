@@ -1,6 +1,7 @@
 # frozen_string_literal: true
 
 require 'yaml'
+require 'active_support/core_ext/string/inflections'
 
 class InsertScrapedCoverage
   # the "Skills Matter : ..." boiler plate assigned to the begining of each coverage title 
@@ -29,7 +30,7 @@ class InsertScrapedCoverage
   end
 
   def merge_scraped_coverage_into_coverage_file
-    (2007..2019).each do |year|
+    (2007).each do |year|
       filepath = "./data/coverage/#{year}.yml"
       target_file = File.open(filepath, 'r')
       target_file_yaml = YAML.safe_load(target_file)
@@ -59,8 +60,9 @@ class InsertScrapedCoverage
   private
 
   def format_coverage_title(title)
-    title[END_OF_BOILER_PLATE_TITLE..].split(' ').join('-').downcase
+    title[END_OF_BOILER_PLATE_TITLE..].gsub("'", "").parameterize
   end
+
 end
 
 InsertScrapedCoverage.call

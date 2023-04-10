@@ -5,35 +5,31 @@ december:
     url: https://skillsmatter.com/skillscasts/11298-lrug-december
     title: 'Skills Matter : London Ruby User Group : Everyday Cryptography - Talking
       About Crypto Without Complex Maths'
-  fun-with-an-amazon-echo,-ruby-and-recipes:
+  fun-with-an-amazon-echo-ruby-and-recipes:
   - type: video
     url: https://skillsmatter.com/skillscasts/11299-fun-with-an-amazon-echo-ruby-and-recipes
     title: 'Skills Matter : London Ruby User Group : Fun with an Amazon Echo, Ruby
       and Recipes'
-  how-i-met-"double-dutch"-and-he-helped-to-remedy-fear-of-injection.:
+  how-i-met-double-dutch-and-he-helped-to-remedy-fear-of-injection:
   - type: video
     url: https://skillsmatter.com/skillscasts/11326-how-i-met-double-dutch-and-he-helped-to-remedy-fear-of-injection
     title: 'Skills Matter : London Ruby User Group : How I Met "Double Dutch" and
       He Helped To Remedy Fear of Injection.'
 november:
-  openpolitics:-making-policy-with-open-source-ideas:
-  - type: video
-    url: https://skillsmatter.com/skillscasts/11151-lrug-november-meetup
-    title: 'Skills Matter : London Ruby User Group : OpenPolitics: Making Policy With
-      Open Source Ideas'
-  mock-objects:-delicious-and-addictive:
-  - type: video
-    url: https://skillsmatter.com/skillscasts/11152-mock-objects-delicious-and-addictive
-    title: 'Skills Matter : London Ruby User Group : Mock Objects: Delicious and Addictive'
   5-ways-to-keep-docs-up-to-date:
   - type: video
     url: https://skillsmatter.com/skillscasts/11153-5-ways-to-keep-docs-up-to-date
     title: 'Skills Matter : London Ruby User Group : 5 Ways To Keep Docs Up To Date'
-october:
-  work-smart,-not-hard:
+  openpolitics-making-policy-with-open-source-ideas:
   - type: video
-    url: https://skillsmatter.com/skillscasts/10981-lrug-october
-    title: 'Skills Matter : London Ruby User Group : Work Smart, Not Hard'
+    url: https://skillsmatter.com/skillscasts/11151-lrug-november-meetup
+    title: 'Skills Matter : London Ruby User Group : OpenPolitics: Making Policy With
+      Open Source Ideas'
+  mock-objects-delicious-and-addictive:
+  - type: video
+    url: https://skillsmatter.com/skillscasts/11152-mock-objects-delicious-and-addictive
+    title: 'Skills Matter : London Ruby User Group : Mock Objects: Delicious and Addictive'
+october:
   making-a-ruby-with-lisp-syntax:
   - type: video
     url: https://skillsmatter.com/skillscasts/10982-making-a-ruby-with-lisp-syntax
@@ -42,21 +38,25 @@ october:
   - type: video
     url: https://skillsmatter.com/skillscasts/11029-splitting-strings
     title: 'Skills Matter : London Ruby User Group : Splitting Strings'
+  work-smart-not-hard:
+  - type: video
+    url: https://skillsmatter.com/skillscasts/10981-lrug-october
+    title: 'Skills Matter : London Ruby User Group : Work Smart, Not Hard'
 september:
-  let-humans-human-and-computers-computer---a-tale-of-building-effective-automations:
-  - type: video
-    url: https://skillsmatter.com/skillscasts/10853-lrug-september
-    title: 'Skills Matter : London Ruby User Group : Let Humans Human and Computers
-      Computer - A Tale of Building Effective Automations'
-  hindsight:-creating-the-perfect-project-history:
-  - type: video
-    url: https://skillsmatter.com/skillscasts/10854-hindsight-creating-the-perfect-project-history
-    title: 'Skills Matter : London Ruby User Group : Hindsight: Creating the Perfect
-      Project History'
   a-trip-back-to-where-i-grew-up:
   - type: video
     url: https://skillsmatter.com/skillscasts/10855-a-trip-back-to-where-i-grew-up
     title: 'Skills Matter : London Ruby User Group : A Trip Back to Where I Grew Up'
+  let-humans-human-and-computers-computer-a-tale-of-building-effective-automations:
+  - type: video
+    url: https://skillsmatter.com/skillscasts/10853-lrug-september
+    title: 'Skills Matter : London Ruby User Group : Let Humans Human and Computers
+      Computer - A Tale of Building Effective Automations'
+  hindsight-creating-the-perfect-project-history:
+  - type: video
+    url: https://skillsmatter.com/skillscasts/10854-hindsight-creating-the-perfect-project-history
+    title: 'Skills Matter : London Ruby User Group : Hindsight: Creating the Perfect
+      Project History'
 august:
   let-the-cats-out-of-the-bag:
   - type: video
@@ -89,16 +89,16 @@ july:
     url: https://skillsmatter.com/skillscasts/10487-better-scripting-with-crystal
     title: 'Skills Matter : London Ruby User Group : Better scripting with Crystal'
 june:
-  this-code-sucks-—-a-story-about-nonviolent-programming:
-  - type: video
-    url: https://skillsmatter.com/skillscasts/10336-london-ruby-june-meetup
-    title: 'Skills Matter : London Ruby User Group : This Code Sucks — A Story About
-      Nonviolent Programming'
   choosing-ruby-for-a-new-startup:
   - type: video
     url: https://skillsmatter.com/skillscasts/10337-choosing-ruby-for-a-new-startup
     title: 'Skills Matter : London Ruby User Group : Choosing Ruby for a new Startup'
-  3-ways-of-using-react-with-rails---pros-and-cons:
+  this-code-sucks-a-story-about-nonviolent-programming:
+  - type: video
+    url: https://skillsmatter.com/skillscasts/10336-london-ruby-june-meetup
+    title: 'Skills Matter : London Ruby User Group : This Code Sucks — A Story About
+      Nonviolent Programming'
+  3-ways-of-using-react-with-rails-pros-and-cons:
   - type: video
     url: https://skillsmatter.com/skillscasts/10338-using-react-js-with-ruby-on-rails-apps
     title: 'Skills Matter : London Ruby User Group : 3 ways of using React with Rails
@@ -109,12 +109,12 @@ may:
     url: https://skillsmatter.com/skillscasts/10184-london-ruby-may-meetup
     title: 'Skills Matter : London Ruby User Group : 5 Things I wish my grandfather
       told me about ActiveRecord and Postgres'
-  a-brief-(and-incomplete)-introduction-to-rust-(for-rubyists):
+  a-brief-and-incomplete-introduction-to-rust-for-rubyists:
   - type: video
     url: https://skillsmatter.com/skillscasts/10207-a-brief-and-incomplete-introduction-to-rust-for-rubyists
     title: 'Skills Matter : London Ruby User Group : A Brief (and incomplete) introduction
       to Rust (for Rubyists)'
-  do-you-even-declarative?:
+  do-you-even-declarative:
   - type: video
     url: https://skillsmatter.com/skillscasts/10208-do-you-even-declarative
     title: 'Skills Matter : London Ruby User Group : Do you even declarative?'
@@ -133,11 +133,6 @@ april:
     url: https://skillsmatter.com/skillscasts/10051-live-coding
     title: 'Skills Matter : London Ruby User Group : Live Coding'
 march:
-  action-cable-vs.-messagebus---live-updates-tailored-for-rails:
-  - type: video
-    url: https://skillsmatter.com/skillscasts/9862-london-ruby-march-meetup
-    title: 'Skills Matter : London Ruby User Group : Action Cable vs. MessageBus -
-      Live updates tailored for Rails '
   the-story-of-the-not-so-dark-magic-of-application-preloading:
   - type: video
     url: https://skillsmatter.com/skillscasts/9917-the-story-of-the-not-so-dark-magic-of-application-preloading
@@ -148,6 +143,11 @@ march:
     url: https://skillsmatter.com/skillscasts/9918-dependency-injection-with-little-boxes
     title: 'Skills Matter : London Ruby User Group : Dependency Injection with Little
       Boxes'
+  action-cable-vs-messagebus-live-updates-tailored-for-rails:
+  - type: video
+    url: https://skillsmatter.com/skillscasts/9862-london-ruby-march-meetup
+    title: 'Skills Matter : London Ruby User Group : Action Cable vs. MessageBus -
+      Live updates tailored for Rails'
 february:
   london-ruby-lightning-talks:
   - type: video

@@ -3,37 +3,23 @@ january:
   from-monolith-to-microservices-a-true-story:
   - type: video
     url: https://skillsmatter.com/skillscasts/7346-from-monolith-to-microservices-a-true-story
-    title: 'Skills Matter : Skills Cast : From monolith to microservers: A true story'
-  the-journey-to-primed-is:
-  - type: video
-    url: https://skillsmatter.com/skillscasts/7334-primed-is-improving-recruitment-pain-and-a-guide-to-becoming-a-ruby-on-rails-developer
-    title: 'Skills Matter : Skills Cast : Primed.is - improving recruitment pain'
-  - type: video
-    url: https://skillsmatter.com/skillscasts/7335-a-guide-to-becoming-a-ruby-on-rails-developer
-    title: 'Skills Matter : Skills Cast : A guide to becoming a ruby on rails developer'
+    title: 'Skills Matter : London Ruby User Group : From monolith to microservices:
+      A true story'
   using-direnv-with-ruby-and-12factor-apps:
-  - type: video
-    url: https://skillsmatter.com/skillscasts/7348-using-direnv-with-ruby-and-12factor-apps
-    title: 'Skills Matter : Skills Cast : Using direnv with ruby and 12factor apps'
   - type: video
     url: https://skillsmatter.com/skillscasts/7348-using-direnv-with-ruby-and-12factor-apps
     title: 'Skills Matter : London Ruby User Group : Using direnv with ruby and 12factor
       apps'
-  primed.is---improving-recruitment-pain:
-  - type: video
-    url: https://skillsmatter.com/skillscasts/7334-primed-is-improving-recruitment-pain-and-a-guide-to-becoming-a-ruby-on-rails-developer
-    title: 'Skills Matter : London Ruby User Group : Primed.is - improving recruitment
-      pain'
   a-guide-to-becoming-a-ruby-on-rails-developer:
   - type: video
     url: https://skillsmatter.com/skillscasts/7335-a-guide-to-becoming-a-ruby-on-rails-developer
     title: 'Skills Matter : London Ruby User Group : A guide to becoming a ruby on
       rails developer'
-  from-monolith-to-microservices:-a-true-story:
+  primed-is-improving-recruitment-pain:
   - type: video
-    url: https://skillsmatter.com/skillscasts/7346-from-monolith-to-microservices-a-true-story
-    title: 'Skills Matter : London Ruby User Group : From monolith to microservices:
-      A true story'
+    url: https://skillsmatter.com/skillscasts/7334-primed-is-improving-recruitment-pain-and-a-guide-to-becoming-a-ruby-on-rails-developer
+    title: 'Skills Matter : London Ruby User Group : Primed.is - improving recruitment
+      pain'
 february:
   making-your-first-pull-request:
   - type: slides
@@ -41,28 +27,22 @@ february:
     title: Making Your First Pull Request - Slides
   - type: video
     url: https://skillsmatter.com/skillscasts/7336-making-your-first-pull-request
-    title: 'Skills Matter : Skills Cast : Making your first pull request'
-  - type: video
-    url: https://skillsmatter.com/skillscasts/7336-making-your-first-pull-request
     title: 'Skills Matter : London Ruby User Group : Making your first pull request'
   rails-docker-for-development-no-mess-no-fuss:
   - type: video
     url: https://skillsmatter.com/skillscasts/7571-rails-and-docker-for-development-no-mess-no-fuss
-    title: 'Skills Matter : Skills Cast : Rails & Docker for development: No mess,
-      No fuss'
+    title: 'Skills Matter : London Ruby User Group : Rails & Docker for Development:
+      No Mess, No Fuss'
   enumerable:
   - type: video
     url: https://skillsmatter.com/skillscasts/7452-enumerable
-    title: 'Skills Matter : Skills Cast : Enumerable!'
+    title: 'Skills Matter : London Ruby User Group :  ENUMERABLE!'
   imposter-syndrome-how-we-act-and-work-together:
   - type: video
     url: https://skillsmatter.com/skillscasts/7579-imposter-syndrome-how-we-act-and-work-together
-    title: 'Skills Matter : Skills Cast : Imposter Syndrome : How we act and work
-      together'
+    title: 'Skills Matter : London Ruby User Group : Imposter Syndrome: How we act
+      and work together '
   building-with-domain-concepts:
-  - type: video
-    url: https://skillsmatter.com/skillscasts/7454-building-with-domain-concepts
-    title: 'Skills Matter : Skills Cast : Building with domain concepts'
   - type: video
     url: https://skillsmatter.com/skillscasts/7454-building-with-domain-concepts
     title: 'Skills Matter : London Ruby User Group : Building with domain concepts'
@@ -75,15 +55,12 @@ february:
     title: Slides for Talk
   - type: video
     url: https://skillsmatter.com/skillscasts/7455-web-developer-life-hacks
-    title: 'Skills Matter : Skills Cast : Web developer life hacks'
-  - type: video
-    url: https://skillsmatter.com/skillscasts/7455-web-developer-life-hacks
     title: 'Skills Matter : London Ruby User Group : Web Developer Life Hacks'
   psychology-of-programming-a-very-short-introduction:
   - type: video
     url: https://skillsmatter.com/skillscasts/7456-psychology-of-programming-a-very-short-introduction
-    title: 'Skills Matter : Skills Cast : Psychology of programming: A very short
-      introduction'
+    title: 'Skills Matter : London Ruby User Group : Psychology of programming: A
+      very short introduction'
   automatic-differentiation-in-ruby:
   - type: link
     url: https://github.com/tomstuart/dual_number
@@ -91,9 +68,6 @@ february:
   - type: slides
     url: https://speakerdeck.com/tomstuart/automatic-differentiation-in-ruby
     title: Automatic differentiation in Ruby
-  - type: video
-    url: https://skillsmatter.com/skillscasts/7457-automatic-differentiation-in-ruby
-    title: 'Skills Matter : Skills Cast : Automatic differentiation in Ruby'
   - type: video
     url: https://www.youtube.com/watch?v=TI7mtWB4WiA
     title: Automatic differentiation in Ruby (extended version)
@@ -104,25 +78,6 @@ february:
     url: https://skillsmatter.com/skillscasts/7457-automatic-differentiation-in-ruby
     title: 'Skills Matter : London Ruby User Group : Automatic differentiation in
       Ruby'
-  enumerable!:
-  - type: video
-    url: https://skillsmatter.com/skillscasts/7452-enumerable
-    title: 'Skills Matter : London Ruby User Group :  ENUMERABLE!'
-  psychology-of-programming:-a-very-short-introduction:
-  - type: video
-    url: https://skillsmatter.com/skillscasts/7456-psychology-of-programming-a-very-short-introduction
-    title: 'Skills Matter : London Ruby User Group : Psychology of programming: A
-      very short introduction'
-  rails-&-docker-for-development:-no-mess,-no-fuss:
-  - type: video
-    url: https://skillsmatter.com/skillscasts/7571-rails-and-docker-for-development-no-mess-no-fuss
-    title: 'Skills Matter : London Ruby User Group : Rails & Docker for Development:
-      No Mess, No Fuss'
-  imposter-syndrome:-how-we-act-and-work-together:
-  - type: video
-    url: https://skillsmatter.com/skillscasts/7579-imposter-syndrome-how-we-act-and-work-together
-    title: 'Skills Matter : London Ruby User Group : Imposter Syndrome: How we act
-      and work together '
 march:
   elixir-for-rubyists:
   - type: slides
@@ -130,21 +85,12 @@ march:
     title: Elixir for Rubyists
   - type: video
     url: https://skillsmatter.com/skillscasts/7633-elixir-for-rubyists
-    title: 'Skills Matter : Skills casts : Elixir for Rubyists'
-  - type: video
-    url: https://skillsmatter.com/skillscasts/7633-elixir-for-rubyists
     title: 'Skills Matter : London Ruby User Group : Elixir for Rubyists'
   the-full-power-of-redis:
   - type: video
     url: https://skillsmatter.com/skillscasts/7669-the-full-power-of-redis
-    title: 'Skills Matter : Skills cast : The full power of Redis'
-  - type: video
-    url: https://skillsmatter.com/skillscasts/7669-the-full-power-of-redis
     title: 'Skills Matter : London Ruby User Group : The full power of Redis'
   a-reintroduction-to-codebar:
-  - type: video
-    url: https://skillsmatter.com/skillscasts/7670-a-reintroduction-to-codebar
-    title: 'Skills Matter : Skills Cast : A reintroduction to codebar'
   - type: video
     url: https://skillsmatter.com/skillscasts/7670-a-reintroduction-to-codebar
     title: 'Skills Matter : London Ruby User Group : A reintroduction to codebar'
@@ -152,15 +98,12 @@ april:
   jruby-truffle-a-faster-but-simpler-new-ruby:
   - type: video
     url: https://skillsmatter.com/skillscasts/7884-jruby-truffle-a-faster-but-simpler-new-ruby
-    title: 'Skills Matter : Skills Cast : JRuby + Truffle: A faster but simpler new
-      Ruby'
+    title: 'Skills Matter : London Ruby User Group : JRuby+Truffle: A faster but simpler
+      new Ruby'
   doing-things-differently-at-reevoo:
   - type: slides
     url: https://docs.google.com/presentation/d/1R5NMqfaxUlNaksdEHOIVPoGMr_besZKTVkonNkwGCNI/edit?usp=sharing
     title: Annotated Slides
-  - type: video
-    url: https://skillsmatter.com/skillscasts/7880-doing-things-differently-at-reevoo
-    title: 'Skills Matter : Skills Cast : Doing things differently at Reevoo'
   - type: video
     url: https://skillsmatter.com/skillscasts/7880-doing-things-differently-at-reevoo
     title: 'Skills Matter : London Ruby User Group : Doing Things Differently at Reevoo'
@@ -173,15 +116,7 @@ april:
     title: Continuous Feedback slides
   - type: video
     url: https://skillsmatter.com/skillscasts/7881-continuous-feedback
-    title: 'Skills Matter : Skills Cast : Continuous Feedback'
-  - type: video
-    url: https://skillsmatter.com/skillscasts/7881-continuous-feedback
     title: 'Skills Matter : London Ruby User Group : Continuous Feedback'
-  jruby+truffle:-a-faster-but-simpler-new-ruby:
-    type: video
-    url: https://skillsmatter.com/skillscasts/7884-jruby-truffle-a-faster-but-simpler-new-ruby
-    title: 'Skills Matter : London Ruby User Group : JRuby+Truffle: A faster but simpler
-      new Ruby'
 may:
   the-art-of-code-review:
   - type: slides
@@ -190,19 +125,18 @@ may:
   - type: video
     url: https://skillsmatter.com/skillscasts/8085-the-art-of-code-review
     title: 'Skills Matter : London Ruby User Group : The Art of Code Review'
-  a-tale-of-two-deployments-machine-images-immutable-servers-and-green-blue-deployment:
+  a-tale-of-two-deployments-machine-images-immutable:
   - type: link
     url: http://www.thedevopsdoctors.com/blog/2016/3/6/a-tale-of-two-deployments
     title: A Tale of Two Deployments - The blog post that the speech was based on
   - type: slides
     url: https://drive.google.com/file/d/0B_eY8bjtumvEZzZBbkVHWFJXbnM/view?usp=sharing
     title: Slides to an updated version of the talk
-  a-tale-of-two-deployments---machine-images,-immutable:
   - type: video
     url: https://skillsmatter.com/skillscasts/8086-a-tale-of-two-deployments-machine-images-immutable
     title: 'Skills Matter : London Ruby User Group : A Tale of Two Deployments - Machine
       Images, Immutable'
-  convox:-painless-deployment-of-docker-on-aws:
+  convox-painless-deployment-of-docker-on-aws:
   - type: video
     url: https://skillsmatter.com/skillscasts/8087-convox-painless-deployment-of-docker-on-aws
     title: 'Skills Matter : London Ruby User Group : Convox: Painless deployment of
@@ -214,16 +148,14 @@ june:
     title: 'Hacking Your Head : Managing Information Overload (extended)'
   - type: video
     url: https://skillsmatter.com/skillscasts/8303-hacking-your-head-managing-information-overload
-    title: 'Skills Matter : Skills Cast : Hacking your head - Managing information
-      overload'
+    title: 'Skills Matter : London Ruby User Group : Hacking Your Head : Managing
+      Information Overload'
   open-sesame-a-beginners-guide-to-passwords:
   - type: video
     url: https://skillsmatter.com/skillscasts/8304-open-sesame-a-beginners-guide-to-passwords
-    title: 'Skills Matter : Skills Cast : Open Sesame: A beginners guide to passwords'
+    title: 'Skills Matter : London Ruby User Group : Open Sesame: A beginners guide
+      to passwords'
   refactoring-a-monolith-with-rails-engines:
-  - type: video
-    url: https://skillsmatter.com/skillscasts/8305-refactoring-a-monolith-with-rails-engines
-    title: 'Skills Matter : Skills Cast : Refactoring a monolith with rails engines'
   - type: video
     url: https://skillsmatter.com/skillscasts/8305-refactoring-a-monolith-with-rails-engines
     title: 'Skills Matter : London Ruby User Group : Refactoring a monolith with rails
@@ -233,11 +165,6 @@ june:
     url: https://skillsmatter.com/skillscasts/8303-hacking-your-head-managing-information-overload
     title: 'Skills Matter : London Ruby User Group : Hacking Your Head : Managing
       Information Overload'
-  open-sesame:a-beginners-guide-to-passwords:
-  - type: video
-    url: https://skillsmatter.com/skillscasts/8304-open-sesame-a-beginners-guide-to-passwords
-    title: 'Skills Matter : London Ruby User Group : Open Sesame:A beginners guide
-      to passwords'
 july:
   ruby-book-club:
   - type: slides
@@ -245,14 +172,8 @@ july:
     title: Ruby Book Club LIVE
   - type: video
     url: https://skillsmatter.com/skillscasts/8404-ruby-book-club
-    title: 'Skills Matter : Skills Cast : Ruby Book Club'
-  - type: video
-    url: https://skillsmatter.com/skillscasts/8404-ruby-book-club
     title: 'Skills Matter : London Ruby User Group : Ruby Book Club'
   documenting-ruby-apis:
-  - type: video
-    url: https://skillsmatter.com/skillscasts/8405-documenting-ruby-apis
-    title: 'Skills Matter : Skills Cast : Documenting Ruby APIs'
   - type: video
     url: https://skillsmatter.com/skillscasts/8405-documenting-ruby-apis
     title: 'Skills Matter : London Ruby User Group : Documenting Ruby APIs'
@@ -262,10 +183,7 @@ july:
     title: Using React at Deliveroo - LRUG
   - type: video
     url: https://skillsmatter.com/skillscasts/8406-integrating-react-into-a-rails-application
-    title: 'Skills Matter : Skills Cast : Integrating React into a Rails application'
-  - type: video
-    url: https://skillsmatter.com/skillscasts/8406-integrating-react-into-a-rails-application
-    title: 'Skills Matter : London Ruby User Group :  Integrating React into a Rails
+    title: 'Skills Matter : London Ruby User Group : Integrating React into a Rails
       application'
 august:
   action-cable:
@@ -274,22 +192,12 @@ august:
     title: Action Cable Live Demo
   - type: video
     url: https://skillsmatter.com/skillscasts/8408-action-cable
-    title: 'Skills Matter : Skills Cast : ActionCable'
-  - type: video
-    url: https://skillsmatter.com/skillscasts/8408-action-cable
     title: 'Skills Matter : London Ruby User Group : Action Cable'
   the-marvel-guide-to-developers:
   - type: video
     url: https://skillsmatter.com/skillscasts/8559-the-marvel-guide-to-developers
-    title: 'Skills Matter : Skills Cast : The Marvel Guide to Developers'
-  - type: video
-    url: https://skillsmatter.com/skillscasts/8559-the-marvel-guide-to-developers
     title: 'Skills Matter : London Ruby User Group : The Marvel Guide to Developers'
-  tell-don-t-ask:
-  - type: video
-    url: https://skillsmatter.com/skillscasts/8611-tell-dont-ask
-    title: 'Skills Matter : Skills Cast : Tell, don''t Ask'
-  tell,-dont-ask:
+  tell-dont-ask:
   - type: video
     url: https://skillsmatter.com/skillscasts/8611-tell-dont-ask
     title: 'Skills Matter : London Ruby User Group : Tell, Dont Ask'
@@ -336,11 +244,8 @@ october:
     url: http://www.h-lame.com/talks/rubygems-contribution/
   - type: video
     url: https://skillsmatter.com/skillscasts/9122-an-open-source-contribution-story
-    title: 'Skills Matter : Skills Cast : An open-source contribution story'
-  - type: video
-    url: https://skillsmatter.com/skillscasts/9122-an-open-source-contribution-story
     title: 'Skills Matter : London Ruby User Group : An open-source contribution story'
-  joining-the-mob:-top-12-mob-programming-tips-and-thoughts:
+  joining-the-mob-top-12-mob-programming-tips-and-thoughts:
   - type: video
     url: https://skillsmatter.com/skillscasts/9121-joining-the-mob-top-12-mob-programming-tips-and-thoughts
     title: 'Skills Matter : London Ruby User Group :  Joining the mob: Top 12 mob
@@ -355,7 +260,7 @@ november:
     url: https://skillsmatter.com/skillscasts/9280-aws-elastic-beanstalk-and-docker-for-rails-developers
     title: 'Skills Matter : London Ruby User Group : AWS Elastic Beanstalk & Docker
       for Rails developers'
-  where-does-my-code-go?:
+  where-does-my-code-go:
   - type: video
     url: https://skillsmatter.com/skillscasts/9300-where-does-my-code-go
     title: 'Skills Matter : London Ruby User Group : Where does my code go?'
@@ -369,7 +274,7 @@ december:
   - type: video
     url: https://skillsmatter.com/skillscasts/9431-ruby-as-a-learning-language
     title: 'Skills Matter : London Ruby User Group : Ruby as a Learning Language'
-  an-a/b-test-is-for-life,-not-just-for-christmas:
+  an-a-b-test-is-for-life-not-just-for-christmas:
   - type: video
     url: https://skillsmatter.com/skillscasts/9433-an-a-b-test-is-for-life-not-just-for-christmas
     title: 'Skills Matter : London Ruby User Group : An A/B test is for life, not

@@ -29,16 +29,16 @@ september:
     url: https://skillsmatter.com/skillscasts/14506-have-your-sorbet-and-eat-it-too
     title: 'Skills Matter : London Ruby User Group : Have your Sorbet and eat it too'
 august:
-  pattern-matching-in-ruby-2.7:
+  pattern-matching-in-ruby-2-7:
   - type: video
     url: https://skillsmatter.com/skillscasts/14333-title-pattern-matching-in-ruby-2-7
     title: 'Skills Matter : London Ruby User Group : Pattern matching in ruby 2.7 '
-  spree-commerce:-how-to-run-an-ecommerce-platform?:
+  spree-commerce-how-to-run-an-ecommerce-platform:
   - type: video
     url: https://skillsmatter.com/skillscasts/14334-spree-commerce-how-to-run-an-ecommerce-platform
     title: 'Skills Matter : London Ruby User Group : Spree Commerce: How to run an
       eCommerce platform?'
-  reuse-your-government's-code:
+  reuse-your-governments-code:
   - type: video
     url: https://skillsmatter.com/skillscasts/14335-reuse-your-government-s-code
     title: 'Skills Matter : London Ruby User Group : Reuse your government''s code'
@@ -47,7 +47,7 @@ july:
   - type: video
     url: https://skillsmatter.com/skillscasts/14142-lrug-july
     title: 'Skills Matter : London Ruby User Group : Small Tech Teams'
-  what-does-a-coconut-and-serverless-have-in-common?:
+  what-does-a-coconut-and-serverless-have-in-common:
   - type: video
     url: https://skillsmatter.com/skillscasts/14150-what-does-a-coconut-and-serverless-have-in-common
     title: 'Skills Matter : London Ruby User Group : What does a Coconut and Serverless
@@ -98,11 +98,11 @@ april:
     url: https://skillsmatter.com/skillscasts/13763-giving-my-enemies-a-voice
     title: 'Skills Matter : London Ruby User Group : Giving my enemies a voice'
 march:
-  rspec---level-up:
+  rspec-level-up:
   - type: video
     url: https://skillsmatter.com/skillscasts/13574-rspec-level-up
     title: 'Skills Matter : London Ruby User Group : RSpec - Level Up'
-  education,-recruitment-and-technology:-what-needs-to-change?:
+  education-recruitment-and-technology-what-needs-to-change:
   - type: video
     url: https://skillsmatter.com/skillscasts/13575-education-recruitment-and-technology-what-needs-to-change
     title: 'Skills Matter : London Ruby User Group :  Education, Recruitment and Technology:
@@ -126,12 +126,12 @@ february:
     url: https://skillsmatter.com/skillscasts/13431-automating-infrastructure-tasks-with-the-serverless-framework
     title: 'Skills Matter : London Ruby User Group : Automating Infrastructure Tasks
       with the Serverless Framework'
-  using-rails-with-a-content-distribution-network-(cdn):
+  using-rails-with-a-content-distribution-network-cdn:
   - type: video
     url: https://skillsmatter.com/skillscasts/13432-using-rails-with-a-content-distribution-network-cdn
     title: 'Skills Matter : London Ruby User Group : Using Rails with a Content Distribution
       Network (CDN)'
-  a-developer-and-a-designer,-getting-along-famously:
+  a-developer-and-a-designer-getting-along-famously:
   - type: video
     url: https://skillsmatter.com/skillscasts/13461-a-developer-and-a-designer-getting-along-famously
     title: 'Skills Matter : London Ruby User Group : A Developer and a Designer, Getting

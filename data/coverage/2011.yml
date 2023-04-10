@@ -12,21 +12,10 @@ january:
     url: http://dl.dropbox.com/u/909897/lrug_twitter_firehose/index.html
     title: Sean O'Halpin - Processing Tweets at the BBC
   - type: video
-    url: http://skillsmatter.com/podcast/ajax-ria/processing-tweets-at-the-bbc-1848
-    title: Sean O'Halpin - Processing Tweets at the BBC
-  - type: video
     url: https://skillsmatter.com/skillscasts/1848-processing-tweets-at-the-bbc-1848
     title: 'Skills Matter : London Ruby User Group : Processing Tweets at the BBC'
-  building-a-financial-app-in-ruby-and-rails:
-    type: video
-    url: https://skillsmatter.com/skillscasts/1849-building-a-financial-app-in-ruby-and-rails
-    title: 'Skills Matter : London Ruby User Group : Building a financial app in ruby
-      and rails'
 february:
   an-exploration-of-why-nobody-needs-to-write-any-more-test-frameworks:
-  - type: video
-    url: http://skillsmatter.com/podcast/ajax-ria/an-exploration-of-why-nobody-needs-to-write-any-more-test-frameworks
-    title: An exploration of why nobody needs to write any more test frameworks
   - type: video
     url: https://skillsmatter.com/skillscasts/1877-an-exploration-of-why-nobody-needs-to-write-any-more-test-frameworks
     title: 'Skills Matter : London Ruby User Group : An exploration of why nobody
@@ -38,9 +27,6 @@ february:
       acts_as_solr, acts_as_xapian, xapit, raw mysql)
   basic-interpreter:
   - type: video
-    url: http://skillsmatter.com/podcast/ajax-ria/basic-interpreter
-    title: BASIC Interpreter
-  - type: video
     url: https://skillsmatter.com/skillscasts/1879-basic-interpreter
     title: 'Skills Matter : London Ruby User Group : BASIC interpreter'
   how-do-we-suck-in-480-books-per-second-from-amazon-s-api-using-ruby-via-redis-into-mongodb:
@@ -50,20 +36,14 @@ february:
       Redis into MongoDB
   w3c-audio-xg-group-audio-javascript:
   - type: video
-    url: http://skillsmatter.com/podcast/ajax-ria/w3c-audio-xg-group-audio-javascript
-    title: W3C Audio XG Group (audio + javascript)
+    url: https://skillsmatter.com/skillscasts/1881-w3c-audio-xg-group-audio-javascript
+    title: 'Skills Matter : London Ruby User Group : W3C Audio XG Group (audio + javascript)'
   riding-rails-through-a-tv-induced-storm:
-  - type: video
-    url: http://skillsmatter.com/podcast/ajax-ria/convincing-a-customer-to-go-rails-after-years-of-something-else
-    title: Riding Rails through a TV induced storm
   - type: video
     url: https://skillsmatter.com/skillscasts/1882-convincing-a-customer-to-go-rails-after-years-of-something-else
     title: 'Skills Matter : London Ruby User Group : Riding Rails through a TV induced
       storm'
   redistat:
-  - type: video
-    url: http://skillsmatter.com/podcast/ajax-ria/redistat
-    title: Redistat
   - type: video
     url: https://skillsmatter.com/skillscasts/1883-redistat
     title: 'Skills Matter : London Ruby User Group : Redistat'
@@ -72,25 +52,17 @@ february:
     url: http://speakerdeck.com/u/tomstuart/p/relational-algebra-and-arel
     title: Relational Algebra and Arel
   - type: video
-    url: http://skillsmatter.com/podcast/ajax-ria/arel-relational-algebra
-    title: Relational Algebra and Arel
+    url: https://skillsmatter.com/skillscasts/1884-arel-relational-algebra
+    title: 'Skills Matter : London Ruby User Group : ARel / Relational Algebra'
   ruby-search-systems:
-    type: video
+  - type: video
     url: https://skillsmatter.com/skillscasts/1878-ruby-search-systems
     title: 'Skills Matter : London Ruby User Group : ruby search systems'
-  how-do-we-suck-in-480-books-per-second-from-amazon's-api-using-ruby-via-redis-into-mongodb:
-    type: video
+  how-do-we-suck-in-480-books-per-second-from-amazons-api-using-ruby-via-redis-into-mongodb:
+  - type: video
     url: https://skillsmatter.com/skillscasts/1880-how-do-we-suck-in-480-books-per-second-from-amazons-api-using-ruby-via-redis-into-mongodb
     title: 'Skills Matter : London Ruby User Group : How do we suck in 480 books per
       second from Amazon''s API using Ruby via Redis into MongoDB'
-  w3c-audio-xg-group-(audio-+-javascript):
-    type: video
-    url: https://skillsmatter.com/skillscasts/1881-w3c-audio-xg-group-audio-javascript
-    title: 'Skills Matter : London Ruby User Group : W3C Audio XG Group (audio + javascript)'
-  arel-/-relational-algebra:
-    type: video
-    url: https://skillsmatter.com/skillscasts/1884-arel-relational-algebra
-    title: 'Skills Matter : London Ruby User Group : ARel / Relational Algebra'
 march:
   primer:
   - type: video
@@ -106,23 +78,17 @@ march:
     url: https://skillsmatter.com/skillscasts/2069-lessons-learned-bdd-ing-a-command-line-utility-gem
     title: 'Skills Matter : London Ruby User Group : Lessons learned BDD-ing a command-line
       utility gem'
-  primer,-a-caching-system-for-rails:
-    type: video
+  primer-a-caching-system-for-rails:
+  - type: video
     url: https://skillsmatter.com/skillscasts/2068-primer
     title: 'Skills Matter : London Ruby User Group : Primer, a caching system for
       rails'
 april:
   building-cloud-castles:
   - type: video
-    url: http://skillsmatter.com/podcast/ajax-ria/building-cloud-castles
-    title: Building Cloud Castles
-  - type: video
     url: https://skillsmatter.com/skillscasts/2154-building-cloud-castles
     title: 'Skills Matter : London Ruby User Group : Building Cloud Castles'
   ruby-goes-to-hollywood:
-  - type: video
-    url: http://skillsmatter.com/podcast/ajax-ria/ruby-goes-to-hollywood
-    title: Ruby goes to hollywood
   - type: video
     url: https://skillsmatter.com/skillscasts/2155-ruby-goes-to-hollywood
     title: 'Skills Matter : London Ruby User Group : Ruby goes to Hollywood'
@@ -142,9 +108,6 @@ june:
   - type: video
     url: http://skillsmatter.com/podcast/home/ruby-gems
     title: 'Skills Matter : London Ruby User Group: HTMLEntities'
-  - type: video
-    url: https://skillsmatter.com/skillscasts/2308-ruby-gems
-    title: 'Skills Matter : London Ruby User Group : HTMLEntities'
   hash-mapper-jbundle-or-anisoptera:
   - type: video
     url: http://skillsmatter.com/podcast/home/jbundle
@@ -153,15 +116,9 @@ june:
   - type: video
     url: http://skillsmatter.com/podcast/home/roleplay
     title: 'Skills Matter : London Ruby User Group : RolePlay'
-  - type: video
-    url: https://skillsmatter.com/skillscasts/2372-roleplay
-    title: 'Skills Matter : London Ruby User Group : RolePlay'
   asset-hat:
   - type: video
     url: http://skillsmatter.com/podcast/home/asset-hat
-    title: 'Skills Matter : London Ruby User Group : Asset Hat'
-  - type: video
-    url: https://skillsmatter.com/skillscasts/2373-asset-hat
     title: 'Skills Matter : London Ruby User Group : Asset Hat'
   http-tools:
   - type: video
@@ -171,9 +128,6 @@ june:
   - type: video
     url: http://skillsmatter.com/podcast/home/matahari
     title: 'Skills Matter : London Ruby User Group : Matahari'
-  - type: video
-    url: https://skillsmatter.com/skillscasts/2376-matahari
-    title: 'Skills Matter : London Ruby User Group : Matahari'
   split-rack-based-a-b-testing:
   - type: slides
     url: http://speakerdeck.com/u/andrew/p/split
@@ -182,26 +136,14 @@ june:
     url: http://skillsmatter.com/podcast/home/split
     title: 'Skills Matter : London Ruby User Group : Split'
   jbundle:
-    type: video
+  - type: video
     url: https://skillsmatter.com/skillscasts/2371-jbundle
     title: 'Skills Matter : London Ruby User Group : Jbundle'
-  split:
-    type: video
-    url: https://skillsmatter.com/skillscasts/2374-split
-    title: 'Skills Matter : London Ruby User Group : Split'
-  lrug-http_tools:
-    type: video
-    url: https://skillsmatter.com/skillscasts/2375-lrug-http-tools
-    title: 'Skills Matter : London Ruby User Group : LRUG http_tools'
 july:
   building-a-prototype-site-for-the-uk-government:
   - type: video
     url: http://skillsmatter.com/podcast/home/ruby-july
     title: 'Skills Matter : London Ruby User Group: Building a prototype site for
-      the UK government'
-  - type: video
-    url: https://skillsmatter.com/skillscasts/2404-ruby-july
-    title: 'Skills Matter : London Ruby User Group : Building a prototype site for
       the UK government'
   extracting-value-from-legacy-applications-using-ruby:
   - type: video
@@ -223,10 +165,6 @@ august:
     url: http://skillsmatter.com/podcast/home/lrug-puppet
     title: 'Skills Matter : London Ruby User Group : Managing Web Applications With
       Puppet'
-  - type: video
-    url: https://skillsmatter.com/skillscasts/2435-lrug-puppet
-    title: 'Skills Matter : London Ruby User Group : Managing Web Application Servers
-      with Puppet'
   vagrant-and-chef:
   - type: slides
     url: http://morethanseven.net/2011/08/11/Talking-configuration-management-vagrant-and-chef-at-lrug.html
@@ -235,11 +173,11 @@ august:
     url: http://skillsmatter.com/podcast/home/chef-vagrant
     title: 'Skills Matter : London Ruby User Group : Vagrant and Chef'
   cucumber-chef:
-    type: video
+  - type: video
     url: https://skillsmatter.com/skillscasts/2510-cucumber-chef-2510
     title: 'Skills Matter : London Ruby User Group : Cucumber-chef'
   gareth-rushgrove-on-chef-and-vagrant:
-    type: video
+  - type: video
     url: https://skillsmatter.com/skillscasts/2512-chef-vagrant
     title: 'Skills Matter : London Ruby User Group : Gareth Rushgrove on Chef and
       Vagrant'
@@ -249,7 +187,7 @@ september:
     url: https://skillsmatter.com/skillscasts/2530-september-london-ruby-user-group
     title: 'Skills Matter : London Ruby User Group : Scaling e-petitions'
 october:
-  lrug-battleship:-ruby-fight-club:
+  lrug-battleship-ruby-fight-club:
   - type: video
     url: https://skillsmatter.com/skillscasts/2698-lrug-battleship
     title: 'Skills Matter : London Ruby User Group : LRUG Battleship: Ruby Fight Club'
@@ -259,15 +197,13 @@ november:
     url: http://transformers-talk.heroku.com/
     title: 'Transformers: Code Blocks in Disguise'
   - type: video
-    url: http://skillsmatter.com/podcast/ajax-ria/november-lrug/js-2839
-    title: 'Transformers: Code Blocks In Disguise'
+    url: https://skillsmatter.com/skillscasts/2765-november-lrug
+    title: 'Skills Matter : London Ruby User Group : Transformers: Code Blocks In
+      Disguise'
   my-adventures-in-objective-c:
   - type: slides
     url: http://www.slideshare.net/abdels/my-adventuresinobjc
     title: My Adventures In Objective-C (A Rubyists Perspective)
-  - type: video
-    url: http://skillsmatter.com/podcast/ajax-ria/my-adventures-in-objective-c
-    title: My Adventures in Objective-C
   - type: video
     url: https://skillsmatter.com/skillscasts/2826-my-adventures-in-objective-c
     title: 'Skills Matter : London Ruby User Group : My Adventures in Objective-C'

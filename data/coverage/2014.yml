@@ -14,10 +14,6 @@ january:
   - type: write-up
     url: http://dev.housetrip.com/2013/11/15/data-tiering/
     title: Using data tiering to squeeze scale out of SQL
-  - type: video
-    url: https://skillsmatter.com/skillscasts/4955-using-data-tiering-to-squeeze-scale-out-of-sql
-    title: 'Skills Matter : London Ruby User Group : Using data tiering to squeeze
-      scale out of SQL'
   api-analytics-with-redis-and-bigquery:
   - type: notes
     url: https://teowaki.com/teams/javier-community/link-categories/bigquery-talk
@@ -29,10 +25,6 @@ january:
     url: http://skillsmatter.com/podcast/nosql/pi-analytics-with-redis-and-bigquery/jd-8884
     title: 'Skills Matter : London Ruby User Group : API Analytics with Redis and
       BigQuery'
-  pi-analytics-with-redis-and-bigquery:
-  - type: video
-    url: https://skillsmatter.com/skillscasts/4954-pi-analytics-with-redis-and-bigquery
-    title: 'Skills Matter : London Ruby User Group : PI Analytics with Redis and Bigquery'
 february:
   a-conversation-between-a-developer-and-a-manager:
   - type: video
@@ -50,6 +42,10 @@ february:
   - type: write-up
     url: http://gerhard.lazu.co.uk/ansible-docker-the-path-to-continuous-delivery-1
     title: Ansible & Docker - The Path to Continuous Delivery I
+  - type: video
+    url: https://skillsmatter.com/skillscasts/5055-docker-ansible-the-path-to-continuous-delivery
+    title: 'Skills Matter : London Ruby User Group : Docker & Ansible: The Path to
+      Continuous Delivery'
   angularjs-for-rubyists:
   - type: video
     url: https://skillsmatter.com/skillscasts/5052-angularjs-for-rubyists
@@ -71,12 +67,7 @@ february:
     url: https://skillsmatter.com/skillscasts/5024-how-to-visually-represent-memory-leaks-in-ruby-applications
     title: 'Skills Matter : London Ruby User Group : How to Visually represent memory
       leaks in Ruby applications'
-  docker-&-ansible:-the-path-to-continuous-delivery:
-  - type: video
-    url: https://skillsmatter.com/skillscasts/5055-docker-ansible-the-path-to-continuous-delivery
-    title: 'Skills Matter : London Ruby User Group : Docker & Ansible: The Path to
-      Continuous Delivery'
-  open-source,-how-to-get-started:
+  open-source-how-to-get-started:
   - type: video
     url: https://skillsmatter.com/skillscasts/5057-open-source-how-to-get-started
     title: 'Skills Matter : London Ruby User Group : Open Source, how to get started'
@@ -88,16 +79,10 @@ march:
   - type: video
     url: https://skillsmatter.com/skillscasts/5094-marketing-for-developers
     title: 'Skills Matter Skillscast : LRUG : Marketing for developers'
-  - type: video
-    url: https://skillsmatter.com/skillscasts/5094-marketing-for-developers
-    title: 'Skills Matter : London Ruby User Group : Marketing for Developers'
   rage-against-the-state-machine:
   - type: slides
     url: https://speakerdeck.com/appltn/rage-against-the-state-machine
     title: Rage against the state machine
-  - type: video
-    url: https://skillsmatter.com/skillscasts/5093-rage-against-the-state-machine
-    title: 'Skills Matter Skillscast : LRUG : Rage against the state machine'
   - type: video
     url: https://skillsmatter.com/skillscasts/5093-rage-against-the-state-machine
     title: 'Skills Matter : London Ruby User Group : Rage against the state machine'
@@ -107,10 +92,10 @@ march:
     title: Networked pub/sub with UDP, Go, Ruby and ZMQ
   - type: video
     url: https://skillsmatter.com/skillscasts/5110-building-a-soa-network-of-daemons-with-go-ruby-and-zmq
-    title: 'Skills Matter Skillscast : LRUG : Building a SOA network of daemons with
-      Go, Ruby, and ZMQ'
+    title: 'Skills Matter : London Ruby User Group : Building a SOA network of daemons
+      with Go, Ruby and ZMQ'
   building-a-soa-network-of-daemons-with-go,-ruby-and-zmq:
-    type: video
+  - type: video
     url: https://skillsmatter.com/skillscasts/5110-building-a-soa-network-of-daemons-with-go-ruby-and-zmq
     title: 'Skills Matter : London Ruby User Group : Building a SOA network of daemons
       with Go, Ruby and ZMQ'
@@ -121,16 +106,9 @@ april:
     title: How Do I GDS?
   - type: video
     url: https://skillsmatter.com/skillscasts/5181-adventures-in-early-adoption-of-open-source-code
-    title: 'Skills Matter : Skills Cast : Adventures in early-adoption of open-source
-      code'
-  - type: video
-    url: https://skillsmatter.com/skillscasts/5181-adventures-in-early-adoption-of-open-source-code
     title: 'Skills Matter : London Ruby User Group : Adventures in early-adoption
       of open-source code'
   aspect-oriented-programming-in-ruby:
-  - type: video
-    url: https://skillsmatter.com/skillscasts/5199-aspect-oriented-programming-in-ruby
-    title: 'Skills Matter : Skills Cast : Aspect-oriented programming in Ruby'
   - type: video
     url: https://skillsmatter.com/skillscasts/5199-aspect-oriented-programming-in-ruby
     title: 'Skills Matter : London Ruby User Group : Aspect-oriented programming in
@@ -142,14 +120,8 @@ may:
     title: 'Learning to Code : May LRUG talk'
   - type: video
     url: https://skillsmatter.com/skillscasts/5281-learning-to-code
-    title: 'Skills Matter : SKILLSCAST : Learning to Code'
-  - type: video
-    url: https://skillsmatter.com/skillscasts/5281-learning-to-code
     title: 'Skills Matter : London Ruby User Group : Learning to Code'
   how-to-win-developers-and-influence-designers:
-  - type: video
-    url: https://skillsmatter.com/skillscasts/5282-how-to-win-developers-and-influence-designers
-    title: 'Skills Matter : SKILLSCAST : How to win developers and influence designers'
   - type: video
     url: https://skillsmatter.com/skillscasts/5282-how-to-win-developers-and-influence-designers
     title: 'Skills Matter : London Ruby User Group : How to win developers and influence
@@ -160,30 +132,17 @@ may:
     title: Deprecating ActiveResource
   - type: video
     url: https://skillsmatter.com/skillscasts/5283-deprecating-activeresource-alternative-approaches-for-internal-rails-services
-    title: 'Skills Matter : SKILLSCAST : Deprecating ActiveResource: Alternative Approaches
-      for Internal Rails Services'
-  deprecating-activeresource:-alternative-approaches-for-internal-rails-services:
-  - type: video
-    url: https://skillsmatter.com/skillscasts/5283-deprecating-activeresource-alternative-approaches-for-internal-rails-services
     title: 'Skills Matter : London Ruby User Group : Deprecating ActiveResource: Alternative
       Approaches for Internal Rails Services'
 june:
   patterns-antipatterns-in-teaching:
   - type: video
     url: https://skillsmatter.com/skillscasts/5366-patterns-antipatterns-in-teaching
-    title: 'Skills Matter : SKILLSCAST : Patterns & Antipatterns in Teaching'
-  adventures-with-data-structures-and-algorithms:
-  - type: video
-    url: https://skillsmatter.com/skillscasts/5367-adventures-with-data-structures-and-algorithms
-    title: 'Skills Matter : SKILLSCAST : Adventures with data structures and algorithms'
+    title: 'Skills Matter : London Ruby User Group : Patterns & Antipatterns in Teaching'
   - type: video
     url: https://skillsmatter.com/skillscasts/5367-adventures-with-data-structures-and-algorithms
     title: 'Skills Matter : London Ruby User Group : Adventures with data structures
       and algorithms'
-  patterns-&-antipatterns-in-teaching:
-  - type: video
-    url: https://skillsmatter.com/skillscasts/5366-patterns-antipatterns-in-teaching
-    title: 'Skills Matter : London Ruby User Group : Patterns & Antipatterns in Teaching'
 july:
   welcome-back-to-rspec:
   - type: slides
@@ -191,28 +150,16 @@ july:
     title: Welcome back to RSpec
   - type: video
     url: https://skillsmatter.com/skillscasts/5438-welcome-back-to-rspec
-    title: Welcome back to RSpec
-  - type: video
-    url: https://skillsmatter.com/skillscasts/5438-welcome-back-to-rspec
     title: 'Skills Matter : London Ruby User Group : Welcome back to RSpec'
   continuous-deliverance-set-your-development-free:
   - type: video
     url: https://skillsmatter.com/skillscasts/5440-continuous-deliverance-set-your-development-free
-    title: 'Skills Matter : SKILLSCAST : Continuous Deliverance - set your development
-      free'
+    title: 'Skills Matter : London Ruby User Group : Continuous Deliverance - set
+      your development free'
   becoming-a-developer-codebar:
-  - type: video
-    url: https://skillsmatter.com/skillscasts/5454-becoming-a-developer-and-codebar
-    title: 'Skills Matter : SKILLSCAST : Becoming a Developer & Codebar'
   - type: write-up
     url: http://techfoxuk.wordpress.com/2014/07/20/speaking-at-lrug/
     title: Speaking at LRUG | techfox_uk
-  continuous-deliverance---set-your-development-free:
-  - type: video
-    url: https://skillsmatter.com/skillscasts/5440-continuous-deliverance-set-your-development-free
-    title: 'Skills Matter : London Ruby User Group : Continuous Deliverance - set
-      your development free'
-  becoming-a-developer-&-codebar:
   - type: video
     url: https://skillsmatter.com/skillscasts/5454-becoming-a-developer-and-codebar
     title: 'Skills Matter : London Ruby User Group : Becoming a Developer & Codebar'
@@ -220,26 +167,14 @@ august:
   a-gentle-introduction-to-music-theory-in-ruby:
   - type: video
     url: https://skillsmatter.com/skillscasts/5511-a-gentle-introduction-to-music-theory-in-ruby
-    title: 'Skills Matter : Skillscast : A gentle introduction to music theory (in
-      ruby)'
+    title: 'Skills Matter : London Ruby User Group : A gentle introduction to music
+      theory (in ruby)'
   how-to-make-guacamole:
   - type: video
     url: https://skillsmatter.com/skillscasts/5510-how-to-make-guacamole
-    title: 'Skills Matter : Skillscast : How to make guacamole'
-  - type: video
-    url: https://skillsmatter.com/skillscasts/5510-how-to-make-guacamole
     title: 'Skills Matter : London Ruby User Group : How to make Guacamole'
-  a-gentle-introduction-to-music-theory-(in-ruby):
-  - type: video
-    url: https://skillsmatter.com/skillscasts/5511-a-gentle-introduction-to-music-theory-in-ruby
-    title: 'Skills Matter : London Ruby User Group : A gentle introduction to music
-      theory (in ruby)'
 september:
   how-not-to-become-a-terrible-human-being-once-you-get-a-leadership-title:
-  - type: video
-    url: https://skillsmatter.com/skillscasts/5707-how-not-to-become-a-terrible-human-being-once-you-get-a-leadership-title
-    title: 'Skills Matter : Skillscast : How not to become a terrible human being
-      once you get a leadership title'
   - type: video
     url: https://skillsmatter.com/skillscasts/5707-how-not-to-become-a-terrible-human-being-once-you-get-a-leadership-title
     title: 'Skills Matter : London Ruby User Group : How not to become a terrible
@@ -249,26 +184,15 @@ september:
     url: https://speakerdeck.com/jairodiaz/bebox-convention-over-configuration-for-puppet-repositories
     title: Bebox – Convention over configuration for puppet repositories
   - type: video
-    url: https://www.skillsmatter.com/skillscasts/5708-bebox-convention-over-configuration-for-puppet-repositories
-    title: Bebox - Convention over configuration for puppet repositories
-  learn-to-code-in-12-weeks:
-  - type: video
-    url: https://skillsmatter.com/skillscasts/5709-learn-to-code-in-12-weeks
-    title: 'Skills Matter : Skillscast : Learn to code in 12 weeks?'
-  bebox---convention-over-configuration-for-puppet-repositories:
-  - type: video
     url: https://skillsmatter.com/skillscasts/5708-bebox-convention-over-configuration-for-puppet-repositories
     title: 'Skills Matter : London Ruby User Group : Bebox - Convention over configuration
       for puppet repositories'
-  learn-to-code-in-12-weeks?:
+  learn-to-code-in-12-weeks:
   - type: video
     url: https://skillsmatter.com/skillscasts/5709-learn-to-code-in-12-weeks
     title: 'Skills Matter : London Ruby User Group : Learn to code in 12 weeks?'
 october:
   live-coding-in-the-classroom:
-  - type: video
-    url: https://skillsmatter.com/skillscasts/5809-live-coding-in-the-classroom
-    title: Live Coding in the Classroom
   - type: video
     url: https://skillsmatter.com/skillscasts/5809-live-coding-in-the-classroom
     title: 'Skills Matter : London Ruby User Group : Live Coding in the Classroom'
@@ -280,11 +204,11 @@ october:
     url: https://skillsmatter.com/skillscasts/5808-be-a-good-unix-citizen
     title: 'Skills Matter : London Ruby User Group : Be a good UNIX citizen'
 november:
-  julia---fast-and-dynamic:
+  julia-fast-and-dynamic:
   - type: video
     url: https://skillsmatter.com/skillscasts/5927-julia-fast-and-dynamic
     title: 'Skills Matter : London Ruby User Group : Julia  - Fast and Dynamic'
-  peas---a-docker-and-ruby-based-paas:
+  peas-a-docker-and-ruby-based-paas:
   - type: video
     url: https://skillsmatter.com/skillscasts/5928-peas-a-docker-and-ruby-based-paas
     title: 'Skills Matter : London Ruby User Group : Peas - A Docker and Ruby based
@@ -294,7 +218,7 @@ december:
   - type: video
     url: https://skillsmatter.com/skillscasts/6079-an-rspec-3-talk
     title: 'Skills Matter : London Ruby User Group : An RSpec 3 Talk'
-  are-you-sure-it's-right?:
+  are-you-sure-its-right:
   - type: video
     url: https://skillsmatter.com/skillscasts/6078-are-you-sure-its-right
-    title: 'Skills Matter : London Ruby User Group : Are you sure it''s right?'
+    title: 'Skills Matter : London Ruby User Group : Are you sure it's right?'

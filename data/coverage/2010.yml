@@ -52,6 +52,11 @@ may:
   - type: video
     url: https://skillsmatter.com/skillscasts/1407-daniel-lucraft-ruby-profilers
     title: 'Skills Matter : London Ruby User Group : Ruby Profilers'
+  tokyo-cabinet-tokyo-tyrant-and-kyoto-cabinet-the-world-of-mikio-ware:
+  - type: video
+    url: https://skillsmatter.com/skillscasts/1402-makoto-inoue-tokyo-cabinet-tokyo-tyrant-kyoto-cabinet-mikio-ware
+    title: 'Skills Matter : London Ruby User Group : Tokyo Cabinet, Tokyo Tyrant and
+      Kyoto Cabinet: the World of Mikio Ware'
 june:
   my-first-ruby:
   - type: transcript
@@ -60,33 +65,26 @@ june:
   - type: video
     url: https://skillsmatter.com/skillscasts/1427-my-first-ruby
     title: 'Skills Matter : Skills Cast : My first ruby'
-  - type: video
-    url: https://skillsmatter.com/skillscasts/1427-my-first-ruby
-    title: 'Skills Matter : London Ruby User Group : My first ruby'
   unix-rediscovering-the-wheel:
   - type: video
     url: https://skillsmatter.com/skillscasts/1428-unix-rediscovering-the-wheel
     title: 'Skills Matter : Skills Cast : UNIX: Rediscovering the wheel'
-  unix:-rediscovering-the-wheel:
-  - type: video
-    url: https://skillsmatter.com/skillscasts/1428-unix-rediscovering-the-wheel
-    title: 'Skills Matter : London Ruby User Group : UNIX: Rediscovering the wheel'
 july:
-  carat:-an-interpreted-language,-written-in-ruby:
-  - type: video
-    url: https://skillsmatter.com/skillscasts/1458-carat-an-interpreted-language-written-in-ruby
-    title: 'Skills Matter : London Ruby User Group : Carat: An interpreted language,
-      written in Ruby'
   actionembedding:
   - type: video
     url: https://skillsmatter.com/skillscasts/1461-actionembedding
     title: 'Skills Matter : London Ruby User Group : ActionEmbedding'
+  carat-an-interpreted-language-written-in-ruby:
+  - type: video
+    url: https://skillsmatter.com/skillscasts/1458-carat-an-interpreted-language-written-in-ruby
+    title: 'Skills Matter : London Ruby User Group : Carat: An interpreted language,
+      written in Ruby'
 august:
   making-old-projects-better:
   - type: video
     url: https://skillsmatter.com/skillscasts/1506-making-old-projects-better
     title: 'Skills Matter : London Ruby User Group : Making old projects better'
-  ittybittyboom.com-and-cramp:
+  ittybittyboom-com-and-cramp:
   - type: video
     url: https://skillsmatter.com/skillscasts/1513-cramp
     title: 'Skills Matter : London Ruby User Group : Ittybittyboom.com and Cramp'
