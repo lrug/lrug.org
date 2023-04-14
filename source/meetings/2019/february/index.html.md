@@ -67,7 +67,7 @@ than 10 minutes.
 > What is a CDN? Why use one? What support does Rails provide
 > out-of-the-box and what customisations can you make to do more?
 
-{::coverage year="2019" month="february" talk="using-rails-with-a-content-distribution-network-(cdn)" /}
+{::coverage year="2019" month="february" talk="using-rails-with-a-content-distribution-network-cdn" /}
 
 #### A developer and a designer, getting along famously
 
@@ -79,7 +79,7 @@ than 10 minutes.
 > more complex problems. When we collaborate every day, nothing can stop
 > us.
 
-{::coverage year="2019" month="february" talk="a-developer-and-a-designer,-getting-along-famously" /}
+{::coverage year="2019" month="february" talk="a-developer-and-a-designer-getting-along-famously" /}
 
 #### Humans are hard
 

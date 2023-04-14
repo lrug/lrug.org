@@ -54,7 +54,7 @@ Our July meeting has three fantastic talks:
 > the knowledge of when to use them (and when not to), and arguments to help
 > convince your colleagues of your great new ideas.
 
-{::coverage year="2018" month="july" talk="css-shapes:-upgrade-your-page-layouts" /}
+{::coverage year="2018" month="july" talk="css-shapes-upgrade-your-page-layouts" /}
 
 ## As You Like It - if Shakespeare had written Functions as a Service
 
@@ -67,7 +67,7 @@ Our July meeting has three fantastic talks:
 > * The Ruby FDK (Function Development Kit)
 > * With a bit of inspiration from William Shakespeare.
 
-{::coverage year="2018" month="july" talk="as-you-like-it---if-shakespeare-had-written-functions-as-a-service" /}
+{::coverage year="2018" month="july" talk="as-you-like-it-if-shakespeare-had-written-functions-as-a-service" /}
 
 ### Food and Drinks
 

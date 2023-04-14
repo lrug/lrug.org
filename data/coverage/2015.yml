@@ -104,8 +104,7 @@ june:
   redis-is-the-answer-whats-the-question:
   - type: video
     url: https://skillsmatter.com/skillscasts/6454-redis-is-the-answer-what-s-the-question
-    title: 'Skills Matter : London Ruby User Group : Redis is the answer, what's
-      the question?'
+    title: "Skills Matter : London Ruby User Group : Redis is the answer, what's the question?"
 july:
   flaky-tests-capybara-best-practices: []
   learning-how-to-learn-ruby-and-rails-and-sinatra-and: []
@@ -154,9 +153,6 @@ october:
   activerecord-vs-n-1:
   - type: video
     url: https://skillsmatter.com/skillscasts/6731-activerecord-vs-n-1
-    title: 'Skills Matter : Skills Cast : ActiveRecord vs N+1'
-  - type: video
-    url: https://skillsmatter.com/skillscasts/6731-activerecord-vs-n-1
     title: 'Skills Matter : London Ruby User Group : ActiveRecord vs N+1'
   api-first-banking:
   - type: video
@@ -175,10 +171,6 @@ november:
     url: https://skillsmatter.com/skillscasts/7064-leveraging-immutability-in-ruby
     title: 'Skills Matter : London Ruby User Group : Leveraging immutability in Ruby'
   no-mans-land-finding-peace-at-the-border-of-art-and-tech:
-  - type: video
-    url: https://skillsmatter.com/skillscasts/7058-no-man-s-land-finding-peace-at-the-border-of-art-and-tech
-    title: 'Skills Matter : Skills Cast : No-Man''s Land - Finding peace at the border
-      of art and tech'
   - type: video
     url: https://skillsmatter.com/skillscasts/7058-no-man-s-land-finding-peace-at-the-border-of-art-and-tech
     title: 'Skills Matter : London Ruby User Group : No-Man’s Land - Finding peace

@@ -29,7 +29,7 @@ registration details are given below](#mar19registration).
 
 >You've been using RSpec for a while, you know how to write tests, but you’re not sure you're getting the most from it. This is a quick run through of some of the lesser known, more advanced features of RSpec.
 
-{::coverage year="2019" month="march" talk="rspec---level-up" /}
+{::coverage year="2019" month="march" talk="rspec-level-up" /}
 
 
 ## Education, Recruitment and Technology: What needs to change?
@@ -38,7 +38,7 @@ registration details are given below](#mar19registration).
 
 >The traditional education system is letting down the next generation by not preparing them for the future of work. Edify is working to change this whilst planning to disrupt the public sector through the innovation of digital policy.
 
-{::coverage year="2019" month="march" talk="education,-recruitment-and-technology:-what-needs-to-change?" /}
+{::coverage year="2019" month="march" talk="education-recruitment-and-technology-what-needs-to-change" /}
 
 ## Representations count
 

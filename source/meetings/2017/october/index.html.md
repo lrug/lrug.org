@@ -30,7 +30,7 @@ given below](#oct17registration).
 > violinist and Makers Academy alumna to promote practices that lead to code
 > that’s well-designed, extensible, easy to debug, and enjoyable to write.
 
-{::coverage year="2017" month="october" talk="work-smart,-not-hard" /}
+{::coverage year="2017" month="october" talk="work-smart-not-hard" /}
 
 ### Splitting strings
 

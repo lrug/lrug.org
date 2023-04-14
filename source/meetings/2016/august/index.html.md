@@ -51,7 +51,7 @@ The August 2016 meeting of LRUG will be on *Monday the 8th of August*, from 6:00
 
 > Everything you ever need to know about how to write the most wonderful code, in 10 minutes.
 
-{::coverage year="2016" month="august" talk="tell-don-t-ask" /}
+{::coverage year="2016" month="august" talk="tell-dont-ask" /}
 
 ## Afterwards
 

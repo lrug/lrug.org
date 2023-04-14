@@ -33,7 +33,7 @@ and registration details are given below](#apr18registration).
 > is either missing or makes no sense. How can we make little changes to the
 > way we think about documentation to make things better?
 
-{::coverage year="2018" month="april" talk="you’re-doing-documentation-wrong-(and-so-am-i)" /}
+{::coverage year="2018" month="april" talk="youre-doing-documentation-wrong-and-so-am-i" /}
 
 ### Sliding Puzzles
 

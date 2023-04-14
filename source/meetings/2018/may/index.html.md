@@ -36,7 +36,7 @@ We've got three great talks for you in May:
 > gives you another perspective on ‘the business’ and helps you become a more
 > rounded developer.
 
-{::coverage year="2018" month="may" talk="software-development-–-a-view-from-the-boardroom" /}
+{::coverage year="2018" month="may" talk="software-development-a-view-from-the-boardroom" /}
 
 ## An Introduction to Event Sourcing
 
@@ -64,7 +64,7 @@ We've got three great talks for you in May:
 > study writing? This talk explores concepts from three books about writing and 
 > applies them to coding.
 
-{::coverage year="2018" month="may" talk="on-writing-<%=-code-%>" /}
+{::coverage year="2018" month="may" talk="on-writing-code" /}
 
 ## Afterwards
 

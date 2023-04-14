@@ -37,7 +37,7 @@ registration details are given below](#dec18registration).
 > model, method lookup — she's about to discover that she really has no
 > clue.
 
-{::coverage year="2018" month="december" talk="the-case-of-the-missing-method-—-a-ruby-mystery-story" /}
+{::coverage year="2018" month="december" talk="the-case-of-the-missing-method-a-ruby-mystery-story" /}
 
 
 ## The problem with compiling Ruby
@@ -61,7 +61,7 @@ registration details are given below](#dec18registration).
 > about these topics and more in this lightning talk about testing with
 > Capybara & Chrome
 
-{::coverage year="2018" month="december" talk="pro-capybara-herding:-feature-testing-tips" /}
+{::coverage year="2018" month="december" talk="pro-capybara-herding-feature-testing-tips" /}
 
 ## Afterwards
 

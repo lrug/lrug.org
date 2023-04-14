@@ -43,7 +43,7 @@ given below](#dec17registration).
 > I'll show you how to very quickly build and deploy a useful "skill" with
 > Ruby, and at the same time, make sure you hopefully don't burn the dinner.
 
-{::coverage year="2017" month="december" talk="fun-with-an-amazon-echo,-ruby-and-recipes" /}
+{::coverage year="2017" month="december" talk="fun-with-an-amazon-echo-ruby-and-recipes" /}
 
 ### How I met "Double Dutch" and he helped to remedy fear of injection.
 
@@ -54,7 +54,7 @@ given below](#dec17registration).
 > Excel(spreadsheet) injection, how they go together and why fighting
 > (accidental) code complexity matters.
 
-{::coverage year="2017" month="december" talk="how-i-met-"double-dutch"-and-he-helped-to-remedy-fear-of-injection." /}
+{::coverage year="2017" month="december" talk="how-i-met-double-dutch-and-he-helped-to-remedy-fear-of-injection" /}
 
 ## Afterwards
 

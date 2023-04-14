@@ -1,7 +1,7 @@
 ---
 january:
   a-pub-quiz-with-a-twist-of-ruby:
-    type: video
+  - type: video
     url: https://skillsmatter.com/skillscasts/3875-a-pub-quiz-with-a-twist-of-ruby
     title: 'Skills Matter : London Ruby User Group : A Pub Quiz With A Twist of Ruby!'
 february:
@@ -15,9 +15,6 @@ february:
     title: Notes, code and "slides" (aka terminal program) of talk
   - type: video
     url: http://skillsmatter.com/podcast/home/one-plus-two-equals-three
-    title: 'Skills Matter : London Ruby User Group : 1+2=3'
-  - type: video
-    url: https://skillsmatter.com/skillscasts/3973-one-plus-two-equals-three
     title: 'Skills Matter : London Ruby User Group : 1+2=3'
   extremist-programming:
   - type: slides
@@ -167,7 +164,7 @@ october:
     title: 'Examples of using Enumnerators: paginated_collection.rb'
   - type: slides
     url: https://speakerdeck.com/ollylegg/enumerators
-    title: Enumerators
+    title: Enumerators in Ruby
   - type: video
     url: http://skillsmatter.com/podcast/home/enumerators-in-ruby
     title: 'Skills Matter : London Ruby User Group : Enumerators in Ruby'
@@ -196,7 +193,7 @@ november:
   how-to-parse-go:
   - type: video
     url: https://skillsmatter.com/skillscasts/4883-how-to-parse-go
-    title: 'Skills Matter : London Ruby User Group : How to parse 'go''
+    title: "Skills Matter : London Ruby User Group : How to parse 'go'"
 december:
   a-fizzbuzz-to-rule-them-all:
   - type: video

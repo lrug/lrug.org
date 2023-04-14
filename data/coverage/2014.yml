@@ -139,6 +139,7 @@ june:
   - type: video
     url: https://skillsmatter.com/skillscasts/5366-patterns-antipatterns-in-teaching
     title: 'Skills Matter : London Ruby User Group : Patterns & Antipatterns in Teaching'
+  adventures-with-data-structures-and-algorithms:
   - type: video
     url: https://skillsmatter.com/skillscasts/5367-adventures-with-data-structures-and-algorithms
     title: 'Skills Matter : London Ruby User Group : Adventures with data structures
@@ -221,4 +222,4 @@ december:
   are-you-sure-its-right:
   - type: video
     url: https://skillsmatter.com/skillscasts/6078-are-you-sure-its-right
-    title: 'Skills Matter : London Ruby User Group : Are you sure it's right?'
+    title: "Skills Matter : London Ruby User Group : Are you sure it's right?"

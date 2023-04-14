@@ -58,7 +58,7 @@ The November 2015 meeting of LRUG will be on *Monday the 9th of November*, from 
 > technicians within their comfort zone to create applications that work well
 > AND look good.
 
-{::coverage year="2015" month="november" talk="no-man-s-land-finding-peace-at-the-border-of-art-and-tech" /}
+{::coverage year="2015" month="november" talk="no-mans-land-finding-peace-at-the-border-of-art-and-tech" /}
 
 ## Pub
 

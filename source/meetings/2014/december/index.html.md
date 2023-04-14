@@ -30,7 +30,7 @@ The December 2014 meeting of LRUG will be on *Monday the 8th of December*, from 
 > * Validations and verifications
 > * Security tools and frameworks
 
-{::coverage year="2014" month="december" talk="are-you-sure-it's-right?" /}
+{::coverage year="2014" month="december" talk="are-you-sure-its-right" /}
 
 ### An RSpec 3 Talk
 

@@ -10,7 +10,7 @@ january:
     title: 'Judge: Client-side form validation in Rails 3'
   - type: video
     url: http://skillsmatter.com/podcast/home/judge
-    title: 'Skills Matter : London Ruby User Group: Judge: Client side form validation
+    title: 'Skills Matter : London Ruby User Group : Judge: Client side form validation
       for rails 3'
 february:
   breaking-up-is-hard-to-do:
@@ -85,21 +85,13 @@ may:
   rubys-bin-men-a-closer-look-at-the-garbage-collector:
   - type: video
     url: http://skillsmatter.com/podcast/ajax-ria/ruby-bin-men
-    title: "Skills Matter : London Ruby User Group: Ruby'\x92s bin men : a closer
+    title: "Skills Matter : London Ruby User Group: Ruby's bin men : a closer
       look at the garbage collector"
-  - type: video
-    url: https://skillsmatter.com/skillscasts/3314-ruby-bin-men
-    title: 'Skills Matter : London Ruby User Group : Ruby’s bin men: a closer look
-      at the garbage collector'
   dependency-injection-the-dependency-inversion-principle-and-you:
   - type: video
     url: http://skillsmatter.com/podcast/ajax-ria/dependency-injection
     title: 'Skills Matter : London Ruby User Group: Dependency Injection, the Dependency
       Inversion Principle and You!'
-  - type: video
-    url: https://skillsmatter.com/skillscasts/3315-dependency-injection
-    title: 'Skills Matter : London Ruby User Group : Dependency Injection, the Dependency
-      Inversion Principle, and You'
 june:
   introduction-to-elasticsearch:
   - type: slides
@@ -162,9 +154,6 @@ october:
   - type: video
     url: http://skillsmatter.com/podcast/ajax-ria/dtrace-ruby
     title: 'Skills Matter : London Ruby User Group : DTrace + Ruby'
-  - type: video
-    url: https://skillsmatter.com/skillscasts/3695-dtrace-ruby
-    title: 'Skills Matter : London Ruby User Group : DTrace + Ruby'
 november:
   background-processing-in-ruby-and-rails:
   - type: slides
@@ -206,7 +195,4 @@ december:
     url: http://skillsmatter.com/podcast/ajax-ria/my-tests-run-faster-than-your-tests
     title: 'Skills Matter : London Ruby User Group : My tests run faster than your
       tests'
-  - type: video
-    url: https://skillsmatter.com/skillscasts/3851-my-tests-run-faster-than-your-tests
-    title: 'Skills Matter : London Ruby User Group : My tests run faster than your
-      tests'
+

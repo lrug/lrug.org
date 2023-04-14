@@ -25,7 +25,7 @@ There is more information available on the [mailing list thread where Paul annou
 _UPDATE_ 
 If you have written a player [read this missive from Paul](http://lists.lrug.org/pipermail/chat-lrug.org/2011-October/006510.html) and make sure you are prepared.
 
-{::coverage year="2011" month="october" talk="lrug-battleship:-ruby-fight-club" /}
+{::coverage year="2011" month="october" talk="lrug-battleship-ruby-fight-club" /}
 
 ## Pub
 

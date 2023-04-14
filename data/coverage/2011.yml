@@ -6,7 +6,7 @@ january:
     title: Matthew Rudy Jacobs - Building a Financial App in Rails
   - type: video
     url: http://skillsmatter.com/podcast/ajax-ria/building-a-financial-app-in-ruby-and-rails
-    title: Matthew Rudy Jacobs - Building a Financial App in Rails
+    title: 'Skills Matter : London Ruby User Group : Building a Financial App in Rails'
   processing-tweets-at-the-bbc:
   - type: slides
     url: http://dl.dropbox.com/u/909897/lrug_twitter_firehose/index.html
@@ -70,10 +70,6 @@ march:
     title: 'Skills Matter : London Ruby User Group : Primer, a caching system for
       rails'
   lessons-learned-bdd-ing-a-command-line-utility-gem:
-  - type: video
-    url: http://skillsmatter.com/podcast/ajax-ria/lessons-learned-bdd-ing-a-command-line-utility-gem
-    title: 'Skills Matter : London Ruby User Group : Lessons learned BDD-ing a command
-      line gem'
   - type: video
     url: https://skillsmatter.com/skillscasts/2069-lessons-learned-bdd-ing-a-command-line-utility-gem
     title: 'Skills Matter : London Ruby User Group : Lessons learned BDD-ing a command-line

@@ -34,7 +34,7 @@ regular format, with three talks for your enjoyment:
 > Comparison between Action Cable and MessageBus for live updates in Rails
 > application. Introduction to both solutions, basic implementation and benchmarks.
 
-{::coverage year="2017" month="march" talk="action-cable-vs.-messagebus---live-updates-tailored-for-rails" /}
+{::coverage year="2017" month="march" talk="action-cable-vs-messagebus-live-updates-tailored-for-rails" /}
 
 ### The story of the not-so dark magic of application preloading
 

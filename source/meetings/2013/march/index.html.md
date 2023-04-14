@@ -34,7 +34,7 @@ The March 2013 meeting of LRUG will be on *Monday* the 11th of March, from 6:30p
 > talk will also touch on S3-backed site deploys & Route53
 > IP failover to that S3 site.
 
-{::coverage year="2013" month="march" talk="deliver" /}
+{::coverage year="2013" month="march" talk="showing-off-deliver" /}
 
 ### Passing on our skills to the next generation
 

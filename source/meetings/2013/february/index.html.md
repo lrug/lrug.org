@@ -25,7 +25,7 @@ The February 2013 meeting of LRUG will be on *Monday* the 11th of February, from
 
 February is our annual lightning talk evening and as usual we're using the 20x20 format for the talks.  If you've never encountered this format before it's when the speaker has 20 slides that auto-transition after 20 seconds, giving them a total of 6 minutes and 40 seconds in which to get their point across.
 
-Our confirmed volunteers for 2012 are:
+Our confirmed volunteers for 2013 are:
 
 #### [Yann Armand](http://blog.harakys.com/)
 
@@ -41,37 +41,37 @@ Our confirmed volunteers for 2012 are:
 
 #### [Pablo Brasero Moreno](http://pablobm.com/)
 
-> extremist programming
+> Extremist programming
 
 {::coverage year="2013" month="february" talk="extremist-programming" /}
 
 #### [Steve Buckley](http://twitter.com/StevieBuckley)
 
-> contractor rates & salaries for Ruby devs in London
+> Contractor rates & salaries for Ruby devs in London
 
 {::coverage year="2013" month="february" talk="contractor-rates-salaries-for-ruby-devs-in-london" /}
 
 #### [Seb Jacobs](http://sebjacobs.com/)
 
-> mruby & me
+> Mruby & me
 
 {::coverage year="2013" month="february" talk="mruby" /}
 
 #### [Nasir Jamal](http://twitter.com/_nasj)
 
-> love your pull requests
+> Love your pull requests
 
 {::coverage year="2013" month="february" talk="love-your-pull-requests" /}
 
 #### [Gerhard Lazu](http://gerhardlazu.com/)
 
-> what would Jason Bourne do?
+> What would Jason Bourne do?
 
 {::coverage year="2013" month="february" talk="what-would-jason-bourne-do" /}
 
 #### [Randy Morgan](https://github.com/randym)
 
-> polyglottous emberjs with rake-pipeline and localeapp
+> Polyglottous emberjs with rake-pipeline and localeapp
 
 {::coverage year="2013" month="february" talk="polyglottous-emberjs-with-rake-pipeline-and-localeapp" /}
 

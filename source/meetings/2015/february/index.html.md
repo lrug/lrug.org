@@ -28,49 +28,49 @@ As usual we give our February meeting over to lightning talks of no more than 10
 
 #### Paul Battley
 
-> a library for handling postcodes
+> A library for handling postcodes
 
 {::coverage year="2015" month="february" talk="a-library-for-handling-postcodes" /}
 
 #### Andrew Donovan
 
-> finding and taking opportunities in the enterprise
+> Finding and taking opportunities in the enterprise
 
 {::coverage year="2015" month="february" talk="finding-and-taking-opportunities-in-the-enterprise" /}
 
 #### Paula Kennedy
 
-> microaggression: Impact on Women in IT
+> Microaggression: Impact on Women in IT
 
 {::coverage year="2015" month="february" talk="microaggression-impact-on-women-in-it" /}
 
 #### Mark Longair
 
-> introducing [YourNextMP](https://yournextmp.com/)
+> Introducing [YourNextMP](https://yournextmp.com/)
 
 {::coverage year="2015" month="february" talk="introducing-yournextmp" /}
 
 #### Evgeny Shadchnev
 
-> how to help beginners learn to code
+> How to help beginners learn to code
 
 {::coverage year="2015" month="february" talk="how-to-help-beginners-learn-to-code" /}
 
 #### Alex Sunderland
 
-> the weird bits of ruby
+> The weird bits of ruby
 
 {::coverage year="2015" month="february" talk="ruby:-the-weird-bits" /}
 
 #### Pip Taylor
 
-> sorting out [Colour](https://github.com/ms-digital-labs/color_sort)
+> Sorting out [Colour](https://github.com/ms-digital-labs/color_sort)
 
 {::coverage year="2015" month="february" talk="sorting-out-colour" /}
 
 #### Michael Wawra
 
-> tech evangelism
+> Tech evangelism
 
 {::coverage year="2015" month="february" talk="tech-evangelism" /}
 

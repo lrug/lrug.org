@@ -47,6 +47,9 @@ The November 2013 meeting of LRUG will be on *Monday the 11th of November*, from
 > and discusses how you can build solutions to your
 > language processing problems within your Ruby-based apps.
 
+
+{::coverage year="2013" month="november" talk="how-to-parse-go" /}
+
 ## Pub
 
 After the talks many of us head over to [The Slaughtered Lamb](http://www.theslaughteredlambpub.com/) to continue the evening.  The speakers are usually there, so it's a perfect opportunity to ask them more in-depth questions about their talk, or just thank them for their effort.  If you can't make the talks, it's totally fine to just come along for this part of the meeting; we get there about 8pm.

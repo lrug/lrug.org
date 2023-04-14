@@ -51,7 +51,7 @@ minutes.  This year our talks are:
 > How `Symbol#to_proc` found its way into Ruby core, who put it there, ways it
 > can be extended, and a crude drawing of a fish.
 
-{::coverage year="2018" month="february" talk="_why-symbol#to_proc-works-and-more" /}
+{::coverage year="2018" month="february" talk="why-symbol-to-proc-works-and-more" /}
 
 ## Introduction to Active Storage
 
@@ -74,7 +74,7 @@ minutes.  This year our talks are:
 > works, how to debug errors coming from a gem you're using and how to make your
 > own gem.
 
-{::coverage year="2018" month="february" talk="things-i-wish-i'd-known-about-ruby-gems" /}
+{::coverage year="2018" month="february" talk="things-i-wish-id-known-about-ruby-gems" /}
 
 ## Increase your quality of life: An RSpec primer
 
@@ -85,7 +85,7 @@ minutes.  This year our talks are:
 > a list of nice to knows, but did you actually know them? Based on [“Effective
 > testing with Rspec 3” by Myron Marston and Ian Dees](https://pragprog.com/book/rspec3/effective-testing-with-rspec-3)
 
-{::coverage year="2018" month="february" talk="increase-your-quality-of-life:-an-rspec-primer" /}
+{::coverage year="2018" month="february" talk="increase-your-quality-of-life-an-rspec-primer" /}
 
 ## Git commit signing: Code we can trust?
 
@@ -103,7 +103,7 @@ minutes.  This year our talks are:
 > It turns out Git has a cool feature that can help us trust the code we deploy.
 > We'll discuss Git Commit Signing, how it can help us, and what downsides it may have.
 
-{::coverage year="2018" month="february" talk="git-commit-signing:-code-we-can-trust?" /}
+{::coverage year="2018" month="february" talk="git-commit-signing-code-we-can-trust" /}
 
 ## Afterwards
 

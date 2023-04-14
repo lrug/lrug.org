@@ -42,7 +42,7 @@ given below](#may17registration).
 > like it, and how to embed it in your Ruby code to get a bigger speed boost
 > than those shiny stars in Mariokart.
 
-{::coverage year="2017" month="may" talk="a-brief-(and-incomplete)-introduction-to-rust-(for-rubyists)" /}
+{::coverage year="2017" month="may" talk="a-brief-and-incomplete-introduction-to-rust-for-rubyists" /}
 
 ### Do you even declarative?
 
@@ -52,7 +52,7 @@ given below](#may17registration).
 > and a look at the broader idea of the relationship between mathematics and
 > computing.
 
-{::coverage year="2017" month="may" talk="do-you-even-declarative?" /}
+{::coverage year="2017" month="may" talk="do-you-even-declarative" /}
 
 ## Afterwards
 

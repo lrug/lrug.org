@@ -53,6 +53,8 @@ The March 2015 meeting of LRUG will be on *Monday the 9th of March*, from 6:30pm
 >
 > <a name="pkgr-ps">*</a> - huge assumption warning!”
 
+{::coverage year="2015" month="march" talk="pkgr-packaging-ruby-applications-with-no-sweat" /}
+
 ### Pizza
 
 {::sponsor name="Braintree Payments" size="main" /}

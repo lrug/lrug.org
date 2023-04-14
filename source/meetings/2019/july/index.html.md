@@ -31,7 +31,7 @@ registration details are given below](#jul19registration).
 
 >  Using AWS and Google Cloud, we will then dive in to demo and examples to show you how to get started and the true potentials of serverless - plus tons of facts about coconuts Until last year the support for Ruby in the world of FAAS was next to non-existent, now that AWS Lambda has officially started supporting Ruby, I want to catch up any Rubyists who are not yet familiar with the technology, so it can be another tool for the toolbox.
 
-{::coverage year="2019" month="july" talk="what-does-a-coconut-and-serverless-have-in-common?" /}
+{::coverage year="2019" month="july" talk="what-does-a-coconut-and-serverless-have-in-common" /}
 
 ### Small Tech Teams
 

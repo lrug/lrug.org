@@ -31,7 +31,7 @@ We've got three great talks for you in August:
 
 > I’ve been a developer for several years and throughout my career I’ve learned how to write clean, well-tested code. I’ve also discovered that sometimes writing the most beautiful poetic code can be horrendously slow when working with lots of data. What I really want is fast code. I know the topic of performance can seem intimidating at first - don’t worry I am by no means an expert in performance either! My talk isn't about compiler optimisation, multithreading, profilers, buffer management or cyclomatic complexity. In fact, what I’ve found is that optimising code doesn’t need to be more complicated than good old fashioned refactoring. Using a real problem that I encountered, my talk will take you through how I made slow code fast. Oh, and bunnies. Lots and lots of bunnies.
 
-{::coverage year="2018" month="august" talk="the-fast-and-the-furriest---performance-refactoring-with-bunnies" /}
+{::coverage year="2018" month="august" talk="the-fast-and-the-furriest-performance-refactoring-with-bunnies" /}
 
 ## Data-driven dependency management
 

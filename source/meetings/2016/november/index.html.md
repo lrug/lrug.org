@@ -64,7 +64,7 @@ Michael Lennox says:
 > it's a really basic intro to some of the layers you can implement tomorrow
 > to compartmentalise your code without having to fight the framework.
 
-{::coverage year="2016" month="november" talk="where-does-my-code-go?" /}
+{::coverage year="2016" month="november" talk="where-does-my-code-go" /}
 
 ### Food and Drinks
 

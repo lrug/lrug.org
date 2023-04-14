@@ -61,7 +61,7 @@ are given below](#dec16registration).
 > get more information out of your A/B tests, and hopefully convince you
 > there's more to them than deciding on some copy, or the colour of a button.
 
-{::coverage year="2016" month="december" talk="an-a/b-test-is-for-life,-not-just-for-christmas" /}
+{::coverage year="2016" month="december" talk="an-a-b-test-is-for-life-not-just-for-christmas" /}
 
 ## Afterwards
 

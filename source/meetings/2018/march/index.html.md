@@ -31,7 +31,7 @@ given below](#mar18registration).
 > perspective of a Ruby developer. When is good to use one over the other and
 > philosophies behind them.
 
-{::coverage year="2018" month="march" talk="web-architecture-choices-&-ruby" /}
+{::coverage year="2018" month="march" talk="web-architecture-choices-ruby" /}
 
 ### Strong opinions, loosely held
 
@@ -42,7 +42,7 @@ given below](#mar18registration).
 > build more robust software, with a special focus on managing larger Rails
 > applications.
 
-{::coverage year="2018" month="march" talk="strong-opinions,-loosely-held" /}
+{::coverage year="2018" month="march" talk="strong-opinions-loosely-held" /}
 
 ### Make responsive emails super-duper easily with MJML
 

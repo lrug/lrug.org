@@ -64,11 +64,11 @@ june:
     title: Talks ∋ My first ruby
   - type: video
     url: https://skillsmatter.com/skillscasts/1427-my-first-ruby
-    title: 'Skills Matter : Skills Cast : My first ruby'
+    title: 'Skills Matter : London Ruby User Group : My first ruby'
   unix-rediscovering-the-wheel:
   - type: video
     url: https://skillsmatter.com/skillscasts/1428-unix-rediscovering-the-wheel
-    title: 'Skills Matter : Skills Cast : UNIX: Rediscovering the wheel'
+    title: 'Skills Matter : London Ruby User Group : UNIX: Rediscovering the wheel'
 july:
   actionembedding:
   - type: video

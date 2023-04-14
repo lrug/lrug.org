@@ -25,7 +25,7 @@ The next meeting of LRUG will be on Wednesday the 8th of July, from 6:30pm to 8:
 
 [Tom Stuart](http://experthuman.com/) will be talking about how abstract algebra is useful for Ruby programmers, both when writing everyday programs and when going to the pub afterwards. As an example he'll show how to use his [VectorSpace](http://github.com/tomstuart/vector_space) library to compare and manipulate structured data for free.
 
-{::coverage year="2009" month="july" talk="do-mix-your-drinks" /}
+{::coverage year="2009" month="july" talk="do-mix-your-drinks " /}
 
 ### Ruby+Arduino
 
@@ -36,7 +36,7 @@ The next meeting of LRUG will be on Wednesday the 8th of July, from 6:30pm to 8:
 > much easier on the hardware side. Now let's add some Ruby
 > so programming those gadgets becomes easy too...
 
-{::coverage year="2009" month="july" talk="ruby+arduino" /}
+{::coverage year="2009" month="july" talk="ruby-arduino" /}
 
 ## Pub
 

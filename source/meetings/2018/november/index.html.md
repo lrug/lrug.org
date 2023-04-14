@@ -36,7 +36,7 @@ registration details are given below](#nov18registration).
 > in a complex ecosystem that contains both established banking institutions and
 > fintech startups.
 
-{::coverage year="2018" month="november" talk="open-banking---from-scraping-to-apis" /}
+{::coverage year="2018" month="november" talk="open-banking-from-scraping-to-apis" /}
 
 ## Ruby HomeKit
 

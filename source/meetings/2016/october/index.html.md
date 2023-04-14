@@ -61,7 +61,7 @@ her team got on with mob-programming:
 > from their mobbing experience, and take away a few tips to try it in your
 > team.
 
-{::coverage year="2016" month="october" talk="joining-the-mob:-top-12-mob-programming-tips-and-thoughts" /}
+{::coverage year="2016" month="october" talk="joining-the-mob-top-12-mob-programming-tips-and-thoughts" /}
 
 ### An open-source contribution story
 

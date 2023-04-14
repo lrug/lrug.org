@@ -21,7 +21,7 @@ The July 2013 meeting of LRUG will be on *Monday* the 15th of July, from 6:30pm 
 
 ## Agenda
 
-### The reluctant Chef
+### The Reluctant Chef
 
 [Simon Coffey](https://twitter.com/urbanautomaton) says:
 

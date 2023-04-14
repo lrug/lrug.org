@@ -46,7 +46,7 @@ The July meeting will be on *Monday* the 12th of July, from 6:30pm to 8:00pm.  O
 
 For those who like spoilers you can see [the code on github](http://github.com/jonleighton/carat) and read [Jonathan's final year report about the project](http://dump.jonathanleighton.com/project.pdf)
 
-{::coverage year="2010" month="july" talk="carat:-an-interpreted-language,-written-in-ruby" /}
+{::coverage year="2010" month="july" talk="carat-an-interpreted-language-written-in-ruby" /}
 
 ### ActionEmbedding
 

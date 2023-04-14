@@ -50,7 +50,7 @@ The August meeting will be on *Monday* the 9th of August, from 6:30pm to 8:00pm.
 > event driven ruby based framework based upon event machine that allows the coder to
 > write succinct, clear code to deal with hundreds or thousands of tcp connections at once.
 
-{::coverage year="2010" month="august" talk="ittybittyboom.com-and-cramp" /}
+{::coverage year="2010" month="august" talk="ittybittyboom-com-and-cramp" /}
 
 ### "Analogue Blog"
 

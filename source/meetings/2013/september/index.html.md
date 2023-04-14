@@ -34,7 +34,7 @@ The September 2013 meeting of LRUG will be on *Monday* the 9th of September, fro
 > discuss the trade-offs of this technique, the different views
 > in the community and a couple of alternatives.
 
-{::coverage year="2013" month="september" talk="concerned-about-concerns?" /}
+{::coverage year="2013" month="september" talk="concerned-about-concerns" /}
 
 ### Scaling beyond Rails
 

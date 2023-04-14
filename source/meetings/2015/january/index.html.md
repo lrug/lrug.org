@@ -32,7 +32,7 @@ The January 2015 meeting of LRUG will be on *Monday the 12th of January*, from 6
 > for performance considerations, using views as a facade on
 > legacy tables and how to test views alongside your application.
 
-{::coverage year="2015" month="january" talk="who-s-afraid-of-database-views" /}
+{::coverage year="2015" month="january" talk="whos-afraid-of-database-views" /}
 
 ### PeerConnect all the things
 

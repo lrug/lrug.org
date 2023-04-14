@@ -156,7 +156,7 @@ february:
   - type: video
     url: https://skillsmatter.com/skillscasts/11458-introduction-to-active-storage
     title: 'Skills Matter : London Ruby User Group : Introduction to Active Storage'
-  _why-symbol-to_proc-works-and-more:
+  why-symbol-to-proc-works-and-more:
   - type: video
     url: https://skillsmatter.com/skillscasts/11456-_why-symbol-to_proc-works-and-more
     title: 'Skills Matter : London Ruby User Group : _why Symbol#to_proc works and

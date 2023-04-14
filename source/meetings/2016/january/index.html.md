@@ -48,7 +48,7 @@ Then Jake will talk to us about his journey while building it:
 > Primed. This is the talk I would like to have heard a year ago when I
 > was beginning that journey.
 
-{::coverage year="2016" month="january" talk="the-journey-to-primed-is" /}
+{::coverage year="2016" month="january" talk="primed-is-improving-recruitment-pain" /}
 
 ### Using direnv with ruby and 12factor apps
 
