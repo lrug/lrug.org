@@ -9,6 +9,7 @@ class VideoLinkScraper
 
   def initialize
     @filepath = './data/coverage/scraped_coverage.yml'
+    # This indicates the Skills Matter pages containing the coverage between 2007 - 2019. 
     @page_numbers = 0..38
   end
 

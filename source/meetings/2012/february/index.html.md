@@ -48,7 +48,7 @@ Our confirmed volunteers for 2012 are:
 
 #### [Harry Marr](http://twitter.com/harrymarr)
 
-Custom documentation generators ([example](https://gocardless.com/docs))
+> Custom documentation generators ([example](https://gocardless.com/docs))
 
 #### [Andrew McDonough](http://twitter.com/andrewmcdonough)
 

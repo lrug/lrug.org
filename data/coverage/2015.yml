@@ -104,7 +104,8 @@ june:
   redis-is-the-answer-whats-the-question:
   - type: video
     url: https://skillsmatter.com/skillscasts/6454-redis-is-the-answer-what-s-the-question
-    title: "Skills Matter : London Ruby User Group : Redis is the answer, what's the question?"
+    title: 'Skills Matter : London Ruby User Group : Redis is the answer, what''s
+      the question?'
 july:
   flaky-tests-capybara-best-practices: []
   learning-how-to-learn-ruby-and-rails-and-sinatra-and: []

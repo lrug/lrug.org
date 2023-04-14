@@ -85,8 +85,8 @@ may:
   rubys-bin-men-a-closer-look-at-the-garbage-collector:
   - type: video
     url: http://skillsmatter.com/podcast/ajax-ria/ruby-bin-men
-    title: "Skills Matter : London Ruby User Group: Ruby's bin men : a closer
-      look at the garbage collector"
+    title: 'Skills Matter : London Ruby User Group: Ruby''s bin men : a closer look
+      at the garbage collector'
   dependency-injection-the-dependency-inversion-principle-and-you:
   - type: video
     url: http://skillsmatter.com/podcast/ajax-ria/dependency-injection
@@ -117,7 +117,7 @@ july:
   what-ruby-cant-do:
   - type: video
     url: http://skillsmatter.com/podcast/home/what-ruby-cant-do
-    title: "Skills Matter : London Ruby User Group : What Ruby can't do"
+    title: 'Skills Matter : London Ruby User Group : What Ruby can''t do'
 august:
   cut-and-polish-crafting-gems:
   - type: video
@@ -195,4 +195,3 @@ december:
     url: http://skillsmatter.com/podcast/ajax-ria/my-tests-run-faster-than-your-tests
     title: 'Skills Matter : London Ruby User Group : My tests run faster than your
       tests'
-

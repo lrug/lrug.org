@@ -22,15 +22,59 @@ This month (just like we did [last February](/meetings/2008/01/25/february-2008-
 
 Those brave volunteers are:
 
-* [Tom Armitage](http://infovoer.org/) - His [Twit 4 Dead](http://infovore.org/archives/2008/12/29/twit-4-dead/) bots ([Francis](http://twitter.com/francis_l4d), [Louis](http://twitter.com/louis_l4d), [Zoey](http://twitter.com/zoey_l4d) & [Bill](http://twitter.com/bill_l4d)).  [Video filmed by Skills Matter](http://skillsmatter.com/podcast/home/his-twit-4-dead-bots-francis-louis-zoey-bill) (or [gvideo](http://video.google.com/videoplay?docid=-1143085762305970737&hl=en)).
-* [Julian Burgess](http://blog.opening-times.co.uk/) - A cry for help - an anti talk? 
-* [Steve Ganly](http://concept-shop.com/) - "rubysmokes" - A proposal for [smoke testing](http://en.wikipedia.org/wiki/Smoke_testing#Smoke_testing_in_software_development) ruby
-* [Richard Livsey](http://livsey.org/) - All the ruby that's fit to merge: [Rails 3.0 & Merb 2.0](http://weblog.rubyonrails.org/2008/12/23/merb-gets-merged-into-rails-3)
-* [Chris Lowis](http://blog.chrislowis.co.uk/) - Ruby and the [GNU Scientific Library](http://www.gnu.org/software/gsl/) and/or [R](http://www.r-project.org/). [Video filmed by Skills Matter](http://skillsmatter.com/podcast/home/ruby-and-the-gnu-scientific-library-andor-r) (or [gvideo](http://video.google.com/videoplay?docid=-2026482871593460666&hl=en)).
-* [Matt Patterson](http://reprocessed.org) - A talk about [dpkg-tools](http://dpkg-tools.rubyforge.org/). [Video filmed by Skills Matter](http://skillsmatter.com/podcast/home/dpkg-tools) (or [gvideo](http://video.google.com/videoplay?docid=-5267972013359521050&hl=en)).
-* [Thomas Pomfret](http://thomaspomfret.com/) - Ruby and [XMPP](http://xmpp.org/). [Video filmed by Skills Matter](http://skillsmatter.com/podcast/home/ruby-and-xmpp) (or [gvideo](http://video.google.com/videoplay?docid=-1066659876626821566&hl=en)).
-* [Roland Swingler](http://knaveofdiamonds.tumblr.com/) - Something about [rubygame](http://rubygame.sourceforge.net/). [Video filmed by Skills Matter](http://skillsmatter.com/podcast/home/something-about-rubygame) (or [gvideo](http://video.google.com/videoplay?docid=326145711359585530&hl=en)).
-* [Tom ten Thij](http://tomtenthij.co.uk/) - Debugging with [ruby-debug](http://www.datanoise.com/ruby-debug). [Video filmed by Skills Matter](http://skillsmatter.com/podcast/home/debugging-with-ruby-debug) (or [gvideo](http://video.google.com/videoplay?docid=412246091245944373&hl=en)).
+### [Tom Armitage](http://infovoer.org/)
+
+> His [Twit 4 Dead](http://infovore.org/archives/2008/12/29/twit-4-dead/) bots ([Francis](http://twitter.com/francis_l4d), [Louis](http://twitter.com/louis_l4d), [Zoey](http://twitter.com/zoey_l4d) & [Bill](http://twitter.com/bill_l4d)).  
+
+{::coverage year="2009" month="february" talk="his-twit-4-dead-bots-francis-louis-zoey-bill" /}
+
+### [Julian Burgess](http://blog.opening-times.co.uk/) 
+
+> Cry for help - an anti talk? 
+
+{::coverage year="2009" month="february" talk="a-cry-for-help-an-anti-talk" /}
+
+### [Steve Ganly](http://concept-shop.com/) - "rubysmokes" 
+
+> A proposal for [smoke testing](http://en.wikipedia.org/wiki/Smoke_testing#Smoke_testing_in_software_development) ruby
+
+{::coverage year="2009" month="february" talk="ruby-smokes-a-proposal-for-smoke-testing-ruby" /}
+
+### [Richard Livsey](http://livsey.org/) 
+
+> All the ruby that's fit to merge: [Rails 3.0 & Merb 2.0](http://weblog.rubyonrails.org/2008/12/23/merb-gets-merged-into-rails-3)
+
+{::coverage year="2009" month="february" talk="all-the-ruby-thats-fit-to-merge-rails-3-0-merb-2-0" /}
+
+### [Chris Lowis](http://blog.chrislowis.co.uk/)
+
+> Ruby and the [GNU Scientific Library](http://www.gnu.org/software/gsl/) and/or [R](http://www.r-project.org/). 
+
+{::coverage year="2009" month="february" talk="ruby-and-the-gnu-scientific-library-and-or-r" /}
+
+### [Matt Patterson](http://reprocessed.org)
+
+> A talk about [dpkg-tools](http://dpkg-tools.rubyforge.org/). 
+
+{::coverage year="2009" month="february" talk="dpkg-tools" /}
+
+### [Thomas Pomfret](http://thomaspomfret.com/)
+
+> Ruby and [XMPP](http://xmpp.org/).
+
+{::coverage year="2009" month="february" talk="ruby-and-xmpp" /}
+
+### [Roland Swingler](http://knaveofdiamonds.tumblr.com/)
+
+> Something about [rubygame](http://rubygame.sourceforge.net/).
+
+{::coverage year="2009" month="february" talk="something-about-rubygame" /}
+
+### [Tom ten Thij](http://tomtenthij.co.uk/)
+
+> Debugging with [ruby-debug](http://www.datanoise.com/ruby-debug).
+
+{::coverage year="2009" month="february" talk="debugging-with-ruby-debug" /}
 
 ## Pub
 

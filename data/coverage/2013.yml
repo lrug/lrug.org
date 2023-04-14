@@ -32,7 +32,7 @@ february:
   - type: slides
     url: https://speakerdeck.com/sebjacobs/mruby-and-me
     title: Mruby & Me
-  - type: video 
+  - type: video
     url: http://skillsmatter.com/podcast/home/mruby
     title: 'Skills Matter : London Ruby User Group : Mruby & Me'
   love-your-pull-requests:
@@ -193,7 +193,7 @@ november:
   how-to-parse-go:
   - type: video
     url: https://skillsmatter.com/skillscasts/4883-how-to-parse-go
-    title: "Skills Matter : London Ruby User Group : How to parse 'go'"
+    title: 'Skills Matter : London Ruby User Group : How to parse ''go'''
 december:
   a-fizzbuzz-to-rule-them-all:
   - type: video

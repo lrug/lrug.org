@@ -1,82 +1,13 @@
 ---
-july:
-  do-mix-your-drinks:
-  - type: slides
-    url: https://speakerdeck.com/tomstuart/do-mix-your-drinks
-    title: Do Mix Your Drinks
+january:
+  couch-db:
   - type: video
-    url: https://skillsmatter.com/podcast/agile-testing/do-mix-your-drinks
-    title: 'Skills Matter : London Ruby User Group : Do Mix Your Drinks'
-  ruby-arduino:
+    url: https://skillsmatter.com/skillscasts/481-lrug-january
+    title: 'Skills Matter : London Ruby User Group : Couch DB'
+  abstractions-for-website-apis:
   - type: video
-    url: https://skillsmatter.com/skillscasts/840-rubyarduino
-    title: 'Skills Matter : London Ruby User Group : Ruby+Arduino'
-october:
-  thinking-functionally-in-ruby:
-  - type: slides
-    url: https://speakerdeck.com/tomstuart/thinking-functionally-in-ruby
-    title: Thinking Functionally in Ruby
-  - type: video
-    url: http://skillsmatter.com/podcast/ajax-ria/enumerators
-    title: 'Skills Matter : London Ruby User Group : Thinking Functionally in Ruby'
-  a-trio-of-gems:
-  - type: video
-    url: https://skillsmatter.com/skillscasts/1100-a-trio-of-gems
-    title: 'Skills Matter : London Ruby User Group : A trio of gems'
-september:
-  coding-dojo:
-  - type: video
-    url: https://skillsmatter.com/skillscasts/973-coding-dojo-973
-    title: 'Skills Matter : London Ruby User Group : Coding Dojo'
-june:
-  rdf-in-rails:
-  - type: video
-    url: https://skillsmatter.com/skillscasts/775-rdf-in-rails
-    title: 'Skills Matter : London Ruby User Group : RDF in Rails'
-  dsl-or-a-code-smell:
-  - type: video
-    url: https://skillsmatter.com/skillscasts/776-dsl-or-a-code-smell
-    title: 'Skills Matter : London Ruby User Group : DSL or a code smell...'
-  2-apps-1-test-distributed-ruby-testing:
-  - type: video
-    url: https://skillsmatter.com/skillscasts/777-2-apps-1-test-distributed-ruby-testing
-    title: 'Skills Matter : London Ruby User Group : 2 apps, 1 test : Distributed
-      ruby testing'
-may:
-  ruby-ffi:
-  - type: video
-    url: https://skillsmatter.com/skillscasts/721-ruby-ffi
-    title: 'Skills Matter : London Ruby User Group : Ruby FFI'
-  treetop:
-  - type: video
-    url: https://skillsmatter.com/skillscasts/722-treetop
-    title: 'Skills Matter : London Ruby User Group : Treetop'
-  implementing-scheme-in-ruby:
-  - type: video
-    url: https://skillsmatter.com/skillscasts/723-implementing-scheme-in-ruby
-    title: 'Skills Matter : London Ruby User Group : Implementing Scheme in Ruby'
-april:
-  ruby-invoicing-framework-gem:
-  - type: video
-    url: https://skillsmatter.com/skillscasts/666-invoicing-gem
-    title: 'Skills Matter : London Ruby User Group : Ruby Invoicing Framework Gem'
-  using-geokit-in-social-apps:
-  - type: video
-    url: https://skillsmatter.com/skillscasts/667-using-geokit-in-social-apps
-    title: 'Skills Matter : London Ruby User Group : Using Geokit in Social Apps'
-  a-modular-approach-to-views:
-  - type: video
-    url: https://skillsmatter.com/skillscasts/668-a-modular-approach-to-views
-    title: 'Skills Matter : London Ruby User Group : A Modular Approach to Views'
-march:
-  redcar-ruby-gnome-and-textmate:
-  - type: video
-    url: https://skillsmatter.com/skillscasts/570-lrug-march
-    title: 'Skills Matter : London Ruby User Group : Redcar: Ruby, Gnome and Textmate'
-  cucumber-celerity-firewatir:
-  - type: video
-    url: https://skillsmatter.com/skillscasts/587-cucumber-celerity-firewatir
-    title: 'Skills Matter : London Ruby User Group : Cucumber, Celerity, & FireWatir'
+    url: https://skillsmatter.com/skillscasts/483-abstractions-for-website-apis
+    title: 'Skills Matter : London Ruby User Group : Abstractions For Website APIs'
 february:
   his-twit-4-dead-bots-francis-louis-zoey-bill:
   - type: video
@@ -118,15 +49,67 @@ february:
   - type: video
     url: https://skillsmatter.com/skillscasts/549-debugging-with-ruby-debug
     title: 'Skills Matter : London Ruby User Group : Debugging with ruby-debug'
-january:
-  couch-db:
+march:
+  redcar-ruby-gnome-and-textmate:
   - type: video
-    url: https://skillsmatter.com/skillscasts/481-lrug-january
-    title: 'Skills Matter : London Ruby User Group : Couch DB'
-  abstractions-for-website-apis:
+    url: https://skillsmatter.com/skillscasts/570-lrug-march
+    title: 'Skills Matter : London Ruby User Group : Redcar: Ruby, Gnome and Textmate'
+  cucumber-celerity-firewatir:
   - type: video
-    url: https://skillsmatter.com/skillscasts/483-abstractions-for-website-apis
-    title: 'Skills Matter : London Ruby User Group : Abstractions For Website APIs'
+    url: https://skillsmatter.com/skillscasts/587-cucumber-celerity-firewatir
+    title: 'Skills Matter : London Ruby User Group : Cucumber, Celerity, & FireWatir'
+april:
+  ruby-invoicing-framework-gem:
+  - type: video
+    url: https://skillsmatter.com/skillscasts/666-invoicing-gem
+    title: 'Skills Matter : London Ruby User Group : Ruby Invoicing Framework Gem'
+  using-geokit-in-social-apps:
+  - type: video
+    url: https://skillsmatter.com/skillscasts/667-using-geokit-in-social-apps
+    title: 'Skills Matter : London Ruby User Group : Using Geokit in Social Apps'
+  a-modular-approach-to-views:
+  - type: video
+    url: https://skillsmatter.com/skillscasts/668-a-modular-approach-to-views
+    title: 'Skills Matter : London Ruby User Group : A Modular Approach to Views'
+may:
+  ruby-ffi:
+  - type: video
+    url: https://skillsmatter.com/skillscasts/721-ruby-ffi
+    title: 'Skills Matter : London Ruby User Group : Ruby FFI'
+  treetop:
+  - type: video
+    url: https://skillsmatter.com/skillscasts/722-treetop
+    title: 'Skills Matter : London Ruby User Group : Treetop'
+  implementing-scheme-in-ruby:
+  - type: video
+    url: https://skillsmatter.com/skillscasts/723-implementing-scheme-in-ruby
+    title: 'Skills Matter : London Ruby User Group : Implementing Scheme in Ruby'
+june:
+  rdf-in-rails:
+  - type: video
+    url: https://skillsmatter.com/skillscasts/775-rdf-in-rails
+    title: 'Skills Matter : London Ruby User Group : RDF in Rails'
+  dsl-or-a-code-smell:
+  - type: video
+    url: https://skillsmatter.com/skillscasts/776-dsl-or-a-code-smell
+    title: 'Skills Matter : London Ruby User Group : DSL or a code smell...'
+  2-apps-1-test-distributed-ruby-testing:
+  - type: video
+    url: https://skillsmatter.com/skillscasts/777-2-apps-1-test-distributed-ruby-testing
+    title: 'Skills Matter : London Ruby User Group : 2 apps, 1 test : Distributed
+      ruby testing'
+july:
+  do-mix-your-drinks:
+  - type: slides
+    url: https://speakerdeck.com/tomstuart/do-mix-your-drinks
+    title: Do Mix Your Drinks
+  - type: video
+    url: https://skillsmatter.com/podcast/agile-testing/do-mix-your-drinks
+    title: 'Skills Matter : London Ruby User Group : Do Mix Your Drinks'
+  ruby-arduino:
+  - type: video
+    url: https://skillsmatter.com/skillscasts/840-rubyarduino
+    title: 'Skills Matter : London Ruby User Group : Ruby+Arduino'
 august:
   amqp-in-ruby:
   - type: video
@@ -137,3 +120,20 @@ august:
     url: https://skillsmatter.com/skillscasts/868-making-your-rails-app-kick-ass-with-ruby-prof-and-kcachegrind
     title: 'Skills Matter : London Ruby User Group : Making your rails app kick ass
       with ruby-prof and kcachegrind'
+september:
+  coding-dojo:
+  - type: video
+    url: https://skillsmatter.com/skillscasts/973-coding-dojo-973
+    title: 'Skills Matter : London Ruby User Group : Coding Dojo'
+october:
+  thinking-functionally-in-ruby:
+  - type: slides
+    url: https://speakerdeck.com/tomstuart/thinking-functionally-in-ruby
+    title: Thinking Functionally in Ruby
+  - type: video
+    url: http://skillsmatter.com/podcast/ajax-ria/enumerators
+    title: 'Skills Matter : London Ruby User Group : Thinking Functionally in Ruby'
+  a-trio-of-gems:
+  - type: video
+    url: https://skillsmatter.com/skillscasts/1100-a-trio-of-gems
+    title: 'Skills Matter : London Ruby User Group : A trio of gems'

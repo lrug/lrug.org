@@ -2,6 +2,7 @@
 
 require 'yaml'
 require 'active_support/core_ext/string/inflections'
+require 'date'
 
 class InsertScrapedCoverage
   # the "Skills Matter : ..." boiler plate assigned to the begining of each coverage title 
@@ -10,6 +11,7 @@ class InsertScrapedCoverage
   def self.call
     @insert_scraped_coverage = InsertScrapedCoverage.new
     @insert_scraped_coverage.merge_scraped_coverage_into_coverage_file
+    @insert_scraped_coverage.sort_yaml_files
   end
 
   def formatted_coverage
@@ -30,7 +32,7 @@ class InsertScrapedCoverage
   end
 
   def merge_scraped_coverage_into_coverage_file
-    [2007..2019].each do |year|
+    (2007..2019).each do |year|
       filepath = "./data/coverage/#{year}.yml"
       target_file = File.open(filepath, 'r')
       target_file_yaml = YAML.safe_load(target_file)
@@ -56,6 +58,22 @@ class InsertScrapedCoverage
       File.write(filepath, target_file_yaml.to_yaml)
     end
   end
+
+  def sort_yaml_files
+    (2007..2019).each do |year|
+      filepath = "./data/coverage/#{year}.yml"
+      target_file = File.open(filepath, 'r')
+      target_file_yaml = YAML.safe_load(target_file)
+      
+      sorted_yaml = target_file_yaml.sort_by do |key, _|
+        Date.strptime(key, '%B').month
+      end.to_h   
+
+      File.open(filepath, 'w') do |file|
+        file.write(sorted_yaml.to_yaml)    
+      end 
+    end
+  end 
 
   private
 
