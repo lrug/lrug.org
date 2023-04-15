@@ -10,10 +10,41 @@ january:
     url: https://skillsmatter.com/skillscasts/9497-a-guide-to-connascence
     title: 'Skills Matter : London Ruby User Group : A guide to connascence'
 february:
-  london-ruby-lightning-talks:
-  - type: video
-    url: https://skillsmatter.com/skillscasts/9865-london-ruby-lightning-talks
-    title: 'Skills Matter : London Ruby User Group : London Ruby lightning talks'
+  ch-ch-ch-ch-changes-avoiding-mutable-state-in-ruby-and-why-you-might-want-to:
+    - type: video
+      url: https://skillsmatter.com/skillscasts/9865-london-ruby-lightning-talks
+      title: "Skills Matter : London Ruby User Group : Ch-ch-ch-ch-Changes: Avoiding
+        mutable state in Ruby and why you might want to (starts at 00:00)"
+  a-way-to-think-about-bugs:
+    - type: video
+      url: https://skillsmatter.com/skillscasts/9865-london-ruby-lightning-talks
+      title: "Skills Matter : London Ruby User Group : A way to think about bugs
+        (starts at 10:18)"
+  small-steps-to-finding-your-dream-job:
+    - type: video
+      url: https://skillsmatter.com/skillscasts/9865-london-ruby-lightning-talks
+      title: "Skills Matter : London Ruby User Group : Small Steps to Finding Your
+        Dream Job (starts at 19:56)"
+  logstash-jruby-and-java-at-elastic:
+    - type: video
+      url: https://skillsmatter.com/skillscasts/9865-london-ruby-lightning-talks
+      title: "Skills Matter : London Ruby User Group : Logstash: JRuby and Java at
+        Elastic (starts at 30:00)"
+  a-pointed-guide-to-beer:
+    - type: video
+      url: https://skillsmatter.com/skillscasts/9865-london-ruby-lightning-talks
+      title: "Skills Matter : London Ruby User Group : Logstash: A (Pointed) Guide to
+        Beer (starts at 40:15)"
+  base-wtf:
+    - type: video
+      url: https://skillsmatter.com/skillscasts/9865-london-ruby-lightning-talks
+      title: "Skills Matter : London Ruby User Group : Logstash: Base WTF (starts at
+        51:34)"
+  doing-bad-things-in-postgres-for-fun-and-pofit:
+    - type: video
+      url: https://skillsmatter.com/skillscasts/9865-london-ruby-lightning-talks
+      title: "Skills Matter : London Ruby User Group : Doing bad things in Postgres
+        for fun and profit (starts at 01:02:56)"
 march:
   the-story-of-the-not-so-dark-magic-of-application-preloading:
   - type: video

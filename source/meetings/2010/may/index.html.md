@@ -38,7 +38,7 @@ The May meeting will be on Wednesday the 12th of May, from <strike>6:30pm to 8:0
 > [Tokyo Cabinet Wiki](http://tokyocabinetwiki.pbworks.com) will unveil
 > the core philosophy and exciting features behind these products.
 
-{::coverage year="2010" month="may" talk="tokyo-cabinet,-tokyo-tyrant-and-kyoto-cabinet:-the-world-of-mikio-ware" /}
+{::coverage year="2010" month="may" talk="tokyo-cabinet-tokyo-tyrant-and-kyoto-cabinet-the-world-of-mikio-ware" /}
 
 ### UNIX: Rediscovering the wheel
 
