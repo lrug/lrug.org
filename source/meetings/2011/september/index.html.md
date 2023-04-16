@@ -26,6 +26,8 @@ Some of the team ([Chris Parsons](http://chrismdp.github.com/), [Jolyon Pawlyn](
 > aims to highlight the measures taken to cope with high throughput, what worked and what could be
 > done differently to avoid headlines like ["Government's e-petition website crashes on first day"](http://www.guardian.co.uk/politics/2011/aug/04/government-e-petition-website-crashes).
 
+{::coverage year="2011" month="september" talk="scaling-e-petitions" /}
+
 ### Something else
 
 If you're interested in filling this slot, [find out what it means](/speaking) and then [get in touch](/mailing-list).

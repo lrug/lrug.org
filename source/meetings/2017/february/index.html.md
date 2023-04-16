@@ -27,6 +27,16 @@ given below](#feb17registration).
 As is traditional, our February meeting consists entirely of lightning talks of
 no more than 10 minutes.  This year we have:
 
+### Ch-ch-ch-ch-Changes: Avoiding mutable state in Ruby and why you might want to
+
+[Tom Wey](https://twitter.com/tjmwy) says:
+
+> A few examples and techniques for avoiding mutable state in Ruby, and
+> how this might make your code clearer and easier to test. Slightly
+> inspired by getting more into functional programming languages.
+
+{::coverage year="2017" month="february" talk="ch-ch-ch-ch-changes-avoiding-mutable-state-in-ruby-and-why-you-might-want-to" /}
+
 ### A way to think about bugs
 
 [Amy Phillips](https://twitter.com/itjustbroke) says:
@@ -37,20 +47,15 @@ no more than 10 minutes.  This year we have:
 > report can be a powerful trigger for changing technology, process, and even
 > yourself.
 
-### Doing bad things in Postgres for fun and profit
+{::coverage year="2017" month="february" talk="a-way-to-think-about-bugs" /}
 
-[Ryan MacGillivray](https://twitter.com/RyanMacG) says:
+### Small Steps to Finding Your Dream Job
 
-> A brief glimpse at the unwise things you can do with the Postgres array
-> datatype.
+[Lola Odelola](https://twitter.com/lolaodelola) says:
 
-### A (Pointed) Guide to Beer
+> A few tips on how to find a job you'll love.
 
-[Kaitlyn Tierney](https://twitter.com/krtierney) says:
-
-> There are hundreds of beer styles from all over the world. This very brief
-> introduction to beer will enumerate a few of them: how they’re made, what
-> they taste like, and when to drink them.
+{::coverage year="2017" month="february" talk="small-steps-to-finding-your-dream-job" /}
 
 ### Logstash: JRuby and Java at Elastic
 
@@ -62,11 +67,17 @@ no more than 10 minutes.  This year we have:
 > and tens of thousands of daily users, Logstash is very popular. We
 > manage/code 160+ Github repos.
 
-### Small Steps to Finding Your Dream Job
+{::coverage year="2017" month="february" talk="logstash-jruby-and-java-at-elastic" /}
 
-[Lola Odelola](https://twitter.com/lolaodelola) says:
+### A (Pointed) Guide to Beer
 
-> A few tips on how to find a job you'll love
+[Kaitlyn Tierney](https://twitter.com/krtierney) says:
+
+> There are hundreds of beer styles from all over the world. This very brief
+> introduction to beer will enumerate a few of them: how they’re made, what
+> they taste like, and when to drink them.
+
+{::coverage year="2017" month="february" talk="a-pointed-guide-to-beer" /}
 
 ### Base WTF
 
@@ -79,6 +90,17 @@ no more than 10 minutes.  This year we have:
 > really exists, it's called Balanced Ternary, and it has some interesting
 > properties.
 
+{::coverage year="2017" month="february" talk="base-wtf" /}
+
+### Doing bad things in Postgres for fun and profit
+
+[Ryan MacGillivray](https://twitter.com/RyanMacG) says:
+
+> A brief glimpse at the unwise things you can do with the Postgres array
+> datatype.
+
+{::coverage year="2017" month="february" talk="doing-bad-things-in-postgres-for-fun-and-pofit" /}
+
 ### <strike>My Live Coding Adventure</strike>
 
 <strike><a href="https://twitter.com/rosaemerald">Rosa Fox</a> says:</strike>
@@ -86,14 +108,6 @@ no more than 10 minutes.  This year we have:
 > <strike>An experiment to see if live coding can make me a better developer.</strike>
 
 Rosa has had to cancel due to illness, we hope to reschedule her talk for a later meeting.
-
-### Ch-ch-ch-ch-Changes: Avoiding mutable state in Ruby and why you might want to.
-
-[Tom Wey](https://twitter.com/tjmwy) says:
-
-> A few examples and techniques for avoiding mutable state in Ruby, and
-> how this might make your code clearer and easier to test. Slightly
-> inspired by getting more into functional programming languages.
 
 ## Afterwards
 

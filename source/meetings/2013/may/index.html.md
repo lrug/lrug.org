@@ -51,7 +51,7 @@ The May 2013 meeting of LRUG will be on *Monday* the 13th of May, from 6:30pm to
 
 Randy will be sending out instructions on pre-requisites in a few days to [the mailing list](/mailing-list). Don't miss it!
 
-{::coverage year="2013" month="may" talk="come-get-dirty-with-mruby" /}
+{::coverage year="2013" month="may" talk="exploration-of-mruby" /}
 
 ### Drinks
 

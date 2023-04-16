@@ -39,7 +39,7 @@ The August meeting will be on *Monday* the 9th of August, from 6:30pm to 8:00pm.
 > employed to convince stakeholders, management and sundry doubters that this
 > was a good idea.
 
-A video of Chris and Tim's talk, filmed by Skills Matter, [is available on the Skills Matter site](http://skillsmatter.com/podcast/ajax-ria/making-old-projects-better).
+{::coverage year="2010" month="august" talk="making-old-projects-better" /}
 
 ### [ittybittyboom.com](http://ittybittyboom.com)
 
@@ -50,7 +50,7 @@ A video of Chris and Tim's talk, filmed by Skills Matter, [is available on the S
 > event driven ruby based framework based upon event machine that allows the coder to
 > write succinct, clear code to deal with hundreds or thousands of tcp connections at once.
 
-A video of Tom's talk, filmed by Skills Matter, [is available on the Skills Matter site](http://skillsmatter.com/podcast/ajax-ria/cramp).
+{::coverage year="2010" month="august" talk="ittybittyboom-com-and-cramp" /}
 
 ### "Analogue Blog"
 

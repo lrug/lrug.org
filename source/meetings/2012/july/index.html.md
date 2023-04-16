@@ -49,7 +49,7 @@ The July 2012 meeting of LRUG will be on *Monday* the 9th of July, from 6:30pm t
 > do. Let's explore those aspects because it'll open our minds to
 > think differently but most important, because it's fun!
 
-{::coverage year="2012" month="july" talk="what-ruby-can-t-do" /}
+{::coverage year="2012" month="july" talk="what-ruby-cant-do" /}
 
 ## Pub
 

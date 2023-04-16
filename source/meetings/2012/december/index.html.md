@@ -41,7 +41,7 @@ The December 2012 meeting of LRUG will be on *Monday* the 10th of December, from
 > An introduction to [Zeus](https://github.com/burke/zeus) and
 > the approach it takes for making rails tests run lightning fast.
 
-{::coverage year="2012" month="december" talk="hermes-add-wings-to-ruby-and-javascript-development" /}
+{::coverage year="2012" month="december" talk="my-tests-run-faster-than-your-tests" /}
 
 ### Hermes, add wings to Ruby and Javascript development
 
@@ -50,7 +50,7 @@ The December 2012 meeting of LRUG will be on *Monday* the 10th of December, from
 > [Hermes](https://github.com/New-Bamboo/Hermes): A Vim/Tmux development environment to
 > easily work with Ruby and Javascript.
 
-{::coverage year="2012" month="december" talk="my-tests-run-faster-than-your-tests" /}
+{::coverage year="2012" month="december" talk="hermes-add-wings-to-ruby-and-javascript-development" /}
 
 ## Pub
 

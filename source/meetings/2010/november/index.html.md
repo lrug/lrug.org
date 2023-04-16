@@ -20,13 +20,13 @@ The November meeting will be on *Monday* the 8th of November, from 6:30pm to 8:0
 
 Git has taken the Ruby world by storm, and many of us are using 'git push' on a daily basis. Priit is going to talk about how to use git hooks and will highlight some everyday tips that he has developed and found useful. He's also going to talk about easy ways to replicate Heroku-like deployment for smaller projects using git.
 
-A video of Priit's talk, filmed by Skills Matter, [is available on the Skills Matter site](http://skillsmatter.com/podcast/ajax-ria/using-git-hooks-for-staging-and-production).
+{::coverage year="2010" month="november" talk="using-git-hooks-for-staging-and-production" /}
 
 ### Kalvir Sandhu - More Websockets
 
 Kalv will give an overview of Websockets and how to get a simple app up and running with [Cramp](http://github.com/lifo/cramp). He'll walk through creating a chat based app using Cramp & websockets and will talk briefly on security and authentication with websockets.
 
-A video of Kalvir's talk, filmed by Skills Matter, [is available on the Skills Matter site](http://skillsmatter.com/podcast/ajax-ria/more-websockets).
+{::coverage year="2010" month="november" talk="more-websockets" /}
 
 ### "Analogue Blog"
 

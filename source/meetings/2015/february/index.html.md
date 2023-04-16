@@ -26,14 +26,53 @@ The February 2015 meeting of LRUG will be on *Monday the 9th of February*, from 
 
 As usual we give our February meeting over to lightning talks of no more than 10 minutes in length.
 
-* Paul Battley: A library for handling postcodes
-* Andrew Donovan: Finding and taking opportunities in the enterprise
-* Paula Kennedy: Microaggression: Impact on Women in IT
-* Mark Longair: Introducing [YourNextMP](https://yournextmp.com/)
-* Evgeny Shadchnev: How to help beginners learn to code
-* Alex Sunderland: The weird bits of ruby
-* Pip Taylor: Sorting out [Colour](https://github.com/ms-digital-labs/color_sort)
-* Michael Wawra: Tech Evangelism
+#### Paul Battley
+
+> A library for handling postcodes
+
+{::coverage year="2015" month="february" talk="a-library-for-handling-postcodes" /}
+
+#### Andrew Donovan
+
+> Finding and taking opportunities in the enterprise
+
+{::coverage year="2015" month="february" talk="finding-and-taking-opportunities-in-the-enterprise" /}
+
+#### Paula Kennedy
+
+> Microaggression: Impact on Women in IT
+
+{::coverage year="2015" month="february" talk="microaggression-impact-on-women-in-it" /}
+
+#### Mark Longair
+
+> Introducing [YourNextMP](https://yournextmp.com/)
+
+{::coverage year="2015" month="february" talk="introducing-yournextmp" /}
+
+#### Evgeny Shadchnev
+
+> How to help beginners learn to code
+
+{::coverage year="2015" month="february" talk="how-to-help-beginners-learn-to-code" /}
+
+#### Alex Sunderland
+
+> The weird bits of ruby
+
+{::coverage year="2015" month="february" talk="ruby:-the-weird-bits" /}
+
+#### Pip Taylor
+
+> Sorting out [Colour](https://github.com/ms-digital-labs/color_sort)
+
+{::coverage year="2015" month="february" talk="sorting-out-colour" /}
+
+#### Michael Wawra
+
+> Tech evangelism
+
+{::coverage year="2015" month="february" talk="tech-evangelism" /}
 
 ### Bath Ruby Conf tickets giveaway
 

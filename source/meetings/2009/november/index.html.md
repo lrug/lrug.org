@@ -37,6 +37,7 @@ John offered to do a talk about [Puppet](http://reductivelabs.com/products/puppe
 
 A video of John's talk is available on the [Skills Matter site](http://skillsmatter.com/podcast/ajax-ria/is-your-sysadmin-dumber-than-a-hamster-how-to-automate-your-sysadmin-out-of-a-job-and-into-a-more-interesting-job) and his slides can be found on [Slideshare](http://www.slideshare.net/bitfield/agile-sysadmin-and-the-art-of-infrastructure-automation-2493286).
 
+
 ### [Julian Simpson](http://www.juliansimpson.org/): Drunken Build Monkey
 
 [Julian Simpson](http://www.juliansimpson.org/) has *seen* things.  Scary things.  In a career that has spanned 15 years of Unix systems administration with detours into continuous integration and build management, he's seen quite a lot.  By day he works in a Ruby on Rails development team in London.  By night he blogs about CI as [The Build Doctor](http://www.build-doctor.com/).  In this talk he's going to discuss testing infrastructure before you deploy it, more [Puppet](http://reductivelabs.com/products/puppet), declarative systems, CI, and top tips for developers who want to get code into production and still have time to go to the pub afterwards.

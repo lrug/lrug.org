@@ -37,10 +37,14 @@ given below](#aug17registration).
 > introduction to Category Theory - with cats! And may your dreams once
 > again be full of maths.
 
+{::coverage year="2017" month="august" talk="let-the-cats-out-of-the-bag" /}
+
 ### Empathetech
 
 [Lola Odelola](https://twitter.com/lolaodelola) has been looking at the role empathy
 plays in technology and is going to tell us all about it.
+
+{::coverage year="2017" month="august" talk="empathetech" /}
 
 ### GraphQL in Ruby
 
@@ -51,6 +55,8 @@ Oakley](https://twitter.com/dazoakley) want to explain GraphQL to us:
 > GraphQL back end. In this talk we'll share our experience making the
 > transition and using GraphQL for a real-world app.
 
+{::coverage year="2017" month="august" talk="graphql-in-ruby" /}
+
 ### Why Writing Software Is Nothing Like Building A House
 
 [Patrick Gleeson](http://patrickgleeson.com/) says:
@@ -59,6 +65,7 @@ Oakley](https://twitter.com/dazoakley) want to explain GraphQL to us:
 > management, and a couple of suggestions for how we coders can help
 > our non-technical colleagues get round them.
 
+{::coverage year="2017" month="august" talk="why-writing-software-is-nothing-like-building-a-house" /}
 
 ### Food and Drinks
 

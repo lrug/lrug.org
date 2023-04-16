@@ -35,12 +35,16 @@ are given below](#dec16registration).
 >     Makes developers happy;
 >     A hypothesis.
 
+{::coverage year="2016" month="december" talk="software-architecture-analysis-with-runtime-type-detection-in-ruby" /}
+
 ###  Ruby as a Learning Language
 
 [Claire Tran](https://twitter.com/clairettran) says:
 
 > Exploring why Ruby is one of the languages which people use to start
 > learning programming.
+
+{::coverage year="2016" month="december" talk="ruby-as-a-learning-language" /}
 
 ### An A/B test is for life, not just for Christmas
 
@@ -56,6 +60,8 @@ are given below](#dec16registration).
 > to study them. I'll share some very easy things you can do right away to
 > get more information out of your A/B tests, and hopefully convince you
 > there's more to them than deciding on some copy, or the colour of a button.
+
+{::coverage year="2016" month="december" talk="an-a-b-test-is-for-life-not-just-for-christmas" /}
 
 ## Afterwards
 

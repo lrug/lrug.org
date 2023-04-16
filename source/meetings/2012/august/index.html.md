@@ -32,7 +32,7 @@ The August 2012 meeting of LRUG will be on *Monday* the 13th of August, from 6:3
 
 {::coverage year="2012" month="august" talk="cut-and-polish-crafting-gems" /}
 
-### nil points: a talk about nothing, NULL, undefined, Maybe, and other ghosts in Ruby and beyond
+### Nil points: a talk about nothing, NULL, undefined, Maybe, and other ghosts in Ruby and beyond
 
 [David Nolan](http://kapoq.com/) has an idea about nil:
 

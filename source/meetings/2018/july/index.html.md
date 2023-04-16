@@ -38,6 +38,8 @@ Our July meeting has three fantastic talks:
 > new Hypothesis for Ruby library which is based on the popular Hypothesis
 > Python library.
 
+{::coverage year="2018" month="july" talk="write-better-tests-with-property-based-testing" /}
+
 ## CSS Shapes: upgrade your page layouts
 
 [Nicky Thompson](https://twitter.com/knotnicky) says:
@@ -52,6 +54,8 @@ Our July meeting has three fantastic talks:
 > the knowledge of when to use them (and when not to), and arguments to help
 > convince your colleagues of your great new ideas.
 
+{::coverage year="2018" month="july" talk="css-shapes-upgrade-your-page-layouts" /}
+
 ## As You Like It - if Shakespeare had written Functions as a Service
 
 [Ewan Slater](https://twitter.com/ewanslater) says:
@@ -62,6 +66,8 @@ Our July meeting has three fantastic talks:
 > * The Fn project - an open source agnostic FaaS platform
 > * The Ruby FDK (Function Development Kit)
 > * With a bit of inspiration from William Shakespeare.
+
+{::coverage year="2018" month="july" talk="as-you-like-it-if-shakespeare-had-written-functions-as-a-service" /}
 
 ### Food and Drinks
 

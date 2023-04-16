@@ -22,19 +22,19 @@ There was a very positive response to the [February lightning talk meeting](meet
 
 [Martin Kleppmann](http://www.yes-no-cancel.co.uk/) is the author of the [invoicing gem](http://ept.github.com/invoicing) (on [GitHub](http://github.com/ept/invoicing)) and is going to give a talk about it. The invoicing gem provides a solid basis for any commercial web app, by solving the standard problems of financial transactions neatly and concisely, allowing you to focus on the business logic, and being flexible enough to grow and handle pretty complex stuff when you need it: multi-currency support, international taxation and reseller networks, for example. Under the hood it's basically a full accrual accounting system, but that is hidden behind a clean Ruby API which requires no accounting knowledge. Martin will also touch on [OAccounts](http://ept.github.com/oaccounts), an initiative to create an open standard for exchanging accounting data between different apps.
 
-A video of Martin's talk is available on the [Skills Matter site](http://skillsmatter.com/podcast/ajax-ria/invoicing-gem).
+{::coverage year="2009" month="april" talk="ruby-invoicing-framework-gem" /}
 
 ### A Modular Approach to Views
 
 [Jon Gilbraith](http://www.completelynovel.com/people/1) has been working on taking a modular approach to views and creating builder classes to abstract structural html and view logic into Ruby blocks.  In this talk he's going to present that approach and some of the stuff he's learnt along the way.
 
-A video of Jon's talk is available on the [Skills Matter site](http://skillsmatter.com/podcast/ajax-ria/a-modular-approach-to-views).
+{::coverage year="2009" month="april" talk="a-modular-approach-to-views" /}
 
 ### Using Geokit in Social Apps
 
 [Paul Jensen](http://new-bamboo.co.uk/people) is going to give a talk about using Geokit, with a particular focus on it's use in Social Apps.  [Geokit](http://geokit.rubyforge.org/) is a rubygem and Rails plugin for geocoding, distance calculation, location finding, and ip address-based lookup.  In this talk he'll run through the functionality provided by Geokit, and show off the magic in action with a google maps/twitter/trusted places mashup.
 
-A video of Paul's talk is available on the [Skills Matter site](http://skillsmatter.com/podcast/ajax-ria/using-geokit-in-social-apps).
+{::coverage year="2009" month="april" talk="using-geokit-in-social-apps" /}
 
 ## Pub
 

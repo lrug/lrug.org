@@ -34,12 +34,16 @@ regular format, with three talks for your enjoyment:
 > Comparison between Action Cable and MessageBus for live updates in Rails
 > application. Introduction to both solutions, basic implementation and benchmarks.
 
+{::coverage year="2017" month="march" talk="action-cable-vs-messagebus-live-updates-tailored-for-rails" /}
+
 ### The story of the not-so dark magic of application preloading
 
 [Philipp Fehre](https://twitter.com/ischi)
 
 > Many of us use application pre-loaders like zeus or spring, but how do they
 > actually work? Lets step through what is actually going on by the example of zeus.
+
+{::coverage year="2017" month="march" talk="the-story-of-the-not-so-dark-magic-of-application-preloading" /}
 
 ### Dependency Injection with Little Boxes
 
@@ -48,6 +52,7 @@ regular format, with three talks for your enjoyment:
 > A brief description of the benefits of dependency injection and how to gain
 > them with Little Boxes.
 
+{::coverage year="2017" month="march" talk="dependency-injection-with-little-boxes" /}
 
 ## Afterwards
 

@@ -45,6 +45,8 @@ Our June meeting has two talks and a prize draw!
 > hopefully be two or three techniques, practices, or principles that you can
 > apply to your hiring process.
 
+{::coverage year="2018" month="june" talk="how-to-grow-a-small-development-team" /}
+
 ## Breaking into computers over the Internet
 
 [David Somers](https://twitter.com/jalada) wants to tell us how to protect the software you build:
@@ -57,6 +59,8 @@ Our June meeting has two talks and a prize draw!
 > known vulnerabilities in software you, as a software developer, may be
 > responsible for keeping up to date. Then finally I'll cover some ways to
 > protect the software you write from those types of attacks.
+
+{::coverage year="2018" month="june" talk="breaking-into-computers-over-the-internet" /}
 
 ## Brighton Ruby ticket prizedraw
 

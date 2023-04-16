@@ -34,6 +34,8 @@ The November 2014 meeting of LRUG will be on *Monday the 10th of November*, from
 > about Julia's impressive language interop features, 
 > and see examples of calling Ruby code from within Julia.
 
+{::coverage year="2014" month="november" talk="julia-fast-and-dynamic" /}
+
 ### Peas - A Docker and Ruby based PaaS
 
 [Thomas Buckley-Houston](http://tombh.co.uk) says:
@@ -44,6 +46,8 @@ The November 2014 meeting of LRUG will be on *Monday the 10th of November*, from
 > Some of the highlights will be; using Docker 
 > inside Docker, how to test this complex stack 
 > and concurrency using the Celluloid gem.
+
+{::coverage year="2014" month="november" talk="peas-a-docker-and-ruby-based-paas" /}
 
 ## Pub
 

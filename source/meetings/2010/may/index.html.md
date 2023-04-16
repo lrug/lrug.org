@@ -26,7 +26,7 @@ The May meeting will be on Wednesday the 12th of May, from <strike>6:30pm to 8:0
 
 [Dan Lucraft](http://danlucraft.com/) is going to talk to us about ruby profilers, specifically his [jruby-prof](http://github.com/danlucraft/jruby-prof) gem.  Even though his gem is for [jruby](http://jruby.org/) only, he's going to give us a good grounding on "pure" ruby profilers first.
 
-A video of Dan's talk is available on the [Skills Matter site](http://skillsmatter.com/podcast/ajax-ria/daniel-lucraft-ruby-profilers).
+{::coverage year="2010" month="may" talk="ruby-profilers" /}
 
 ### Tokyo Cabinet, Tokyo Tyrant and Kyoto Cabinet: the world of [Mikio](http://1978th.net/) ware
 
@@ -38,7 +38,7 @@ A video of Dan's talk is available on the [Skills Matter site](http://skillsmatt
 > [Tokyo Cabinet Wiki](http://tokyocabinetwiki.pbworks.com) will unveil
 > the core philosophy and exciting features behind these products.
 
-A video of Makoto's talk is available on the [Skills Matter site](http://skillsmatter.com/podcast/ajax-ria/makoto-inoue-tokyo-cabinet-tokyo-tyrant-kyoto-cabinet-mikio-ware).
+{::coverage year="2010" month="may" talk="tokyo-cabinet-tokyo-tyrant-and-kyoto-cabinet-the-world-of-mikio-ware" /}
 
 ### UNIX: Rediscovering the wheel
 

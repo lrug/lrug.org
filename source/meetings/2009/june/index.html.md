@@ -23,7 +23,7 @@ The next meeting of LRUG will be on Monday the 8th of June, from 6:30pm to 8:00p
 
 [Patrick Sinclair](http://metade.org) will be talking about publishing RDF from Rails and getting the community to participate in [Linked Data](http://linkeddata.org).
 
-A video of Patrick's talk is available on the [Skills Matter site](http://skillsmatter.com/podcast/ajax-ria/rdf-in-rails).
+{::coverage year="2009" month="june" talk="rdf-in-rails" /}
 
 ### DSL Or A Code Smell...
 
@@ -34,7 +34,7 @@ A video of Patrick's talk is available on the [Skills Matter site](http://skills
 > needed a DSL but it turned out I was sorely mistaken. I'll highlight some common DSLing
 > techniques and the decisions that steered me away from them.
 
-A video of Abdel's talk is available on the [Skills Matter site](http://skillsmatter.com/podcast/ajax-ria/dsl-or-a-code-smell).
+{::coverage year="2009" month="june" talk="dsl-or-a-code-smell" /}
 
 ### 2 Apps, 1 Test : Distributed Ruby Unit Testing
 
@@ -47,7 +47,7 @@ and, crucially:
 
 > Over 14% more awesome than a bag of chips.
 
-A video of Tom's talk is available on the [Skills Matter site](http://skillsmatter.com/podcast/ajax-ria/2-apps-1-test-distributed-ruby-testing).
+{::coverage year="2009" month="june" talk="2-apps-1-test-distributed-ruby-testing" /}
 
 ## Pub
 

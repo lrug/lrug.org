@@ -31,6 +31,8 @@ registration details are given below](#may19registration).
 > from several walks of life, including children. In this talk, I'll share
 > my thoughts and experiences on teaching children to code.
 
+{::coverage year="2019" month="may" talk="getting-the-next-generation-into-coding" /}
+
 ### Monoids
 
 [John Cinnamond](https://twitter.com/jcinnamond):
@@ -47,6 +49,8 @@ registration details are given below](#may19registration).
 > understanding of the underlying structures at play. And you'll be a better
 > person for it.
 
+{::coverage year="2019" month="may" talk="monoids" /}
+
 ### Writing more elegant queries with ActiveRecord
 
 Josh Fleck:
@@ -58,6 +62,8 @@ Josh Fleck:
 > walk through some real world examples of refactoring some mingin' 
 > ActiveRecord queries, learn optimisation techniques you can put to work
 > right away, and build a deeper knowledge of relational databases.
+
+{::coverage year="2019" month="may" talk="writing-more-elegant-queries-with-activerecord" /}
 
 ## Afterwards
 

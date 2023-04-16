@@ -27,6 +27,8 @@ The next meeting of LRUG will be on Monday the 9th of MArch, from 6:30pm to 8:00
 
 Daniel's even hoping to push his first milestone release of Redcar just before the meeting.  You can track his progress [on the Redcar lighthouse project](http://redcar.lighthouseapp.com/projects/25090-redcar/milestones).
 
+{::coverage year="2009" month="march" talk="redcar-ruby-gnome-and-textmate" /}
+
 ### Cucumber, Celerity, & FireWatir
 
 [Aidy Lewis](http://agiletester.blogspot.com/) is going to give a talk about testing:
@@ -36,7 +38,7 @@ Daniel's even hoping to push his first milestone release of Redcar just before t
 > will be run in-browser with [FireWatir](http://wiki.openqa.org/display/WTR/FireWatir) and through 
 > a headless-browser using [Celerity](http://celerity.rubyforge.org/) and [JRuby](http://jruby.codehaus.org/).
 
-A video of Aidy's talk, filmed by [Skills Matter](http://skillsmatter.com/podcast/ajax-ria/cucumber-celerity-firewatir), is available on [Google Video](http://video.google.com/videoplay?docid=470645360297935233&hl=en).
+{::coverage year="2009" month="march" talk="cucumber-celerity-firewatir" /}
 
 ## Pub
 

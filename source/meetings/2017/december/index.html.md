@@ -33,6 +33,7 @@ given below](#dec17registration).
 > know their MACs from their IKEs, I hope this talk offers some useful ways
 > of communicating these concepts to colleagues, friends and family.
 
+{::coverage year="2017" month="december" talk="everyday-cryptography-talking-about-crypto-without-complex-maths" /}
 
 ### Fun with an Amazon Echo, Ruby and Recipes
 
@@ -42,6 +43,8 @@ given below](#dec17registration).
 > I'll show you how to very quickly build and deploy a useful "skill" with
 > Ruby, and at the same time, make sure you hopefully don't burn the dinner.
 
+{::coverage year="2017" month="december" talk="fun-with-an-amazon-echo-ruby-and-recipes" /}
+
 ### How I met "Double Dutch" and he helped to remedy fear of injection.
 
 [Marek Labos](https://twitter.com/marek_public) says:
@@ -50,6 +53,8 @@ given below](#dec17registration).
 > simple, elegant Ruby code.  In this presentation we will look at a Double Dispatch pattern,
 > Excel(spreadsheet) injection, how they go together and why fighting
 > (accidental) code complexity matters.
+
+{::coverage year="2017" month="december" talk="how-i-met-double-dutch-and-he-helped-to-remedy-fear-of-injection" /}
 
 ## Afterwards
 

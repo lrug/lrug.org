@@ -47,7 +47,7 @@ The code produced by each of the 3 groups is available on the [LRUG github accou
 * [Ninjas](http://github.com/lrug/kata-minesweeper/tree/lrug-ninja-group)
 * [Zombies](http://github.com/lrug/kata-minesweeper/tree/lrug-zombie-group)
 
-There is also a video of the evening available on [the Skills Matter site](http://skillsmatter.com/podcast/ajax-ria/coding-dojo-973).
+{::coverage year="2009" month="september" talk="coding-dojo" /}
 
 ### "Analogue Blog"
 

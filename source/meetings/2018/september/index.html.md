@@ -31,17 +31,23 @@ We've got three great talks for you in September:
 
 > In the talk, I'll show to scrape dynamic web pages - how to deal with a content which is loaded async and how to write a scraper which is able to do everything in the background processor.
 
+{::coverage year="2018" month="september" talk="how-to-scrape-dynamic-web-pages-using-ruby" /}
+
 ## How to spend more time writing features and less time managing servers thanks to the modern cloud
 
 [Asfand Yar Qazi](https://twitter.com/PaaSfand)
 
 > The cloud has evolved from just a few services like virtual machines to offering so much more. Asfand will discuss how these amazing new services can be used to support and enhance web apps written in frameworks like Rails, allowing us to reap the benefits of the modern cloud while delegating lots of laborious infrastructure management away to the cloud providers themselves.
 
+{::coverage year="2018" month="september" talk="how-to-spend-more-time-writing-features-and-less-time-managing-servers-thanks-to-the-modern-cloud" /}
+
 ## Tune up your system with Materialized Views
 
 [Joaquim Adráz](https://twitter.com/joaquimadraz)
 
 > Complex SQL queries are inevitable when building a system. However getting results from a complex SQL query doesn’t need to be a slow process and in this talk I’ll show you how you can speed it up using Materialized Views.
+
+{::coverage year="2018" month="september" talk="tune-up-your-system-with-materialized-views" /}
 
 ## Afterwards
 

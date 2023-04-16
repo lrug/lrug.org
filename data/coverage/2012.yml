@@ -2,15 +2,15 @@
 january:
   i18n:
   - type: video
-    url: http://skillsmatter.com/podcast/home/i18n
-    title: 'Skills Matter : London Ruby User Group: I18n'
+    url: https://skillsmatter.com/skillscasts/2936-i18n
+    title: 'Skills Matter : London Ruby User Group : I18n'
   judge-client-side-form-validation-for-rails-3:
   - type: slides
     url: http://presentations.joecorcoran.co.uk/judge_lrug/
     title: 'Judge: Client-side form validation in Rails 3'
   - type: video
     url: http://skillsmatter.com/podcast/home/judge
-    title: 'Skills Matter : London Ruby User Group: Judge: Client side form validation
+    title: 'Skills Matter : London Ruby User Group : Judge: Client side form validation
       for rails 3'
 february:
   breaking-up-is-hard-to-do:
@@ -82,11 +82,11 @@ april:
     title: 'Skills Matter : London Ruby User Group : Converting a Rails project from
       MRI to JRuby'
 may:
-  ruby-s-bin-men-a-closer-look-at-the-garbage-collector:
+  rubys-bin-men-a-closer-look-at-the-garbage-collector:
   - type: video
     url: http://skillsmatter.com/podcast/ajax-ria/ruby-bin-men
-    title: "Skills Matter : London Ruby User Group: Ruby'\x92s bin men : a closer
-      look at the garbage collector"
+    title: 'Skills Matter : London Ruby User Group: Ruby''s bin men : a closer look
+      at the garbage collector'
   dependency-injection-the-dependency-inversion-principle-and-you:
   - type: video
     url: http://skillsmatter.com/podcast/ajax-ria/dependency-injection
@@ -104,16 +104,20 @@ june:
   - type: video
     url: http://skillsmatter.com/podcast/ajax-ria/hexagonal-rails
     title: 'Skills Matter : London Ruby User Group : Hexagonal Rails'
+  elasticsearch:
+  - type: video
+    url: https://skillsmatter.com/skillscasts/3383-elasticsearch
+    title: 'Skills Matter : London Ruby User Group : ElasticSearch'
 july:
   happier-deployments-through-gradual-feature-rollout:
   - type: video
     url: http://skillsmatter.com/podcast/home/lrug-happier-deployments
     title: 'Skills Matter : London Ruby User Group: Happier deployments through gradual
       feature rollout'
-  what-ruby-can-t-do:
+  what-ruby-cant-do:
   - type: video
     url: http://skillsmatter.com/podcast/home/what-ruby-cant-do
-    title: "Skills Matter : London Ruby User Group : What Ruby can\x92t do"
+    title: 'Skills Matter : London Ruby User Group : What Ruby can''t do'
 august:
   cut-and-polish-crafting-gems:
   - type: video
@@ -132,14 +136,14 @@ september:
   objective-c-for-rubyists:
   - type: video
     url: http://skillsmatter.com/podcast/home/objective-c-for-rubyists
-    title: 'Skills Matter: London Ruby User Group: Objective C for Rubyists'
+    title: 'Skills Matter : London Ruby User Group : Objective C for Rubyists'
   zero-downtime-deployment:
   - type: slides
     url: https://speakerdeck.com/javicus/zero-downtime-deployment
     title: Zero-downtime  Deployment
   - type: video
     url: http://skillsmatter.com/podcast/home/zero-downtime-deployment
-    title: 'Skills Matter: London Ruby User Group: Zero-downtime deployment'
+    title: 'Skills Matter : London Ruby User Group : Zero-downtime deployment'
 october:
   beautiful-command-line-interface-design:
   - type: video
@@ -167,8 +171,9 @@ november:
     url: https://speakerdeck.com/andrew/an-introduction-to-rubymotion
     title: An introduction to RubyMotion
   - type: video
-    url: http://skillsmatter.com/podcast/ajax-ria/an-introduction-to-rubymotion-writing-ios-apps-with-ruby
-    title: 'Skills Matter : London Ruby User Group : An introduction to RubyMotion'
+    url: https://skillsmatter.com/skillscasts/3710-an-introduction-to-rubymotion-writing-ios-apps-with-ruby
+    title: 'Skills Matter : London Ruby User Group : An introduction to Rubymotion:
+      Writing iOS apps with Ruby'
 december:
   going-native:
   - type: handout

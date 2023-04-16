@@ -37,6 +37,9 @@ registration details are given below](#dec18registration).
 > model, method lookup — she's about to discover that she really has no
 > clue.
 
+{::coverage year="2018" month="december" talk="the-case-of-the-missing-method-a-ruby-mystery-story" /}
+
+
 ## The problem with compiling Ruby
 
 [Vidar Hokstad](https://twitter.com/vhokstad):
@@ -47,6 +50,8 @@ registration details are given below](#dec18registration).
 > the reasons based on what I've learned while working on my own Ruby compiler
 > as described in my series of blog posts at http://hokstad.com/compiler
 
+{::coverage year="2018" month="december" talk="the-problem-with-compiling-ruby" /}
+
 ## Pro Capybara Herding: Feature Testing Tips
 
 [Oli Peate](https://twitter.com/olipeate):
@@ -55,6 +60,8 @@ registration details are given below](#dec18registration).
 > devices? More importantly how do I mute this video I need to test?! Learn
 > about these topics and more in this lightning talk about testing with
 > Capybara & Chrome
+
+{::coverage year="2018" month="december" talk="pro-capybara-herding-feature-testing-tips" /}
 
 ## Afterwards
 

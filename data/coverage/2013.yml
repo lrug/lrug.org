@@ -1,11 +1,14 @@
 ---
 january:
-  pub-quiz: []
+  a-pub-quiz-with-a-twist-of-ruby:
+  - type: video
+    url: https://skillsmatter.com/skillscasts/3875-a-pub-quiz-with-a-twist-of-ruby
+    title: 'Skills Matter : London Ruby User Group : A Pub Quiz With A Twist of Ruby!'
 february:
   hulk-smash-your-db-column-not-your-whole-app:
   - type: video
     url: http://skillsmatter.com/podcast/home/hulk-smash
-    title: 'Skills Matter : London Ruby User Group : HULK SMASH!'
+    title: 'Skills Matter : London Ruby User Group : Hulk Smash!'
   1-2-3:
   - type: link
     url: https://bitbucket.org/threedaymonk/onetwothree
@@ -18,7 +21,7 @@ february:
     url: https://speakerdeck.com/pablobm/extremist-programming
     title: Extremist Programming
   - type: video
-    url: http://skillsmatter.com/podcast/home/extremist-programming
+    url: https://skillsmatter.com/skillscasts/3972-extremist-programming
     title: 'Skills Matter : London Ruby User Group : Extremist Programming'
   contractor-rates-salaries-for-ruby-devs-in-london:
   - type: video
@@ -31,48 +34,49 @@ february:
     title: Mruby & Me
   - type: video
     url: http://skillsmatter.com/podcast/home/mruby
-    title: 'Skills Matter : London Ruby User Group : mruby'
+    title: 'Skills Matter : London Ruby User Group : Mruby & Me'
   love-your-pull-requests:
   - type: slides
     url: http://www.slideshare.net/nasirj/love-your-pullrequests
-    title: Love your pull_requests
+    title: Love your pull requests
   - type: video
     url: http://skillsmatter.com/podcast/home/love-your-pull-requests
     title: 'Skills Matter : London Ruby User Group : Love your pull requests'
   polyglottous-emberjs-with-rake-pipeline-and-localeapp:
   - type: video
-    url: http://skillsmatter.com/podcast/home/polyglottous-emberjs-with-rake-pipeline-and-localeapp
+    url: https://skillsmatter.com/skillscasts/3969-polyglottous-emberjs-with-rake-pipeline-and-localeapp
     title: 'Skills Matter : London Ruby User Group : Polyglottus ember.js with rake-pipeline
       and localeapp'
   afra-collectively-mapping-genomes:
   - type: slides
     url: https://docs.google.com/presentation/d/1KooSW7gcGOHFGYsUTK10P4EC1VXMo0emNJxG_5srkm8/edit?usp=sharing
-    title: 'Skills Matter : London Ruby User Group : Afra: Collectively Mapping Genomes'
+    title: 'Afra: Collectively Mapping Genomes'
   - type: video
     url: http://skillsmatter.com/podcast/home/afra-collectively-mapping-genomes
     title: 'Skills Matter : London Ruby User Group : Afra: Collectively Mapping Genomes'
   what-would-jason-bourne-do:
   - type: slides
     url: https://speakerdeck.com/gerhardlazu/what-would-jason-bourne-do
-    title: Speaker Deck - Share Presentations without the Mess
+    title: What would Jason Bourne do?
   - type: video
     url: http://skillsmatter.com/podcast/home/simple-does-it
     title: 'Skills Matter : London Ruby User Group : What would Jason Bourne do?'
 march:
-  deliver:
+  showing-off-deliver:
   - type: slides
     url: https://speakerdeck.com/gerhardlazu/deliver
     title: Deliver
   - type: video
-    url: http://www.youtube.com/watch?v=dzI8M-H3F08
-    title: Deliver - LRUG March 2013
+    url: https://skillsmatter.com/skillscasts/3992-lrug-gerhard-lazu
+    title: 'Skills Matter : London Ruby User Group : Showing off deliver'
   passing-on-our-skills-to-the-next-generation:
   - type: slides
     url: https://speakerdeck.com/pablobm/i-was-a-teacher-for-a-month
     title: I was a teacher for a month
   - type: video
-    url: http://skillsmatter.com/podcast/home/lrug-pablo-basero-moreno
-    title: 'Skills Matter : London Ruby User Group:Passing on our skills'
+    url: https://skillsmatter.com/skillscasts/3993-lrug-pablo-basero-moreno
+    title: 'Skills Matter : London Ruby User Group : Passing on our skills to the
+      next generation'
 april:
   say-hello-to-padrino:
   - type: slides
@@ -98,7 +102,7 @@ may:
   - type: video
     url: http://skillsmatter.com/podcast/home/dci-with-ruby-rails
     title: 'Skills Matter : London Ruby User Group : DCI with Ruby & Rails'
-  come-get-dirty-with-mruby:
+  exploration-of-mruby:
   - type: slides
     url: https://speakerdeck.com/randym/lrug-mruby
     title: LRUG mruby
@@ -116,8 +120,13 @@ june:
     url: https://speakerdeck.com/javicus/application-example-based-on-gov-dot-uk-public-code
     title: Application Example based on Gov.uk public code.
   - type: video
-    url: http://skillsmatter.com/podcast/ajax-ria/application-example-based-on-gov-uk-public-code
-    title: 'Skills Matter : Application Example based on Gov.uk public code.'
+    url: https://skillsmatter.com/skillscasts/4293-application-example-based-on-gov-uk-public-code
+    title: 'Skills Matter : London Ruby User Group : Application Example based on
+      Gov.uk public code'
+  june-meetup:
+  - type: video
+    url: https://skillsmatter.com/skillscasts/4247-state-transitions
+    title: 'Skills Matter : London Ruby User Group : June Meetup'
 july:
   the-reluctant-chef:
   - type: video
@@ -129,14 +138,25 @@ july:
     title: 'Skills Matter : London Ruby User Group : Building and maintaing a Ruby
       team during the Rails crisis of 2013'
 august:
-  improve-your-code-with-dependency-injection: []
+  improve-your-code-with-dependency-injection:
+  - type: video
+    url: https://skillsmatter.com/skillscasts/4437-improve-your-code-with-dependency-injection
+    title: 'Skills Matter : London Ruby User Group : Improve your code with dependency
+      injection'
   rabbit-running-wild-you-need-a-hutch:
   - type: video
-    url: http://skillsmatter.com/podcast/home/rabbit-running-wild-you-need-a-hutch/jd-8244
-    title: 'Skills Matter : London Ruby User Group:Rabbit running wild?'
+    url: https://skillsmatter.com/skillscasts/4438-rabbit-running-wild-you-need-a-hutch
+    title: 'Skills Matter : London Ruby User Group : Rabbit running wild? You need
+      a hutch!'
 september:
-  concerned-about-concerns: []
-  scaling-beyond-rails: []
+  scaling-beyond-rails:
+  - type: video
+    url: https://skillsmatter.com/skillscasts/4525-scaling-beyond-rails
+    title: 'Skills Matter : London Ruby User Group : Scaling beyond Rails'
+  concerned-about-concerns:
+  - type: video
+    url: https://skillsmatter.com/skillscasts/4514-concerned-about-concerns
+    title: 'Skills Matter : London Ruby User Group : Concerned about Concerns?'
 october:
   enumerators-in-ruby:
   - type: handout
@@ -144,7 +164,7 @@ october:
     title: 'Examples of using Enumnerators: paginated_collection.rb'
   - type: slides
     url: https://speakerdeck.com/ollylegg/enumerators
-    title: Enumerators
+    title: Enumerators in Ruby
   - type: video
     url: http://skillsmatter.com/podcast/home/enumerators-in-ruby
     title: 'Skills Matter : London Ruby User Group : Enumerators in Ruby'
@@ -160,7 +180,6 @@ october:
     title: 'Skills Matter : London Ruby User Group : Modelling state machines with
       Ragel'
 november:
-  how-to-parse-go: []
   controlling-robots-with-ruby:
   - type: link
     url: https://github.com/andrew/artoo-experiments
@@ -169,8 +188,12 @@ november:
     url: https://speakerdeck.com/andrew/ruby-on-robots
     title: Ruby On Robots
   - type: video
-    url: http://skillsmatter.com/podcast/home/controlling-robots-with-ruby
-    title: 'Skills Matter : London Ruby User Group:Controlling Robots wi'
+    url: https://skillsmatter.com/skillscasts/4882-controlling-robots-with-ruby
+    title: 'Skills Matter : London Ruby User Group : Controlling Robots with Ruby'
+  how-to-parse-go:
+  - type: video
+    url: https://skillsmatter.com/skillscasts/4883-how-to-parse-go
+    title: 'Skills Matter : London Ruby User Group : How to parse ''go'''
 december:
   a-fizzbuzz-to-rule-them-all:
   - type: video

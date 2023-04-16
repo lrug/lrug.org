@@ -36,6 +36,8 @@ The August 2013 meeting of LRUG will be on *Monday* the 12th of August, from 6:3
 > meta-programming or magic required. We'll also explore how
 > you might persuade your Rails app to benefit from DI.
 
+{::coverage year="2013" month="august" talk="improve-your-code-with-dependency-injection" /}
+
 ### Rabbit running wild? You need a hutch!
 
 [Pete Hamilton](https://twitter.com/peterejhamilton) says:

@@ -36,17 +36,23 @@ given below](#jun17registration).
 >
 > Let’s explore a day in the life of a fictional programmer who, just like us, means well and wants to do a great job. We’ll use our protagonist’s story to learn about how to honestly express our needs and effectively collaborate in disagreement.
 
+{::coverage year="2017" month="june" talk="this-code-sucks-a-story-about-nonviolent-programming" /}
+
 ### Choosing Ruby for a New Startup
 
 [Alex McLintock](https://twitter.com/alexmc6) says:
 
 > In 2016 I needed to pick the right set of tools for my web based startup, but Ruby on Rails was not my first choice. I will talk about some of the questions I asked myself as a C++/Perl/Java developer and some of the Ruby tools I picked.
 
+{::coverage year="2017" month="june" talk="choosing-ruby-for-a-new-startup" /}
+
 ### 3 ways of using React with Rails - pros and cons
 
 [Hrishi Mittal](https://twitter.com/hrishio) says:
 
 > A quick look at a few ways of using React with Ruby on Rails. The pros and cons of using React inside Rails with gems or in a separate frontend app with a Rails API.
+
+{::coverage year="2017" month="june" talk="3-ways-of-using-react-with-rails-pros-and-cons" /}
 
 ### Food and Drinks
 

@@ -31,6 +31,8 @@ given below](#mar18registration).
 > perspective of a Ruby developer. When is good to use one over the other and
 > philosophies behind them.
 
+{::coverage year="2018" month="march" talk="web-architecture-choices-ruby" /}
+
 ### Strong opinions, loosely held
 
 [Alex Heeton](https://twitter.com/alexheeton) says:
@@ -40,6 +42,8 @@ given below](#mar18registration).
 > build more robust software, with a special focus on managing larger Rails
 > applications.
 
+{::coverage year="2018" month="march" talk="strong-opinions-loosely-held" /}
+
 ### Make responsive emails super-duper easily with MJML
 
 [Chris O’Sullivan](https://twitter.com/thechrisoshow) says:
@@ -48,6 +52,8 @@ given below](#mar18registration).
 > and devices. In this lightning talk I'm going to introduce you to MJML - a
 > markup language that takes a lot of pain out of making responsive emails. You
 > can find more information at http://mjml.io.
+
+{::coverage year="2018" month="march" talk="make-responsive-emails-super-duper-easily-with-mjml" /}
 
 ## Afterwards
 

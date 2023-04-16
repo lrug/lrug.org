@@ -32,6 +32,8 @@ registration details are given below](#oct19registration).
 > Crystal's concurrency model ([Communicating Sequential Processes](https://en.m.wikipedia.org/wiki/Communicating_sequential_processes))
 > and how it shapes the way we write concurrent applications.
 
+{::coverage year="2019" month="october" talk="concurrency-in-crystal" /}
+
 ### How to stop worrying, love the SPA and appreciate Rails.
 
 [Michael Nacos](https://twitter.com/mnacos) says:
@@ -39,6 +41,8 @@ registration details are given below](#oct19registration).
 > Some people love them, some people hate them, but single page
 > applications are here to stay, if not take over. Michael suggests there
 > may be greater SPA platform potential to Rails than you think.
+
+{::coverage year="2019" month="october" talk="how-to-stop-worrying-love-the-spa-and-appreciate-rails" /}
 
 ### Using software engineering practices to improve engineering management
 
@@ -49,6 +53,8 @@ registration details are given below](#oct19registration).
 > talk will give some tips on using familiar tools and techniques from
 > your time as a software engineer to help make management easier and more
 > systematic.
+
+{::coverage year="2019" month="october" talk="using-software-engineering-practices-to-improve-engineering-management" /}
 
 ## Afterwards
 

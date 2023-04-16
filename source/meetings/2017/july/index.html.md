@@ -34,6 +34,8 @@ given below](#jul17registration).
 >
 > We'll explore these questions and highlight differences and similarities between the two languages in the process.
 
+{::coverage year="2017" month="july" talk="better-scripting-with-crystal" /}
+
 ### Pushing Jekyll to breaking point
 
 [James Smith](https://twitter.com/floppy) says:
@@ -44,6 +46,8 @@ given below](#jul17registration).
 >
 > It will also explain why some of this is a *really* bad idea, and reveal the true horror of some of the code required :)
 
+{::coverage year="2017" month="july" talk="pushing-jekyll-to-breaking-point" /}
+
 ### Building a webserver in Elixir
 
 [Peter Saxton](https://twitter.com/crowdhailer) says:
@@ -53,6 +57,8 @@ given below](#jul17registration).
 > This talk explores the virtues of Elixir processes and demonstrates how to work with them.
 >
 > Finally we will take a deeper dive into a real world example; constructing a capable webserver.
+
+{::coverage year="2017" month="july" talk="building-a-webserver-in-elixir" /}
 
 ## Afterwards
 

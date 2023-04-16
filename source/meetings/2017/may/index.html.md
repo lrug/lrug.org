@@ -31,6 +31,7 @@ given below](#may17registration).
 > Common gotchas, how to measure and improve performances when the database is
 > the bottleneck. More about it in this [blog post](https://medium.com/carwow-product-engineering/5-things-i-wish-my-grandfather-told-me-about-activerecord-and-postgres-93416faa09e7).
 
+{::coverage year="2017" month="may" talk="5-things-i-wish-my-grandfather-told-me-about-activerecord-and-postgres" /}
 
 ### A Brief (and incomplete) introduction to Rust (for Rubyists)
 
@@ -41,6 +42,7 @@ given below](#may17registration).
 > like it, and how to embed it in your Ruby code to get a bigger speed boost
 > than those shiny stars in Mariokart.
 
+{::coverage year="2017" month="may" talk="a-brief-and-incomplete-introduction-to-rust-for-rubyists" /}
 
 ### Do you even declarative?
 
@@ -49,6 +51,8 @@ given below](#may17registration).
 > A reflection on some recent tweets about declarative programming by Sarah Mei,
 > and a look at the broader idea of the relationship between mathematics and
 > computing.
+
+{::coverage year="2017" month="may" talk="do-you-even-declarative" /}
 
 ## Afterwards
 

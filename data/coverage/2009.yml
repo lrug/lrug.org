@@ -1,4 +1,103 @@
 ---
+january:
+  couch-db:
+  - type: video
+    url: https://skillsmatter.com/skillscasts/481-lrug-january
+    title: 'Skills Matter : London Ruby User Group : Couch DB'
+  abstractions-for-website-apis:
+  - type: video
+    url: https://skillsmatter.com/skillscasts/483-abstractions-for-website-apis
+    title: 'Skills Matter : London Ruby User Group : Abstractions For Website APIs'
+february:
+  his-twit-4-dead-bots-francis-louis-zoey-bill:
+  - type: video
+    url: https://skillsmatter.com/skillscasts/541-his-twit-4-dead-bots-francis-louis-zoey-bill
+    title: 'Skills Matter : London Ruby User Group : His Twit 4 Dead bots (Francis,
+      Louis, Zoey & Bill)'
+  a-cry-for-help-an-anti-talk:
+  - type: video
+    url: https://skillsmatter.com/skillscasts/542-a-cry-for-help-an-anti-talk
+    title: 'Skills Matter : London Ruby User Group : A cry for help - an anti talk?'
+  ruby-smokes-a-proposal-for-smoke-testing-ruby:
+  - type: video
+    url: https://skillsmatter.com/skillscasts/543-ruby-smokes-a-proposal-for-smoke-testing-ruby
+    title: 'Skills Matter : London Ruby User Group : Ruby Smokes - A proposal for
+      smoke testing ruby'
+  all-the-ruby-thats-fit-to-merge-rails-3-0-merb-2-0:
+  - type: video
+    url: https://skillsmatter.com/skillscasts/544-all-the-ruby-thats-fit-to-merge-rails-3-0-merb-2-0
+    title: 'Skills Matter : London Ruby User Group : All the ruby that''s fit to merge:
+      Rails 3.0 & Merb 2.0'
+  ruby-and-the-gnu-scientific-library-and-or-r:
+  - type: video
+    url: https://skillsmatter.com/skillscasts/545-ruby-and-the-gnu-scientific-library-andor-r
+    title: 'Skills Matter : London Ruby User Group : Ruby and the GNU Scientific Library
+      and/or R'
+  dpkg-tools:
+  - type: video
+    url: https://skillsmatter.com/skillscasts/546-dpkg-tools
+    title: 'Skills Matter : London Ruby User Group : dpkg-tools'
+  ruby-and-xmpp:
+  - type: video
+    url: https://skillsmatter.com/skillscasts/547-ruby-and-xmpp
+    title: 'Skills Matter : London Ruby User Group : Ruby and XMPP'
+  something-about-rubygame:
+  - type: video
+    url: https://skillsmatter.com/skillscasts/548-something-about-rubygame
+    title: 'Skills Matter : London Ruby User Group : Something about rubygame'
+  debugging-with-ruby-debug:
+  - type: video
+    url: https://skillsmatter.com/skillscasts/549-debugging-with-ruby-debug
+    title: 'Skills Matter : London Ruby User Group : Debugging with ruby-debug'
+march:
+  redcar-ruby-gnome-and-textmate:
+  - type: video
+    url: https://skillsmatter.com/skillscasts/570-lrug-march
+    title: 'Skills Matter : London Ruby User Group : Redcar: Ruby, Gnome and Textmate'
+  cucumber-celerity-firewatir:
+  - type: video
+    url: https://skillsmatter.com/skillscasts/587-cucumber-celerity-firewatir
+    title: 'Skills Matter : London Ruby User Group : Cucumber, Celerity, & FireWatir'
+april:
+  ruby-invoicing-framework-gem:
+  - type: video
+    url: https://skillsmatter.com/skillscasts/666-invoicing-gem
+    title: 'Skills Matter : London Ruby User Group : Ruby Invoicing Framework Gem'
+  using-geokit-in-social-apps:
+  - type: video
+    url: https://skillsmatter.com/skillscasts/667-using-geokit-in-social-apps
+    title: 'Skills Matter : London Ruby User Group : Using Geokit in Social Apps'
+  a-modular-approach-to-views:
+  - type: video
+    url: https://skillsmatter.com/skillscasts/668-a-modular-approach-to-views
+    title: 'Skills Matter : London Ruby User Group : A Modular Approach to Views'
+may:
+  ruby-ffi:
+  - type: video
+    url: https://skillsmatter.com/skillscasts/721-ruby-ffi
+    title: 'Skills Matter : London Ruby User Group : Ruby FFI'
+  treetop:
+  - type: video
+    url: https://skillsmatter.com/skillscasts/722-treetop
+    title: 'Skills Matter : London Ruby User Group : Treetop'
+  implementing-scheme-in-ruby:
+  - type: video
+    url: https://skillsmatter.com/skillscasts/723-implementing-scheme-in-ruby
+    title: 'Skills Matter : London Ruby User Group : Implementing Scheme in Ruby'
+june:
+  rdf-in-rails:
+  - type: video
+    url: https://skillsmatter.com/skillscasts/775-rdf-in-rails
+    title: 'Skills Matter : London Ruby User Group : RDF in Rails'
+  dsl-or-a-code-smell:
+  - type: video
+    url: https://skillsmatter.com/skillscasts/776-dsl-or-a-code-smell
+    title: 'Skills Matter : London Ruby User Group : DSL or a code smell...'
+  2-apps-1-test-distributed-ruby-testing:
+  - type: video
+    url: https://skillsmatter.com/skillscasts/777-2-apps-1-test-distributed-ruby-testing
+    title: 'Skills Matter : London Ruby User Group : 2 apps, 1 test : Distributed
+      ruby testing'
 july:
   do-mix-your-drinks:
   - type: slides
@@ -6,7 +105,26 @@ july:
     title: Do Mix Your Drinks
   - type: video
     url: https://skillsmatter.com/podcast/agile-testing/do-mix-your-drinks
-    title: Do Mix Your Drinks
+    title: 'Skills Matter : London Ruby User Group : Do Mix Your Drinks'
+  ruby-arduino:
+  - type: video
+    url: https://skillsmatter.com/skillscasts/840-rubyarduino
+    title: 'Skills Matter : London Ruby User Group : Ruby+Arduino'
+august:
+  amqp-in-ruby:
+  - type: video
+    url: https://skillsmatter.com/skillscasts/867-amqp-in-ruby
+    title: 'Skills Matter : London Ruby User Group : AMQP in Ruby'
+  making-your-rails-app-kick-ass-with-ruby-prof-and-kcachegrind:
+  - type: video
+    url: https://skillsmatter.com/skillscasts/868-making-your-rails-app-kick-ass-with-ruby-prof-and-kcachegrind
+    title: 'Skills Matter : London Ruby User Group : Making your rails app kick ass
+      with ruby-prof and kcachegrind'
+september:
+  coding-dojo:
+  - type: video
+    url: https://skillsmatter.com/skillscasts/973-coding-dojo-973
+    title: 'Skills Matter : London Ruby User Group : Coding Dojo'
 october:
   thinking-functionally-in-ruby:
   - type: slides
@@ -14,7 +132,8 @@ october:
     title: Thinking Functionally in Ruby
   - type: video
     url: http://skillsmatter.com/podcast/ajax-ria/enumerators
-    title: Thinking Functionally in Ruby
-  - type: write-up
-    url: http://www.rubyinside.com/functional-programming-in-ruby-2713.html
-    title: Thinking Functionally In Ruby – A Great Presentation by Tom Stuart
+    title: 'Skills Matter : London Ruby User Group : Thinking Functionally in Ruby'
+  a-trio-of-gems:
+  - type: video
+    url: https://skillsmatter.com/skillscasts/1100-a-trio-of-gems
+    title: 'Skills Matter : London Ruby User Group : A trio of gems'

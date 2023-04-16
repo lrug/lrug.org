@@ -47,7 +47,7 @@ The May 2016 meeting of LRUG will be on *Monday the 9th of May*, from 6:00pm to 
 > relax, as the infrastructure had been designed to filter out most problems
 > that could occur during deployment. Here is their story!
 
-{::coverage year="2016" month="may" talk="a-tale-of-two-deployments-machine-images-immutable-servers-and-green-blue-deployment" /}
+{::coverage year="2016" month="may" talk="a-tale-of-two-deployments-machine-images-immutable" /}
 
 ### Convox: Painless deployment of Docker on AWS
 
@@ -58,6 +58,8 @@ The May 2016 meeting of LRUG will be on *Monday the 9th of May*, from 6:00pm to 
 > helps by providing a simple Heroku-esque CLI to deploy and manage your
 > application on AWS. We've been able to replace a bunch of terraform +
 > chef/ansible scripts and use Docker in production without the headache.
+
+{::coverage year="2016" month="may" talk="convox-painless-deployment-of-docker-on-aws" /}
 
 ### Ticket Giveaway
 

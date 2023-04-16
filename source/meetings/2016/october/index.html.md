@@ -48,6 +48,8 @@ make i18n a smooth process:
 > internationalisation and some of the common pitfalls of translating a
 > website.
 
+{::coverage year="2016" month="october" talk="a-month-of-i18n-in-10-minutes" /}
+
 ### Joining the mob: Top 12 mob programming tips and thoughts
 
 [Emma Beynon](https://twitter.com/emmabeynon) wants to share how she and
@@ -59,6 +61,8 @@ her team got on with mob-programming:
 > from their mobbing experience, and take away a few tips to try it in your
 > team.
 
+{::coverage year="2016" month="october" talk="joining-the-mob-top-12-mob-programming-tips-and-thoughts" /}
+
 ### An open-source contribution story
 
 [Murray Steele](https://twitter.com/hlame) has a story to tell:
@@ -66,7 +70,7 @@ her team got on with mob-programming:
 > A short story about a contribution I made to rubygems that took a couple
 > of years. And how that's totally ok.
 
-{:coverage year="2016" month="october" talk="rubygems-an-open-source-contribution-story" /}
+{::coverage year="2016" month="october" talk="an-open-source-contribution-story" /}
 
 ## Afterwards
 

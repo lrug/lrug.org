@@ -30,7 +30,7 @@ The May 2012 meeting of LRUG will be on *Monday* the 14th of May, from 6:30pm to
 
 This description is taken from her [pull request on EuRuKo's github-based cfp](https://github.com/euruko2012/call-for-proposals/pull/73).  If you like her talk, or have any comments, feel free to get involved over there to let the EuRuKo organisers know that they should select it.
 
-{::coverage year="2012" month="may" talk="ruby-s-bin-men-a-closer-look-at-the-garbage-collector" /}
+{::coverage year="2012" month="may" talk="rubys-bin-men-a-closer-look-at-the-garbage-collector" /}
 
 ### Dependency Injection, the Dependency Inversion Principle, and You
 

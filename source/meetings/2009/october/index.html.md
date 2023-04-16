@@ -32,7 +32,7 @@ Brent offered to talk about one or more of the following three gems he's been wo
 
 There was most interest in [bumps](http://github.com/brentsnook/bumps/) but if you get on our [mailing list](/mailing-list) you can let him know which you'd rather hear more about.
 
-A video of Brent's talk is available on the [Skills Matter site](http://skillsmatter.com/podcast/ajax-ria/a-trio-of-gems).
+{::coverage year="2009" month="october" talk="a-trio-of-gems" /}
 
 ### [Tom Stuart](http://experthuman.com/) : Enumerators
 

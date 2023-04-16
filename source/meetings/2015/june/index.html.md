@@ -31,15 +31,15 @@ The June 2015 meeting of LRUG will be on *Monday the 8th of June*, from 6:30pm t
 > can use within your own systems. I'll also share some concrete examples
 > of what we've used it for at Cronofy.
 
-{::coverage year="2015" month="june" talk="redis-is-the-answer-what-s-the-question" /}
+{::coverage year="2015" month="june" talk="redis-is-the-answer-whats-the-question" /}
 
 ### Ruby Magic
 
-As a child, [Andrew McDonough](http://twitter.com/andrewmcdonough) loved
-magic.  One of the best Christmas presents he ever received was a magic
-set.  As an adult, Andrew prefers to perform magic using Ruby.  In this
-talk, he will attempt an array of traditional magic tricks, using only
-[IRB](https://en.wikipedia.org/wiki/Interactive_Ruby_Shell).
+> As a child, [Andrew McDonough](http://twitter.com/andrewmcdonough) loved
+> magic.  One of the best Christmas presents he ever received was a magic
+> set.  As an adult, Andrew prefers to perform magic using Ruby.  In this
+> talk, he will attempt an array of traditional magic tricks, using only
+> [IRB](https://en.wikipedia.org/wiki/Interactive_Ruby_Shell).
 
 {::coverage year="2015" month="june" talk="ruby-magic" /}
 

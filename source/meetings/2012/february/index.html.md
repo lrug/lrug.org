@@ -24,47 +24,47 @@ Our confirmed volunteers for 2012 are:
 
 #### [James Coglan](http://twitter.com/jcoglan)
 
-A History of Websockets
+> A History of Websockets
 
 {::coverage year="2012" month="february" talk="a-history-of-websockets" /}
 
 #### [Jairo Diaz](http://twitter.com/codescrum)
 
-"Tech interns" - How to get more qualified interns into Ruby.
+> "Tech interns" - How to get more qualified interns into Ruby.
 
 {::coverage year="2012" month="february" talk="tech-interns" /}
 
 #### [Stuart Eccles](http://twitter.com/stueccles)
 
-Conan the deployer - capistrano extensions focussing on AWS
+> Conan the deployer - capistrano extensions focussing on AWS
 
 {::coverage year="2012" month="february" talk="conan-the-deployer" /}
 
 #### [Richard Livsey](http://twitter.com/rlivsey)
 
-Breaking up is hard to do - extracting authentication code from models
+> Breaking up is hard to do - extracting authentication code from models
 
 {::coverage year="2012" month="february" talk="breaking-up-is-hard-to-do" /}
 
 #### [Harry Marr](http://twitter.com/harrymarr)
 
-Custom documentation generators ([example](https://gocardless.com/docs))
+> Custom documentation generators ([example](https://gocardless.com/docs))
 
 #### [Andrew McDonough](http://twitter.com/andrewmcdonough)
 
-Ruby Poetry
+> Ruby Poetry
 
 {::coverage year="2012" month="february" talk="ruby-poetry" /}
 
 #### [Chris Parsons](http://twitter.com/chrismdp)
 
-The crowd-sourced talk. One slot at these evenings is given over to someone prepared to do a talk on something that the mailing list suggests, Chris is bravely wearing that mantle this time.
+> The crowd-sourced talk. One slot at these evenings is given over to someone prepared to do a talk on something that the mailing list suggests, Chris is bravely wearing that mantle this time.
 
 {::coverage year="2012" month="february" talk="the-great-ruby-showdown" /}
 
 #### [Roland Swingler](http://twitter.com/knaveofdiamonds)
 
-Reading tea leaves - predict the future with ruby!
+> Reading tea leaves - predict the future with ruby!
 
 {::coverage year="2012" month="february" talk="reading-tea-leaves-predict-the-future-with-ruby" /}
 
@@ -72,7 +72,7 @@ Also, these brave folk have volunteered, but are waiting in the wings before con
 
 #### [Jakub Šťastný](http://twitter.com/botanicus)
 
-[SockJS](https://github.com/sockjs/sockjs-ruby) - a websocket emulation library
+> [SockJS](https://github.com/sockjs/sockjs-ruby) - a websocket emulation library
 
 This is not the running order, on the night we randomise the order of the speakers *for even more fun*!
 

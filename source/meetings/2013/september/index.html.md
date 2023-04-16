@@ -34,6 +34,8 @@ The September 2013 meeting of LRUG will be on *Monday* the 9th of September, fro
 > discuss the trade-offs of this technique, the different views
 > in the community and a couple of alternatives.
 
+{::coverage year="2013" month="september" talk="concerned-about-concerns" /}
+
 ### Scaling beyond Rails
 
 [Manuel Morales](https://github.com/manuelmorales) says:
@@ -43,6 +45,8 @@ The September 2013 meeting of LRUG will be on *Monday* the 9th of September, fro
 > I'll discuss how are we attacking this problem in a progressive, 
 > iterative way and which tools we chose for each situation; some of 
 > which are not limited to Ruby.
+
+{::coverage year="2013" month="september" talk="scaling-beyond-rails" /}
 
 ## Pub
 

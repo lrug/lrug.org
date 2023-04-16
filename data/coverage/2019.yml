@@ -1,6 +1,151 @@
 ---
-example_month:
-  talk-title-key-in-coverage-tag:
+february:
+  a-different-take-on-validation-using-the-dry-validation-gem:
   - type: video
-    url: https://assets.lrug.org/videos/2019/full-month-name/talk-file-name.mp4
-    title: LRUG Month 2019 - Speaker Name - Talk title
+    url: https://skillsmatter.com/skillscasts/13250-lrug
+    title: 'Skills Matter : London Ruby User Group : A different take on validation
+      using the dry-validation gem'
+  capybara-architecture-overview:
+  - type: video
+    url: https://skillsmatter.com/skillscasts/13430-capybara-architecture-overview
+    title: 'Skills Matter : London Ruby User Group : Capybara architecture overview'
+  automating-infrastructure-tasks-with-the-serverless-framework:
+  - type: video
+    url: https://skillsmatter.com/skillscasts/13431-automating-infrastructure-tasks-with-the-serverless-framework
+    title: 'Skills Matter : London Ruby User Group : Automating Infrastructure Tasks
+      with the Serverless Framework'
+  using-rails-with-a-content-distribution-network-cdn:
+  - type: video
+    url: https://skillsmatter.com/skillscasts/13432-using-rails-with-a-content-distribution-network-cdn
+    title: 'Skills Matter : London Ruby User Group : Using Rails with a Content Distribution
+      Network (CDN)'
+  a-developer-and-a-designer-getting-along-famously:
+  - type: video
+    url: https://skillsmatter.com/skillscasts/13461-a-developer-and-a-designer-getting-along-famously
+    title: 'Skills Matter : London Ruby User Group : A Developer and a Designer, Getting
+      Along Famously'
+  humans-are-hard:
+  - type: video
+    url: https://skillsmatter.com/skillscasts/13462-humans-are-hard
+    title: 'Skills Matter : London Ruby User Group : Humans Are Hard'
+  how-to-craft-your-commit-history:
+  - type: video
+    url: https://skillsmatter.com/skillscasts/13463-how-to-craft-your-commit-history
+    title: 'Skills Matter : London Ruby User Group : How to Craft Your Commit History'
+  using-activerecord-types-for-backwards-compatibility:
+  - type: video
+    url: https://skillsmatter.com/skillscasts/13493-using-activerecord-types-for-backwards-compatibility
+    title: 'Skills Matter : London Ruby User Group : Using ActiveRecord types for
+      backwards compatibility'
+march:
+  rspec-level-up:
+  - type: video
+    url: https://skillsmatter.com/skillscasts/13574-rspec-level-up
+    title: 'Skills Matter : London Ruby User Group : RSpec - Level Up'
+  education-recruitment-and-technology-what-needs-to-change:
+  - type: video
+    url: https://skillsmatter.com/skillscasts/13575-education-recruitment-and-technology-what-needs-to-change
+    title: 'Skills Matter : London Ruby User Group :  Education, Recruitment and Technology:
+      What needs to change?'
+  representations-count:
+  - type: video
+    url: https://skillsmatter.com/skillscasts/13618-representations-count
+    title: 'Skills Matter : London Ruby User Group : Representations count '
+april:
+  improve-confidence-in-your-code-with-mutation-testing:
+  - type: video
+    url: https://skillsmatter.com/skillscasts/13762-improve-confidence-in-your-code-with-mutation-testing
+    title: 'Skills Matter : London Ruby User Group : Improve confidence in your code
+      with mutation testing '
+  giving-my-enemies-a-voice:
+  - type: video
+    url: https://skillsmatter.com/skillscasts/13763-giving-my-enemies-a-voice
+    title: 'Skills Matter : London Ruby User Group : Giving my enemies a voice'
+may:
+  getting-the-next-generation-into-coding:
+  - type: video
+    url: https://skillsmatter.com/skillscasts/13254-lrug
+    title: 'Skills Matter : London Ruby User Group : Getting the Next Generation into
+      Coding'
+  monoids:
+  - type: video
+    url: https://skillsmatter.com/skillscasts/13928-monoids
+    title: 'Skills Matter : London Ruby User Group : Monoids'
+  writing-more-elegant-queries-with-activerecord:
+  - type: video
+    url: https://skillsmatter.com/skillscasts/13944-writing-more-elegant-queries-with-activerecord
+    title: 'Skills Matter : London Ruby User Group : Writing more elegant queries
+      with ActiveRecord'
+june:
+  simplify-writing-code-with-deliberate-commits:
+  - type: video
+    url: https://skillsmatter.com/skillscasts/13255-lrug
+    title: 'Skills Matter : London Ruby User Group : Simplify writing code with deliberate
+      commits'
+  user-first-internationalisation:
+  - type: video
+    url: https://skillsmatter.com/skillscasts/13996-user-first-internationalisation
+    title: 'Skills Matter : London Ruby User Group : User-First Internationalisation'
+  a-practical-guide-for-conducting-efficient-code-reviews:
+  - type: video
+    url: https://skillsmatter.com/skillscasts/14030-a-practical-guide-for-conducting-efficient-code-reviews
+    title: 'Skills Matter : London Ruby User Group :  A practical guide for conducting
+      efficient code reviews'
+july:
+  small-tech-teams:
+  - type: video
+    url: https://skillsmatter.com/skillscasts/14142-lrug-july
+    title: 'Skills Matter : London Ruby User Group : Small Tech Teams'
+  what-does-a-coconut-and-serverless-have-in-common:
+  - type: video
+    url: https://skillsmatter.com/skillscasts/14150-what-does-a-coconut-and-serverless-have-in-common
+    title: 'Skills Matter : London Ruby User Group : What does a Coconut and Serverless
+      have in common?'
+  automating-aws-infrastructure-for-rails-applications:
+  - type: video
+    url: https://skillsmatter.com/skillscasts/14151-automating-aws-infrastructure-for-rails-applications
+    title: 'Skills Matter : London Ruby User Group : Automating AWS Infrastructure
+      for Rails Applications'
+august:
+  pattern-matching-in-ruby-2-7:
+  - type: video
+    url: https://skillsmatter.com/skillscasts/14333-title-pattern-matching-in-ruby-2-7
+    title: 'Skills Matter : London Ruby User Group : Pattern matching in ruby 2.7 '
+  spree-commerce-how-to-run-an-ecommerce-platform:
+  - type: video
+    url: https://skillsmatter.com/skillscasts/14334-spree-commerce-how-to-run-an-ecommerce-platform
+    title: 'Skills Matter : London Ruby User Group : Spree Commerce: How to run an
+      eCommerce platform?'
+  reuse-your-governments-code:
+  - type: video
+    url: https://skillsmatter.com/skillscasts/14335-reuse-your-government-s-code
+    title: 'Skills Matter : London Ruby User Group : Reuse your government''s code'
+september:
+  computer-graphics-for-ruby-developers:
+  - type: video
+    url: https://skillsmatter.com/skillscasts/14493-computer-graphics-for-ruby-developers
+    title: 'Skills Matter : London Ruby User Group : Computer Graphics for Ruby developers'
+  how-to-say-no-to-salesforce-and-build-your-own-crm:
+  - type: video
+    url: https://skillsmatter.com/skillscasts/14494-how-to-say-no-to-salesforce-and-build-your-own-crm
+    title: 'Skills Matter : London Ruby User Group : How to say no to Salesforce and
+      build your own CRM'
+  have-your-sorbet-and-eat-it-too:
+  - type: video
+    url: https://skillsmatter.com/skillscasts/14506-have-your-sorbet-and-eat-it-too
+    title: 'Skills Matter : London Ruby User Group : Have your Sorbet and eat it too'
+october:
+  concurrency-in-crystal:
+  - type: video
+    url: https://skillsmatter.com/skillscasts/14569-concurrency-in-crystal
+    title: 'Skills Matter : London Ruby User Group : Concurrency in Crystal'
+  how-to-stop-worrying-love-the-spa-and-appreciate-rails:
+  - type: video
+    url: https://skillsmatter.com/skillscasts/14571-how-to-stop-worrying-love-the-spa-and-appreciate-rails
+    title: 'Skills Matter : London Ruby User Group : How to stop worrying, love the
+      SPA and appreciate Rails'
+  using-software-engineering-practices-to-improve-engineering-management:
+  - type: video
+    url: https://skillsmatter.com/skillscasts/14586-using-software-engineering-practices-to-improve-engineering-management
+    title: 'Skills Matter : London Ruby User Group : Using software engineering practices
+      to improve engineering management'
