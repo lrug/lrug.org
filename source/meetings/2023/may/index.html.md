@@ -22,6 +22,14 @@ This month we're hosted by the lovely folk at [Zappi](https://www.zappi.io/web/)
 
 ## Agenda
 
+### GitHub Actions: an introduction
+
+[Gus Shaw Stewart](https://www.linkedin.com/in/gus-shaw-stewart-499409189/) says:
+
+> An introductory talk about GitHub Actions - what they are, why they are
+important, and how you can get started with them.
+
+
 ## Afterwards
 
 Once we're done with the talks we'll leave the venue (after doing our best
