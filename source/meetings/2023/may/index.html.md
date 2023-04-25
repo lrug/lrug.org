@@ -63,5 +63,5 @@ can't come, please use eventbrite to give up your place so we can someone
 else come in your place.  We might be able to let in people on the night
 who haven't registered, but we can't guarantee it.
 
-[may-venue]: https://goo.gl/maps/buHQcJudYKbShgRB8
-[may-2023-eventbrite]: TODO
+[zappi-venue]: https://goo.gl/maps/buHQcJudYKbShgRB8
+[may-2023-eventbrite]: https://www.eventbrite.com/e/london-ruby-user-group-may-2023-meeting-tickets-624220760097
