@@ -31,6 +31,8 @@ lovely folk at [Cleo](https://web.meetcleo.com/) at their offices, in Shoreditch
 >
 > In this talk, we’ll misuse Ruby’s internals to build an arrow operator that lets us assign upwards. We’ll see some powerful Ruby metaprogramming features that allow us to bend Ruby to our will – and we’ll talk about why it’s good to write code that’s just plain daft.
 
+{::coverage year="2023" month="april" talk="making-a-working-upwards-assignment-operator" /}
+
 ### Build a mini Ruby debugger in under 300 lines
 
 [Stan Lo](https://github.com/st0012) says:
@@ -46,6 +48,8 @@ lovely folk at [Cleo](https://web.meetcleo.com/) at their offices, in Shoreditch
 > - Step through your code to find bugs
 >
 > And best of all, you'll do it all in under 300 lines of code!
+
+{::coverage year="2023" month="april" talk="build-a-mini-ruby-debugger-in-under-300-lines" /}
 
 ## Afterwards
 
