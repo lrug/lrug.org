@@ -54,3 +54,12 @@ march:
     - type: video
       title: "LRUG March 2023 - Frederick Cheung - End to end typing for web applications"
       url: https://assets.lrug.org/videos/2023/march/frederick-cheung-end-to-end-typing-for-web-applications-lrug-mar-2023.mp4
+april:
+  making-a-working-upwards-assignment-operator:
+    - type: video
+      title: "LRUG April 2023 - Alex - Making a working upwards assignment operator"
+      url: https://assets.lrug.org/videos/2023/april/alex-making-a-working-upwards-assignment-operator-lrug-apr-2023.mp4
+  build-a-mini-ruby-debugger-in-under-300-lines:
+    - type: video
+      title: "LRUG April 2023 - Stan Lo - Build a mini Ruby debugger in under 300 lines-lrug-apr-2023"
+      url: https://assets.lrug.org/videos/2023/april/stan-lo-build-a-mini-ruby-debugger-in-under-300-lines-lrug-apr-2023.mp4
