@@ -15,8 +15,8 @@ hosted_by:
 
 ---
 
-The May 2023 meeting of LRUG will be on Monday the 15 of
-March, from 6:00pm to 8:00pm (meeting starts at 6:30pm).
+The May 2023 meeting of LRUG will be on Monday the 15th of
+May, from 6:00pm to 8:00pm (meeting starts at 6:30pm).
 
 This month we're hosted by the lovely folk at [Zappi](https://www.zappi.io/web/) in [their offices][zappi-venue], on  Camden High St. [Full venue and registration details are given below](#may23registration).
 
