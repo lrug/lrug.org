@@ -24,6 +24,16 @@ Victoria St.. [Full venue and registration details are given below](#jun23regist
 
 ## Agenda
 
+### Tech debt for the rest of us
+
+[Alfredo Motta](https://twitter.com/mottalrd) says:
+
+> Tech Debt can be messy, but it doesn't have to be. In this short talk
+> I'll present a simple approach to identify your Tech Debt, monitor it
+> over time and make it actionable.
+
+{::coverage year="2023" month="june" talk="xxx" /}
+
 ### xxx
 
 []() says:
