@@ -77,9 +77,9 @@ The address of the venue:
 > Funding Circle<br/>71 Queen Victoria St<br/>London<br/>EC4V 4AY<br/><br/>[See on a map][fc-venue]
 
 The venue has a hard limit of 90 people.  If you register and realise you
-can't come, please use eventbrite to give up your place so we can someone
-else come in your place.  We might be able to let in people on the night
-who haven't registered, but we can't guarantee it.
+can't come, please use eventbrite to give up your place so someone else can
+come in your place.  We might be able to let in people on the night who haven't
+registered, but we can't guarantee it.
 
 [fc-venue]: https://goo.gl/maps/gVwnprtjhNKoK2AJ8
 [june-2023-eventbrite]: https://www.eventbrite.com/e/london-ruby-user-group-june-2023-meeting-tickets-637513328527
