@@ -63,3 +63,8 @@ april:
     - type: video
       title: "LRUG April 2023 - Stan Lo - Build a mini Ruby debugger in under 300 lines-lrug-apr-2023"
       url: https://assets.lrug.org/videos/2023/april/stan-lo-build-a-mini-ruby-debugger-in-under-300-lines-lrug-apr-2023.mp4
+may:
+  github-actions-an-introduction:
+    - type: video
+      title: "LRUG May 2023 - Gus Shaw Stewart - GitHub Actions: an introduction"
+      url: https://assets.lrug.org/videos/2023/may/gus-shaw-stewart-github-actions-an-introduction-lrug-may-2023.mp4

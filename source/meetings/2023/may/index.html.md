@@ -29,6 +29,7 @@ This month we're hosted by the lovely folk at [Zappi](https://www.zappi.io/web/)
 > An introductory talk about GitHub Actions - what they are, why they are
 important, and how you can get started with them.
 
+{::coverage year="2023" month="may" talk="github-actions-an-introduction" /}
 
 ## Afterwards
 
