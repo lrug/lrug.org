@@ -18,9 +18,9 @@ hosted_by:
 The June 2023 meeting of LRUG will be on Monday the 12th of
 June, from 6:00pm to 8:00pm (meeting starts at 6:30pm).
 
-This month we're hosted by the the lovely folk at [Funding
+This month we're hosted by the lovely folk at [Funding
 Circle](https://fundingcircle.com) in [their offices][fc-venue], on Queen
-Victoria St.. [Full venue and registration details are given below](#jun23registration).
+Victoria St. [Full venue and registration details are given below](#jun23registration).
 
 ## Agenda
 
@@ -45,6 +45,16 @@ Victoria St.. [Full venue and registration details are given below](#jun23regist
 > team has built software that has transformed the lives of thousands of
 > homeless people and refugees. And hear about the fun, meaning and challenge in
 > Tech for Good.
+
+{::coverage year="2023" month="june" talk="xxx" /}
+
+### Mutation testing - study case
+
+[Adam Piotrowski](https://www.linkedin.com/in/adamsarin/) says:
+
+> Let's talk about why and how we measure our test coverage. If you are
+> using line test coverage measurement and you are happy with it, please let
+> me show you some differences and examples of line TC vs mutation TC.
 
 {::coverage year="2023" month="june" talk="xxx" /}
 
