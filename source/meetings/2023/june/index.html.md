@@ -18,9 +18,9 @@ hosted_by:
 The June 2023 meeting of LRUG will be on Monday the 12th of
 June, from 6:00pm to 8:00pm (meeting starts at 6:30pm).
 
-This month we're hosted by the the lovely folk at [Funding
+This month we're hosted by the lovely folk at [Funding
 Circle](https://fundingcircle.com) in [their offices][fc-venue], on Queen
-Victoria St.. [Full venue and registration details are given below](#jun23registration).
+Victoria St. [Full venue and registration details are given below](#jun23registration).
 
 ## Agenda
 
