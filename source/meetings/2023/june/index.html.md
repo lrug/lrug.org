@@ -48,6 +48,16 @@ Victoria St. [Full venue and registration details are given below](#jun23registr
 
 {::coverage year="2023" month="june" talk="xxx" /}
 
+### Mutation testing - study case
+
+[Adam Piotrowski](https://www.linkedin.com/in/adamsarin/) says:
+
+> Let's talk about why and how we measure our test coverage. If you are
+> using line test coverage measurement and you are happy with it, please let
+> me show you some differences and examples of line TC vs mutation TC.
+
+{::coverage year="2023" month="june" talk="xxx" /}
+
 ## Afterwards
 
 Once we're done with the talks we'll leave the venue (after doing our best
