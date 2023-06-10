@@ -58,6 +58,19 @@ Victoria St. [Full venue and registration details are given below](#jun23registr
 
 {::coverage year="2023" month="june" talk="xxx" /}
 
+### How we used CQRS to structure our new Borrower Portal
+
+[Shenthuran Satkunarasa](https://www.linkedin.com/in/shen-sat) says:
+
+> Funding Circle recently built a new application that allows borrowers to
+> manage their loans themselves. We structured the application using a
+> (new-to-me!) design principle called Command Query
+> Responsibility Segregation. Join me as I give a brief definition of what
+> CQRS is before showing you the practical application of it via our new
+> borrower portal 💻
+
+{::coverage year="2023" month="june" talk="xxx" /}
+
 ## Afterwards
 
 Once we're done with the talks we'll leave the venue (after doing our best
