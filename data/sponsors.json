@@ -846,5 +846,21 @@
         "height":"99"
       }
     }
+  },
+  {
+    "name":"Creditspring",
+    "url":"https://www.creditspring.co.uk",
+    "logo":{
+      "sidebar":{
+        "url":"https://assets.lrug.org/images/creditspring-logo.png",
+        "width":"120",
+        "height":"24"
+      },
+      "main":{
+        "url":"https://assets.lrug.org/images/creditspring-logo.ng",
+        "width":"260",
+        "height":"52"
+      }
+    }
   }
 ]
