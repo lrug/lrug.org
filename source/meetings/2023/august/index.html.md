@@ -11,7 +11,7 @@ published_at: 2023-07-12 20:10:00 +0000
 created_at: 2023-07-12 19:28:00 +0000
 status: Published
 hosted_by:
-  - :name: Beam
+  - :name: beam
 
 ---
 
