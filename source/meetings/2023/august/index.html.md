@@ -37,6 +37,20 @@ listen to how a simple idea has now turned into a well known brand.
 
 {::coverage year="2023" month="august" talk="xxx" /}
 
+
+### Gain insight and better accessibility into your application's data by using The Brick
+
+[Lorin Thwaits](https://www.facebook.com/lorint/) says
+
+> Remarkable visibility into the structure of your application and its data
+is available by using the open-source Rails gem "[The Brick](
+https://github.com/lorint/brick)". Come meet the author of this gem, and
+experience the cornucopia of usefulness it can provide to teams who
+architect, elaborate upon, and then support Rails applications.
+
+{::coverage year="2023" month="august" talk="xxx" /}
+
+
 ## Afterwards
 
 Once we're done with the talks we'll leave the venue (after doing our best
