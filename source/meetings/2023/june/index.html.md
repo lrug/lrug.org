@@ -32,7 +32,7 @@ Victoria St. [Full venue and registration details are given below](#jun23registr
 > I'll present a simple approach to identify your Tech Debt, monitor it
 > over time and make it actionable.
 
-{::coverage year="2023" month="june" talk="xxx" /}
+{::coverage year="2023" month="june" talk="tech-debt-for-the-rest-of-us" /}
 
 ### Ruby to solve homelessness and the refugee crises
 
@@ -56,7 +56,7 @@ Victoria St. [Full venue and registration details are given below](#jun23registr
 > using line test coverage measurement and you are happy with it, please let
 > me show you some differences and examples of line TC vs mutation TC.
 
-{::coverage year="2023" month="june" talk="xxx" /}
+{::coverage year="2023" month="june" talk="mutation-testing-study-case" /}
 
 ### How we used CQRS to structure our new Borrower Portal
 
@@ -69,7 +69,7 @@ Victoria St. [Full venue and registration details are given below](#jun23registr
 > CQRS is before showing you the practical application of it via our new
 > borrower portal 💻
 
-{::coverage year="2023" month="june" talk="xxx" /}
+{::coverage year="2023" month="june" talk="how-we-used-cqrs-to-structure-our-new-borrower-portal" /}
 
 ## Afterwards
 

@@ -68,3 +68,16 @@ may:
     - type: video
       title: "LRUG May 2023 - Gus Shaw Stewart - GitHub Actions: an introduction"
       url: https://assets.lrug.org/videos/2023/may/gus-shaw-stewart-github-actions-an-introduction-lrug-may-2023.mp4
+june:
+  tech-debt-for-the-rest-of-us:
+    - type: video
+      title: "LRUG June 2023 - Alfredo Motta - Tech debt for the rest of us"
+      url: https://assets.lrug.org/videos/2023/june/alfredo-motta-tech-debt-for-the-rest-of-us-lrug-jun-2023.mp4
+  mutation-testing-study-case:
+    - type: video
+      title: "LRUG June 2023 - Adam Piotrowski - Mutation testing - study case"
+      url: https://assets.lrug.org/videos/2023/june/adam-piotrowski-mutation-testing-study-case-lrug-jun-2023.mp4
+  how-we-used-cqrs-to-structure-our-new-borrower-portal:
+    - type: video
+      title: "LRUG June 2023 - Shenthuran Satkunarasa - How we used CQRS to structure our new Borrower Portal"
+      url: https://assets.lrug.org/videos/2023/june/shenthuran-satkunarasa-how-we-used-cqrs-to-structure-our-new-borrower-portal-lrug-jun-2023.mp4
