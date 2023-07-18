@@ -32,21 +32,7 @@ Victoria St. [Full venue and registration details are given below](#jun23registr
 > I'll present a simple approach to identify your Tech Debt, monitor it
 > over time and make it actionable.
 
-{::coverage year="2023" month="june" talk="xxx" /}
-
-### Ruby to solve homelessness and the refugee crises
-
-[Dan Hough](http://beam.org/) says:
-
-> Social impact startup Beam (named by LinkedIn as one of the UK’s Top 15
-> Startups) has built pioneering products for government, social care workers -
-> and homeless people and refugees themselves. Together, Beam is proving that
-> tech can solve these problems for good. Hear about how a small Engineering
-> team has built software that has transformed the lives of thousands of
-> homeless people and refugees. And hear about the fun, meaning and challenge in
-> Tech for Good.
-
-{::coverage year="2023" month="june" talk="xxx" /}
+{::coverage year="2023" month="june" talk="tech-debt-for-the-rest-of-us" /}
 
 ### Mutation testing - study case
 
@@ -56,7 +42,7 @@ Victoria St. [Full venue and registration details are given below](#jun23registr
 > using line test coverage measurement and you are happy with it, please let
 > me show you some differences and examples of line TC vs mutation TC.
 
-{::coverage year="2023" month="june" talk="xxx" /}
+{::coverage year="2023" month="june" talk="mutation-testing-study-case" /}
 
 ### How we used CQRS to structure our new Borrower Portal
 
@@ -69,7 +55,7 @@ Victoria St. [Full venue and registration details are given below](#jun23registr
 > CQRS is before showing you the practical application of it via our new
 > borrower portal 💻
 
-{::coverage year="2023" month="june" talk="xxx" /}
+{::coverage year="2023" month="june" talk="how-we-used-cqrs-to-structure-our-new-borrower-portal" /}
 
 ## Afterwards
 
