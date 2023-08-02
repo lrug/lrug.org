@@ -81,3 +81,9 @@ june:
     - type: video
       title: "LRUG June 2023 - Shenthuran Satkunarasa - How we used CQRS to structure our new Borrower Portal"
       url: https://assets.lrug.org/videos/2023/june/shenthuran-satkunarasa-how-we-used-cqrs-to-structure-our-new-borrower-portal-lrug-jun-2023.mp4
+july:
+  dan-hough-ruby-to-solve-homelessness-and-the-refugee-crises:
+    - type: video
+      title: "LRUG July 2023 - Dan Hough - Ruby to solve homelessness and the refugee crises"
+      url: https://assets.lrug.org/videos/2023/july/dan-hough-ruby-to-solve-homelessness-and-the-refugee-crises.mp4
+

@@ -35,7 +35,7 @@ This month we're hosted by the lovely folk at [Creditspring](https://www.credits
 > Tech for Good.
 
 
-{::coverage year="2023" month="july" talk="xxx" /}
+{::coverage year="2023" month="july" talk="dan-hough-ruby-to-solve-homelessness-and-the-refugee-crises" /}
 
 ## Afterwards
 
