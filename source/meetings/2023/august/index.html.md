@@ -22,22 +22,6 @@ This month we're hosted by the lovely folk at [beam](https://beam.org/) in [thei
 
 ## Agenda
 
-### BorrowMyDoggy - Connecting dogs and people via Ruby
-
-[Rikke Rosenlund](https://www.borrowmydoggy.com/) says
-
-> BorrowMyDoggy connects dog owners with local borrowers
-for walks, weekends and holidays. Via BorrowMyDoggy, borrowers get happy
-dog time, owners get help with taking care of their dogs, and dogs get more
-love and attention (it's a win-win scenario). We started by winning the
-Lean Startup Machine, then received a crazy amount of media attention and
-by now have built a community of +1 million members in the UK and Ireland,
-and are working with some of the biggest players in the pet space. Come and
-listen to how a simple idea has now turned into a well known brand.
-
-{::coverage year="2023" month="august" talk="xxx" /}
-
-
 ### Gain insight and better accessibility into your application's data by using The Brick
 
 [Lorin Thwaits](https://www.facebook.com/lorint/) says
