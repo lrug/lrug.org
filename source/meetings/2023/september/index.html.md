@@ -13,24 +13,13 @@ status: Unpublished
 ---
 
 The September 2023 meeting of LRUG will be on Monday the 11th of
-August, from 6:00pm to 8:00pm (meeting starts at 6:30pm).
+September, from 6:00pm to 8:00pm (meeting starts at 6:30pm).
 
 ## Agenda
 
-### BorrowMyDoggy - Connecting dogs and people via Ruby
+### Your talk here!
 
-[Rikke Rosenlund](https://www.borrowmydoggy.com/) says
-
-> BorrowMyDoggy connects dog owners with local borrowers
-for walks, weekends and holidays. Via BorrowMyDoggy, borrowers get happy
-dog time, owners get help with taking care of their dogs, and dogs get more
-love and attention (it's a win-win scenario). We started by winning the
-Lean Startup Machine, then received a crazy amount of media attention and
-by now have built a community of +1 million members in the UK and Ireland,
-and are working with some of the biggest players in the pet space. Come and
-listen to how a simple idea has now turned into a well known brand.
-
-{::coverage year="2023" month="august" talk="xxx" /}
+Get in touch with us at talks@lrug.org if you'd like to speak. We're always happy to help new (or not so new) speakers.
 
 ## Afterwards
 
