@@ -878,5 +878,37 @@
         "height":"103"
       }
     }
+  },
+  {
+    "name":"smart",
+    "url":"https://www.smart.co/careers",
+    "logo":{
+      "sidebar":{
+        "url":"https://assets.lrug.org/images/smart-logo.png",
+        "width":"120",
+        "height":"38"
+      },
+      "main":{
+        "url":"https://assets.lrug.org/images/smart-logo.png",
+        "width":"260",
+        "height":"83"
+      }
+    }
+  },
+  {
+    "name":"canva",
+    "url":"https://www.lifeatcanva.com/en/jobs/?search=ruby",
+    "logo":{
+      "sidebar":{
+        "url":"https://assets.lrug.org/images/canva-logo-small.png",
+        "width":"120",
+        "height":"38"
+      },
+      "main":{
+        "url":"https://assets.lrug.org/images/canva-logo.png",
+        "width":"260",
+        "height":"83"
+      }
+    }
   }
 ]
