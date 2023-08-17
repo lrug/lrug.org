@@ -8,7 +8,8 @@ created_by:
 category: meeting
 title: September 2023 Meeting
 created_at: 2023-08-08 19:28:00 +0000
-status: Unpublished
+published_at: 2023-08-17 09:10:00 +0000
+status: Published
 hosted_by:
   - :name: smart
 
@@ -17,7 +18,7 @@ hosted_by:
 The September 2023 meeting of LRUG will be on Monday the 11th of
 September, from 6:00pm to 8:00pm (meeting starts at 6:30pm).
 
-This month we're hosted by the lovely folk at [Smart Pension](https://www.smartpension.co.uk/) in [their offices][smart-venue] on 136 George Street. [Full venue and registration details are given below](#september23registration).
+This month we're hosted by the lovely folk at [Smart]( https://www.smart.co/careers) in [their offices][smart-venue] on 136 George Street. [Full venue and registration details are given below](#september23registration).
 
 ## Agenda
 
@@ -60,4 +61,4 @@ come in your place.  We might be able to let in people on the night who haven't
 registered, but we can't guarantee it.
 
 [smart-venue]: https://goo.gl/maps/3L96BNcA5iuU6cw36
-[august-2023-eventbrite]: https://www.eventbrite.com/e/london-ruby-user-group-september-2023-meeting-tickets-699976768357?
+[september-2023-eventbrite]: https://www.eventbrite.com/e/london-ruby-user-group-september-2023-meeting-tickets-699976768357?
