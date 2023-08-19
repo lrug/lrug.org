@@ -59,6 +59,9 @@ april:
     - type: video
       title: "LRUG April 2023 - Alex - Making a working upwards assignment operator"
       url: https://assets.lrug.org/videos/2023/april/alex-making-a-working-upwards-assignment-operator-lrug-apr-2023.mp4
+    - type: write-up
+      title: Upward assignment in Ruby
+      url: https://alexwlchan.net/2023/upward-assignment/
   build-a-mini-ruby-debugger-in-under-300-lines:
     - type: video
       title: "LRUG April 2023 - Stan Lo - Build a mini Ruby debugger in under 300 lines-lrug-apr-2023"
