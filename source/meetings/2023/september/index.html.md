@@ -22,6 +22,22 @@ This month we're hosted by the lovely folk at [Smart]( https://www.smart.co/care
 
 ## Agenda
 
+### The Functional Alternative
+
+[Ju Liu](https://juliu.is) says
+
+> We'll start with a simple Ruby Kata and solve it together, live, with
+> imperative programming.
+> We'll then fix the many, many, many things we got wrong. Then we'll solve
+> the problem again using patterns from functional programming. You'll leave
+> this talk with a clear and concrete example of why functional programming
+> matters, why immutable code matters, and why it can help you writing
+> bug-free code.
+> The next time you find yourself writing imperative code, you might
+> consider... the functional alternative.
+
+{::coverage year="2023" month="september" talk="xxx" /}
+
 ### Your talk here!
 
 Get in touch with us at talks@lrug.org if you'd like to speak. We're always happy to help new (or not so new) speakers.
