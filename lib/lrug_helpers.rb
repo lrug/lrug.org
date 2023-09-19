@@ -107,22 +107,47 @@ module LRUGHelpers
     end
   end
 
-  def hosting_sponsors
-    sponsor_list('hosted_by')
+  def hosting_sponsors(most_recent_first: false, without: [])
+    sponsor_list('hosted_by', most_recent_first: most_recent_first, without: without)
   end
 
-  def meeting_sponsors
-    sponsor_list('sponsors')
+  def meeting_sponsors(most_recent_first: false, without: [])
+    sponsor_list('sponsors', most_recent_first: most_recent_first, without: without)
   end
 
   private
-  def sponsor_list(data_key)
-    meeting_pages.
-      select { |mp| mp.data.key? data_key }.
-      flat_map { |mp| mp.data[data_key] }.
-      group_by { |sp| sp.name }.
-      sort_by { |_n, sps| -sps.size }.
-      map { |_n, sps| sps.first }
+  SponsorData = Struct.new(:name, :occurrences, :most_recent, keyword_init: true) do
+    def <=>(other)
+      return nil unless other.respond_to?(:occurrences) && other.respond_to?(:most_recent)
+
+      case other.occurrences
+      when self.occurrences
+        self.most_recent <=> other.most_recent
+      else
+        self.occurrences <=> other.occurrences
+      end
+    end
+  end
+
+  def sponsor_list(data_key, most_recent_first: , without: )
+    sponsors = meeting_pages.
+      select { |meeting_page| meeting_page.data.key? data_key }.
+      map { |meeting_page| [meeting_page.data[data_key].first, meeting_page.data.meeting_date] }.
+      group_by { |(sponsor, _date)| sponsor.name }.
+      map do |sponsor_name, occurrences|
+        SponsorData.new(
+          name: sponsor_name,
+          occurrences: occurrences.size,
+          most_recent: occurrences.map { |(_sponsor, date)| date }.sort.last
+        )
+      end.
+      reject { |sponsor_data| without.include? sponsor_data.name }.
+      sort.
+      reverse
+    return sponsors unless most_recent_first
+
+    most_recent = sponsors.sort_by { |sponsor_data| sponsor_data.most_recent }.last
+    return [most_recent] + (sponsors - [most_recent])
   end
   public
 

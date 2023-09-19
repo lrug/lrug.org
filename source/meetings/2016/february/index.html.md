@@ -13,6 +13,7 @@ created_at: 2016-01-16 14:43:00 +0000
 status: Published
 hosted_by:
   - :name: Skills Matter
+meeting_date: 2016-02-08
 ---
 
 The February 2016 meeting of LRUG will be on *Monday the 8th of February*, from 6:00pm to 8:00pm (talks start at 6:30pm).  The venue, [Code Node](https://skillsmatter.com/locations/264-skills-matter-codenode) between Moorgate and Liverpool St. stations, is provided by [Skills Matter](http://www.skillsmatter.com).  [Full venue and registration details are given below](#feb16registration).

@@ -13,6 +13,7 @@ status: Published
 hosted_by:
   - :name: Zinc
 
+meeting_date: 2023-03-13
 ---
 
 The March 2023 meeting of LRUG will be on Monday the 13th of

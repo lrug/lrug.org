@@ -1,5 +1,5 @@
---- 
-created_by: 
+---
+created_by:
   email: rob_m_mckinnon@yahoo.com
   name: Rob McKinnon
 category: meeting
@@ -10,9 +10,10 @@ created_at: 2006-09-22 11:20:17 Z
 status: Published
 hosted_by:
   - :name: Skills Matter
+meeting_date: 2006-10-09
 ---
 
-Our next meeting will be on Monday October 9, 6:30-8pm. 
+Our next meeting will be on Monday October 9, 6:30-8pm.
 
 ## Agenda
 [Robert Brook](http://www.robertbrook.com/) and [Damien Tanner](http://iamrice.org) will both be presenting on different aspects of Domain Specific Languages (DSL).

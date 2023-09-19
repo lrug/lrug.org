@@ -1,5 +1,5 @@
---- 
-created_by: 
+---
+created_by:
   email: murray.steele@gmail.com
   name: Murray Steele
 category: meeting
@@ -10,6 +10,7 @@ created_at: 2008-01-14 15:26:08 Z
 status: Published
 hosted_by:
   - :name: Skills Matter
+meeting_date: 2008-01-14
 ---
 
 Due to organisational problems, the proposed January Pub Quiz (we're trying to start a [tradition](/meetings/2006/12/07/january-2007-pub-quiz-meeting/)) has been postponed until a later date.  It'll probably be run in March as a special [LRUG Nights](/nights/).

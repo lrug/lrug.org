@@ -11,6 +11,7 @@ created_at: 2017-12-04 11:40:00 +0000
 status: Published
 hosted_by:
   - :name: Skills Matter
+meeting_date: 2017-12-11
 ---
 
 The December 2017 meeting of LRUG will be on *Monday the 11th of December*,

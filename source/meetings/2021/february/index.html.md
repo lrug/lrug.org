@@ -10,6 +10,7 @@ title: February 2021 Meeting
 published_at: 2021-01-24 21:30:00 +0000
 created_at: 2020-01-24 20:42:00 +0000
 status: Published
+meeting_date: 2021-02-08
 ---
 
 The February 2021 meeting of LRUG will be on *Monday the 8th of February*,

@@ -12,6 +12,7 @@ published_at: 2020-10-05 10:40:00 +0100
 created_at: 2020-10-05 10:40:00 +0100
 status: Published
 
+meeting_date: 2020-10-12
 ---
 
 The October 2020 meeting of LRUG will be on *Monday the 12th of October*,

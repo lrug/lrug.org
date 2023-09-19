@@ -13,6 +13,7 @@ status: Published
 hosted_by:
   - :name: Cleo
 
+meeting_date: 2022-10-10
 ---
 
 The October 2022 meeting of LRUG will be on *Monday the 10th of October*,

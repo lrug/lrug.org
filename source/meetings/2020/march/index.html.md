@@ -14,6 +14,7 @@ status: Published
 hosted_by:
   - :name: Makers
 
+meeting_date: 2020-03-09
 ---
 
 The March 2020 meeting of LRUG will be on *Monday the 9th of March*,

@@ -10,6 +10,7 @@ title: April 2022 Meeting
 published_at: 2022-04-04 21:30:00 +0000
 created_at: 2022-04-04 20:51:00 +0000
 status: Published
+meeting_date: 2022-04-11
 ---
 
 The April 2022 meeting of LRUG will be on *Monday the 11th of April*,

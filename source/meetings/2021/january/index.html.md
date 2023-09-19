@@ -11,6 +11,7 @@ published_at: 2020-12-22 21:30:00 +0000
 created_at: 2020-12-22 21:30:00 +0000
 status: Published
 
+meeting_date: 2021-01-11
 ---
 
 The January 2021 meeting of LRUG will be on *Monday the 11th of January*,

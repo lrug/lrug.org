@@ -10,6 +10,7 @@ title: September 2021 Meeting
 published_at: 2021-08-24 20:39:00 +0100
 created_at: 2021-08-24 20:39:00 +0100
 status: Published
+meeting_date: 2021-09-13
 ---
 
 The September 2021 meeting of LRUG will be on _Monday the 13th of September_,

@@ -13,6 +13,7 @@ status: Published
 hosted_by:
   - :name: smart
 
+meeting_date: 2023-09-11
 ---
 
 The September 2023 meeting of LRUG will be on Monday the 11th of

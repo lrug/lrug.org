@@ -13,6 +13,7 @@ created_at: 2015-05-29 10:03:10 Z
 status: Published
 hosted_by:
   - :name: Skills Matter
+meeting_date: 2015-06-08
 ---
 
 The June 2015 meeting of LRUG will be on *Monday the 8th of June*, from 6:30pm to 8:00pm.  Our hosts [Skills Matter](http://skillsmatter.com/) will be providing the space, at their offices on Goswell Road; [The Skills Matter eXchange](https://skillsmatter.com/locations/96-skills-matter-exchange).  <a href="#jun15registration">Registration details are given below</a>.

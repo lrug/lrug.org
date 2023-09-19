@@ -10,6 +10,7 @@ title: November 2021 Meeting
 published_at: 2021-10-28 09:40:00 +0100
 created_at: 2021-10-28 08:24:00 +0100
 status: Published
+meeting_date: 2021-11-08
 ---
 
 The November 2021 meeting of LRUG will be on _Monday the 8th of November_,

@@ -10,6 +10,7 @@ title: May 2021 Meeting
 published_at: 2021-04-25 16:40:00 +0000
 created_at: 2021-04-25 16:06:00 +0000
 status: Published
+meeting_date: 2021-05-10
 ---
 
 The May 2021 meeting of LRUG will be on *Monday the 10th of May*,

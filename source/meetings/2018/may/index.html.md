@@ -13,6 +13,7 @@ created_at: 2018-04-14 20:30:20 +0000
 status: Published
 hosted_by:
   - :name: Skills Matter
+meeting_date: 2018-05-09
 ---
 
 The May 2018 meeting of LRUG will be on *Wednesday the 9th of May*,

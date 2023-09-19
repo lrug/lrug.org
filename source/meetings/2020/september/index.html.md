@@ -12,6 +12,7 @@ published_at: 2020-08-31 20:38:00 +0100
 created_at: 2020-08-16 20:47:00 +0100
 status: Published
 
+meeting_date: 2020-09-14
 ---
 
 The September 2020 meeting of LRUG will be on *Monday the 14th of September*,

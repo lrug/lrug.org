@@ -24,6 +24,7 @@ hosted_by:
   - :name: Overleaf
   - :name: Altmetric
 status: Published
+meeting_date: 2015-07-13
 ---
 
 The July 2015 meeting of LRUG will be on *Monday the 13th of July*, from 6:00pm to 8:00pm (talks start at 6:30pm).

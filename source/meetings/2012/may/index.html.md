@@ -10,6 +10,7 @@ created_at: 2012-04-15 17:21:28 Z
 status: Published
 hosted_by:
   - :name: Skills Matter
+meeting_date: 2012-05-14
 ---
 
 The May 2012 meeting of LRUG will be on *Monday* the 14th of May, from 6:30pm to 8:00pm.  Our hosts [Skills Matter](http://skillsmatter.com/) will be providing the space, at their offices on Goswell Road; [The Skills Matter eXchange](http://skillsmatter.com/location-details/design-architecture/484/96).  <a href="#may12registration">Registration details are given below</a>.

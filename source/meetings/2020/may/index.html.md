@@ -12,6 +12,7 @@ published_at: 2020-04-25 20:22:00 +0100
 created_at: 2020-04-25 16:45:00 +0100
 status: Published
 
+meeting_date: 2020-05-11
 ---
 
 The May 2020 meeting of LRUG will be on *Monday the 11th of May*,

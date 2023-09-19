@@ -1,4 +1,4 @@
---- 
+---
 created_by: 
   email: murray.steele@gmail.com
   name: Murray Steele
@@ -10,6 +10,7 @@ created_at: 2008-06-12 14:47:16 Z
 status: Published
 hosted_by:
   - :name: Skills Matter
+meeting_date: 2008-07-14
 ---
 
 The next meeting of LRUG will be on Monday the 14th of July, from 6:30pm to 8:00pm.  It's very likely it will held be in the [Skills Matter](http://www.skillsmatter.com/) overflow venue at [The Old Sessions House](http://www.sessionshouse.com/) on [Clerkenwell Green](http://tinyurl.com/2bjjzz).  Please do <a href="#registration">register your attendance</a> early (see the note about <a href="#jul08registration">registration</a> below).

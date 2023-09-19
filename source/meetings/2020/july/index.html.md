@@ -12,6 +12,7 @@ published_at: 2020-07-01 14:25:00 +0100
 created_at: 2020-07-01 14:25:00 +0100
 status: Published
 
+meeting_date: 2020-07-13
 ---
 
 The July 2020 meeting of LRUG will be on *Monday the 13th of July*,

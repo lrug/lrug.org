@@ -13,6 +13,7 @@ created_at: 2019-07-31 21:25:11 +0100
 status: Published
 hosted_by:
   - :name: Skills Matter
+meeting_date: 2019-08-12
 ---
 
 The August 2019 meeting of LRUG will be on *Monday the 12th of August*,

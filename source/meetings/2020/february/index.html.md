@@ -14,6 +14,7 @@ status: Published
 hosted_by:
   - :name: Simply Business
 
+meeting_date: 2020-02-10
 ---
 
 The February 2020 meeting of LRUG will be on *Monday the 10th of February*,

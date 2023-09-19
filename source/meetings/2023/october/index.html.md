@@ -11,6 +11,7 @@ created_at: 2023-08-08 19:28:00 +0000
 status: Unpublished
 hosted_by:
   - :name: Bloom And Wild
+meeting_date: 2023-10-09
 
 ---
 

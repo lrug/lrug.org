@@ -1,5 +1,5 @@
---- 
-created_by: 
+---
+created_by:
   email: james@lazyatom.com
   name: James Adam
 category: meeting
@@ -10,6 +10,7 @@ created_at: 2006-09-05 11:51:51 Z
 status: Published
 hosted_by:
   - :name: Skills Matter
+meeting_date: 2006-09-04
 ---
 
 Last night Alex Bradbury gave a great presentation on [ARIEL](http://ariel.rubyforge.org/), A Ruby

@@ -11,6 +11,7 @@ published_at: 2021-02-25 10:30:00 +0000
 created_at: 2021-02-25 10:30:00 +0000
 status: Published
 
+meeting_date: 2021-03-08
 ---
 
 The March 2021 meeting of LRUG will be on *Monday the 8th of March*, from

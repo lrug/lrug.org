@@ -13,6 +13,7 @@ created_at: 2018-10-01 13:00:00 +0000
 status: Published
 hosted_by:
   - :name: Skills Matter
+meeting_date: 2018-10-09
 ---
 
 The October 2018 meeting of LRUG will be on *Tuesday the 9th of October*,

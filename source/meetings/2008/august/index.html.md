@@ -10,9 +10,10 @@ created_at: 2015-09-21 12:05:05 Z
 status: Published
 hosted_by:
   - :name: Skills Matter
+meeting_date: 2008-08-11
 ---
 
-The August 2008 meeting of LRUG will be held on Monday 11th September, from 6:30pm to 8:00pm.  Please register [here](https://skillsmatter.com/meetups/167-lrug-meeting-august).  It will be held as [Skills Matter](http://www.skillsmatter.com/).
+The August 2008 meeting of LRUG will be held on Monday 11th August, from 6:30pm to 8:00pm.  Please register [here](https://skillsmatter.com/meetups/167-lrug-meeting-august).  It will be held as [Skills Matter](http://www.skillsmatter.com/).
 
 ## Agenda
 

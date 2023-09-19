@@ -13,6 +13,7 @@ status: Published
 hosted_by:
   - :name: Cleo
 
+meeting_date: 2023-04-17
 ---
 
 The April 2023 meeting of LRUG will be on Monday the 17th of

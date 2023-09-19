@@ -13,6 +13,7 @@ status: Published
 hosted_by:
   - :name: Funding Circle
 
+meeting_date: 2022-09-12
 ---
 
 The September 2022 meeting of LRUG will be on *Monday the 12th of

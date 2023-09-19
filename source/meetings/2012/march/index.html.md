@@ -10,6 +10,7 @@ created_at: 2012-02-26 16:17:39 Z
 status: Published
 hosted_by:
   - :name: Skills Matter
+meeting_date: 2012-03-12
 ---
 
 The March 2012 meeting of LRUG will be on *Monday* the 12th of March, from 6:30pm to 8:00pm.  Our hosts [Skills Matter](http://skillsmatter.com/) will be providing the space, at their offices on Goswell Road; [The Skills Matter eXchange](http://skillsmatter.com/location-details/design-architecture/484/96).  <a href="#mar12registration">Registration details are given below</a>.

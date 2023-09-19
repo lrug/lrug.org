@@ -10,6 +10,7 @@ title: October 2021 Meeting
 published_at: 2021-09-20 22:04:00 +0100
 created_at: 2021-09-20 21:39:00 +0100
 status: Published
+meeting_date: 2021-10-11
 ---
 
 The October 2021 meeting of LRUG will be on _Monday the 11th of October_,

@@ -10,6 +10,7 @@ created_at: 2007-06-20 08:53:43 Z
 status: Published
 hosted_by:
   - :name: Skills Matter
+meeting_date: 2007-07-09
 ---
 
 The next meeting of LRUG will be on Monday the 9th of July, from 6:30pm to 8:00pm at our usual [Skills Matter](http://www.skillsmatter.com/) venue at [1 Sekforde St.](http://maps.google.co.uk/maps?f=q&hl=en&q=EC1R+0BE&layer=&ie=UTF8&z=16&om=1&iwloc=addr).

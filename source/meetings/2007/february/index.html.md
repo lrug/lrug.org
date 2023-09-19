@@ -1,5 +1,5 @@
---- 
-created_by: 
+---
+created_by:
   email: murray.steele@gmail.com
   name: Murray Steele
 category: meeting
@@ -10,6 +10,7 @@ created_at: 2007-01-24 11:42:53 Z
 status: Published
 hosted_by:
   - :name: Skills Matter
+meeting_date: 2007-02-12
 ---
 
 Our next meeting will be on the 12th of February from 6:30pm to 8:00pm and see us return to our usual [Skills Matter](http://skillsmatter.com/) venue at [1 Sekforde St](http://maps.google.co.uk/maps?f=q&hl=en&q=EC1R+0BE&ie=UTF8&z=16&ll=51.523938,-0.104799&spn=0.008571,0.018969&om=1&iwloc=addr).
@@ -20,9 +21,9 @@ Our next meeting will be on the 12th of February from 6:30pm to 8:00pm and see u
 
 We've got [Richard Livsey](http://livsey.org/) lined up to tell us how he's been _Saving The World With Rails_
 
-> Richard will discuss his experience with Ruby and Rails and what he has found whilst developing a suite of 
-> applications to prepare for and respond to disasters. Specifically, he will look at how Ruby helped him and 
-> CitySafe rapidly prototype an application to model liquid gas spills, some of the plug-ins they have developed. 
+> Richard will discuss his experience with Ruby and Rails and what he has found whilst developing a suite of
+> applications to prepare for and respond to disasters. Specifically, he will look at how Ruby helped him and
+> CitySafe rapidly prototype an application to model liquid gas spills, some of the plug-ins they have developed.
 > He will also touch upon building RESTful applications in Rails.
 
 ### TabNav
@@ -31,11 +32,11 @@ _Unfortunately Paolo was unable to make it for this meeting due to illness, howe
 
 As a warm up to Richard's talk we've got [Paolo Don&agrave;](http://paolodona.blogspot.com/), over from Padova in Italy, asking us _Do we really need a plugin for tabbed navigation?_
 
-> Paolo will show us the [tabnav plugin](http://blog.seesaw.it/pages/tabnav), and discuss its implementation. This plugin raises a few questions on 
-> how we deal with view components. Is it ok to have configurable and ready-to-use widgets instead of rails 
-> helpers? How should those widgets be configured? Is it ok to write a specific DSL for each widget? This 
-> presentation raises many questions, and Paolo will give us his point of view and try to stimulate a 
-> discussion around it. 
+> Paolo will show us the [tabnav plugin](http://blog.seesaw.it/pages/tabnav), and discuss its implementation. This plugin raises a few questions on
+> how we deal with view components. Is it ok to have configurable and ready-to-use widgets instead of rails
+> helpers? How should those widgets be configured? Is it ok to write a specific DSL for each widget? This
+> presentation raises many questions, and Paolo will give us his point of view and try to stimulate a
+> discussion around it.
 
 ## Pub
 

@@ -11,6 +11,7 @@ created_at: 2017-11-08 11:00:00 +0000
 status: Published
 hosted_by:
   - :name: Skills Matter
+meeting_date: 2017-11-20
 ---
 
 The November 2017 meeting of LRUG will be on *Monday the 20th of November*,

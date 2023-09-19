@@ -1,4 +1,4 @@
---- 
+---
 created_by: 
   email: murray.steele@gmail.com
   name: Murray Steele
@@ -10,6 +10,7 @@ created_at: 2009-01-20 14:28:32 Z
 status: Published
 hosted_by:
   - :name: Skills Matter
+meeting_date: 2009-02-09
 ---
 
 The next meeting of LRUG will be on Monday the 9th of February, from 6:30pm to 8:00pm.  As usual our hosts [Skills Matter](http://skillsmatter.com/) will provide the space, either at [their offices](http://maps.google.co.uk/maps?f=q&hl=en&q=EC1R+0BE&layer=&ie=UTF8&z=16&om=1&iwloc=addr) or [their overflow venue](http://tinyurl.com/5qfpkc), depending on the number of <a href="#feb09registration">registrations</a>.  So make sure that you do <a href="#feb09registration">register your attendance</a> to help them choose and so you can be let into the venue.

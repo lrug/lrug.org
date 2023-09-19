@@ -1,5 +1,5 @@
---- 
-created_by: 
+---
+created_by:
   email: james@lazyatom.com
   name: James Adam
 category: meeting
@@ -10,6 +10,7 @@ created_at: 2006-08-08 12:01:59 Z
 status: Draft
 hosted_by:
   - :name: Skills Matter
+meeting_date: 2006-08-08
 ---
 
 The August meeting of LRUG was held on the 8th at Skillsmatter. We had two talks from members, outlined below.

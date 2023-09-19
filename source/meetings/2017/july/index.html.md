@@ -13,6 +13,7 @@ created_at: 2017-06-16 10:00:00 +0000
 status: Published
 hosted_by:
   - :name: Skills Matter
+meeting_date: 2017-07-10
 ---
 
 The July 2017 meeting of LRUG will be on *Monday the 10th of July*,

@@ -13,6 +13,7 @@ status: Published
 hosted_by:
   - :name: beam
 
+meeting_date: 2023-08-14
 ---
 
 The August 2023 meeting of LRUG will be on Monday the 14th of

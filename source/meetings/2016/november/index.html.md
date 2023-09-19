@@ -15,6 +15,7 @@ sponsors:
 status: Published
 hosted_by:
   - :name: Skills Matter
+meeting_date: 2016-11-15
 ---
 
 The November 2016 meeting of LRUG will be on *__Tuesday__ the 15th of November*, from
