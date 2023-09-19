@@ -132,7 +132,7 @@ module LRUGHelpers
   def sponsor_list(data_key, most_recent_first: , without: )
     sponsors = meeting_pages.
       select { |meeting_page| meeting_page.data.key? data_key }.
-      map { |meeting_page| [meeting_page.data[data_key].first, meeting_page.data.published_at] }.
+      map { |meeting_page| [meeting_page.data[data_key].first, meeting_page.data.meeting_date] }.
       group_by { |(sponsor, _date)| sponsor.name }.
       map do |sponsor_name, occurrences|
         SponsorData.new(
