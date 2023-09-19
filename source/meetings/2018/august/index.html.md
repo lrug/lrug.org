@@ -15,7 +15,7 @@ hosted_by:
   - :name: Skills Matter
 ---
 
-The May 2018 meeting of LRUG will be on *Monday the 13th of August*,
+The August 2018 meeting of LRUG will be on *Monday the 13th of August*,
 from _6:00pm_ to _8:00pm_ (talks start at _6:30pm_).  The venue, [Code
 Node][skills-matter-venue] between Moorgate and Liverpool St. stations, is
 provided by [Skills Matter](http://www.skillsmatter.com).  [Full venue and

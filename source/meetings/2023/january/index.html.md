@@ -15,7 +15,7 @@ hosted_by:
 
 ---
 
-The January 2022 meeting of LRUG will be on Monday the 9th of
+The January 2023 meeting of LRUG will be on Monday the 9th of
 January, from 6:00pm to 8:00pm (meeting starts at 6:30pm).
 
 **👪 in person meeting alert 👪**
@@ -36,7 +36,7 @@ below](#jan23registration).
 [Matt Valentine-House](https://ruby.social/@eightbitraptor) says:
 
 > Join me on a journey through Ruby's Garbage Collector!
-> 
+>
 > In this talk I'll teach you some of the details about how the Ruby
 > interpreter manages memory. I'll introduce a project my team and I are
 > working on that aims to make Ruby faster by improving its memory
@@ -60,7 +60,7 @@ below](#jan23registration).
 > problem, try more or less the same solutions, and have roughly the same
 > result. In the end, it all boils down to one thing: keeping latency low. In
 > this talk I will present a latency-focused approach to managing your queues
-> reliably, keeping your jobs flowing and your users happy. 
+> reliably, keeping your jobs flowing and your users happy.
 
 {::coverage year="2023" month="january" talk="what-does-high-priority-mean-the-secret-to-happy-queues" /}
 
