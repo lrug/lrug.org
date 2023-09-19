@@ -16,37 +16,35 @@ Many companies have helped out LRUG and it's members in some way.  Here we list 
 
 Some of these companies even offer us discount codes for services or events.  For example, most of the publisher user group programs involve a discount code for their webstore.  Generally speaking we'll give out these codes when we find out about them during one of our [meetings](/meetings) or via the [mailing list](/mailing-list).
 
-## Meeting Administration
-
-### [Skills Matter](http://skillsmatter.com/)
-
-{::sponsor name="Skills Matter" size="main" /}
-
-Skills Matter have been the kind providers of the venue for LRUG since 2006.  As organisers of several conferences and training sessions they've also been kind enough to supply us with various discounts, and even free tickets, for these events on occasion.
-
-### [Big.First.Name](http://big.first.name/)
-
-<img src="https://assets.lrug.org/images/big-first-name-logo.png" width="200" height="153" alt="Big First Name" title="Big First Name Logo"/>
-
-At most LRUG meetings we all sport name badge stickers made using [Big.First.Name](http://big.first.name/).  The application is written by [Jason Lee](http://www.jason-lee.net.au/) a long-time LRUG member.
-
 ## Meeting Sponsorship
 
-The following companies have sponsored one of our meetings by hosting us when our main venue sponsor couldn't for one reason or another!
+The following companies have sponsored at least one of our meetings by hosting us in their offices.  We prefer to run LRUG in-person and need venues, if you have an office that could accommodate us, why not [get in touch to offer it up](http://readme.lrug.org/#sponsorship)!
 
 <ol class="meeting-sponsor-list">
-  <% hosting_sponsors.reject { |host| ['LRUG', 'Skills Matter'].include? host.name }.each do |host| %>
-    <li><%= sponsor_logo host.name %></li>
+  <% hosting_sponsors(most_recent_first: true, without: ['LRUG']).each do |host| %>
+    <li><figure><%= sponsor_logo host.name %><figcaption><%= pluralize(host.occurrences, 'time') %>, most recently <em><%= host.most_recent.strftime('%B %Y') %></em></figcaption></figure></li>
   <% end %>
 </ol>
 
 The following companies have sponsored one of our meetings in one way or another.  We're very grateful for all the food, drinks, conference tickets, books, discount codes, and money-off vouchers they've provided us over the years.  If you'd like to show your support for LRUG, why not [find out how to sponsor us](http://readme.lrug.org/#sponsorship) too!
 
 <ol class="meeting-sponsor-list">
-  <% meeting_sponsors.each do |sponsor| %>
-    <li><%= sponsor_logo sponsor.name %></li>
+  <% meeting_sponsors(most_recent_first: false).each do |sponsor| %>
+    <li><figure><%= sponsor_logo sponsor.name %><figcaption><%= pluralize(sponsor.occurrences, 'time') %>, most recently <em><%= sponsor.most_recent.strftime('%B %Y') %></em></figcaption></figure></li>
   <% end %>
 </ol>
+
+### [Skills Matter](http://skillsmatter.com/)
+
+{::sponsor name="Skills Matter" size="main" /}
+
+From 2006 until November 2019 Skills Matter were the hosts of LRUG, providing us with a venue, recordings of talks, and occasional food and drink.
+
+#### [Big.First.Name](http://big.first.name/)
+
+<img src="https://assets.lrug.org/images/big-first-name-logo.png" width="200" height="153" alt="Big First Name" title="Big First Name Logo"/>
+
+At most LRUG meetings in Skills Matter we all wore name badge stickers made using [Big.First.Name](http://big.first.name/).  This site was created by [Jason Lee](http://www.jason-lee.net.au/) a long-time LRUG member.
 
 ## Freebies!
 
