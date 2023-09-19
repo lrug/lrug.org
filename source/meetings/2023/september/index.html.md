@@ -37,7 +37,7 @@ This month we're hosted by the lovely folk at [Smart]( https://www.smart.co/care
 > The next time you find yourself writing imperative code, you might
 > consider... the functional alternative.
 
-{::coverage year="2023" month="september" talk="xxx" /}
+{::coverage year="2023" month="september" talk="the-functional-alternative" /}
 
 ### Back in my day...
 
@@ -47,11 +47,7 @@ This month we're hosted by the lovely folk at [Smart]( https://www.smart.co/care
 > but we don't always remember how much. Let's rewrite a short program so that it runs in
 > a twenty-year-old version of Ruby and see how much syntax and performance has changed for the better in twenty years
 
-{::coverage year="2023" month="september" talk="xxx" /}
-
-### Your talk here!
-
-Get in touch with us at talks@lrug.org if you'd like to speak. We're always happy to help new (or not so new) speakers.
+{::coverage year="2023" month="september" talk="back-in-my-day" /}
 
 ## Afterwards
 

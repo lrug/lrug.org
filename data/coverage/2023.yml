@@ -89,4 +89,15 @@ july:
     - type: video
       title: "LRUG July 2023 - Dan Hough - Ruby to solve homelessness and the refugee crises"
       url: https://assets.lrug.org/videos/2023/july/dan-hough-ruby-to-solve-homelessness-and-the-refugee-crises.mp4
-
+september:
+  the-functional-alternative:
+    - type: video
+      title: "LRUG September 2023 - Ju Liu - The Functional Alternative"
+      url: https://assets.lrug.org/videos/2023/september/ju-liu-the-functional-alternative-lrug-sep-2023.mp4
+  back-in-my-day:
+    - type: transcript
+      title: "Back in my day... - transcript from the Brighton Ruby 2023 version of this talk"
+      url: https://po-ru.com/2023/07/05/back-in-my-day
+    - type: code
+      title: "Supporting git repo for the code used in Back in my day..."
+      url: https://github.com/threedaymonk/back-in-my-day
