@@ -96,6 +96,22 @@
     }
   },
   {
+    "name":"Bloom & Wild",
+    "url":"https://www.bloomandwild.com/",
+    "logo":{
+      "sidebar":{
+        "url":"https://assets.lrug.org/images/bloom_and_wild_logo.svg",
+        "width":"120",
+        "height":"55"
+      },
+      "main":{
+        "url":"https://assets.lrug.org/images/bloom_and_wild_logo.svg",
+        "width":"260",
+        "height":"120"
+      }
+    }
+  },
+  {
     "name":"BookingBug",
     "url":"https://www.bookingbug.co.uk/",
     "logo":{
