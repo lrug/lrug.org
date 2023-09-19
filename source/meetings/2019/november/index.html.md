@@ -14,6 +14,7 @@ status: Published
 hosted_by:
   - :name: FT
 
+meeting_date: 2019-11-04
 ---
 
 ## Change of venue!

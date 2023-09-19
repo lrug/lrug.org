@@ -10,6 +10,7 @@ title: May 2022 Meeting
 published_at: 2022-04-22 20:10:00 +0000
 created_at: 2022-04-19 22:00:00 +0000
 status: Published
+meeting_date: 2022-05-09
 ---
 
 The May 2022 meeting of LRUG will be on *Monday the 9th of May*,

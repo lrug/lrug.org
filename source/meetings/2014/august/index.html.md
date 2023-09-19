@@ -13,6 +13,7 @@ created_at: 2014-07-24 08:33:27 Z
 status: Published
 hosted_by:
   - :name: Skills Matter
+meeting_date: 2014-08-11
 ---
 
 The August 2014 meeting of LRUG will be on *Monday the 11th of August*, from 6:30pm to 8:00pm.  Our hosts [Skills Matter](http://skillsmatter.com/) will be providing the space, at their offices on Goswell Road; [The Skills Matter eXchange](https://skillsmatter.com/locations/96-skills-matter-exchange).  <a href="#aug14registration">Registration details are given below</a>.

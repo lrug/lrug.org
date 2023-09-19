@@ -13,6 +13,7 @@ status: Published
 hosted_by:
   - :name: Zappi
 
+meeting_date: 2023-05-15
 ---
 
 The May 2023 meeting of LRUG will be on Monday the 15th of

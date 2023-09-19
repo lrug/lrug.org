@@ -15,6 +15,7 @@ sponsors:
 status: Published
 hosted_by:
   - :name: Skills Matter
+meeting_date: 2017-04-10
 ---
 
 The April 2017 meeting of LRUG will be on *Monday the 10th of April*,

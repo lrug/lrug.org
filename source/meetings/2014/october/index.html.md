@@ -13,6 +13,7 @@ created_at: 2014-09-23 14:01:59 Z
 status: Published
 hosted_by:
   - :name: Skills Matter
+meeting_date: 2014-10-13
 ---
 
 The October 2014 meeting of LRUG will be on *Monday the 13th of October*, from 6:30pm to 8:00pm.  Our hosts [Skills Matter](http://skillsmatter.com/) will be providing the space, at their offices on Goswell Road; [The Skills Matter eXchange](https://skillsmatter.com/locations/96-skills-matter-exchange).  <a href="#oct14registration">Registration details are given below</a>.

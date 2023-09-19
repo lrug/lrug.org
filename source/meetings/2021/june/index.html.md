@@ -11,6 +11,7 @@ published_at: 2021-05-20 10:30:00 +0000
 created_at: 2021-05-20 10:30:00 +0000
 status: Published
 
+meeting_date: 2021-06-09
 ---
 
 The June 2021 meeting of LRUG will be on *Wednesday the 9th of June*, from... wait, what? **Wednesday**?!

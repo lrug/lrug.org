@@ -13,6 +13,7 @@ created_at: 2016-09-21 21:34:53 +0100
 status: Published
 hosted_by:
   - :name: Skills Matter
+meeting_date: 2016-10-10
 ---
 
 The October 2016 meeting of LRUG will be on *Monday the 10th of October*, from

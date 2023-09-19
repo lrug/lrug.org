@@ -10,6 +10,7 @@ created_at: 2011-03-08 17:34:17 Z
 status: Published
 hosted_by:
   - :name: Skills Matter
+meeting_date: 2011-04-11
 ---
 
 The April 2011 meeting of LRUG will be on *Monday* the 11th of April, from 6:30pm to 8:00pm.  Our hosts [Skills Matter](http://skillsmatter.com/) will be providing the space, at their offices on Goswell Road; [The Skills Matter eXchange](http://skillsmatter.com/location-details/design-architecture/484/96).  It's a great space with plenty of room for the group, but you still need to <a href="#apr11registration">register to let Skills Matter know you are coming</a>.

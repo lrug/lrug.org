@@ -10,6 +10,7 @@ title: March 2022 Meeting
 published_at: 2022-03-06 21:30:00 +0000
 created_at: 2022-03-06 20:51:00 +0000
 status: Published
+meeting_date: 2022-03-14
 ---
 
 The March 2022 meeting of LRUG will be on *Monday the 14th of March*,

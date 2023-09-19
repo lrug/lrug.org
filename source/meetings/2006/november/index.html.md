@@ -1,5 +1,5 @@
---- 
-created_by: 
+---
+created_by:
   email: rob_m_mckinnon@yahoo.com
   name: Rob McKinnon
 category: meeting
@@ -10,6 +10,7 @@ created_at: 2006-10-23 10:07:17 Z
 status: Published
 hosted_by:
   - :name: Skills Matter
+meeting_date: 2006-11-13
 ---
 
 Our next meeting will be on Monday November 13, 6:30-8pm. We've got two great speakers lined up.

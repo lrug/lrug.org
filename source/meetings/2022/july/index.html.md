@@ -10,6 +10,7 @@ title: July 2022 Meeting
 published_at: 2022-07-04 13:00:00 +0000
 created_at: 2022-07-04 13:00:00 +0000
 status: Published
+meeting_date: 2022-07-11
 ---
 
 The July 2022 meeting of LRUG will be on *Monday the 11th of July*,

@@ -13,6 +13,7 @@ created_at: 2013-12-15 14:34:32 Z
 status: Published
 hosted_by:
   - :name: Skills Matter
+meeting_date: 2014-01-13
 ---
 
 The January 2014 meeting of LRUG will be on *Monday the 13th of January*, from 6:30pm to 8:00pm.  Our hosts [Skills Matter](http://skillsmatter.com/) will be providing the space, at their offices on Goswell Road; [The Skills Matter eXchange](http://skillsmatter.com/location-details/design-architecture/484/96).  <a href="#jan14registration">Registration details are given below</a>.

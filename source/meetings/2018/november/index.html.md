@@ -15,6 +15,7 @@ sponsors:
 status: Published
 hosted_by:
   - :name: Skills Matter
+meeting_date: 2018-11-12
 ---
 
 The November 2018 meeting of LRUG will be on *Monday the 12th of November*,

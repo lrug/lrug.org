@@ -10,6 +10,7 @@ title: January 2022 Meeting
 published_at: 2021-12-24 20:30:00 +0100
 created_at: 2021-12-24 20:00:00 +0100
 status: Published
+meeting_date: 2022-01-10
 ---
 
 The January 2022 meeting of LRUG will be on *Monday the 10th of January*,

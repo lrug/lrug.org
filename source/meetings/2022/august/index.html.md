@@ -10,6 +10,7 @@ title: August 2022 Meeting
 published_at: 2022-08-02 13:00:00 +0000
 created_at: 2022-08-02 13:00:00 +0000
 status: Published
+meeting_date: 2022-08-08
 ---
 
 The August 2022 meeting of LRUG will be on *Monday the 8th of August*,

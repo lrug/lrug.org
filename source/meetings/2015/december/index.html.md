@@ -15,6 +15,7 @@ sponsors:
 status: Published
 hosted_by:
   - :name: Skills Matter
+meeting_date: 2015-12-14
 ---
 
 The December 2015 meeting of LRUG will be on *Monday the 14th of December*, from 6:00pm to 8:00pm (talks start at 6:30pm).

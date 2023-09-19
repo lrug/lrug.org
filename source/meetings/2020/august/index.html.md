@@ -11,6 +11,7 @@ updated_at: 2020-08-02 22:21:00 +0100
 published_at: 2020-08-02 22:21:00 +0100
 created_at: 2020-08-02 22:21:00 +0100
 status: Published
+meeting_date: 2020-08-10
 
 ---
 

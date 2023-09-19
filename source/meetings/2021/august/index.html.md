@@ -10,6 +10,7 @@ title: August 2021 Meeting
 published_at: 2021-07-21 17:35:00 +0100
 created_at: 2021-07-21 17:30:00 +0100
 status: Published
+meeting_date: 2021-08-09
 ---
 
 The August 2021 meeting of LRUG will be on *Monday the 9th of August*,

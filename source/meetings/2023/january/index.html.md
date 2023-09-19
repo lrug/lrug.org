@@ -13,6 +13,7 @@ status: Published
 hosted_by:
   - :name: Unboxed
 
+meeting_date: 2023-01-09
 ---
 
 The January 2023 meeting of LRUG will be on Monday the 9th of

@@ -13,6 +13,7 @@ sponsors:
 status: Published
 hosted_by:
   - :name: Skills Matter
+meeting_date: 2009-06-08
 ---
 
 The next meeting of LRUG will be on Monday the 8th of June, from 6:30pm to 8:00pm.  As usual our hosts [Skills Matter](http://skillsmatter.com/) will provide the space at either [their offices](http://skillsmatter.com/location-details/home/375/1) or one of their overflow venues.  The venue we get is dependent on how many people <a href="#jun09registration">register</a> and the availability of <a href="/sponors">sponsorship</a> to pay for a larger room.  Do your bit by <a href="#jun09registration">registering early</a>.

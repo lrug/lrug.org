@@ -1,5 +1,5 @@
---- 
-created_by: 
+---
+created_by:
   email: murray.steele@gmail.com
   name: Murray Steele
 category: meeting
@@ -10,6 +10,7 @@ created_at: 2010-12-01 16:52:35 Z
 status: Published
 hosted_by:
   - :name: Skills Matter
+meeting_date: 2010-12-13
 ---
 
 The <span style="font-family: fantasy; font-size: 1.2em;">winterval</span> meeting will be on *Monday* the 13th of December, from 6:30pm to 8:00pm.  Our hosts [Skills Matter](http://skillsmatter.com/) will be providing the space, at their offices on Goswell Road; [The Skills Matter eXchange](http://skillsmatter.com/location-details/design-architecture/484/96).  It's a great space with plenty of room for the group, but you still need to <a href="#dec10registration">register to let Skills Matter know you are coming</a>.
@@ -20,11 +21,11 @@ The <span style="font-family: fantasy; font-size: 1.2em;">winterval</span> meeti
 
 [Makoto Inoue](http://twitter.com/makoto_inoue) says:
 
-> My talk is based on an article called ["Japanese and OO"](http://satoshi.blogs.com/life/2004/09/post.html) which was 
-> written by a Japanese guy who wrote Windows 95 and his thought 
-> around what helped him to build the software as a Japanese. I 
-> really enjoyed the article and thought it relates to Ruby which is 
-> written by another Japanese (the Matz). I will also add some of 
+> My talk is based on an article called ["Japanese and OO"](http://satoshi.blogs.com/life/2004/09/post.html) which was
+> written by a Japanese guy who wrote Windows 95 and his thought
+> around what helped him to build the software as a Japanese. I
+> really enjoyed the article and thought it relates to Ruby which is
+> written by another Japanese (the Matz). I will also add some of
 > my own thoughts onto the talk.
 
 {::coverage year="2010" month="december" talk="japanese-and-ruby" /}
@@ -39,7 +40,7 @@ The <span style="font-family: fantasy; font-size: 1.2em;">winterval</span> meeti
 > realtime to discover inbound links to the [BBC Zeitgeist](http://zeitgeist.prototyping.bbc.co.uk/zeitgeist)
 > and how we're reading the [Twitter Firehose](http://dev.twitter.com/pages/streaming_api) (about 1000 tweets/sec =
 > about 90 million a day) and storing the data in Amazon S3.
-> 
+>
 > There'll be a bit about [Hadoop](http://hadoop.apache.org/) and [Map/Reduce](http://en.wikipedia.org/wiki/Map_reduce) too.
 
 ### "Analogue Blog"

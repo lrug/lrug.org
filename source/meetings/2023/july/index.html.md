@@ -13,6 +13,7 @@ status: Published
 hosted_by:
   - :name: Creditspring
 
+meeting_date: 2023-07-10
 ---
 
 The July 2023 meeting of LRUG will be on Monday the 10th of

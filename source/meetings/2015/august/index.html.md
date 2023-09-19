@@ -25,6 +25,7 @@ parts:
 status: Published
 hosted_by:
   - :name: Skills Matter
+meeting_date: 2015-08-10
 ---
 
 The August 2015 meeting of LRUG will be on *Monday the 10th of August*, from 6:00pm to 8:00pm (talks start at 6:30pm).

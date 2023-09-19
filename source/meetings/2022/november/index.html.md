@@ -13,6 +13,7 @@ status: Published
 hosted_by:
   - :name: Zappi
 
+meeting_date: 2022-11-14
 ---
 
 The November 2022 meeting of LRUG will be on *Monday the 14th of

@@ -12,6 +12,7 @@ created_at: 2022-01-13 20:42:00 +0000
 status: Published
 sponsors:
   - :name: Cleo
+meeting_date: 2022-02-21
 ---
 
 The February 2022 meeting of LRUG will be on *Monday the 21st of February*,

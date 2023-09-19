@@ -14,6 +14,7 @@ status: Published
 hosted_by:
   - :name: Farmdrop
 
+meeting_date: 2019-12-09
 ---
 
 The December 2019 meeting of LRUG will be on *Monday the 9th of December*,

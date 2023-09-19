@@ -1,5 +1,5 @@
---- 
-created_by: 
+---
+created_by:
   email: murray.steele@gmail.com
   name: Murray Steele
 category: meeting
@@ -10,11 +10,12 @@ created_at: 2006-12-07 09:41:41 Z
 status: Published
 hosted_by:
   - :name: LRUG
+meeting_date: 2007-01-08
 ---
 
 The January 20007 meeting is going to depart from the normal presentation format and we're going to have a pub quiz instead.  We'll do the usual 'what's been going on in the London Ruby community round-up' before quizzing. So if anyone managed to pull themselves away from crying into their turkey over ['The Snowman'](http://www.imdb.com/title/tt0084701/) and get some exciting new projects off the ground then this'll be the time to let us know!
 
-Date and time will be as usual; 2nd Monday of the month (8th of January, 2007), with kick-off at around 6:30pm for the London Ruby community round-up, with the quiz starting at about 7:00. The location is [The Old Crown](http://www.old-crown.co.uk/) on [New Oxford Street](http://maps.google.com/maps?q=33+New+Oxford+Street,+London,+London+WC1A+1BH).  
+Date and time will be as usual; 2nd Monday of the month (8th of January, 2007), with kick-off at around 6:30pm for the London Ruby community round-up, with the quiz starting at about 7:00. The location is [The Old Crown](http://www.old-crown.co.uk/) on [New Oxford Street](http://maps.google.com/maps?q=33+New+Oxford+Street,+London,+London+WC1A+1BH).
 
 We'll be in the 2nd floor function room at The Old Crown. There will be a bar menu available all night, providing tapas style snacks.
 

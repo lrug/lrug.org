@@ -10,6 +10,7 @@ title: July 2021 Meeting
 published_at: 2021-06-22 22:05:00 +0100
 created_at: 2021-06-22 21:33:00 +0100
 status: Published
+meeting_date: 2021-07-12
 ---
 
 The July 2021 meeting of LRUG will be on *Monday the 12th of July*,

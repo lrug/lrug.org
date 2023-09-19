@@ -11,6 +11,7 @@ published_at: 2020-11-27 11:10:00 +0000
 created_at: 2020-11-27 11:10:00 +0000
 status: Published
 
+meeting_date: 2020-12-14
 ---
 
 The December 2020 meeting of LRUG will be on *Monday the 14th of December*, from

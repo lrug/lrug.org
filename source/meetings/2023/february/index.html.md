@@ -13,6 +13,7 @@ status: Published
 hosted_by:
   - :name: Funding Circle
 
+meeting_date: 2023-02-13
 ---
 
 The February 2023 meeting of LRUG will be on Monday the 13th of

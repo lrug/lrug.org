@@ -15,6 +15,7 @@ sponsors:
 status: Published
 hosted_by:
   - :name: Skills Matter
+meeting_date: 2015-10-12
 ---
 
 The October 2015 meeting of LRUG will be on *Monday the 12th of October*, from 6:00pm to 8:00pm (talks start at 6:30pm).

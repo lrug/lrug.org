@@ -10,6 +10,7 @@ title: June 2022 Meeting
 published_at: 2022-05-15 13:00:00 +0000
 created_at: 2022-05-15 13:00:00 +0000
 status: Published
+meeting_date: 2022-06-13
 ---
 
 The June 2022 meeting of LRUG will be on *Monday the 13th of June*,

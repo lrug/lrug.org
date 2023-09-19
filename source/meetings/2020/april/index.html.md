@@ -14,6 +14,7 @@ status: Published
 hosted_by:
   - :name: Cleo
 
+meeting_date: 2020-04-06
 ---
 
 The April 2020 meeting of LRUG will be on *Monday the 6th of April*,

@@ -11,6 +11,7 @@ published_at: 2020-11-02 11:10:00 +0000
 created_at: 2020-11-02 11:10:00 +0000
 status: Published
 
+meeting_date: 2020-11-09
 ---
 
 The November 2020 meeting of LRUG will be on *Monday the 9th of November*, from

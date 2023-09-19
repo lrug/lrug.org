@@ -13,6 +13,7 @@ status: Published
 hosted_by:
   - :name: Zinc
 
+meeting_date: 2022-12-12
 ---
 
 **Unfortunately, the December 2022 meeting is cancelled**

@@ -14,6 +14,7 @@ status: Published
 hosted_by:
   - :name: GoCardless
 
+meeting_date: 2020-01-13
 ---
 
 The January 2020 meeting of LRUG will be on *Monday the 13th of January*,
