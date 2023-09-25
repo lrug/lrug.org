@@ -76,4 +76,4 @@ else can come in your place.  We might be able to let in people on the
 night who haven't registered, but we can't guarantee it.
 
 [redcat-digital-venue]: https://goo.gl/maps/cdDCyRN4BrksTTUF9
-[october-2023-eventbrite]: https://www.eventbrite.com/e/london-ruby-user-group-august-2023-meeting-tickets-677306089747
+[october-2023-eventbrite]: https://www.eventbrite.com/e/london-ruby-user-group-october-2023-meeting-tickets-699977691117
