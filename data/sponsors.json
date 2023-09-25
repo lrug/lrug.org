@@ -96,6 +96,22 @@
     }
   },
   {
+    "name":"Bloom & Wild",
+    "url":"https://www.bloomandwild.com/",
+    "logo":{
+      "sidebar":{
+        "url":"https://assets.lrug.org/images/bloom_and_wild_logo.svg",
+        "width":"120",
+        "height":"55"
+      },
+      "main":{
+        "url":"https://assets.lrug.org/images/bloom_and_wild_logo.svg",
+        "width":"260",
+        "height":"120"
+      }
+    }
+  },
+  {
     "name":"BookingBug",
     "url":"https://www.bookingbug.co.uk/",
     "logo":{
@@ -604,6 +620,22 @@
         "url":"https://assets.lrug.org/images/railscasts_logo_medium.png",
         "width":"260",
         "height":"32"
+      }
+    }
+  },
+  {
+    "name":"Redcat Digital",
+    "url":"https://www.redcat-digital.com/",
+    "logo":{
+      "sidebar":{
+        "url":"https://assets.lrug.org/images/redcat-digital-logo.svg",
+        "width":"120",
+        "height":"17"
+      },
+      "main":{
+        "url":"https://assets.lrug.org/images/redcat-digital-logo.svg",
+        "width":"260",
+        "height":"36"
       }
     }
   },
