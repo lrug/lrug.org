@@ -624,6 +624,22 @@
     }
   },
   {
+    "name":"Redcat Digital",
+    "url":"https://www.redcat-digital.com/",
+    "logo":{
+      "sidebar":{
+        "url":"https://assets.lrug.org/images/redcat-digital-logo.svg",
+        "width":"120",
+        "height":"17"
+      },
+      "main":{
+        "url":"https://assets.lrug.org/images/redcat-digital-logo.svg",
+        "width":"260",
+        "height":"36"
+      }
+    }
+  },
+  {
     "name":"Resource Guru",
     "url":"http://resourceguruapp.com/",
     "logo":{

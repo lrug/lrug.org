@@ -8,10 +8,10 @@ created_by:
 category: meeting
 title: October 2023 Meeting
 created_at: 2023-08-08 19:28:00 +0000
-published_at: 2023-09-19 14:00:00 +0000
+published_at: 2023-09-25 21:00:00 +0000
 status: Published
 hosted_by:
-  - :name: "Bloom & Wild"
+  - :name: "Redcat Digital"
 meeting_date: 2023-10-09
 
 ---
@@ -19,7 +19,7 @@ meeting_date: 2023-10-09
 The October 2023 meeting of LRUG will be on Monday the 9th of
 October, from 6:00pm to 8:00pm (meeting starts at 6:30pm).
 
-This month we're hosted by the lovely folk at [Bloom & Wild](https://www.bloomandwild.com/careers) in [their offices][bloom-and-wild-venue] in Vox Studios on Durham Street. [Full venue and registration details are given below](#october23registration).
+This month we're hosted by the lovely folk at [Redcat Digital](https://www.redcat-digital.com) in [their offices][redcat-digital-venue] in Timber Yard on Drysdale Street. [Full venue and registration details are given below](#october23registration).
 
 ## Agenda
 
@@ -68,12 +68,12 @@ Hopefully you all remember that physical meetings involve finite space and so to
 
 The address of the venue:
 
-> Bloom & Wild<br/>Unit W.301<br/>Vox Studios<br/>1-45 Durham Street<br/>London<br/>SE11 5JH<br/><br/>[See on a map][bloom-and-wild]
+> Redcat Digital<br/>Timber Yard<br/>115a Drysdale Street<br/>London<br/>N1 6ND<br/><br/>[See on a map][redcat-digital-venue]
 
 The venue has a hard limit of *50 people*.  If you register and realise
 you can't come, please use eventbrite to give up your place so someone
 else can come in your place.  We might be able to let in people on the
 night who haven't registered, but we can't guarantee it.
 
-[bloom-and-wild-venue]: https://goo.gl/maps/oWnFNiehYhQEuUsm6
+[redcat-digital-venue]: https://goo.gl/maps/cdDCyRN4BrksTTUF9
 [october-2023-eventbrite]: https://www.eventbrite.com/e/london-ruby-user-group-august-2023-meeting-tickets-677306089747
