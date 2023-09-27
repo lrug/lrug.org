@@ -7,6 +7,6 @@ xml.copyright strip_tags(partial('license')) if with_copyright
 xml.image do
   xml.title title
   xml.link url
-  xml.url 'https://assets.lrug.org/images/el-rug-sidebar.png'
+  xml.url 'https://assets.lrug.org/images/el-rug-logo.png'
 end
 xml.lastBuildDate rfc_1123_date(updated_at) unless updated_at.nil?
