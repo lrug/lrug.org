@@ -20,7 +20,7 @@ meeting_date: 2023-11-13
 The November 2023 meeting of LRUG will be on Monday the 13th of
 November, from 6:00pm to 8:00pm (meeting starts at 6:30pm).
 
-This month we're hosted by the lovely folk at [Zappi](https://www.zappi.io/web/) are hosting us
+This month we're hosted by the lovely folk at [Zappi](https://www.zappi.io/web/)
 in [their offices][zappi-venue], on  Camden High St. [Full venue and
 registration details are given below](#nov23registration).
 
