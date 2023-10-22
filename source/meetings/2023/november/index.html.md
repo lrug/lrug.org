@@ -26,7 +26,7 @@ registration details are given below](#nov23registration).
 
 ## Agenda
 
-### Data Indexing with RGB (Ruby, Graphs and Bitmaps)
+### Outside Technology: Building bridges between engineers and everyone else
 
 [Naomi Christie](https://uk.linkedin.com/in/naomichristie) says:
 
