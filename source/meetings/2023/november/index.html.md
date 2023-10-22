@@ -26,7 +26,7 @@ registration details are given below](#nov23registration).
 
 ## Agenda
 
-### Data Indexing with RGB (Ruby, Graphs and Bitmaps)
+### Outside Technology: Building bridges between engineers and everyone else
 
 [Naomi Christie](https://uk.linkedin.com/in/naomichristie) says:
 
@@ -45,7 +45,7 @@ Of course, even though this is the socialising part and seems more
 informal, please remember that still we consider it to be a part of the
 meeting and covered by our [code of conduct](http://readme.lrug.org/#code-of-conduct).
 
-## Venue & Registration {#nov22registration}
+## Venue & Registration {#nov23registration}
 
 Prior to attending you should familiarise yourself with our
 [README](http://readme.lrug.org/) paying close attention to [the code of
