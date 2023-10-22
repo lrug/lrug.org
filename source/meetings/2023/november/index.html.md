@@ -68,4 +68,4 @@ else come in your place.  We might be able to let in people on the night
 who haven't registered, but we can't guarantee it.
 
 [zappi-venue]: https://goo.gl/maps/3xNi53bvjgLEW5Ui7
-[november2022-eventbrite]: https://www.eventbrite.com/e/london-ruby-user-group-november-2023-meeting-tickets-699977711177?aff=oddtdtcreator
+[november2023-eventbrite]: https://www.eventbrite.com/e/london-ruby-user-group-november-2023-meeting-tickets-699977711177?aff=oddtdtcreator
