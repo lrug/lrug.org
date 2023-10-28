@@ -36,6 +36,16 @@ registration details are given below](#nov23registration).
 > why misunderstandings are common between engineers and their stakeholders
 > and offering some ideas on how we can bridge that gap.
 
+### The Art of Talk Design
+
+Melinda Seckington says:
+
+> Everywhere you look, stories surround us, and everyone has something that’s worth sharing with others. As speakers, we need to understand how to structure our talks so they can have the best effect on the audiences we are trying to reach. How do you discover the right angle and the right story for a talk? How do you frame your story?
+>
+> Within tech we know how to approach building a new product: we research our user base, we figure out what and for who we’re trying to create something for and we make sure we constantly iterate on what we’ve come up with. So why aren’t we taking the same approach for our talks?
+>
+> This talk will examine how to get in the right mindset of examining your talk ideas, and will introduce a framework of how to design and iterate on your talk. It will focus on several exercises and questions to help you create the best talk for the story you’re trying to tell.
+
 ## Afterwards
 
 When the talks come to an end we'll decamp to a local pub for some food, some
