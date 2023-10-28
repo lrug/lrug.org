@@ -38,7 +38,7 @@ registration details are given below](#nov23registration).
 
 ### The Art of Talk Design
 
-Melinda Seckington says:
+[Melinda Seckington](https://www.seckington.com/) says:
 
 > Everywhere you look, stories surround us, and everyone has something that’s worth sharing with others. As speakers, we need to understand how to structure our talks so they can have the best effect on the audiences we are trying to reach. How do you discover the right angle and the right story for a talk? How do you frame your story?
 >
