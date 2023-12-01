@@ -101,3 +101,12 @@ september:
     - type: code
       title: "Supporting git repo for the code used in Back in my day..."
       url: https://github.com/threedaymonk/back-in-my-day
+november:
+  outside-technology-building-bridges:
+    - type: video
+      title: "LRUG November 2023 - Naomie Christie - Outside Technology: Building bridges between engineers and everyone else"
+      url: https://assets.lrug.org/videos/2023/november/naomi-christie-outside-technology-building-bridges-between-engineers-and-everyone-else.mp4
+  the-art-of-talk-design:
+    - type: video
+      title: "LRUG November 2023 - Melinda Seckington - The Art of Talk Design"
+      url: https://assets.lrug.org/videos/2023/november/melinda-seckington-the-art-of-talk-design.mp4
