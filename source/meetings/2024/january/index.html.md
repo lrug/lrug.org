@@ -6,7 +6,7 @@ created_by:
   email: chris.lowis@lrug.org
   name: Chris Lowis
 category: meeting
-title: December 2024 Meeting
+title: January 2024 Meeting
 created_at: 2023-12-18 12:00:00 +0000
 published_at: 2023-12-18 12:00:00 +0000
 status: Published
