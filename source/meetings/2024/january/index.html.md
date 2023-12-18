@@ -33,6 +33,20 @@ details are given below](#jan24registration).
 
 > What comes after cloud computing? Cloud computing is convenient, ubiquitous and relatively cheap. But it also locks developers into proprietary solutions that make migrating to another provider or bringing your solutions back in-house difficult and expensive. If AWS, Google Cloud Computing, Azure and all the others are clouds, then we also need a sky. Researchers at Berkeley and other institutions have proposed sky computing: an interoperability layer that removes technological lock-in and enables multi cloud application development.
 
+### Leveraging Localised Gems (LLGems): Re-using Code the Ruby Way, Safely
+
+Joel says:
+
+> The talk takes a look under the hood of our Rails monolith, our Rails
+> Engines, and how we share code between them. It's a bit like a kitchen
+> experiment – blending the best of both worlds to enhance the Separation of
+> Concerns, while still keeping our favorite code recipes within reach. I'll
+> share our adventure of moving some Kafka infrastructure code from the main
+> Rails app into a local gem (with zero downtime!). Think of it as giving the
+> code a new home where it can be shared across our Rails Engines. We've also
+> managed to preserve our unique, in-house testing infrastructure in the
+> process which is a serious Brucie bonus!
+
 ## Afterwards
 
 When the talks come to an end we'll decamp to a local pub for some food, some
