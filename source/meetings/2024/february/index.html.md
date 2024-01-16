@@ -12,9 +12,7 @@ published_at: 2024-01-14 22:51:00 +0000
 status: Published
 hosted_by:
   - :name: Funding Circle
-
 meeting_date: 2024-02-12
-
 ---
 
 The February 2024 meeting of LRUG will be on Monday the 12th of
@@ -31,16 +29,47 @@ Victoria St. [Full venue and registration details are given below](#feb24registr
 Our February meeting is our annual event devoted to short talks of no more
 than 10 minutes.
 
-### Data pagination for jekyll-paginate-v2 
+### Data pagination for jekyll-paginate-v2
 
 [Jay Caines-Gooby](https://jay.gooby.org):
 
 > A quick dive into getting data-pagination (.csv, .json, .tsv
-> & .yaml files in your _data directory) working with the jekyll-paginate-v2
+> & .yaml files in your _data directory) working with the [jekyll-paginate-v2](https://github.com/sverrirs/jekyll-paginate-v2)
 > gem. After deciding that I wanted to archive my posts to a Slack
 > #music-we-like channel, I wanted to also make the archived posts
-> paginatible... 
- 
+> paginatible...
+
+### Using devcontainers with Ruby
+
+[Johnathan James]():
+
+> When an engineer joins your organisation, how long does it take for
+> them to configure their development environment? I will discuss using
+> [devcontainers with VSCode](https://code.visualstudio.com/docs/devcontainers/containers) to reduce this time from "days" to
+> "minutes''.
+
+### Contract testing between Ruby applications
+
+[Katya Essina]() & [Sarah O'Grady]():
+
+> - what is contract testing & how it works
+> - why we need contract testing at Funding Circle
+> - what a contract test looks like for a Ruby application
+> - how contract testing works in practice
+
+### (title TBC)
+
+[fell sunderland]():
+
+> I'd like to do a whistlestop tour of a few different gems I've written over
+> the years, with the aim of talking about having fun whilst learning what
+> ruby is capable of. I'd like to showcase things like aspectual
+> <https://github.com/AgentAntelope/aspectual> for bringing aspect oriented
+> programming to ruby, cherry-pick
+> <https://github.com/AgentAntelope/cherry_pick> for when you miss import foo
+> from bar, overload <https://github.com/AgentAntelope/overload> for when you
+> want to *really* have optional arguments do something different, and more.
+
 ## Afterwards
 
 When the talks come to an end we'll decamp to a local pub for some food, some
