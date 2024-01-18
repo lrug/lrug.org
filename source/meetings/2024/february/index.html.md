@@ -41,7 +41,7 @@ than 10 minutes.
 
 ### Using devcontainers with Ruby
 
-[Johnathan James]():
+Jonathan James:
 
 > When an engineer joins your organisation, how long does it take for
 > them to configure their development environment? I will discuss using
@@ -50,16 +50,16 @@ than 10 minutes.
 
 ### Contract testing between Ruby applications
 
-[Katya Essina]() & [Sarah O'Grady]():
+[Katya Essina](https://github.com/KatyaEssina95) & [Sarah O'Grady](https://github.com/sarah-ogrady):
 
 > - what is contract testing & how it works
 > - why we need contract testing at Funding Circle
 > - what a contract test looks like for a Ruby application
 > - how contract testing works in practice
 
-### (title TBC)
+### What is ruby really capable of?
 
-[fell sunderland]():
+[fell sunderland](https://twitter.com/felltir.):
 
 > I'd like to do a whistlestop tour of a few different gems I've written over
 > the years, with the aim of talking about having fun whilst learning what
