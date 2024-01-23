@@ -63,12 +63,10 @@ Jonathan James:
 
 > I'd like to do a whistlestop tour of a few different gems I've written over
 > the years, with the aim of talking about having fun whilst learning what
-> ruby is capable of. I'd like to showcase things like aspectual
-> <https://github.com/AgentAntelope/aspectual> for bringing aspect oriented
-> programming to ruby, cherry-pick
-> <https://github.com/AgentAntelope/cherry_pick> for when you miss import foo
-> from bar, overload <https://github.com/AgentAntelope/overload> for when you
-> want to *really* have optional arguments do something different, and more.
+> ruby is capable of. I'd like to showcase things like [aspectual](https://github.com/AgentAntelope/aspectual)
+> for bringing aspect oriented programming to ruby, [cherry-pick](https://github.com/AgentAntelope/cherry_pick)
+> for when you miss `import foo from bar`, [overload](https://github.com/AgentAntelope/overload) for when you
+> want to *really* have optional arguments do something different, and more!
 
 ## Afterwards
 
