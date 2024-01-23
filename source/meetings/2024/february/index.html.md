@@ -59,7 +59,7 @@ Jonathan James:
 
 ### What is ruby really capable of?
 
-[fell sunderland](https://twitter.com/felltir.):
+[fell sunderland](https://twitter.com/felltir):
 
 > I'd like to do a whistlestop tour of a few different gems I've written over
 > the years, with the aim of talking about having fun whilst learning what
