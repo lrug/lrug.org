@@ -68,6 +68,14 @@ Jonathan James:
 > for when you miss `import foo from bar`, [overload](https://github.com/AgentAntelope/overload) for when you
 > want to *really* have optional arguments do something different, and more!
 
+### Co-locate your template & javascript code with Phlex & AlpineJS for a happy developer!
+
+[Martin Tomov](https://www.linkedin.com/in/martin-tomov/):
+
+> More than 100 lines files are bad? Not if you have the right tools! Inline
+> your templates, JavaScript, business & controller logic for maximum
+> productivity!
+
 ## Afterwards
 
 When the talks come to an end we'll decamp to a local pub for some food, some
