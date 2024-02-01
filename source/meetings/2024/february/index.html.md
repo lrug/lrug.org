@@ -76,6 +76,15 @@ Jonathan James:
 > your templates, JavaScript, business & controller logic for maximum
 > productivity!
 
+### Be More GARY: How to up your RSpec Game
+
+[Scott Matthewman](https://twitter.com/scottm):
+
+> Elevate your RSpec tests by questioning common DRY practices. Enter the GARY
+> method, where strategic repetition enhances test clarity and maintainability.
+> Resist premature refactoring and convoluted logic, leaving yourself with
+> clearer tests that document your code. Go ahead, repeat yourself.
+
 ## Afterwards
 
 When the talks come to an end we'll decamp to a local pub for some food, some
