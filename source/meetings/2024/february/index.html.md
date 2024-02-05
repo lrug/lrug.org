@@ -85,6 +85,15 @@ Jonathan James:
 > Resist premature refactoring and convoluted logic, leaving yourself with
 > clearer tests that document your code. Go ahead, repeat yourself.
 
+### Making games with ruby
+
+[Paolo Fabbri](https://internetblacksmith.dev):
+
+> Learn how the Dragonruby game engine makes game development faster and simpler for
+> everyone, from beginners to pros. Explore its key features, and jumpstart
+> your journey into the world of game creation.
+> Join us to transform your ideas into reality with ease!
+
 ## Afterwards
 
 When the talks come to an end we'll decamp to a local pub for some food, some
