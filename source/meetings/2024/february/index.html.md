@@ -94,13 +94,6 @@ Jonathan James:
 > your journey into the world of game creation.
 > Join us to transform your ideas into reality with ease!
 
-### How to Stop Being a Subject Matter Expert
-
-[Luke Thomas](https://www.linkedin.com/pub/luke-thomas/19/5b6/22a):
-
-> Tactics for helping that stressed-out single point of failure in your life
-> become a happier member of a team...of multiple points of failure.
-
 ## Afterwards
 
 When the talks come to an end we'll decamp to a local pub for some food, some
