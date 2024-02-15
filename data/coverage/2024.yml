@@ -1,0 +1,9 @@
+january:
+  sky-computing:
+    - type: video
+      title: LRUG January 2024 - Kevin Sedgley - Sky Computing
+      url: https://assets.lrug.org/videos/2024/january/kevin-sedgley-sky-computing-lrug-jan-2024.mp4
+  leveraging-localised-gems-llgems-re-using-code-the-ruby-way:
+    - type: video
+      title: "LRUG January 2024 - Joel Biffin - Leveraging localised gems (LLGems): Re-using code the ruby way, safely"
+      url: https://assets.lrug.org/videos/2024/january/joel-biffin-leveraging-localised-gems-llgems-re-using-code-the-ruby-way-safely-lrug-jan-2024.mp4
