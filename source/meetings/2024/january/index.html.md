@@ -37,7 +37,7 @@ details are given below](#jan24registration).
 
 ### Leveraging Localised Gems (LLGems): Re-using Code the Ruby Way, Safely
 
-Joel says:
+[Joel Biffin](https://github.com/joelbiffin) says:
 
 > The talk takes a look under the hood of our Rails monolith, our Rails
 > Engines, and how we share code between them. It's a bit like a kitchen
