@@ -47,6 +47,19 @@ in [their offices][canva-venue], on Hoxton Square.
 
 {::coverage year="2024" month="march" talk="how-to-stop-being-a-subject-matter-expert" /}
 
+### WTF is Technical Strategy
+
+[Laurie Young](https://laurieyoung.co.uk/) says:
+
+> The phrase "Technical Strategy" is often used by senior leaders when they want
+> something from their tech teams. However, it's an unclear phrase that doesn't
+> explain what is needed or why. In this talk, you will learn what's behind the
+> phrase, but also how anyone from a CTO to a new developer can use that
+> knowledge to drive conversations that will help not just the leadership but
+> the whole organisation.
+
+{::coverage year="2024" month="march" talk="wtf-is-a-technical-strategy" /}
+
 ## Afterwards
 
 When the talks come to an end we'll decamp to a local pub for some food, some
