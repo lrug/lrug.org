@@ -10,3 +10,12 @@ january:
     - type: video
       title: "LRUG January 2024 - Joel Biffin - Leveraging localised gems (LLGems): Re-using code the ruby way, safely"
       url: https://assets.lrug.org/videos/2024/january/joel-biffin-leveraging-localised-gems-llgems-re-using-code-the-ruby-way-safely-lrug-jan-2024.mp4
+march:
+  how-to-stop-being-a-subject-matter-expert:
+    - type: video
+      title: LRUG March 2024 - Luke Thomas - How to Stop Being a Subject Matter Expert
+      url: https://assets.lrug.org/videos/2024/march/luke-thomas-how-to-stop-being-a-subject-matter-export-lrug-mar-2024.mp4
+  wtf-is-a-technical-strategy:
+    - type: video
+      title: LRUG March 2024 - Laurie Young - WTF is Technical Strategy
+      url: https://assets.lrug.org/videos/2024/march/laurie-young-wtf-is-technical-strategry-lrug-mar-2024.mp4
