@@ -24,20 +24,6 @@ in [their offices][canva-venue], on Hoxton Square.
 
 ## Agenda
 
-### Understanding RuboCop's workflow
-
-[Alexey Schepin](https://www.linkedin.com/in/alexeyschepin/) says:
-
-> Many Ruby engineers are familiar with RuboCop and eager to write custom cops.
-> However, existing resources often prioritise Abstract Syntax Tree (AST)
-> concepts over RuboCop's workflow and built-in tools. This talk aims to rectify
-> this by focusing on understanding RuboCop's workflow and its practical
-> implications for writing custom cops. Join us to explore the fundamentals of
-> RuboCop's workflow, empowering you to develop custom cops with ease and
-> clarity.
- 
-{::coverage year="2024" month="march" talk="understanding-rubocop-workflow" /}
-
 ### How to Stop Being a Subject Matter Expert
 
 [Luke Thomas](https://www.linkedin.com/pub/luke-thomas/19/5b6/22a) says:
