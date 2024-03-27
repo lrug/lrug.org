@@ -24,11 +24,18 @@ in [their offices][canva-venue], on Hoxton Square.
 
 ## Agenda
 
+### Do you want a flake with that?
+
+[Murray Steele](http://h-lame.com):
+
+> Flaky tests are awful, in this talk we'll explore why tests flake and look at
+> some techniques and tools you can use to discover why your tests are flaking.
+
 ### Talks needed!
 
 [You](mailto:talks@lrug.org), maybe?
 
-> We always need talks and this month is no exception, [get in touch](mailto:talks@lrug.org) and volunteer
+> We still have room for more talks, [get in touch](mailto:talks@lrug.org) to volunteer!
 
 ## Afterwards
 
