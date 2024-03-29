@@ -10,6 +10,35 @@ january:
     - type: video
       title: "LRUG January 2024 - Joel Biffin - Leveraging localised gems (LLGems): Re-using code the ruby way, safely"
       url: https://assets.lrug.org/videos/2024/january/joel-biffin-leveraging-localised-gems-llgems-re-using-code-the-ruby-way-safely-lrug-jan-2024.mp4
+february:
+  data-pagination-for-jekyll-paginate-v2:
+    - type: video
+      title: LRUG February 2024 - Jay Caines-Gooby - Data pagination for jekyll-paginate-v2
+      url: https://assets.lrug.org/videos/2024/february/jay-caines-gooby-data-pagination-for-jekyll-paginate-v2-lrug-feb-2024.mp4
+  using-devcontainers-with-ruby:
+    - type: video
+      title: LRUG February 2024 - Jonathan James - Using devcontainers with Ruby
+      url: https://assets.lrug.org/videos/2024/february/jonathan-james-using-devcontainers-with-ruby-lrug-feb-2024.mp4
+  contract-testing-between-ruby-applications:
+    - type: video
+      title: "LRUG February 2024 - Katya Essina & Sarah O'Grady - Contract Testing between Ruby applications"
+      url: https://assets.lrug.org/videos/2024/february/katya-essina-and-sarah-o-grady-contract-testing-between-ruby-applications-lrug-feb-2024.mp4
+  what-is-ruby-really-capable-of:
+    - type: video
+      title: LRUG February 2024 - fell sunderland - What is Ruby really capable of?
+      url: https://assets.lrug.org/videos/2024/february/fell-sunderland-what-is-ruby-really-capable-of-lrug-feb-2024.mp4
+  phlex-for-a-happy-developer:
+    - type: video
+      title: LRUG February 2024 - Martin Tomov - Phlex for a happy developer
+      url: https://assets.lrug.org/videos/2024/february/martin-tomov-phlex-for-a-happy-developer-lrug-feb-2024.mp4
+  be-more-gary-how-to-up-your-rspec-game:
+    - type: video
+      title: "LRUG February 2024 - Scott Matthewman - Be more GARY: How to up your RSpec game"
+      url: https://assets.lrug.org/videos/2024/february/scott-matthewman-be-more-gary-how-to-up-your-rspec-game-lrug-feb-2024.mp4
+  making-games-with-ruby:
+    - type: video
+      title: LRUG February 2024 - Paolo Fabbri - Making games with Ruby
+      url: https://assets.lrug.org/videos/2024/february/paolo-fabbri-making-games-with-ruby-lrug-feb-2024.mp4
 march:
   how-to-stop-being-a-subject-matter-expert:
     - type: video
