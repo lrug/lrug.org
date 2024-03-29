@@ -39,6 +39,8 @@ than 10 minutes.
 > #music-we-like channel, I wanted to also make the archived posts
 > paginatible...
 
+{::coverage year="2024" month="february" talk="data-pagination-for-jekyll-paginate-v2" /}
+
 ### Using devcontainers with Ruby
 
 Jonathan James:
@@ -48,6 +50,8 @@ Jonathan James:
 > [devcontainers with VSCode](https://code.visualstudio.com/docs/devcontainers/containers) to reduce this time from "days" to
 > "minutes''.
 
+{::coverage year="2024" month="february" talk="using-devcontainers-with-ruby" /}
+
 ### Contract testing between Ruby applications
 
 [Katya Essina](https://github.com/KatyaEssina95) & [Sarah O'Grady](https://github.com/sarah-ogrady):
@@ -56,6 +60,8 @@ Jonathan James:
 > - why we need contract testing at Funding Circle
 > - what a contract test looks like for a Ruby application
 > - how contract testing works in practice
+
+{::coverage year="2024" month="february" talk="contract-testing-between-ruby-applications" /}
 
 ### What is ruby really capable of?
 
@@ -68,13 +74,17 @@ Jonathan James:
 > for when you miss `import foo from bar`, [overload](https://github.com/AgentAntelope/overload) for when you
 > want to *really* have optional arguments do something different, and more!
 
-### Co-locate your template & javascript code with Phlex & AlpineJS for a happy developer!
+{::coverage year="2024" month="february" talk="what-is-ruby-really-capable-of" /}
+
+### Phlex for a happy developer!
 
 [Martin Tomov](https://www.linkedin.com/in/martin-tomov/):
 
 > More than 100 lines files are bad? Not if you have the right tools! Inline
 > your templates, JavaScript, business & controller logic for maximum
 > productivity!
+
+{::coverage year="2024" month="february" talk="phlex-for-a-happy-developer" /}
 
 ### Be More GARY: How to up your RSpec Game
 
@@ -85,6 +95,8 @@ Jonathan James:
 > Resist premature refactoring and convoluted logic, leaving yourself with
 > clearer tests that document your code. Go ahead, repeat yourself.
 
+{::coverage year="2024" month="february" talk="be-more-gary-how-to-up-your-rspec-game" /}
+
 ### Making games with ruby
 
 [Paolo Fabbri](https://internetblacksmith.dev):
@@ -93,6 +105,8 @@ Jonathan James:
 > everyone, from beginners to pros. Explore its key features, and jumpstart
 > your journey into the world of game creation.
 > Join us to transform your ideas into reality with ease!
+
+{::coverage year="2024" month="february" talk="making-games-with-ruby" /}
 
 ## Afterwards
 
