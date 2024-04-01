@@ -16,6 +16,9 @@ february:
       title: LRUG February 2024 - Jay Caines-Gooby - Data pagination for jekyll-paginate-v2
       url: https://assets.lrug.org/videos/2024/february/jay-caines-gooby-data-pagination-for-jekyll-paginate-v2-lrug-feb-2024.mp4
   using-devcontainers-with-ruby:
+    - type: slides
+      title: devcontainers
+      url: https://github.com/jonathanjames1729/talks/blob/main/2024-02-12-lrug/devcontainers.pdf
     - type: video
       title: LRUG February 2024 - Jonathan James - Using devcontainers with Ruby
       url: https://assets.lrug.org/videos/2024/february/jonathan-james-using-devcontainers-with-ruby-lrug-feb-2024.mp4
