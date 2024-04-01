@@ -43,7 +43,7 @@ than 10 minutes.
 
 ### Using devcontainers with Ruby
 
-Jonathan James:
+[Jonathan James](https://github.com/jonathanjames1729):
 
 > When an engineer joins your organisation, how long does it take for
 > them to configure their development environment? I will discuss using
