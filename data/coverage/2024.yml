@@ -27,6 +27,9 @@ february:
     - type: video
       title: LRUG February 2024 - fell sunderland - What is Ruby really capable of?
       url: https://assets.lrug.org/videos/2024/february/fell-sunderland-what-is-ruby-really-capable-of-lrug-feb-2024.mp4
+    - type: slides
+      title: What is Ruby really capable of? - Slides
+      url: https://docs.google.com/presentation/d/1GNzpKWO6aqqbfo4eOTixIL_r1GI08bFYWjyRhBOUmBk/edit?usp=sharing
   phlex-for-a-happy-developer:
     - type: video
       title: LRUG February 2024 - Martin Tomov - Phlex for a happy developer
