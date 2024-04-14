@@ -31,6 +31,8 @@ in [their offices][canva-venue], on Hoxton Square.
 > Flaky tests are awful, in this talk we'll explore why tests flake and look at
 > some techniques and tools you can use to discover why your tests are flaking.
 
+{::coverage year="2024" month="april" talk="do-you-want-a-flake-with-that" /}
+
 ### What the Chernobyl disaster can teach us about incident response
 
 [Frederick Cheung](https://ruby.social/@fglc2) says:
@@ -38,6 +40,8 @@ in [their offices][canva-venue], on Hoxton Square.
 > What does the worst nuclear disaster ever have in common with a web application being down?
 > On the face of it, vanishingly little, but the incredible series of events before, during and
 > after the disaster have plenty of insights to teach us about more mundane situations
+
+{::coverage year="2024" month="april" talk="what-the-chernobyl-disaster-can-teach-us-about-incident-response" /}
 
 ### Talks needed!
 
