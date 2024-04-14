@@ -54,3 +54,12 @@ march:
     - type: video
       title: LRUG March 2024 - Laurie Young - WTF is Technical Strategy
       url: https://assets.lrug.org/videos/2024/march/laurie-young-wtf-is-technical-strategry-lrug-mar-2024.mp4
+april:
+  do-you-want-a-flake-with-that:
+    - type: video
+      title: LRUG April 2024 - Murray Steele - Do you want a flake with that?
+      url: https://assets.lrug.org/videos/2024/april/murray-steele-do-you-want-a-flake-with-that-lrug-apr-2024.mp4
+  what-the-chernobyl-disaster-can-teach-us-about-incident-response:
+    - type: video
+      title: LRUG April 2024 - Murray Steele - Do you want a flake with that?
+      url: https://assets.lrug.org/videos/2024/april/frederick-cheung-what-the-chernobyl-disaster-can-teach-us-about-incident-response-lrug-apr-2024.mp4
