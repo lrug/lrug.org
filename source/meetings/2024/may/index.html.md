@@ -68,4 +68,4 @@ else come in your place.  We might be able to let in people on the night
 who haven't registered, but we can't guarantee it.
 
 [cleo-venue]: https://goo.gl/maps/eUvK3PDLFpKhzf98A
-[may2024-ticket-tailor]:
+[may2024-ticket-tailor]: https://buytickets.at/lrug/1229147
