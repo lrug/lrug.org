@@ -31,6 +31,18 @@ details are given below](#may24registration).
 
 > This presentation will be about the challenges of building large Ruby web applications and how to maintain existing ones. I will use examples adapted from real applications that I worked on during my 10 years of experience with Ruby outlining: technical limitations of the language, how to use a modular dependency structure to enforce boundaries in complex domains.
 
+### Building modern eCommerce applications using Rails 7
+
+[Winston Ferguson](https://winstonferguson.com) says:
+
+> With the newest Rails version, we can create platforms that offer the
+> modern features customers and sellers expect, with less complexity. Combine
+> it with an established open-source gem like Spree, and you've got a
+> comprehensive commerce system. I'll share my learnings from three real-life
+> examples: a music label selling limited edition vinyl LPs, a wholesaler
+> shedding enterprise SaaS for a tailor-made setup, and my furniture startup,
+> where CAD brings bespoke pieces to life.
+
 ## Afterwards
 
 When the talks come to an end we'll decamp to a local pub for some food, some
