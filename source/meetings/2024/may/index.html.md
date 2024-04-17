@@ -11,7 +11,7 @@ created_at: 2024-04-16 20:30:00 +0000
 published_at: 2024-04-16 20:30:00 +0000
 status: Published
 hosted_by:
-  - :name: cleo
+  - :name: Cleo
 meeting_date: 2024-05-13
 ---
 
