@@ -79,5 +79,22 @@ can't come, please use eventbrite to give up your place so we can someone
 else come in your place.  We might be able to let in people on the night
 who haven't registered, but we can't guarantee it.
 
+#### Accessibility info for the venue
+
+Below you can find all the accessibility info for Cleo's office:
+
+- There is step free access to enter the Tea Building from both entrances (Redchurch St and Bethnal Green Rd)
+- There are stairs and a small open platform lift to get you from the Tea Building lobby to the lifts going up to the 2nd floor
+- There are 2 lifts for transporting people to each floor of the Tea Building
+- There is step-free access from the lifts to Cleo's office unit
+- The double doors to the office may be opened to accommodate a wider wheelchair or motorised chair
+- The main floor of our office is step free
+- There is 1 accessible restroom in the office, and 6 restrooms in total
+
+Now, there are a couple of caveats, which we hope will not deter anybody:
+
+- The main doors into the Tea Building do not auto-open - they open inwards with a push
+- The door to Cleo's office does not auto-open - it opens inwards with a push.
+
 [cleo-venue]: https://goo.gl/maps/eUvK3PDLFpKhzf98A
 [may2024-ticket-tailor]: https://buytickets.at/lrug/1229147
