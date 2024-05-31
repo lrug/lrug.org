@@ -27,7 +27,7 @@ are given below](#june24registration).
 
 ### Things I've learned maintaining OpenStreetMap
 
-[Andy Allan](https://winstonferguson.com) says:
+[Andy Allan](https://www.gravitystorm.co.uk/) says:
 
 > Maintaining one of the world's largest non-commercial websites,
 > [OpenStreetMap](https://openstreetmap.org), is a unique challenge. We're a
