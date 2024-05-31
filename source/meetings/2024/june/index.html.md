@@ -10,16 +10,18 @@ title: June 2024 Meeting
 created_at: 2024-05-20 21:00:00 +0000
 published_at: 2024-05-20 21:00:00 +0000
 status: Published
+hosted_by:
+  - :name: Le Wagon
 meeting_date: 2024-06-10
 ---
 
 The June 2024 meeting of LRUG will be on Monday the 10th of June, from 6:00pm
 to 8:00pm (meeting starts at 6:30pm).
 
-This time we're being hosted by the
-lovely folk at [TBC](https://example.com) in [their
-offices][tbc-venue], on ???. [Full venue and registration
-details are given below](#june24registration).
+This time we're being hosted by the lovely folk at [Le
+Wagon](https://business.lewagon.com) in [their offices][le-wagon-venue] on
+Kingsland Road (near Hoxton overground). [Full venue and registration details
+are given below](#june24registration).
 
 ## Agenda
 
@@ -63,18 +65,18 @@ find the user flow on it.
 
 The address of the venue:
 
-> TBC<br/>Some street<br/>123 A Street Road.<br/>London<br/>XM4 5HQ<br/><br/>[See on a map][tbc-venue]
+> Le Wagon<br/>Ground Floor<br/>Unit 13<br/>138 Kingsland Road<br/>London<br/>E2 8DY<br/><br/>[See on a map][le-wagon-venue]
 
-The venue has a hard limit of ?? people.  If you register and realise you
+The venue has a hard limit of 100 people.  If you register and realise you
 can't come, please let us know we can give up your place to let someone else
 come in your place.  We might be able to let in people on the night who haven't
 registered, but we can't guarantee it.
 
 #### Accessibility info for the venue
 
-Below you can find all the accessibility info for TBC's office:
+Below you can find all the accessibility info for Le Wagon's office:
 
-- ???
+- It's a ground floor room, no stairs required and the toilets are fully accessible
 
-[tbc-venue]: https://goo.gl/maps/eUvK3PDLFpKhzf98A
+[le-wagon-venue]: https://maps.app.goo.gl/BcDikom6NDmqmKn76
 [june2024-ticket-tailor]: https://buytickets.at/lrug/1266075
