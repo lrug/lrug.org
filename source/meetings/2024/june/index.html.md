@@ -36,6 +36,15 @@ are given below](#june24registration).
 > technical and organisational tips, tricks and recommendations, that you might
 > find useful for your own teams and projects too.
 
+### LiveView: stateful, server-rendered HTML
+
+Yevhenii Kurtov says:
+
+> LiveView is  Elixir's analogue to Hotwire that also helps to keep it closer
+> to the server and contributes to the One Person Framework movement.  In this talk,
+> we will explore how the stateful model makes it different from similar technologies
+> and what optimisations the Phoenix team did to make it feel snappy and deliver a world-class UX
+
 ## Afterwards
 
 When the talks come to an end we'll decamp to a local pub for some food, some
