@@ -32,6 +32,14 @@ below](#july24registration).
 > How does an experienced programmer solve problems? It's simpler (and more
 > complicated) than you might think!
 
+## From Spaghetti to Lasagna: Layering your code with DDD
+
+[Lily Stoney](https://github.com/LilyStoney)
+
+> How to apply DDD to a monolithic codebase, the benefits and reasons why it can
+> be beneficial, and how the event storming process can make the process of
+> defining domain boundaries a simpler task!
+
 ## Afterwards
 
 After the talks are finished, and we've tidied up the venue a bit, we head over
