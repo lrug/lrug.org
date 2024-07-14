@@ -36,6 +36,8 @@ are given below](#june24registration).
 > technical and organisational tips, tricks and recommendations, that you might
 > find useful for your own teams and projects too.
 
+{::coverage year="2024" month="june" talk="things-ive-learned-maintaining-openstreetmap" /}
+
 ### LiveView: stateful, server-rendered HTML
 
 Yevhenii Kurtov says:
@@ -44,6 +46,9 @@ Yevhenii Kurtov says:
 > to the server and contributes to the One Person Framework movement.  In this talk,
 > we will explore how the stateful model makes it different from similar technologies
 > and what optimisations the Phoenix team did to make it feel snappy and deliver a world-class UX
+
+{::coverage year="2024" month="june" talk="liveview-stateful-server-rendered-html" /}
+
 
 ## Afterwards
 
