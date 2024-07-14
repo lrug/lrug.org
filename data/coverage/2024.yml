@@ -63,3 +63,12 @@ april:
     - type: video
       title: LRUG April 2024 - Frederick Cheung - What the Chernobyl disaster can teach us about incident response
       url: https://assets.lrug.org/videos/2024/april/frederick-cheung-what-the-chernobyl-disaster-can-teach-us-about-incident-response-lrug-apr-2024.mp4
+june:
+  things-ive-learned-maintaining-openstreetmap:
+    - type: video
+      title: "LRUG June 2024 - Andy Allan - Things I've learned maintaining OpenStreetMap"
+      url: https://assets.lrug.org/videos/2024/june/andy-allan-things-ive-learned-maintaining-openstreetmap-lrug-jun-2024.mp4
+  liveview-stateful-server-rendered-html:
+    - type: video
+      title: "LRUG June 2024 - Yevhenii Kurtov - LiveView: Stateful, server-rendered HTML"
+      url: https://assets.lrug.org/videos/2024/june/yevhenii-kurtov-liveview-stateful-server-rendered-html-lrug-jun-2024.mp4
