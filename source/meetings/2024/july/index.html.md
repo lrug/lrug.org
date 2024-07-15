@@ -32,13 +32,20 @@ below](#july24registration).
 > How does an experienced programmer solve problems? It's simpler (and more
 > complicated) than you might think!
 
-## From Spaghetti to Lasagna: Layering your code with DDD
+{::coverage year="2024" month="july" talk="that-smells-like-time" /}
 
-[Lily Stoney](https://github.com/LilyStoney)
+## Finding unused Ruby methods
 
-> How to apply DDD to a monolithic codebase, the benefits and reasons why it can
-> be beneficial, and how the event storming process can make the process of
-> defining domain boundaries a simpler task!
+[Joel Biffin](https://github.com/joelbiffin) says:
+
+> Whether code is safe to delete or not is a bit of a murky question in
+> Ruby - especially in untyped Ruby. Fear not though, as dangling unused
+> methods are a pretty safe place to start deleting things. Let's start there
+> and see where we get to.  Introducing [the Thanatos
+> gem](https://github.com/joelbiffin/thanatos) to help you find those unused
+> methods lurking in your code.
+
+{::coverage year="2024" month="july" talk="finding-unused-ruby-methods" /}
 
 ## Afterwards
 

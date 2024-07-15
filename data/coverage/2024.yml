@@ -72,3 +72,12 @@ june:
     - type: video
       title: "LRUG June 2024 - Yevhenii Kurtov - LiveView: Stateful, server-rendered HTML"
       url: https://assets.lrug.org/videos/2024/june/yevhenii-kurtov-liveview-stateful-server-rendered-html-lrug-jun-2024.mp4
+july:
+  that-smells-like-time:
+    - type: video
+      title: "LRUG July 2024 - fell sunderland - That smells like time"
+      url: https://assets.lrug.org/videos/2024/july/fell-sunderland-that-smells-like-time-lrug-jul-2024.mp4
+  finding-unused-ruby-methods:
+    - type: video
+      title: "LRUG July 2024 - Joel Biffin - Finding unused Ruby methods"
+      url: https://assets.lrug.org/videos/2024/july/joel-biffin-finding-unused-ruby-methods-lrug-jul-2024.mp4
