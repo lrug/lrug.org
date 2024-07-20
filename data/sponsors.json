@@ -958,5 +958,21 @@
         "height":"83"
       }
     }
+  },
+  {
+    "name": "The Electric Car Scheme",
+    "url": "https://www.electriccarscheme.com/careers",
+    "logo":{
+      "sidebar":{
+        "url":"https://assets.lrug.org/images/ecs-logo-small.png",
+        "width":"120",
+        "height":"38"
+      },
+      "main":{
+        "url":"https://assets.lrug.org/images/ecs-logo.png",
+        "width":"260",
+        "height":"83"
+      }
+    }
   }
 ]
