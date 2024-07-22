@@ -69,9 +69,8 @@ else come in your place.  We might be able to let in people on the night
 who haven't registered, but we can't guarantee it.
 
 - Car/Motorbike: There is parking outside the front of the building. If you have parked there, Please inform a member of The Electric Car Scheme who will be waiting by the reception and we'll register your car.
-- Electric Car: There are charging terminals in our parking facility. Please contact us* about this for further details
-- Bike: There is a secure cycle facility. Please contact us* prior to the event if you would like access to this.
-
+- Electric Car: There are charging terminals in our parking facility. Please [contact ECS](mailto:stefan.collier@electriccarscheme.com) about this for further details
+- Bike: There is a secure cycle facility. Please [contact ECS](mailto:stefan.collier@electriccarscheme.com) prior to the event if you would like access to this.
 
 #### Accessibility info for the venue
 
