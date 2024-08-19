@@ -71,10 +71,6 @@ else come in your place.  We might be able to let in people on the night
 who haven't registered, but we can't guarantee it.
 
 
-#### Accessibility info for the venue
-
-Below you can find all the accessibility info for Bloom & Wild's office:
-
 
 [bloom-and-wild-venue]: https://maps.app.goo.gl/hwJsYWtLBenK7L936
 [september2024-ticket-tailor]: https://buytickets.at/lrug/1357430
