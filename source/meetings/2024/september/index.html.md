@@ -72,6 +72,15 @@ The address of the venue:
 
 > Bloom and Wild<br/>Unit 301 Vox Studios<br/>1-45 Durham Street<br/>London<br/>SE11 5JH<br/><br/>[See on a map][bloom-and-wild-venue]
 
+Bloom and Wild are based in the West Tower as you enter the courtyard - [directions here](https://citymapper.com/go/o62yey67xs).
+
+There will likely be someone situated in the courtyard to direct people to the office and let them in but if not instructions on entering the building below:
+
+- When you arrive at the West Building (the one without the concierge / cafe), please call 301 on the keypad and someone will let you in.
+- Make your way to the lift (located up some small steps) and press 301 again in the keypad to the left of the lift doors.
+- Once in the lift, press level 3 and this will bring you to reception
+
+
 The venue has a hard limit of 50 people.  If you register and realise you
 can't come, please use tickettailor to give up your place so we can someone
 else come in your place.  We might be able to let in people on the night
@@ -81,7 +90,8 @@ who haven't registered, but we can't guarantee it.
 
 Below you can find all the accessibility info for Bloom & Wild's office:
 
-> We are on the top floor, there is stair and lift access. We have an open area with seating. Flat surface almost like a dancefloor area type.
+> For step-free access there are two lifts in the West Tower, one beside the stairs as you enter the building and the other to access the 3rd floor.
+> We also have an accessible toilet.
 
 [bloom-and-wild-venue]: https://maps.app.goo.gl/hwJsYWtLBenK7L936
 [september2024-ticket-tailor]: https://buytickets.at/lrug/1357430
