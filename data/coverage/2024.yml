@@ -59,6 +59,9 @@ april:
     - type: video
       title: LRUG April 2024 - Murray Steele - Do you want a flake with that?
       url: https://assets.lrug.org/videos/2024/april/murray-steele-do-you-want-a-flake-with-that-lrug-apr-2024.mp4
+    - type: transcript
+      title: Talks ∋ Do you want a flake with that?
+      url: http://h-lame.com/talks/do-you-want-a-flake-with-that/
   what-the-chernobyl-disaster-can-teach-us-about-incident-response:
     - type: video
       title: LRUG April 2024 - Frederick Cheung - What the Chernobyl disaster can teach us about incident response
