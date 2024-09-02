@@ -19,7 +19,7 @@ The September 2024 meeting of LRUG will be on Monday the 9th of September, from 
 to 8:00pm (meeting starts at 6:30pm).
 
 This time we're being hosted by the lovely folk at
-[Bloom & Wild](https://www.bloomandwild.com/careers) in [their offices][bloom-and-wild-venue], near Vauxhall. [Full venue and registration details are given
+[Bloom & Wild](https://www.bloomandwild.com/careers) in [their offices][bloom-and-wild-venue], near Vauxhall. They've also kindly agreed to provide pizza and drinks. [Full venue and registration details are given
 below](#september24registration).
 
 ## Agenda
