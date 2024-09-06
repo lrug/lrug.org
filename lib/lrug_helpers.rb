@@ -215,9 +215,9 @@ module LRUGHelpers
     content_part_exists?('hosted_by', page) || page.data.has_key?('hosted_by')
   end
 
-  def events_calender(site_url:)
+  def events_calendar(site_url:)
     calendar = Icalendar::Calendar.new
-     calendar.timezone do |timezone|
+    calendar.timezone do |timezone|
       timezone.tzid = 'Europe/London'
     end
     zone = ActiveSupport::TimeZone['Europe/London']
