@@ -18,10 +18,6 @@
     "to":"http://lists.lrug.org/listinfo.cgi/chat-lrug.org"
   },
   {
-    "from":"meeting-calendar",
-    "to":"https://www.google.com/calendar/ical/407h2dbfrht4g2jsm2m2veibu8@group.calendar.google.com/public/basic.ics"
-  },
-  {
     "from":"speaking",
     "to":"http://readme.lrug.org/#talks",
     "rules":"R=301,NC,NE,L"
