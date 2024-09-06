@@ -233,7 +233,6 @@ module LRUGHelpers
         event.dtstart = date.in_time_zone(zone).change(hour:18)
         event.dtend   = date.in_time_zone(zone).change(hour:20)
         event.summary   = "London Ruby User Group - #{title}"
-        event.location    = "London"
         event.url         = URI.join(site_url, page.url)
 
         if hosts.present?
