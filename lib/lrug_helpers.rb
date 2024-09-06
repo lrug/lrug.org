@@ -189,7 +189,7 @@ module LRUGHelpers
   end
 
   def meeting_calendar_link
-    %{<span class="calendar-link"><a href="/meeting-calendar"><img src="https://assets.lrug.org/images/calendar_down.gif" alt="Calendar subscription" loading="lazy"> Meeting Calendar</a></span>}
+    %{<span class="calendar-link"><a href="/meetings.ics"><img src="https://assets.lrug.org/images/calendar_down.gif" alt="Calendar subscription" loading="lazy"> Meeting Calendar</a></span>}
   end
 
   def indent_xml(indent, xml_string)
@@ -213,6 +213,46 @@ module LRUGHelpers
 
   def has_host?(page)
     content_part_exists?('hosted_by', page) || page.data.has_key?('hosted_by')
+  end
+
+  def events_calendar(site_url:)
+    calendar = Icalendar::Calendar.new
+    calendar.timezone do |timezone|
+      timezone.tzid = 'Europe/London'
+    end
+    zone = ActiveSupport::TimeZone['Europe/London']
+
+    all_meetings = meeting_pages
+
+    upcoming = all_meetings.take_while {|page| page.metadata[:page][:meeting_date] >= Date.today}
+    next_12 = all_meetings.drop(upcoming.length).take(12)
+
+    (upcoming + next_12).each do |page|
+      url = URI.join(site_url, page.url)
+      date = page.metadata[:page][:meeting_date]
+      title = page.metadata[:page][:title]
+      hosts  = page.metadata[:page][:hosted_by]
+
+      calendar.event do |event|
+        event.uid = "lrug-monthly-#{date.strftime('%Y-%m')}"
+        event.dtstart = date.in_time_zone(zone).change(hour:18)
+        event.dtend   = date.in_time_zone(zone).change(hour:20)
+        event.summary   = "London Ruby User Group - #{title}"
+        event.url         = URI.join(site_url, page.url)
+
+        if hosts.present?
+          hosted_by = "Hosted by: #{hosts.map {|h| h[:name]}.join(', ')}"
+        end
+
+        event.description = <<~DESC
+        London Ruby User Group - #{title}
+
+        #{hosted_by}
+        DESC
+      end
+    end
+
+    calendar
   end
 
   private

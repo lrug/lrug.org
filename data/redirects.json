@@ -19,7 +19,7 @@
   },
   {
     "from":"meeting-calendar",
-    "to":"https://www.google.com/calendar/ical/407h2dbfrht4g2jsm2m2veibu8@group.calendar.google.com/public/basic.ics"
+    "to":"/meetings.ics"
   },
   {
     "from":"speaking",
