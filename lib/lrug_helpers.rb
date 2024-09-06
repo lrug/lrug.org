@@ -222,7 +222,12 @@ module LRUGHelpers
     end
     zone = ActiveSupport::TimeZone['Europe/London']
 
-    meeting_pages.take(12).each do |page|
+    all_meetings = meeting_pages
+
+    upcoming = all_meetings.take_while {|page| page.metadata[:page][:meeting_date] >= Date.today}
+    next_12 = all_meetings.drop(upcoming.length).take(12)
+
+    (upcoming + next_12).each do |page|
       url = URI.join(site_url, page.url)
       date = page.metadata[:page][:meeting_date]
       title = page.metadata[:page][:title]
