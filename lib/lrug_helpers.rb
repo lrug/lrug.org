@@ -215,6 +215,42 @@ module LRUGHelpers
     content_part_exists?('hosted_by', page) || page.data.has_key?('hosted_by')
   end
 
+  def events_calender(site_url:)
+    calendar = Icalendar::Calendar.new
+     calendar.timezone do |timezone|
+      timezone.tzid = 'Europe/London'
+    end
+    zone = ActiveSupport::TimeZone['Europe/London']
+
+    meeting_pages.take(12).each do |page|
+      url = URI.join(site_url, page.url)
+      date = page.metadata[:page][:meeting_date]
+      title = page.metadata[:page][:title]
+      hosts  = page.metadata[:page][:hosted_by]
+
+      calendar.event do |event|
+        event.uid = "lrug-monthly-#{date.strftime('%Y-%m')}"
+        event.dtstart = date.in_time_zone(zone).change(hour:18)
+        event.dtend   = date.in_time_zone(zone).change(hour:20)
+        event.summary   = "London Ruby User Group - #{title}"
+        event.location    = "London"
+        event.url         = URI.join(site_url, page.url)
+
+        if hosts.present?
+          hosted_by = "Hosted by: #{hosts.map {|h| h[:name]}.join(', ')}"
+        end
+
+        event.description = <<~DESC
+        London Ruby User Group - #{title}
+
+        #{hosted_by}
+        DESC
+      end
+    end
+
+    calendar
+  end
+
   private
   def inline_content_render(content, fake_pathname, locals: {})
     # create a middleman filerenderer to do the work, the extension in

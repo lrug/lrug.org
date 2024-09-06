@@ -35,6 +35,9 @@ GEM
     hashie (3.6.0)
     i18n (1.6.0)
       concurrent-ruby (~> 1.0)
+    icalendar (2.10.2)
+      ice_cube (~> 0.16)
+    ice_cube (0.17.0)
     kramdown (2.4.0)
       rexml
     listen (3.0.8)
@@ -119,6 +122,7 @@ PLATFORMS
 DEPENDENCIES
   builder
   git
+  icalendar
   middleman
   nokogiri
   pry

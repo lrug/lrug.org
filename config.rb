@@ -50,6 +50,7 @@ end
 
 page '/.htaccess', layout: false
 page '/version.json', layout: false
+page '/meetings.ics', layout: false
 
 ready do
   sitemap.resources.
