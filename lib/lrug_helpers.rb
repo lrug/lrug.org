@@ -215,16 +215,23 @@ module LRUGHelpers
     content_part_exists?('hosted_by', page) || page.data.has_key?('hosted_by')
   end
 
+  def ical_time(datetime, timezone_identifier)
+    Icalendar::Values::DateTime.new(datetime, tzid: timezone_identifier)
+  end
+
   def events_calendar(site_url:)
     calendar = Icalendar::Calendar.new
+
+    timezone_identifier = "Europe/London"
+    zone = ActiveSupport::TimeZone["Europe/London"]
+
     calendar.timezone do |timezone|
-      timezone.tzid = 'Europe/London'
+      timezone.tzid = timezone_identifier
     end
-    zone = ActiveSupport::TimeZone['Europe/London']
 
     all_meetings = meeting_pages
 
-    upcoming = all_meetings.take_while {|page| page.metadata[:page][:meeting_date] >= Date.today}
+    upcoming = all_meetings.take_while { |page| page.metadata[:page][:meeting_date] >= Date.today}
     next_12 = all_meetings.drop(upcoming.length).take(12)
 
     (upcoming + next_12).each do |page|
@@ -234,11 +241,12 @@ module LRUGHelpers
       hosts  = page.metadata[:page][:hosted_by]
 
       calendar.event do |event|
-        event.uid = "lrug-monthly-#{date.strftime('%Y-%m')}"
-        event.dtstart = date.in_time_zone(zone).change(hour:18)
-        event.dtend   = date.in_time_zone(zone).change(hour:20)
-        event.summary   = "London Ruby User Group - #{title}"
-        event.url         = URI.join(site_url, page.url)
+        event.uid      = "lrug-monthly-#{date.strftime('%Y-%m')}"
+        event.dtstart  = ical_time(date.in_time_zone(zone).change(hour: 18), timezone_identifier)
+        event.dtend    = ical_time(date.in_time_zone(zone).change(hour: 20), timezone_identifier)
+        event.summary  = "London Ruby User Group - #{title}"
+        event.location = "London, UK"
+        event.url      = url
 
         if hosts.present?
           hosted_by = "Hosted by: #{hosts.map {|h| h[:name]}.join(', ')}"
