@@ -223,7 +223,7 @@ module LRUGHelpers
     calendar = Icalendar::Calendar.new
 
     timezone_identifier = "Europe/London"
-    zone = ActiveSupport::TimeZone["Europe/London"]
+    zone = ActiveSupport::TimeZone[timezone_identifier]
 
     calendar.timezone do |timezone|
       timezone.tzid = timezone_identifier
