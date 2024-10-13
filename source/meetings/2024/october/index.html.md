@@ -38,6 +38,23 @@ registration details are given below](#oct24registration).
 > the enshittification of the web and reclaim a bit of power from the massive
 > companies that own our online lives.
 
+### Plan to scale or plan to fail: an evidence-based approach for improving systems performance
+
+[Jade Dickinson](https://jadedickinson.com) is giving us a preview of her RubyConf 2024 talk:
+
+> In this talk, I will present a methodology for replicating most standard
+> Rails systems, for the purpose of load testing.
+>
+> You can use this to find out how your system performs with more traffic than
+> you currently encounter. This will be useful if you are on a Rails team that
+> is starting to see scaling challenges.
+>
+> At Theta Lake we operate at scale and are applying this methodology to
+> proactively find ways to bring down our server costs. You don’t want to leave
+> it until either your server costs soar out of control, or your entire system
+> is about to fail. By seeing into the future just a little bit, you can find
+> bottlenecks in your system and so find where you can improve its scalability.
+
 ## Afterwards
 
 When the talks come to an end we'll decamp to a local pub for some food, some
