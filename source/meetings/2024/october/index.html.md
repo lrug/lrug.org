@@ -30,9 +30,13 @@ registration details are given below](#oct24registration).
 
 [James Smith](https://mastodon.me.uk/@Floppy) says:
 
-> ActivityPub is the protocol that powers the Fediverse, a web of social sites like Mastodon, PixelFed, and a host of other free and open source tools. I’ll explain what ActivityPub is, how it works, and discuss the Federails Rails engine which allows you to add federation into your existing Rails web apps.
-> By breaking open the silos of existing social media like this, we can fight the enshittification of the web and reclaim a bit of power from the massive companies that own our online lives. 
-
+> ActivityPub is the protocol that powers the Fediverse, a web of social sites
+> like Mastodon, PixelFed, and a host of other free and open source tools. I’ll
+> explain what ActivityPub is, how it works, and discuss the Federails Rails
+> engine which allows you to add federation into your existing Rails web apps.
+> By breaking open the silos of existing social media like this, we can fight
+> the enshittification of the web and reclaim a bit of power from the massive
+> companies that own our online lives.
 
 ## Afterwards
 
