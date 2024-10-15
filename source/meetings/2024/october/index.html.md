@@ -38,6 +38,16 @@ registration details are given below](#oct24registration).
 > the enshittification of the web and reclaim a bit of power from the massive
 > companies that own our online lives.
 
+Useful links:
+
+* Slides: [Fighting Enshittification with ActivityPub](https://floppy.org.uk/activitypub-talk/)
+* Gems that were useful for (or built for) this project:
+  * [Federails](https://gitlab.com/experimentslabs/federails), a Rails engine to add ActivityPub to your app
+  * [Caber](https://github.com/manyfold3d/caber), a simple [ReBAC](https://en.wikipedia.org/wiki/Relationship-based_access_control) / Zanzibar gem
+  * [Mittsu](github.com/danini-the-panini/mittsu), a Ruby port of Three.js
+* And the reason behind all this: [Manyfold](https://manyfold.app), a Rails app for managing and sharing 3d models
+
+
 ### Plan to scale or plan to fail: an evidence-based approach for improving systems performance
 
 [Jade Dickinson](https://jadedickinson.com) is giving us a preview of her RubyConf 2024 talk:
