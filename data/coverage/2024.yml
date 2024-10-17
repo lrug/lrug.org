@@ -87,3 +87,12 @@ july:
     - type: video
       title: "LRUG July 2024 - Joel Biffin - Finding unused Ruby methods"
       url: https://assets.lrug.org/videos/2024/july/joel-biffin-finding-unused-ruby-methods-lrug-jul-2024.mp4
+september:
+  from-spaghetti-to-lasagna-layering-your-code-with-ddd:
+    - type: video
+      title: "LRUG September 2024 - Lily Stoney - From Spaghetti to Lasagna Layering your code with DDD"
+      url: https://assets.lrug.org/videos/2024/september/lily-stoney-from-spaghetti-to-lasagna-layering-your-code-with-ddd-lrug-sep-2024.mp4
+  rachel-bingham-b-and-w-rewards-domains-events-and-ledgers:
+    - type: video
+      title: "LRUG September 2024 - Rachel Bingham - B&W Rewards - Domains, Events & Ledgers"
+      url: https://assets.lrug.org/videos/2024/september/rachel-bingham-b-and-w-rewards-domains-events-and-ledgers-lrug-sep-2024.mp4

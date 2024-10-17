@@ -32,6 +32,8 @@ below](#september24registration).
 > Starting from event storming with stakeholders and technical planning across squads to clear domain boundaries to  
 > how we used an event bus and agnostic accounting system to keep things clear, concise and extendable.
 
+{::coverage year="2024" month="september" talk="rachel-bingham-b-and-w-rewards-domains-events-and-ledgers" /}
+
 ### From Spaghetti to Lasagna: Layering your code with DDD
 
 [Lily Stoney](https://github.com/LilyStoney)
@@ -39,6 +41,8 @@ below](#september24registration).
 > How to apply DDD to a monolithic codebase, the benefits and reasons why it can
 > be beneficial, and how the event storming process can make the process of
 > defining domain boundaries a simpler task!
+
+{::coverage year="2024" month="september" talk="from-spaghetti-to-lasagna-layering-your-code-with-ddd" /}
 
 ## Afterwards
 
