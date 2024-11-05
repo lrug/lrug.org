@@ -96,3 +96,9 @@ september:
     - type: video
       title: "LRUG September 2024 - Rachel Bingham - B&W Rewards - Domains, Events & Ledgers"
       url: https://assets.lrug.org/videos/2024/september/rachel-bingham-b-and-w-rewards-domains-events-and-ledgers-lrug-sep-2024.mp4
+october:
+  fighting-enshittification-with-activity-pub:
+    - type: video
+      title: "LRUG October 2024 - James Smith - Fighting Enshittification with ActivityPub"
+      url: https://assets.lrug.org/videos/2024/october/james-smith-fighting-enshittification-with-activity-pub-lrug-oct-2024.mp4
+
