@@ -38,6 +38,9 @@ registration details are given below](#oct24registration).
 > the enshittification of the web and reclaim a bit of power from the massive
 > companies that own our online lives.
 
+{::coverage year="2024" month="october" talk="fighting-enshittification-with-activity-pub" /}
+
+
 ### Plan to scale or plan to fail: an evidence-based approach for improving systems performance
 
 [Jade Dickinson](https://jadedickinson.com) is giving us a preview of her RubyConf 2024 talk:
