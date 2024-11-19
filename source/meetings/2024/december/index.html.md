@@ -38,6 +38,14 @@ Adam Dawkins says:
 
 {::coverage year="2024" month="december" talk="saving-my-relationship-with-rails" /}
 
+### Mistakes Were Made: Lessons from Failure
+
+[Clem Capel-Bird](https://www.linkedin.com/in/clemcapelbird/) says:
+
+> This is a story of failure: the things I broke delivering a big project, the
+> lessons those mistakes taught me, and why breaking things can be an
+> engineer’s best tool for learning.
+
 ## Afterwards
 
 When the talks come to an end we'll move to a nearby pub for some food, some
@@ -59,7 +67,8 @@ attendees.
 Our hosts have limited space so you to be guaranteed entry **[you need to
 register for a free ticket via TicketTailor][december2024-ticket-tailor]**.
 
-**Note**: as part of attending this month you will also need to sign an NDA from our hosts, Intercom.
+**Note**: as part of attending this month you will also need to agree to an NDA
+provided by our hosts, Intercom.
 
 ### Venue
 
