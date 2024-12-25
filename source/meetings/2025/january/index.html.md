@@ -59,7 +59,7 @@ Our hosts have limited space so you to be guaranteed entry **[you need to
 register for a free ticket via TicketTailor][january2025-ticket-tailor]**.
 
 **Note**: as part of attending this month you will also need to agree to an NDA
-provided by our hosts, Intercom.
+provided by our hosts, Canva.
 
 ### Venue
 
