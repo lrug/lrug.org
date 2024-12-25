@@ -74,4 +74,4 @@ ticket so someone else can come in your place.  We might be able to let in
 people on the night who haven't registered, but we can't guarantee it.
 
 [canva-venue]: https://maps.app.goo.gl/wZc9ZrChcZs8Gbba9
-[january2024-ticket-tailor]: https://buytickets.at/lrug/1510146
+[january2025-ticket-tailor]: https://buytickets.at/lrug/1510146
