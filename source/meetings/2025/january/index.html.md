@@ -34,7 +34,7 @@ registration details are given below](#jan25registration).
 
 ### You?
 
-We've secured a venue, but now we need content - could it be you?  How about some of these ideas:
+We've secured a venue, and have one talk, but there's always space for more - could it be you?  How about some of these ideas:
 
 * What's new in [ruby 3.4](https://docs.ruby-lang.org/en/master/NEWS_md.html)
 * What's new in [rails 8.0](https://guides.rubyonrails.org/8_0_release_notes.html)
