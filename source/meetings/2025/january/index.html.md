@@ -25,6 +25,13 @@ registration details are given below](#jan25registration).
 
 ## Agenda
 
+### Shape-up: the best parts
+
+[Pablo Dejuan Calzolari](https://www.pablo.pm/) says:
+
+> A talk about the 37 signals famous methodology and how we apply to 8 teams of
+> development which work in Ruby on Rails.
+
 ### You?
 
 We've secured a venue, but now we need content - could it be you?  How about some of these ideas:
