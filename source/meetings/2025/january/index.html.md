@@ -16,7 +16,7 @@ meeting_date: 2025-01-13
 
 ---
 
-The January 2024 meeting of LRUG will be on Monday the 13th of
+The January 2025 meeting of LRUG will be on Monday the 13th of
 January, from 6:00pm to 8:00pm (meeting starts at 6:30pm).
 
 This month we're hosted by the lovely folk at [Canva](https://www.canva.com/)
