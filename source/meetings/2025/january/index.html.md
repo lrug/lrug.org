@@ -16,7 +16,7 @@ meeting_date: 2025-01-13
 
 ---
 
-The January 2024 meeting of LRUG will be on Monday the 13th of
+The January 2025 meeting of LRUG will be on Monday the 13th of
 January, from 6:00pm to 8:00pm (meeting starts at 6:30pm).
 
 This month we're hosted by the lovely folk at [Canva](https://www.canva.com/)
@@ -32,9 +32,18 @@ registration details are given below](#jan25registration).
 > A talk about the 37 signals famous methodology and how we apply to 8 teams of
 > development which work in Ruby on Rails.
 
+### They're not right, you're not wrong
+
+[Yevhenii Kurtov](https://www.linkedin.com/in/kurtov/) says:
+
+> We are going to look into the essence of what DDD is and why it came to
+> be in plain English, without any consultant lingo. We will also
+> evaluate its advantages, indicators of the possibility of successful
+> adoption, and reasons to do so.
+
 ### You?
 
-We've secured a venue, and have one talk, but there's always space for more - could it be you?  How about some of these ideas:
+We've secured a venue, and have two talks, but there's still space for a 10 minute talk. Could it be you?  How about some of these ideas:
 
 * What's new in [ruby 3.4](https://docs.ruby-lang.org/en/master/NEWS_md.html)
 * What's new in [rails 8.0](https://guides.rubyonrails.org/8_0_release_notes.html)
