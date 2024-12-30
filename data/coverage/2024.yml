@@ -101,4 +101,18 @@ october:
     - type: video
       title: "LRUG October 2024 - James Smith - Fighting Enshittification with ActivityPub"
       url: https://assets.lrug.org/videos/2024/october/james-smith-fighting-enshittification-with-activity-pub-lrug-oct-2024.mp4
-
+    - type: slides
+      url: https://floppy.org.uk/activitypub-talk/
+      title: 'Fighting Enshittification with ActivityPub - Slides'
+    - type: code
+      url: https://gitlab.com/experimentslabs/federails
+      title: "Federails, a Rails engine to add ActivityPub to your app"
+    - type: code
+      url: https://github.com/manyfold3d/caber
+      title: Caber, a simple ReBAC / Zanzibar gem
+    - type: code
+      url: https://github.com/danini-the-panini/mittsu
+      title: Mittsu, a Ruby port of Three.js
+    - type: link
+      url: https://manyfold.app
+      title: "And the reason behind all this: Manyfold, a Rails app for managing and sharing 3d models"
