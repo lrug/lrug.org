@@ -116,3 +116,12 @@ october:
     - type: link
       url: https://manyfold.app
       title: "And the reason behind all this: Manyfold, a Rails app for managing and sharing 3d models"
+december:
+  saving-my-relationship-with-rails:
+    - type: video
+      title: "LRUG December 2024 - Adam Dawkins - Saving My Relationship with Rails"
+      url: https://assets.lrug.org/videos/2024/december/adam-dawkins-saving-my-relationship-with-rails-lrug-dec-2024.mp4
+  mistakes-were-made-lessons-from-failure:
+    - type: video
+      title: "LRUG December 2024 - Clem Capel-Bird - Mistakes Were Made: Lessons From Failure"
+      url: https://assets.lrug.org/videos/2024/december/clem-capel-bird-mistakes-were-made-lessons-from-failure-lrug-dec-2024.mp4

@@ -46,6 +46,8 @@ Adam Dawkins says:
 > lessons those mistakes taught me, and why breaking things can be an
 > engineer’s best tool for learning.
 
+{::coverage year="2024" month="december" talk="mistakes-were-made-lessons-from-failure" /}
+
 ## Afterwards
 
 When the talks come to an end we'll move to a nearby pub for some food, some
