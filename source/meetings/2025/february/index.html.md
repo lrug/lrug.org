@@ -30,7 +30,13 @@ Victoria St. [Full venue and registration details are given below](#feb25registr
 Our February meeting is our annual event devoted to short talks of no more
 than 10 minutes.
 
-We have space for 8 talks, and it is our most popular event of the year. So, if you have been on the fence about giving a talk, there is no better opportunity than this. To put yourself on the map, email us at [talks@lrug.org](mailto:talks@lrug.org)
+We have space for 7 more talks, and it is our most popular event of the year. So, if you have been on the fence about giving a talk, there is no better opportunity than this. To put yourself on the map, email us at [talks@lrug.org](mailto:talks@lrug.org)
+
+### AI tools for programmers
+
+[fell sunderland](https://www.fellsunder.land/) says:
+
+> Why I don't use AI programming tools, and I don't think you should either.
 
 ## Afterwards
 
