@@ -38,6 +38,13 @@ We have space for 7 more talks, and it is our most popular event of the year. So
 
 > Why I don't use AI programming tools, and I don't think you should either.
 
+### Why our schema files kept changing
+
+David Lantos says:
+
+> Tale of an investigation why a local db:schema:load would change our
+> db/schema.rb for seemingly no reason. Spoiler: varchar index
+
 ## Afterwards
 
 When the talks come to an end we'll decamp to a local pub for some food, some
