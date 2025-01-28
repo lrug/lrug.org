@@ -42,8 +42,8 @@ We have space for 7 more talks, and it is our most popular event of the year. So
 
 David Lantos says:
 
-> Tale of an investigation why a local db:schema:load would change our
-> db/schema.rb for seemingly no reason. Spoiler: varchar index
+> Tale of an investigation why a local `db:schema:load` would change our
+> `db/schema.rb` for seemingly no reason. Spoiler: varchar index
 
 ### 10 years of RSpec in 10 minutes
 
