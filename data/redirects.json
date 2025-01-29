@@ -22,6 +22,10 @@
     "to":"/meetings.ics"
   },
   {
+    "from":"intro-slides",
+    "to": "https://docs.google.com/presentation/d/10ENU2EY61-x8aKIObseYIXUKa-0tXw_StKjdMn1-go0"
+  },
+  {
     "from":"speaking",
     "to":"http://readme.lrug.org/#talks",
     "rules":"R=301,NC,NE,L"
