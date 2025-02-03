@@ -30,7 +30,7 @@ Victoria St. [Full venue and registration details are given below](#feb25registr
 Our February meeting is our annual event devoted to short talks of no more
 than 10 minutes.
 
-We have space for 7 more talks, and it is our most popular event of the year. So, if you have been on the fence about giving a talk, there is no better opportunity than this. To put yourself on the map, email us at [talks@lrug.org](mailto:talks@lrug.org)
+We have space for 4 more talks, and it is our most popular event of the year. So, if you have been on the fence about giving a talk, there is no better opportunity than this. To put yourself on the map, email us at [talks@lrug.org](mailto:talks@lrug.org)
 
 ### AI tools for programmers
 
@@ -50,6 +50,14 @@ David Lantos says:
 [Jon Rowe](https://jonrowe.co.uk) will share:
 
 > a brief look into the history of [RSpec](https://rspec.info) and a glance into the future.
+
+### Rails 8 + AI = Happy Life for Lazy Engineer to Create a Walking Skeleton
+
+[Zhiqiang Bian](https://www.linkedin.com/in/zhiqiang-bian/) says:
+
+> In this talk, I’ll explore how Rails 8, combined with AI-assisted
+> tools, can help engineers rapidly spin up a walking skeleton—a minimal
+> yet functional end-to-end system—with minimal effort.
 
 ## Afterwards
 
