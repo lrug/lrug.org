@@ -51,6 +51,14 @@ David Lantos says:
 
 > a brief look into the history of [RSpec](https://rspec.info) and a glance into the future.
 
+### Rails 8 + AI = Happy Life for Lazy Engineer to Create a Walking Skeleton
+
+[Zhiqiang Bian](https://www.linkedin.com/in/zhiqiang-bian/) says:
+
+> In this talk, I’ll explore how Rails 8, combined with AI-assisted
+> tools, can help engineers rapidly spin up a walking skeleton—a minimal
+> yet functional end-to-end system—with minimal effort.
+
 ## Afterwards
 
 When the talks come to an end we'll decamp to a local pub for some food, some
