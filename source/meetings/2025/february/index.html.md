@@ -53,7 +53,7 @@ David Lantos says:
 
 ### Rails 8 + AI = Happy Life for Lazy Engineer to Create a Walking Skeleton
 
-[Zhiqiang Bian](https://www.linkedin.com/in/zhiqiang-bian/) says:
+Zhiqiang Bian says:
 
 > In this talk, I’ll explore how Rails 8, combined with AI-assisted
 > tools, can help engineers rapidly spin up a walking skeleton—a minimal
