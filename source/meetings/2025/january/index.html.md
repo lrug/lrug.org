@@ -32,6 +32,8 @@ registration details are given below](#jan25registration).
 > A talk about the 37 signals famous methodology and how we apply to 8 teams of
 > development which work in Ruby on Rails.
 
+{::coverage year="2025" month="january" talk="shape-up-the-best-parts" /}
+
 ### They're not right, you're not wrong
 
 [Yevhenii Kurtov](https://www.linkedin.com/in/kurtov/) says:
@@ -40,6 +42,8 @@ registration details are given below](#jan25registration).
 > be in plain English, without any consultant lingo. We will also
 > evaluate its advantages, indicators of the possibility of successful
 > adoption, and reasons to do so.
+
+{::coverage year="2025" month="january" talk="they-re-not-right-you-re-not-wrong" /}
 
 ### You?
 
