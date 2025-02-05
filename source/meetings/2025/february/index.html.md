@@ -30,7 +30,7 @@ Victoria St. [Full venue and registration details are given below](#feb25registr
 Our February meeting is our annual event devoted to short talks of no more
 than 10 minutes.
 
-We have space for 4 more talks, and it is our most popular event of the year. So, if you have been on the fence about giving a talk, there is no better opportunity than this. To put yourself on the map, email us at [talks@lrug.org](mailto:talks@lrug.org)
+We have space for 3 more talks, and it is our most popular event of the year. So, if you have been on the fence about giving a talk, there is no better opportunity than this. To put yourself on the map, email us at [talks@lrug.org](mailto:talks@lrug.org)
 
 ### AI tools for programmers
 
@@ -58,6 +58,18 @@ Zhiqiang Bian says:
 > In this talk, I’ll explore how Rails 8, combined with AI-assisted
 > tools, can help engineers rapidly spin up a walking skeleton—a minimal
 > yet functional end-to-end system—with minimal effort.
+
+### Never Say, Never Say Die!
+
+[Eleanor McHugh](https://slideshare.net/feyeleanor) says:
+
+> Ruby is a high-level language, and there's a general assumption that
+> it's ill-suited to low-level shenanigans. But is this true?
+>
+> In this lightning talk I'll introduce some basic Ruby tools for
+> accessing low-level system features, concentrating on *nix platforms,
+> and see if it's possible to replicate tenderlove's Never Say Die gem
+> for recovering from segfaults.
 
 ## Afterwards
 
