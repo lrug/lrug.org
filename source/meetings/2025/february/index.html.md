@@ -59,6 +59,18 @@ Zhiqiang Bian says:
 > tools, can help engineers rapidly spin up a walking skeleton—a minimal
 > yet functional end-to-end system—with minimal effort.
 
+### Never Say, Never Say Die!
+
+[Eleanor McHugh](https://slideshare.net/feyeleanor) says:
+
+> Ruby is a high-level language, and there's a general assumption that
+> it's ill-suited to low-level shenanigans. But is this true?
+>
+> In this lightning talk I'll introduce some basic Ruby tools for
+> accessing low-level system features, concentrating on *nix platforms,
+> and see if it's possible to replicate tenderlove's Never Say Die gem
+> for recovering from segfaults.
+
 ## Afterwards
 
 When the talks come to an end we'll decamp to a local pub for some food, some
