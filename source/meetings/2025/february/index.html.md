@@ -78,7 +78,7 @@ Jaehurn Nam says:
 > How we refactored Intercom's conversation tagging service to not fake
 > tag and made customers happy.
 
-### Beyond current state: capturing how and why things happened
+### Beyond current state: capturing how and why things changed
 
 [Yevhenii Kurtov](https://kurtov.pro/) says:
 
