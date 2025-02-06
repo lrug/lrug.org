@@ -71,14 +71,12 @@ Zhiqiang Bian says:
 > and see if it's possible to replicate tenderlove's Never Say Die gem
 > for recovering from segfaults.
 
-### Self-Assessing against the Web Sustainability Guidelines
+### The tags tale
 
-[James Smith](https://floppy.org.uk) says:
+Jaehurn Nam says:
 
-> Sustainability is important, but it's also hard, especially when
-> building web projects. How do you know you're doing it right? This
-> quick talk will explain a tool I made for self-assessments against the
-> Web Sustainability Guidelines, which you can use too!
+> How we refactored Intercom's conversation tagging service to not fake
+> tag and made customers happy.
 
 ### Beyond current state: capturing how and why things happened
 
