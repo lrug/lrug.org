@@ -73,7 +73,7 @@ Zhiqiang Bian says:
 
 ### The tags tale
 
-Jaehurn Nam says:
+[Jaehurn Nam](https://www.linkedin.com/in/jaehurnnam/) says:
 
 > How we refactored Intercom's conversation tagging service to not fake
 > tag and made customers happy.
