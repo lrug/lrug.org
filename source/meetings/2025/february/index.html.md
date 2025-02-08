@@ -85,6 +85,15 @@ Zhiqiang Bian says:
 > Introduction into managing state for objects with complex lifecycle
 > when auditability is a must.
 
+### Self-Assessing against the Web Sustainability Guidelines
+
+[James Smith](https://floppy.org.uk) says:
+
+> Sustainability is important, but it's also hard, especially when
+> building web projects. How do you know you're doing it right? This
+> quick talk will explain a tool I made for self-assessments against the
+> Web Sustainability Guidelines, which you can use too!
+
 ## Afterwards
 
 When the talks come to an end we'll decamp to a local pub for some food, some
