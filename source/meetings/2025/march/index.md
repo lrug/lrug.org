@@ -30,6 +30,11 @@ Please get in touch if you can offer your space. You can still [register below](
 
 > A review on what makes OOP such an effective paradigm to work in, followed by a critical discussion on some of the newer design trends in the Ruby space. We will discuss the concerns of relying too heavily on these patterns, and alternative approaches.
 
+### Unlocking the Awesome Power of Refactoring at Work
+
+[Hemal Varambhia](https://github.com/hemalvarambhia) says:
+
+> In this talk, I recount and discuss how I refactored some legacy ruby code using the Simple Design Dynamo and ideas from "Tidy First" to make it more agile, and then, using Domain-Driven Design, take that agility to the next level.
 
 ## Afterwards
 
