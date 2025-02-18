@@ -10,11 +10,11 @@ title: March 2025 Meeting
 created_at: 2025-02-14 16:00:00 +0000
 published_at: 2025-02-14 16:00:00 +0000
 status: Published
-meeting_date: 2025-03-09
+meeting_date: 2025-03-10
 
 ---
 
-The March 2025 meeting of LRUG will be on Monday the 9th of
+The March 2025 meeting of LRUG will be on Monday the 10th of
 March, from 6:00pm to 8:00pm (meeting starts at 6:30pm).
 
 **We don't have a host yet!**
