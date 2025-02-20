@@ -990,5 +990,21 @@
         "height":"83"
       }
     }
+  },
+  {
+    "name": "Explore Group",
+    "url": "https://uk.linkedin.com/company/explore-group",
+    "logo":{
+      "sidebar":{
+        "url":"https://assets.lrug.org/images/explore_group_logo.jpg",
+        "width":"100",
+        "height":"100"
+      },
+      "main":{
+        "url":"https://assets.lrug.org/images/explore_group_logo.jpg",
+        "width":"100",
+        "height":"100"
+      }
+    }
   }
 ]

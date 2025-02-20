@@ -10,6 +10,8 @@ title: March 2025 Meeting
 created_at: 2025-02-14 16:00:00 +0000
 published_at: 2025-02-14 16:00:00 +0000
 status: Published
+hosted_by:
+  - :name: Explore Group
 meeting_date: 2025-03-10
 
 ---
@@ -17,9 +19,9 @@ meeting_date: 2025-03-10
 The March 2025 meeting of LRUG will be on Monday the 10th of
 March, from 6:00pm to 8:00pm (meeting starts at 6:30pm).
 
-**We don't have a host yet!**
-
-Please get in touch if you can offer your space. You can still [register below](#march25registration).
+This month we're hosted by the lovely folk at [Explore Group](https://www.explore-group.com/)
+in [their offices][explore-venue], near Aldgate. [Full venue and
+registration details are given below](#march25registration).
 
 ## Agenda
 
@@ -58,6 +60,19 @@ Hopefully you all remember that physical meetings involve finite space and so to
 
 ### Venue
 
-TBD - please get in touch if you can help
+The address of the venue:
+
+> Explore Group<br/>Portsoken house<br/>155-157 Minories<br/>London<br/>EC3N 1LJ<br/><br/>[See on a map]
+[explore-venue]
+
+The venue has a hard limit of 60 people. If you register and realise you can't come, please use TicketTailor to give up your
+ticket so someone else can come in your place.  We might be able to let in
+people on the night who haven't registered, but we can't guarantee it.
+
+
+#### Accessibility info for the venue
+
+There are a small number of steps to enter the building and then a lift to the 3rd floor.
 
 [march2025-ticket-tailor]: https://buytickets.at/lrug/1592436
+[explore-venue]: https://maps.app.goo.gl/D5jPocuyqgJqVEw27
