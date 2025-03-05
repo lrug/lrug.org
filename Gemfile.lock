@@ -104,7 +104,7 @@ GEM
     padrino-support (0.15.3)
     parallel (1.26.3)
     parslet (2.0.0)
-    pry (0.13.1)
+    pry (0.15.2)
       coderay (~> 1.1)
       method_source (~> 1.0)
     public_suffix (5.0.0)
@@ -144,7 +144,7 @@ DEPENDENCIES
   pry
 
 RUBY VERSION
-   ruby 2.7.2p137
+   ruby 3.4.2p28
 
 BUNDLED WITH
-   2.1.4
+   2.6.5
