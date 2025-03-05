@@ -1,5 +1,5 @@
 source 'https://www.rubygems.org'
-ruby '~> 2.7'
+ruby file: '.ruby-version'
 
 gem 'middleman'
 
