@@ -19,7 +19,8 @@ require 'lib/lrug_extended_kramdown'
 # of the actual data we want.
 Kramdown::Parser::LRUGExtendedKramdown.sponsors = @app.data.sponsors
 Kramdown::Parser::LRUGExtendedKramdown.coverage = @app.data.coverage
-set :markdown, input: 'LRUGExtendedKramdown'
+set :markdown_engine, :kramdown
+set :markdown, smartypants: true, input: 'LRUGExtendedKramdown'
 
 # get our kramdown renderer extensions
 # NOTE: this just extends the default middleman kramdown renderer because
