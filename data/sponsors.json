@@ -1006,5 +1006,21 @@
         "height":"100"
       }
     }
+  },
+  {
+    "name": "Board Intelligence",
+    "url": "https://www.boardintelligence.com/careers",
+    "logo":{
+      "sidebar":{
+        "url":"https://assets.lrug.org/images/board_intelligence_logo.jpg",
+        "width":"100",
+        "height":"100"
+      },
+      "main":{
+        "url":"https://assets.lrug.org/images/board_intelligence_logo.jpg",
+        "width":"100",
+        "height":"100"
+      }
+    }
   }
 ]
