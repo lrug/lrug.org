@@ -25,7 +25,22 @@ registration details are given below](#april25registration).
 
 ## Agenda
 
-### Talks needed!
+### From React to Hotwire – An Unexpected Journey
+
+[Maciej Korsan](https://www.linkedin.com/in/maciejkorsan/) says:
+
+> For years, React has been the go-to choice for building frontend applications
+> — but is it always the best solution? In this talk, I’ll share my journey from
+> working extensively with React to discovering Hotwire, a radically different
+> approach that enables dynamic applications without heavy JavaScript or complex
+> state management.
+>
+> Rather than a theoretical comparison, I’ll walk through real-world examples,
+> demonstrating how I’ve implemented interactive features using Hotwire. I’ll
+> also discuss my experiences, the challenges I faced, and some surprising
+> discoveries along the way.
+
+### At least 1 more talk needed!
 
 [You](mailto:talks@lrug.org), maybe?
 
