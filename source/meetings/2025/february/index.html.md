@@ -38,6 +38,8 @@ We have space for at least 1 more talk, and it is our most popular event of the 
 
 > Why I don't use AI programming tools, and I don't think you should either.
 
+{::coverage year="2025" month="february" talk="ai-tools-for-programmers" /}
+
 ### Why our schema files kept changing
 
 David Lantos says:
@@ -45,11 +47,15 @@ David Lantos says:
 > Tale of an investigation why a local `db:schema:load` would change our
 > `db/schema.rb` for seemingly no reason. Spoiler: varchar index
 
+{::coverage year="2025" month="february" talk="why-our-schema-files-kept-changing" /}
+
 ### 10 years of RSpec in 10 minutes
 
 [Jon Rowe](https://jonrowe.co.uk) will share:
 
 > a brief look into the history of [RSpec](https://rspec.info) and a glance into the future.
+
+{::coverage year="2025" month="february" talk="10-years-of-rspec-in-10-minutes" /}
 
 ### Rails 8 + AI = Happy Life for Lazy Engineer to Create a Walking Skeleton
 
@@ -59,7 +65,9 @@ Zhiqiang Bian says:
 > tools, can help engineers rapidly spin up a walking skeleton—a minimal
 > yet functional end-to-end system—with minimal effort.
 
-### Never Say, Never Say Die!
+{::coverage year="2025" month="february" talk="rails-8-ai-happy-life-for-lazy-engineer" /}
+
+### Never say, "Never say die!"
 
 [Eleanor McHugh](https://slideshare.net/feyeleanor) says:
 
@@ -71,12 +79,16 @@ Zhiqiang Bian says:
 > and see if it's possible to replicate tenderlove's Never Say Die gem
 > for recovering from segfaults.
 
-### The tags tale
+{::coverage year="2025" month="february" talk="never-say-never-say-die" /}
+
+### The tag tale
 
 [Jaehurn Nam](https://www.linkedin.com/in/jaehurnnam/) says:
 
 > How we refactored Intercom's conversation tagging service to not fake
 > tag and made customers happy.
+
+{::coverage year="2025" month="february" talk="the-tag-tale" /}
 
 ### Beyond current state: capturing how and why things changed
 
@@ -84,6 +96,8 @@ Zhiqiang Bian says:
 
 > Introduction into managing state for objects with complex lifecycle
 > when auditability is a must.
+
+{::coverage year="2025" month="february" talk="beyond-current-state-capturing-how-and-why-things-changed" /}
 
 ### Self-Assessing against the Web Sustainability Guidelines
 
@@ -93,6 +107,8 @@ Zhiqiang Bian says:
 > building web projects. How do you know you're doing it right? This
 > quick talk will explain a tool I made for self-assessments against the
 > Web Sustainability Guidelines, which you can use too!
+
+{::coverage year="2025" month="february" talk="self-assessing-against-the-web-sustainability-guidelines" /}
 
 ## Afterwards
 
