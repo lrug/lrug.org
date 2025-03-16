@@ -8,3 +8,36 @@ january:
     - type: video
       title: LRUG January 2025 - Yevhenii Kurtov - They're not right, you're not wrong
       url: https://assets.lrug.org/videos/2025/january/yevhenii-kurtov-they-re-not-right-you-re-not-wrong-jan-2025.mp4
+february:
+  10-years-of-rspec-in-10-minutes:
+    - type: video
+      title: LRUG February 2025 - Jon Rowe - 10 years of RSpec in 10 minutes
+      url: https://assets.lrug.org/videos/2025/february/jon-rowe-10-years-of-rspec-in-10-minutes-lrug-feb-2025.mp4
+  ai-tools-for-programmers:
+    - type: video
+      title: LRUG February 2025 - fell sunderland - AI tools for programmers
+      url: https://assets.lrug.org/videos/2025/february/fell-sunderland-ai-tools-for-programmers-lrug-feb-2025.mp4
+  beyond-current-state-capturing-how-and-why-things-changed:
+    - type: video
+      title: "LRUG February 2025 - Yevhenii Kurtov - Beyond current state: Capturing how and why things changed"
+      url: https://assets.lrug.org/videos/2025/february/yevhenii-kurtov-beyond-current-state-capturing-how-and-why-things-changed-lrug-feb-2025.mp4
+  never-say-never-say-die:
+    - type: video
+      title: LRUG February 2025 - Eleanor McHugh - Never say, "Never say die!"
+      url: https://assets.lrug.org/videos/2025/february/eleanor-mchugh-never-say-never-say-die-lrug-feb-2025.mp4
+  rails-8-ai-happy-life-for-lazy-engineer:
+    - type: video
+      title: LRUG February 2025 - Zhiqiang Bian - Rails 8 + AI = Happy life for lazy engineer
+      url: https://assets.lrug.org/videos/2025/february/zhiqiang-bian-rails-8-ai-happy-life-for-lazy-engineer-lrug-feb-2025.mp4
+  self-assessing-against-the-web-sustainability-guidelines:
+    - type: video
+      title: LRUG February 2025 - James Smith - Self-assessing against the Web Sustainability Guidelines
+      url: https://assets.lrug.org/videos/2025/february/james-smith-self-assessing-against-the-web-sustainability-guidelines-lrug-feb-2025.mp4
+  the-tag-tale:
+    - type: video
+      title: LRUG February 2025 - Jaehurn Nam - The Tag Tale
+      url: https://assets.lrug.org/videos/2025/february/jaehurn-nam-the-tag-tale-lrug-feb-2025.mp4
+  why-our-schema-files-kept-changing:
+    - type: video
+      title: LRUG February 2025 - David Lantos - Why our schema files kept changing
+      url: https://assets.lrug.org/videos/2025/february/david-lantos-why-our-schema-files-kept-changing-lrug-feb-2025.mp4
