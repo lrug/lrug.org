@@ -47,8 +47,9 @@ GEM
     hashie (5.0.0)
     i18n (1.14.7)
       concurrent-ruby (~> 1.0)
-    icalendar (2.10.2)
+    icalendar (2.10.3)
       ice_cube (~> 0.16)
+      ostruct
     ice_cube (0.17.0)
     kramdown (2.5.1)
       rexml (>= 3.3.9)
@@ -97,6 +98,7 @@ GEM
     nokogiri (1.18.4)
       mini_portile2 (~> 2.8.2)
       racc (~> 1.4)
+    ostruct (0.6.1)
     padrino-helpers (0.15.3)
       i18n (>= 0.6.7, < 2)
       padrino-support (= 0.15.3)
