@@ -25,18 +25,21 @@ registration details are given below](#march25registration).
 
 ## Agenda
 
-
 ### Objects talking to objects
 
 [Gavin Morrice](https://twitter.com/morriceGavin) says:
 
 > A review on what makes OOP such an effective paradigm to work in, followed by a critical discussion on some of the newer design trends in the Ruby space. We will discuss the concerns of relying too heavily on these patterns, and alternative approaches.
 
+{::coverage year="2025" month="march" talk="objects-talking-to-objects" /}
+
 ### Unlocking the Awesome Power of Refactoring at Work
 
 [Hemal Varambhia](https://github.com/hemalvarambhia) says:
 
 > In this talk, I recount and discuss how I refactored some legacy ruby code using the Simple Design Dynamo and ideas from "Tidy First" to make it more agile, and then, using Domain-Driven Design, take that agility to the next level.
+
+{::coverage year="2025" month="march" talk="unlocking-the-awesome-power-of-refactoring-at-work" /}
 
 ## Afterwards
 

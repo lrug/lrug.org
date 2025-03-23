@@ -41,3 +41,15 @@ february:
     - type: video
       title: LRUG February 2025 - David Lantos - Why our schema files kept changing
       url: https://assets.lrug.org/videos/2025/february/david-lantos-why-our-schema-files-kept-changing-lrug-feb-2025.mp4
+march:
+  objects-talking-to-objects:
+    - type: video
+      title: LRUG March 2025 - Gavin Morrice - Objects talking to objects
+      url: https://assets.lrug.org/videos/2025/march/gavin-morrice-objects-talking-to-objects-lrug-mar-2025.mp4
+  unlocking-the-awesome-power-of-refactoring-at-work:
+    - type: video
+      title: LRUG March 2025 - Hemal Varambhia - Unlocking the awesome power of refactoring at work
+      url: https://assets.lrug.org/videos/2025/march/hemal-varambhia-unlocking-the-awesome-power-of-refactoring-at-work-lrug-mar-2025.mp4
+    - type: slides
+      title: “Unlocking the awesome power of refactoring at work” by Hemal Varambhia
+      url: https://assets.lrug.org/slides/2025/march/hemal-varambhia-unlocking-the-awesome-power-of-refactoring-at-work.pdf
