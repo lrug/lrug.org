@@ -40,7 +40,21 @@ registration details are given below](#april25registration).
 > also discuss my experiences, the challenges I faced, and some surprising
 > discoveries along the way.
 
-### At least 1 more talk needed!
+### AI has many applications in our industry, we are just getting started
+
+[Mario Gintili](https://github.com/shellandbull) says:
+
+> AI has many applications in our industry, we are just getting started.
+>
+> In this talk, I'll explore an approach to AI-powered observability
+> tooling that knows everything about you and your codebase.
+
+> I'll demo some of the most recent tooling in AI-assisted development,
+> show you how to enrich an LLM with highly relevant contextual information and
+> display a little workflow that shows how to use AI to fix bugs faster as
+> they happen in production.
+
+### Space for more talks
 
 [You](mailto:talks@lrug.org), maybe?
 
