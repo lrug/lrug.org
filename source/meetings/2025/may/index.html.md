@@ -10,8 +10,6 @@ title: May 2025 Meeting
 created_at: 2025-04-23 18:00:00 +0000
 published_at: 2025-04-23 18:00:00 +0000
 status: Published
-hosted_by:
-  - :name: Board Intelligence
 meeting_date: 2025-05-12
 
 ---
