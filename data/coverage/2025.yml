@@ -53,3 +53,8 @@ march:
     - type: slides
       title: “Unlocking the awesome power of refactoring at work” by Hemal Varambhia
       url: https://assets.lrug.org/slides/2025/march/hemal-varambhia-unlocking-the-awesome-power-of-refactoring-at-work.pdf
+april:
+  from-react-to-hotwire-an-unexpected-journey:
+    - type: video
+      title: "LRUG April 2025 - Maciej Korsan - From React to Hotwire: An Unexpected Journey"
+      url: https://assets.lrug.org/videos/2025/april/maciej-korsan-from-react-to-hotwire-an-unexpected-journey-lrug-apr-2025.mp4

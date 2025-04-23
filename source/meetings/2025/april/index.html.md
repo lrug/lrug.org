@@ -40,6 +40,8 @@ registration details are given below](#april25registration).
 > also discuss my experiences, the challenges I faced, and some surprising
 > discoveries along the way.
 
+{::coverage year="2025" month="april" talk="from-react-to-hotwire-an-unexpected-journey" /}
+
 ### AI has many applications in our industry, we are just getting started
 
 [Mario Gintili](https://github.com/shellandbull) says:
