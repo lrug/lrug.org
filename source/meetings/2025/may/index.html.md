@@ -56,13 +56,13 @@ The address of the venue:
 
 [See on a map][space4-venue]
 
-The venue has a limit of 50 people. It is on the 1st Floor and has  step free access via a lift. If you register and realise you can't come, please use TicketTailor to give up your
+The venue has a limit of 50 people. If you register and realise you can't come, please use TicketTailor to give up your
 ticket so someone else can come in your place.  We might be able to let in
 people on the night who haven't registered, but we can't guarantee it.
 
 #### Accessibility info for the venue
 
-Stay tuned for more information about this.
+The event space is on the 1st Floor with step free access via a lift.
 
 [may2025-ticket-tailor]: https://buytickets.at/lrug/1678695
 [space4-venue]: https://maps.app.goo.gl/iZFFUakeHqZuvddA8
