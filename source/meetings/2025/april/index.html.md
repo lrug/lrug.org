@@ -40,6 +40,8 @@ registration details are given below](#april25registration).
 > also discuss my experiences, the challenges I faced, and some surprising
 > discoveries along the way.
 
+{::coverage year="2025" month="april" talk="from-react-to-hotwire-an-unexpected-journey" /}
+
 ### AI has many applications in our industry, we are just getting started
 
 [Mario Gintili](https://github.com/shellandbull) says:
@@ -53,6 +55,8 @@ registration details are given below](#april25registration).
 > show you how to enrich an LLM with highly relevant contextual information and
 > display a little workflow that shows how to use AI to fix bugs faster as
 > they happen in production.
+
+{::coverage year="2025" month="april" talk="ai-has-many-applications-in-our-industry" /}
 
 ### Space for more talks
 
