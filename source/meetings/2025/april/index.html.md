@@ -56,6 +56,8 @@ registration details are given below](#april25registration).
 > display a little workflow that shows how to use AI to fix bugs faster as
 > they happen in production.
 
+{::coverage year="2025" month="april" talk="ai-has-many-applications-in-our-industry" /}
+
 ### Space for more talks
 
 [You](mailto:talks@lrug.org), maybe?
