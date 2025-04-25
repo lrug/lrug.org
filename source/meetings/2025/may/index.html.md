@@ -22,7 +22,16 @@ registration details are given below](#may25registration).
 
 ## Agenda
 
-TBC. [You](mailto:talks@lrug.org), maybe?
+### An event-sourced programming model for Ruby
+
+[Ismael Celis](https://ismaelcelis.com/) says:
+
+> Exploring how Event Sourcing and Ruby can provide a cohesive programming
+> model where auditable data, durable workflows and reactive UIs are the default.
+
+### More spaces available
+
+[You](mailto:talks@lrug.org), maybe?
 
 ## Afterwards
 
