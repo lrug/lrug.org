@@ -29,6 +29,17 @@ registration details are given below](#may25registration).
 > Exploring how Event Sourcing and Ruby can provide a cohesive programming
 > model where auditable data, durable workflows and reactive UIs are the default.
 
+### Mistakes were made, and definitely by me
+
+[Andy Croll](https://andycroll.com/) says:
+
+> [CoverageBook](https://coveragebook.com/) is a decade-old Rails codebase
+> which has seen at least one full internal rewrite.
+>
+> Let’s have a walk through of perfectly “reasonable” decisions we made
+> at the time that we’re now unravelling, and the new Rails-y-ness we’re
+> using as we do it.
+
 ### More spaces available
 
 [You](mailto:talks@lrug.org), maybe?
