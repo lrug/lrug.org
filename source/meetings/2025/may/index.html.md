@@ -46,6 +46,12 @@ registration details are given below](#may25registration).
 > at the time that we’re now unravelling, and the new Rails-y-ness we’re
 > using as we do it.
 
+### Practical AI in Ruby: What LLMs Can (and Can't) Do For Your Projects Today
+
+[Lorenzo Barasti](https://lbarasti.com/) says:
+
+> A no-nonsense exploration of integrating LLM capabilities into Ruby applications using ruby_llm and similar libraries, highlighting real-world use cases without the Silicon Valley hyperbole.
+
 ### More spaces available
 
 [You](mailto:talks@lrug.org), maybe?
