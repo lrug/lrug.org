@@ -52,10 +52,6 @@ registration details are given below](#may25registration).
 
 > A no-nonsense exploration of integrating LLM capabilities into Ruby applications using ruby_llm and similar libraries, highlighting real-world use cases without the Silicon Valley hyperbole.
 
-### More spaces available
-
-[You](mailto:talks@lrug.org), maybe?
-
 ## Afterwards
 
 When the talks come to an end we'll decamp to a local pub for some food, some
