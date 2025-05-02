@@ -1038,5 +1038,21 @@
         "height":"49"
       }
     }
+  },
+  {
+    "name": "SPACE4",
+    "url": "https://space4.tech",
+    "logo":{
+      "sidebar":{
+        "url":"https://assets.lrug.org/images/space4_logo_small.png",
+        "width":"120",
+        "height":"36"
+      },
+      "main":{
+        "url":"https://assets.lrug.org/images/space4_logo_medium.png",
+        "width":"192",
+        "height":"57"
+      }
+    }
   }
 ]
