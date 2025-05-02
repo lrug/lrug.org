@@ -10,6 +10,10 @@ title: May 2025 Meeting
 created_at: 2025-04-23 18:00:00 +0000
 published_at: 2025-04-23 18:00:00 +0000
 status: Published
+hosted_by:
+  - :name: SPACE4
+sponsors:
+  - :name: judge.me
 meeting_date: 2025-05-12
 
 ---
@@ -19,6 +23,8 @@ May, from 6:00pm to 8:00pm (meeting starts at 6:30pm).
 
 This month we're hosted by the lovely folk at [Space4](https://space4.tech/), near Finsbury Park. [Full venue and
 registration details are given below](#may25registration).
+
+[judge.me](https://judge.me) are very kindly providing pizzas before the meeting. Make sure you register so we know how many to get!
 
 ## Agenda
 
