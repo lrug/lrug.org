@@ -24,7 +24,7 @@ May, from 6:00pm to 8:00pm (meeting starts at 6:30pm).
 This month we're hosted by the lovely folk at [Space4](https://space4.tech/), near Finsbury Park. [Full venue and
 registration details are given below](#may25registration).
 
-[judge.me](https://judge.me) are very kindly providing pizzas before the meeting. Make sure you register so we know how many to get!
+[Judge.me](https://judge.me) are very kindly providing pizzas before the meeting. Make sure you register so we know how many to get!
 
 ## Agenda
 
