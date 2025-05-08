@@ -1028,12 +1028,12 @@
     "url": "https://judge.me",
     "logo":{
       "sidebar":{
-        "url":"https://assets.lrug.org/images/judgeme_logo_small.png",
+        "url":"https://assets.lrug.org/images/judgeme_logo.svg",
         "width":"120",
         "height":"23"
       },
       "main":{
-        "url":"https://assets.lrug.org/images/judgeme_logo_medium.png",
+        "url":"https://assets.lrug.org/images/judgeme_logo.svg",
         "width":"260",
         "height":"49"
       }
