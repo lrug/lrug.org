@@ -35,6 +35,8 @@ registration details are given below](#may25registration).
 > Exploring how Event Sourcing and Ruby can provide a cohesive programming
 > model where auditable data, durable workflows and reactive UIs are the default.
 
+{::coverage year="2025" month="may" talk="an-event-sourced-programming-model-for-ruby" /}
+
 ### Mistakes were made, and definitely by me
 
 [Andy Croll](https://andycroll.com/) says:
@@ -46,11 +48,15 @@ registration details are given below](#may25registration).
 > at the time that we’re now unravelling, and the new Rails-y-ness we’re
 > using as we do it.
 
+{::coverage year="2025" month="may" talk="mistakes-were-made-and-definitely-by-me" /}
+
 ### Practical AI in Ruby: What LLMs Can (and Can't) Do For Your Projects Today
 
 [Lorenzo Barasti](https://lbarasti.com/) says:
 
 > A no-nonsense exploration of integrating LLM capabilities into Ruby applications using ruby_llm and similar libraries, highlighting real-world use cases without the Silicon Valley hyperbole.
+
+{::coverage year="2025" month="may" talk="practical-ai-in-ruby-what-llms-can-and-cant-do-for-your-projects-today" /}
 
 ## Afterwards
 

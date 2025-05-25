@@ -62,3 +62,16 @@ april:
     - type: video
       title: LRUG April 2025 - Mario Gintili - AI has many applications in our industry, we are just getting started
       url: https://assets.lrug.org/videos/2025/april/mario-gintili-ai-has-many-applications-in-our-industry-we-are-just-getting-started-lrug-apr-2025.mp4
+may:
+  practical-ai-in-ruby-what-llms-can-and-cant-do-for-your-projects-today:
+    - type: video
+      title: "LRUG May 2025 - Lorenzo Barasti - Practical AI in Ruby: What LLMs Can (and Can’t) Do For Your Projects Today"
+      url: https://assets.lrug.org/videos/2025/may/lorenzo-barasti-practical-ai-in-ruby-what-llms-can-and-cant-do-for-your-projects-today-may-2025.mp4
+  an-event-sourced-programming-model-for-ruby:
+    - type: video
+      title: LRUG May 2025 - Ismael Celis -An event-sourced programming model for Ruby
+      url: https://assets.lrug.org/videos/2025/may/ismael-celis-an-event-sourced-programming-model-for-ruby-lrug-may-2025.mp4
+  mistakes-were-made-and-definitely-by-me:
+    - type: video
+      title: LRUG May 2025 - Andy Croll - Mistakes were made, and definitely by me
+      url: https://assets.lrug.org/videos/2025/may/andy-croll-mistakes-were-made-and-definitely-by-me-lrug-may-2025.mp4
