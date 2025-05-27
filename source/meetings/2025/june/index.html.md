@@ -8,7 +8,7 @@ created_by:
 category: meeting
 title: June 2025 Meeting
 created_at: 2025-05-11 18:58:00 +0000
-published_at: 2025-05-11 18:58:00 +0000
+published_at: 2025-05-27 21:30:00 +0000
 status: Published
 hosted_by:
   - :name: judge.me
