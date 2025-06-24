@@ -37,7 +37,7 @@ details are given below](#july25registration).
 
 ###  If you wish it was better, change it!
 
-[Fritz Meissner]() says:
+[Fritz Meissner](http://iftheshoefritz.com/) says:
 
 > Wish you worked with understandable and easily changeable
 code? Practice fixing the incomprehensible in an interactive,
