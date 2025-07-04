@@ -788,12 +788,12 @@
     "url":"https://thoughtbot.com/",
     "logo": {
       "sidebar": {
-        "url":"https://assets.lrug.org/images/thoughtbot_logo_small.png",
+        "url":"https://assets.lrug.org/images/thoughtbot-social-avatar_circular.svg",
         "width":"120",
         "height":"120"
       },
       "main": {
-        "url":"https://assets.lrug.org/images/thoughtbot_logo_medium.png",
+        "url":"https://assets.lrug.org/images/thoughtbot-social-avatar_circular.svg",
         "width":"260",
         "height":"260"
       }
