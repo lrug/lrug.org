@@ -26,7 +26,7 @@ meeting_date: 2025-07-14
 The July 2025 meeting of LRUG will be on Monday the 14th of July, from 6:00pm
 to 8:00pm (meeting starts at 6:30pm).
 
-This time we're being hosted by the lovely folk at [Cleo](https://meetcleo.com) in [their offices][cleo-venue], on Shoreditch High St. 
+This time we're being hosted by the lovely folk at [Cleo](https://meetcleo.com) in [their offices][cleo-venue], on Shoreditch High St.
 
 This event follows a more workshoppy-format: bring a laptop if you can and work through the exercises with some fellow attendees. You won't go hungry as [thoughtbot](https://thoughtbot.com) will kindly be providing food/drinks.
 
