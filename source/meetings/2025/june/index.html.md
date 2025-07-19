@@ -33,6 +33,8 @@ registration details are given below](#june25registration).
 > experiments insights on some pragmatic ways to make them work better by
 > shifting toward a more procedural approach.
 
+{::coverage year="2025" month="june" talk="rethinking-service-objects-in-ruby" /}
+
 ### You?
 
 [You](mailto:talks@lrug.org?subject=I+have+a+talk+for+the+June+2025+LRUG+meeting) can say:
