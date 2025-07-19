@@ -87,6 +87,11 @@ july:
     - type: video
       title: "LRUG July 2024 - Joel Biffin - Finding unused Ruby methods"
       url: https://assets.lrug.org/videos/2024/july/joel-biffin-finding-unused-ruby-methods-lrug-jul-2024.mp4
+august:
+  turn-left-for-bridgetown:
+    - type: video
+      title: "LRUG August 2024 - Ayush Newatia - Turn left for Bridgetown: An overview of a next-generation static(ish) site generator"
+      url: https://assets.lrug.org/videos/2024/august/ayush-newatia-turn-left-for-bridgetown-an-overview-of-a-next-generation-static-ish-site-generator-lrug-aug-2024.mp4
 september:
   from-spaghetti-to-lasagna-layering-your-code-with-ddd:
     - type: video

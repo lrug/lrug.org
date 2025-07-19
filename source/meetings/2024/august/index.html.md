@@ -30,6 +30,7 @@ below](#august24registration).
 
 > Bridgetown is a modern progressive site generator with Jekyll ancestry. Allow me to be your guide as I take you on a whistle-stop tour of its biggest and best features; and show you how it brings Ruby-powered site generation into 2024.
 
+{::coverage year="2024" month="august" talk="turn-left-for-bridgetown" /}
 
 ## Afterwards
 

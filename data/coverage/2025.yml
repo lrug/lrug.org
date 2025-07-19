@@ -75,3 +75,13 @@ may:
     - type: video
       title: LRUG May 2025 - Andy Croll - Mistakes were made, and definitely by me
       url: https://assets.lrug.org/videos/2025/may/andy-croll-mistakes-were-made-and-definitely-by-me-lrug-may-2025.mp4
+june:
+  rethinking-service-objects-in-ruby:
+    - type: video
+      title: "LRUG June 2025 - Vladimir Gorodulin - Rethinking service objects in Ruby"
+      url: https://assets.lrug.org/videos/2025/june/vladimir-gorodulin-rethinking-service-objects-in-ruby-lrug-jun-2025.mp4
+july:
+  if-you-wish-it-was-better-change-it:
+    - type: video
+      title: "LRUG July 2025 - Fritz Meissner - If you wish it was better, change it!"
+      url: https://assets.lrug.org/videos/2025/july/fritz-meissner-if-you-wish-it-was-better-change-it-lrug-jul-2025.mp4

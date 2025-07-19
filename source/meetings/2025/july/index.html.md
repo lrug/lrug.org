@@ -44,6 +44,8 @@ code? Practice fixing the incomprehensible in an interactive,
 zero-background-required exercise on the career-changing topic of
 refactoring.
 
+{::coverage year="2025" month="july" talk="if-you-wish-it-was-better-change-it" /}
+
 ## Afterwards
 
 When the talks come to an end we'll decamp to a local pub for some food, some
