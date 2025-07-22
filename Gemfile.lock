@@ -92,10 +92,10 @@ GEM
       toml
       uglifier (>= 3, < 5)
       webrick
-    mini_portile2 (2.8.8)
+    mini_portile2 (2.8.9)
     minitest (5.25.4)
     mutex_m (0.3.0)
-    nokogiri (1.18.8)
+    nokogiri (1.18.9)
       mini_portile2 (~> 2.8.2)
       racc (~> 1.4)
     ostruct (0.6.1)
