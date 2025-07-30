@@ -1,4 +1,33 @@
 ---
+january:
+  shape-up-the-best-parts:
+    title: "Shape-up: the best parts"
+    description: |-
+      A talk about the 37 signals famous methodology and how we apply to 8 teams of
+      development which work in Ruby on Rails.
+    speaker:
+      name: "Pablo Dejuan Calzolari"
+      url: https://www.pablo.pm/
+    coverage:
+      - type: video
+        title: LRUG January 2025 - Pablo Dejuan Calzolari - Shape-up the best parts
+        url: https://assets.lrug.org/videos/2025/january/pablo-dejuan-calzolari-shape-up-the-best-parts-jan-2025.mp4
+
+  they-re-not-right-you-re-not-wrong:
+    title: "They're not right, you're not wrong"
+    description: |-
+      We are going to look into the essence of what DDD is and why it came to
+      be in plain English, without any consultant lingo. We will also
+      evaluate its advantages, indicators of the possibility of successful
+      adoption, and reasons to do so.
+    speaker:
+      name: "Yevhenii Kurtov"
+      url: https://www.linkedin.com/in/kurtov/
+    coverage:
+      - type: video
+        title: LRUG January 2025 - Yevhenii Kurtov - They're not right, you're not wrong
+        url: https://assets.lrug.org/videos/2025/january/yevhenii-kurtov-they-re-not-right-you-re-not-wrong-jan-2025.mp4
+
 february:
   ai-tools-for-programmers:
     title: "AI tools for programmers"
@@ -107,3 +136,192 @@ february:
       - type: video
         title: LRUG February 2025 - James Smith - Self-assessing against the Web Sustainability Guidelines
         url: https://assets.lrug.org/videos/2025/february/james-smith-self-assessing-against-the-web-sustainability-guidelines-lrug-feb-2025.mp4
+
+march:
+  objects-talking-to-objects:
+    title: "Objects talking to objects"
+    speaker:
+      name: "Gavin Morrice"
+      url: https://twitter.com/morriceGavin
+    description: |-
+      A review on what makes OOP such an effective paradigm to work in,
+      followed by a critical discussion on some of the newer design trends in
+      the Ruby space. We will discuss the concerns of relying too heavily on
+      these patterns, and alternative approaches.
+    coverage:
+      - type: video
+        title: LRUG March 2025 - Gavin Morrice - Objects talking to objects
+        url: https://assets.lrug.org/videos/2025/march/gavin-morrice-objects-talking-to-objects-lrug-mar-2025.mp4
+
+  unlocking-the-awesome-power-of-refactoring-at-work:
+    title: "Unlocking the Awesome Power of Refactoring at Work"
+    speaker:
+      name: "Hemal Varambhia"
+      url: https://github.com/hemalvarambhia
+    description: |-
+      In this talk, I recount and discuss how I refactored some legacy ruby
+      code using the Simple Design Dynamo and ideas from "Tidy First" to make
+      it more agile, and then, using Domain-Driven Design, take that agility
+      to the next level.
+    coverage:
+      - type: video
+        title: LRUG March 2025 - Hemal Varambhia - Unlocking the awesome power of refactoring at work
+        url: https://assets.lrug.org/videos/2025/march/hemal-varambhia-unlocking-the-awesome-power-of-refactoring-at-work-lrug-mar-2025.mp4
+      - type: slides
+        title: “Unlocking the awesome power of refactoring at work” by Hemal Varambhia
+        url: https://assets.lrug.org/slides/2025/march/hemal-varambhia-unlocking-the-awesome-power-of-refactoring-at-work.pdf
+
+april:
+  from-react-to-hotwire-an-unexpected-journey:
+    title: "From React to Hotwire – An Unexpected Journey"
+    speaker:
+      name: "Maciej Korsan"
+      url: https://www.linkedin.com/in/maciejkorsan/
+    description: |-
+      For years, React has been the go-to choice for building frontend applications
+      — but is it always the best solution? In this talk, I’ll share my journey from
+      working extensively with React to discovering Hotwire, a radically different
+      approach that enables dynamic applications without heavy JavaScript or complex
+      state management.
+
+      Rather than a theoretical comparison, I’ll walk through real-world examples,
+      demonstrating how I’ve implemented interactive features using Hotwire. I’ll
+      also discuss my experiences, the challenges I faced, and some surprising
+      discoveries along the way.
+    coverage:
+      - type: video
+        title: "LRUG April 2025 - Maciej Korsan - From React to Hotwire: An Unexpected Journey"
+        url: https://assets.lrug.org/videos/2025/april/maciej-korsan-from-react-to-hotwire-an-unexpected-journey-lrug-apr-2025.mp4
+
+  ai-has-many-applications-in-our-industry:
+    title: "AI has many applications in our industry, we are just getting started"
+    speaker:
+      name: "Mario Gintili"
+      url: https://github.com/shellandbull
+    description: |-
+      AI has many applications in our industry, we are just getting started.
+
+      In this talk, I'll explore an approach to AI-powered observability
+      tooling that knows everything about you and your codebase.
+
+      I'll demo some of the most recent tooling in AI-assisted development,
+      show you how to enrich an LLM with highly relevant contextual information and
+      display a little workflow that shows how to use AI to fix bugs faster as
+      they happen in production.
+    coverage:
+      - type: video
+        title: LRUG April 2025 - Mario Gintili - AI has many applications in our industry, we are just getting started
+        url: https://assets.lrug.org/videos/2025/april/mario-gintili-ai-has-many-applications-in-our-industry-we-are-just-getting-started-lrug-apr-2025.mp4
+
+may:
+  an-event-sourced-programming-model-for-ruby:
+    title: "An event-sourced programming model for Ruby"
+    speaker:
+      name: "Ismael Celis"
+      url: https://ismaelcelis.com/
+    description: |-
+      Exploring how Event Sourcing and Ruby can provide a cohesive programming
+      model where auditable data, durable workflows and reactive UIs are the default.
+    coverage:
+      - type: video
+        title: LRUG May 2025 - Ismael Celis -An event-sourced programming model for Ruby
+        url: https://assets.lrug.org/videos/2025/may/ismael-celis-an-event-sourced-programming-model-for-ruby-lrug-may-2025.mp4
+
+  mistakes-were-made-and-definitely-by-me:
+    title: "Mistakes were made, and definitely by me"
+    speaker:
+      name: "Andy Croll"
+      url: https://andycroll.com/
+    description: |-
+      [CoverageBook](https://coveragebook.com/) is a decade-old Rails codebase
+      which has seen at least one full internal rewrite.
+
+      Let’s have a walk through of perfectly “reasonable” decisions we made
+      at the time that we’re now unravelling, and the new Rails-y-ness we’re
+      using as we do it.
+    coverage:
+      - type: video
+        title: LRUG May 2025 - Andy Croll - Mistakes were made, and definitely by me
+        url: https://assets.lrug.org/videos/2025/may/andy-croll-mistakes-were-made-and-definitely-by-me-lrug-may-2025.mp4
+
+  practical-ai-in-ruby-what-llms-can-and-cant-do-for-your-projects-today:
+    title: "Practical AI in Ruby: What LLMs Can (and Can't) Do For Your Projects Today"
+    speaker:
+      name: "Lorenzo Barasti"
+      url: https://lbarasti.com/
+    description: |-
+      A no-nonsense exploration of integrating LLM capabilities into Ruby applications using ruby_llm and similar libraries, highlighting real-world use cases without the Silicon Valley hyperbole.
+    coverage:
+      - type: video
+        title: "LRUG May 2025 - Lorenzo Barasti - Practical AI in Ruby: What LLMs Can (and Can’t) Do For Your Projects Today"
+        url: https://assets.lrug.org/videos/2025/may/lorenzo-barasti-practical-ai-in-ruby-what-llms-can-and-cant-do-for-your-projects-today-may-2025.mp4
+
+june:
+  rethinking-service-objects-in-ruby:
+    title: "Rethinking Service Objects in Ruby"
+    speaker:
+      name: "Vladimir Gorodulin"
+      url: https://github.com/gorodulin/
+    description: |-
+      Service Objects in Ruby can feel a bit off to use, so I’ll share some
+      experiments insights on some pragmatic ways to make them work better by
+      shifting toward a more procedural approach.
+    coverage:
+      - type: video
+        title: "LRUG June 2025 - Vladimir Gorodulin - Rethinking service objects in Ruby"
+        url: https://assets.lrug.org/videos/2025/june/vladimir-gorodulin-rethinking-service-objects-in-ruby-lrug-jun-2025.mp4
+
+july:
+  if-you-wish-it-was-better-change-it:
+    title: "If you wish it was better, change it!"
+    speaker:
+      name: "Fritz Meissner"
+      url: http://iftheshoefritz.com/
+    description: |-
+      Wish you worked with understandable and easily changeable
+      code? Practice fixing the incomprehensible in an interactive,
+      zero-background-required exercise on the career-changing topic of
+      refactoring.
+    coverage:
+      - type: video
+        title: "LRUG July 2025 - Fritz Meissner - If you wish it was better, change it!"
+        url: https://assets.lrug.org/videos/2025/july/fritz-meissner-if-you-wish-it-was-better-change-it-lrug-jul-2025.mp4
+      - type: code
+        url: https://github.com/thoughtbot/noisy-animals-kata
+        title: The Noisy Animal code kata
+
+august:
+  stepper-motor:
+    title: "`stepper_motor`: effortless long-running workflows for Rails"
+    speaker:
+      name: "Julik Tarkhanov"
+      url: https://blog.julik.nl
+    description: |-
+      Lately, there has been a lot of development in durable workflows in
+      Rails with tools like `active_job_continuation` and `acidic_job`.
+      [`stepper_motor`](https://github.com/stepper-motor/stepper_motor) is a
+      new tool allowing for identifiable, associable, orchestrated step
+      workflows for Rails applications - without gRPC, extra tools or data
+      stores. Let's explore where such a system comes from, why every durable
+      execution system is secretly a DAG, and how the `stepper_motor`
+      architecture is informed by VFX software instead of the imperative
+      `ActiveJob` methods.
+
+  no-browser-required:
+    title: "No Browser Required: Dynamic OpenGraph Images with Rails and Rust"
+    speaker:
+      name: "James Edwards-Jones"
+      url: https://portfolio.jamedjo.co.uk/
+    description: |-
+      How would you convert a `<div>` to a PNG? A technical deep dive into
+      how [`Himg`](https://github.com/Jamedjo/himg) generates images from
+      HTML without using a browser.
+
+      Our journey will include:
+
+      * How a browser works: from CSS parsing to image rendering
+      * Practical tips: like how to call Rust from Ruby
+      * Rails internals: how rails calls render without you needing to ask
+      * Using the [Himg](https://github.com/Jamedjo/himg/) library
+      * Server side request forgery and injection attacks
+      * What OpenGraph images are and how they can help you go viral 🦋
