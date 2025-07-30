@@ -9,9 +9,6 @@ meeting_years = Dir['source/meetings/*'].each.with_object([]) do |meeting_child,
 end
 set :years, meeting_years.sort
 
-require "lib/lrug_helpers"
-helpers LRUGHelpers
-
 # get our kramdown `{::blah}` extensions
 require 'lib/lrug_extended_kramdown'
 # we have to refer to this via `@app` as otherwise it ends up being a
