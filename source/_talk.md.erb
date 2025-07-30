@@ -1,0 +1,7 @@
+### <%= locals[:talk].title %>
+
+<%= locals[:talk].intro %>
+
+<%= blockquote(locals[:talk].description) %>
+
+<%= locals[:talk].render_coverage(on: self) %>

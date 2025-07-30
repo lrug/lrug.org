@@ -1,0 +1,109 @@
+---
+february:
+  ai-tools-for-programmers:
+    title: "AI tools for programmers"
+    description: "Why I don't use AI programming tools, and I don't think you should either."
+    speaker:
+      name: "fell sunderland"
+      url: "https://www.fellsunder.land/"
+    coverage:
+      - type: video
+        title: LRUG February 2025 - fell sunderland - AI tools for programmers
+        url: https://assets.lrug.org/videos/2025/february/fell-sunderland-ai-tools-for-programmers-lrug-feb-2025.mp4
+
+  why-our-schema-files-kept-changing:
+    title: "Why our schema files kept changing"
+    description: |-
+      Tale of an investigation why a local `db:schema:load` would change our
+      `db/schema.rb` for seemingly no reason. Spoiler: varchar index
+    speaker:
+      name: "David Lantos"
+    coverage:
+      - type: video
+        title: LRUG February 2025 - David Lantos - Why our schema files kept changing
+        url: https://assets.lrug.org/videos/2025/february/david-lantos-why-our-schema-files-kept-changing-lrug-feb-2025.mp4
+
+  10-years-of-rspec-in-10-minutes:
+    title: "10 years of RSpec in 10 minutes"
+    custom_intro: "will share"
+    description: "A brief look into the history of [RSpec](https://rspec.info) and a glance into the future."
+    speaker:
+      name: "Jon Rowe"
+      url: "https://jonrowe.co.uk"
+    coverage:
+      - type: video
+        title: LRUG February 2025 - Jon Rowe - 10 years of RSpec in 10 minutes
+        url: https://assets.lrug.org/videos/2025/february/jon-rowe-10-years-of-rspec-in-10-minutes-lrug-feb-2025.mp4
+
+  rails-8-ai-happy-life-for-lazy-engineer:
+    title: "Rails 8 + AI = Happy Life for Lazy Engineer to Create a Walking Skeleton"
+    description: |-
+      In this talk, I’ll explore how Rails 8, combined with AI-assisted
+      tools, can help engineers rapidly spin up a walking skeleton—a minimal
+      yet functional end-to-end system—with minimal effort.
+    speaker:
+      name: "Zhiqiang Bian"
+    coverage:
+      - type: video
+        title: LRUG February 2025 - Zhiqiang Bian - Rails 8 + AI = Happy life for lazy engineer
+        url: https://assets.lrug.org/videos/2025/february/zhiqiang-bian-rails-8-ai-happy-life-for-lazy-engineer-lrug-feb-2025.mp4
+
+  never-say-never-say-die:
+    title: |-
+      Never say, "Never say die!"
+    description: |-
+      Ruby is a high-level language, and there's a general assumption that
+      it's ill-suited to low-level shenanigans. But is this true?
+
+      In this lightning talk I'll introduce some basic Ruby tools for
+      accessing low-level system features, concentrating on *nix platforms,
+      and see if it's possible to replicate tenderlove's Never Say Die gem
+      for recovering from segfaults.
+    speaker:
+      name: "Eleanor McHugh"
+      url: "https://slideshare.net/feyeleanor"
+    coverage:
+      - type: video
+        title: LRUG February 2025 - Eleanor McHugh - Never say, "Never say die!"
+        url: https://assets.lrug.org/videos/2025/february/eleanor-mchugh-never-say-never-say-die-lrug-feb-2025.mp4
+
+  the-tag-tale:
+    title: "The tag tale"
+    description: |-
+      How we refactored Intercom's conversation tagging service to not fake
+      tag and made customers happy.
+    speaker:
+      name: "Jaehurn Nam"
+      url: "https://www.linkedin.com/in/jaehurnnam/"
+    coverage:
+      - type: video
+        title: LRUG February 2025 - Jaehurn Nam - The Tag Tale
+        url: https://assets.lrug.org/videos/2025/february/jaehurn-nam-the-tag-tale-lrug-feb-2025.mp4
+
+  beyond-current-state-capturing-how-and-why-things-changed:
+    title: "Beyond current state: capturing how and why things changed"
+    description: |-
+      Introduction into managing state for objects with complex lifecycle
+      when auditability is a must.
+    speaker:
+      name: "Yevhenii Kurtov"
+      url: "https://kurtov.pro/"
+    coverage:
+      - type: video
+        title: "LRUG February 2025 - Yevhenii Kurtov - Beyond current state: Capturing how and why things changed"
+        url: https://assets.lrug.org/videos/2025/february/yevhenii-kurtov-beyond-current-state-capturing-how-and-why-things-changed-lrug-feb-2025.mp4
+
+  self-assessing-against-the-web-sustainability-guidelines:
+    title: "Self-Assessing against the Web Sustainability Guidelines"
+    description: |-
+      Sustainability is important, but it's also hard, especially when
+      building web projects. How do you know you're doing it right? This
+      quick talk will explain a tool I made for self-assessments against the
+      Web Sustainability Guidelines, which you can use too!
+    speaker:
+      name: "James Smith"
+      url: "https://floppy.org.uk"
+    coverage:
+      - type: video
+        title: LRUG February 2025 - James Smith - Self-assessing against the Web Sustainability Guidelines
+        url: https://assets.lrug.org/videos/2025/february/james-smith-self-assessing-against-the-web-sustainability-guidelines-lrug-feb-2025.mp4
