@@ -36,7 +36,11 @@ module TalkHelpers
 
   Speaker = Data.define(:name, :url) do
     def self.from(speaker_details:)
-      new(name: speaker_details.name, url: speaker_details.url)
+      if speaker_details.is_a? Array
+        Speakers.new(speakers: speaker_details.map { from(speaker_details: it) })
+      else
+        new(name: speaker_details.name, url: speaker_details.url)
+      end
     end
 
     def formatted_name
@@ -46,6 +50,10 @@ module TalkHelpers
         name
       end
     end
+  end
+
+  Speakers = Data.define(:speakers) do
+    def formatted_name = speakers.map(&:formatted_name).to_sentence
   end
 
   Coverage = Data.define(:type, :title, :url) do
