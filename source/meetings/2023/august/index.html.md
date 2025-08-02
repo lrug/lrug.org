@@ -28,13 +28,12 @@ This month we're hosted by the lovely folk at [beam](https://beam.org/) in [thei
 [Lorin Thwaits](https://www.facebook.com/lorint/) says
 
 > Remarkable visibility into the structure of your application and its data
-is available by using the open-source Rails gem "[The Brick](
-https://github.com/lorint/brick)". Come meet the author of this gem, and
-experience the cornucopia of usefulness it can provide to teams who
-architect, elaborate upon, and then support Rails applications.
+> is available by using the open-source Rails gem "[The Brick](
+> https://github.com/lorint/brick)". Come meet the author of this gem, and
+> experience the cornucopia of usefulness it can provide to teams who
+> architect, elaborate upon, and then support Rails applications.
 
-{::coverage year="2023" month="august" talk="xxx" /}
-
+{::coverage year="2023" month="august" talk="the-brick" /}
 
 ## Afterwards
 

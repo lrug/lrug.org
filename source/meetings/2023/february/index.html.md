@@ -34,7 +34,9 @@ registration details are given below](#feb23registration).
 
 [Tom Stuart](https://tomstu.art/) says:
 
-> Last September I began regularly livestreaming my work on a side project to build a WebAssembly interpreter in Ruby. In this talk I’ll tell you how it’s going and what I’ve learned so far.
+> Last September I began regularly livestreaming my work on a side project to
+> build a WebAssembly interpreter in Ruby. In this talk I’ll tell you how it’s
+> going and what I’ve learned so far.
 
 {::coverage year="2023" month="february" talk="a-supposedly-fun-thing-ill-never-stream-again" /}
 
@@ -43,10 +45,10 @@ registration details are given below](#feb23registration).
 [Matt Bee](https://www.twitter.com/mattbee) says:
 
 > I started out 2022 looking for a mentor to help me on my ruby career
-adventure. After reflection (and some interesting insights) I realised that
-perhaps that was the wrong way round, and I would get more from being the
-mentor - here I'll share a journey, lessons learned and why maybe you
-should mentor someone too.
+> adventure. After reflection (and some interesting insights) I realised that
+> perhaps that was the wrong way round, and I would get more from being the
+> mentor - here I'll share a journey, lessons learned and why maybe you
+> should mentor someone too.
 
 {::coverage year="2023" month="february" talk="to-mentor-or-to-mentee" /}
 
@@ -55,9 +57,9 @@ should mentor someone too.
 [Frank Kair](https://github.com/frankkair) says:
 
 > Using a simple data structure as a starting point, we discuss three
-different programming paradigms (imperative, object oriented and
-functional), not only in terms of implementation, but also as a broader
-framework for learning and having a richer mental model for problem solving.
+> different programming paradigms (imperative, object oriented and
+> functional), not only in terms of implementation, but also as a broader
+> framework for learning and having a richer mental model for problem solving.
 
 {::coverage year="2023" month="february" talk="data-structures-in-3-paradigms" /}
 
@@ -66,8 +68,8 @@ framework for learning and having a richer mental model for problem solving.
 [Chris Zetter](https://chriszetter.com) says:
 
 > My team started using the opinionated 'mob' tool for our
-remote mob and pair programming sessions. I'll explain what the tool does
-and how I've found it helps us to maintain momentum while pairing.
+> remote mob and pair programming sessions. I'll explain what the tool does
+> and how I've found it helps us to maintain momentum while pairing.
 
 {::coverage year="2023" month="february" talk="using-the-mob-tool" /}
 
@@ -75,9 +77,10 @@ and how I've found it helps us to maintain momentum while pairing.
 
 [Matt Valentine-House](https://ruby.social/@eightbitraptor) says:
 
-> In this talk we'll explore a bit about how string interpolation works in Ruby. We'll do this while investigating and fixing a
-bug arising from an assumption made as part of an optimisation many years
-ago that is no longer true.
+> In this talk we'll explore a bit about how string interpolation works in
+> Ruby. We'll do this while investigating and fixing a bug arising from an
+> assumption made as part of an optimisation many years
+> ago that is no longer true.
 
 {::coverage year="2023" month="february" talk="strings-interpolation-optimisation-and-bugs" /}
 
@@ -86,7 +89,7 @@ ago that is no longer true.
 [Fell Sunderland](https://twitter.com/felltir) says
 
 > An opinionated look at the pros and cons of
-choosing abstractions early vs. waiting and duplicating effort
+> choosing abstractions early vs. waiting and duplicating effort
 
 {::coverage year="2023" month="february" talk="wet-why-dry-isnt-always-best" /}
 
@@ -95,13 +98,14 @@ choosing abstractions early vs. waiting and duplicating effort
 [Jairo Diaz](https://www.linkedin.com/in/jairodiaz4/) says
 
 > The talk will be about using ChatGPT, an advanced language model developed
-by OpenAI, to explore programming with a bot. The aim is to show how
-developers can use ChatGPT to learn, write, and debug code in the Ruby
-programming language.
+> by OpenAI, to explore programming with a bot. The aim is to show how
+> developers can use ChatGPT to learn, write, and debug code in the Ruby
+> programming language.
 
 {::coverage year="2023" month="february" talk="using-chatgpt-to-program-in-ruby" /}
 
 ### “Pure” OOP in Ruby
+
 [Dmitry Non](https://nondv.wtf/blog.html) says
 
 > What if Ruby had NOTHING except classes and objects?

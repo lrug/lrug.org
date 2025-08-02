@@ -35,7 +35,6 @@ This month we're hosted by the lovely folk at [Creditspring](https://www.credits
 > homeless people and refugees. And hear about the fun, meaning and challenge in
 > Tech for Good.
 
-
 {::coverage year="2023" month="july" talk="dan-hough-ruby-to-solve-homelessness-and-the-refugee-crises" /}
 
 ## Afterwards
