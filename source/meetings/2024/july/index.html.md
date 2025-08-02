@@ -34,7 +34,7 @@ below](#july24registration).
 
 {::coverage year="2024" month="july" talk="that-smells-like-time" /}
 
-## Finding unused Ruby methods
+### Finding unused Ruby methods
 
 [Joel Biffin](https://github.com/joelbiffin) says:
 
