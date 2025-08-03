@@ -40,7 +40,7 @@ are given below](#june24registration).
 
 ### LiveView: stateful, server-rendered HTML
 
-Yevhenii Kurtov says:
+[Yevhenii Kurtov](https://www.linkedin.com/in/kurtov/) says:
 
 > LiveView is  Elixir's analogue to Hotwire that also helps to keep it closer
 > to the server and contributes to the One Person Framework movement.  In this talk,

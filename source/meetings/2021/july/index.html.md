@@ -24,7 +24,7 @@ please do make sure you do it.**
 
 ### Breaking Up Monoliths With CRC cards
 
-[Hemal Varambhia](https://twitter.com/hnvarambhia) from [Simply Business]() says:
+[Hemal Varambhia](https://twitter.com/hnvarambhia) from [Simply Business](https://www.simplybusiness.co.uk) says:
 
 > Rapid iteration and feedback is key to enhancing agility. This is an
 > experience report on how we appealed to a modelling technique from the
