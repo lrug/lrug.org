@@ -23,13 +23,11 @@ The February meeting will be on Wednesday the 10th of February, from 6:30pm to 8
 
 ## Agenda
 
-### Lightning talks!
-
 This month we're having our annual lightning talk evening.  If you've not been to one of these before it's quite simple; we have lots of short talks all on one night.  We use the 20x20 format for our talks which means that each speaker gets 20 slides that auto-transition after 20 seconds, this gives them 6 minutes 40 seconds to get their point across.  It's a really fun way to run a lightning talk event, and the rigid time constraints mean that the talks tend to be really entertaining (jettisoning for brevity things like explanations or support for the speakers opinions).
 
 The current line-up of 20x20-ers is as follows:
 
-#### Rails & iPhone integration
+### Rails & iPhone integration
 
 [Paul Ardeleanu](http://pardel.net/):
 
@@ -37,7 +35,7 @@ The current line-up of 20x20-ers is as follows:
 
 {::coverage year="2010" month="february" talk="rails-and-iphone-integration" /}
 
-#### Using Websockets with EventMachine
+### Using Websockets with EventMachine
 
 [Ismael Celis](http://www.estadobeta.com/):
 
@@ -46,7 +44,7 @@ The current line-up of 20x20-ers is as follows:
 
 {::coverage year="2010" month="february" talk="using-websockets-with-eventmachine" /}
 
-#### Show Off!
+### Show Off!
 
 [Joel Chippindale](http://blog.monkeysthumb.org/):
 
@@ -55,7 +53,7 @@ The current line-up of 20x20-ers is as follows:
 
 {::coverage year="2010" month="february" talk="show-off" /}
 
-#### Evolution of data models in rails
+### Evolution of data models in rails
 
 [Lars Jorgensen](http://www.sanger.ac.uk/)
 
@@ -63,7 +61,7 @@ The current line-up of 20x20-ers is as follows:
 
 {::coverage year="2010" month="february" talk="evolution-of-data-models-in-rails" /}
 
-#### Bowline - a ruby GUI framework
+### Bowline - a ruby GUI framework
 
 [Alex MacCaw](http://www.eribium.org/):
 
@@ -72,7 +70,7 @@ The current line-up of 20x20-ers is as follows:
 
 {::coverage year="2010" month="february" talk="bowline" /}
 
-#### An intro to birdpie.com
+### An intro to birdpie.com
 
 [Anup Narkhede](http://www.anup.info/)
 
@@ -82,7 +80,7 @@ The current line-up of 20x20-ers is as follows:
 
 {::coverage year="2010" month="february" talk="intro-to-birdpie" /}
 
-#### Rack::Cache
+### Rack::Cache
 
 [Thomas Pomfret](http://mintdigital.com/):
 
@@ -90,7 +88,7 @@ The current line-up of 20x20-ers is as follows:
 
 {::coverage year="2010" month="february" talk="rack-cache" /}
 
-#### Decorating the domain
+### Decorating the domain
 
 [Brent Snook](http://fuglylogic.com/):
 
@@ -98,7 +96,7 @@ The current line-up of 20x20-ers is as follows:
 
 {::coverage year="2010" month="february" talk="decorating-the-domain" /}
 
-#### Some rough fibrous material
+### Some rough fibrous material
 
 [Murray Steele](http://h-lame.com/)
 

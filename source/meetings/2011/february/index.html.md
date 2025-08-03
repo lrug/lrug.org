@@ -17,62 +17,60 @@ The <span class="summary">LRUG February 2011 meeting</span> will be on <span cla
 
 ## Agenda
 
-### Lightning talks!
-
 It's February, so this means it's time for our annual lightning talk evening.  This means lots of short talks all in one night.  Because that's not quite fun enough, we use the 20x20 format for the talks.  This means each speaker has 20 slides that auto-transition after 20 seconds, giving them 6 minutes 40 seconds to get their point across.  It's a fun format for a talk, as the rigid time constraints mean the speakers have to choose between explaining their opinions in detail (and missing out something else) or stating them as fact.  This is especially fun when the opinions are controversial.
 
 The brave 20x20ers for 2011 are (in alphabetical order, on the night the talks will be randomised):
 
-#### [James Adam](http://twitter.com/lazyatom)
+### [James Adam](http://twitter.com/lazyatom)
 
 > an exploration of why nobody needs to write any more test frameworks
 
 {::coverage year="2011" month="february" talk="an-exploration-of-why-nobody-needs-to-write-any-more-test-frameworks" /}
 
-#### [Ed Davey](http://twitter.com/misteredavey)
+### [Ed Davey](http://twitter.com/misteredavey)
 
 > ruby search systems (Sunspot, acts\_as\_ferret, ultraspinx,
 > thinking\_sphinx, acts\_as\_solr, acts\_as\_xapian, xapit, raw mysql)
 
 {::coverage year="2011" month="february" talk="ruby-search-systems-sunspot-acts-as-ferret-ultraspinx-thinking-sphinx-acts-as-solr-acts-as-xapian-xapit-raw-mysql" /}
 
-#### [Ben Griffiths](http://twitter.com/beng)
+### [Ben Griffiths](http://twitter.com/beng)
 
 > [BASIC interpreter](https://github.com/techbelly/BASIC)
 
 {::coverage year="2011" month="february" talk="basic-interpreter" /}
 
-#### [Gerhard Lazu](http://twitter.com/gerhardlazu)
+### [Gerhard Lazu](http://twitter.com/gerhardlazu)
 
 > How do we suck in 480 books per second from Amazon's API using Ruby via Redis into MongoDB
 
 {::coverage year="2011" month="february" talk="how-do-we-suck-in-480-books-per-second-from-amazon-s-api-using-ruby-via-redis-into-mongodb" /}
 
-#### [Chris Lowis](http://twitter.com/chrislowis)
+### [Chris Lowis](http://twitter.com/chrislowis)
 
 > W3C Audio XG Group (audio + javascript)
 
 {::coverage year="2011" month="february" talk="w3c-audio-xg-group-audio-javascript" /}
 
-#### [Neil Middleton](http://twitter.com/neilmiddleton)
+### [Neil Middleton](http://twitter.com/neilmiddleton)
 
 > Riding Rails through a TV induced storm
 
 {::coverage year="2011" month="february" talk="riding-rails-through-a-tv-induced-storm" /}
 
-#### [Jim Myhrberg](http://twitter.com/jimeh)
+### [Jim Myhrberg](http://twitter.com/jimeh)
 
 > [Redistat](https://github.com/jimeh/redistat)
 
 {::coverage year="2011" month="february" talk="redistat" /}
 
-#### [Tom Stuart](http://twitter.com/tomstuart)
+### [Tom Stuart](http://twitter.com/tomstuart)
 
 > ARel / Relational Algebra
 
 {::coverage year="2011" month="february" talk="relational-algebra-and-arel" /}
 
-#### [Tom ten Thij](http://twitter.com/tomtt)
+### [Tom ten Thij](http://twitter.com/tomtt)
 
 > xpath + xpath use patterns in capybara
 

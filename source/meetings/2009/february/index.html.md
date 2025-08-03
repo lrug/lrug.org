@@ -1,5 +1,5 @@
 ---
-created_by: 
+created_by:
   email: murray.steele@gmail.com
   name: Murray Steele
 category: meeting
@@ -17,61 +17,77 @@ The next meeting of LRUG will be on Monday the 9th of February, from 6:30pm to 8
 
 ## Agenda
 
-### Lightning Talks
-
-This month (just like we did [last February](/meetings/2008/01/25/february-2008-meeting/)) we're going to have a series of lightning talks in the 20x20 slide format.  For those who didn't attend last year, or aren't familiar with the format is: the presenter has 20 slides which are displayed for 20 seconds each, giving a total presentation time of 6:40.  Last year it was a really fun evening as we got to hear about a load of different stuff and with only 6:40 in which to get their point across the presenters maybe didn't have enough time to fully justify their positions.  It made for some interesting questions at the end!
+This month (just like we did [last February](/meetings/2008/february/)) we're going to have a series of lightning talks in the 20x20 slide format.  For those who didn't attend last year, or aren't familiar with the format is: the presenter has 20 slides which are displayed for 20 seconds each, giving a total presentation time of 6:40.  Last year it was a really fun evening as we got to hear about a load of different stuff and with only 6:40 in which to get their point across the presenters maybe didn't have enough time to fully justify their positions.  It made for some interesting questions at the end!
 
 Those brave volunteers are:
 
-### [Tom Armitage](http://infovoer.org/)
+### Twit 4 Dead
 
-> His [Twit 4 Dead](http://infovore.org/archives/2008/12/29/twit-4-dead/) bots ([Francis](http://twitter.com/francis_l4d), [Louis](http://twitter.com/louis_l4d), [Zoey](http://twitter.com/zoey_l4d) & [Bill](http://twitter.com/bill_l4d)).  
+[Tom Armitage](http://infovoer.org/):
+
+> His [Twit 4 Dead](http://infovore.org/archives/2008/12/29/twit-4-dead/) bots ([Francis](http://twitter.com/francis_l4d), [Louis](http://twitter.com/louis_l4d), [Zoey](http://twitter.com/zoey_l4d) & [Bill](http://twitter.com/bill_l4d)).
 
 {::coverage year="2009" month="february" talk="his-twit-4-dead-bots-francis-louis-zoey-bill" /}
 
-### [Julian Burgess](http://blog.opening-times.co.uk/) 
+### Cry for help
 
-> Cry for help - an anti talk? 
+[Julian Burgess](http://blog.opening-times.co.uk/):
+
+> Cry for help - an anti talk?
 
 {::coverage year="2009" month="february" talk="a-cry-for-help-an-anti-talk" /}
 
-### [Steve Ganly](http://concept-shop.com/) - "rubysmokes" 
+### `rubysmokes`
+
+[Steve Ganly](http://concept-shop.com/):
 
 > A proposal for [smoke testing](http://en.wikipedia.org/wiki/Smoke_testing#Smoke_testing_in_software_development) ruby
 
 {::coverage year="2009" month="february" talk="ruby-smokes-a-proposal-for-smoke-testing-ruby" /}
 
-### [Richard Livsey](http://livsey.org/) 
+### All the ruby that's fit to merge
+
+[Richard Livsey](http://livsey.org/):
 
 > All the ruby that's fit to merge: [Rails 3.0 & Merb 2.0](http://weblog.rubyonrails.org/2008/12/23/merb-gets-merged-into-rails-3)
 
 {::coverage year="2009" month="february" talk="all-the-ruby-thats-fit-to-merge-rails-3-0-merb-2-0" /}
 
-### [Chris Lowis](http://blog.chrislowis.co.uk/)
+### Scientific Ruby
 
-> Ruby and the [GNU Scientific Library](http://www.gnu.org/software/gsl/) and/or [R](http://www.r-project.org/). 
+[Chris Lowis](http://blog.chrislowis.co.uk/):
+
+> Ruby and the [GNU Scientific Library](http://www.gnu.org/software/gsl/) and/or [R](http://www.r-project.org/).
 
 {::coverage year="2009" month="february" talk="ruby-and-the-gnu-scientific-library-and-or-r" /}
 
-### [Matt Patterson](http://reprocessed.org)
+### dpkg-tools
 
-> A talk about [dpkg-tools](http://dpkg-tools.rubyforge.org/). 
+[Matt Patterson](http://reprocessed.org):
+
+> A talk about [dpkg-tools](http://dpkg-tools.rubyforge.org/).
 
 {::coverage year="2009" month="february" talk="dpkg-tools" /}
 
-### [Thomas Pomfret](http://thomaspomfret.com/)
+### Ruby and XMPP
+
+[Thomas Pomfret](http://thomaspomfret.com/):
 
 > Ruby and [XMPP](http://xmpp.org/).
 
 {::coverage year="2009" month="february" talk="ruby-and-xmpp" /}
 
-### [Roland Swingler](http://knaveofdiamonds.tumblr.com/)
+### `rubygame`
+
+[Roland Swingler](http://knaveofdiamonds.tumblr.com/):
 
 > Something about [rubygame](http://rubygame.sourceforge.net/).
 
 {::coverage year="2009" month="february" talk="something-about-rubygame" /}
 
-### [Tom ten Thij](http://tomtenthij.co.uk/)
+### `ruby-debug`
+
+[Tom ten Thij](http://tomtenthij.co.uk/):
 
 > Debugging with [ruby-debug](http://www.datanoise.com/ruby-debug).
 
@@ -83,6 +99,6 @@ After that many presentations there's bound to be a lot to talk about, so we'll 
 
 ## Registration {#feb09registration}
 
-[Please register with Skills Matter](http://skillsmatter.com/event/ajax-ria/lightning-talks-ruby-and-rails) if you are planning to come.  As we mentioned above, they need us to register for fire-regulations and making sure we get the best sized room for the number of attendees.  
+[Please register with Skills Matter](http://skillsmatter.com/event/ajax-ria/lightning-talks-ruby-and-rails) if you are planning to come.  As we mentioned above, they need us to register for fire-regulations and making sure we get the best sized room for the number of attendees.
 
 There's also an [upcoming event](http://upcoming.yahoo.com/event/1504505/) for those of us that love online calendaring, but this is not a place to indicate attendance in a meaningful way for Skills Matter.

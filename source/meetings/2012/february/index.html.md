@@ -17,61 +17,75 @@ The February 2012 meeting of LRUG will be on *Tuesday* the 21st of February, fro
 
 ## Agenda
 
-### Lightning talks!
-
 As is now traditional, we devote our February meeting to lightning talks.  Not just any old lightning talks either, we use the 20x20 format for the talks.  Each speaker has 20 slides that auto-transition after 20 seconds, giving them a total of 6 minutes and 40 seconds in which to get their point across.
 
 Our confirmed volunteers for 2012 are:
 
-#### [James Coglan](http://twitter.com/jcoglan)
+### A history of websockets
+
+[James Coglan](http://twitter.com/jcoglan):
 
 > A History of Websockets
 
 {::coverage year="2012" month="february" talk="a-history-of-websockets" /}
 
-#### [Jairo Diaz](http://twitter.com/codescrum)
+### Tech Interns
+
+[Jairo Diaz](http://twitter.com/codescrum):
 
 > "Tech interns" - How to get more qualified interns into Ruby.
 
 {::coverage year="2012" month="february" talk="tech-interns" /}
 
-#### [Stuart Eccles](http://twitter.com/stueccles)
+### Conan the deployer
+
+[Stuart Eccles](http://twitter.com/stueccles):
 
 > Conan the deployer - capistrano extensions focussing on AWS
 
 {::coverage year="2012" month="february" talk="conan-the-deployer" /}
 
-#### [Richard Livsey](http://twitter.com/rlivsey)
+### Breaking up is hard to do
+
+[Richard Livsey](http://twitter.com/rlivsey):
 
 > Breaking up is hard to do - extracting authentication code from models
 
 {::coverage year="2012" month="february" talk="breaking-up-is-hard-to-do" /}
 
-#### [Harry Marr](http://twitter.com/harrymarr)
+### Documentation generators
+
+[Harry Marr](http://twitter.com/harrymarr):
 
 > Custom documentation generators ([example](https://gocardless.com/docs))
 
-#### [Andrew McDonough](http://twitter.com/andrewmcdonough)
+### Ruby Poetry
+
+[Andrew McDonough](http://twitter.com/andrewmcdonough):
 
 > Ruby Poetry
 
 {::coverage year="2012" month="february" talk="ruby-poetry" /}
 
-#### [Chris Parsons](http://twitter.com/chrismdp)
+### The great ruby showdown
+
+[Chris Parsons](http://twitter.com/chrismdp):
 
 > The crowd-sourced talk. One slot at these evenings is given over to someone prepared to do a talk on something that the mailing list suggests, Chris is bravely wearing that mantle this time.
 
 {::coverage year="2012" month="february" talk="the-great-ruby-showdown" /}
 
-#### [Roland Swingler](http://twitter.com/knaveofdiamonds)
+### Reading tea leaves
+
+[Roland Swingler](http://twitter.com/knaveofdiamonds):
 
 > Reading tea leaves - predict the future with ruby!
 
 {::coverage year="2012" month="february" talk="reading-tea-leaves-predict-the-future-with-ruby" /}
 
-Also, these brave folk have volunteered, but are waiting in the wings before confirming fully:
+### `SockJS`
 
-#### [Jakub Šťastný](http://twitter.com/botanicus)
+[Jakub Šťastný](http://twitter.com/botanicus):
 
 > [SockJS](https://github.com/sockjs/sockjs-ruby) - a websocket emulation library
 

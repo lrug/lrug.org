@@ -24,8 +24,6 @@ Victoria St. [Full venue and registration details are given below](#feb24registr
 
 ## Agenda
 
-### Lightning Talks!
-
 Our February meeting is our annual event devoted to short talks of no more
 than 10 minutes.
 

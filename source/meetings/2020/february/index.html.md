@@ -26,6 +26,9 @@ below](#feb20registration).
 
 ## Agenda
 
+This meeting is our annual lightning talks only event.  None of the talks
+are longer than 10 minutes, and so there's something for everyone.
+
 ### Food & Drinks
 
 [Simply Business](https://www.simplybusiness.co.uk/) are going to make
@@ -33,12 +36,7 @@ some food and drink available to us during the meeting to help us stave
 off hunger pangs while we are amazed by all the talks. Thanks again
 [Simply Business](https://www.simplybusiness.co.uk/)!
 
-### Lightning Talks
-
-This meeting is our annual lightning talks only event.  None of the talks
-are longer than 10 minutes, and so there's something for everyone.
-
-#### You don't know what you don't know
+### You don't know what you don't know
 
 [Elena Tanasoiu](https://twitter.com/elenatanasoiu) says:
 
@@ -48,7 +46,7 @@ are longer than 10 minutes, and so there's something for everyone.
 
 {::coverage year="2020" month="february" talk="you-dont-know-what-you-dont-know" /}
 
-#### Designing Domain-Oriented Observability in your system
+### Designing Domain-Oriented Observability in your system
 
 [Alfredo Motta](https://twitter.com/mottalrd) says:
 
@@ -61,7 +59,7 @@ are longer than 10 minutes, and so there's something for everyone.
 
 {::coverage year="2020" month="february" talk="designing-domain-oriented-obvservability-in-your-system" /}
 
-#### Semantic Versioning, Ruby Versoning, and the forward march of progress
+### Semantic Versioning, Ruby Versoning, and the forward march of progress
 
 [Jon Rowe](https://twitter.com/JonRowe) is going to tell us about how ruby
 versioning interprets semantic versioning, and the problems that brings
@@ -70,7 +68,7 @@ ruby.
 
 {::coverage year="2020" month="february" talk="semantic-versioning-ruby-versioning-and-the-forward-march-of-progress" /}
 
-#### Influence your company beyond code
+### Influence your company beyond code
 
 [Mugurel Chirica](https://twitter.com/budmc29) says:
 
@@ -84,7 +82,7 @@ ruby.
 
 {::coverage year="2020" month="february" talk="influence-your-company-beyond-code" /}
 
-#### From confusion to contribution
+### From confusion to contribution
 
 [Nitish Rathi](https://twitter.com/latebound) says:
 
@@ -94,7 +92,7 @@ ruby.
 
 {::coverage year="2020" month="february" talk="from-confusion-to-contribution" /}
 
-#### How to manage happy remote development teams
+### How to manage happy remote development teams
 
 [Ali Najaf](https://twitter.com/alinajaf) says:
 

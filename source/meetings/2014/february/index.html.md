@@ -22,62 +22,77 @@ The February 2014 meeting of LRUG will be on *Monday* the 10th of February, from
 
 ## Agenda
 
-### Lightning talks!
-
 February is our annual lightning talk evening and as usual we're using the 20x20 format for the talks.  If you've never encountered this format before it's when the speaker has 20 slides that auto-transition after 20 seconds, giving them a total of 6 minutes and 40 seconds in which to get their point across.
 
 Our volunteers for 2014 are:
 
-#### [Camille Baldock](http://camillebaldock.co.uk/)
+### Memory leaks
+
+[Camille Baldock](http://camillebaldock.co.uk/):
 
 > Visually representing memory leaks in Ruby applications
 
 {::coverage year="2014" month="february" talk="how-to-visually-represent-memory-leaks-in-ruby-applications" /}
 
-#### [Alice Bartlett](http://alicebartlett.co.uk/)
+### Five facts about smell
+
+[Alice Bartlett](http://alicebartlett.co.uk/):
 
 > Five facts about smell
 
 {::coverage year="2014" month="february" talk="five-facts-about-smell" /}
 
-#### [Nat Buckley](http://ntlk.net/)
+### 10 things I hate about your documentation
+
+[Nat Buckley](http://ntlk.net/):
 
 > 10 things I hate about your documentation
 
 {::coverage year="2014" month="february" talk="10-things-i-hate-about-your-documentation" /}
 
-#### [Tom Cartwright](http://www.tomcartwright.net/)
+### AngularJS for rubyists
+
+[Tom Cartwright](http://www.tomcartwright.net/):
 
 > AngularJS for rubyists
 
 {::coverage year="2014" month="february" talk="angularjs-for-rubyists" /}
 
-#### [Daniel Cooper](https://twitter.com/daniel_cooper) & [Jeremy Tapp](https://twitter.com/JeremyTapp)
+### A conversation between a developer and a manager
+
+[Daniel Cooper](https://twitter.com/daniel_cooper) & [Jeremy Tapp](https://twitter.com/JeremyTapp):
 
 > A conversation between a developer and a manager
 
 {::coverage year="2014" month="february" talk="a-conversation-between-a-developer-and-a-manager" /}
 
-#### [Swathi Kantharaja](http://www.swathik.com/)
+### `jekyll`
+
+[Swathi Kantharaja](http://www.swathik.com/):
 
 > Create your own blog using jekyll
 
 {::coverage year="2014" month="february" talk="create-your-own-blog-using-jekyll" /}
 
-#### [Gerhard Lazu](http://gerhardlazu.com/)
+### Docker & Ansible
+
+[Gerhard Lazu](http://gerhardlazu.com/):
 
 > Docker & Ansible: The Path to Continuous Delivery
 
 {::coverage year="2014" month="february" talk="docker-ansible-the-path-to-continuous-delivery" /}
 
+### FirefoxOS on Rails
 
-#### [Pablo Brasero Moreno](http://www.pablobm.com/)
+[Pablo Brasero Moreno](http://www.pablobm.com/):
 
 > FirefoxOS on Rails
 
 {::coverage year="2014" month="february" talk="firefoxos-on-rails" /}
 
-#### [Despo Pentara](https://twitter.com/despo)
+### Open Source, how to get started
+
+[Despo Pentara](https://twitter.com/despo):
 
 > Open Source, how to get started
 

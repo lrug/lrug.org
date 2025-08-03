@@ -24,12 +24,10 @@ registration details are given below](#feb19registration).
 
 ## Agenda
 
-### Lightning Talks!
-
 Our February meeting is our annual event devoted to short talks of no more
 than 10 minutes.
 
-#### A different take on validation using the dry-validation gem
+### A different take on validation using the dry-validation gem
 
 [Alfredo Motta](https://twitter.com/mottalrd):
 
@@ -43,7 +41,7 @@ than 10 minutes.
 
 {::coverage year="2019" month="february" talk="a-different-take-on-validation-using-the-dry-validation-gem" /}
 
-#### Capybara architecture overview
+### Capybara architecture overview
 
 [Ben Holmes](http://benholmes.uk/):
 
@@ -52,7 +50,7 @@ than 10 minutes.
 
 {::coverage year="2019" month="february" talk="capybara-architecture-overview" /}
 
-#### Automating Infrastructure Tasks with the Serverless Framework
+### Automating Infrastructure Tasks with the Serverless Framework
 
 [Bernat Rafales](https://twitter.com/brafales):
 
@@ -61,7 +59,7 @@ than 10 minutes.
 
 {::coverage year="2019" month="february" talk="automating-infrastructure-tasks-with-the-serverless-framework" /}
 
-#### Using Rails with a Content Distribution Network (CDN)
+### Using Rails with a Content Distribution Network (CDN)
 
 [Gideon Goldberg](https://twitter.com/gidsg):
 
@@ -70,7 +68,7 @@ than 10 minutes.
 
 {::coverage year="2019" month="february" talk="using-rails-with-a-content-distribution-network-cdn" /}
 
-#### A developer and a designer, getting along famously
+### A developer and a designer, getting along famously
 
 [Celia Collins](https://twitter.com/celiadcollins) and [Boris Divjak](https://twitter.com/borisdivjak):
 
@@ -82,7 +80,7 @@ than 10 minutes.
 
 {::coverage year="2019" month="february" talk="a-developer-and-a-designer-getting-along-famously" /}
 
-#### Humans are hard
+### Humans are hard
 
 [Matthew Rudy Jacobs](https://twitter.com/matthewrudy):
 
@@ -91,7 +89,7 @@ than 10 minutes.
 
 {::coverage year="2019" month="february" talk="humans-are-hard" /}
 
-#### How to craft your commit history
+### How to craft your commit history
 
 [Tatiana Stantonian](https://twitter.com/binaryberry):
 
@@ -103,12 +101,12 @@ than 10 minutes.
 
 {::coverage year="2019" month="february" talk="how-to-craft-your-commit-history" /}
 
-#### Using ActiveRecord types for backwards compatibility
+### Using ActiveRecord types for backwards compatibility
 
 [Alex Balhatchet](https://twitter.com/kaokun)
 
-> How the CharlieHR team handled a tricky change by using a custom 
-> ActiveRecord type as a temporary backwards compatibility layer between 
+> How the CharlieHR team handled a tricky change by using a custom
+> ActiveRecord type as a temporary backwards compatibility layer between
 > the code and the database.
 
 {::coverage year="2019" month="february" talk="using-activerecord-types-for-backwards-compatibility" /}
