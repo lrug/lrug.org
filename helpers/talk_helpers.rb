@@ -10,9 +10,19 @@ module TalkHelpers
     data.talks.dig(year, month).map { Talk.from(year:, month:, id: it[0], details: it[1]) }
   end
 
-  Talk = Data.define(:id, :title, :description, :custom_intro, :speaker, :coverage_links, :year, :month) do
+  Talk = Data.define(:id, :title, :description, :custom_intro, :use_description_as_intro, :speaker, :coverage_links, :year, :month) do
     def self.from(year:, month:, id:, details:)
-      new(id:, title: details.title, description: details.description, custom_intro: details.custom_intro, speaker: Speaker.from(speaker_details: details.speaker), coverage_links: Coverage.from(details.coverage), year:, month:)
+      new(
+        id:,
+        title: details.title,
+        description: details.description,
+        custom_intro: details.custom_intro,
+        use_description_as_intro: details.use_description_as_intro || false,
+        speaker: Speaker.from(speaker_details: details.speaker),
+        coverage_links: Coverage.from(details.coverage),
+        year:,
+        month:
+      )
     end
 
     def render(on:)
@@ -20,7 +30,9 @@ module TalkHelpers
     end
 
     def intro
-      if custom_intro
+      if use_description_as_intro
+        description
+      elsif custom_intro
         "#{speaker.formatted_name} #{custom_intro}:"
       else
         "#{speaker.formatted_name} says:"

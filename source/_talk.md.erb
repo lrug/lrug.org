@@ -2,6 +2,6 @@
 
 <%= locals[:talk].intro %>
 
-<%= blockquote(locals[:talk].description) %>
+<%= blockquote(locals[:talk].description) unless locals[:talk].use_description_as_intro %>
 
 <%= locals[:talk].render_coverage(on: self) %>
