@@ -50,7 +50,7 @@ The code produced by each of the 3 groups is available on the [LRUG github accou
 
 {::coverage year="2009" month="september" talk="coding-dojo" /}
 
-### "Analogue Blog"
+### Analogue Blog
 
 Following on from [last month](http://lists.lrug.org/pipermail/chat-lrug.org/2009-August/003971.html) there'll be 10-15 minutes at the start of the meeting for the analogue blog.  The Analogue Blog is open for anyone to say whatever they think is interesting; you could announce a gem you've written, you could point out a nice plugin or tool that you've been using recently, you can mention a blog post that got you thinking, you could ask for some help on a pet-project, basically anything goes, just keep it short so that everyone else has time to speak!
 

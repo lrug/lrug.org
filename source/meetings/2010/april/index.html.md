@@ -43,7 +43,7 @@ A video of Sean's talk is available on the [Skills Matter site](http://skillsmat
 
 A video of Seth's talk is available on the [Skills Matter site](http://skillsmatter.com/podcast/ajax-ria/seth-edwards-mongodb).
 
-### "Analogue Blog"
+### Analogue Blog
 
 As usual we'll have 10-15 minutes at the start of the meeting for anyone to fill up with something they think might be of interest to the group.  It's really up to you what you say: announce a gem you've written, ask for help on a project, say you are interested in talking to someone in the pub after wards who knows about a particular gem, or even just say hi. the only rule is to keep it short as there'll be others who want to say something and we don't want to eat into the time for the scheduled talks.
 

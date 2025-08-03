@@ -47,7 +47,7 @@ This month [Chris Parsons](http://pa.rsons.org) and [Corey Haines](http://www.co
 
 Videos of [Chris's talk](http://skillsmatter.com/podcast/agile-scrum/chris-parsons-software-craftsmanship-ideas-eden) ([slides](http://www.slideshare.net/skillsmatter/chrisparsons)) and [Corey's talk](http://skillsmatter.com/podcast/ajax-ria/corey-haines-software-craftsmanship-terminology) ([slides](http://www.slideshare.net/skillsmatter/coreyhaines)) are available on the [Skills Matter site](http://skillsmatter.com/event/ajax-ria/software-craftsmanship).
 
-### "Analogue Blog"
+### Analogue Blog
 
 After the hiatus in February, the analogue blog will return at the start of this meeting.  There'll be about 10-15 minutes available for anyone to get up and say something to the group.  It's a open forum for the local community to speak to each other, maybe to announce a newly released gem or library, maybe to ask the rest of the group for some help, or to suggest a theme for a future meeting.  The only rule is that you shouldn't go on for too long as there are other people that want to say something too.
 

@@ -62,7 +62,7 @@ For those who like spoilers you can see [the code on github](http://github.com/j
 
 {::coverage year="2010" month="july" talk="actionembedding" /}
 
-### "Analogue Blog"
+### Analogue Blog
 
 We start the meeting with a short amount of time where anyone in the room can make an announcement.  In the past few months it's mostly been the LRUG job board, but that's not all we want people to talk about.  If you've written some fancy new gem and want to tell people about it, this is the time and place to do it.  If you read a controversial article about some aspect of ruby that you want to draw people's attention to, this is a great time to mention it.  If you've got your finger on the pulse and know about some new hack day or other geek event, this is the room full of people you should mention it to.  The rules are simple, you just have to be quick.
 

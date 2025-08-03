@@ -106,10 +106,9 @@ The current line-up of 20x20-ers is as follows:
 
 {::coverage year="2010" month="february" talk="some-rough-fibrous-material" /}
 
+### Analogue Blog
 
-### "Analogue Blog"
-
-Depending on how many lighning talks there are, we may have time at the start of the meeting for 10-15 minutes of free time for anyone to speak.  You don't need to ask for permission or let us know in advance that you have something to say here, just turn up, stand up and say it!  It's a forum for announcements, or pleas for help, or a soapbox for starting discussions.  Just remember not to run on for too long as there's probably other people that want to say something too (it would also be embarrassing if you ran on for longer than our scheduled lightning talks!).
+Depending on how many lightning talks there are, we may have time at the start of the meeting for 10-15 minutes of free time for anyone to speak.  You don't need to ask for permission or let us know in advance that you have something to say here, just turn up, stand up and say it!  It's a forum for announcements, or pleas for help, or a soapbox for starting discussions.  Just remember not to run on for too long as there's probably other people that want to say something too (it would also be embarrassing if you ran on for longer than our scheduled lightning talks!).
 
 ## Pub
 

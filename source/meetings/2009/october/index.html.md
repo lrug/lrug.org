@@ -47,7 +47,7 @@ A video of Tom's talk is available on the [Skills Matter site](http://skillsmatt
 
 We still have room for one more speakers, or we can let Tom and Brent talk for longer.  [Let us know](/speaking/) if you're interested.
 
-### "Analogue Blog"
+### Analogue Blog
 
 We missed out on this during the [Dojo meeting last month](/meetings/2009/08/18/september-2009-meeting/) because of time constraints.  We'll make sure there's time this month though.  The idea is that we have 10-15 minutes at the start of the meeting for anyone to say whatever they think is interesting; you could announce a gem you've written, you could point out a nice plugin or tool that you've been using recently, you can mention a blog post that got you thinking, you could ask for some help on a pet-project, basically anything goes, just keep it short so that everyone else has time to speak!
 

@@ -41,7 +41,7 @@ mind before hand. Just get in touch with [Joseph directly](http://twitter.com/jo
 
 {::coverage year="2010" month="october" talk="cucumber-workshop" /}
 
-### "Analogue Blog"
+### Analogue Blog
 
 We start the meetings with short announcements about anything and everything that the group might be interested in.  We announce when people are hiring, we announce new conferences that people might want to attend or present at, we announce interesting blog posts to spark debate in the pub afterwards.  Anything goes really!  You don't have to ask for permission, just get up and say your piece, but keep it quick so you don't run on into the time for the scheduled talks.  In fact if it's longer than a minute, maybe you should think about [doing a longer talk](/speaking/).
 

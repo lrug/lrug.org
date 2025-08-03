@@ -53,7 +53,7 @@ The August meeting will be on *Monday* the 9th of August, from 6:30pm to 8:00pm.
 
 {::coverage year="2010" month="august" talk="ittybittyboom-com-and-cramp" /}
 
-### "Analogue Blog"
+### Analogue Blog
 
 Our meetings start with a short period where we make announcements about things going on in the community.  If you have something you think the rest of the group might want to know about; an event, a new gem, a blog post, a company that's hiring or even just to introduce yourself, then this is the time and place to do it.  The only rules are that you can't go on about it, we don't want to eat into the time for the scheduled talks.
 

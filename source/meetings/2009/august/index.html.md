@@ -57,7 +57,7 @@ If he's finished writing it, [Gerhard Lazu](http://www.gerhardlazu.com/) will do
 
 [Morten Bagai](http://twitter.com/mortenheroku) from [Heroku](http://heroku.com/) might be in town and if so is going to give us an overview of their platform.  His presentation will also cover where they're going in the near future, what they'd like to know from us and info on their plans for their European customers.
 
-### "Analogue Blog"
+### Analogue Blog
 
 <del>Stealing</del><ins>Borrowing</ins> an idea from the [Sydney Ruby User Group](http://rubyonrails.com.au/sydney-meetups) we'll put aside some time at the start of the meeting where you can pass on information you think is of interest to the group.  For example you could announce a new gem you've written or found useful recently, let people know about any interesting events that are happening soon or just bring people's attention to news or gossip within the greater ruby community.  If you'd think about blogging it or starring it in your RSS reader, then mention it here.  This section will last for about 10-15 minutes and anyone can speak if they keep it short and to the point!
 

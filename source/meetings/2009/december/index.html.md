@@ -45,7 +45,7 @@ A video of Alex's talk can be found on the [Skills Matter site](http://skillsmat
 
 A video of Rob's talk can be found on the [Skills Matter site](http://skillsmatter.com/podcast/ajax-ria/javascript-stories).
 
-### "Analogue Blog"
+### Analogue Blog
 
 At the start of each meeting we have 10-15 minutes set aside for anyone in the room to speak.  It's run "open" style, so you don't need to ask for permission, just stand up and say something.  In the past we've had new site announcements, gem demos, new framework announcements, overviews of recent conferences; basically anything you might post a link to on something like [Ruby Flow](http://rubyflow.com), you should think about mentioning here.
 

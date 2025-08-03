@@ -45,7 +45,7 @@ The May meeting will be on Wednesday the 12th of May, from <strike>6:30pm to 8:0
 
 [John Leach](http://johnleach.co.uk/) kindly offered to do a version of this talk (previously given at [Conferencia Rails 2009](http://www.conferenciarails.org/) and [Scottish Ruby Conference 2010](http://scottishrubyconference.com/)), but unfortunately he had to pull out at the last minute due to a double booking.  We'll try to reschedule this talk for a future meeting.
 
-### "Analogue Blog"
+### Analogue Blog
 
 There'll always be time at the start of the meeting (and between the speakers) for anyone in the group to get up and say something.  Use this time to let us know about anything you think is relevant to the group: maybe announce that your awesome team is hiring, or that you've just released a really interesting gem, or draw people's attention to a controversial blog post, or event to ask for some help working on a personal project.  It's really up to you what you say, just keep it short because we don't want to eat into the time for the scheduled talks.
 

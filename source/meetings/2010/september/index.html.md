@@ -49,7 +49,7 @@ The September meeting will be on *Monday* the 13th of September, from 6:30pm to 
 
 {::coverage year="2010" month="september" talk="asynchronous-interfaces" /}
 
-### "Analogue Blog"
+### Analogue Blog
 
 We start the meetings with announcements for the group.  If there's something you think the group should know, or something you're looking for help with, this is the time to say it.  You don't have to ask for permission, just get up and say your piece.  Just keep it short so you don't eat into the time for the scheduled talks.  In fact if it's longer than a minute, maybe you should think about [doing a longer talk](/speaking/).
 

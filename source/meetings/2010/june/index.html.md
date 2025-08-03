@@ -47,7 +47,7 @@ The June meeting will be on *Monday* the 14th of June, from 6:30pm to 8:00pm.  O
 
 {::coverage year="2010" month="june" talk="unix-rediscovering-the-wheel" /}
 
-### "Analogue Blog"
+### Analogue Blog
 
 As per usual there will be some time at the start of the meeting for anyone in the group to get up and let us know about anything you think is relevant to the group.  Recently it's just been recruitment announcements, which are great, but it'd be even better if people mentioned some other news items; maybe you've just released a top-notch gem, or read a thought-provoking article you want to let people know about, or there's some event you've spotted that you think rubyists would be interested in.  It's really up to you what you say, just keep it short because we don't want to eat into the time for the scheduled talks.
 

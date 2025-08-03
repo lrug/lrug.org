@@ -55,7 +55,7 @@ A video of Mark's talk is available on the [Skills Matter site](http://skillsmat
 
 A video of Daniel's talk is available on the [Skills Matter site](http://skillsmatter.com/podcast/ajax-ria/redcar).
 
-### "Analogue Blog"
+### Analogue Blog
 
 We'll start the meeting with 10-15 minutes of free time for anyone to speak.  You don't need to ask for permission or let us know in advance that you have something to say here, just turn up, stand up and say it!  It's a forum for announcements, or pleas for help, or a soapbox for starting discussions.  Just remember not to run on for too long as there's probably other people that want to say something too.
 

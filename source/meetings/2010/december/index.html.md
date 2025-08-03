@@ -43,7 +43,7 @@ The <span style="font-family: fantasy; font-size: 1.2em;">winterval</span> meeti
 >
 > There'll be a bit about [Hadoop](http://hadoop.apache.org/) and [Map/Reduce](http://en.wikipedia.org/wiki/Map_reduce) too.
 
-### "Analogue Blog"
+### Analogue Blog
 
 Our meetings have space, usually at the start, but also between the talks if there's a lot of laptop faffing, for announcements from the audience.  If you have something you think is of interest to the group; perhaps a new conferences has announced their CFP or ticket discount, or there's a new gem you want to let people know about, or maybe your team of awesome ninja rockstars is hiring.  Whatever!  There's no need to ask permission; get up, say your thing and sit down again.  Just be quick so you don't run on into the time for the scheduled talks.  In fact if it's longer than a minute, maybe you should think about [doing a longer talk](/speaking/).
 

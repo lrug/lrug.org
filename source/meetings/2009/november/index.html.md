@@ -45,7 +45,7 @@ A video of John's talk is available on the [Skills Matter site](http://skillsmat
 
 A video of Julian's talk is available on the [Skills Matter site](http://skillsmatter.com/podcast/ajax-ria/drunken-build-monkey) and his slides can be found on [Slideshare](http://www.slideshare.net/simpsonjulian/lrug).
 
-### "Analogue Blog"
+### Analogue Blog
 
 At the start of each meeting we have 10-15 minutes set aside for people to speak about anything they think is of interest to the group.  It's "open" style, so you don't need to ask for permission, just turn up and say something.  In the past we've had overviews of recent conferences, discussions of alternative JS frameworks for Rails, announcements about new events, calls for help reviewing patches for Rails, a quick demo of a new gem.  Basically anything you might post a link to on something like [Ruby Flow](http://rubyflow.com), you should think about mentioning here.
 

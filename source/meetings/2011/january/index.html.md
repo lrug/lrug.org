@@ -48,7 +48,7 @@ A video of Matthew's talk, filmed by Skills Matter, [is available on the Skills 
 
 {::coverage year="2011" month="january" talk="building-a-financial-app-in-rails" /}
 
-### "Analogue Blog"
+### Analogue Blog
 
 At the start of the meetings, and during laptop faffing between talks we leave the floor open for the audience.  The idea is that if there's something you want to say to the group (announce you're team is hiring, let people know about a new gem you've written, point out a new conference, ask for help on a personal project, whatever really...) then this is the time to do it.  Just keep it short, if it's longer than a minute, maybe you should think about [doing a longer talk](/speaking/).
 
