@@ -1,5 +1,5 @@
 ---
-created_by: 
+created_by:
   email: murray.steele@gmail.com
   name: Murray Steele
 category: meeting
@@ -19,19 +19,19 @@ The next meeting of LRUG will be on Monday the 10th of September, from 6:30pm to
 
 ### StaticMatic
 
-[Stephen Bartholomew](http://www.stephenbartholomew.co.uk/) was going to give a talk [last month](http://lrug.org/meetings/2007/07/23/august-2007-meeting/) but kindly stepped aside to let [Jay Phillips](http://jicksta.com/), who was only in the country for a few weeks, do a talk.  This month however, there'll be no such chivalry and Stephen is determined to talk to us about his gem [StaticMatic](http://rubyforge.org/projects/staticmatic/) and the technologies that it uses.  
+[Stephen Bartholomew](http://www.stephenbartholomew.co.uk/) was going to give a talk [last month](http://lrug.org/meetings/2007/07/23/august-2007-meeting/) but kindly stepped aside to let [Jay Phillips](http://jicksta.com/), who was only in the country for a few weeks, do a talk.  This month however, there'll be no such chivalry and Stephen is determined to talk to us about his gem [StaticMatic](http://rubyforge.org/projects/staticmatic/) and the technologies that it uses.
 
 StaticMatic is a gem for building static websites and it uses the [love it](http://www.infoq.com/news/2007/05/haml-beauty-of-efficiency) or [hate it](http://meta.ath0.com/2007/04/15/software-and-religion/) alternate templating language [Haml & Sass](http://haml.hamptoncatlin.com/).  The gem is perfect for... well, as Stephen says:
 
-> CMS is overrated. A lot of the time, clients want us to do what we do 
-> best - well designed pages with structured, accessible and maintainable 
+> CMS is overrated. A lot of the time, clients want us to do what we do
+> best - well designed pages with structured, accessible and maintainable
 > markup & styling.
 >
 > CMSs are often sufficient for this, but sometimes they can be restrictive
 > and more cumbersome than just working with good ol' source code. At the
 > same time we want our code to be structured, DRY and flexible.
 
-Slides are [available here](http://www.stephenbartholomew.co.uk/2007/9/11/lrug-staticmatic-talk-slides).
+{::coverage year="2007" month="september" talk="staticmatic" /}
 
 ### Hpricot, Merb, Net::TOC
 
@@ -47,5 +47,5 @@ After all this we move on from the Skills Matter office to [The Crown Tavern](ht
 
 ## Registration {#sep07registration}
 
-As usual, [please register with Skills Matter](http://www.skillsmatter.com/lrug) if you are planning to come, so they can manage seating and making sure we get the most appropriately sized room.  There's also an [upcoming event](http://upcoming.yahoo.com/event/257272) for those of us that love online calendaring. 
+As usual, [please register with Skills Matter](http://www.skillsmatter.com/lrug) if you are planning to come, so they can manage seating and making sure we get the most appropriately sized room.  There's also an [upcoming event](http://upcoming.yahoo.com/event/257272) for those of us that love online calendaring.
 
