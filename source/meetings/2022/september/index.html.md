@@ -26,7 +26,6 @@ lovely folk at [Funding Circle](https://fundingcircle.com) are hosting us
 in [their offices][fc-venue], on Queen Victoria St. [Full venue and
 registration details are given below](#sep22registration).
 
-
 ## Agenda
 
 ### How music works, using Ruby

@@ -26,10 +26,10 @@ do make sure you do it.**
 
 [Tom Blomfield](https://twitter.com/t_blom) from [Generation Home](https://www.generationhome.com):
 
-> Tom was the founder of GoCardless (built in Ruby) and Monzo. 
-> He recently joined the board of Generation Home (also Ruby) - a 
-> London-based mortgage provider. He's come back to talk about the evolution 
-> of the London startup community and how successful fintechs are still 
+> Tom was the founder of GoCardless (built in Ruby) and Monzo.
+> He recently joined the board of Generation Home (also Ruby) - a
+> London-based mortgage provider. He's come back to talk about the evolution
+> of the London startup community and how successful fintechs are still
 > building on Ruby on Rails
 
 {::coverage year="2021" month="august" talk="building-startups-with-ruby-on-rails" /}

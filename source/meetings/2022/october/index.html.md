@@ -27,7 +27,6 @@ lovely folk at [Cleo](https://meetcleo.com) in [their
 offices][cleo-venue], on Shoreditch High St. [Full venue and registration
 details are given below](#oct22registration).
 
-
 ## Agenda
 
 ### How to be completely ignorant

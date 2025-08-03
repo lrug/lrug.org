@@ -39,7 +39,7 @@ December, from 6:00pm to 8:00pm (meeting starts at 6:30pm).
 [Matt Valentine-House](https://ruby.social/@eightbitraptor) says:
 
 > Join me on a journey through Ruby's Garbage Collector!
-> 
+>
 > In this talk I'll teach you some of the details about how the Ruby
 > interpreter manages memory. I'll introduce a project my team and I are
 > working on that aims to make Ruby faster by improving its memory
@@ -50,7 +50,7 @@ December, from 6:00pm to 8:00pm (meeting starts at 6:30pm).
 > taking a few bad turns until we finally emerge with a few PR's that
 > not only Fix GC, but make our project better too.
 
-###  What does "high priority" mean? The secret to happy queues
+### What does "high priority" mean? The secret to happy queues
 
 [Daniel Magliola](https://mobile.twitter.com/dmagliola)
 
@@ -61,7 +61,7 @@ December, from 6:00pm to 8:00pm (meeting starts at 6:30pm).
 > problem, try more or less the same solutions, and have roughly the same
 > result. In the end, it all boils down to one thing: keeping latency low. In
 > this talk I will present a latency-focused approach to managing your queues
-> reliably, keeping your jobs flowing and your users happy. 
+> reliably, keeping your jobs flowing and your users happy.
 
 ## Afterwards
 
