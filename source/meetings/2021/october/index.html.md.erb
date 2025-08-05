@@ -22,50 +22,7 @@ attendees, so please do make sure you do it.**
 
 ## Agenda
 
-### Solargraph: A Ruby language server to make your editor smart
-
-[Fritz Meissner](https://twitter.com/fritzmeissner) has been working on the fledgling
-[solargraph-rails](https://github.com/iftheshoefritz/solargraph-rails)
-plugin and wants to tell us all about it:
-
-> Language servers like [Solargraph](https://solargraph.org) can give code
-> editing superpowers to your favourite editor (Emacs, Vim, VSCode, etc.).
-> I'll talk about the Language Server Protocol and its advantages over
-> editor-specific plugins, as well as how Solargraph learns about your
-> Ruby. I'll also talk about the challenges that Rails poses for such
-> tooling and how solargraph-rails attempts to overcome them.
-
-{::coverage year="2021" month="october" talk="solargraph-a-ruby-language-server-to-make-your-editor-smart" /}
-
-### How denormalizing our Postgres turned great
-
-[Thierry Deo](https://github.com/tdeo) co-founder and lead dev at
-[Pennylane](https://www.pennylane.com) is going to tell us all about
-optimising their postgresql db:
-
-> It's often considered best practice to normalize the database structure
-> to avoid data redundancy and incoherence. In Pennylane's accounting
-> platform we've found that this actually does not always help with data
-> coherence, and even introduces additional complexity in managing data
-> access. Our combination of denormalizing some of our data, enhancing
-> some of ActiveRecord's methods, and introducing default behaviors in our
-> application models has enabled us to greatly simplify access control
-> management and given us confidence that our production data is in a
-> consistent state.
-
-{::coverage year="2021" month="october" talk="how-denormalizing-our-postgres-turned-great" /}
-
-### Memoization: My Favourite Antipattern
-
-[Joel Biffin](https://github.com/joelbiffin/) says:
-
-> As Rubyists we love to use built-in language features to set ourselves
-> apart for the rest. It's part of what makes programming in Ruby so
-> enjoyable! **Memoization** is no exception to this. But, *what if we
-> don't really need all of that memoization*? *Is memoization an
-> anti-pattern in its own right?*
-
-{::coverage year="2021" month="october" talk="memoization-my-favourite-antipattern" /}
+<%= render_talks %>
 
 ## Afterwards
 
