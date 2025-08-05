@@ -1,0 +1,436 @@
+---
+january:
+  heaping-on-the-complexity:
+    title: Heaping on the Complexity
+    description: |-
+      Join me on a journey through Ruby's Garbage Collector!
+
+      In this talk I'll teach you some of the details about how the Ruby
+      interpreter manages memory. I'll introduce a project my team and I are
+      working on that aims to make Ruby faster by improving its memory
+      efficiency, and then we'll talk about how our implementation broke
+      Garbage Collection.
+
+      After that we'll go on a journey together, through some weeds, and
+      taking a few bad turns until we finally emerge with a few PR's that
+      not only Fix GC, but make our project better too.
+    speaker:
+      name: Matt Valentine-House
+      url: https://ruby.social/@eightbitraptor
+    coverage:
+    - type: video
+      title: LRUG January 2023 - Matt Valentine-House - Heaping on the Complexity
+      url: https://assets.lrug.org/videos/2023/january/matt-valentine-house-heaping-on-the-complexity-lrug-jan-2023.mp4
+  what-does-high-priority-mean-the-secret-to-happy-queues:
+    title: 'What does "high priority" mean? The secret to happy queues'
+    description: |-
+      Like most web applications, you run important jobs in the background. And
+      today, some of your urgent jobs are running late. Again. No matter how many
+      changes you make to how you enqueue and run your jobs, the problem keeps
+      happening. The good news is you're not alone. Most teams struggle with this
+      problem, try more or less the same solutions, and have roughly the same
+      result. In the end, it all boils down to one thing: keeping latency low. In
+      this talk I will present a latency-focused approach to managing your queues
+      reliably, keeping your jobs flowing and your users happy.
+    speaker:
+      name: Daniel Magliola
+      url: https://mobile.twitter.com/dmagliola
+    coverage:
+    - type: video
+      title: LRUG January 2023 - Daniel Magliola - What does "high priority" mean?
+        The secret to happy queues
+      url: https://assets.lrug.org/videos/2023/january/daniel-magliola-what-does-high-priority-mean-the-secret-to-happy-queues-lrug-jan-2023.mp4
+  solargraph-rails-in-2022:
+    title: Solargraph-rails in 2022
+    description: |-
+      From chewing-gum-and-regex to 35,000 lines of code and YAML! Come hear
+      about the past year of work on the solargraph-rails gem. You'll see new
+      features, mostly from merging with the solargraph-ARC gem, and hear about
+      the lessons learned along the way: more code means more to maintain and
+      understand, but there's a surprising amount that can be done just by
+      putting one foot in front of the other.
+    speaker:
+      name: Fritz Meissner
+      url: https://twitter.com/fritzmeissner
+    coverage:
+    - type: video
+      title: LRUG January 2023 - Fritz Meissner - Solargraph-rails in 2022
+      url: https://assets.lrug.org/videos/2023/january/fritz-meissner-solargraph-rails-in-2022-lrug-jan-2023.mp4
+february:
+  a-supposedly-fun-thing-ill-never-stream-again:
+    title: 'A Supposedly Fun Thing I’ll Never Stream Again: live coding a Ruby project'
+    description: |-
+      Last September I began regularly livestreaming my work on a side project to
+      build a WebAssembly interpreter in Ruby. In this talk I’ll tell you how it’s
+      going and what I’ve learned so far.
+    speaker:
+      name: Tom Stuart
+      url: https://tomstu.art/
+    coverage:
+    - type: video
+      title: 'LRUG February 2023 - Tom Stuart - A supposedly fun thing I''ll never
+        stream again: Live coding a Ruby project'
+      url: https://assets.lrug.org/videos/2023/february/tom-stuart-a-supposedly-fun-thing-ill-never-stream-again-live-coding-a-ruby-project-lrug-feb-2023.mp4
+  to-mentor-or-to-mentee:
+    title: To mentor or to mentee - that is the question
+    description: |-
+      I started out 2022 looking for a mentor to help me on my ruby career
+      adventure. After reflection (and some interesting insights) I realised that
+      perhaps that was the wrong way round, and I would get more from being the
+      mentor - here I'll share a journey, lessons learned and why maybe you
+      should mentor someone too.
+    speaker:
+      name: Matt Bee
+      url: https://www.twitter.com/mattbee
+    coverage:
+    - type: video
+      title: LRUG February 2023 - Matt Bee - To mentor or to mentee that is the question
+      url: https://assets.lrug.org/videos/2023/february/matt-bee-to-mentor-or-to-mentee-that-is-the-question-lrug-feb-2023.mp4
+  data-structures-in-3-paradigms:
+    title: 'Data Structures in 3 Paradigms: Ruby Spotlight'
+    description: |-
+      Using a simple data structure as a starting point, we discuss three
+      different programming paradigms (imperative, object oriented and
+      functional), not only in terms of implementation, but also as a broader
+      framework for learning and having a richer mental model for problem solving.
+    speaker:
+      name: Frank Kair
+      url: https://github.com/frankkair
+    coverage:
+    - type: video
+      title: 'LRUG February 2023 - Frank Kair - Data structures in 3 paradigms: Ruby
+        spotlight'
+      url: https://assets.lrug.org/videos/2023/february/frank-kair-data-structures-in-3-paradigms-ruby-spotlight-lrug-feb-2023.mp4
+  using-the-mob-tool:
+    title: Using the 'mob' tool for productive pairing
+    description: |-
+      My team started using the opinionated 'mob' tool for our
+      remote mob and pair programming sessions. I'll explain what the tool does
+      and how I've found it helps us to maintain momentum while pairing.
+    speaker:
+      name: Chris Zetter
+      url: https://chriszetter.com
+    coverage:
+    - type: video
+      title: LRUG February 2023 - Chris Zetter - Using the mob tool for productive
+        pairing
+      url: https://assets.lrug.org/videos/2023/february/chris-zetter-using-the-mob-tool-for-productive-pairing-lrug-feb-2023.mp4
+  strings-interpolation-optimisation-and-bugs:
+    title: 'Strings: Interpolation, Optimisations and bugs'
+    description: |-
+      In this talk we'll explore a bit about how string interpolation works in
+      Ruby. We'll do this while investigating and fixing a bug arising from an
+      assumption made as part of an optimisation many years
+      ago that is no longer true.
+    speaker:
+      name: Matt Valentine-House
+      url: https://ruby.social/@eightbitraptor
+    coverage:
+    - type: video
+      title: 'LRUG February 2023 - Matt Valentine-House - Strings: Interpolation,
+        optimisation and bugs'
+      url: https://assets.lrug.org/videos/2023/february/matt-valentine-house-strings-interpolation-optimisation-and-bugs-lrug-feb-2023.mp4
+  wet-why-dry-isnt-always-best:
+    title: 'WET: Why DRY isn''t always best'
+    description: |-
+      An opinionated look at the pros and cons of
+      choosing abstractions early vs. waiting and duplicating effort
+    speaker:
+      name: Fell Sunderland
+      url: https://twitter.com/felltir
+    coverage:
+    - type: video
+      title: 'LRUG February 2023 - Fell Sunderland - WET: Why DRY isn''t always best'
+      url: https://assets.lrug.org/videos/2023/february/fell-sunderland-wet-why-dry-isnt-always-best-lrug-feb-2023.mp4
+  using-chatgpt-to-program-in-ruby:
+    title: Using ChatGPT to Program in Ruby
+    description: |-
+      The talk will be about using ChatGPT, an advanced language model developed
+      by OpenAI, to explore programming with a bot. The aim is to show how
+      developers can use ChatGPT to learn, write, and debug code in the Ruby
+      programming language.
+    speaker:
+      name: Jairo Diaz
+      url: https://www.linkedin.com/in/jairodiaz4/
+    coverage:
+    - type: video
+      title: LRUG February 2023 - Jairo Diaz - Using ChatGPT to program in Ruby
+      url: https://assets.lrug.org/videos/2023/february/jairo-diaz-using-chatgpt-to-program-in-ruby-lrug-feb-2023.mp4
+  pure-oop-in-ruby:
+    title: "“Pure” OOP in Ruby"
+    description: What if Ruby had NOTHING except classes and objects?
+    speaker:
+      name: Dmitry Non
+      url: https://nondv.wtf/blog.html
+    coverage:
+    - type: video
+      title: LRUG February 2023 - Dmitry Non - "Pure" OOP in Ruby
+      url: https://assets.lrug.org/videos/2023/february/dmitry-non-pure-oop-in-ruby-lrug-feb-2023.mp4
+march:
+  native-apps-are-dead-long-live-native-apps:
+    title: "Native apps are dead, long live native apps: Using Turbo Native to make
+      hybrid apps that don’t suck."
+    description: |-
+      You’ve heard it hundreds of times: Hybrid apps suck. That may have
+      been true in the past, but things have changed significantly in the last decade.
+      With tools like Turbo Native working in conjunction with Ruby on Rails, it’s
+      possible to mix web technologies with native APIs to build slick hybrid mobile
+      apps. We’ll take a look at why the hybrid approach gets such a bad rap, why
+      that reputation is undeserved, and how we can build hybrid apps that don''t
+      suck.
+    speaker:
+      name: Ayush
+      url: https://ruby.social/@ayush
+    coverage:
+    - type: video
+      title: LRUG March 2023 - Ayush Newatia - Native apps are dead, long live native
+        apps
+      url: https://assets.lrug.org/videos/2023/march/ayush-newatia-native-apps-are-dead-long-live-native-apps-lrug-mar-2023.mp4
+  end-to-end-typing-for-web-applications:
+    title: End to End typing for web applications
+    description: |-
+      Ever had a bug because the frontend made incorrect assumptions about the shape
+      of response data from the backend? Or maybe you trod nervously during a refactor?
+      Or perhaps you broke an app by changing the backend data in a way you didn’t
+      think would matter?
+
+      Learn how avoid this type of mistake, enabling you to keep moving fast, by
+      having a single source of truth for your data types, checked both on the frontend
+      and the backend.
+    speaker:
+      name: Frederick Cheung
+      url: https://ruby.social/@fglc2
+    coverage:
+    - type: video
+      title: LRUG March 2023 - Frederick Cheung - End to end typing for web applications
+      url: https://assets.lrug.org/videos/2023/march/frederick-cheung-end-to-end-typing-for-web-applications-lrug-mar-2023.mp4
+april:
+  making-a-working-upwards-assignment-operator:
+    title: Making a working upwards assignment operator
+    description: |-
+      Ruby has leftward assignment. It has rightward assignment. But what about upward assignment?
+
+      In this talk, we’ll misuse Ruby’s internals to build an arrow operator that lets us assign upwards. We’ll see some powerful Ruby metaprogramming features that allow us to bend Ruby to our will – and we’ll talk about why it’s good to write code that’s just plain daft.
+    speaker:
+      name: Alex
+      url: https://alexwlchan.net/
+    coverage:
+    - type: video
+      title: LRUG April 2023 - Alex - Making a working upwards assignment operator
+      url: https://assets.lrug.org/videos/2023/april/alex-making-a-working-upwards-assignment-operator-lrug-apr-2023.mp4
+    - type: write-up
+      title: Upward assignment in Ruby
+      url: https://alexwlchan.net/2023/upward-assignment/
+  build-a-mini-ruby-debugger-in-under-300-lines:
+    title: Build a mini Ruby debugger in under 300 lines
+    description: |-
+      As developers, we know that the best way to learn is by doing. Many of us have
+      built mini-rails, mini-sinatra, and even mini-rubies. But have you ever built
+      your own debugger?
+
+      In this talk, I'll show you how to create a mini Ruby debugger that's both
+      powerful and fun to use. You'll learn how to:
+      - Run your program with debugger with a simple command
+      - Set breakpoints and through debugger commands
+      - Step through your code to find bugs
+
+      And best of all, you'll do it all in under 300 lines of code!
+    speaker:
+      name: Stan Lo
+      url: https://github.com/st0012
+    coverage:
+    - type: video
+      title: LRUG April 2023 - Stan Lo - Build a mini Ruby debugger in under 300 lines-lrug-apr-2023
+      url: https://assets.lrug.org/videos/2023/april/stan-lo-build-a-mini-ruby-debugger-in-under-300-lines-lrug-apr-2023.mp4
+may:
+  github-actions-an-introduction:
+    title: 'GitHub Actions: an introduction'
+    description: |-
+      An introductory talk about GitHub Actions - what they are, why they are
+      important, and how you can get started with them.
+    speaker:
+      name: Gus Shaw Stewart
+      url: https://www.linkedin.com/in/gus-shaw-stewart-499409189/
+    coverage:
+    - type: video
+      title: 'LRUG May 2023 - Gus Shaw Stewart - GitHub Actions: an introduction'
+      url: https://assets.lrug.org/videos/2023/may/gus-shaw-stewart-github-actions-an-introduction-lrug-may-2023.mp4
+june:
+  tech-debt-for-the-rest-of-us:
+    title: Tech debt for the rest of us
+    description: |-
+      Tech Debt can be messy, but it doesn't have to be. In this short talk
+      I'll present a simple approach to identify your Tech Debt, monitor it
+      over time and make it actionable.
+    speaker:
+      name: Alfredo Motta
+      url: https://twitter.com/mottalrd
+    coverage:
+    - type: video
+      title: LRUG June 2023 - Alfredo Motta - Tech debt for the rest of us
+      url: https://assets.lrug.org/videos/2023/june/alfredo-motta-tech-debt-for-the-rest-of-us-lrug-jun-2023.mp4
+  mutation-testing-study-case:
+    title: Mutation testing - study case
+    description: |-
+      Let's talk about why and how we measure our test coverage. If you are
+      using line test coverage measurement and you are happy with it, please let
+      me show you some differences and examples of line TC vs mutation TC.
+    speaker:
+      name: Adam Piotrowski
+      url: https://www.linkedin.com/in/adamsarin/
+    coverage:
+    - type: video
+      title: LRUG June 2023 - Adam Piotrowski - Mutation testing - study case
+      url: https://assets.lrug.org/videos/2023/june/adam-piotrowski-mutation-testing-study-case-lrug-jun-2023.mp4
+  how-we-used-cqrs-to-structure-our-new-borrower-portal:
+    title: How we used CQRS to structure our new Borrower Portal
+    description: |-
+      Funding Circle recently built a new application that allows borrowers to
+      manage their loans themselves. We structured the application using a
+      (new-to-me!) design principle called Command Query Responsibility Segregation.
+      Join me as I give a brief definition of what CQRS is before showing you the
+      practical application of it via our new borrower portal 💻
+    speaker:
+      name: Shenthuran Satkunarasa
+      url: https://www.linkedin.com/in/shen-sat
+    coverage:
+    - type: video
+      title: LRUG June 2023 - Shenthuran Satkunarasa - How we used CQRS to structure
+        our new Borrower Portal
+      url: https://assets.lrug.org/videos/2023/june/shenthuran-satkunarasa-how-we-used-cqrs-to-structure-our-new-borrower-portal-lrug-jun-2023.mp4
+july:
+  dan-hough-ruby-to-solve-homelessness-and-the-refugee-crises:
+    title: Ruby to solve homelessness and the refugee crises
+    description: |-
+      Social impact startup Beam (named by LinkedIn as one of the UK’s Top 15
+      Startups) has built pioneering products for government, social care workers -
+      and homeless people and refugees themselves. Together, Beam is proving that
+      tech can solve these problems for good. Hear about how a small Engineering
+      team has built software that has transformed the lives of thousands of
+      homeless people and refugees. And hear about the fun, meaning and challenge in
+      Tech for Good.
+    speaker:
+      name: Dan Hough
+      url: http://beam.org/
+    coverage:
+    - type: video
+      title: LRUG July 2023 - Dan Hough - Ruby to solve homelessness and the refugee
+        crises
+      url: https://assets.lrug.org/videos/2023/july/dan-hough-ruby-to-solve-homelessness-and-the-refugee-crises.mp4
+august:
+  the-brick:
+    title: Gain insight and better accessibility into your application's data by using
+      The Brick
+    description: |-
+      Remarkable visibility into the structure of your application and its data
+      is available by using the open-source Rails gem "[The Brick](
+      https://github.com/lorint/brick)". Come meet the author of this gem, and
+      experience the cornucopia of usefulness it can provide to teams who
+      architect, elaborate upon, and then support Rails applications.
+    speaker:
+      name: Lorin Thwaits
+      url: https://www.facebook.com/lorint/
+    coverage: []
+september:
+  the-functional-alternative:
+    title: The Functional Alternative
+    description: |-
+      We'll start with a simple Ruby Kata and solve it together, live, with
+      imperative programming.
+
+      We'll then fix the many, many, many things we got wrong. Then we'll solve
+      the problem again using patterns from functional programming. You'll leave
+      this talk with a clear and concrete example of why functional programming
+      matters, why immutable code matters, and why it can help you writing
+      bug-free code.
+
+      The next time you find yourself writing imperative code, you might
+      consider... the functional alternative.
+    speaker:
+      name: Ju Liu
+      url: https://juliu.is
+    coverage:
+    - type: video
+      title: LRUG September 2023 - Ju Liu - The Functional Alternative
+      url: https://assets.lrug.org/videos/2023/september/ju-liu-the-functional-alternative-lrug-sep-2023.mp4
+  back-in-my-day:
+    title: Back in my day...
+    description: |-
+      I've been working with Ruby since the early 2000s. Ruby has changed a lot in that time,
+      but we don't always remember how much. Let's rewrite a short program so that it runs in
+      a twenty-year-old version of Ruby and see how much syntax and performance has changed for the better in twenty years
+    speaker:
+      name: Paul Battley
+      url: https://po-ru.com
+    coverage:
+    - type: transcript
+      title: Back in my day... - transcript from the Brighton Ruby 2023 version of
+        this talk
+      url: https://po-ru.com/2023/07/05/back-in-my-day
+    - type: code
+      title: Supporting git repo for the code used in Back in my day...
+      url: https://github.com/threedaymonk/back-in-my-day
+october:
+  borrow-my-doggy-connecting-dogs-and-people-via-ruby:
+    title: BorrowMyDoggy - Connecting dogs and people via Ruby
+    description: |-
+      BorrowMyDoggy connects dog owners with local borrowers for walks,
+      weekends and holidays. Via BorrowMyDoggy, borrowers get happy dog time,
+      owners get help with taking care of their dogs, and dogs get more love
+      and attention (it's a win-win scenario). We started by winning the Lean
+      Startup Machine, then received a crazy amount of media attention and by
+      now have built a community of +1 million members in the UK and Ireland,
+      and are working with some of the biggest players in the pet space. Come
+      and listen to how a simple idea has now turned into a well known brand.
+    speaker:
+      name: Rikke Rosenlund
+      url: https://www.borrowmydoggy.com/
+    coverage: []
+november:
+  outside-technology-building-bridges:
+    title: 'Outside Technology: Building bridges between engineers and everyone else'
+    description: |-
+      Naomi will take you on a journey from her previous career outside
+      technology to her current career as a software engineer highlighting some
+      of the (many) things she had to learn along the way, providing insight into
+      why misunderstandings are common between engineers and their stakeholders
+      and offering some ideas on how we can bridge that gap.
+    speaker:
+      name: Naomi Christie
+      url: https://uk.linkedin.com/in/naomichristie
+    coverage:
+    - type: video
+      title: 'LRUG November 2023 - Naomie Christie - Outside Technology: Building
+        bridges between engineers and everyone else'
+      url: https://assets.lrug.org/videos/2023/november/naomi-christie-outside-technology-building-bridges-between-engineers-and-everyone-else.mp4
+  the-art-of-talk-design:
+    title: The Art of Talk Design
+    description: |-
+      Everywhere you look, stories surround us, and everyone has something that’s worth sharing with others. As speakers, we need to understand how to structure our talks so they can have the best effect on the audiences we are trying to reach. How do you discover the right angle and the right story for a talk? How do you frame your story?
+
+      Within tech we know how to approach building a new product: we research our user base, we figure out what and for who we’re trying to create something for and we make sure we constantly iterate on what we’ve come up with. So why aren’t we taking the same approach for our talks?
+
+      This talk will examine how to get in the right mindset of examining your talk ideas, and will introduce a framework of how to design and iterate on your talk. It will focus on several exercises and questions to help you create the best talk for the story you’re trying to tell.
+    speaker:
+      name: Melinda Seckington
+      url: https://www.seckington.com/
+    coverage:
+    - type: video
+      title: LRUG November 2023 - Melinda Seckington - The Art of Talk Design
+      url: https://assets.lrug.org/videos/2023/november/melinda-seckington-the-art-of-talk-design.mp4
+december:
+  test-smarter-not-harder-crafting-a-test-selection-framework-from-scratch:
+    title: Test Smarter, Not Harder - Crafting a Test Selection Framework from Scratch
+    description: |-
+      [Christian Bruckmayer](https://twitter.com/bruckmayer) says:
+
+      > The simplest way of running tests is to run all of them, regardless of what changes you are testing. However, depending on the size of your test suite, this will either get slow or expensive. At Shopify we have almost 300,000 Rails tests and we add 50,000 more annually. The sheer amount of tests and their growth makes it impossible to run all tests, all the time! Hence we implemented a framework to only run tests relevant to your code changes.
+      >
+      > We will build a test selection framework from scratch in this workshop. We will begin by exploring the fundamentals of such a framework: code analysis. After that we will dive into minitest reporters, how they work and how we can use them to generate a test map. Finally we will use the generated test map to only run tests relevant to your code changes. Attendees will walk away with a solid understanding of what test selection is, how it works and how to implement it.
+
+      This is a workshop, so bring your laptop!
+    speaker:
+      name: Christian Bruckmayer
+      url: https://twitter.com/bruckmayer
+    coverage: []
+    use_description_as_intro: true
