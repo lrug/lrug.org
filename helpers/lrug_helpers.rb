@@ -265,6 +265,8 @@ module LrugHelpers
 
   def rubyevents_video_playlist(site_url: )
     data.talks.keys.sort.reverse_each do |year|
+      # for now - only share 2020+ talks
+      next if Integer(year) < 2020
       data.talks[year].reverse_each do |month, talks|
         page = meeting_pages.detect { it.path.starts_with? "meetings/#{year}/#{month}" }
         url = URI.join(site_url, page.url)
@@ -289,7 +291,7 @@ module LrugHelpers
             'event_name' => title,
             'date' => meeting_date,
             'published_at' => publish_date,
-            'speakers' => [talk.speaker.name],
+            'speakers' => Array.wrap(talk.speaker).map(&:name),
             'description' => talk.description
           }
           if video_coverage && video_coverage.url.starts_with?('https://assets.lrug.org')
@@ -300,7 +302,7 @@ module LrugHelpers
             # (e.g. like the old skills matter videos or on youtube or
             # something) rather than haven't published it yet and we should
             # work out how to list those
-            talk_details['video_id'] = "#{talk.speaker.name.parameterize}-#{id}"
+            talk_details['video_id'] = "lrug-#{month}-#{id}"
             talk_details['video_provider'] = 'not_published'
           end
           talk_details['slides_url'] = slides_coverage.url if slides_coverage
