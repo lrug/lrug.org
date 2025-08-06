@@ -26,7 +26,8 @@ module TalkHelpers
     end
 
     def render(on:)
-      on.partial 'talk', locals: { year:, month:, talk: self }
+      opts = on.instance_variable_get('@opts').dup
+      on.partial 'talk', opts.merge(locals: { year:, month:, talk: self })
     end
 
     def intro
