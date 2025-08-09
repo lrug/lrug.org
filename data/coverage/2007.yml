@@ -4,3 +4,8 @@ july:
   - type: slides
     url: https://speakerdeck.com/tomstuart/rspec-on-rails
     title: RSpec (on Rails)
+september:
+  staticmatic:
+  - type: slides
+    url: http://www.stephenbartholomew.co.uk/2007/9/11/lrug-staticmatic-talk-slides
+    title: StaticMatic - HAML Everywhere

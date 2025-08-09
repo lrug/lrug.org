@@ -1,0 +1,436 @@
+---
+january:
+  sky-computing:
+    title: Sky Computing
+    description: |-
+      What comes after cloud computing? Cloud computing is convenient,
+      ubiquitous and relatively cheap. But it also locks developers into proprietary
+      solutions that make migrating to another provider or bringing your solutions
+      back in-house difficult and expensive. If AWS, Google Cloud Computing, Azure
+      and all the others are clouds, then we also need a sky. Researchers at Berkeley
+      and other institutions have proposed sky computing: an interoperability layer
+      that removes technological lock-in and enables multi cloud application development.'
+    speaker:
+      name: Kevin Sedgley
+      url: https://unboxed.co/
+    coverage:
+    - type: video
+      title: LRUG January 2024 - Kevin Sedgley - Sky Computing
+      url: https://assets.lrug.org/videos/2024/january/kevin-sedgley-sky-computing-lrug-jan-2024.mp4
+  leveraging-localised-gems-llgems-re-using-code-the-ruby-way:
+    title: 'Leveraging Localised Gems (LLGems): Re-using Code the Ruby Way, Safely'
+    description: |-
+      The talk takes a look under the hood of our Rails monolith, our Rails
+      Engines, and how we share code between them. It's a bit like a kitchen
+      experiment – blending the best of both worlds to enhance the Separation of
+      Concerns, while still keeping our favorite code recipes within reach. I'll
+      share our adventure of moving some Kafka infrastructure code from the main
+      Rails app into a local gem (with zero downtime!). Think of it as giving the
+      code a new home where it can be shared across our Rails Engines. We've also
+      managed to preserve our unique, in-house testing infrastructure in the
+      process which is a serious Brucie bonus!
+    speaker:
+      name: Joel Biffin
+      url: https://github.com/joelbiffin
+    coverage:
+    - type: slides
+      title: LLGems
+      url: https://github.com/joelbiffin/talks/blob/main/llgems/slides.pdf
+    - type: video
+      title: 'LRUG January 2024 - Joel Biffin - Leveraging localised gems (LLGems):
+        Re-using code the ruby way, safely'
+      url: https://assets.lrug.org/videos/2024/january/joel-biffin-leveraging-localised-gems-llgems-re-using-code-the-ruby-way-safely-lrug-jan-2024.mp4
+february:
+  data-pagination-for-jekyll-paginate-v2:
+    title: Data pagination for jekyll-paginate-v2
+    description: |-
+      A quick dive into getting data-pagination (.csv, .json, .tsv
+      & .yaml files in your _data directory) working with the [jekyll-paginate-v2](https://github.com/sverrirs/jekyll-paginate-v2)
+      gem. After deciding that I wanted to archive my posts to a Slack
+      #music-we-like channel, I wanted to also make the archived posts
+      paginatible...
+    speaker:
+      name: Jay Caines-Gooby
+      url: https://jay.gooby.org
+    coverage:
+    - type: video
+      title: LRUG February 2024 - Jay Caines-Gooby - Data pagination for jekyll-paginate-v2
+      url: https://assets.lrug.org/videos/2024/february/jay-caines-gooby-data-pagination-for-jekyll-paginate-v2-lrug-feb-2024.mp4
+  using-devcontainers-with-ruby:
+    title: Using devcontainers with Ruby
+    description: |-
+      When an engineer joins your organisation, how long does it take for
+      them to configure their development environment? I will discuss using
+      [devcontainers with VSCode](https://code.visualstudio.com/docs/devcontainers/containers) to reduce this time from "days" to
+      "minutes''.
+    speaker:
+      name: Jonathan James
+      url: https://github.com/jonathanjames1729
+    coverage:
+    - type: slides
+      title: devcontainers
+      url: https://github.com/jonathanjames1729/talks/blob/main/2024-02-12-lrug/devcontainers.pdf
+    - type: video
+      title: LRUG February 2024 - Jonathan James - Using devcontainers with Ruby
+      url: https://assets.lrug.org/videos/2024/february/jonathan-james-using-devcontainers-with-ruby-lrug-feb-2024.mp4
+  contract-testing-between-ruby-applications:
+    title: Contract testing between Ruby applications
+    description: |-
+      - what is contract testing & how it works
+      - why we need contract testing at Funding Circle
+      - what a contract test looks like for a Ruby application
+      - how contract testing works in practice
+    speaker:
+      - name: Katya Essina
+        url: https://github.com/KatyaEssina95
+      - name: "Sarah O'Grady"
+        url: https://github.com/sarah-ogrady
+    coverage:
+    - type: video
+      title: LRUG February 2024 - Katya Essina & Sarah O'Grady - Contract Testing
+        between Ruby applications
+      url: https://assets.lrug.org/videos/2024/february/katya-essina-and-sarah-o-grady-contract-testing-between-ruby-applications-lrug-feb-2024.mp4
+  what-is-ruby-really-capable-of:
+    title: What is ruby really capable of?
+    description: |-
+      I'd like to do a whistlestop tour of a few different gems I've written over
+      the years, with the aim of talking about having fun whilst learning what
+      ruby is capable of. I'd like to showcase things like [aspectual](https://github.com/AgentAntelope/aspectual)
+      for bringing aspect oriented programming to ruby, [cherry-pick](https://github.com/AgentAntelope/cherry_pick)
+      for when you miss `import foo from bar`, [overload](https://github.com/AgentAntelope/overload) for when you
+      want to *really* have optional arguments do something different, and more!
+    speaker:
+      name: fell sunderland
+      url: https://twitter.com/felltir
+    coverage:
+    - type: video
+      title: LRUG February 2024 - fell sunderland - What is Ruby really capable of?
+      url: https://assets.lrug.org/videos/2024/february/fell-sunderland-what-is-ruby-really-capable-of-lrug-feb-2024.mp4
+    - type: slides
+      title: What is Ruby really capable of? - Slides
+      url: https://docs.google.com/presentation/d/1GNzpKWO6aqqbfo4eOTixIL_r1GI08bFYWjyRhBOUmBk/edit?usp=sharing
+  phlex-for-a-happy-developer:
+    title: Phlex for a happy developer!
+    description: |-
+      More than 100 lines files are bad? Not if you have the right tools! Inline
+      your templates, JavaScript, business & controller logic for maximum
+      productivity!
+    speaker:
+      name: Martin Tomov
+      url: https://www.linkedin.com/in/martin-tomov/
+    coverage:
+    - type: video
+      title: LRUG February 2024 - Martin Tomov - Phlex for a happy developer
+      url: https://assets.lrug.org/videos/2024/february/martin-tomov-phlex-for-a-happy-developer-lrug-feb-2024.mp4
+  be-more-gary-how-to-up-your-rspec-game:
+    title: 'Be More GARY: How to up your RSpec Game'
+    description: |-
+      Elevate your RSpec tests by questioning common DRY practices. Enter the GARY
+      method, where strategic repetition enhances test clarity and maintainability.
+      Resist premature refactoring and convoluted logic, leaving yourself with
+      clearer tests that document your code. Go ahead, repeat yourself.
+    speaker:
+      name: Scott Matthewman
+      url: https://twitter.com/scottm
+    coverage:
+    - type: video
+      title: 'LRUG February 2024 - Scott Matthewman - Be more GARY: How to up your
+        RSpec game'
+      url: https://assets.lrug.org/videos/2024/february/scott-matthewman-be-more-gary-how-to-up-your-rspec-game-lrug-feb-2024.mp4
+  making-games-with-ruby:
+    title: Making games with ruby
+    description: |-
+      Learn how the Dragonruby game engine makes game development faster and simpler for
+      everyone, from beginners to pros. Explore its key features, and jumpstart
+      your journey into the world of game creation.
+      Join us to transform your ideas into reality with ease!
+    speaker:
+      name: Paolo Fabbri
+      url: https://internetblacksmith.dev
+    coverage:
+    - type: video
+      title: LRUG February 2024 - Paolo Fabbri - Making games with Ruby
+      url: https://assets.lrug.org/videos/2024/february/paolo-fabbri-making-games-with-ruby-lrug-feb-2024.mp4
+march:
+  how-to-stop-being-a-subject-matter-expert:
+    title: How to Stop Being a Subject Matter Expert
+    description: |-
+      Tactics for helping that stressed-out single point of failure in your life
+      become a happier member of a team...of multiple points of failure.
+    speaker:
+      name: Luke Thomas
+      url: https://www.linkedin.com/pub/luke-thomas/19/5b6/22a
+    coverage:
+    - type: video
+      title: LRUG March 2024 - Luke Thomas - How to Stop Being a Subject Matter Expert
+      url: https://assets.lrug.org/videos/2024/march/luke-thomas-how-to-stop-being-a-subject-matter-export-lrug-mar-2024.mp4
+  wtf-is-a-technical-strategy:
+    title: WTF is Technical Strategy
+    description: |-
+      The phrase "Technical Strategy" is often used by senior leaders when they want
+      something from their tech teams. However, it's an unclear phrase that doesn't
+      explain what is needed or why. In this talk, you will learn what's behind the
+      phrase, but also how anyone from a CTO to a new developer can use that
+      knowledge to drive conversations that will help not just the leadership but
+      the whole organisation.
+    speaker:
+      name: Laurie Young
+      url: https://laurieyoung.co.uk/
+    coverage:
+    - type: video
+      title: LRUG March 2024 - Laurie Young - WTF is Technical Strategy
+      url: https://assets.lrug.org/videos/2024/march/laurie-young-wtf-is-technical-strategry-lrug-mar-2024.mp4
+april:
+  do-you-want-a-flake-with-that:
+    title: Do you want a flake with that?
+    description: |-
+      Flaky tests are awful, in this talk we'll explore why tests flake and look at
+      some techniques and tools you can use to discover why your tests are flaking.
+    speaker:
+      name: Murray Steele
+      url: http://h-lame.com
+    coverage:
+    - type: video
+      title: LRUG April 2024 - Murray Steele - Do you want a flake with that?
+      url: https://assets.lrug.org/videos/2024/april/murray-steele-do-you-want-a-flake-with-that-lrug-apr-2024.mp4
+    - type: transcript
+      title: Talks ∋ Do you want a flake with that?
+      url: http://h-lame.com/talks/do-you-want-a-flake-with-that/
+  what-the-chernobyl-disaster-can-teach-us-about-incident-response:
+    title: What the Chernobyl disaster can teach us about incident response
+    description: |-
+      What does the worst nuclear disaster ever have in common with a web application being down?
+      On the face of it, vanishingly little, but the incredible series of events before, during and
+      after the disaster have plenty of insights to teach us about more mundane situations
+    speaker:
+      name: Frederick Cheung
+      url: https://ruby.social/@fglc2
+    coverage:
+    - type: video
+      title: LRUG April 2024 - Frederick Cheung - What the Chernobyl disaster can
+        teach us about incident response
+      url: https://assets.lrug.org/videos/2024/april/frederick-cheung-what-the-chernobyl-disaster-can-teach-us-about-incident-response-lrug-apr-2024.mp4
+may:
+  build-and-maintain-large-ruby-applications:
+    title: Build and maintain large Ruby applications
+    description: |-
+      This presentation will be about the challenges of building large
+      Ruby web applications and how to maintain existing ones. I will use examples
+      adapted from real applications that I worked on during my 10 years of experience
+      with Ruby outlining: technical limitations of the language, how to use a modular
+      dependency structure to enforce boundaries in complex domains.'
+    speaker:
+      name: Enrico Teotti
+      url: https://teotti.com
+    coverage: []
+  building-modern-ecommerce-applications-using-rails-7:
+    title: Building modern eCommerce applications using Rails 7
+    description: |-
+      With the newest Rails version, we can create platforms that offer the
+      modern features customers and sellers expect, with less complexity. Combine
+      it with an established open-source gem like Spree, and you've got a
+      comprehensive commerce system. I'll share my learnings from three real-life
+      examples: a music label selling limited edition vinyl LPs, a wholesaler
+      shedding enterprise SaaS for a tailor-made setup, and my furniture startup,
+      where CAD brings bespoke pieces to life.
+    speaker:
+      name: Winston Ferguson
+      url: https://winstonferguson.com
+    coverage: []
+june:
+  things-ive-learned-maintaining-openstreetmap:
+    title: Things I've learned maintaining OpenStreetMap
+    description: |-
+      Maintaining one of the world's largest non-commercial websites,
+      [OpenStreetMap](https://openstreetmap.org), is a unique challenge. We're a
+      small, volunteer-based development team, not professional software
+      developers. I will illustrate some of these challenges with a mixture of
+      technical and organisational tips, tricks and recommendations, that you might
+      find useful for your own teams and projects too.
+    speaker:
+      name: Andy Allan
+      url: https://www.gravitystorm.co.uk/
+    coverage:
+    - type: video
+      title: LRUG June 2024 - Andy Allan - Things I've learned maintaining OpenStreetMap
+      url: https://assets.lrug.org/videos/2024/june/andy-allan-things-ive-learned-maintaining-openstreetmap-lrug-jun-2024.mp4
+  liveview-stateful-server-rendered-html:
+    title: 'LiveView: stateful, server-rendered HTML'
+    description: |-
+      LiveView is  Elixir's analogue to Hotwire that also helps to keep it closer
+      to the server and contributes to the One Person Framework movement.  In this talk,
+      we will explore how the stateful model makes it different from similar technologies
+      and what optimisations the Phoenix team did to make it feel snappy and deliver a world-class UX
+    speaker:
+      name: Yevhenii Kurtov
+      url: https://www.linkedin.com/in/kurtov/
+    coverage:
+    - type: video
+      title: 'LRUG June 2024 - Yevhenii Kurtov - LiveView: Stateful, server-rendered
+        HTML'
+      url: https://assets.lrug.org/videos/2024/june/yevhenii-kurtov-liveview-stateful-server-rendered-html-lrug-jun-2024.mp4
+july:
+  that-smells-like-time:
+    title: That smells like time
+    description: |-
+      How does an experienced programmer solve problems? It's simpler (and more
+      complicated) than you might think!
+    speaker:
+      name: fell sunderland
+      url: https://uk.linkedin.com/in/fell-sunderland
+    coverage:
+    - type: video
+      title: LRUG July 2024 - fell sunderland - That smells like time
+      url: https://assets.lrug.org/videos/2024/july/fell-sunderland-that-smells-like-time-lrug-jul-2024.mp4
+    - type: slides
+      title: That smells like time - Slides
+      url: https://docs.google.com/presentation/d/1eAdmyQVROnJzcLfC1rOo7RjwsABFR21AqVKgg-9irdE/edit?usp=sharing
+  finding-unused-ruby-methods:
+    title: Finding unused Ruby methods
+    description: |-
+      Whether code is safe to delete or not is a bit of a murky question in
+      Ruby - especially in untyped Ruby. Fear not though, as dangling unused
+      methods are a pretty safe place to start deleting things. Let's start there
+      and see where we get to.  Introducing [the Thanatos
+      gem](https://github.com/joelbiffin/thanatos) to help you find those unused
+      methods lurking in your code.
+    speaker:
+      name: Joel Biffin
+      url: https://github.com/joelbiffin
+    coverage:
+    - type: video
+      title: LRUG July 2024 - Joel Biffin - Finding unused Ruby methods
+      url: https://assets.lrug.org/videos/2024/july/joel-biffin-finding-unused-ruby-methods-lrug-jul-2024.mp4
+august:
+  turn-left-for-bridgetown:
+    title: 'Turn Left for Bridgetown: An overview of a next-generation static(ish)
+      site generator'
+    description: |-
+      Bridgetown is a modern progressive site generator with Jekyll ancestry.
+      Allow me to be your guide as I take you on a whistle-stop tour of its biggest
+      and best features; and show you how it brings Ruby-powered site generation into
+      2024.
+    speaker:
+      name: Ayush
+      url: https://ruby.social/@ayush
+    coverage:
+    - type: video
+      title: 'LRUG August 2024 - Ayush Newatia - Turn left for Bridgetown: An overview
+        of a next-generation static(ish) site generator'
+      url: https://assets.lrug.org/videos/2024/august/ayush-newatia-turn-left-for-bridgetown-an-overview-of-a-next-generation-static-ish-site-generator-lrug-aug-2024.mp4
+september:
+  rachel-bingham-b-and-w-rewards-domains-events-and-ledgers:
+    title: B&W Rewards - Domains, Events & Ledgers
+    description: "How we developed the B&W Rewards system. \nStarting from event storming
+      with stakeholders and technical planning across squads to clear domain boundaries
+      to  \nhow we used an event bus and agnostic accounting system to keep things
+      clear, concise and extendable."
+    speaker:
+      - name: Rachel Bingham
+        url: https://www.linkedin.com/in/rachel-bingham/
+      - name: Boaz Yehezkel
+        url: https://github.com/boaz-yehezkel
+    coverage:
+    - type: video
+      title: "LRUG September 2024 - Rachel Bingham - B&W Rewards - Domains, Events & Ledgers"
+      url: https://assets.lrug.org/videos/2024/september/rachel-bingham-b-and-w-rewards-domains-events-and-ledgers-lrug-sep-2024.mp4
+    custom_intro: will be speaking about
+  from-spaghetti-to-lasagna-layering-your-code-with-ddd:
+    title: 'From Spaghetti to Lasagna: Layering your code with DDD'
+    description: |-
+      How to apply DDD to a monolithic codebase, the benefits and reasons why it can
+      be beneficial, and how the event storming process can make the process of
+      defining domain boundaries a simpler task!
+    speaker:
+      name: Lily Stoney
+      url: https://github.com/LilyStoney
+    coverage:
+    - type: video
+      title: LRUG September 2024 - Lily Stoney - From Spaghetti to Lasagna Layering
+        your code with DDD
+      url: https://assets.lrug.org/videos/2024/september/lily-stoney-from-spaghetti-to-lasagna-layering-your-code-with-ddd-lrug-sep-2024.mp4
+october:
+  fighting-enshittification-with-activity-pub:
+    title: Fighting Enshittification with ActivityPub
+    description: |-
+      ActivityPub is the protocol that powers the Fediverse, a web of social sites
+      like Mastodon, PixelFed, and a host of other free and open source tools. I’ll
+      explain what ActivityPub is, how it works, and discuss the Federails Rails
+      engine which allows you to add federation into your existing Rails web apps.
+      By breaking open the silos of existing social media like this, we can fight
+      the enshittification of the web and reclaim a bit of power from the massive
+      companies that own our online lives.
+    speaker:
+      name: James Smith
+      url: https://mastodon.me.uk/@Floppy
+    coverage:
+    - type: video
+      title: LRUG October 2024 - James Smith - Fighting Enshittification with ActivityPub
+      url: https://assets.lrug.org/videos/2024/october/james-smith-fighting-enshittification-with-activity-pub-lrug-oct-2024.mp4
+    - type: slides
+      url: https://floppy.org.uk/activitypub-talk/
+      title: Fighting Enshittification with ActivityPub - Slides
+    - type: code
+      url: https://gitlab.com/experimentslabs/federails
+      title: Federails, a Rails engine to add ActivityPub to your app
+    - type: code
+      url: https://github.com/manyfold3d/caber
+      title: Caber, a simple ReBAC / Zanzibar gem
+    - type: code
+      url: https://github.com/danini-the-panini/mittsu
+      title: Mittsu, a Ruby port of Three.js
+    - type: link
+      url: https://manyfold.app
+      title: 'And the reason behind all this: Manyfold, a Rails app for managing and
+        sharing 3d models'
+  plan-to-scale-or-plan-to-fail:
+    title: 'Plan to scale or plan to fail: an evidence-based approach for improving
+      systems performance'
+    description: |-
+      In this talk, I will present a methodology for replicating most standard
+      Rails systems, for the purpose of load testing.
+
+      You can use this to find out how your system performs with more traffic than
+      you currently encounter. This will be useful if you are on a Rails team that
+      is starting to see scaling challenges.
+
+      At Theta Lake we operate at scale and are applying this methodology to
+      proactively find ways to bring down our server costs. You don’t want to leave
+      it until either your server costs soar out of control, or your entire system
+      is about to fail. By seeing into the future just a little bit, you can find
+      bottlenecks in your system and so find where you can improve its scalability.
+    speaker:
+      name: Jade Dickinson
+      url: https://jadedickinson.com
+    coverage: []
+    custom_intro: is giving us a preview of her RubyConf 2024 talk
+december:
+  saving-my-relationship-with-rails:
+    title: Saving My Relationship with Rails
+    description: |-
+      Setting healthy boundaries for a happy app. Our apps inevitably get more
+      complex over time, and Rails isn't always helpful when that happens. In this
+      talk we'll explore what a Rails app can look like with a 'functional core',
+      and where to draw the boundaries between the core and Rails to stop things
+      getting out of control.
+    speaker:
+      name: Adam Dawkins
+      url: https://github.com/adamdawkins
+    coverage:
+    - type: video
+      title: LRUG December 2024 - Adam Dawkins - Saving My Relationship with Rails
+      url: https://assets.lrug.org/videos/2024/december/adam-dawkins-saving-my-relationship-with-rails-lrug-dec-2024.mp4
+  mistakes-were-made-lessons-from-failure:
+    title: 'Mistakes Were Made: Lessons from Failure'
+    description: |-
+      This is a story of failure: the things I broke delivering a big project, the
+      lessons those mistakes taught me, and why breaking things can be an
+      engineer’s best tool for learning.
+    speaker:
+      name: Clem Capel-Bird
+      url: https://www.linkedin.com/in/clemcapelbird/
+    coverage:
+    - type: video
+      title: 'LRUG December 2024 - Clem Capel-Bird - Mistakes Were Made: Lessons From
+        Failure'
+      url: https://assets.lrug.org/videos/2024/december/clem-capel-bird-mistakes-were-made-lessons-from-failure-lrug-dec-2024.mp4

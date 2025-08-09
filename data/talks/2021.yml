@@ -1,0 +1,520 @@
+---
+january:
+  recruiting-101-instead-of-404:
+    title: Recruiting 101 instead of 404
+    description: |-
+      [Thayer Prime](https://twitter.com/teamPrimeLtd) says:
+
+      > Recruitment is one of the hardest problems in scaling your tech company.
+      > Everyone wants the best, everyone wants diversity in hires, everyone
+      > wants the most affordable people - but companies rarely have the time,
+      > money or ability to invest in creating a world class recruiting team. So
+      > what are some of the common questions we can review, and how do you
+      > navigate the pitfalls of bad hiring as a starter for ten? Come and find
+      > out from an LRUG community Q&A to address some of the most commonly
+      > asked questions, and get some starter tips on hiring humans, not
+      > resources.
+      >
+      > Your Qs will be A'd by [Thayer Prime, of Team
+      > Prime](https://team-prime.com/about/) who started life in the tech
+      > industry as a programmer twenty years ago, before turning to the dark
+      > arts of recruitment. She's been lucky enough to work with the likes of
+      > Sir Tim Berners-Lee, Jimmy Wales, Apple, Stripe and NASA to name just a
+      > few. She has founded three successful companies herself, and often acts
+      > as a strategic adviser to founders and C-level executives growing their
+      > tech capacity within their organisations.
+
+      For info on how to submit questions for the talk [check out Thayer's email
+      to the mailing list](http://lists.lrug.org/pipermail/chat-lrug.org/2020-December/025636.html)
+      explaining the situation.
+    speaker:
+      name: Thayer Prime
+      url: https://twitter.com/teamPrimeLtd
+    coverage:
+    - type: video
+      url: https://assets.lrug.org/videos/2021/january/thayer-prime-recruiting-101-instead-of-404-lrug-jan-2021.mp4
+      title: LRUG January 2021 - Thayer Prime - Recruiting 101 instead of 404
+    use_description_as_intro: true
+february:
+  an-intro-to-bridgetown:
+    title: 'An intro to Bridgetown: A static site generator for the modern JAMStack
+      era.'
+    description: |-
+      [Bridgetown](https://www.bridgetownrb.com) is a new Ruby-powered static
+      site generator that was forked from Jekyll 4.1. It has a focus on modern
+      ideas and includes Webpack as a first-class citizen. In this talk I'll
+      give a demo of what differentiates Bridgetown from Jekyll and some of
+      its best features; followed by a short Q&A.
+    speaker:
+      name: Ayush Newatia
+      url: https://binarysolo.chapter24.blog
+    coverage:
+    - type: video
+      url: https://assets.lrug.org/videos/2021/february/ayush-newatia-an-intro-to-bridgetown-a-static-site-generator-for-the-modern-jamstack-era-lrug-feb-2021.mp4
+      title: 'LRUG February 2021 - Ayush Newatia - An intro to Bridgetown: A static
+        site generator for the modern JAMStack era'
+  the-pathname-of-least-resistance:
+    title: The Path(name) of least resistance
+    description: |-
+      Ruby has many classes that deal with files, paths or directories, but
+      one that often doesn't get enough credit is
+      [Pathname](https://github.com/ruby/pathname). Pathname unifies the other
+      pretenders to the throne with a consistent, rubyish interface that is a
+      joy to work with.
+    speaker:
+      name: Fred Cheung
+      url: https://twitter.com/fglc2
+    coverage:
+    - type: video
+      url: https://assets.lrug.org/videos/2021/february/fred-cheung-the-pathname-of-least-resistance-lrug-feb-2021.mp4
+      title: LRUG Februrary 2021 - Fred Cheung - The Path(name) of least resistance
+  are-we-parallel-yet:
+    title: Are we parallel yet? A first look at Ruby Ractors
+    description: |-
+      A speedrun through actor-based concurrency, the Ractor API and the
+      future of parallel applications in Ruby.
+    speaker:
+      name: Lorenzo Barasti
+      url: https://twitter.com/lbarasti
+    coverage:
+    - type: video
+      url: https://assets.lrug.org/videos/2021/february/lorenzo-barasti-are-we-parallel-yet-a-first-look-at-ruby-ractors-lrug-feb-2021.mp4
+      title: LRUG Februrary 2021 - Lorenzo Barasti - Are we parallel yet? A first
+        look at Ruby Ractors
+  uncovering-some-ruby-magic-in-awesome-print:
+    title: Uncovering some ruby magic in `awesome_print`
+    description: |-
+      `ap 1.methods` takes an `Array` of `Symbol`s as input and outputs
+      details it shouldn't know about the methods themselves. `ap
+      1.methods.dup` has the same behaviour, but `ap
+      1.methods.take(1.methods.length)` does not. I will peer into the magic
+      and divulge its secrets.
+    speaker:
+      name: Mark Burns
+      url: https://github.com/markburns
+    coverage:
+    - type: video
+      url: https://assets.lrug.org/videos/2021/february/mark-burns-uncovering-some-ruby-magic-in-awesome_print-lrug-feb-2021.mp4
+      title: LRUG February 2021 - Mark Burns - Uncovering some ruby magic in `awesome_print
+  taking-rails-offline:
+    title: Taking Rails Offline
+    description: |-
+      Networks are unreliable & drop out all the time! Lets make our apps more
+      resilient to that!
+    speaker:
+      name: Mike Rogers
+      url: https://twitter.com/mikerogers0
+    coverage:
+    - type: video
+      url: https://assets.lrug.org/videos/2021/february/mike-rogers-taking-rails-offline-lrug-feb-2021.mp4
+      title: LRUG February 2021 - Mike Rogers - Taking Rails Offline
+march:
+  data-as-a-foreign-language:
+    title: 'Data as a foreign language, or: A tale of two (or possibly three) type
+      systems'
+    description: |-
+      Working with XSLT/XPath’s XDM type system in Ruby requires learning how to
+      translate between two very different type systems in a way which allows for
+      idiomatic Ruby without ignoring the bits of XDM which aren’t quite Ruby-shaped.
+      Oh, and the only open-source implementation is in Java, so Java’s type system is
+      in the mix.
+
+      I’ll look at a couple of cases where the different approaches and
+      assumptions of Ruby and XDM (and Java, which just can’t help sticking
+      its nose in) interact in an interesting way.
+    speaker:
+      name: Matt Patterson
+      url: https://github.com/fidothe
+    coverage:
+    - type: video
+      url: https://assets.lrug.org/videos/2021/march/matt-patterson-data-as-a-foreign-language-or-a-tale-of-two-or-possibly-three-type-systems-lrug-mar-2021.mp4
+      title: 'LRUG March 2021 - Matt Patterson - Data as a foreign language, or: A
+        tale of two (or possibly three) type systems'
+  sundae-club:
+    title: 'Sundae Club: Livestreaming Ruby on Rails'
+    description: |-
+      I host a [weekly livestream](https://www.youtube.com/c/sundaeclub) where
+      each week I work on a Ruby on Rails app and, along with those watching, we
+      plan then build different features and discuss different possible
+      approaches. It’s casual, aimed very loosely at learners, hopefully useful
+      and receives positive feedback from those that watch or interact.
+
+      When I mention livestreaming to others, they’re often interested in how it
+      works, what I get from doing it, what those who interact with the streams
+      get out of it and how they could potentially get involved in streaming.
+      This talk aims to answer those questions, along with any others you may
+      have, come and say hello!
+    speaker:
+      name: Max Shelley
+      url: https://www.twitter.com/maxshelley
+    coverage:
+    - type: video
+      url: https://assets.lrug.org/videos/2021/march/max-shelley-sundae-club-livestreaming-ruby-on-rails-lrug-mar-2021.mp4
+      title: 'LRUG March 2021 - Max Shelley - Sundae Club: Livestreaming Ruby on Rails'
+april:
+  git-rebase:
+    title: Git Rebase
+    description: |-
+      Git is the dominant tool for version management. Misunderstanding and
+      misusing Git can cost development teams time, energy, and money. Few
+      better examples exist than Git's default merge workflow which creates
+      repositories that are hard to read, debug, and maintain. In this
+      talk, I'll show how to use the [Git Rebase
+      Workflow](https://www.alchemists.io/articles/git_rebase) instead,
+      which puts Git to work for you to produce quality code that's easy to
+      handle and kicks your team into high gear.
+
+      Your questions will be answered by [Brooke
+      Kuhlmann](https://www.alchemists.io/team/brooke_kuhlmann) who is the
+      founder of the [Alchemists](https://www.alchemists.io) where the
+      mission is to create an inclusive and thoughtful collective focused
+      on the craft, quality, ethics, and security of software engineering.
+    speaker:
+      name: Brooke Kuhlmann
+      url: https://www.alchemists.io
+    coverage:
+    - type: video
+      url: https://assets.lrug.org/videos/2021/april/brooke-kuhlmann-git-rebase-lrug-apr-2021.mp4
+      title: LRUG April 2021 - Brooke Kuhlmann - Git rebase
+    - type: slides
+      url: https://www.alchemists.io/presentations/git_rebase/
+      title: Alchemists.io | Presentations | Git Rebase
+may:
+  your-fortified-cookie-jar:
+    title: 'Your fortified cookie jar: Demystifying cookie security in Rails'
+    description: |-
+      You may have heard that cookie security is hard with the need to worry
+      special flags and encryption. Actually, Ruby on Rails makes it super
+      simple to securely store data in cookies. In this talk I'll explain the
+      different types of cookies supported by Rails and what Rails does under
+      the hood to secure the data they contain.
+    speaker:
+      name: Ayush Newatia
+      url: https://binarysolo.chapter24.blog
+    coverage:
+    - type: video
+      url: https://assets.lrug.org/videos/2021/may/ayush-newatia-your-fortified-cookie-jar-lrug-may-2021.mp4
+      title: LRUG May 2021 - Ayush Newatia - Your Fortified Cookie Jar
+  is-this-feature-a-waste-of-time:
+    title: Is this feature a waste of time?
+    description: |-
+      Sometimes a new feature may be objectively worthwhile; but often one
+      might be left wondering “Does this actually make our product better?”,
+      or “Is this making the business more money?”.
+
+      In this talk, I will explore the virtues of defining North Star metrics,
+      AB testing product variations to statistical significance, and using
+      funnel analysis to quantify a feature's value.
+    speaker:
+      name: Tom Lord
+      url: https://github.com/tom-lord
+    coverage:
+    - type: video
+      url: https://assets.lrug.org/videos/2021/may/tom-lord-is-this-feature-a-waste-of-time-lrug-may-2021.mp4
+      title: LRUG May 2021 - Tom Lord - Is This Feature a Waste of Time?
+july:
+  breaking-up-monoliths-with-crc-cards:
+    title: Breaking Up Monoliths With CRC cards
+    description: |-
+      Rapid iteration and feedback is key to enhancing agility. This is an
+      experience report on how we appealed to a modelling technique from the
+      1980s, CRC cards, to figure out how we might break away part of a monolith
+      at the architectural level and guide refactorings at the softer design
+      level.
+    speaker:
+      - name: Hemal Varambhia
+        url: https://twitter.com/hnvarambhia
+    custom_intro: "from [Simply Business](https://www.simplybusiness.co.uk) says:"
+    coverage:
+    - type: video
+      url: https://assets.lrug.org/videos/2021/july/hemal-varambhia-breaking-up-monoliths-with-crc-cards-lrug-jul-2021.mp4
+      title: LRUG July 2021 - Hemal Varambhia - Breaking up monoliths with CRC cards
+  ruby-on-rails-for-fun-and-social-good:
+    title: Ruby on Rails for Fun and Social Good
+    description: |-
+      Beam is the world's first crowdfunding platform for homelessness. Alex
+      will talk about what Beam does and how Beam uses Ruby on Rails,
+      Airtable, Vue.js and Tailwind to help them change the lives of homeless
+      people.
+    speaker:
+      - name: Alex Rudall
+        url: https://twitter.com/alexrudall
+    custom_intro: "from [Beam](https://beam.org) says:"
+    coverage:
+    - type: video
+      url: https://assets.lrug.org/videos/2021/july/alex-rudall-ruby-on-rails-for-fun-and-social-good-lrug-jul-2021.mp4
+      title: LRUG July 2021 - Alex Rudall - Ruby on Rails for Fun and Social Good
+    - type: video
+      url: https://www.youtube.com/watch?v=_zsj6uek4Qw
+      title: A new way to tackle homelessness | TEDx Brighton
+  improving-rails-scalability-using-modularity-with-enforced-boundaries:
+    title: Improving Rails scalability using modularity with enforced boundaries
+    description: |-
+      One of the aspects of Ruby & Rails that gives it the reputation for not
+      scaling well is that unlike some languages/frameworks it has no way to
+      enforce modularity. Over time and with many developers this usually
+      leads to 'spaghetti code'. This talk will introduce a solution to this
+      problem called [packwerk](https://github.com/Shopify/packwerk) (a ruby
+      gem by Shopify), as well as touch on some alternatives.
+    speaker:
+      name: Rob Faldo
+      url: https://www.linkedin.com/in/robertfaldo/
+    coverage:
+    - type: video
+      url: https://assets.lrug.org/videos/2021/july/rob-faldo-improving-rails-scalability-using-modularity-with-enforced-boundaries-lrug-jul-2021.mp4
+      title: LRUG July 2021 - Rob Faldo - Improving Rails scalability using modularity
+        with enforced boundaries
+    - type: slides
+      url: https://docs.google.com/presentation/d/12EjD9OtIOtFpRqBaFKWmu4y1ogJK-WsO8l5TgTt1EmI/edit?usp=sharing
+      title: Improving Rails scalability using modularity with enforced boundaries
+    - type: link
+      url: https://robertfaldo.medium.com/improving-rails-scalability-using-the-modular-monolith-approach-with-enforced-boundaries-f8cea89e85b9
+      title: Blog post on "Improving Rails scalability using modularity with enforced
+        boundaries"
+august:
+  building-startups-with-ruby-on-rails:
+    title: 10 years on - building startups with Ruby on Rails
+    description: |-
+      Tom was the founder of GoCardless (built in Ruby) and Monzo.
+      He recently joined the board of Generation Home (also Ruby) - a
+      London-based mortgage provider. He's come back to talk about the evolution
+      of the London startup community and how successful fintechs are still
+      building on Ruby on Rails
+    speaker:
+      - name: Tom Blomfield
+        url: https://twitter.com/t_blom
+    custom_intro: "from [Generation Home](https://www.generationhome.com):"
+    coverage:
+    - type: video
+      url: https://assets.lrug.org/videos/2021/august/tom-blomfield-10-years-on-building-startups-with-ruby-on-rails-lrug-aug-2021.mp4
+      title: LRUG August 2021 - Tom Blomfield - 10 years on - building startups with
+        Ruby on Rails
+  do-regexp-dream-of-turing-completeness:
+    title: Do regex dream of Turing Completeness?
+    description: |-
+      We're used to using Regular Expressions every day for pattern matching and
+      text replacement, but... What can Regexes actually do? How far can we push
+      them? Can we implement actual logic with them?
+
+      What if I told you... You can actually implement Conway's Game of Life with
+      just a Regex? What if I told you... You can actually implement ANYTHING with
+      just a Regex?
+
+      Join me on a wild ride exploring amazing Game of Life patterns, unusual Regex
+      techniques, Turing Completeness, programatically generating complex Regexes
+      with Ruby, and what all this means for ou understanding of what a Regex can
+      do.
+    speaker:
+      name: Daniel Magliola
+      url: https://twitter.com/dmagliola
+    coverage:
+    - type: video
+      url: https://assets.lrug.org/videos/2021/august/daniel-magliola-do-regex-dream-of-turing-completeness-lrug-aug-2021.mp4
+      title: LRUG August 2021 - Daniel Magliola - Do regex dream of Turing Completeness?
+september:
+  how-to-use-flamegraphs-to-find-performance-problems:
+    title: How to use flamegraphs to find performance problems
+    description: |-
+      [Jade Dickinson](https://twitter.com/_jadedickinson) will be running an interactive workshop:
+
+      > Slow Ruby code can be a puzzle, but it doesn’t have to be that way. In this
+      > talk you will see how fun it can be to use flamegraphs to find performance
+      > problems. You’ll enjoy this talk if you know you have slow areas in your
+      > Ruby application\*, and would like to learn how to find the code responsible.
+
+      You can find out more about what you need to prepare for the workshop via [Jade's
+      mailing list post about it](http://lists.lrug.org/pipermail/chat-lrug.org/2021-September/025800.html).
+    speaker:
+      name: Jade Dickinson
+      url: https://twitter.com/_jadedickinson
+    coverage: []
+    custom_intro: will be running an interactive workshop
+    use_description_as_intro: true
+october:
+  solargraph-a-ruby-language-server-to-make-your-editor-smart:
+    title: 'Solargraph: A Ruby language server to make your editor smart'
+    description: |-
+      Language servers like [Solargraph](https://solargraph.org) can give code
+      editing superpowers to your favourite editor (Emacs, Vim, VSCode, etc.).
+      I'll talk about the Language Server Protocol and its advantages over
+      editor-specific plugins, as well as how Solargraph learns about your
+      Ruby. I'll also talk about the challenges that Rails poses for such
+      tooling and how solargraph-rails attempts to overcome them.
+    speaker:
+      - name: Fritz Meissner
+        url: https://twitter.com/fritzmeissner
+    custom_intro: |-
+      has been working on the fledgling
+      [solargraph-rails](https://github.com/iftheshoefritz/solargraph-rails)
+      plugin and wants to tell us all about it:
+    coverage:
+    - type: video
+      url: https://assets.lrug.org/videos/2021/october/fritz-meissner-your-editor-language-server-protocol-and-solargraph-lrug-oct-2021.mp4
+      title: LRUG October 2021 - Fritz Meissner - Your editor, Language Server Protocol,
+        and Solargraph
+    - type: slides
+      url: http://iftheshoefritz.com/lsp/intellisense/solargraph/lrug/2021/10/11/lrug-solargraph.html
+      title: If The Shoe Fritz - Solargraph talk at LRUG October 2021
+    - type: write-up
+      url: http://iftheshoefritz.com/lsp/intellisense/solargraph/2021/07/24/conversation-editor-lsp.html
+      title: If The Shoe Fritz - A conversation between your editor and a language
+        server
+    - type: code
+      url: https://github.com/iftheshoefritz/solargraph-rails
+      title: The solargraph-rails plugin
+    - type: code
+      url: https://github.com/castwide/solargraph
+      title: The solargraph project
+  how-denormalizing-our-postgres-turned-great:
+    title: How denormalizing our Postgres turned great
+    description: |-
+      It's often considered best practice to normalize the database structure
+      to avoid data redundancy and incoherence. In Pennylane's accounting
+      platform we've found that this actually does not always help with data
+      coherence, and even introduces additional complexity in managing data
+      access. Our combination of denormalizing some of our data, enhancing
+      some of ActiveRecord's methods, and introducing default behaviors in our
+      application models has enabled us to greatly simplify access control
+      management and given us confidence that our production data is in a
+      consistent state.
+    speaker:
+      - name: Thierry Deo
+        url: https://github.com/tdeo
+    custom_intro: |-
+      co-founder and lead dev at
+      [Pennylane](https://www.pennylane.com) is going to tell us all about
+      optimising their postgresql db:
+    coverage:
+    - type: video
+      url: https://assets.lrug.org/videos/2021/october/thierry-deo-how-denormalizing-our-postgres-turned-great-lrug-oct-2021.mp4
+      title: LRUG October 2021 - Thierry Deo - How denormalizing our Postgres turned
+        great
+  memoization-my-favourite-antipattern:
+    title: 'Memoization: My Favourite Antipattern'
+    description: |-
+      As Rubyists we love to use built-in language features to set ourselves
+      apart for the rest. It's part of what makes programming in Ruby so
+      enjoyable! **Memoization** is no exception to this. But, *what if we
+      don't really need all of that memoization*? *Is memoization an
+      anti-pattern in its own right?*
+    speaker:
+      name: Joel Biffin
+      url: https://github.com/joelbiffin/
+    coverage:
+    - type: video
+      url: https://assets.lrug.org/videos/2021/october/joel-biffin-memoization-my-favourite-antipattern-lrug-oct-2021.mp4
+      title: 'LRUG October 2021 - Joel Biffin - Memoization: My Favourite Antipattern'
+november:
+  failing-better-with-load-shedding-and-deadline-propagation-across-services:
+    title: Failing better w/ Load Shedding & Deadline Propagation across services
+    description: |-
+      As services start to split off from your majestic monolith, cascading
+      failures as a single service or endpoint slows down can become a
+      recurring problem which very quickly can lead to service unavailability.
+      Implementing load-shedding and deadline propagation across your services
+      is a technique which can help you provide a more resilient service to
+      your customers. This talk will introduce some of the concepts explored
+      in [CGA1123/loadshedding-experiment-ruby](https://github.com/CGA1123/loadshedding-experiment-ruby)
+      & [CGA1123/shed](https://github.com/CGA1123/shed).
+    speaker:
+      name: Christian Gregg
+      url: https://twitter.com/CGA1123
+    coverage:
+    - type: video
+      title: "LRUG November 2021 - Christian Gregg - Failing better with Load Shedding & Deadline Propagation across services"
+      url: https://assets.lrug.org/videos/2021/november/christian-gregg-failing-better-with-load-shedding-and-deadline-propagation-across-services-lrug-nov-2021.mp4
+    - type: slides
+      title: "Failing better with Load Shedding & Deadline Propagation across services"
+      url: https://github.com/lrug/lrug.org/files/7529520/presentation.pdf
+  why-rails-is-still-relevant-for-startups-in-2021:
+    title: Why Rails is still relevant for startups in 2021
+    description: |-
+      With the rise of single page JavaScript apps, lo-code, and mobile-first,
+      is Rails consigned to the legacy dustbin of frameworks last cool in
+      2008? The answer is emphatically “no” - Rails is as relevant as ever for
+      startups in 2021. Chris will talk about how Rails has supercharged the
+      early stage of his new startup, LollipopAI, and how Rails gave them
+      quick experiments, good-enough domain modelling and tooling that just
+      works.
+    speaker:
+      name: Chris Parsons
+      url: https://twitter.com/chrismdp
+    coverage:
+    - type: video
+      title: LRUG November 2021 - Chris Parsons - Why Rails is still relevant for
+        startups in 2021
+      url: https://assets.lrug.org/videos/2021/november/chris-parsons-why-rails-is-still-relevant-for-startups-in-2021-lrug-nov-2021.mp4
+    - type: slides
+      title: Why Rails is still relevant for startups in 2021
+      url: https://speakerdeck.com/chrismdp/why-rails-is-still-relevant-for-startups-in-2021
+  service-objects-and-domain-objects-differences:
+    title: Service Objects and Domain objects differences
+    description: |-
+      Understanding what a service and domain objects are. Distinguishing the
+      difference between procedures and objects. Why using service objects is
+      a bad idea. Advantages of using modules, concerns and PORO's instead of
+      service objects.
+    speaker:
+      name: Patricia Cupueran
+      url: https://twitter.com/pa1809ty
+    coverage:
+    - type: video
+      title: LRUG November 2021 - Patricia Cupueran - Service Objects and Domain Objects
+        differences
+      url: https://assets.lrug.org/videos/2021/november/patricia-cupueran-service-objects-and-domain-objects-differences-lrug-nov-2021.mp4
+december:
+  enough-coverage-to-beat-the-band:
+    title: Enough coverage to beat the band
+    description: |-
+      The lights cut out. The crowd roars. It’s time. The band takes the stage.
+      They’ve practiced the songs, particularly the *covers*. They’ve sound
+      checked the *coverage* of the speakers. They know the lighting rig has the
+      proper colored gels *covering* the lamps. They’re nervous, but they’ve got
+      it all __covered__.
+    speaker:
+      name: Kevin Murphy
+      url: https://twitter.com/kevin_j_m
+    coverage:
+    - type: video
+      title: LRUG December 2021 - Kevin Murphy - Enough coverage to beat the band
+      url: https://assets.lrug.org/videos/2021/december/kevin-murphy-enough-coverage-to-beat-the-band-lrug-dec-2021.mp4
+    - type: link
+      url: https://kevinjmurphy.com/coverage
+      title: Presentation Resources
+    - type: link
+      url: https://dev.to/kevin_j_m/rubys-got-you-covered-2c6k
+      title: 'Blog post: Ruby''s Got You Covered'
+  when-activerecord-meets-cte:
+    title: When ActiveRecord meets CTE!?
+    description: |-
+      CTE (`Common Table Expression`) is one of the ways we handle complicated
+      SQL queries. However, ActiveRecord does not support CTE directly so I used
+      to write some raw SQL to implement CTE. Now, I found there is a useful gem
+      called `activerecord-cte` which makes things different.
+    speaker:
+      name: Johnson Zhan
+      url: https://twitter.com/johnsonzhan121
+    coverage:
+    - type: video
+      title: LRUG December 2021 - Johnson Zhan - When ActiveRecord meets CTE!?
+      url: https://assets.lrug.org/videos/2021/december/johnson-zhan-when-activerecord-meets-cte-lrug-dec-2021.mp4
+  finding-hiring-and-onboarding-junior-ruby-developers:
+    title: Finding, hiring and onboarding junior Ruby developers
+    description: |-
+      The Ruby community in London has a huge number of junior
+      developers, largely thanks to bootcamps like Le Wagon and Makers Academy.
+      This talk describes my experiences finding, hiring and onboarding junior
+      devs. The aim is for the hiring managers in the room to feel more confident
+      hiring junior devs for their teams, and for the junior devs in the room to
+      feel more confident asking for support and learning opportunities.
+    speaker:
+      name: Alex Balhatchet
+      url: https://twitter.com/kaokun
+    coverage:
+    - type: video
+      title: LRUG December 2021 - Alex Balhatchet - Finding, Hiring and onboarding
+        junior Ruby developers
+      url: https://assets.lrug.org/videos/2021/december/alex-balhatchet-finding-hiring-and-onboarding-junior-ruby-developers-lrug-dec-2021.mp4
+    - type: slides
+      title: Finding, Hiring and onboarding junior Ruby developers
+      url: https://alex.balhatchet.net/slides/2021-12-13-Hiring-Junior-Ruby-Devs.pdf

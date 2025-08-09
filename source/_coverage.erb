@@ -1,0 +1,7 @@
+<ol class="coverage">
+  <% coverage_links.each do |coverage_link| %>
+    <li class="coverage-item <%= coverage_link.type %>">
+      <a href="<%= coverage_link.url %>" rel="nofollow"><%=h coverage_link.title %></a>
+    </li>
+  <% end %>
+</ol>

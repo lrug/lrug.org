@@ -1,0 +1,557 @@
+---
+january:
+  ruby-on-the-big-screen:
+    title: Ruby on the Big Screen
+    description: |-
+      Using Ruby to crunch the numbers, read tv captions and drive a 30m long
+      LED screens at The Open Golf Championships. A whistle stop tour of the
+      setup, the architecture and the code that goes into making something
+      like this work and what can go wrong!
+    speaker:
+      name: Steve Butterworth
+      url: https://twitter.com/stevewillbe
+      raw: "[Steve Butterworth](https://twitter.com/stevewillbe) says:"
+    coverage: []
+  re-interpreting-data:
+    title: Re-interpreting data
+    description: |-
+      Some time ago I stumbled across the header description for WAV files
+      and wondered, what if I took a file and calculated the appropriate WAV
+      file header for it, could I _hear_ my data?  Yes, you can.  You probably
+      don't want to, but you can.  You can do something similar with BMP and
+      MIDI files too!
+    speaker:
+      name: Murray Steele
+      url: https://twitter.com/hlame
+    coverage:
+    - type: transcript
+      url: http://h-lame.com/talks/re-interpreting-data/
+      title: Talks ∋ Re-interpreting Data
+  rubys-a-critic:
+    title: Ruby's a critic
+    description: |-
+      [RubyCritic](https://github.com/whitesmith/rubycritic/) provides a
+      report about code quality. You can run it locally to view how your
+      project is doing and what are the smelly spots. A way of getting sense
+      of how your code quality is evolving over time is by setting it up on
+      your CI and storing the reports artefacts.
+    speaker:
+      name: Nuno Silva
+      url: https://github.com/nunosilva800
+    coverage: []
+  getting-started-with-mruby:
+    title: Getting started with mruby
+    description: |-
+      find out what [mruby](https://github.com/mruby/mruby) is, why you might
+      want to use it and obstacles you might encounter along the way.
+    speaker:
+      name: Fred Cheung
+      url: https://github.com/fglc2
+    coverage: []
+february:
+  you-dont-know-what-you-dont-know:
+    title: You don't know what you don't know
+    description: |-
+      How to start an investigation into transitioning from a monolith to a
+      microservice architecture. A number of issues to consider before you
+      start and how to make a list of blockers on the way.
+    speaker:
+      name: Elena Tanasoiu
+      url: https://twitter.com/elenatanasoiu
+    coverage:
+    - type: video
+      url: https://assets.lrug.org/videos/2020/february/elena-tanasoiu-you-dont-know-what-you-dont-know-lrug-feb-2020.mp4
+      title: LRUG February 2020 - Elena Tanasoiu - You don't know what you don't know
+  designing-domain-oriented-obvservability-in-your-system:
+    title: Designing Domain-Oriented Observability in your system
+    description: |-
+      What does it mean to make a system observable? Too often this is translated
+      into simply installing technical tools to measure low-level concerns like
+      memory, CPU or background queues size. In this talk, I will present the
+      concept of Domain-Oriented Observability, explore how it affects the cost
+      of maintaining your system and finally show some of the tools and solutions
+      that can help you put it into practice.
+    speaker:
+      name: Alfredo Motta
+      url: https://twitter.com/mottalrd
+    coverage:
+    - type: video
+      url: https://assets.lrug.org/videos/2020/february/alfredo-motta-designing-domain-oriented-observability-in-your-system-lrug-feb-2020.mp4
+      title: LRUG February 2020 - Alfredo Motta - Designing Domain-Oriented Observability
+        in your system
+  semantic-versioning-ruby-versioning-and-the-forward-march-of-progress:
+    title: Semantic Versioning, Ruby Versoning, and the forward march of progress
+    description: |-
+      [Jon Rowe](https://twitter.com/JonRowe) is going to tell us about how ruby
+      versioning interprets semantic versioning, and the problems that brings
+      for maintainers of projects like rspec that support multiple versions of
+      ruby.
+    speaker:
+      name: Jon Rowe
+      url: https://twitter.com/JonRowe
+    coverage:
+    - type: video
+      url: https://assets.lrug.org/videos/2020/february/jon-rowe-semantic-versioning-ruby-versioning-and-the-forward-march-of-progress-lrug-feb-2020.mp4
+      title: LRUG February 2020 - Jon Rowe - Semantic Versioning, Ruby Versoning,
+        and the forward march of progress
+    use_description_as_intro: true
+  influence-your-company-beyond-code:
+    title: Influence your company beyond code
+    description: |-
+      It's important for all the engineers to realise that individually they are
+      able to help shape a company's culture, tech excellence, and tech direction.
+
+      There are various ways to achieve this, in this talk I'll present some of
+      the common options while focusing on creating communities of practice -
+      groups of people that meet with a common goal in mind and relevant to the
+      company's interest, both sponsored by leadership or started by engineers.
+    speaker:
+      name: Mugurel Chirica
+      url: https://twitter.com/budmc29
+    coverage:
+    - type: video
+      url: https://assets.lrug.org/videos/2020/february/mugurel-chirica-influence-your-company-beyond-writing-code-lrug-feb-2020.mp4
+      title: LRUG February 2020 - Mugurel Chirica - Influence your company beyond
+        code
+  from-confusion-to-contribution:
+    title: From confusion to contribution
+    description: |-
+      How I refactored my way into an open source codebase, starting from a
+      state of confusion and ending up contributing to mocha, and some things
+      I learned along the way.
+    speaker:
+      name: Nitish Rathi
+      url: https://twitter.com/latebound
+    coverage:
+    - type: video
+      url: https://assets.lrug.org/videos/2020/february/nitish-rathi-from-confusion-to-contribution-lrug-feb-2020.mp4
+      title: LRUG February 2020 - Nitish Rathi - From confusion to contribution
+  how-to-manage-happy-remote-development-teams:
+    title: How to manage happy remote development teams
+    description: |-
+      Things I learned about how to manage and work on distributed
+      software development teams while keeping everyone happy, at least some of
+      the time.
+    speaker:
+      name: Ali Najaf
+      url: https://twitter.com/alinajaf
+    coverage:
+    - type: video
+      url: https://assets.lrug.org/videos/2020/february/ali-najaf-how-to-manage-happy-remote-development-teams-lrug-feb-2020.mp4
+      title: LRUG February 2020 - Ali Najaf - How to manage remote development teams
+march:
+  i-got-an-email-from-the-government-the-other-day:
+    title: I got an email from the Government the other day
+    description: |-
+      Email has been around for a long time, predating even the Internet, and
+      despite the best efforts of big tech to monopolise our communications,
+      it's still the most popular way to for people to communicate online.
+      This ubiquity means it's a really easy wayf or Government to keep in
+      touch with us, but email is a tricky thing to manage, running
+      mailservers can be a faff, and email as a service solutions can be
+      expensive. In this talk I'll go through a potted history of email, talk
+      about a tool that the Government Digital Service have developed to make
+      email easier for goverment agencies, and a Ruby gem I've build to make
+      it even easier for Rails devs.
+    speaker:
+      name: Stuart Harrison
+      url: https://twitter.com/pezholio
+    coverage: []
+  my-first-rails-bug-report:
+    title: My first Rails bug report
+    description: |-
+      Story time! Here's the bug I found, how we determined it was a bug in
+      Rails 6, how we dealt with it including working around it and submitting
+      the bug report, and finally getting to remove our workaround once the
+      bug was fixed and the new Rails was installed :)
+    speaker:
+      name: Alex Balhatchet
+      url: https://twitter.com/kaokun
+    coverage: []
+  tech-for-good-with-ruby-on-rails:
+    title: Tech for good with Ruby on Rails
+    description: |-
+      Giki Social Enterprise uses Ruby on Rails to help people live
+      sustainably. We'll talk about what we do and why Rails is such a good
+      framework for helping people to make sustainable and healthy choices.
+    speaker:
+      - name: James Hand
+        url: https://www.linkedin.com/in/jameshand-uk/
+      - name: Alan Bridger
+        url: https://github.com/abridger
+    coverage: []
+  london-ruby-events:
+    title: London Ruby Events
+    description: |-
+      I am going to tell you about the Ruby events in London that I am
+      organising such as the [Ruby Hacknight](https://www.meetup.com/ruby-hacknight-london/)
+      and [Ruby London Jobs](https://www.meetup.com/Ruby-Jobs-London/) and
+      other events for the community that are the most common. I will also
+      mention different event formats which I have experienced and found
+      useful for different purposes.
+    speaker:
+      name: Jairo Diaz
+      url: https://www.linkedin.com/in/jairodiaz4/
+    coverage: []
+april:
+  how-to-take-control-of-code-quality:
+    title: How to take control of code quality
+    description: |-
+      We all know how valuable it is to keep the quality of your code high. Working on a high quality codebase is more enjoyable and enables us to deliver value much more effectively for our users and yet, time and again I hear engineers saying, “I am not allowed to spend sufficient time on code quality”.
+
+      This talk clarifies the value of maintaining a high quality codebase, gives you guidance on how to talk about this to help you get the support of your colleagues and managers for spending time on this and also outlines some key practices that will help you achieve this.
+    speaker:
+      name: Joel Chippindale
+      url: https://twitter.com/joelchippindale
+    coverage:
+    - type: video
+      url: https://assets.lrug.org/videos/2020/april/joel-chippindale-how-to-take-control-of-your-code-quality-lrug-apr-2020.mp4
+      title: LRUG April 2020 - Joel Chippindale - How to take control of code quality
+    - type: slides
+      url: https://blog.mocoso.co.uk/assets/take-control-of-code-quality/take-control-of-code-quality--lrug-apr-2020.pdf
+      title: How to take control of code quality
+    - type: transcript
+      url: https://blog.mocoso.co.uk/talks/2020/02/27/take-control-of-code-quality/
+      title: How to take control of code quality
+  music-experiments-in-sonic-pi:
+    title: Music Experiments in Sonic Pi
+    description: |-
+      Let's celebrate Sonic Pi's v3.2 release, scheduled for 28 Feb!
+      Sonic Pi's an open source Ruby code-based music creation and performance tool.
+
+      Rob's presenting a few experiments in Sonic Pi, covering oddities such as:
+
+      * negative melody
+      * Jianpu (numbered musical notation)
+      * just intonation
+      * microtonal music - 19 EDO (Equal Division of the Octave)
+      * interfacing with MIDI controllers over USB and bluetooth BLE.
+
+      Also Rob will walk us through a memory management improvement PR to Sonic Pi - that may have made it into the release.
+    speaker:
+      name: Rob McKinnon
+      url: https://github.com/robmckinnon
+    coverage: []
+may:
+  comparing-the-speed-and-elegance-of-different-computer-languages:
+    title: Comparing the speed and elegance of different computer languages using
+      a Hamiltonian curve algorithm as the comparator
+    description: |-
+      My company (Trapeze) specialises in public transport including schedule
+      optimisation. Finding Hamiltonian curves is a sub-problem to the
+      travelling salesman problem and of the general problem of optimising
+      pickup and drop-offs in demand responsive public transport. This talk
+      will compare implementing a Hamiltonian curve finder in a number of
+      different languages. The talk looks both at the speed of the language
+      and the elegance. For Ruby, I compare a couple of different
+      implementations. Other languages that are compared are Elixir, Go,
+      Javascript, Java, C++, C# and Python.
+
+      The source code is in a public Github repository details of which I will
+      provide as part of my talk
+    speaker:
+      name: Peter Bell
+      url: https://github.com/trapeze-bell-peter
+    coverage:
+    - type: video
+      url: https://assets.lrug.org/videos/2020/may/peter-bell-comparing-the-speed-and-elegance-of-different-computer-languages-lrug-apr-2020.mp4
+      title: LRUG May 2020 - Peter Bell - Comparing the speed and elegance of different
+        computer languages
+  debugging-ruby-http-library-surprises:
+    title: Debugging Ruby HTTP Library Surprises
+    description: |-
+      Some folks prefer 'puts' to debugging with something like
+      pry-byebug, but I'm a huge fan of debuggers, particularly stepping
+      through my own code and the code of the many libraries we all rely on.
+      In combination with `bundle open` to insert breakpoints into the code of
+      gems being used in your stack, debugging can expose really tricky
+      dependency bugs, as I aim to demonstrate with one that I found in the
+      way different ruby HTTP libraries can interact.
+    speaker:
+      name: Sam Joseph
+      url: http://github.com/tansaku
+    coverage:
+    - type: video
+      url: https://assets.lrug.org/videos/2020/may/sam-joseph-debugging-ruby-http-library-surprises-lrug-may-2020.mp4
+      title: LRUG May 2020 - Sam Joseph - Debugging Ruby HTTP Library Surprises
+june:
+  hanami-another-opinionated-rack-based-framework:
+    title: Hanami, another Opinionated Rack-based Framework
+    description: |-
+      [Panos Matsinopoulos](http://www.linkedin.com/in/panayotismatsinopoulos):
+
+      > We present Hanami and its differences to Rails. Then
+      > we show an integration case between a Hanami and a Rails project. Finally,
+      > we close with a PR on the Hanami project.
+
+      Panos is a Senior Software Engineer at [Lavanda](https://getlavanda.com/).
+    speaker:
+      name: Panos Matsinopoulos
+      url: http://www.linkedin.com/in/panayotismatsinopoulos
+    coverage:
+    - type: video
+      url: https://assets.lrug.org/videos/2020/june/panos-matsinopoulos-hanami-another-opinionated-rack-based-framework-lrug-jun-2020.mp4
+      title: LRUG June 2020 - Panos Matsinopoulos - Hanami, another opinionated rack-based
+        framework
+    use_description_as_intro: true
+  agile-or-waterfall-a-risk-management-perspective:
+    title: Agile or Waterfall; a risk management perspective
+    description: |-
+      Today Agile is the default choice for software development out there. Every
+      conference, book, or blog post is telling us we are doomed to fail if we
+      don’t follow this established convention. But isn't it surprising to think
+      that Agile is advocated as the right methodology for every possible company
+      doing software out there? Are we going to organize software development
+      exactly the same way if we are working for a startup, NASA, or FedEx? It
+      seems hard to believe. In this presentation, I will explore the mental
+      model to help you choose when you should (or sometimes should not) use
+      Agile using the lenses of risk management. My goal is to provide guidance
+      for the puzzled business owner, project manager, or software developer who
+      wants to pick what's right for their company or team.
+    speaker:
+      name: Alfredo Motta
+      url: https://twitter.com/mottalrd
+    coverage:
+    - type: video
+      url: https://assets.lrug.org/videos/2020/june/alfredo-motta-agile-or-waterfall-a-risk-management-perspective-lrug-jun-2020.mp4
+      title: LRUG June 2020 - Alfredo Motta - Agile or Waterfall; a risk management
+        perspective
+july:
+  improved-security-for-password-authentication:
+    title: Improved security for password authentication
+    description: |-
+      [Jolyon Pawlyn](https://twitter.com/jpawlyn):
+
+      > Devise is a great authentication solution and is standard in many Rails
+      > applications. I want to look at 2 easy improvements to the default password
+      > validation. Then let's see what it takes to implement bare bones two-factor
+      > authentication using Devise and Warden.
+      >
+      > The security features to be covered can be viewed in [an example
+      application](https://github.com/jpawlyn/secure-user-accounts#secure-user-accounts).
+
+      Jolyon is a volunteer at Crowdfrica, ex Contentful, Wunder Mobility and Unboxed
+      Consulting, and also an aspiring yardener.
+
+    speaker:
+      name: Jolyon Pawlyn
+      url: https://twitter.com/jpawlyn
+    coverage:
+    - type: video
+      url: https://assets.lrug.org/videos/2020/july/jolyon-pawlyn-improved-security-for-password-authentication-lrug-jul-2020.mp4
+      title: LRUG July 2020 - Jolyon Pawlyn - Improved security for password authentication
+    use_description_as_intro: true
+  perfect-is-the-enemy-of-good:
+    title: Perfect is the enemy of good
+    description: |-
+      [Nicky Thompson](https://twitter.com/knotnicky):
+
+      > This talk is a rambling rag-tag collection of software engineering and
+      > problem-solving lessons learned over the course of *mumble* years as a
+      > developer and now an engineering manager. It includes practical tips,
+      > philosophical insights, or just advice that other people gave me that I
+      > found helpful. These ideas have helped me be better at my job over the
+      > years. They are tried and tested, things that I have actually done
+      > throughout my career. They might or might not help you.
+
+      Nicky is an Engineering Manager at FutureLearn, providing management and support to the Technology Team. Offline, Nicky enjoys watching bad TV and learning new stuff: this year it's a serious sewing/dressmaking habit.
+    speaker:
+      name: Nicky Thompson
+      url: https://twitter.com/knotnicky
+    coverage:
+    - type: video
+      url: https://assets.lrug.org/videos/2020/july/nicky-thompson-perfect-is-the-enemy-of-good-lrug-jul-2020.mp4
+      title: LRUG July 2020 - Nicky Thompson - Perfect is the enemy of good
+    use_description_as_intro: true
+august:
+  language-doesnt-matter-what-makes-a-senior-engineer:
+    title: 'Language doesn''t matter: what makes a senior engineer?'
+    description: |-
+      What makes a senior engineer? What other aspects of
+      being a senior engineer are as important, if not more important, than
+      knowing a programming language inside out. What things can you work on to
+      become or be a better senior engineer (that won't have a new framework out
+      by next week!). This is a set of lessons learned in a journey from self
+      taught front end developer to senior polyglot developer (via ruby).
+    speaker:
+      name: Matt Bee
+      url: https://twitter.com/mattbee
+    coverage:
+    - type: video
+      url: https://assets.lrug.org/videos/2020/august/matt-bee-language-doesnt-matter-what-makes-a-senior-engineer-lrug-aug-2020.mp4
+      title: LRUG August 2020 - Matt Bee - Language doesn't matter/ what makes a senior
+        engineer?
+  doing-the-right-thing:
+    title: Doing the right thing
+    description: |-
+      Ethics are the principles of right and wrong that govern
+      our behaviour. Using examples from my experience, i'll share some tools
+      that you can use to understand ethical decisions and ways to help
+      ourselves and our team make the right choices.
+    speaker:
+      name: Chris Zetter
+      url: https://chriszetter.com
+    coverage:
+    - type: video
+      url: https://assets.lrug.org/videos/2020/august/chris-zetter-doing-the-right-thing-lrug-aug-2020.mp4
+      title: LRUG August 2020 - Chris Zetter - Doing the right thing
+september:
+  stimulusjs-modest-js-for-the-html-you-have:
+    title: 'StimulusJS: Modest JS for the HTML you have'
+    description: |-
+      An overview of [StimulusJS](https://stimulusjs.org) (a small framework from Basecamp) and
+      discussion on when you might (or might not!) want to use it
+    speaker:
+      name: Matt Swanson
+      url: https://twitter.com/_swanson
+    coverage:
+    - type: video
+      url: https://assets.lrug.org/videos/2020/september/matt-swanson-stimulusjs-modest-js-for-the-html-you-have-lrug-sep-2020.mp4
+      title: 'LRUG September 2020 - Matt Swanson - StimulusJS: Modest JS for the HTML
+        you have'
+    - type: slides
+      url: https://docs.google.com/presentation/d/1uPA7CX_SGZPY2hFcf0YIvsSvCQzN7OTHVsvQnv5vKnY/
+      title: 'StimulusJS: Modest JS for the HTML you have'
+  wizards-without-magic:
+    title: Wizards without magic
+    description: |-
+      Multi-step forms (a.k.a wizards) are fiddly to build and difficult to
+      test. (And not just in Rails). Why is that, and how can we make them
+      better?
+    speaker:
+      name: Duncan Brown
+      url: https://github.com/duncanjbrown
+    coverage:
+    - type: video
+      url: https://assets.lrug.org/videos/2020/september/duncan-brown-wizards-without-magic-lrug-sep-2020.mp4
+      title: LRUG September 2020 - Duncan Brown - Wizards without Magic
+october:
+  jwts-what-rails-developers-need-to-know:
+    title: JWTs - what Rails developers need to know
+    description: |-
+      What is a JSON Web Token (JWT) and why do you care? JWTs
+      are a stateless, standardized way to represent user data. This talk will
+      discuss why JWTs matter and the nuts and bolts of JWTs. We’ll also discuss
+      how you might use a JWT in your Rails or Ruby application.
+    speaker:
+      name: Dan Moore
+      url: https://twitter.com/mooreds
+    coverage:
+    - type: video
+      url: https://assets.lrug.org/videos/2020/october/dan-moore-jwts-what-rails-developers-need-to-know-lrug-oct-2020.mp4
+      title: LRUG October 2020 - Dan Moore - JWTs - what Rails developers need to
+        know
+    - type: slides
+      url: https://docs.google.com/presentation/d/1Sr52vuZzUB2EgdOw_CZD1tgbs5e0amCbfQH_Wx7iagQ/
+      title: JWTs - What Rails Developers need to know
+    - type: link
+      url: https://fusionauth.io/learn/expert-advice/tokens/building-a-secure-jwt
+      title: Building a Secure Signed JWT
+    - type: repo
+      url: https://github.com/fusionauth/fusionauth-example-ruby-jwt
+      title: Ruby JWT Examples
+  getting-past-the-tech-test:
+    title: Getting Past the Tech Test
+    description: |-
+      Sometimes people have great backgrounds and great skills, but have trouble
+      getting hired because they didn't approach the tech test the way the
+      company wanted. As someone who reviews a lot of tech tests at work, I'm
+      going to explain some of the unwritten rules and expectations that you
+      might not know if you've been out of circulation or are just entering the
+      job market, and help you level up your tech test game.
+    speaker:
+      name: Michael Mazour
+      url: https://www.linkedin.com/in/mmazour/
+    coverage:
+    - type: video
+      url: https://assets.lrug.org/videos/2020/october/michael-mazour-getting-past-the-tech-test-lrug-oct-2020.mp4
+      title: LRUG October 2020 - Michael Mazour - Getting past the tech test
+    - type: slides
+      url: https://speakerdeck.com/mmazour/getting-past-the-tech-test
+      title: Getting Past the Tech Test
+november:
+  patches-welcome:
+    title: Patches Welcome!
+    description: |-
+      [Denny de la Haye](https://denny.me) says:
+
+      > Everybody at LRUG probably uses open source software - unless they got lost on
+      > the way to another meeting - but it often surprises me how few developers take
+      > the extra step from using it, to contributing to (or releasing their own) open
+      > source software projects. I'm going to talk about how I got involved in the
+      > open source community, why I stay involved, and about my current open source
+      > projects
+
+      [Denny de la Haye](https://denny.me) has been a programmer for nearly 30 years
+      now - "although my ZX81 code is thankfully all lost in the mists of time (AKA
+      audio cassettes and thermal printer paper)", he says. He has spent most of the
+      last 4+ years writing Ruby, and most of the 15+ before that writing Perl. The
+      switch between the two was less traumatic than he expected, but it did lead to
+      starting another open source software project last year...
+    speaker:
+      name: Denny de la Haye
+      url: https://denny.me
+    coverage:
+    - type: video
+      url: https://assets.lrug.org/videos/2020/november/denny-de-la-haye-patches-welcome-lrug-nov-2020.mp4
+      title: LRUG November 2020 - Denny de la Haye - Patches Welcome!
+    - type: link
+      url: https://denny.me/LRUG
+      title: Links to pages and projects mentioned in "Patches Welcome!"
+    use_description_as_intro: true
+  convention-over-kubernetes-almost-configless-deploys-with-kuby:
+    title: 'Convention over Kubernetes: (Almost) Configless Deploys with Kuby'
+    description: |-
+      [Cameron Dutro](https://twitter.com/camertron) says:
+
+      > Rails' most well-known mantra is "convention over configuration," i.e. sane
+      > defaults that limit the cognitive overhead of application development. It's
+      > easy to learn and easy to build with. The development experience is
+      > fantastic... right up until the point you want to deploy your app to
+      > production. It's at that point that the hand-holding stops.
+      >
+      > Heroku to the rescue, right? Just push your git repo to "heroku master" and
+      > never think about deployment again! Heroku is a great option for many small
+      > projects and the ease of deployment is exactly the kind of experience Rails
+      > developers are used to. To quote Aaron Patterson: "but at what cost?" You're
+      > tied to Heroku's stack and stuck within the limitations of their free tier.
+      > Heroku's add-ons can get pretty expensive too if you decide to upgrade later
+      > on.
+      >
+      > How can we, but humble Rails devs, achieve the same seamless, turnkey
+      > deployment experience affordably? Enter the Kuby gem, a
+      > convention-over-configuration approach to deploying Rails apps using
+      > industry-leading technologies. Come learn how, with almost no configuration,
+      > you too can use Kuby to leverage Docker and Kubernetes to deploy your Rails
+      > app cost-effectively on a variety of cloud platforms.
+
+      [Cameron Dutro](https://twitter.com/camertron) currently works on the Quip team
+      at Salesforce. He's been programming in Ruby and using Rails for ten years and
+      has held previous positions at Fluther, Twitter, and Lumos Labs. When he's not
+      reading about, using, or working on technology, Cameron can be found hiking in
+      the hills behind his house or hanging out at home with his wife, daughter, and
+      cat.
+    speaker:
+      name: Cameron Dutro
+      url: https://twitter.com/camertron
+    coverage:
+    - type: video
+      url: https://assets.lrug.org/videos/2020/november/cameron-dutro-convention-over-kubernetes-almost-configless-deploys-with-kuby-lrug-nov-2020.mp4
+      title: 'LRUG November 2020 - Cameron Dutro - Convention over Kubernetes: (Almost)
+        Configless Deploys with Kuby'
+    use_description_as_intro: true
+december:
+  create-a-twitter-clone-in-15-minutes-in-pure-ruby-with-matestack:
+    title: Create a Twitter clone in 15 minutes in pure Ruby with Matestack
+    description: |-
+      Matestack enables you to implement reactive web UIs in pure Ruby, skipping
+      ERB, HTML and JavaScript. In a live coding session, we will create a Twitter
+      clone using Matestack's core features from scratch!
+    speaker:
+      name: Jonas Jabari
+      url: https://twitter.com/jonasjabari
+    coverage:
+    - type: video
+      url: https://assets.lrug.org/videos/2020/december/jonas-jabari-create-a-twitter-clone-in-15-minutes-in-pure-ruby-with-matestack.lrug-dec-2020.mp4
+      title: LRUG December 2020 - Jonas Jabari - Create a Twitter clone in 15 minutes
+        in pure Ruby with Matestack
