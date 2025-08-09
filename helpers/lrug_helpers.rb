@@ -264,54 +264,59 @@ module LrugHelpers
   end
 
   def rubyevents_video_playlist(site_url: )
-    data.talks.keys.sort.reverse_each do |year|
+    data.talks.keys.sort.reverse_each.filter_map do |year|
       # for now - only share 2020+ talks
       next if Integer(year) < 2020
-      data.talks[year].reverse_each do |month, talks|
+
+      data.talks[year].reverse_each.filter_map do |month, talks|
         page = meeting_pages.detect { it.path.starts_with? "meetings/#{year}/#{month}" }
+        next unless page
+
         url = URI.join(site_url, page.url)
         title = "LRUG #{month.titleize} #{year}"
         meeting_date = page.data.meeting_date.strftime('%Y-%m-%d')
         publish_date = page.data.published_at.strftime('%Y-%m-%d')
-        event_details = {
+        {
           'title' => title,
           'event_name' => title,
           'date' => meeting_date,
           'published_at' => publish_date,
           'video_provider' => "children",
           'video_id' => title.parameterize,
-          'description' => url.to_s
+          'description' => url.to_s,
+          'talks' => talks_for_rubyevents_video_playlist(talks, title, meeting_date, publish_date)
         }
-        event_details['talks'] = talks.map do |id, talk|
-          video_coverage = talk.coverage&.detect { it.type == 'video' }
-          slides_coverage = talk.coverage&.detect { it.type == 'slides' }
-
-          talk_details = {
-            'title' => talk.title,
-            'event_name' => title,
-            'date' => meeting_date,
-            'published_at' => publish_date,
-            'speakers' => Array.wrap(talk.speaker).map(&:name),
-            'description' => talk.description
-          }
-          if video_coverage && video_coverage.url.starts_with?('https://assets.lrug.org')
-            talk_details['video_provider'] = "mp4"
-            talk_details['video_id'] = video_coverage.url
-          else
-            # technically this might mean we have a video elsewhere
-            # (e.g. like the old skills matter videos or on youtube or
-            # something) rather than haven't published it yet and we should
-            # work out how to list those
-            talk_details['video_id'] = "lrug-#{month}-#{id}"
-            talk_details['video_provider'] = 'not_published'
-          end
-          talk_details['slides_url'] = slides_coverage.url if slides_coverage
-          talk_details
-        end.compact
-        events_details << event_details
       end
+    end.flatten(1).to_yaml
+  end
+
+  def talks_for_rubyevents_video_playlist(talks, title, meeting_date, publish_date)
+    talks.map do |id, talk|
+      video_coverage = talk.coverage&.detect { it.type == 'video' }
+      slides_coverage = talk.coverage&.detect { it.type == 'slides' }
+
+      talk_details = {
+        'title' => talk.title,
+        'event_name' => title,
+        'date' => meeting_date,
+        'published_at' => publish_date,
+        'speakers' => Array.wrap(talk.speaker).map(&:name),
+        'description' => talk.description
+      }
+      if video_coverage && video_coverage.url.starts_with?('https://assets.lrug.org')
+        talk_details['video_provider'] = "mp4"
+        talk_details['video_id'] = video_coverage.url
+      else
+        # technically this might mean we have a video elsewhere
+        # (e.g. like the old skills matter videos or on youtube or
+        # something) rather than haven't published it yet and we should
+        # work out how to list those
+        talk_details['video_id'] = "lrug-#{meeting_date}-#{id}"
+        talk_details['video_provider'] = 'not_published'
+      end
+      talk_details['slides_url'] = slides_coverage.url if slides_coverage
+      talk_details
     end
-    events_details.to_yaml
   end
 
   private
