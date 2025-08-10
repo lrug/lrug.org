@@ -281,6 +281,7 @@ module LrugHelpers
           'event_name' => title,
           'date' => meeting_date,
           'published_at' => publish_date,
+          'announced_at' => publish_date,
           'video_provider' => "children",
           'video_id' => title.parameterize,
           'description' => url.to_s,
@@ -299,13 +300,16 @@ module LrugHelpers
         'title' => talk.title,
         'event_name' => title,
         'date' => meeting_date,
-        'published_at' => publish_date,
+        'announced_at' => publish_date,
         'speakers' => Array.wrap(talk.speaker).map(&:name),
         'description' => talk.description
       }
       if video_coverage && video_coverage.url.starts_with?('https://assets.lrug.org')
         talk_details['video_provider'] = "mp4"
         talk_details['video_id'] = video_coverage.url
+        # we don't track publish timestamps for when the videos came out
+        # but we need a published_at to make things public
+        talk_details['published_at'] = 'TODO'
       else
         # technically this might mean we have a video elsewhere
         # (e.g. like the old skills matter videos or on youtube or
@@ -313,6 +317,7 @@ module LrugHelpers
         # work out how to list those
         talk_details['video_id'] = "lrug-#{meeting_date}-#{id}"
         talk_details['video_provider'] = 'not_published'
+        talk_details['published_at'] = 'Not published'
       end
       talk_details['slides_url'] = slides_coverage.url if slides_coverage
       talk_details
