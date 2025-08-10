@@ -264,11 +264,11 @@ module LrugHelpers
   end
 
   def rubyevents_video_playlist(site_url: )
-    data.talks.keys.sort.reverse_each.filter_map do |year|
+    data.talks.keys.sort.each.filter_map do |year|
       # for now - only share 2020+ talks
       next if Integer(year) < 2020
 
-      data.talks[year].reverse_each.filter_map do |month, talks|
+      data.talks[year].each.filter_map do |month, talks|
         page = meeting_pages.detect { it.path.starts_with? "meetings/#{year}/#{month}" }
         next unless page
 
