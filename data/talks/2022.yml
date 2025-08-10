@@ -1,0 +1,475 @@
+---
+january:
+  pub-quiz:
+    title: LRUG Pub quiz
+    description: |-
+      > Are you proud of your knowledge of Ruby and Ruby on Rails? Invite your
+      > friends, and win bragging rights. Or simply invite them and enjoy spending
+      > time with them.
+
+      The quiz will have 4 categories, and each category will have between 20 and 30
+      questions. The 4 categories are:
+
+      - Ruby
+      - Ruby on Rails
+      - General computing
+      - London
+    speaker:
+      name: ''
+    coverage: []
+    use_description_as_intro: true
+february:
+  javascript-in-rails-a-new-hope:
+    title: 'Javascript in Rails: A New Hope'
+    description: |-
+      Tired of slow webpack builds and daunting configuration files?
+      Find out how the new css-bundling and js-bundling gems can roll back the years
+      and make javascript in rails fast and simple again.
+    speaker:
+      name: Frederick Cheung
+      url: https://twitter.com/fglc2
+    coverage:
+    - type: video
+      title: LRUG February 2022 - Frederick Cheung - Javascript in Rails A New Hope
+      url: https://assets.lrug.org/videos/2022/february/speaker-frederick-cheung-javascript-in-rails-a-new-hope-lrug-feb-2022.mp4
+  getting-past-enemy-images:
+    title: Getting past enemy images
+    description: |-
+      Enemy images hinder our communication with people when we need them
+      the most: to agree with another colleague over a code review, to interview
+      a third party, to have an important conversation with our boss or direct
+      report (technical or non-technical topic).
+      In this talk we will raise awareness and cover one way of overcoming the
+      initial enemy image to get a better outcome for us and our team.
+    speaker:
+      name: Pablo Dejuan
+      url: https://pablo.pm
+    coverage:
+    - type: video
+      title: LRUG February 2022 - Pablo Dejuan - Getting past enemy images
+      url: https://assets.lrug.org/videos/2022/february/speaker-pablo-dejuan-getting-past-enemy-images-lrug-feb-2022.mp4
+  the-tale-of-the-sixty-plus-second-page-loads:
+    title: The tale of the 60+ second page loads
+    description: |-
+      A monstrous mystery and a head-scratching hunt. Follow along to discover
+      why, just why, is that darn page so slow!?
+    speaker:
+      name: Jared Turner
+      url: https://www.linkedin.com/in/jaredlt/
+    coverage:
+    - type: slides
+      url: https://docs.google.com/presentation/d/1-vodmNcE930xHAjb5kyCiI3eJyZFPuUL48njnoPNlvM
+      title: The tale of the 60+ second page loads
+    - type: video
+      title: LRUG February 2022 - Jared Turner - The tale of the 60+ second page loads
+      url: https://assets.lrug.org/videos/2022/february/speaker-jared-turner-the-tale-of-the-60-plus-second-page-loads-lrug-feb-2022.mp4
+  solargraph-dead-end:
+    title: solargraph-dead_end
+    description: |-
+      The awesome dead_end gem gives really good feedback on where that elusive
+      missing `end` keyword is hiding in your Ruby file.
+      At a thoughtbot hackathon a few of us worked on a solargraph plugin
+      for it so you can get this feedback in your editor. Come hear about
+      the results!
+    speaker:
+      name: Fritz Meissner
+      url: https://twitter.com/fritzmeissner
+    coverage:
+    - type: video
+      title: LRUG February 2022 - Fritz Meissner - solargraph-dead_end
+      url: https://assets.lrug.org/videos/2022/february/speaker-fritz-meissner-solargraph-dead-end-lrug-feb-2022.mp4
+  introducing-viewcomponent:
+    title: Introducing ViewComponent
+    description: |-
+      The view layer is the Wild West of Rails. Let's look at how ViewComponent
+      helps you break down and test your Rails views.
+    speaker:
+      name: Simon Fish
+      url: https://simon.fish
+    coverage:
+    - type: video
+      title: LRUG February 2022 - Simon Fish - Introducing ViewComponent
+      url: https://assets.lrug.org/videos/2022/february/speaker-simon-fish-introducing-viewcomponent-lrug-feb-2022.mp4
+  a-little-pessimism-never-killed-nobody:
+    title: A Little Pessimism Never Killed Nobody
+    description: |-
+      Come join and hear my experience on a real life example of concurrency problem
+      and different approaches to fixing it.
+    speaker:
+      name: Marija Mandić
+      url: https://www.linkedin.com/in/marija-mandic/
+    coverage:
+    - type: video
+      title: LRUG February 2022 - Marija Mandić - A Little Pessimism Never Killed
+        Nobody
+      url: https://assets.lrug.org/videos/2022/february/speaker-marija-mandic-a-little-pessimism-never-killed-nobody-lrug-feb-2022.mp4
+  metaprogramming-my-colleagues-wont-let-me-do-at-work:
+    title: Metaprogramming I Do In My Side Projects That My Colleagues Won't Let Me
+      Do In The Real App At Work :-(
+    description: |-
+      Metaprogramming is fun but, more importantly, makes you feel *really*
+      clever. However, it's not always the best fit for codebases with multiple
+      contributors. Let's take a few minutes to explore some neat tricks you can
+      do when you don't need to worry about other people understanding your code 😀
+    speaker:
+      name: PJ
+      url: https://github.com/isitpj
+    coverage:
+    - type: video
+      title: LRUG February 2022 - PJ - Metaprogramming I Do In My Side Projects That
+        My Colleagues Won't Let Me Do In The Real App At Work :-(
+      url: https://assets.lrug.org/videos/2022/february/speaker-pj-metaprogramming-my-colleagues-wont-let-me-do-at-work-lrug-feb-2022.mp4
+  how-to-think-about-learning:
+    title: How to think about Learning
+    description: |-
+      Why do we learn? How do we learn? How do we learn well?
+      3 mental models that will answer the first 3 of those questions and change how you think
+    speaker:
+      name: Hywel Carver
+      url: https://www.linkedin.com/in/hywelc/
+    coverage:
+    - type: video
+      title: LRUG February 2022 - Hywel Carver - How to think about Learning
+      url: https://assets.lrug.org/videos/2022/february/speaker-hywel-carver-how-to-think-about-learning-lrug-feb-2022.mp4
+march:
+  running-full-builds-after-merging-ship-faster-with-git-tree-based-caching:
+    title: "Running full builds after merging? 🥱: Ship faster with git tree
+      based caching"
+    description: |-
+      Fast deploy pipelines are an important facet of a fast moving engineering
+      team; allowing you to ship smaller, safer units of value to production, [faster](https://xkcd.com/303/),
+      and more often.
+
+      In this talk we'll be covering how using [git tree objects](https://git-scm.com/book/en/v2/Git-Internals-Git-Objects#_tree_objects)
+      can allow you to run CI less or potentially not at all (in a not scary manner :)
+      after merging your changes into your default branch, allowing you to get straight
+      to deploying! 🚂
+
+      In cases where your team can precompile deployment
+      artefacts your changes could make it into production in under 60s. If your
+      team uses Heroku or Buildpacks to deploy your code, I'll point you to
+      [some](https://buildpacks.io/docs/app-developer-guide/build-an-app/) [tricks](https://github.com/CGA1123/slugcmplr)
+      to help you do just that by detaching building and releasing your application
+      to production!
+    speaker:
+      name: Christian Gregg
+      url: https://github.com/CGA1123
+    coverage:
+    - type: video
+      title: "LRUG March 2022 - Christian Gregg - Running full builds after merging? 🥱: Ship faster with git tree based caching"
+      url: https://assets.lrug.org/videos/2022/march/christian-gregg-running-full-builds-after-merging-ship-faster-with-git-tree-based-caching-lrug-mar-2022.mp4
+    - type: write-up
+      title: "🚢 Ship faster with git-tree based caching"
+      url: https://blog.bissy.io/posts/merge_to_deploy_in_a_minute/
+  the-browser-environemnt-a-system-programmer's-perspective:
+    title: The Browser Environment - A Systems Programmer's Perspective
+    description: |-
+      A quirky introduction to writing realtime web systems with Sinatra as
+      the backend. The highlight will be WebSockets but there'll also be
+      coverage of DOM manipulation, AJAX/fetch, and timer events.
+    speaker:
+      name: Eleanor McHugh
+      url: http://slideshare.net/feyeleanor
+    coverage:
+    - type: video
+      title: LRUG March 2022 - Eleanor McHugh - The Browser Environment A System Programmer's
+        perspective
+      url: https://assets.lrug.org/videos/2022/march/eleanor-mchugh-the-browser-environment-a-system-programmer-perspective-lrug-mar-2022.mp4
+april:
+  using-react-in-a-ruby-project-to-dynamically-generate-pdf-documents:
+    title: Using React in a Ruby Project to Dynamically Generate PDF Documents
+    description: |-
+      In the Ruby world, we traditionally address the PDF generation problem
+      using gems like [Prawn](https://github.com/prawnpdf/prawn) and [PDFKit](https://github.com/pdfkit/pdfkit) or
+      libraries like [whtmltopdf](https://wkhtmltopdf.org/).
+
+      Recently, in one of our Ruby on Rails projects in which we wanted to generate PDF documents for
+      invoices, we decided to use another programming language and technology: React
+      and AWS Lambda.
+
+      In this talk, we will be covering how we did it, what were
+      the challenges and what pros and cons over the incumbent tools for Ruby.
+    speaker:
+      name: Panos Matsinopoulos
+      url: https://getlavanda.com
+    coverage:
+    - type: video
+      title: LRUG April 2022 - Panos Matsinopoulos - Using React in a Ruby Project
+        to Dynamically Generate PDF Documents
+      url: https://assets.lrug.org/videos/2022/april/panos-matsinopoulos-using-react-in-a-ruby-project-to-dynamically-generate-pdf-documents-lrug-apr-2022.mp4
+  a-parse-parse-pitch-using-json-and-custom-parsers-to-create-efficient-flexible-data-structures:
+    title: 'A parse parse pitch: using JSON and custom parsers to create efficient
+      flexible data structures.'
+    description: |-
+      JSON and custom parsers let you do neat things like: \ncomplex pricing,
+      map data to 3D models, auto generate images…
+    speaker:
+      name: Winston Ferguson
+      url: https://www.linkedin.com/in/winstonferguson
+    coverage:
+    - type: video
+      title: 'LRUG April 2022 - Winston Ferguson - A parse parse pitch: using JSON
+        and custom parsers to create efficient flexible data structures'
+      url: https://assets.lrug.org/videos/2022/april/winston-ferguson-a-parse-parse-pitch-using-json-and-custom-parsers-to-create-efficient-flexible-data-structures-lrug-apr-2022.mp4
+may:
+  mining-a-gem:
+    title: 'Mining a gem: how to safely discover, extract and share useful code from
+      your Rails app'
+    description: |-
+      We recently extracted a [gem for talking to Google BigQuery](https://github.com/DFE-Digital/dfe-analytics)
+      from 5 different Rails applications at the Department for Education
+      I'll talk through the process of pulling the code out, how to test gems
+      that work with Rails, figuring out how to deal with divergence among
+      existing implementations of the same functionality, and how we're
+      driving adoption of internal open source at DfE.
+    speaker:
+      name: Duncan Brown
+      url: https://github.com/duncanjbrown
+    coverage:
+    - type: video
+      title: 'LRUG May 2022 - Duncan Brown - Mining a gem: how to safely discover,
+        extract and share useful code from your Rails app'
+      url: https://assets.lrug.org/videos/2022/may/duncan-brown-mining-a-gem-how-to-safely-discover-extract-and-share-useful-code-from-your-rails-app-lrug-may-2022.mp4
+  gov-uks-response-to-covid-19:
+    title: "[GOV.UK][]’s response to COVID-19"
+    description: |-
+      Leena and Rosa have been Senior Developers/Tech Leads on the [GOV.UK][]
+      Coronavirus team. The team’s work began in March 2020 when a service
+      they built over a weekend had nearly 50,000 registrations on the day it
+      launched. Two years later, after building lots more services (using
+      Ruby… of course) and serving millions of users, the [GOV.UK][]
+      Coronavirus team finally disbanded.
+
+      Rosa and Leena will take LRUG through a timeline of [GOV.UK][]’s
+      response to the pandemic. We will discuss what we delivered, our
+      successes, failures and how the team supported each other to cope. We
+      will share how Ruby/Rails and tools such as the [GOV.UK][] Design System
+      enabled us to build and deploy critical services at pace.
+    speaker:
+      - name: Leena Gupte
+        url: https://twitter.com/LeenaG
+      - name: Rosa Fox
+        url: https://twitter.com/rosaemerald
+    coverage: []
+june:
+  rebasing-like-a-pro:
+    title: Get your PRs merged, rebasing like a Pro
+    description: |-
+      You have a complex PR to submit. You've tried to keep it small, but sadly
+      you need to make many different changes all at once. Getting there took a
+      lot of effort and your branch has more than 30 commits with fixes and
+      reverting of dead ends.
+
+      You know reviewing this will be a nightmare for your colleagues, and more
+      importantly, it will be almost impossible for someone in the future to
+      understand what happened if they ever look at the history.
+
+      In this talk we will look at how Git branches work, and how to manicure
+      them using Rebase to build a commit history your colleagues will love you
+      for.
+    speaker:
+      name: Daniel Magliola
+      url: https://twitter.com/dmagliola
+    coverage:
+    - type: video
+      title: LRUG June 2022 - Daniel Magliola - Get your PRs merged, rebasing like
+        a Pro
+      url: https://assets.lrug.org/videos/2022/june/daniel-magliola-get-your-prs-merged-rebasing-like-a-pro-lrug-jun-2022.mp4
+  the-messy-middle:
+    title: The messy middle – 5 Software Engineering lessons from a 5 years startup
+      journey
+    description: |-
+      These are some of the lessons that I have learned over my 5 years at a
+      Fintech startup that went from 0 to 100k customers and grew the team from 4
+      to 50 people. I will present some of the software architecture tradeoffs I
+      have been presented with and I am still puzzled about today.
+    speaker:
+      name: Alfredo Motta
+      url: https://twitter.com/mottalrd
+    coverage:
+    - type: video
+      title: LRUG June 2022 - Alfredo Motta - The Messy Middle - 5 software engineering
+        lessons from a 5 year startup journey
+      url: https://assets.lrug.org/videos/2022/june/alfredo-motta-the-messy-middle-5-software-engineering-lessons-from-a-5-years-startup-journey-lrug-jun-2022.mp4
+july:
+  building-a-mortgage-lender-at-generation-home:
+    title: Building a Mortgage Lender at Generation Home
+    description: |-
+      It’s not often that you hear about a startup doings things differently in the mortgages world. And there’s some good reasons for it, the cost of entry is super high!
+
+      It’s not just funding and regulations either. You also need to back it up with the right technology and tools to manage a highly complex business where mistakes can be very costly. On top of that, startups need to move fast to out-innovate the incumbents with only a fraction of the resources.
+
+      At Generation Home Ruby has been a catalyst to help us deliver a product we’re proud of in a short time-scale. We’ll talk about some of the challenges we faced early on, how Ruby, Rails and the whole ecosystem helped us deliver and what still lays ahead of us.
+    speaker:
+      name: André Barbosa
+      url: https://www.linkedin.com/in/andrebarbosaie/
+    coverage: []
+august:
+  low-overhead-ruby-profiling-and-tracing-with-rbperf:
+    title: Low overhead Ruby profiling and tracing with rbperf
+    description: |-
+      Understanding our applications' performance can be tricky. Some of the readily available performance tools introduce a big overhead which makes them not suitable for use in production environments, where in many cases, it's the best place to troubleshoot performance issues.
+
+      [rbperf](https://github.com/javierhonduco/rbperf/) is a low-overhead on-CPU profiler and tracer that is suitable for usage in production environments. It doesn't require the application under investigation to be restarted or disturbed in any way.
+
+      We will discuss some of the tradeoffs in its design, its architecture, the features that make it unique, as well as its limitations compared to other tools. We will also take a look at how the Ruby stack is laid out in memory and the role BPF plays in rbperf.
+    speaker:
+      name: Javier Honduvilla Coto
+      url: https://www.linkedin.com/in/javierhonduco/
+    coverage:
+    - type: video
+      title: LRUG August 2022 - Javier Honduvilla Coto - Low overhead Ruby profiling
+        and tracing with rbperf
+      url: https://assets.lrug.org/videos/2022/august/javier-honduvilla-coto-low-overhead-ruby-profiling-and-tracing-with-rbperf-lrug-aug-2022.mp4
+september:
+  how-music-works-using-ruby:
+    title: How music works, using Ruby
+    description: |-
+      That strange phenomenon where air molecules bounce against each other in a way that somehow comforts you, makes you cry, or makes you dance all night: music. Since the advent of recorded audio, a musician doesn't even need to be present anymore for this to happen (which makes putting "I will always love you" on repeat a little less awkward).
+
+      Musicians and sound engineers have found many ways of creating music, and making music sound good when played from a record. Some of their methods have become industry staples used on every recording released today.
+
+      Let's look at what they do and reproduce some of their methods in Ruby!
+    speaker:
+      name: Thijs Cadier
+      url: https://twitter.com/thijsc
+    coverage:
+    - type: video
+      title: LRUG September 2022 - Thijs Cadier - How Music Works, Using Ruby
+      url: https://assets.lrug.org/videos/2022/september/thijs-cadier-how-music-works-using-ruby-lrug-sep-2022.mp4
+  building-a-mortgage-lender-at-generation-home:
+    title: Building a Mortgage Lender at Generation Home
+    description: |-
+      It’s not often that you hear about a startup doings things differently in the mortgages world. And there’s some good reasons for it, the cost of entry is super high!
+
+      It’s not just funding and regulations either. You also need to back it up with the right technology and tools to manage a highly complex business where mistakes can be very costly. On top of that, startups need to move fast to out-innovate the incumbents with only a fraction of the resources.
+
+      At Generation Home Ruby has been a catalyst to help us deliver a product we’re proud of in a short time-scale. We’ll talk about some of the challenges we faced early on, how Ruby, Rails and the whole ecosystem helped us deliver and what still lays ahead of us.
+    speaker:
+      name: André Barbosa
+      url: https://www.linkedin.com/in/andrebarbosaie/
+    coverage:
+    - type: video
+      title: LRUG September 2022 - André Barbosa - Building a Mortgage Lender at Generation
+        Home
+      url: https://assets.lrug.org/videos/2022/september/andre-barbosa-buildin-a-mortgage-lender-at-generation-home-lrug-sep-2022.mp4
+  fixing-flaky-tests-using-rspecs-seed-option:
+    title: Fixing flaky tests, using RSpec's `--seed` option
+    description: |-
+      Fixing a flaky test in the build pipeline of your application often
+      requires first replicating the failing test locally. I'm going to show you
+      how I used RSpec's `--seed` to help me do this for a flaky test I was
+      recently grappling with, and how it led led me to a fix ✨
+    speaker:
+      name: Shen Sat
+      url: https://www.linkedin.com/in/shen-sat
+    coverage:
+    - type: video
+      title: LRUG September 2022 - Shen Sat - Fixing Flaky Tests Using RSpec's --seed
+        Option
+      url: https://assets.lrug.org/videos/2022/september/shen-sat-fixing-flaky-tests-using-rspecs-seed-option-lrug-sep-2022.mp4
+october:
+  how-to-be-completely-ignorant:
+    title: How to be completely ignorant
+    description: |-
+      How much does a bit of code need to know to do its job? I'll show how I
+      transformed a bit of complicated, untested, flaky, and poorly understood code
+      into something pleasant to deal with and easy to test by applying the
+      principle of making it know as little as possible.
+    speaker:
+      name: Paul Battley
+      url: https://po-ru.com
+    coverage:
+    - type: video
+      title: LRUG October 2022 - Paul Battley - How to be completely ignorant
+      url: https://assets.lrug.org/videos/2022/october/paul-battley-how-to-be-completely-ignorant-lrug-oct-2022.mp4
+  the-long-road-to-ruby-3-0-vs-the-short-road-to-ruby-3-1:
+    title: The long road to ruby 3 vs. the short road to ruby 3.1
+    description: |-
+      I'll share how the team at [Cleo](https://www.meetcleo.com/)
+      meticulously planned and delivered the upgrade to ruby 3.0 on our rails
+      app so smoothly that we became drunk on our own competence and totally
+      messed up our upgrade to ruby 3.1 the following week.  A rare talk
+      where you will learn some best _and_ worst practices.
+    speaker:
+      name: Murray Steele
+      url: https://twitter.com/hlame
+    coverage:
+    - type: video
+      title: LRUG October 2022 - Murray Steele - The long road to ruby 3.0 vs. the
+        short road to ruby 3.1
+      url: https://assets.lrug.org/videos/2022/october/murray-steele-the-long-road-to-ruby-3-0-vs-the-short-road-to-ruby-3-1-lrug-oct-2022.mp4
+    - type: transcript
+      url: http://h-lame.com/talks/the-long-road-to-ruby-3-0-vs-the-short-road-to-ruby-3-1/
+      title: Talks ∋ The long road to ruby 3.0 vs. the short road to ruby 3.1
+november:
+  data-indexing-with-rgb:
+    title: Data Indexing with RGB (Ruby, Graphs and Bitmaps)
+    description: |-
+      In this talk, we will go on a journey through Zappi’s data history and how
+      we are using Ruby, a graph database, and a bitmap store to build a unique
+      data engine. A journey that starts with the problem of a disconnected data
+      set and serialised data frames, and ends with the solution of an in-memory
+      index.
+
+      We will explore how we used RedisGraph to model the relationships in our
+      data, connecting semantically equal nodes. Then delve into how a query
+      layer was used to index a bitmap store and, in turn, led to us being able
+      to interrogate our entire dataset orders of magnitude faster than before.
+    speaker:
+      name: Benji Lewis
+      url: https://twitter.com/benjilewis
+    custom_intro: "(also [here](https://www.linkedin.com/in/benji-lewis-ct)) says:"
+    coverage:
+    - type: video
+      title: LRUG November 2022 - Benji Lewis - Data indexing with RGB (Ruby, Graphs
+        and Bitmaps)
+      url: https://assets.lrug.org/videos/2022/november/benji-lewis-data-indexing-with-rgb-ruby-graphs-and-bitmaps-lrug-nov-2022.mp4
+  ruby-debug-the-best-investment-for-your-productivity:
+    title: "`ruby/debug` - The best investment for your productivity"
+    description: |-
+      In this talk, I will demonstrate 3 powerful debugging techniques using Ruby's new debugger [`ruby/debug`](https://github.com/ruby/debug):
+
+      * Step-debugging
+      * Frame navigation
+      * Breakpoint commands
+
+      By using them together, we can reduce unnecessary context switching and make our debugging sessions more efficient. You will also learn more about `ruby/debug` while we walk through these techniques with its commands and console.
+
+      And finally, I will show you how to level up our productivity even further by automating debugging steps using `ruby/debug`'s scriptable breakpoints.
+    speaker:
+      name: Stan Lo
+      url: https://twitter.com/_st0012
+    coverage:
+    - type: video
+      title: LRUG November 2022 - Stan Lo - ruby/debug - The best investment for your
+        productivity
+      url: https://assets.lrug.org/videos/2022/november/stan-lo-ruby-debug-the-best-investment-for-your-productivity-lrug-nov-2022.mp4
+    - type: slides
+      title: ruby/debug - The best investment for your productivity
+      url: https://github.com/st0012/slides/blob/main/2022-11-14-lrug/Ruby%20debugger%20-%20The%20best%20investment%20for%20your%20productivity%20-%20LRUG.pdf
+  keeping-developers-happy-with-a-fast-ci:
+    title: Keeping developers happy with a fast CI
+    description: |-
+      When talking about performance, most developers think application speed,
+      faster algorithms or better data structures. But what about your test
+      suite? CI time is developer waiting time!
+
+      At Shopify we have more than 170,000 Ruby tests and we add 30,000 more
+      annually. The sheer amount of tests and their growth requires some
+      aggressive methods. We will illustrate some of our techniques including
+      monitoring, test selection, timeouts and the 80/20 rule. If you have
+      experience in writing tests and want to learn tricks on how to speed up
+      your test suite, this talk is for you!
+    speaker:
+      name: Christian Bruckmayer
+      url: https://twitter.com/bruckmayer
+    coverage:
+    - type: video
+      title: LRUG November 2022 - Christian Bruckmayer - Keeping developers happy
+        with a fast CI
+      url: https://assets.lrug.org/videos/2022/november/christian-bruckmayer-keeping-developers-happy-with-a-fast-ci-lrug-nov-2022.mp4
+    - type: slides
+      title: Slides from the Rubyconf 2021 version of 'Keeping developers happy with
+        a fast CI'
+      url: https://bruckmayer.net/ruby-conf-2021
