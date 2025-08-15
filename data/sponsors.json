@@ -1054,5 +1054,21 @@
         "height":"57"
       }
     }
+  },
+  {
+    "name": "Vonage",
+    "url": "https://developer.vonage.com/en/home",
+    "logo":{
+      "sidebar":{
+        "url":"https://assets.lrug.org/images/VonagePOE_Primary.jpg",
+        "width":"120",
+        "height":"48"
+      },
+      "main":{
+        "url":"https://assets.lrug.org/images/VonagePOE_Primary.jpg",
+        "width":"192",
+        "height":"76"
+      }
+    }
   }
 ]
