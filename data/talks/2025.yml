@@ -326,13 +326,13 @@ august:
       * Server side request forgery and injection attacks
       * What OpenGraph images are and how they can help you go viral 🦋
 september:
-  extreme-versioning:
-    title: Extreme Versioning
-    speaker:
-      name: Harry Lascelles
-      url: https://github.com/hlascelles
-    description: |-
-      An exploration into the world of Software Versioning, with an emphasis on the RubyGems ecosystem. This talk will cover extreme real-world examples from Rubyland and beyond, including code examples, footguns and award winners, as well as tips for developers navigating version management. It will get quite technical, so bring your regex hard hat.
+  # extreme-versioning:
+  #   title: Extreme Versioning
+  #   speaker:
+  #     name: Harry Lascelles
+  #     url: https://github.com/hlascelles
+  #   description: |-
+  #     An exploration into the world of Software Versioning, with an emphasis on the RubyGems ecosystem. This talk will cover extreme real-world examples from Rubyland and beyond, including code examples, footguns and award winners, as well as tips for developers navigating version management. It will get quite technical, so bring your regex hard hat.
   inheriting-gems:
     title: Inheriting Gems
     speaker:
