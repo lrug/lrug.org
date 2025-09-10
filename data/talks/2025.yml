@@ -333,6 +333,17 @@ september:
       url: https://developer.vonage.com/en/blog/authors/karl-lingiah
     description: |-
       As Ruby developers we all rely on the vast RubyGem ecosystem, but as gem users we're not necessarily aware of everything that goes into maintaining the gems that make up that ecosystem. When I became a developer advocate at Vonage, I went from gem user to gem maintainer overnight. In this talk I would like to share that journey, and some of the lessons I learned along the way.
+  get-on-the-same-side-of-the-table:
+    title: Get on the same side of the table
+    speaker:
+      name: Joel Chippindale
+      url: https://monkeysthumb.co.uk/
+    description: |-
+      Imagine the following situation. You disagree with your colleague (or your manager) but are unable to change their minds. You feel stuck and frustrated. The only options you feel you have available are to repeat your argument more forcefully or give up. Neither feels like a good option.
+
+      Does this situation sound familiar to you?
+
+      In this talk, we will explore how to get unstuck, have more effective discussions with your colleagues, and increase your influence.
 october:
   extreme-versioning:
     title: Extreme Versioning
