@@ -325,6 +325,7 @@ august:
       * Using the [Himg](https://github.com/Jamedjo/himg/) library
       * Server side request forgery and injection attacks
       * What OpenGraph images are and how they can help you go viral 🦋
+
 september:
   inheriting-gems:
     title: Inheriting Gems
@@ -344,6 +345,7 @@ september:
       Does this situation sound familiar to you?
 
       In this talk, we will explore how to get unstuck, have more effective discussions with your colleagues, and increase your influence.
+
 october:
   extreme-versioning:
     title: Extreme Versioning
