@@ -354,8 +354,6 @@ october:
       url: https://github.com/hlascelles
     description: |-
       An exploration into the world of Software Versioning, with an emphasis on the RubyGems ecosystem. This talk will cover extreme real-world examples from Rubyland and beyond, including code examples, footguns and award winners, as well as tips for developers navigating version management. It will get quite technical, so bring your regex hard hat.
-
-future:
   de-mystifying-the-gvl:
     title: De-mystifying the GVL
     speaker:
@@ -363,6 +361,8 @@ future:
       url: https://joshbebbington.com/
     description: |-
       The Global VM Lock is one of Ruby’s more mysterious 'under the hood' features. This talk explores new ways to peer inside it, using Ruby's modern instrumentation to reveal how it actually performs work. I'll demonstrate how we've applied those learnings at Carwow, to optimise the performance and reliability of our Sidekiq workers.
+
+november:
   durable-messaging-and-related-patterns:
     title: "Durable messaging and related patterns in Ruby, for fun and profit. But mostly just fun."
     speaker:
