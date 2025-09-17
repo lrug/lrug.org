@@ -325,6 +325,7 @@ august:
       * Using the [Himg](https://github.com/Jamedjo/himg/) library
       * Server side request forgery and injection attacks
       * What OpenGraph images are and how they can help you go viral 🦋
+
 september:
   inheriting-gems:
     title: Inheriting Gems
@@ -344,6 +345,7 @@ september:
       Does this situation sound familiar to you?
 
       In this talk, we will explore how to get unstuck, have more effective discussions with your colleagues, and increase your influence.
+
 october:
   extreme-versioning:
     title: Extreme Versioning
@@ -352,3 +354,19 @@ october:
       url: https://github.com/hlascelles
     description: |-
       An exploration into the world of Software Versioning, with an emphasis on the RubyGems ecosystem. This talk will cover extreme real-world examples from Rubyland and beyond, including code examples, footguns and award winners, as well as tips for developers navigating version management. It will get quite technical, so bring your regex hard hat.
+  de-mystifying-the-gvl:
+    title: De-mystifying the GVL
+    speaker:
+      name: Josh Bebbington
+      url: https://joshbebbington.com/
+    description: |-
+      The Global VM Lock is one of Ruby’s more mysterious 'under the hood' features. This talk explores new ways to peer inside it, using Ruby's modern instrumentation to reveal how it actually performs work. I'll demonstrate how we've applied those learnings at Carwow, to optimise the performance and reliability of our Sidekiq workers.
+
+november:
+  durable-messaging-and-related-patterns:
+    title: "Durable messaging and related patterns in Ruby, for fun and profit. But mostly just fun."
+    speaker:
+      name: "Ismael Celis"
+      url: https://ismaelcelis.com/
+    description: |-
+      I’ll explore how architecting Ruby apps around a durable message log enables different patterns, from asynchronous processing, to event sourcing and durable execution
