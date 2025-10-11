@@ -306,6 +306,10 @@ august:
       execution system is secretly a DAG, and how the `stepper_motor`
       architecture is informed by VFX software instead of the imperative
       `ActiveJob` methods.
+    coverage:
+      - type: video
+        title: "LRUG August 2025 - Julik Tarkhanov - stepper_motor: effortless long-running workflows for Rails"
+        url: https://assets.lrug.org/videos/2025/august/julik-tarkhanov-stepper-motor-effortless-long-running-workflows-for-rails-lrug-aug-2025.mp4
 
   no-browser-required:
     title: "No Browser Required: Dynamic OpenGraph Images with Rails and Rust"
@@ -325,6 +329,10 @@ august:
       * Using the [Himg](https://github.com/Jamedjo/himg/) library
       * Server side request forgery and injection attacks
       * What OpenGraph images are and how they can help you go viral 🦋
+    coverage:
+      - type: video
+        title: "LRUG August 2025 - James Edwards-Jones - No browser required: Dynamic OpenGraph images with Rails and Rust"
+        url: https://assets.lrug.org/videos/2025/august/james-edwards-jones-no-browser-required-dynamic-opengraph-images-with-rails-and-rust-lrug-aug-2025.mp4
 
 september:
   inheriting-gems:
@@ -334,6 +342,11 @@ september:
       url: https://developer.vonage.com/en/blog/authors/karl-lingiah
     description: |-
       As Ruby developers we all rely on the vast RubyGem ecosystem, but as gem users we're not necessarily aware of everything that goes into maintaining the gems that make up that ecosystem. When I became a developer advocate at Vonage, I went from gem user to gem maintainer overnight. In this talk I would like to share that journey, and some of the lessons I learned along the way.
+    coverage:
+      - type: video
+        title: "LRUG September 2025 - Karl Lingiah - Inheriting Gems"
+        url: https://assets.lrug.org/videos/2025/september/karl-lingiah-inheriting-gems-lrug-sep-2025.mp4
+
   get-on-the-same-side-of-the-table:
     title: Get on the same side of the table
     speaker:
@@ -345,6 +358,10 @@ september:
       Does this situation sound familiar to you?
 
       In this talk, we will explore how to get unstuck, have more effective discussions with your colleagues, and increase your influence.
+    coverage:
+      - type: video
+        title: "LRUG September 2025 - Joel Chippindale - Get on the same side of the table"
+        url: https://assets.lrug.org/videos/2025/september/joel-chippindale-get-on-the-same-side-of-the-table-lrug-sep-2025.mp4
 
 october:
   extreme-versioning:
