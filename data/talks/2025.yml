@@ -387,3 +387,14 @@ november:
       url: https://ismaelcelis.com/
     description: |-
       I’ll explore how architecting Ruby apps around a durable message log enables different patterns, from asynchronous processing, to event sourcing and durable execution
+  how-do-you-solve-a-problem-like-dhh:
+    title: "How do you solve a problem like DHH?"
+    speaker:
+      name: James Smith
+      url: https://mastodon.me.uk/@Floppy
+    description: |-
+      In September, DHH, the creator of Rails and community figurehead, wrote a factually incorrect post bemoaning the state of London these days, claiming that it’s no longer “native British”, and promoting far right agitator Tommy Robinson.
+
+      At a time when the far right is rising in the UK, is this the figurehead our community needs? Can we separate technology and political views? Should we?
+
+      This is less of a talk, and more of an opportunity for discussion - does something need to change, and if so, how? And if not, what does that mean for the Ruby and Rails communities?
