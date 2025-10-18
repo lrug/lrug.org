@@ -281,7 +281,6 @@ module LrugHelpers
           'event_name' => title,
           'date' => meeting_date,
           'published_at' => publish_date,
-          'announced_at' => publish_date,
           'video_provider' => "children",
           'video_id' => title.parameterize,
           'description' => url.to_s,
