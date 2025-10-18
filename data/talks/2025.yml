@@ -362,6 +362,9 @@ september:
       - type: video
         title: "LRUG September 2025 - Joel Chippindale - Get on the same side of the table"
         url: https://assets.lrug.org/videos/2025/september/joel-chippindale-get-on-the-same-side-of-the-table-lrug-sep-2025.mp4
+      - type: slides
+        title: “Get on the same side of the table” by Joel Chippindale
+        url: https://blog.mocoso.co.uk/assets/get-on-the-same-side-of-the-table/get-on-the-same-side-of-the-table-lrug-2025-09.pdf
 
 october:
   extreme-versioning:
