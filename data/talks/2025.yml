@@ -374,6 +374,10 @@ october:
       url: https://github.com/hlascelles
     description: |-
       An exploration into the world of Software Versioning, with an emphasis on the RubyGems ecosystem. This talk will cover extreme real-world examples from Rubyland and beyond, including code examples, footguns and award winners, as well as tips for developers navigating version management. It will get quite technical, so bring your regex hard hat.
+    coverage:
+      - type: video
+        title: "LRUG October 2025 - Harry Lascelles - Extreme versioning"
+        url: https://assets.lrug.org/videos/2025/october/harry-lascelles-extreme-versioning-lrug-oct-2025.mp4
   de-mystifying-the-gvl:
     title: De-mystifying the GVL
     speaker:
@@ -381,6 +385,10 @@ october:
       url: https://joshbebbington.com/
     description: |-
       The Global VM Lock is one of Ruby’s more mysterious 'under the hood' features. This talk explores new ways to peer inside it, using Ruby's modern instrumentation to reveal how it actually performs work. I'll demonstrate how we've applied those learnings at Carwow, to optimise the performance and reliability of our Sidekiq workers.
+    coverage:
+      - type: video
+        title: "LRUG October 2025 - Josh Bebbington - Demystifying the GVL"
+        url: https://assets.lrug.org/videos/2025/october/josh-bebbington-demystifying-the-gvl-lrug-oct-2025.mp4
 
 november:
   durable-messaging-and-related-patterns:
