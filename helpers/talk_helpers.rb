@@ -3,7 +3,7 @@ module TalkHelpers
     year = current_page.data.meeting_date.year.to_s
     month = current_page.data.meeting_date.strftime('%B').downcase
     talks = find_talks(year, month)
-    if talks
+    if talks.any?
       talks.map { it.render(on: self) }.join
     else
       partial_with_opts_passthrough 'no_talks_yet'
