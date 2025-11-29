@@ -704,6 +704,22 @@
     }
   },
   {
+    "name":"rorvswild",
+    "url":"https://www.rorvswild.com",
+    "logo":{
+      "sidebar":{
+        "url":"https://assets.lrug.org/images/rorvswild_logo_small.png",
+        "width":"120",
+        "height":"117"
+      },
+      "main":{
+        "url":"https://assets.lrug.org/images/rorvswild_logo__medium.png",
+        "width":"260",
+        "height":"253"
+      }
+    }
+  },
+  {
     "name":"Simply Business",
     "url":"https://www.simplybusiness.co.uk/",
     "logo":{
