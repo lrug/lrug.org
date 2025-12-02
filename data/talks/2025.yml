@@ -434,3 +434,10 @@ december:
       Then I'll put them to a somewhat different use than you might expect.
 
       This talk contains a lot of code (possibly including a smidgeon of gnarly C) but regardless of you current skill level it will reveal a little of the magic which makes tools like Ruby possible. The examples should also be sufficient to kickstart your own adventures in this fascinating field.
+  distributed-systems-golden-ration:
+    title: Distributed Systems' Golden Ratio
+    speaker:
+      name: "Yevhenii Kurtov"
+      url: "https://www.linkedin.com/in/kurtov/"
+    description: |-
+      We'll spend our time interactively solving a distributed systems design challenge that will gradually grow in complexity, taking participants on a journey to discover the golden rule of distributed systems design: think globally, act locally.
