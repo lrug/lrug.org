@@ -398,6 +398,10 @@ november:
       url: https://ismaelcelis.com/
     description: |-
       I’ll explore how architecting Ruby apps around a durable message log enables different patterns, from asynchronous processing, to event sourcing and durable execution
+    coverage:
+      - type: video
+        title: "LRUG November 2025 - Ismael Celis - Durable messaging and related patterns in Ruby, for fun and profit. But mostly just fun."
+        url: https://assets.lrug.org/videos/2025/november/ismael-celis-durable-messaging-and-related-patterns-for-fun-and-profit-lrug-nov-2025.mp4
   how-do-you-solve-a-problem-like-dhh:
     title: "How do you solve a problem like DHH?"
     speaker:
@@ -409,6 +413,10 @@ november:
       At a time when the far right is rising in the UK, is this the figurehead our community needs? Can we separate technology and political views? Should we?
 
       This is less of a talk, and more of an opportunity for discussion - does something need to change, and if so, how? And if not, what does that mean for the Ruby and Rails communities?
+    coverage:
+      - type: video
+        title: "LRUG November 2025 - James Smith - How do you solve a problem like DHH?"
+        url: https://assets.lrug.org/videos/2025/november/james-smith-how-do-you-solve-a-problem-like-dhh-lrug-nov-2025.mp4
 
 december:
   implementing-software-machines-in-ruby:
