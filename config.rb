@@ -49,7 +49,7 @@ end
 page '/.htaccess', layout: false
 page '/version.json', layout: false
 page '/meetings.ics', layout: false
-page '/rubyevents-playlist.yml', layout: false
+page '/rubyevents-video-playlist.yml', layout: false
 
 ready do
   sitemap.resources.
