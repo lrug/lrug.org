@@ -263,43 +263,45 @@ module LrugHelpers
     calendar
   end
 
-  def rubyevents_video_playlist(site_url: )
-    data.talks.keys.sort.reverse_each.filter_map do |year|
+  def rubyevents_video_playlist(site_url:)
+    data.talks.keys.sort.each.filter_map do |year|
       # for now - only share 2020+ talks
       next if Integer(year) < 2020
 
-      data.talks[year].reverse_each.filter_map do |month, talks|
+      data.talks[year].each.filter_map do |month, talks|
         page = meeting_pages.detect { it.path.starts_with? "meetings/#{year}/#{month}" }
         next unless page
 
         url = URI.join(site_url, page.url)
         title = "LRUG #{month.titleize} #{year}"
         meeting_date = page.data.meeting_date.strftime('%Y-%m-%d')
-        publish_date = page.data.published_at.strftime('%Y-%m-%d')
+        published_at = page.data.published_at.to_s
         {
+          'id' => title.parameterize,
           'title' => title,
           'event_name' => title,
           'date' => meeting_date,
-          'published_at' => publish_date,
+          'announced_at' => published_at,
           'video_provider' => "children",
           'video_id' => title.parameterize,
           'description' => url.to_s,
-          'talks' => talks_for_rubyevents_video_playlist(talks, title, meeting_date, publish_date)
+          'talks' => talks_for_rubyevents_video_playlist(talks, title, meeting_date, published_at)
         }
       end
     end.flatten(1).to_yaml
   end
 
-  def talks_for_rubyevents_video_playlist(talks, title, meeting_date, publish_date)
+  def talks_for_rubyevents_video_playlist(talks, title, meeting_date, published_at)
     talks.map do |id, talk|
       video_coverage = talk.coverage&.detect { it.type == 'video' }
       slides_coverage = talk.coverage&.detect { it.type == 'slides' }
 
       talk_details = {
+        'id' => "#{Array.wrap(talk.speaker).map(&:name).map(&:parameterize).join("-")}-#{title.parameterize}",
         'title' => talk.title,
         'event_name' => title,
         'date' => meeting_date,
-        'published_at' => publish_date,
+        'announced_at' => published_at,
         'speakers' => Array.wrap(talk.speaker).map(&:name),
         'description' => talk.description
       }
@@ -312,7 +314,7 @@ module LrugHelpers
         # something) rather than haven't published it yet and we should
         # work out how to list those
         talk_details['video_id'] = "lrug-#{meeting_date}-#{id}"
-        talk_details['video_provider'] = 'not_published'
+        talk_details['video_provider'] = "not_published"
       end
       talk_details['slides_url'] = slides_coverage.url if slides_coverage
       talk_details
