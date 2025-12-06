@@ -112,11 +112,11 @@ february:
       contributors. Let's take a few minutes to explore some neat tricks you can
       do when you don't need to worry about other people understanding your code 😀
     speaker:
-      name: PJ
+      name: PJ Johnstone
       url: https://github.com/isitpj
     coverage:
     - type: video
-      title: LRUG February 2022 - PJ - Metaprogramming I Do In My Side Projects That
+      title: LRUG February 2022 - PJ Johnstone - Metaprogramming I Do In My Side Projects That
         My Colleagues Won't Let Me Do In The Real App At Work :-(
       url: https://assets.lrug.org/videos/2022/february/speaker-pj-metaprogramming-my-colleagues-wont-let-me-do-at-work-lrug-feb-2022.mp4
   how-to-think-about-learning:
