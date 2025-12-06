@@ -28,7 +28,7 @@ february:
       url: https://assets.lrug.org/videos/2024/february/katya-essina-and-sarah-o-grady-contract-testing-between-ruby-applications-lrug-feb-2024.mp4
   what-is-ruby-really-capable-of:
     - type: video
-      title: LRUG February 2024 - fell sunderland - What is Ruby really capable of?
+      title: LRUG February 2024 - Fell Sunderland - What is Ruby really capable of?
       url: https://assets.lrug.org/videos/2024/february/fell-sunderland-what-is-ruby-really-capable-of-lrug-feb-2024.mp4
     - type: slides
       title: What is Ruby really capable of? - Slides
@@ -78,7 +78,7 @@ june:
 july:
   that-smells-like-time:
     - type: video
-      title: "LRUG July 2024 - fell sunderland - That smells like time"
+      title: "LRUG July 2024 - Fell Sunderland - That smells like time"
       url: https://assets.lrug.org/videos/2024/july/fell-sunderland-that-smells-like-time-lrug-jul-2024.mp4
     - type: slides
       title: "That smells like time - Slides"

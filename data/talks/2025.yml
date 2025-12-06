@@ -33,11 +33,11 @@ february:
     title: "AI tools for programmers"
     description: "Why I don't use AI programming tools, and I don't think you should either."
     speaker:
-      name: "fell sunderland"
+      name: "Fell Sunderland"
       url: "https://www.fellsunder.land/"
     coverage:
       - type: video
-        title: LRUG February 2025 - fell sunderland - AI tools for programmers
+        title: LRUG February 2025 - Fell Sunderland - AI tools for programmers
         url: https://assets.lrug.org/videos/2025/february/fell-sunderland-ai-tools-for-programmers-lrug-feb-2025.mp4
 
   why-our-schema-files-kept-changing:

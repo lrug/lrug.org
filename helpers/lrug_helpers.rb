@@ -295,6 +295,8 @@ module LrugHelpers
     talks.map do |id, talk|
       video_coverage = talk.coverage&.detect { it.type == 'video' }
       slides_coverage = talk.coverage&.detect { it.type == 'slides' }
+      writeup_coverage = talk.coverage&.detect { it.type == 'write-up' }
+      writeup_description = writeup_coverage ? "\n\nWrite-up: [#{writeup_coverage.title}](#{writeup_coverage.url})" : ""
 
       talk_details = {
         'id' => "#{Array.wrap(talk.speaker).map(&:name).map(&:parameterize).join("-")}-#{title.parameterize}",
@@ -303,7 +305,7 @@ module LrugHelpers
         'date' => meeting_date,
         'announced_at' => published_at,
         'speakers' => Array.wrap(talk.speaker).map(&:name),
-        'description' => talk.description
+        'description' => "#{talk.description}#{writeup_description}"
       }
       if video_coverage && video_coverage.url.starts_with?('https://assets.lrug.org')
         talk_details['video_provider'] = "mp4"
