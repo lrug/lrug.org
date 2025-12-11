@@ -136,11 +136,11 @@ february:
       An opinionated look at the pros and cons of
       choosing abstractions early vs. waiting and duplicating effort
     speaker:
-      name: Fell Sunderland
+      name: fell sunderland
       url: https://twitter.com/felltir
     coverage:
     - type: video
-      title: 'LRUG February 2023 - Fell Sunderland - WET: Why DRY isn''t always best'
+      title: 'LRUG February 2023 - fell sunderland - WET: Why DRY isn''t always best'
       url: https://assets.lrug.org/videos/2023/february/fell-sunderland-wet-why-dry-isnt-always-best-lrug-feb-2023.mp4
   using-chatgpt-to-program-in-ruby:
     title: Using ChatGPT to Program in Ruby
@@ -179,7 +179,7 @@ march:
       that reputation is undeserved, and how we can build hybrid apps that don''t
       suck.
     speaker:
-      name: Ayush
+      name: Ayush Newatia
       url: https://ruby.social/@ayush
     coverage:
     - type: video
@@ -212,11 +212,11 @@ april:
 
       In this talk, we’ll misuse Ruby’s internals to build an arrow operator that lets us assign upwards. We’ll see some powerful Ruby metaprogramming features that allow us to bend Ruby to our will – and we’ll talk about why it’s good to write code that’s just plain daft.
     speaker:
-      name: Alex
+      name: Alex Chan
       url: https://alexwlchan.net/
     coverage:
     - type: video
-      title: LRUG April 2023 - Alex - Making a working upwards assignment operator
+      title: LRUG April 2023 - Alex Chan - Making a working upwards assignment operator
       url: https://assets.lrug.org/videos/2023/april/alex-making-a-working-upwards-assignment-operator-lrug-apr-2023.mp4
     - type: write-up
       title: Upward assignment in Ruby

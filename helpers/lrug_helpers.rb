@@ -305,6 +305,34 @@ module LrugHelpers
         'speakers' => Array.wrap(talk.speaker).map(&:name),
         'description' => talk.description
       }
+
+      additional_resources = talk.coverage&.filter_map do |coverage|
+        next if coverage.type.in?(%w[video slides])
+
+        name = case coverage.type
+        when "write-up" then "Write-Up"
+        when "code" then "Source Code"
+        when "repo" then "Repository"
+        when "transcript" then "Transcript"
+        when "handout" then "Handout"
+        when "notes" then "Notes"
+        when "photos" then "Photos"
+        when "link" then "Link"
+        else coverage.type.titleize
+        end
+
+        {
+          'name' => name,
+          'type' => coverage.type,
+          'title' => coverage.title,
+          'url' => coverage.url
+        }
+      end
+
+      if Array.wrap(additional_resources).any?
+        talk_details['additional_resources'] = additional_resources
+      end
+
       if video_coverage && video_coverage.url.starts_with?('https://assets.lrug.org')
         talk_details['video_provider'] = "mp4"
         talk_details['video_id'] = video_coverage.url
