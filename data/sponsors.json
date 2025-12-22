@@ -560,6 +560,22 @@
     }
   },
   {
+    "name":"Opus Recruitment Solutions",
+    "url":"https://opusrecruitmentsolutions.com",
+    "logo": {
+      "sidebar": {
+        "url":"https://assets.lrug.org/images/opus_recruitment_solutions_logo_small.png",
+        "width":"120",
+        "height":"120"
+      },
+      "main": {
+        "url":"https://assets.lrug.org/images/opus_recruitment_solutions_logo_medium.png",
+        "width":"260",
+        "height":"260"
+      }
+    }
+  },
+  {
     "name":"O'Reilly",
     "url":"http://oreilly.com/",
     "logo":{

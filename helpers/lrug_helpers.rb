@@ -292,6 +292,8 @@ module LrugHelpers
   end
 
   def talks_for_rubyevents_video_playlist(talks, title, meeting_date, published_at)
+    return [] unless talks.present?
+
     talks.map do |id, talk|
       video_coverage = talk.coverage&.detect { it.type == 'video' }
       slides_coverage = talk.coverage&.detect { it.type == 'slides' }
