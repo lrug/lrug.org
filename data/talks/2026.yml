@@ -6,7 +6,7 @@ january:
       name: "Stephen Creedon"
       url: "https://www.linkedin.com/in/stephen-creedon-7670563/"
     description: |-
-      In this talk, Stephen will share candid insights on how Rails lost its way during versions 4, 5, and 6 - becoming overly complex and slow as it leaned heavily into JavaScript. But the story doesn’t end there. With Rails 8.1 introducing features like Stimulus, Action Cable, and Solid Cable, the framework is returning to its roots: simplicity, speed, and developer joy.
+      Rails lost its way during versions 4, 5, and 6 - becoming overly complex and slow as it leaned heavily into JavaScript. But the story doesn’t end there. With Rails 8.1 introducing features like Stimulus, Action Cable, and Solid Cable, the framework is returning to its roots: simplicity, speed, and developer joy.
 
       Join us for a deep dive into why Rails has its mojo back and what this means for the future of Ruby developmen
   rspec_craftmanship_and_refactoring_with_junie:
@@ -15,7 +15,7 @@ january:
       name: Sebastian Siemianowski
       url: https://www.linkedin.com/in/sebastian-siemianowski-3a317338/
     description: |-
-      In this talk, Sebastian will dive into RSpec as a craft—showing how thoughtful test design can make refactoring less terrifying. You’ll see real-world examples of transforming low-signal specs into readable, behaviour-driven tests, and learn how Junie, an IDE-native AI assistant, can act as a second pair of eyes to improve naming, structure, and guarantees.
+      In this talk, Sebastian will dive into RSpec as a craft — showing how thoughtful test design can make refactoring less terrifying. You’ll see real-world examples of transforming low-signal specs into readable, behaviour-driven tests, and learn how Junie, an IDE-native AI assistant, can act as a second pair of eyes to improve naming, structure, and guarantees.
 
       This is a practical, opinionated look at using AI to support test quality—while keeping human judgment firmly in control.
 
