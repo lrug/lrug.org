@@ -24,3 +24,22 @@ january:
       - Many test suites pass—and still make refactoring terrifying. Why?
       - Explore clarity, intent, and refactor safety in RSpec.
       - See how AI can enhance craftsmanship without replacing developers.
+
+february:
+  automating-feature-flag-cleanup-with-ai:
+    title: Automating Feature Flag Cleanup with AI
+    speaker:
+      name: "Niall Mullally"
+      url: "https://uk.linkedin.com/in/niall-mullally-5a34834"
+    description: |-
+      At [BBB](https://www.british-business-bank.co.uk/), we use feature flags extensively in one of our Rails applications. 
+
+      Removing fully rolled-out feature flags is always a chore that’s easy to ignore and eventually becomes a source of tech debt. In the talk, I’ll show how we use GitHub Actions and GitHub Copilot to automatically generate PRs that remove obsolete flags and their associated code paths. 
+
+  why-you-might-like-some-truffle-with-your-ruby:
+    title: Why you might like some Truffle with your Ruby
+    speaker:
+      name: Lorenzo Barasti
+      url: "https://lbarasti.com/"
+    description: |-
+      An overview of [TruffleRuby](https://truffleruby.dev)’s latest release and some of the perks of running on [GraalVM](https://www.graalvm.org)
