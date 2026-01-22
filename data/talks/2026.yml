@@ -43,3 +43,10 @@ february:
       url: "https://lbarasti.com/"
     description: |-
       An overview of [TruffleRuby](https://truffleruby.dev)’s latest release and some of the perks of running on [GraalVM](https://www.graalvm.org)
+
+  the-blob-must-die-how-we-destroyed-a-1400-line-monster:
+    title: THE BLOB MUST DIE! – How we destroyed a 1400-line monster
+    speaker:
+      name: Scott Matthewman
+    description: |-
+      A lightning talk about how we are replacing an all-consuming User object with domain-specific roles, delegated types and a smattering of metaprogramming – presented with a 1950s B-movie vibe
