@@ -51,3 +51,19 @@ february:
       url: "https://about.me/scottmatthewman"
     description: |-
       A lightning talk about how we are replacing an all-consuming User object with domain-specific roles, delegated types and a smattering of metaprogramming – presented with a 1950s B-movie vibe
+
+  junior-developers-need-your-help:
+    title: Junior Developers need your help
+    speaker:
+      name: David Smith
+      url: "https://www.linkedin.com/in/davidsmith7/"
+    description: |-
+      Raising awareness on how the junior/graduate developer market has collapsed.  - not sure on this yet, will probably be more apparent as I write it.
+
+  managing-a-job-search-efficiently:
+    title: Managing a job search efficiently
+    speaker:
+      name: Jade Dickinson
+      url: "https://jadedickinson.com"
+    description: |-
+      How to manage a job search and interview prep
