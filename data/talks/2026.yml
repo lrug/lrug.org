@@ -48,5 +48,6 @@ february:
     title: THE BLOB MUST DIE! – How we destroyed a 1400-line monster
     speaker:
       name: Scott Matthewman
+      url: "https://about.me/scottmatthewman"
     description: |-
       A lightning talk about how we are replacing an all-consuming User object with domain-specific roles, delegated types and a smattering of metaprogramming – presented with a 1950s B-movie vibe
