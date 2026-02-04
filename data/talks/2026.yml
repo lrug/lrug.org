@@ -67,3 +67,11 @@ february:
       url: "https://jadedickinson.com"
     description: |-
       How to manage a job search and interview prep
+
+  anonymous-chat-with-sinatra-and-websockets:
+    title: "Shayk.online - anonymous chat with Sinatra and websockets"
+    speaker:
+      name: Eleanor McHugh
+      url: "https://slideshare.net/feyeleanor"
+    description: |-
+      A quick peek at one of my research projects and why Sinatra is a great tool for prototyping.
