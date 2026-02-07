@@ -1,6 +1,6 @@
 ---
 january:
-  rails_was_off_the_rails_but_its_back:
+  rails-was-off-the-rails-but-its-back:
     title: Rails Was Off the Rails - But It’s Back!
     speaker:
       name: "Stephen Creedon"
@@ -9,7 +9,11 @@ january:
       Rails lost its way during versions 4, 5, and 6 - becoming overly complex and slow as it leaned heavily into JavaScript. But the story doesn’t end there. With Rails 8.1 introducing features like Stimulus, Action Cable, and Solid Cable, the framework is returning to its roots: simplicity, speed, and developer joy.
 
       Join us for a deep dive into why Rails has its mojo back and what this means for the future of Ruby developmen
-  rspec_craftmanship_and_refactoring_with_junie:
+    coverage:
+      - type: video
+        title: LRUG January 2026 - Stephen Creedon - Rails Was Off the Rails But It’s Back!
+        url: https://assets.lrug.org/videos/2026/january/stephen-creedon-rails-was-off-the-rails-but-its-back-lrug-jan-2026.mp4
+  rspec-craftmanship-and-refactoring-with-junie:
     title: RSpec Craftsmanship and Refactoring with Junie
     speaker:
       name: Sebastian Siemianowski
