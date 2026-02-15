@@ -79,3 +79,15 @@ february:
       url: "https://slideshare.net/feyeleanor"
     description: |-
       A quick peek at one of my research projects and why Sinatra is a great tool for prototyping.
+march:
+  if-agentic-coding-is-the-tool-shift-whats-the-role-shift:
+    title: "If agentic coding is the tool shift, what's the role shift?"
+    speaker:
+      name: Andy Walker
+      url: https://www.linkedin.com/in/andrew-w-7332b7117/
+    description: |-
+      In this talk I'll compare today's AI moment to past tech S-curves, and argue it's not only a toolset change that's required (learning to code agentically) but a deeper change in how we work.
+
+      I'll cover the mindset and capability shifts this demands: outcome ownership, faster feedback loops, more autonomy. I'll cover what engineers can do to meet the moment.
+
+      I'll also share how this is changing the way I think about hiring and scaling teams: what signals matter now, and how we're adapting interview loops to find people who thrive in an agentic world
