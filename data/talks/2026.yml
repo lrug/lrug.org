@@ -36,9 +36,13 @@ february:
       name: "Niall Mullally"
       url: "https://uk.linkedin.com/in/niall-mullally-5a34834"
     description: |-
-      At [BBB](https://www.british-business-bank.co.uk/), we use feature flags extensively in one of our Rails applications. 
+      At [BBB](https://www.british-business-bank.co.uk/), we use feature flags extensively in one of our Rails applications.
 
-      Removing fully rolled-out feature flags is always a chore that’s easy to ignore and eventually becomes a source of tech debt. In the talk, I’ll show how we use GitHub Actions and GitHub Copilot to automatically generate PRs that remove obsolete flags and their associated code paths. 
+      Removing fully rolled-out feature flags is always a chore that’s easy to ignore and eventually becomes a source of tech debt. In the talk, I’ll show how we use GitHub Actions and GitHub Copilot to automatically generate PRs that remove obsolete flags and their associated code paths.
+    coverage:
+      - type: video
+        title: LRUG February 2026 - Niall Mullally - Automating Feaure Flag Cleanup with AI
+        url: https://assets.lrug.org/videos/2026/february/niall-mullally-automating-feature-flag-cleanup-with-ai-lrug-feb-2026.mp4
 
   why-you-might-like-some-truffle-with-your-ruby:
     title: Why you might like some Truffle with your Ruby
@@ -47,6 +51,10 @@ february:
       url: "https://lbarasti.com/"
     description: |-
       An overview of [TruffleRuby](https://truffleruby.dev)’s latest release and some of the perks of running on [GraalVM](https://www.graalvm.org)
+    coverage:
+      - type: video
+        title: LRUG February 2026 - Lorenzo Barasti - Why you might like some Truffle with your Ruby
+        url: https://assets.lrug.org/videos/2026/february/lorenzo-barasti-why-you-might-like-some-truffle-with-your-ruby-lrug-feb-2026.mp4
 
   the-blob-must-die-how-we-destroyed-a-1400-line-monster:
     title: THE BLOB MUST DIE! – How we destroyed a 1400-line monster
@@ -55,6 +63,10 @@ february:
       url: "https://about.me/scottmatthewman"
     description: |-
       A lightning talk about how we are replacing an all-consuming User object with domain-specific roles, delegated types and a smattering of metaprogramming – presented with a 1950s B-movie vibe
+    coverage:
+      - type: video
+        title: LRUG February 2026 - Scott Matthewman - THE BLOB MUST DIE! - How we destroyed a 1400-line monster
+        url: https://assets.lrug.org/videos/2026/february/scott-matthewman-the-blob-must-die-how-we-destroyed-a-1400-line-monster-lrug-feb-2026.mp4
 
   junior-developers-need-your-help:
     title: Junior Developers need your help
@@ -63,6 +75,10 @@ february:
       url: "https://www.linkedin.com/in/davidsmith7/"
     description: |-
       Raising awareness on how the junior/graduate developer market has collapsed.  - not sure on this yet, will probably be more apparent as I write it.
+    coverage:
+      - type: video
+        title: LRUG February 2026 - David Smith - Junior Developeres need your help
+        url: https://assets.lrug.org/videos/2026/february/david-smith-junior-developers-need-your-help-lrug-feb-2026.mp4
 
   managing-a-job-search-efficiently:
     title: Managing a job search efficiently
@@ -79,6 +95,11 @@ february:
       url: "https://slideshare.net/feyeleanor"
     description: |-
       A quick peek at one of my research projects and why Sinatra is a great tool for prototyping.
+    coverage:
+      - type: video
+        title: "LRUG February 2026 - Eleanor McHugh - Shayk.online - anonymous chat with Sinatra and websockets"
+        url: https://assets.lrug.org/videos/2026/february/eleanor-mchugh-shayk-online-anonymous-chat-with-sinatra-and-websockets-lrug-feb-2026.mp4
+
 march:
   if-agentic-coding-is-the-tool-shift-whats-the-role-shift:
     title: "If agentic coding is the tool shift, what's the role shift?"
