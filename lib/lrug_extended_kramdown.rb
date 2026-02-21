@@ -1,6 +1,8 @@
 require "kramdown/parser/kramdown"
 
-class Kramdown::Parser::LRUGExtendedKramdown < Kramdown::Parser::Kramdown
+module Kramdown
+  module Parser
+  class LRUGExtendedKramdown < Kramdown::Parser::Kramdown
   cattr_accessor :sponsors
   cattr_accessor :coverage
 
@@ -28,7 +30,7 @@ class Kramdown::Parser::LRUGExtendedKramdown < Kramdown::Parser::Kramdown
 
   def render_coverage(year, month, talk_id)
     coverage = find_coverage(year, month, talk_id)
-    if coverage&.any?
+    return unless coverage&.any?
       list = new_block_el(:ol, nil, nil, location: @src.current_line_number)
       list.attr["class"] = "coverage"
       coverage.each do |coverage|
@@ -42,7 +44,7 @@ class Kramdown::Parser::LRUGExtendedKramdown < Kramdown::Parser::Kramdown
         list.children << coverage_elem
       end
       list
-    end
+    
   end
 
   def find_coverage(year, month, talk_id)
@@ -72,7 +74,7 @@ class Kramdown::Parser::LRUGExtendedKramdown < Kramdown::Parser::Kramdown
       width: logo_details.width,
       height: logo_details.height,
       alt: sponsor_name,
-      title: "#{sponsor_name} Logo"
+      title: "#{sponsor_name} Logo",
     })
   end
 
@@ -80,4 +82,6 @@ class Kramdown::Parser::LRUGExtendedKramdown < Kramdown::Parser::Kramdown
     self.class.sponsors.detect { |sponsor| sponsor.name == sponsor_name }
   end
 
+  end
+  end
 end

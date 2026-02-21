@@ -11,7 +11,7 @@ module TalkHelpers
   end
 
   def partial_with_opts_passthrough(template, options={}, &)
-    passthrough_opts = self.instance_variable_get("@opts").dup
+    passthrough_opts = instance_variable_get("@opts").dup
     partial(template, passthrough_opts.merge(options), &)
   end
 
@@ -30,7 +30,7 @@ module TalkHelpers
         speaker: Speaker.from(speaker_details: details.speaker),
         coverage_links: Coverage.from(details.coverage),
         year:,
-        month:
+        month:,
       )
     end
 

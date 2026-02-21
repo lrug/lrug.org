@@ -22,9 +22,9 @@ class InsertScrapedCoverage
           format_coverage_title(coverage["title"]) => {
             "type" => "video",
             "url" => coverage["url"],
-            "title" => coverage["title"]
-          }
-        }
+            "title" => coverage["title"],
+          },
+        },
       }
     end
   end
@@ -37,7 +37,7 @@ class InsertScrapedCoverage
       formatted_coverage_for_year = formatted_coverage.select { |coverage| coverage["year"] == year }
   
       formatted_coverage_for_year.each do |coverage|
-        if target_file_yaml && target_file_yaml.keys.include?(coverage["month"])
+        if target_file_yaml&.keys&.include?(coverage["month"])
           if target_file_yaml[coverage["month"]][coverage["formatted_entry"].keys.first]
             entry_to_update = target_file_yaml[coverage["month"]][coverage["formatted_entry"].keys.first]
             if entry_to_update.is_a?(Hash)
@@ -67,9 +67,7 @@ class InsertScrapedCoverage
         Date.strptime(key, "%B").month
       end.to_h
 
-      File.open(filepath, "w") do |file|
-        file.write(sorted_yaml.to_yaml)
-      end
+      File.write(filepath, sorted_yaml.to_yaml)
     end
   end 
 

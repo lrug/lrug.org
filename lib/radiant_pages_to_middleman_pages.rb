@@ -30,18 +30,19 @@ def attrs_to_frontmatter(page)
 end
 
 def format_frontmatter(frontmatter)
-  unless frontmatter.blank?
-    %{#{frontmatter.to_yaml.chomp}
+  return if frontmatter.blank?
+    %(#{frontmatter.to_yaml.chomp}
 ---
 
-}
-  end
+)
+  
 end
 
 def part_to_middleman_file(part, frontmatter, path, name)
-  content = %Q{#{format_frontmatter(frontmatter)}#{part.content}}
+  content = %(#{format_frontmatter(frontmatter)}#{part.content})
 
-  File.open(path.join("#{name}.html#{filter_to_extension(part.filter)}"), "w") { |f| f.write(content); f.write("\n") }
+  File.open(path.join("#{name}.html#{filter_to_extension(part.filter)}"), "w") do |f| f.write(content)
+ f.write("\n") end
 end
 
 def page_to_middleman_file(page, path, name = "index")
@@ -49,7 +50,7 @@ def page_to_middleman_file(page, path, name = "index")
   frontmatter["parts"] = (page.parts.map(&:name) - ["body"])
   part_to_middleman_file(page.part("body"), frontmatter, path, name)
   frontmatter["parts"].each do |part_name|
-    part_to_middleman_file(page.part(part_name), {}, path, "_" + name + "_" + part_name)
+    part_to_middleman_file(page.part(part_name), {}, path, "_#{name}_#{part_name}")
   end
 end
 
@@ -65,5 +66,5 @@ end
 path = Rails.root.join("export")
 FileUtils.mkdir_p path
 Page.roots.each do |root_page|
-  export_page(root_page, path, root_page.title.parameterize+"_root")
+  export_page(root_page, path, "#{root_page.title.parameterize}_root")
 end

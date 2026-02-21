@@ -7,7 +7,7 @@ extracted_talks = {}
 Dir["source/meetings/**/*.md.orig"].each do |f|
   puts f
 
-  year_and_month_match = f.match(/\Asource\/meetings\/(\d\d\d\d)\/(january|february|march|april|may|june|july|august|september|october|november|december)\//)
+  year_and_month_match = f.match(%r{\Asource/meetings/(\d\d\d\d)/(january|february|march|april|may|june|july|august|september|october|november|december)/})
   if year_and_month_match.nil?
     puts "******** ARG - meeting has no month and year name"
     puts f
@@ -49,20 +49,20 @@ Dir["source/meetings/**/*.md.orig"].each do |f|
 
     intro_lines = talk_lines.take_while { !it.start_with? ">" }.map(&:chomp)
 
-    speaker = intro_lines.reject { it.blank? }.join("\n")
-    speaker_bits = speaker.match(/\A\[([^\]]*)\]\(([^\)]*)\)(?:\s+([^:]*))?:?\Z/m)
+    speaker = intro_lines.reject(&:blank?).join("\n")
+    speaker_bits = speaker.match(/\A\[([^\]]*)\]\(([^)]*)\)(?:\s+([^:]*))?:?\Z/m)
     if speaker_bits
       speaker = {
         "name" => speaker_bits[1],
         "url" => speaker_bits[2],
-        "raw" => speaker
+        "raw" => speaker,
       }
       custom_intro = speaker_bits[3].strip if speaker_bits[3] && speaker_bits[3].strip != "says"
     end
 
     description_lines = talk_lines[intro_lines.size..].select { it.start_with? ">" }.map { it.sub(/>\s*/,"").chomp }
 
-    if description_lines.reject { it.blank? }.join("\n").strip.blank?
+    if description_lines.reject(&:blank?).join("\n").strip.blank?
       puts "No blockquotes for #{title} in #{f} assuming intro is description"
       description = intro_lines
     else
@@ -70,7 +70,7 @@ Dir["source/meetings/**/*.md.orig"].each do |f|
     end
 
     outro_lines = talk_lines[(intro_lines.size + description_lines.size)..].map { it.strip.chomp }
-    unless outro_lines.reject { it.blank? }.join("\n").strip.blank?
+    unless outro_lines.reject(&:blank?).join("\n").strip.blank?
       puts "found some outro lines after the description for #{title} in #{f} assume everything is the description"
       puts outro_lines
       description = talk_lines.join
@@ -81,7 +81,7 @@ Dir["source/meetings/**/*.md.orig"].each do |f|
     talk_details[:custom_intro] = custom_intro if custom_intro
     talk_details[:use_description_as_intro] = true if use_description_as_intro
 
-    coverage = YAML.load(File.read("data/coverage/#{meeting_date.year}.yml")).dig(meeting_date.strftime("%B").downcase, coverage_id)
+    coverage = YAML.load_file("data/coverage/#{meeting_date.year}.yml").dig(meeting_date.strftime("%B").downcase, coverage_id)
     talk_details[:coverage] = coverage || []
 
     talk_details
@@ -105,18 +105,18 @@ Dir["source/meetings/**/*.md.orig"].each do |f|
     end
   end
 
-  File.write(f.sub(/\.orig/, ".erb"),
+  File.write(f.sub(".orig", ".erb"),
     if data.match? /\#\# Afterwards/
       data.sub(/\#\# Agenda\s+.*\#\# Afterwards/m, "## Agenda\n\n<%= render_talks %>\n\n## Afterwards")
     else
       data.sub(/\#\# Agenda\s+.*\#\# Pub/m, "## Agenda\n\n<%= render_talks %>\n\n## Pub")
-    end
+    end,
   )
 end
 
 extracted_talks.keys.each do |year|
-  extracted_talks[year] = Hash[extracted_talks[year].sort_by { |_,talk| talk["order"] }]
-  extracted_talks[year].each { |_, talk| talk.delete("order") }
+  extracted_talks[year] = extracted_talks[year].sort_by { |_,talk| talk["order"] }.to_h
+  extracted_talks[year].each_value { |talk| talk.delete("order") }
   puts "data/talks/#{year}.yml"
   puts "------"
   puts extracted_talks[year].to_yaml
