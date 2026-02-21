@@ -112,3 +112,13 @@ march:
       I'll cover the mindset and capability shifts this demands: outcome ownership, faster feedback loops, more autonomy. I'll cover what engineers can do to meet the moment.
 
       I'll also share how this is changing the way I think about hiring and scaling teams: what signals matter now, and how we're adapting interview loops to find people who thrive in an agentic world
+
+  rag-on-rails:
+    title: "RAG on Rails"
+    speaker:
+      name: Neil Cameron
+      url: https://neilcameron.me
+    description: |-
+      A brief guide to building out a retrieval augmented generation system on Rails.
+
+      We'll cover some of the basic (chunking, embeddings) and some not so basic things (why bother re-ranking). You'll come away with an understanding of the different moving parts of a RAG system and some tactical recommendations of gems and services to use.
