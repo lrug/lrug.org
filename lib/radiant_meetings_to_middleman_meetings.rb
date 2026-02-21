@@ -56,8 +56,8 @@ end
 def part_to_frontmatter(part, body_filter)
   return nil unless part.content.present?
   {
-    :content => part.content,
-    :filter => filter_to_extension(part.filter)
+    content: part.content,
+    filter: filter_to_extension(part.filter)
   }
 end
 
@@ -95,5 +95,5 @@ end
 
 path = Rails.root.join("export")
 FileUtils.mkdir_p path
-meeting_root = Page.find(:first, :conditions => {:title => "Meetings"})
+meeting_root = Page.find(:first, conditions: {title: "Meetings"})
 export_page(meeting_root, path, "meetings_root")

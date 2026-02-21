@@ -38,7 +38,7 @@ page "/nights/index.html", layout: "nights"
 page "/nights/*/index.html", layout: "nights-episode"
 
 ["meeting", "book-review"].each do |category|
-  proxy "/rss/#{category.pluralize}/index.rss", "/rss/template.rss", :layout => false, :locals => { :category => category, description: nil }, :ignore => true
+  proxy "/rss/#{category.pluralize}/index.rss", "/rss/template.rss", layout: false, locals: { category: category, description: nil }, ignore: true
 end
 proxy "/rss/nights/index.rss", "/rss/template.rss", layout: false, locals: { category: "nights", description: "LRUG Nights : solving' crimes, drinkin' beers" }, ignore: true
 
