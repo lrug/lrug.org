@@ -14,3 +14,6 @@ AllCops:
     # be nice to lint these, but we need to work out how to ignore the
     # frontmatter parts at the top of the file which aren't valid ruby
     - source/**/*.builder
+
+Style/FrozenStringLiteralComment:
+  Enabled: false # we're on ruby 3.4 so we don't need this
