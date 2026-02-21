@@ -12,7 +12,7 @@ module LrugHelpers
 
     doc = Nokogiri::HTML::DocumentFragment.parse(rendered)
     doc.css("p").first.text
-  rescue
+  rescue StandardError
     ""
   end
   public
@@ -76,7 +76,7 @@ module LrugHelpers
     part = find_page_part(part_name, page, inherit: inherit)
     if part
       if part["render_as"].present?
-        renderers = part["render_as"].split(".").reverse.reject { |renderer| renderer.blank? }
+        renderers = part["render_as"].split(".").reverse.reject(&:blank?)
         # Add all the render_as extensions to the fake path
         pathname = "#{page.path}#content-part-#{part_name}#{part['render_as']}"
         # Always push things through erb even if it's not an explicit render_as
@@ -121,10 +121,10 @@ module LrugHelpers
       return nil unless other.respond_to?(:occurrences) && other.respond_to?(:most_recent)
 
       case other.occurrences
-      when self.occurrences
-        self.most_recent <=> other.most_recent
+      when occurrences
+        most_recent <=> other.most_recent
       else
-        self.occurrences <=> other.occurrences
+        occurrences <=> other.occurrences
       end
     end
   end
@@ -138,7 +138,7 @@ module LrugHelpers
         SponsorData.new(
           name: sponsor_name,
           occurrences: occurrences.size,
-          most_recent: occurrences.map { |(_sponsor, date)| date }.sort.last
+          most_recent: occurrences.map { |(_sponsor, date)| date }.max,
         )
       end.
       reject { |sponsor_data| without.include? sponsor_data.name }.
@@ -146,42 +146,40 @@ module LrugHelpers
       reverse
     return sponsors unless most_recent_first
 
-    most_recent = sponsors.sort_by { |sponsor_data| sponsor_data.most_recent }.last
-    return [most_recent] + (sponsors - [most_recent])
+    most_recent = sponsors.max_by(&:most_recent)
+    [most_recent] + (sponsors - [most_recent])
   end
   public
 
   def sponsor_logo(sponsor_name, size: "sidebar")
     sponsor = data.sponsors.detect { |sponsor| sponsor.name == sponsor_name }
-    if sponsor
+    return unless sponsor
       link_text =
         if sponsor.logo? && sponsor.logo[size]
-          %{<img src="#{sponsor.logo[size].url}" width="#{sponsor.logo[size].width}" height="#{sponsor.logo[size].height}" alt="#{sponsor.name}" title="#{sponsor.name} Logo" loading="lazy"/>}
+          %(<img src="#{sponsor.logo[size].url}" width="#{sponsor.logo[size].width}" height="#{sponsor.logo[size].height}" alt="#{sponsor.name}" title="#{sponsor.name} Logo" loading="lazy"/>)
         else
           sponsor.name
         end
       link_to link_text, sponsor.url
-    end
+    
   end
 
   private
   def find_page_part(part_name, page, inherit: false)
-    if page.data.parts? && page.data.parts.has_key?(part_name)
+    if page.data.parts? && page.data.parts.key?(part_name)
       page.data.parts[part_name]
     elsif inherit && page.parent.present?
       find_page_part(part_name, page.parent, inherit: inherit)
-    else
-      nil
     end
   end
 
   public
   def date_format(date, format)
-    date.strftime(format) unless date.nil?
+    date&.strftime(format)
   end
 
   def rfc_1123_date(date)
-    date.rfc2822 unless date.nil?
+    date&.rfc2822
   end
 
   def render_markdown(md)
@@ -189,7 +187,7 @@ module LrugHelpers
   end
 
   def meeting_calendar_link
-    %{<span class="calendar-link"><a href="/meetings.ics"><img src="https://assets.lrug.org/images/calendar_down.gif" alt="Calendar subscription" loading="lazy"> Meeting Calendar</a></span>}
+    %(<span class="calendar-link"><a href="/meetings.ics"><img src="https://assets.lrug.org/images/calendar_down.gif" alt="Calendar subscription" loading="lazy"> Meeting Calendar</a></span>)
   end
 
   def indent_xml(indent, xml_string)
@@ -208,11 +206,11 @@ module LrugHelpers
   end
 
   def has_sponsors?(page)
-    content_part_exists?("sponsors", page) || page.data.has_key?("sponsors")
+    content_part_exists?("sponsors", page) || page.data.key?("sponsors")
   end
 
   def has_host?(page)
-    content_part_exists?("hosted_by", page) || page.data.has_key?("hosted_by")
+    content_part_exists?("hosted_by", page) || page.data.key?("hosted_by")
   end
 
   def ical_time(datetime, timezone_identifier)
@@ -248,9 +246,7 @@ module LrugHelpers
         event.location = "London, UK"
         event.url      = url
 
-        if hosts.present?
-          hosted_by = "Hosted by: #{hosts.map {|h| h[:name]}.join(', ')}"
-        end
+        hosted_by = "Hosted by: #{hosts.map {|h| h[:name]}.join(', ')}" if hosts.present?
 
         event.description = <<~DESC
         London Ruby User Group - #{title}
@@ -285,7 +281,7 @@ module LrugHelpers
           "video_provider" => "children",
           "video_id" => title.parameterize,
           "description" => url.to_s,
-          "talks" => talks_for_rubyevents_video_playlist(talks, title, meeting_date, published_at)
+          "talks" => talks_for_rubyevents_video_playlist(talks, title, meeting_date, published_at),
         }
       end
     end.flatten(1).to_yaml
@@ -299,13 +295,13 @@ module LrugHelpers
       slides_coverage = talk.coverage&.detect { it.type == "slides" }
 
       talk_details = {
-        "id" => "#{Array.wrap(talk.speaker).map(&:name).map(&:parameterize).join("-")}-#{title.parameterize}",
+        "id" => "#{Array.wrap(talk.speaker).map(&:name).map(&:parameterize).join('-')}-#{title.parameterize}",
         "title" => talk.title,
         "event_name" => title,
         "date" => meeting_date,
         "announced_at" => published_at,
         "speakers" => Array.wrap(talk.speaker).map(&:name),
-        "description" => talk.description
+        "description" => talk.description,
       }
 
       additional_resources = talk.coverage&.filter_map do |coverage|
@@ -327,15 +323,13 @@ module LrugHelpers
           "name" => name,
           "type" => coverage.type,
           "title" => coverage.title,
-          "url" => coverage.url
+          "url" => coverage.url,
         }
       end
 
-      if Array.wrap(additional_resources).any?
-        talk_details["additional_resources"] = additional_resources
-      end
+      talk_details["additional_resources"] = additional_resources if Array.wrap(additional_resources).any?
 
-      if video_coverage && video_coverage.url.starts_with?("https://assets.lrug.org")
+      if video_coverage&.url&.starts_with?("https://assets.lrug.org")
         talk_details["video_provider"] = "mp4"
         talk_details["video_id"] = video_coverage.url
       else

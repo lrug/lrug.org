@@ -3,7 +3,7 @@ require "nokogiri"
 require "yaml"
 
 class VideoLinkScraper
-  BASE_URL = "https://skillsmatter.com"
+  BASE_URL = "https://skillsmatter.com".freeze
 
   def initialize
     @filepath = "./data/coverage/scraped_coverage.yml"
@@ -53,7 +53,7 @@ class VideoLinkScraper
   private
 
   def split_month_and_year(date)
-    date.split(" ")[1..2]
+    date.split[1..2]
   end
 
   def add_to_yaml_file(title, month, year, url)
@@ -62,7 +62,7 @@ class VideoLinkScraper
       "month" => month,
       "type" => "video",
       "url" => url,
-      "title" => "Skills Matter : London Ruby User Group : #{title}"
+      "title" => "Skills Matter : London Ruby User Group : #{title}",
     }
 
     File.open(@filepath, "a") { |f| f.write(coverage_info.to_yaml) }

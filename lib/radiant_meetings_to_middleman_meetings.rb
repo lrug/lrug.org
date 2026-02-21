@@ -31,21 +31,21 @@ def attrs_to_frontmatter(page)
 end
 
 def format_frontmatter(frontmatter)
-  unless frontmatter.blank?
-    %{#{frontmatter.to_yaml.chomp}
+  return if frontmatter.blank?
+    %(#{frontmatter.to_yaml.chomp}
 ---
 
-}
-  end
+)
+  
 end
 
 def body_and_extended_to_middleman_file_contents(page, frontmatter)
-  content = %Q{#{format_frontmatter(frontmatter)}#{page.part('body').content}}
+  content = %(#{format_frontmatter(frontmatter)}#{page.part('body').content})
   
   extended_part = page.part("extended")
   if extended_part && extended_part.content.present?
     if filter_to_extension(extended_part.filter) != filter_to_extension(page.part("body").filter)
-      content << %{\n\n##### filter: #{filter_to_extension(extended_part.filter)}}
+      content << %(\n\n##### filter: #{filter_to_extension(extended_part.filter)})
     end
     content << "\n\n"
     content << extended_part.content
@@ -57,7 +57,7 @@ def part_to_frontmatter(part, body_filter)
   return nil unless part.content.present?
   {
     content: part.content,
-    filter: filter_to_extension(part.filter)
+    filter: filter_to_extension(part.filter),
   }
 end
 
@@ -65,13 +65,14 @@ def page_to_middleman_file(page, path, name = "index")
   frontmatter = attrs_to_frontmatter(page)
   frontmatter["parts"] = {}
   body_part = page.part("body")
-  (page.parts.map(&:name) - ["body", "extended"]).each do |part_name|
+  (page.parts.map(&:name) - %w[body extended]).each do |part_name|
     as_frontmatter = part_to_frontmatter(page.part(part_name), body_part.filter)
     frontmatter["parts"][part_name] = as_frontmatter unless as_frontmatter.blank?
   end
   content = body_and_extended_to_middleman_file_contents(page, frontmatter)
 
-  File.open(path.join("#{name}.html#{filter_to_extension(body_part.filter)}"), "w") { |f| f.write(content); f.write("\n") }
+  File.open(path.join("#{name}.html#{filter_to_extension(body_part.filter)}"), "w") do |f| f.write(content)
+ f.write("\n") end
 end
 
 def radiant_meeting_name_to_middleman_meeting_name(name)
