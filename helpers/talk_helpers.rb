@@ -1,17 +1,17 @@
 module TalkHelpers
   def render_talks(for_page = current_page)
     year = current_page.data.meeting_date.year.to_s
-    month = current_page.data.meeting_date.strftime('%B').downcase
+    month = current_page.data.meeting_date.strftime("%B").downcase
     talks = find_talks(year, month)
     if talks.present?
       talks.map { it.render(on: self) }.join
     else
-      partial_with_opts_passthrough 'no_talks_yet'
+      partial_with_opts_passthrough "no_talks_yet"
     end
   end
 
   def partial_with_opts_passthrough(template, options={}, &)
-    passthrough_opts = self.instance_variable_get('@opts').dup
+    passthrough_opts = self.instance_variable_get("@opts").dup
     partial(template, passthrough_opts.merge(options), &)
   end
 
@@ -35,7 +35,7 @@ module TalkHelpers
     end
 
     def render(on:)
-      on.partial_with_opts_passthrough 'talk', locals: { year:, month:, talk: self }
+      on.partial_with_opts_passthrough "talk", locals: { year:, month:, talk: self }
     end
 
     def intro
@@ -51,7 +51,7 @@ module TalkHelpers
     def render_coverage(on:)
       return unless coverage_links.any?
 
-      on.partial 'coverage', locals: { coverage_links: }
+      on.partial "coverage", locals: { coverage_links: }
     end
   end
 

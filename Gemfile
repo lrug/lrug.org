@@ -1,11 +1,11 @@
-source 'https://www.rubygems.org'
-ruby file: '.ruby-version'
+source "https://www.rubygems.org"
+ruby file: ".ruby-version"
 
-gem 'middleman'
+gem "middleman"
 
-gem 'builder'
-gem 'git'
-gem 'nokogiri'
-gem 'pry'
-gem 'icalendar'
-gem 'rubocop'
+gem "builder"
+gem "git"
+gem "nokogiri"
+gem "pry"
+gem "icalendar"
+gem "rubocop"

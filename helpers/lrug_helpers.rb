@@ -1,4 +1,4 @@
-require 'nokogiri'
+require "nokogiri"
 
 module LrugHelpers
   def generate_description(for_page = current_page)
@@ -11,9 +11,9 @@ module LrugHelpers
     rendered = for_page.render layout: false
 
     doc = Nokogiri::HTML::DocumentFragment.parse(rendered)
-    doc.css('p').first.text
+    doc.css("p").first.text
   rescue
-    ''
+    ""
   end
   public
 
@@ -41,25 +41,25 @@ module LrugHelpers
   def pages_in_category(category)
     sitemap
       .resources
-      .select { |page| page_has_data?(page, status: 'Published', category: category) }
+      .select { |page| page_has_data?(page, status: "Published", category: category) }
       .sort_by { |page| page.data.published_at }
       .reverse
   end
 
   def meeting_pages
-    pages_in_category 'meeting'
+    pages_in_category "meeting"
   end
 
   def book_reviews
-    pages_in_category 'book-review'
+    pages_in_category "book-review"
   end
 
   def podcast_episodes
-    pages_in_category 'podcast'
+    pages_in_category "podcast"
   end
 
   def nights_episodes
-    pages_in_category 'nights'
+    pages_in_category "nights"
   end
 
   def page_has_data?(page, args)
@@ -75,26 +75,26 @@ module LrugHelpers
   def render_content_part(part_name, page, inherit: false)
     part = find_page_part(part_name, page, inherit: inherit)
     if part
-      if part['render_as'].present?
-        renderers = part['render_as'].split('.').reverse.reject { |renderer| renderer.blank? }
+      if part["render_as"].present?
+        renderers = part["render_as"].split(".").reverse.reject { |renderer| renderer.blank? }
         # Add all the render_as extensions to the fake path
         pathname = "#{page.path}#content-part-#{part_name}#{part['render_as']}"
         # Always push things through erb even if it's not an explicit render_as
-        unless renderers.first == 'erb'
-          renderers.prepend('erb')
-          pathname.concat('.erb')
+        unless renderers.first == "erb"
+          renderers.prepend("erb")
+          pathname.concat(".erb")
         end
-        renderers.inject(part['content']) do |body, renderer|
+        renderers.inject(part["content"]) do |body, renderer|
           current_path = pathname.dup
           # strip off the current renderer for the next iteration of the loop
-          pathname.gsub!(/\.#{renderer}$/, '')
+          pathname.gsub!(/\.#{renderer}$/, "")
           inline_content_render(body, current_path, locals: {page: page})
         end
       else
-        part['content']
+        part["content"]
       end
     else
-      ''
+      ""
     end
   end
 
@@ -108,11 +108,11 @@ module LrugHelpers
   end
 
   def hosting_sponsors(most_recent_first: false, without: [])
-    sponsor_list('hosted_by', most_recent_first: most_recent_first, without: without)
+    sponsor_list("hosted_by", most_recent_first: most_recent_first, without: without)
   end
 
   def meeting_sponsors(most_recent_first: false, without: [])
-    sponsor_list('sponsors', most_recent_first: most_recent_first, without: without)
+    sponsor_list("sponsors", most_recent_first: most_recent_first, without: without)
   end
 
   private
@@ -151,7 +151,7 @@ module LrugHelpers
   end
   public
 
-  def sponsor_logo(sponsor_name, size: 'sidebar')
+  def sponsor_logo(sponsor_name, size: "sidebar")
     sponsor = data.sponsors.detect { |sponsor| sponsor.name == sponsor_name }
     if sponsor
       link_text =
@@ -185,7 +185,7 @@ module LrugHelpers
   end
 
   def render_markdown(md)
-    inline_content_render(md, 'inline-markdown-fragment.md')
+    inline_content_render(md, "inline-markdown-fragment.md")
   end
 
   def meeting_calendar_link
@@ -193,13 +193,13 @@ module LrugHelpers
   end
 
   def indent_xml(indent, xml_string)
-    xml_string.gsub(/^/,' ' * indent)
+    xml_string.gsub(/^/," " * indent)
   end
 
   def format_redirect_from_regex(redirect_from)
     regex = redirect_from.dup
-    regex.prepend '^' unless redirect_from.start_with? '^'
-    regex.concat '($|/)' unless redirect_from.end_with? '$'
+    regex.prepend "^" unless redirect_from.start_with? "^"
+    regex.concat "($|/)" unless redirect_from.end_with? "$"
     regex
   end
 
@@ -208,11 +208,11 @@ module LrugHelpers
   end
 
   def has_sponsors?(page)
-    content_part_exists?('sponsors', page) || page.data.has_key?('sponsors')
+    content_part_exists?("sponsors", page) || page.data.has_key?("sponsors")
   end
 
   def has_host?(page)
-    content_part_exists?('hosted_by', page) || page.data.has_key?('hosted_by')
+    content_part_exists?("hosted_by", page) || page.data.has_key?("hosted_by")
   end
 
   def ical_time(datetime, timezone_identifier)
@@ -274,18 +274,18 @@ module LrugHelpers
 
         url = URI.join(site_url, page.url)
         title = "LRUG #{month.titleize} #{year}"
-        meeting_date = page.data.meeting_date.strftime('%Y-%m-%d')
+        meeting_date = page.data.meeting_date.strftime("%Y-%m-%d")
         published_at = page.data.published_at.to_s
         {
-          'id' => title.parameterize,
-          'title' => title,
-          'event_name' => title,
-          'date' => meeting_date,
-          'announced_at' => published_at,
-          'video_provider' => "children",
-          'video_id' => title.parameterize,
-          'description' => url.to_s,
-          'talks' => talks_for_rubyevents_video_playlist(talks, title, meeting_date, published_at)
+          "id" => title.parameterize,
+          "title" => title,
+          "event_name" => title,
+          "date" => meeting_date,
+          "announced_at" => published_at,
+          "video_provider" => "children",
+          "video_id" => title.parameterize,
+          "description" => url.to_s,
+          "talks" => talks_for_rubyevents_video_playlist(talks, title, meeting_date, published_at)
         }
       end
     end.flatten(1).to_yaml
@@ -295,17 +295,17 @@ module LrugHelpers
     return [] unless talks.present?
 
     talks.map do |id, talk|
-      video_coverage = talk.coverage&.detect { it.type == 'video' }
-      slides_coverage = talk.coverage&.detect { it.type == 'slides' }
+      video_coverage = talk.coverage&.detect { it.type == "video" }
+      slides_coverage = talk.coverage&.detect { it.type == "slides" }
 
       talk_details = {
-        'id' => "#{Array.wrap(talk.speaker).map(&:name).map(&:parameterize).join("-")}-#{title.parameterize}",
-        'title' => talk.title,
-        'event_name' => title,
-        'date' => meeting_date,
-        'announced_at' => published_at,
-        'speakers' => Array.wrap(talk.speaker).map(&:name),
-        'description' => talk.description
+        "id" => "#{Array.wrap(talk.speaker).map(&:name).map(&:parameterize).join("-")}-#{title.parameterize}",
+        "title" => talk.title,
+        "event_name" => title,
+        "date" => meeting_date,
+        "announced_at" => published_at,
+        "speakers" => Array.wrap(talk.speaker).map(&:name),
+        "description" => talk.description
       }
 
       additional_resources = talk.coverage&.filter_map do |coverage|
@@ -324,29 +324,29 @@ module LrugHelpers
         end
 
         {
-          'name' => name,
-          'type' => coverage.type,
-          'title' => coverage.title,
-          'url' => coverage.url
+          "name" => name,
+          "type" => coverage.type,
+          "title" => coverage.title,
+          "url" => coverage.url
         }
       end
 
       if Array.wrap(additional_resources).any?
-        talk_details['additional_resources'] = additional_resources
+        talk_details["additional_resources"] = additional_resources
       end
 
-      if video_coverage && video_coverage.url.starts_with?('https://assets.lrug.org')
-        talk_details['video_provider'] = "mp4"
-        talk_details['video_id'] = video_coverage.url
+      if video_coverage && video_coverage.url.starts_with?("https://assets.lrug.org")
+        talk_details["video_provider"] = "mp4"
+        talk_details["video_id"] = video_coverage.url
       else
         # technically this might mean we have a video elsewhere
         # (e.g. like the old skills matter videos or on youtube or
         # something) rather than haven't published it yet and we should
         # work out how to list those
-        talk_details['video_id'] = "lrug-#{meeting_date}-#{id}"
-        talk_details['video_provider'] = "not_published"
+        talk_details["video_id"] = "lrug-#{meeting_date}-#{id}"
+        talk_details["video_provider"] = "not_published"
       end
-      talk_details['slides_url'] = slides_coverage.url if slides_coverage
+      talk_details["slides_url"] = slides_coverage.url if slides_coverage
       talk_details
     end
   end

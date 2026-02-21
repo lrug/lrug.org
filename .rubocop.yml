@@ -17,3 +17,5 @@ AllCops:
 
 Style/FrozenStringLiteralComment:
   Enabled: false # we're on ruby 3.4 so we don't need this
+Style/StringLiterals:
+  EnforcedStyle: double_quotes # avoid git diff churn
