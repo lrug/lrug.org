@@ -99,6 +99,9 @@ february:
       - type: video
         title: "LRUG February 2026 - Eleanor McHugh - Shayk.online - anonymous chat with Sinatra and websockets"
         url: https://assets.lrug.org/videos/2026/february/eleanor-mchugh-shayk-online-anonymous-chat-with-sinatra-and-websockets-lrug-feb-2026.mp4
+      - type: slides
+        title: "Slideshare - Shayk.online - anonymous chat with Sinatra and websockets"
+        url: https://www.slideshare.net/slideshow/shayk-online-anonymous-chat-with-sinatra-and-websockets/285948608
 
 march:
   if-agentic-coding-is-the-tool-shift-whats-the-role-shift:
