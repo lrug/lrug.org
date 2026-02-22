@@ -22,26 +22,33 @@ def user_to_hash(user)
 end
 
 def attrs_to_frontmatter(page)
-  page.attributes.slice("published_at", "updated_at", "slug", "class_name", "breadcrumb", "created_at", "title").tap do |frontmatter|
-    frontmatter["status"] = page.status.name
-    frontmatter["created_by"] = user_to_hash(page.created_by) unless page.created_by.nil?
-    frontmatter["updated_by"] = user_to_hash(page.updated_by) unless page.updated_by.nil?
-    frontmatter["category"] = "meeting"
-  end
+  page
+    .attributes
+    .slice(
+      "published_at", "updated_at", "slug",
+      "class_name", "breadcrumb",
+      "created_at", "title",
+    )
+    .tap do |frontmatter|
+      frontmatter["status"] = page.status.name
+      frontmatter["created_by"] = user_to_hash(page.created_by) unless page.created_by.nil?
+      frontmatter["updated_by"] = user_to_hash(page.updated_by) unless page.updated_by.nil?
+      frontmatter["category"] = "meeting"
+    end
 end
 
 def format_frontmatter(frontmatter)
   return if frontmatter.blank?
-    %(#{frontmatter.to_yaml.chomp}
+
+  %(#{frontmatter.to_yaml.chomp}
 ---
 
 )
-  
 end
 
 def body_and_extended_to_middleman_file_contents(page, frontmatter)
   content = %(#{format_frontmatter(frontmatter)}#{page.part('body').content})
-  
+
   extended_part = page.part("extended")
   if extended_part && extended_part.content.present?
     if filter_to_extension(extended_part.filter) != filter_to_extension(page.part("body").filter)
@@ -55,6 +62,7 @@ end
 
 def part_to_frontmatter(part, body_filter)
   return nil unless part.content.present?
+
   {
     content: part.content,
     filter: filter_to_extension(part.filter),
@@ -71,8 +79,10 @@ def page_to_middleman_file(page, path, name = "index")
   end
   content = body_and_extended_to_middleman_file_contents(page, frontmatter)
 
-  File.open(path.join("#{name}.html#{filter_to_extension(body_part.filter)}"), "w") do |f| f.write(content)
- f.write("\n") end
+  File.open(path.join("#{name}.html#{filter_to_extension(body_part.filter)}"), "w") do |f|
+    f.write(content)
+    f.write("\n")
+  end
 end
 
 def radiant_meeting_name_to_middleman_meeting_name(name)
@@ -96,5 +106,5 @@ end
 
 path = Rails.root.join("export")
 FileUtils.mkdir_p path
-meeting_root = Page.find(:first, conditions: {title: "Meetings"})
+meeting_root = Page.find(:first, conditions: { title: "Meetings" })
 export_page(meeting_root, path, "meetings_root")
