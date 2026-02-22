@@ -122,7 +122,7 @@ august:
 september:
   learning-through-blameless-reviews:
   - type: video
-    url: https://skillsmatter.com/skillscasts/6591-learning-through-blameless-reviews
+    url: https://blog.mocoso.co.uk/posts/talks/learning-through-blameless-reviews/
     title: 'Skills Matter : London Ruby User Group : Learning through blameless reviews'
   a-pull-request-slackbot-the-seal:
   - type: write-up

@@ -192,6 +192,6 @@ december:
       Javascript development'
   my-tests-run-faster-than-your-tests:
   - type: video
-    url: http://skillsmatter.com/podcast/ajax-ria/my-tests-run-faster-than-your-tests
+    url: https://blog.mocoso.co.uk/posts/talks/my-tests-run-faster-than-your-tests/
     title: 'Skills Matter : London Ruby User Group : My tests run faster than your
       tests'
