@@ -5,7 +5,7 @@ gem "middleman"
 
 gem "builder"
 gem "git"
+gem "icalendar"
 gem "nokogiri"
 gem "pry"
-gem "icalendar"
 gem "rubocop"
