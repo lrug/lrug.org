@@ -23,7 +23,7 @@ module LrugHelpers
     yield_content(:title) || for_page.data.title
   end
 
-  def rss_path(for_page = current_page)
+  def rss_path(_for_page = current_page)
     "/rss/#{yield_content :rss_path}"
   end
 
