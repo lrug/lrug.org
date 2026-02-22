@@ -60,7 +60,7 @@ def body_and_extended_to_middleman_file_contents(page, frontmatter)
   content
 end
 
-def part_to_frontmatter(part, body_filter)
+def part_to_frontmatter(part, _body_filter)
   return nil unless part.content.present?
 
   {
@@ -86,7 +86,7 @@ def page_to_middleman_file(page, path, name = "index")
 end
 
 def radiant_meeting_name_to_middleman_meeting_name(name)
-  md = name.match /(january|february|march|april|may|june|july|august|september|october|november|december)-(\d{4})/
+  md = name.match(/(january|february|march|april|may|june|july|august|september|october|november|december)-(\d{4})/)
   if md.nil?
     name
   else

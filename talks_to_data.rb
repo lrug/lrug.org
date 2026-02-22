@@ -111,7 +111,7 @@ Dir["source/meetings/**/*.md.orig"].each do |f|
   end
 
   data_to_write =
-    if data.match? /\#\# Afterwards/
+    if data.match?(/\#\# Afterwards/)
       data.sub(/\#\# Agenda\s+.*\#\# Afterwards/m, "## Agenda\n\n<%= render_talks %>\n\n## Afterwards")
     else
       data.sub(/\#\# Agenda\s+.*\#\# Pub/m, "## Agenda\n\n<%= render_talks %>\n\n## Pub")

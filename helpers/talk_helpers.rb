@@ -1,5 +1,5 @@
 module TalkHelpers
-  def render_talks(for_page = current_page)
+  def render_talks(_for_page = current_page)
     year = current_page.data.meeting_date.year.to_s
     month = current_page.data.meeting_date.strftime("%B").downcase
     talks = find_talks(year, month)
