@@ -31,3 +31,7 @@ Style/TrailingCommaInHashLiteral:
 
 Layout/MultilineMethodCallIndentation:
   EnforcedStyle: indented # the indent helps readability
+
+# none of these metrics cops are interesting (imho)
+Metrics:
+  Enabled: false
