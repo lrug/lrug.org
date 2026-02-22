@@ -60,7 +60,7 @@ Dir["source/meetings/**/*.md.orig"].each do |f|
       custom_intro = speaker_bits[3].strip if speaker_bits[3] && speaker_bits[3].strip != "says"
     end
 
-    description_lines = talk_lines[intro_lines.size..].select { it.start_with? ">" }.map { it.sub(/>\s*/,"").chomp }
+    description_lines = talk_lines[intro_lines.size..].select { it.start_with? ">" }.map { it.sub(/>\s*/, "").chomp }
 
     if description_lines.reject(&:blank?).join("\n").strip.blank?
       puts "No blockquotes for #{title} in #{f} assuming intro is description"
@@ -77,11 +77,14 @@ Dir["source/meetings/**/*.md.orig"].each do |f|
       use_description_as_intro = true
     end
 
-    talk_details = {title:, speaker:, description:, coverage_id: }
+    talk_details = { title:, speaker:, description:, coverage_id: }
     talk_details[:custom_intro] = custom_intro if custom_intro
     talk_details[:use_description_as_intro] = true if use_description_as_intro
 
-    coverage = YAML.load_file("data/coverage/#{meeting_date.year}.yml").dig(meeting_date.strftime("%B").downcase, coverage_id)
+    coverage =
+      YAML
+        .load_file("data/coverage/#{meeting_date.year}.yml")
+        .dig(meeting_date.strftime("%B").downcase, coverage_id)
     talk_details[:coverage] = coverage || []
 
     talk_details
@@ -98,24 +101,27 @@ Dir["source/meetings/**/*.md.orig"].each do |f|
       "coverage" => parsed_talk[:coverage],
     }
     if parsed_talk[:custom_intro]
-      extracted_talks[meeting_date.year][meeting_date.strftime("%B").downcase][talk_id]["custom_intro"] = parsed_talk[:custom_intro]
+      extracted_talks[meeting_date.year][meeting_date.strftime("%B").downcase][talk_id]["custom_intro"] =
+        parsed_talk[:custom_intro]
     end
     if parsed_talk[:use_description_as_intro]
-      extracted_talks[meeting_date.year][meeting_date.strftime("%B").downcase][talk_id]["use_description_as_intro"] = true
+      extracted_talks[meeting_date.year][meeting_date.strftime("%B").downcase][talk_id]["use_description_as_intro"] =
+        true
     end
   end
 
-  File.write(f.sub(".orig", ".erb"),
+  data_to_write =
     if data.match? /\#\# Afterwards/
       data.sub(/\#\# Agenda\s+.*\#\# Afterwards/m, "## Agenda\n\n<%= render_talks %>\n\n## Afterwards")
     else
       data.sub(/\#\# Agenda\s+.*\#\# Pub/m, "## Agenda\n\n<%= render_talks %>\n\n## Pub")
-    end,
-  )
+    end
+
+  File.write(f.sub(".orig", ".erb"), data_to_write)
 end
 
 extracted_talks.keys.each do |year|
-  extracted_talks[year] = extracted_talks[year].sort_by { |_,talk| talk["order"] }.to_h
+  extracted_talks[year] = extracted_talks[year].sort_by { |_, talk| talk["order"] }.to_h
   extracted_talks[year].each_value { |talk| talk.delete("order") }
   puts "data/talks/#{year}.yml"
   puts "------"

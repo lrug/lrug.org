@@ -28,3 +28,6 @@ Style/TrailingCommaInArrayLiteral:
   EnforcedStyleForMultiline: consistent_comma
 Style/TrailingCommaInHashLiteral:
   EnforcedStyleForMultiline: consistent_comma
+
+Layout/MultilineMethodCallIndentation:
+  EnforcedStyle: indented # the indent helps readability

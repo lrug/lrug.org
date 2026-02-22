@@ -7,6 +7,7 @@ module LrugHelpers
   end
 
   private
+
   def _extract_description_from_page(for_page)
     rendered = for_page.render layout: false
 
@@ -15,6 +16,7 @@ module LrugHelpers
   rescue StandardError
     ""
   end
+
   public
 
   def page_title(for_page = current_page)
@@ -88,7 +90,7 @@ module LrugHelpers
           current_path = pathname.dup
           # strip off the current renderer for the next iteration of the loop
           pathname.gsub!(/\.#{renderer}$/, "")
-          inline_content_render(body, current_path, locals: {page: page})
+          inline_content_render(body, current_path, locals: { page: page })
         end
       else
         part["content"]
@@ -116,6 +118,7 @@ module LrugHelpers
   end
 
   private
+
   SponsorData = Struct.new(:name, :occurrences, :most_recent, keyword_init: true) do
     def <=>(other)
       return nil unless other.respond_to?(:occurrences) && other.respond_to?(:most_recent)
@@ -129,42 +132,50 @@ module LrugHelpers
     end
   end
 
-  def sponsor_list(data_key, most_recent_first: , without: )
-    sponsors = meeting_pages.
-      select { |meeting_page| meeting_page.data.key? data_key }.
-      map { |meeting_page| [meeting_page.data[data_key].first, meeting_page.data.meeting_date] }.
-      group_by { |(sponsor, _date)| sponsor.name }.
-      map do |sponsor_name, occurrences|
-        SponsorData.new(
-          name: sponsor_name,
-          occurrences: occurrences.size,
-          most_recent: occurrences.map { |(_sponsor, date)| date }.max,
-        )
-      end.
-      reject { |sponsor_data| without.include? sponsor_data.name }.
-      sort.
-      reverse
+  def sponsor_list(data_key, most_recent_first:, without:)
+    sponsors =
+      meeting_pages
+        .select { |meeting_page| meeting_page.data.key? data_key }
+        .map do |meeting_page|
+          [
+            meeting_page.data[data_key].first,
+            meeting_page.data.meeting_date,
+          ]
+        end
+        .group_by { |(sponsor, _date)| sponsor.name }
+        .map do |sponsor_name, occurrences|
+          SponsorData.new(
+            name: sponsor_name,
+            occurrences: occurrences.size,
+            most_recent: occurrences.map { |(_sponsor, date)| date }.max,
+          )
+        end
+        .reject { |sponsor_data| without.include? sponsor_data.name }
+        .sort
+        .reverse
     return sponsors unless most_recent_first
 
     most_recent = sponsors.max_by(&:most_recent)
     [most_recent] + (sponsors - [most_recent])
   end
+
   public
 
   def sponsor_logo(sponsor_name, size: "sidebar")
     sponsor = data.sponsors.detect { |sponsor| sponsor.name == sponsor_name }
     return unless sponsor
-      link_text =
-        if sponsor.logo? && sponsor.logo[size]
-          %(<img src="#{sponsor.logo[size].url}" width="#{sponsor.logo[size].width}" height="#{sponsor.logo[size].height}" alt="#{sponsor.name}" title="#{sponsor.name} Logo" loading="lazy"/>)
-        else
-          sponsor.name
-        end
-      link_to link_text, sponsor.url
-    
+
+    link_text =
+      if sponsor.logo? && sponsor.logo[size]
+        %(<img src="#{sponsor.logo[size].url}" width="#{sponsor.logo[size].width}" height="#{sponsor.logo[size].height}" alt="#{sponsor.name}" title="#{sponsor.name} Logo" loading="lazy"/>)
+      else
+        sponsor.name
+      end
+    link_to link_text, sponsor.url
   end
 
   private
+
   def find_page_part(part_name, page, inherit: false)
     if page.data.parts? && page.data.parts.key?(part_name)
       page.data.parts[part_name]
@@ -174,6 +185,7 @@ module LrugHelpers
   end
 
   public
+
   def date_format(date, format)
     date&.strftime(format)
   end
@@ -191,7 +203,7 @@ module LrugHelpers
   end
 
   def indent_xml(indent, xml_string)
-    xml_string.gsub(/^/," " * indent)
+    xml_string.gsub(/^/, " " * indent)
   end
 
   def format_redirect_from_regex(redirect_from)
@@ -229,14 +241,14 @@ module LrugHelpers
 
     all_meetings = meeting_pages
 
-    upcoming = all_meetings.take_while { |page| page.metadata[:page][:meeting_date] >= Date.today}
+    upcoming = all_meetings.take_while { |page| page.metadata[:page][:meeting_date] >= Date.today }
     next_12 = all_meetings.drop(upcoming.length).take(12)
 
     (upcoming + next_12).each do |page|
       url = URI.join(site_url, page.url)
       date = page.metadata[:page][:meeting_date]
       title = page.metadata[:page][:title]
-      hosts  = page.metadata[:page][:hosted_by]
+      hosts = page.metadata[:page][:hosted_by]
 
       calendar.event do |event|
         event.uid      = "lrug-monthly-#{date.strftime('%Y-%m')}"
@@ -246,12 +258,12 @@ module LrugHelpers
         event.location = "London, UK"
         event.url      = url
 
-        hosted_by = "Hosted by: #{hosts.map {|h| h[:name]}.join(', ')}" if hosts.present?
+        hosted_by = "Hosted by: #{hosts.map { |h| h[:name] }.join(', ')}" if hosts.present?
 
         event.description = <<~DESC
-        London Ruby User Group - #{title}
+          London Ruby User Group - #{title}
 
-        #{hosted_by}
+          #{hosted_by}
         DESC
       end
     end
@@ -307,17 +319,18 @@ module LrugHelpers
       additional_resources = talk.coverage&.filter_map do |coverage|
         next if coverage.type.in?(%w[video slides])
 
-        name = case coverage.type
-        when "write-up" then "Write-Up"
-        when "code" then "Source Code"
-        when "repo" then "Repository"
-        when "transcript" then "Transcript"
-        when "handout" then "Handout"
-        when "notes" then "Notes"
-        when "photos" then "Photos"
-        when "link" then "Link"
-        else coverage.type.titleize
-        end
+        name =
+          case coverage.type
+          when "write-up" then "Write-Up"
+          when "code" then "Source Code"
+          when "repo" then "Repository"
+          when "transcript" then "Transcript"
+          when "handout" then "Handout"
+          when "notes" then "Notes"
+          when "photos" then "Photos"
+          when "link" then "Link"
+          else coverage.type.titleize
+          end
 
         {
           "name" => name,
@@ -346,6 +359,7 @@ module LrugHelpers
   end
 
   private
+
   def inline_content_render(content, fake_pathname, locals: {})
     # create a middleman filerenderer to do the work, the extension in
     # the last extension in the path tells it which template engine to use
@@ -353,6 +367,10 @@ module LrugHelpers
     # configured via settings in config.rb, which us creating a Tilt
     # instance directly won't neccessarily do
     content_renderer = ::Middleman::FileRenderer.new(@app, fake_pathname)
-    content_renderer.render(locals, {template_body: content, layout: false}, @app.template_context_class.new(@app, locals, {layout: false}))
+    content_renderer.render(
+      locals,
+      { template_body: content, layout: false },
+      @app.template_context_class.new(@app, locals, { layout: false }),
+    )
   end
 end

@@ -10,7 +10,7 @@ module TalkHelpers
     end
   end
 
-  def partial_with_opts_passthrough(template, options={}, &)
+  def partial_with_opts_passthrough(template, options = {}, &)
     passthrough_opts = instance_variable_get("@opts").dup
     partial(template, passthrough_opts.merge(options), &)
   end
@@ -19,7 +19,9 @@ module TalkHelpers
     data.talks.dig(year, month)&.map { Talk.from(year:, month:, id: it[0], details: it[1]) }
   end
 
-  Talk = Data.define(:id, :title, :description, :custom_intro, :use_description_as_intro, :speaker, :coverage_links, :year, :month) do
+  Talk = Data.define(:id, :title, :description, :custom_intro,
+                     :use_description_as_intro, :speaker, :coverage_links,
+                     :year, :month,) do
     def self.from(year:, month:, id:, details:)
       new(
         id:,
@@ -81,7 +83,7 @@ module TalkHelpers
     def self.from(coverage_details)
       return [] if coverage_details.nil?
 
-      coverage_details.map { new(type: it.type, title: it.title, url: it.url ) }
+      coverage_details.map { new(type: it.type, title: it.title, url: it.url) }
     end
   end
 

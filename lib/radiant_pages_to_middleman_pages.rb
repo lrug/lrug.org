@@ -22,27 +22,36 @@ def user_to_hash(user)
 end
 
 def attrs_to_frontmatter(page)
-  page.attributes.slice("published_at", "updated_at", "slug", "class_name", "breadcrumb", "created_at", "title").tap do |frontmatter|
-    frontmatter["status"] = page.status.name
-    frontmatter["created_by"] = user_to_hash(page.created_by) unless page.created_by.nil?
-    frontmatter["updated_by"] = user_to_hash(page.updated_by) unless page.updated_by.nil?
-  end
+  page
+    .attributes
+    .slice(
+      "published_at", "updated_at", "slug",
+      "class_name", "breadcrumb",
+      "created_at", "title",
+    )
+    .tap do |frontmatter|
+      frontmatter["status"] = page.status.name
+      frontmatter["created_by"] = user_to_hash(page.created_by) unless page.created_by.nil?
+      frontmatter["updated_by"] = user_to_hash(page.updated_by) unless page.updated_by.nil?
+    end
 end
 
 def format_frontmatter(frontmatter)
   return if frontmatter.blank?
-    %(#{frontmatter.to_yaml.chomp}
+
+  %(#{frontmatter.to_yaml.chomp}
 ---
 
 )
-  
 end
 
 def part_to_middleman_file(part, frontmatter, path, name)
   content = %(#{format_frontmatter(frontmatter)}#{part.content})
 
-  File.open(path.join("#{name}.html#{filter_to_extension(part.filter)}"), "w") do |f| f.write(content)
- f.write("\n") end
+  File.open(path.join("#{name}.html#{filter_to_extension(part.filter)}"), "w") do |f|
+    f.write(content)
+    f.write("\n")
+  end
 end
 
 def page_to_middleman_file(page, path, name = "index")
