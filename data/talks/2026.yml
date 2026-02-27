@@ -77,8 +77,11 @@ february:
       Raising awareness on how the junior/graduate developer market has collapsed.  - not sure on this yet, will probably be more apparent as I write it.
     coverage:
       - type: video
-        title: LRUG February 2026 - David Smith - Junior Developeres need your help
+        title: LRUG February 2026 - David Smith - Junior Developers need your help
         url: https://assets.lrug.org/videos/2026/february/david-smith-junior-developers-need-your-help-lrug-feb-2026.mp4
+      - type: write-up
+        title: "Blog post - The Junior Developer Crisis by David Smith"
+        url: "https://open.substack.com/pub/davidrec/p/the-junior-developer-crisis?r=2xxv7&utm_campaign=post&utm_medium=web"
 
   managing-a-job-search-efficiently:
     title: Managing a job search efficiently
