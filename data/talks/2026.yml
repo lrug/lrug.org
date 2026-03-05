@@ -8,7 +8,7 @@ january:
     description: |-
       Rails lost its way during versions 4, 5, and 6 - becoming overly complex and slow as it leaned heavily into JavaScript. But the story doesn’t end there. With Rails 8.1 introducing features like Stimulus, Action Cable, and Solid Cable, the framework is returning to its roots: simplicity, speed, and developer joy.
 
-      Join us for a deep dive into why Rails has its mojo back and what this means for the future of Ruby developmen
+      Join us for a deep dive into why Rails has its mojo back and what this means for the future of Ruby development
     coverage:
       - type: video
         title: LRUG January 2026 - Stephen Creedon - Rails Was Off the Rails But It’s Back!
@@ -55,6 +55,15 @@ february:
       - type: video
         title: LRUG February 2026 - Lorenzo Barasti - Why you might like some Truffle with your Ruby
         url: https://assets.lrug.org/videos/2026/february/lorenzo-barasti-why-you-might-like-some-truffle-with-your-ruby-lrug-feb-2026.mp4
+      - type: slides
+        title: "Some truffle with your ruby"
+        url: https://docs.google.com/presentation/d/1UGQLaQ8JjGjpPkwoWC5Zw_jcQ78e4CyL9oOOJoT49go/edit?usp=sharing
+      - type: code
+        title: Github repository for the truffle ruby demo used in the talk
+        url: https://github.com/lbarasti/truffleruby-jfr-demo
+      - type: link
+        title: Benchmarking blog post by Benoit Daloze mentioned in the talk
+        url: https://eregon.me/blog/2022/01/06/benchmarking-cruby-mjit-yjit-jruby-truffleruby.html
 
   the-blob-must-die-how-we-destroyed-a-1400-line-monster:
     title: THE BLOB MUST DIE! – How we destroyed a 1400-line monster
