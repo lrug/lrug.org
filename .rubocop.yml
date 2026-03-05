@@ -19,6 +19,8 @@ Style/Documentation:
   Enabled: false # eh... I don't wanna
 Style/FrozenStringLiteralComment:
   Enabled: false # we're on ruby 3.4 so we don't need this
+Style/MultilineBlockChain:
+  Enabled: false # not buying the rationale on this one
 Style/StringLiterals:
   EnforcedStyle: double_quotes # avoid git diff churn
 # all these trailing comma ones help reduce git diff churn too
@@ -35,3 +37,6 @@ Layout/MultilineMethodCallIndentation:
 # none of these metrics cops are interesting (imho)
 Metrics:
   Enabled: false
+
+Naming/VariableNumber:
+  Enabled: false # no rationale + think the offence doesn't read better "fixed"

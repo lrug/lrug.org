@@ -7,7 +7,14 @@ extracted_talks = {}
 Dir["source/meetings/**/*.md.orig"].each do |f|
   puts f
 
-  year_and_month_match = f.match(%r{\Asource/meetings/(\d\d\d\d)/(january|february|march|april|may|june|july|august|september|october|november|december)/})
+  filename_matcher = %r{
+    \A
+    source/
+    meetings/
+    (\d\d\d\d)/
+    (january|february|march|april|may|june|july|august|september|october|november|december)/
+  }x
+  year_and_month_match = f.match(filename_matcher)
   if year_and_month_match.nil?
     puts "******** ARG - meeting has no month and year name"
     puts f
