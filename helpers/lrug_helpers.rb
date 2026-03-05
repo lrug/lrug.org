@@ -101,7 +101,11 @@ module LrugHelpers
   end
 
   def month_of_meeting(meeting)
-    match = meeting.data.title.match(/(January|February|March|April|May|June|July|August|September|October|November|December)/i)
+    match =
+      meeting
+        .data
+        .title
+        .match(/(January|February|March|April|May|June|July|August|September|October|November|December)/i)
     if match
       match[1]
     else
@@ -117,8 +121,6 @@ module LrugHelpers
     sponsor_list("sponsors", most_recent_first: most_recent_first, without: without)
   end
 
-  private
-
   SponsorData = Struct.new(:name, :occurrences, :most_recent, keyword_init: true) do
     def <=>(other)
       return nil unless other.respond_to?(:occurrences) && other.respond_to?(:most_recent)
@@ -131,6 +133,8 @@ module LrugHelpers
       end
     end
   end
+
+  private
 
   def sponsor_list(data_key, most_recent_first:, without:)
     sponsors =
@@ -167,7 +171,9 @@ module LrugHelpers
 
     link_text =
       if sponsor.logo? && sponsor.logo[size]
+        # rubocop:disable Layout/LineLength -- we could write this on multiple lines with HEREDOCS, but with less control of the output and more CPU to get there
         %(<img src="#{sponsor.logo[size].url}" width="#{sponsor.logo[size].width}" height="#{sponsor.logo[size].height}" alt="#{sponsor.name}" title="#{sponsor.name} Logo" loading="lazy"/>)
+        # rubocop:enable Layout/LineLength
       else
         sponsor.name
       end
@@ -194,12 +200,14 @@ module LrugHelpers
     date&.rfc2822
   end
 
-  def render_markdown(md)
-    inline_content_render(md, "inline-markdown-fragment.md")
+  def render_markdown(markdown)
+    inline_content_render(markdown, "inline-markdown-fragment.md")
   end
 
   def meeting_calendar_link
+    # rubocop:disable Layout/LineLength -- we could write this on multiple lines with HEREDOCS, but with less control of the output and more CPU to get there
     %(<span class="calendar-link"><a href="/meetings.ics"><img src="https://assets.lrug.org/images/calendar_down.gif" alt="Calendar subscription" loading="lazy"> Meeting Calendar</a></span>)
+    # rubocop:enable Layout/LineLength
   end
 
   def indent_xml(indent, xml_string)
@@ -214,14 +222,14 @@ module LrugHelpers
   end
 
   def thanks_needed?(page)
-    has_sponsors?(page) || has_host?(page)
+    page_has_sponsors?(page) || page_has_host?(page)
   end
 
-  def has_sponsors?(page)
+  def page_has_sponsors?(page)
     content_part_exists?("sponsors", page) || page.data.key?("sponsors")
   end
 
-  def has_host?(page)
+  def page_has_host?(page)
     content_part_exists?("hosted_by", page) || page.data.key?("hosted_by")
   end
 
