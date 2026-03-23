@@ -137,3 +137,22 @@ march:
       A brief guide to building out a retrieval augmented generation system on Rails.
 
       We'll cover some of the basic (chunking, embeddings) and some not so basic things (why bother re-ranking). You'll come away with an understanding of the different moving parts of a RAG system and some tactical recommendations of gems and services to use.
+
+april:
+  the-hottest-new-programming-language-is-ubiquitous-within-a-bounded-context-window:
+    title: "The Hottest New Programming Language Is Ubiquitous (Within A Bounded Context Window)"
+    speaker:
+      name: "Hemal Varambhia"
+      url: https://github.com/hemalvarambhia
+    description: |-
+      The title is a play on Andrey Karpathy's tweet.
+
+      This talk is a continuation of the one I gave at LRUG in March 2025.
+
+      Later that year I really started to reap the benefits of DDD and Ports and Adapters: refining the programmer tests (no more Docker for unit tests!) and bringing the ubiquitous language to life,
+      which made writing tests cheap, and more importantly, fun.
+
+      Towards the end of 2025, I gave in to FOMO and started exploring AI-assisted programming. I was particularly interested to see if it was now possible to prompt the LLM entirely in the ubiquitous language and produce well-structured code.
+
+      Is the future of programming DDD's ubiquitous language?
+
