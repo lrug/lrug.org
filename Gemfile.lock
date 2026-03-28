@@ -143,6 +143,8 @@ GEM
     rubocop-ast (1.49.1)
       parser (>= 3.3.7.2)
       prism (~> 1.7)
+    rubocop-github-annotations-formatter (0.1.0)
+      rubocop
     ruby-progressbar (1.13.0)
     sassc (2.4.0)
       ffi (~> 1.9)
@@ -173,6 +175,7 @@ DEPENDENCIES
   nokogiri
   pry
   rubocop
+  rubocop-github-annotations-formatter
 
 RUBY VERSION
    ruby 3.4.2p28

@@ -18,6 +18,10 @@ jobs:
         run: |
           ruby -v
 
+      - name: Rubocop Lint
+        run: |
+          bundle exec rubocop --format progress --format RubocopGithubAnnotationFormatter::AnnotationFormatter
+
       - name: Middleman Build
         run: |
           export TERM=xterm
