@@ -121,7 +121,7 @@ module LrugHelpers
     sponsor_list("sponsors", most_recent_first: most_recent_first, without: without)
   end
 
-  SponsorData = Struct.new(:name, :occurrences, :most_recent, keyword_init: true) do
+  SponsorData = Struct.new(:name, :occurrences, :most_recent) do
     def <=>(other)
       return nil unless other.respond_to?(:occurrences) && other.respond_to?(:most_recent)
 

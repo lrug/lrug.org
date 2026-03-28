@@ -13,7 +13,7 @@ class InsertScrapedCoverage
   end
 
   def formatted_coverage
-    raw_coverage_info = YAML.load_stream(File.open("./data/coverage/scraped_coverage.yml"))
+    raw_coverage_info = YAML.load_file("./data/coverage/scraped_coverage.yml")
     raw_coverage_info.map do |coverage|
       {
         "year" => coverage["year"],
@@ -32,8 +32,7 @@ class InsertScrapedCoverage
   def merge_scraped_coverage_into_coverage_file
     (2007..2019).each do |year|
       filepath = "./data/coverage/#{year}.yml"
-      target_file = File.open(filepath, "r")
-      target_file_yaml = YAML.safe_load(target_file)
+      target_file_yaml = YAML.safe_load_file(filepath)
       formatted_coverage_for_year = formatted_coverage.select { |coverage| coverage["year"] == year }
 
       formatted_coverage_for_year.each do |coverage|
@@ -60,8 +59,7 @@ class InsertScrapedCoverage
   def sort_yaml_file_by_month
     (2007..2019).each do |year|
       filepath = "./data/coverage/#{year}.yml"
-      target_file = File.open(filepath, "r")
-      target_file_yaml = YAML.safe_load(target_file)
+      target_file_yaml = YAML.safe_load_file(filepath)
 
       sorted_yaml = target_file_yaml.sort_by do |key, _|
         Date.strptime(key, "%B").month
