@@ -1,3 +1,4 @@
+---
 january:
   sky-computing:
     - type: video
@@ -8,7 +9,8 @@ january:
       title: LLGems
       url: https://github.com/joelbiffin/talks/blob/main/llgems/slides.pdf
     - type: video
-      title: "LRUG January 2024 - Joel Biffin - Leveraging localised gems (LLGems): Re-using code the ruby way, safely"
+      title: "LRUG January 2024 - Joel Biffin - Leveraging localised gems (LLGems): Re-using code
+        the ruby way, safely"
       url: https://assets.lrug.org/videos/2024/january/joel-biffin-leveraging-localised-gems-llgems-re-using-code-the-ruby-way-safely-lrug-jan-2024.mp4
 february:
   data-pagination-for-jekyll-paginate-v2:
@@ -24,7 +26,8 @@ february:
       url: https://assets.lrug.org/videos/2024/february/jonathan-james-using-devcontainers-with-ruby-lrug-feb-2024.mp4
   contract-testing-between-ruby-applications:
     - type: video
-      title: "LRUG February 2024 - Katya Essina & Sarah O'Grady - Contract Testing between Ruby applications"
+      title: "LRUG February 2024 - Katya Essina & Sarah O'Grady - Contract Testing between Ruby
+        applications"
       url: https://assets.lrug.org/videos/2024/february/katya-essina-and-sarah-o-grady-contract-testing-between-ruby-applications-lrug-feb-2024.mp4
   what-is-ruby-really-capable-of:
     - type: video
@@ -64,7 +67,8 @@ april:
       url: http://h-lame.com/talks/do-you-want-a-flake-with-that/
   what-the-chernobyl-disaster-can-teach-us-about-incident-response:
     - type: video
-      title: LRUG April 2024 - Frederick Cheung - What the Chernobyl disaster can teach us about incident response
+      title: LRUG April 2024 - Frederick Cheung - What the Chernobyl disaster can teach us about
+        incident response
       url: https://assets.lrug.org/videos/2024/april/frederick-cheung-what-the-chernobyl-disaster-can-teach-us-about-incident-response-lrug-apr-2024.mp4
 june:
   things-ive-learned-maintaining-openstreetmap:
@@ -90,12 +94,14 @@ july:
 august:
   turn-left-for-bridgetown:
     - type: video
-      title: "LRUG August 2024 - Ayush Newatia - Turn left for Bridgetown: An overview of a next-generation static(ish) site generator"
+      title: "LRUG August 2024 - Ayush Newatia - Turn left for Bridgetown: An overview of a
+        next-generation static(ish) site generator"
       url: https://assets.lrug.org/videos/2024/august/ayush-newatia-turn-left-for-bridgetown-an-overview-of-a-next-generation-static-ish-site-generator-lrug-aug-2024.mp4
 september:
   from-spaghetti-to-lasagna-layering-your-code-with-ddd:
     - type: video
-      title: "LRUG September 2024 - Lily Stoney - From Spaghetti to Lasagna Layering your code with DDD"
+      title: "LRUG September 2024 - Lily Stoney - From Spaghetti to Lasagna Layering your code with
+        DDD"
       url: https://assets.lrug.org/videos/2024/september/lily-stoney-from-spaghetti-to-lasagna-layering-your-code-with-ddd-lrug-sep-2024.mp4
   rachel-bingham-b-and-w-rewards-domains-events-and-ledgers:
     - type: video
@@ -120,7 +126,8 @@ october:
       title: Mittsu, a Ruby port of Three.js
     - type: link
       url: https://manyfold.app
-      title: "And the reason behind all this: Manyfold, a Rails app for managing and sharing 3d models"
+      title: "And the reason behind all this: Manyfold, a Rails app for managing and sharing 3d
+         models"
 december:
   saving-my-relationship-with-rails:
     - type: video

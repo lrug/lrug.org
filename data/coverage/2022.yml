@@ -2,20 +2,20 @@
 january:
 february:
   the-tale-of-the-sixty-plus-second-page-loads:
-  - type: slides
-    url: https://docs.google.com/presentation/d/1-vodmNcE930xHAjb5kyCiI3eJyZFPuUL48njnoPNlvM
-    title: The tale of the 60+ second page loads
-  - type: video
-    title: LRUG February 2022 - Jared Turner - The tale of the 60+ second page loads
-    url: https://assets.lrug.org/videos/2022/february/speaker-jared-turner-the-tale-of-the-60-plus-second-page-loads-lrug-feb-2022.mp4
+    - type: slides
+      url: https://docs.google.com/presentation/d/1-vodmNcE930xHAjb5kyCiI3eJyZFPuUL48njnoPNlvM
+      title: The tale of the 60+ second page loads
+    - type: video
+      title: LRUG February 2022 - Jared Turner - The tale of the 60+ second page loads
+      url: https://assets.lrug.org/videos/2022/february/speaker-jared-turner-the-tale-of-the-60-plus-second-page-loads-lrug-feb-2022.mp4
   javascript-in-rails-a-new-hope:
-  - type: video
-    title: LRUG February 2022 - Frederick Cheung - Javascript in Rails A New Hope
-    url: https://assets.lrug.org/videos/2022/february/speaker-frederick-cheung-javascript-in-rails-a-new-hope-lrug-feb-2022.mp4
+    - type: video
+      title: LRUG February 2022 - Frederick Cheung - Javascript in Rails A New Hope
+      url: https://assets.lrug.org/videos/2022/february/speaker-frederick-cheung-javascript-in-rails-a-new-hope-lrug-feb-2022.mp4
   getting-past-enemy-images:
-  - type: video
-    title: LRUG February 2022 - Pablo Dejuan - Getting past enemy images
-    url: https://assets.lrug.org/videos/2022/february/speaker-pablo-dejuan-getting-past-enemy-images-lrug-feb-2022.mp4
+    - type: video
+      title: LRUG February 2022 - Pablo Dejuan - Getting past enemy images
+      url: https://assets.lrug.org/videos/2022/february/speaker-pablo-dejuan-getting-past-enemy-images-lrug-feb-2022.mp4
   solargraph-dead-end:
     - type: video
       title: LRUG February 2022 - Fritz Meissner - solargraph-dead_end
@@ -30,7 +30,8 @@ february:
       url: https://assets.lrug.org/videos/2022/february/speaker-marija-mandic-a-little-pessimism-never-killed-nobody-lrug-feb-2022.mp4
   metaprogramming-my-colleagues-wont-let-me-do-at-work:
     - type: video
-      title: LRUG February 2022 - PJ - Metaprogramming I Do In My Side Projects That My Colleagues Won't Let Me Do In The Real App At Work :-(
+      title: LRUG February 2022 - PJ - Metaprogramming I Do In My Side Projects That My Colleagues
+        Won't Let Me Do In The Real App At Work :-(
       url: https://assets.lrug.org/videos/2022/february/speaker-pj-metaprogramming-my-colleagues-wont-let-me-do-at-work-lrug-feb-2022.mp4
   how-to-think-about-learning:
     - type: video
@@ -39,11 +40,13 @@ february:
 march:
   the-browser-environemnt-a-system-programmer's-perspective:
     - type: video
-      title: LRUG March 2022 - Eleanor McHugh - The Browser Environment A System Programmer's perspective
+      title: LRUG March 2022 - Eleanor McHugh - The Browser Environment A System Programmer's
+        perspective
       url: https://assets.lrug.org/videos/2022/march/eleanor-mchugh-the-browser-environment-a-system-programmer-perspective-lrug-mar-2022.mp4
   running-full-builds-after-merging-ship-faster-with-git-tree-based-caching:
     - type: video
-      title: "LRUG March 2022 - Christian Gregg - Running full builds after merging? 🥱: Ship faster with git tree based caching"
+      title: "LRUG March 2022 - Christian Gregg - Running full builds after merging? 🥱: Ship
+        faster with git tree based caching"
       url: https://assets.lrug.org/videos/2022/march/christian-gregg-running-full-builds-after-merging-ship-faster-with-git-tree-based-caching-lrug-mar-2022.mp4
     - type: write-up
       title: 🚢 Ship faster with git-tree based caching
@@ -51,16 +54,19 @@ march:
 april:
   using-react-in-a-ruby-project-to-dynamically-generate-pdf-documents:
     - type: video
-      title: "LRUG April 2022 - Panos Matsinopoulos - Using React in a Ruby Project to Dynamically Generate PDF Documents 1"
+      title: "LRUG April 2022 - Panos Matsinopoulos - Using React in a Ruby Project to Dynamically
+        Generate PDF Documents 1"
       url: https://assets.lrug.org/videos/2022/april/panos-matsinopoulos-using-react-in-a-ruby-project-to-dynamically-generate-pdf-documents-lrug-apr-2022.mp4
   a-parse-parse-pitch-using-json-and-custom-parsers-to-create-efficient-flexible-data-structures:
     - type: video
-      title: "LRUG April 2022 - Winston Ferguson - A parse parse pitch: using JSON and custom parsers to create efficient flexible data structures"
+      title: "LRUG April 2022 - Winston Ferguson - A parse parse pitch: using JSON and custom
+        parsers to create efficient flexible data structures"
       url: https://assets.lrug.org/videos/2022/april/winston-ferguson-a-parse-parse-pitch-using-json-and-custom-parsers-to-create-efficient-flexible-data-structures-lrug-apr-2022.mp4
 may:
   mining-a-gem:
     - type: video
-      title: "LRUG May 2022 - Duncan Brown - Mining a gem: how to safely discover, extract and share useful code from your Rails app"
+      title: "LRUG May 2022 - Duncan Brown - Mining a gem: how to safely discover, extract and
+        share useful code from your Rails app"
       url: https://assets.lrug.org/videos/2022/may/duncan-brown-mining-a-gem-how-to-safely-discover-extract-and-share-useful-code-from-your-rails-app-lrug-may-2022.mp4
 june:
   rebasing-like-a-pro:
@@ -69,12 +75,14 @@ june:
       url: https://assets.lrug.org/videos/2022/june/daniel-magliola-get-your-prs-merged-rebasing-like-a-pro-lrug-jun-2022.mp4
   the-messy-middle:
     - type: video
-      title: "LRUG June 2022 - Alfredo Motta - The Messy Middle - 5 software engineering lessons from a 5 year startup journey"
+      title: "LRUG June 2022 - Alfredo Motta - The Messy Middle - 5 software engineering lessons
+        from a 5 year startup journey"
       url: https://assets.lrug.org/videos/2022/june/alfredo-motta-the-messy-middle-5-software-engineering-lessons-from-a-5-years-startup-journey-lrug-jun-2022.mp4
 august:
   low-overhead-ruby-profiling-and-tracing-with-rbperf:
     - type: video
-      title: "LRUG August 2022 - Javier Honduvilla Coto - Low overhead Ruby profiling and tracing with rbperf"
+      title: "LRUG August 2022 - Javier Honduvilla Coto - Low overhead Ruby profiling and tracing
+        with rbperf"
       url: https://assets.lrug.org/videos/2022/august/javier-honduvilla-coto-low-overhead-ruby-profiling-and-tracing-with-rbperf-lrug-aug-2022.mp4
 september:
   how-music-works-using-ruby:
@@ -96,7 +104,8 @@ october:
       url: https://assets.lrug.org/videos/2022/october/paul-battley-how-to-be-completely-ignorant-lrug-oct-2022.mp4
   the-long-road-to-ruby-3-0-vs-the-short-road-to-ruby-3-1:
     - type: video
-      title: "LRUG October 2022 - Murray Steele - The long road to ruby 3.0 vs. the short road to ruby 3.1"
+      title: "LRUG October 2022 - Murray Steele - The long road to ruby 3.0 vs. the short road to
+        ruby 3.1"
       url: https://assets.lrug.org/videos/2022/october/murray-steele-the-long-road-to-ruby-3-0-vs-the-short-road-to-ruby-3-1-lrug-oct-2022.mp4
     - type: transcript
       url: http://h-lame.com/talks/the-long-road-to-ruby-3-0-vs-the-short-road-to-ruby-3-1/

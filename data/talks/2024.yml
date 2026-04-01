@@ -14,9 +14,9 @@ january:
       name: Kevin Sedgley
       url: https://unboxed.co/
     coverage:
-    - type: video
-      title: LRUG January 2024 - Kevin Sedgley - Sky Computing
-      url: https://assets.lrug.org/videos/2024/january/kevin-sedgley-sky-computing-lrug-jan-2024.mp4
+      - type: video
+        title: LRUG January 2024 - Kevin Sedgley - Sky Computing
+        url: https://assets.lrug.org/videos/2024/january/kevin-sedgley-sky-computing-lrug-jan-2024.mp4
   leveraging-localised-gems-llgems-re-using-code-the-ruby-way:
     title: 'Leveraging Localised Gems (LLGems): Re-using Code the Ruby Way, Safely'
     description: |-
@@ -33,46 +33,46 @@ january:
       name: Joel Biffin
       url: https://github.com/joelbiffin
     coverage:
-    - type: slides
-      title: LLGems
-      url: https://github.com/joelbiffin/talks/blob/main/llgems/slides.pdf
-    - type: video
-      title: 'LRUG January 2024 - Joel Biffin - Leveraging localised gems (LLGems):
-        Re-using code the ruby way, safely'
-      url: https://assets.lrug.org/videos/2024/january/joel-biffin-leveraging-localised-gems-llgems-re-using-code-the-ruby-way-safely-lrug-jan-2024.mp4
+      - type: slides
+        title: LLGems
+        url: https://github.com/joelbiffin/talks/blob/main/llgems/slides.pdf
+      - type: video
+        title: 'LRUG January 2024 - Joel Biffin - Leveraging localised gems (LLGems):
+          Re-using code the ruby way, safely'
+        url: https://assets.lrug.org/videos/2024/january/joel-biffin-leveraging-localised-gems-llgems-re-using-code-the-ruby-way-safely-lrug-jan-2024.mp4
 february:
   data-pagination-for-jekyll-paginate-v2:
     title: Data pagination for jekyll-paginate-v2
     description: |-
-      A quick dive into getting data-pagination (.csv, .json, .tsv
-      & .yaml files in your _data directory) working with the [jekyll-paginate-v2](https://github.com/sverrirs/jekyll-paginate-v2)
-      gem. After deciding that I wanted to archive my posts to a Slack
-      #music-we-like channel, I wanted to also make the archived posts
-      paginatible...
+      A quick dive into getting data-pagination (`.csv`, `.json`, `.tsv` & `.yaml` files in your
+      `_data` directory) working with the
+      [jekyll-paginate-v2](https://github.com/sverrirs/jekyll-paginate-v2) gem. After deciding that
+      I wanted to archive my posts to a Slack `#music-we-like` channel, I wanted to also make the
+      archived posts paginatible...
     speaker:
       name: Jay Caines-Gooby
       url: https://jay.gooby.org
     coverage:
-    - type: video
-      title: LRUG February 2024 - Jay Caines-Gooby - Data pagination for jekyll-paginate-v2
-      url: https://assets.lrug.org/videos/2024/february/jay-caines-gooby-data-pagination-for-jekyll-paginate-v2-lrug-feb-2024.mp4
+      - type: video
+        title: LRUG February 2024 - Jay Caines-Gooby - Data pagination for jekyll-paginate-v2
+        url: https://assets.lrug.org/videos/2024/february/jay-caines-gooby-data-pagination-for-jekyll-paginate-v2-lrug-feb-2024.mp4
   using-devcontainers-with-ruby:
     title: Using devcontainers with Ruby
     description: |-
-      When an engineer joins your organisation, how long does it take for
-      them to configure their development environment? I will discuss using
-      [devcontainers with VSCode](https://code.visualstudio.com/docs/devcontainers/containers) to reduce this time from "days" to
-      "minutes''.
+      When an engineer joins your organisation, how long does it take for them to configure their
+      development environment? I will discuss using [devcontainers with
+      VSCode](https://code.visualstudio.com/docs/devcontainers/containers) to reduce this time from
+      "days" to "minutes".
     speaker:
       name: Jonathan James
       url: https://github.com/jonathanjames1729
     coverage:
-    - type: slides
-      title: devcontainers
-      url: https://github.com/jonathanjames1729/talks/blob/main/2024-02-12-lrug/devcontainers.pdf
-    - type: video
-      title: LRUG February 2024 - Jonathan James - Using devcontainers with Ruby
-      url: https://assets.lrug.org/videos/2024/february/jonathan-james-using-devcontainers-with-ruby-lrug-feb-2024.mp4
+      - type: slides
+        title: devcontainers
+        url: https://github.com/jonathanjames1729/talks/blob/main/2024-02-12-lrug/devcontainers.pdf
+      - type: video
+        title: LRUG February 2024 - Jonathan James - Using devcontainers with Ruby
+        url: https://assets.lrug.org/videos/2024/february/jonathan-james-using-devcontainers-with-ruby-lrug-feb-2024.mp4
   contract-testing-between-ruby-applications:
     title: Contract testing between Ruby applications
     description: |-
@@ -86,29 +86,30 @@ february:
       - name: "Sarah O'Grady"
         url: https://github.com/sarah-ogrady
     coverage:
-    - type: video
-      title: LRUG February 2024 - Katya Essina & Sarah O'Grady - Contract Testing
-        between Ruby applications
-      url: https://assets.lrug.org/videos/2024/february/katya-essina-and-sarah-o-grady-contract-testing-between-ruby-applications-lrug-feb-2024.mp4
+      - type: video
+        title: LRUG February 2024 - Katya Essina & Sarah O'Grady - Contract Testing
+          between Ruby applications
+        url: https://assets.lrug.org/videos/2024/february/katya-essina-and-sarah-o-grady-contract-testing-between-ruby-applications-lrug-feb-2024.mp4
   what-is-ruby-really-capable-of:
     title: What is ruby really capable of?
     description: |-
-      I'd like to do a whistlestop tour of a few different gems I've written over
-      the years, with the aim of talking about having fun whilst learning what
-      ruby is capable of. I'd like to showcase things like [aspectual](https://github.com/AgentAntelope/aspectual)
-      for bringing aspect oriented programming to ruby, [cherry-pick](https://github.com/AgentAntelope/cherry_pick)
-      for when you miss `import foo from bar`, [overload](https://github.com/AgentAntelope/overload) for when you
-      want to *really* have optional arguments do something different, and more!
+      I'd like to do a whistlestop tour of a few different gems I've written over the years, with
+      the aim of talking about having fun whilst learning what ruby is capable of. I'd like to
+      showcase things like [aspectual](https://github.com/AgentAntelope/aspectual) for bringing
+      aspect oriented programming to ruby,
+      [cherry-pick](https://github.com/AgentAntelope/cherry_pick) for when you miss `import foo
+      from bar`, [overload](https://github.com/AgentAntelope/overload) for when you want to
+      *really* have optional arguments do something different, and more!
     speaker:
       name: fell sunderland
       url: https://twitter.com/felltir
     coverage:
-    - type: video
-      title: LRUG February 2024 - fell sunderland - What is Ruby really capable of?
-      url: https://assets.lrug.org/videos/2024/february/fell-sunderland-what-is-ruby-really-capable-of-lrug-feb-2024.mp4
-    - type: slides
-      title: What is Ruby really capable of? - Slides
-      url: https://docs.google.com/presentation/d/1GNzpKWO6aqqbfo4eOTixIL_r1GI08bFYWjyRhBOUmBk/edit?usp=sharing
+      - type: video
+        title: LRUG February 2024 - fell sunderland - What is Ruby really capable of?
+        url: https://assets.lrug.org/videos/2024/february/fell-sunderland-what-is-ruby-really-capable-of-lrug-feb-2024.mp4
+      - type: slides
+        title: What is Ruby really capable of? - Slides
+        url: https://docs.google.com/presentation/d/1GNzpKWO6aqqbfo4eOTixIL_r1GI08bFYWjyRhBOUmBk/edit?usp=sharing
   phlex-for-a-happy-developer:
     title: Phlex for a happy developer!
     description: |-
@@ -119,9 +120,9 @@ february:
       name: Martin Tomov
       url: https://www.linkedin.com/in/martin-tomov/
     coverage:
-    - type: video
-      title: LRUG February 2024 - Martin Tomov - Phlex for a happy developer
-      url: https://assets.lrug.org/videos/2024/february/martin-tomov-phlex-for-a-happy-developer-lrug-feb-2024.mp4
+      - type: video
+        title: LRUG February 2024 - Martin Tomov - Phlex for a happy developer
+        url: https://assets.lrug.org/videos/2024/february/martin-tomov-phlex-for-a-happy-developer-lrug-feb-2024.mp4
   be-more-gary-how-to-up-your-rspec-game:
     title: 'Be More GARY: How to up your RSpec Game'
     description: |-
@@ -133,10 +134,10 @@ february:
       name: Scott Matthewman
       url: https://twitter.com/scottm
     coverage:
-    - type: video
-      title: 'LRUG February 2024 - Scott Matthewman - Be more GARY: How to up your
-        RSpec game'
-      url: https://assets.lrug.org/videos/2024/february/scott-matthewman-be-more-gary-how-to-up-your-rspec-game-lrug-feb-2024.mp4
+      - type: video
+        title: 'LRUG February 2024 - Scott Matthewman - Be more GARY: How to up your
+          RSpec game'
+        url: https://assets.lrug.org/videos/2024/february/scott-matthewman-be-more-gary-how-to-up-your-rspec-game-lrug-feb-2024.mp4
   making-games-with-ruby:
     title: Making games with ruby
     description: |-
@@ -148,9 +149,9 @@ february:
       name: Paolo Fabbri
       url: https://internetblacksmith.dev
     coverage:
-    - type: video
-      title: LRUG February 2024 - Paolo Fabbri - Making games with Ruby
-      url: https://assets.lrug.org/videos/2024/february/paolo-fabbri-making-games-with-ruby-lrug-feb-2024.mp4
+      - type: video
+        title: LRUG February 2024 - Paolo Fabbri - Making games with Ruby
+        url: https://assets.lrug.org/videos/2024/february/paolo-fabbri-making-games-with-ruby-lrug-feb-2024.mp4
 march:
   how-to-stop-being-a-subject-matter-expert:
     title: How to Stop Being a Subject Matter Expert
@@ -161,9 +162,9 @@ march:
       name: Luke Thomas
       url: https://www.linkedin.com/pub/luke-thomas/19/5b6/22a
     coverage:
-    - type: video
-      title: LRUG March 2024 - Luke Thomas - How to Stop Being a Subject Matter Expert
-      url: https://assets.lrug.org/videos/2024/march/luke-thomas-how-to-stop-being-a-subject-matter-export-lrug-mar-2024.mp4
+      - type: video
+        title: LRUG March 2024 - Luke Thomas - How to Stop Being a Subject Matter Expert
+        url: https://assets.lrug.org/videos/2024/march/luke-thomas-how-to-stop-being-a-subject-matter-export-lrug-mar-2024.mp4
   wtf-is-a-technical-strategy:
     title: WTF is Technical Strategy
     description: |-
@@ -177,9 +178,9 @@ march:
       name: Laurie Young
       url: https://laurieyoung.co.uk/
     coverage:
-    - type: video
-      title: LRUG March 2024 - Laurie Young - WTF is Technical Strategy
-      url: https://assets.lrug.org/videos/2024/march/laurie-young-wtf-is-technical-strategry-lrug-mar-2024.mp4
+      - type: video
+        title: LRUG March 2024 - Laurie Young - WTF is Technical Strategy
+        url: https://assets.lrug.org/videos/2024/march/laurie-young-wtf-is-technical-strategry-lrug-mar-2024.mp4
 april:
   do-you-want-a-flake-with-that:
     title: Do you want a flake with that?
@@ -190,12 +191,12 @@ april:
       name: Murray Steele
       url: http://h-lame.com
     coverage:
-    - type: video
-      title: LRUG April 2024 - Murray Steele - Do you want a flake with that?
-      url: https://assets.lrug.org/videos/2024/april/murray-steele-do-you-want-a-flake-with-that-lrug-apr-2024.mp4
-    - type: transcript
-      title: Talks ∋ Do you want a flake with that?
-      url: http://h-lame.com/talks/do-you-want-a-flake-with-that/
+      - type: video
+        title: LRUG April 2024 - Murray Steele - Do you want a flake with that?
+        url: https://assets.lrug.org/videos/2024/april/murray-steele-do-you-want-a-flake-with-that-lrug-apr-2024.mp4
+      - type: transcript
+        title: Talks ∋ Do you want a flake with that?
+        url: http://h-lame.com/talks/do-you-want-a-flake-with-that/
   what-the-chernobyl-disaster-can-teach-us-about-incident-response:
     title: What the Chernobyl disaster can teach us about incident response
     description: |-
@@ -206,10 +207,10 @@ april:
       name: Frederick Cheung
       url: https://ruby.social/@fglc2
     coverage:
-    - type: video
-      title: LRUG April 2024 - Frederick Cheung - What the Chernobyl disaster can
-        teach us about incident response
-      url: https://assets.lrug.org/videos/2024/april/frederick-cheung-what-the-chernobyl-disaster-can-teach-us-about-incident-response-lrug-apr-2024.mp4
+      - type: video
+        title: LRUG April 2024 - Frederick Cheung - What the Chernobyl disaster can
+          teach us about incident response
+        url: https://assets.lrug.org/videos/2024/april/frederick-cheung-what-the-chernobyl-disaster-can-teach-us-about-incident-response-lrug-apr-2024.mp4
 may:
   build-and-maintain-large-ruby-applications:
     title: Build and maintain large Ruby applications
@@ -251,24 +252,25 @@ june:
       name: Andy Allan
       url: https://www.gravitystorm.co.uk/
     coverage:
-    - type: video
-      title: LRUG June 2024 - Andy Allan - Things I've learned maintaining OpenStreetMap
-      url: https://assets.lrug.org/videos/2024/june/andy-allan-things-ive-learned-maintaining-openstreetmap-lrug-jun-2024.mp4
+      - type: video
+        title: LRUG June 2024 - Andy Allan - Things I've learned maintaining OpenStreetMap
+        url: https://assets.lrug.org/videos/2024/june/andy-allan-things-ive-learned-maintaining-openstreetmap-lrug-jun-2024.mp4
   liveview-stateful-server-rendered-html:
     title: 'LiveView: stateful, server-rendered HTML'
     description: |-
       LiveView is  Elixir's analogue to Hotwire that also helps to keep it closer
       to the server and contributes to the One Person Framework movement.  In this talk,
       we will explore how the stateful model makes it different from similar technologies
-      and what optimisations the Phoenix team did to make it feel snappy and deliver a world-class UX
+      and what optimisations the Phoenix team did to make it feel snappy and deliver a
+      world-class UX
     speaker:
       name: Yevhenii Kurtov
       url: https://www.linkedin.com/in/kurtov/
     coverage:
-    - type: video
-      title: 'LRUG June 2024 - Yevhenii Kurtov - LiveView: Stateful, server-rendered
-        HTML'
-      url: https://assets.lrug.org/videos/2024/june/yevhenii-kurtov-liveview-stateful-server-rendered-html-lrug-jun-2024.mp4
+      - type: video
+        title: 'LRUG June 2024 - Yevhenii Kurtov - LiveView: Stateful, server-rendered
+          HTML'
+        url: https://assets.lrug.org/videos/2024/june/yevhenii-kurtov-liveview-stateful-server-rendered-html-lrug-jun-2024.mp4
 july:
   that-smells-like-time:
     title: That smells like time
@@ -279,12 +281,12 @@ july:
       name: fell sunderland
       url: https://uk.linkedin.com/in/fell-sunderland
     coverage:
-    - type: video
-      title: LRUG July 2024 - fell sunderland - That smells like time
-      url: https://assets.lrug.org/videos/2024/july/fell-sunderland-that-smells-like-time-lrug-jul-2024.mp4
-    - type: slides
-      title: That smells like time - Slides
-      url: https://docs.google.com/presentation/d/1eAdmyQVROnJzcLfC1rOo7RjwsABFR21AqVKgg-9irdE/edit?usp=sharing
+      - type: video
+        title: LRUG July 2024 - fell sunderland - That smells like time
+        url: https://assets.lrug.org/videos/2024/july/fell-sunderland-that-smells-like-time-lrug-jul-2024.mp4
+      - type: slides
+        title: That smells like time - Slides
+        url: https://docs.google.com/presentation/d/1eAdmyQVROnJzcLfC1rOo7RjwsABFR21AqVKgg-9irdE/edit?usp=sharing
   finding-unused-ruby-methods:
     title: Finding unused Ruby methods
     description: |-
@@ -298,9 +300,9 @@ july:
       name: Joel Biffin
       url: https://github.com/joelbiffin
     coverage:
-    - type: video
-      title: LRUG July 2024 - Joel Biffin - Finding unused Ruby methods
-      url: https://assets.lrug.org/videos/2024/july/joel-biffin-finding-unused-ruby-methods-lrug-jul-2024.mp4
+      - type: video
+        title: LRUG July 2024 - Joel Biffin - Finding unused Ruby methods
+        url: https://assets.lrug.org/videos/2024/july/joel-biffin-finding-unused-ruby-methods-lrug-jul-2024.mp4
 august:
   turn-left-for-bridgetown:
     title: 'Turn Left for Bridgetown: An overview of a next-generation static(ish)
@@ -314,10 +316,10 @@ august:
       name: Ayush Newatia
       url: https://ruby.social/@ayush
     coverage:
-    - type: video
-      title: 'LRUG August 2024 - Ayush Newatia - Turn left for Bridgetown: An overview
-        of a next-generation static(ish) site generator'
-      url: https://assets.lrug.org/videos/2024/august/ayush-newatia-turn-left-for-bridgetown-an-overview-of-a-next-generation-static-ish-site-generator-lrug-aug-2024.mp4
+      - type: video
+        title: 'LRUG August 2024 - Ayush Newatia - Turn left for Bridgetown: An overview
+          of a next-generation static(ish) site generator'
+        url: https://assets.lrug.org/videos/2024/august/ayush-newatia-turn-left-for-bridgetown-an-overview-of-a-next-generation-static-ish-site-generator-lrug-aug-2024.mp4
 september:
   rachel-bingham-b-and-w-rewards-domains-events-and-ledgers:
     title: B&W Rewards - Domains, Events & Ledgers
@@ -331,9 +333,9 @@ september:
       - name: Boaz Yehezkel
         url: https://github.com/boaz-yehezkel
     coverage:
-    - type: video
-      title: "LRUG September 2024 - Rachel Bingham - B&W Rewards - Domains, Events & Ledgers"
-      url: https://assets.lrug.org/videos/2024/september/rachel-bingham-b-and-w-rewards-domains-events-and-ledgers-lrug-sep-2024.mp4
+      - type: video
+        title: "LRUG September 2024 - Rachel Bingham - B&W Rewards - Domains, Events & Ledgers"
+        url: https://assets.lrug.org/videos/2024/september/rachel-bingham-b-and-w-rewards-domains-events-and-ledgers-lrug-sep-2024.mp4
     custom_intro: will be speaking about
   from-spaghetti-to-lasagna-layering-your-code-with-ddd:
     title: 'From Spaghetti to Lasagna: Layering your code with DDD'
@@ -345,10 +347,10 @@ september:
       name: Lily Stoney
       url: https://github.com/LilyStoney
     coverage:
-    - type: video
-      title: LRUG September 2024 - Lily Stoney - From Spaghetti to Lasagna Layering
-        your code with DDD
-      url: https://assets.lrug.org/videos/2024/september/lily-stoney-from-spaghetti-to-lasagna-layering-your-code-with-ddd-lrug-sep-2024.mp4
+      - type: video
+        title: LRUG September 2024 - Lily Stoney - From Spaghetti to Lasagna Layering
+          your code with DDD
+        url: https://assets.lrug.org/videos/2024/september/lily-stoney-from-spaghetti-to-lasagna-layering-your-code-with-ddd-lrug-sep-2024.mp4
 october:
   fighting-enshittification-with-activity-pub:
     title: Fighting Enshittification with ActivityPub
@@ -364,25 +366,25 @@ october:
       name: James Smith
       url: https://mastodon.me.uk/@Floppy
     coverage:
-    - type: video
-      title: LRUG October 2024 - James Smith - Fighting Enshittification with ActivityPub
-      url: https://assets.lrug.org/videos/2024/october/james-smith-fighting-enshittification-with-activity-pub-lrug-oct-2024.mp4
-    - type: slides
-      url: https://floppy.org.uk/activitypub-talk/
-      title: Fighting Enshittification with ActivityPub - Slides
-    - type: code
-      url: https://gitlab.com/experimentslabs/federails
-      title: Federails, a Rails engine to add ActivityPub to your app
-    - type: code
-      url: https://github.com/manyfold3d/caber
-      title: Caber, a simple ReBAC / Zanzibar gem
-    - type: code
-      url: https://github.com/danini-the-panini/mittsu
-      title: Mittsu, a Ruby port of Three.js
-    - type: link
-      url: https://manyfold.app
-      title: 'And the reason behind all this: Manyfold, a Rails app for managing and
-        sharing 3d models'
+      - type: video
+        title: LRUG October 2024 - James Smith - Fighting Enshittification with ActivityPub
+        url: https://assets.lrug.org/videos/2024/october/james-smith-fighting-enshittification-with-activity-pub-lrug-oct-2024.mp4
+      - type: slides
+        url: https://floppy.org.uk/activitypub-talk/
+        title: Fighting Enshittification with ActivityPub - Slides
+      - type: code
+        url: https://gitlab.com/experimentslabs/federails
+        title: Federails, a Rails engine to add ActivityPub to your app
+      - type: code
+        url: https://github.com/manyfold3d/caber
+        title: Caber, a simple ReBAC / Zanzibar gem
+      - type: code
+        url: https://github.com/danini-the-panini/mittsu
+        title: Mittsu, a Ruby port of Three.js
+      - type: link
+        url: https://manyfold.app
+        title: 'And the reason behind all this: Manyfold, a Rails app for managing and
+          sharing 3d models'
   plan-to-scale-or-plan-to-fail:
     title: 'Plan to scale or plan to fail: an evidence-based approach for improving
       systems performance'
@@ -417,9 +419,9 @@ december:
       name: Adam Dawkins
       url: https://github.com/adamdawkins
     coverage:
-    - type: video
-      title: LRUG December 2024 - Adam Dawkins - Saving My Relationship with Rails
-      url: https://assets.lrug.org/videos/2024/december/adam-dawkins-saving-my-relationship-with-rails-lrug-dec-2024.mp4
+      - type: video
+        title: LRUG December 2024 - Adam Dawkins - Saving My Relationship with Rails
+        url: https://assets.lrug.org/videos/2024/december/adam-dawkins-saving-my-relationship-with-rails-lrug-dec-2024.mp4
   mistakes-were-made-lessons-from-failure:
     title: 'Mistakes Were Made: Lessons from Failure'
     description: |-
@@ -430,7 +432,7 @@ december:
       name: Clem Capel-Bird
       url: https://www.linkedin.com/in/clemcapelbird/
     coverage:
-    - type: video
-      title: 'LRUG December 2024 - Clem Capel-Bird - Mistakes Were Made: Lessons From
-        Failure'
-      url: https://assets.lrug.org/videos/2024/december/clem-capel-bird-mistakes-were-made-lessons-from-failure-lrug-dec-2024.mp4
+      - type: video
+        title: 'LRUG December 2024 - Clem Capel-Bird - Mistakes Were Made: Lessons From
+          Failure'
+        url: https://assets.lrug.org/videos/2024/december/clem-capel-bird-mistakes-were-made-lessons-from-failure-lrug-dec-2024.mp4
