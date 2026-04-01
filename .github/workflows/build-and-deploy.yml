@@ -24,6 +24,11 @@ jobs:
           bundle exec rubocop --format progress --format RubocopGithubAnnotationFormatter::AnnotationFormatter
         # yamllint enable rule:line-length
 
+      - name: Yaml Lint
+        run: |
+          pip install yamllint
+          yamllint . --format github
+
       - name: Middleman Build
         run: |
           export TERM=xterm
