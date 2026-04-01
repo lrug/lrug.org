@@ -6,7 +6,8 @@ january:
       url: https://assets.lrug.org/videos/2023/january/matt-valentine-house-heaping-on-the-complexity-lrug-jan-2023.mp4
   what-does-high-priority-mean-the-secret-to-happy-queues:
     - type: video
-      title: LRUG January 2023 - Daniel Magliola - What does "high priority" mean? The secret to happy queues
+      title: LRUG January 2023 - Daniel Magliola - What does "high priority" mean? The secret to
+        happy queues
       url: https://assets.lrug.org/videos/2023/january/daniel-magliola-what-does-high-priority-mean-the-secret-to-happy-queues-lrug-jan-2023.mp4
   solargraph-rails-in-2022:
     - type: video
@@ -39,11 +40,13 @@ february:
       url: https://assets.lrug.org/videos/2023/february/matt-bee-to-mentor-or-to-mentee-that-is-the-question-lrug-feb-2023.mp4
   strings-interpolation-optimisation-and-bugs:
     - type: video
-      title: "LRUG February 2023 - Matt Valentine-House - Strings: Interpolation, optimisation and bugs"
+      title: "LRUG February 2023 - Matt Valentine-House - Strings: Interpolation, optimisation
+        and bugs"
       url: https://assets.lrug.org/videos/2023/february/matt-valentine-house-strings-interpolation-optimisation-and-bugs-lrug-feb-2023.mp4
   a-supposedly-fun-thing-ill-never-stream-again:
     - type: video
-      title: "LRUG February 2023 - Tom Stuart - A supposedly fun thing I'll never stream again: Live coding a Ruby project"
+      title: "LRUG February 2023 - Tom Stuart - A supposedly fun thing I'll never stream again:
+        Live coding a Ruby project"
       url: https://assets.lrug.org/videos/2023/february/tom-stuart-a-supposedly-fun-thing-ill-never-stream-again-live-coding-a-ruby-project-lrug-feb-2023.mp4
 march:
   native-apps-are-dead-long-live-native-apps:
@@ -64,7 +67,7 @@ april:
       url: https://alexwlchan.net/2023/upward-assignment/
   build-a-mini-ruby-debugger-in-under-300-lines:
     - type: video
-      title: "LRUG April 2023 - Stan Lo - Build a mini Ruby debugger in under 300 lines-lrug-apr-2023"
+      title: "LRUG April 2023 - Stan Lo - Build a mini Ruby debugger in under 300 lines"
       url: https://assets.lrug.org/videos/2023/april/stan-lo-build-a-mini-ruby-debugger-in-under-300-lines-lrug-apr-2023.mp4
 may:
   github-actions-an-introduction:
@@ -82,7 +85,8 @@ june:
       url: https://assets.lrug.org/videos/2023/june/adam-piotrowski-mutation-testing-study-case-lrug-jun-2023.mp4
   how-we-used-cqrs-to-structure-our-new-borrower-portal:
     - type: video
-      title: "LRUG June 2023 - Shenthuran Satkunarasa - How we used CQRS to structure our new Borrower Portal"
+      title: "LRUG June 2023 - Shenthuran Satkunarasa - How we used CQRS to structure our new
+        Borrower Portal"
       url: https://assets.lrug.org/videos/2023/june/shenthuran-satkunarasa-how-we-used-cqrs-to-structure-our-new-borrower-portal-lrug-jun-2023.mp4
 july:
   dan-hough-ruby-to-solve-homelessness-and-the-refugee-crises:
@@ -104,7 +108,8 @@ september:
 november:
   outside-technology-building-bridges:
     - type: video
-      title: "LRUG November 2023 - Naomie Christie - Outside Technology: Building bridges between engineers and everyone else"
+      title: "LRUG November 2023 - Naomie Christie - Outside Technology: Building bridges between
+        engineers and everyone else"
       url: https://assets.lrug.org/videos/2023/november/naomi-christie-outside-technology-building-bridges-between-engineers-and-everyone-else.mp4
   the-art-of-talk-design:
     - type: video

@@ -31,9 +31,9 @@ january:
       name: Thayer Prime
       url: https://twitter.com/teamPrimeLtd
     coverage:
-    - type: video
-      url: https://assets.lrug.org/videos/2021/january/thayer-prime-recruiting-101-instead-of-404-lrug-jan-2021.mp4
-      title: LRUG January 2021 - Thayer Prime - Recruiting 101 instead of 404
+      - type: video
+        url: https://assets.lrug.org/videos/2021/january/thayer-prime-recruiting-101-instead-of-404-lrug-jan-2021.mp4
+        title: LRUG January 2021 - Thayer Prime - Recruiting 101 instead of 404
     use_description_as_intro: true
 february:
   an-intro-to-bridgetown:
@@ -49,10 +49,10 @@ february:
       name: Ayush Newatia
       url: https://binarysolo.chapter24.blog
     coverage:
-    - type: video
-      url: https://assets.lrug.org/videos/2021/february/ayush-newatia-an-intro-to-bridgetown-a-static-site-generator-for-the-modern-jamstack-era-lrug-feb-2021.mp4
-      title: 'LRUG February 2021 - Ayush Newatia - An intro to Bridgetown: A static
-        site generator for the modern JAMStack era'
+      - type: video
+        url: https://assets.lrug.org/videos/2021/february/ayush-newatia-an-intro-to-bridgetown-a-static-site-generator-for-the-modern-jamstack-era-lrug-feb-2021.mp4
+        title: 'LRUG February 2021 - Ayush Newatia - An intro to Bridgetown: A static
+          site generator for the modern JAMStack era'
   the-pathname-of-least-resistance:
     title: The Path(name) of least resistance
     description: |-
@@ -65,9 +65,9 @@ february:
       name: Frederick Cheung
       url: https://twitter.com/fglc2
     coverage:
-    - type: video
-      url: https://assets.lrug.org/videos/2021/february/fred-cheung-the-pathname-of-least-resistance-lrug-feb-2021.mp4
-      title: LRUG Februrary 2021 - Frederick Cheung - The Path(name) of least resistance
+      - type: video
+        url: https://assets.lrug.org/videos/2021/february/fred-cheung-the-pathname-of-least-resistance-lrug-feb-2021.mp4
+        title: LRUG Februrary 2021 - Frederick Cheung - The Path(name) of least resistance
   are-we-parallel-yet:
     title: Are we parallel yet? A first look at Ruby Ractors
     description: |-
@@ -77,10 +77,10 @@ february:
       name: Lorenzo Barasti
       url: https://twitter.com/lbarasti
     coverage:
-    - type: video
-      url: https://assets.lrug.org/videos/2021/february/lorenzo-barasti-are-we-parallel-yet-a-first-look-at-ruby-ractors-lrug-feb-2021.mp4
-      title: LRUG Februrary 2021 - Lorenzo Barasti - Are we parallel yet? A first
-        look at Ruby Ractors
+      - type: video
+        url: https://assets.lrug.org/videos/2021/february/lorenzo-barasti-are-we-parallel-yet-a-first-look-at-ruby-ractors-lrug-feb-2021.mp4
+        title: LRUG Februrary 2021 - Lorenzo Barasti - Are we parallel yet? A first
+          look at Ruby Ractors
   uncovering-some-ruby-magic-in-awesome-print:
     title: Uncovering some ruby magic in `awesome_print`
     description: |-
@@ -93,9 +93,9 @@ february:
       name: Mark Burns
       url: https://github.com/markburns
     coverage:
-    - type: video
-      url: https://assets.lrug.org/videos/2021/february/mark-burns-uncovering-some-ruby-magic-in-awesome_print-lrug-feb-2021.mp4
-      title: LRUG February 2021 - Mark Burns - Uncovering some ruby magic in `awesome_print
+      - type: video
+        url: https://assets.lrug.org/videos/2021/february/mark-burns-uncovering-some-ruby-magic-in-awesome_print-lrug-feb-2021.mp4
+        title: LRUG February 2021 - Mark Burns - Uncovering some ruby magic in `awesome_print
   taking-rails-offline:
     title: Taking Rails Offline
     description: |-
@@ -105,9 +105,9 @@ february:
       name: Mike Rogers
       url: https://twitter.com/mikerogers0
     coverage:
-    - type: video
-      url: https://assets.lrug.org/videos/2021/february/mike-rogers-taking-rails-offline-lrug-feb-2021.mp4
-      title: LRUG February 2021 - Mike Rogers - Taking Rails Offline
+      - type: video
+        url: https://assets.lrug.org/videos/2021/february/mike-rogers-taking-rails-offline-lrug-feb-2021.mp4
+        title: LRUG February 2021 - Mike Rogers - Taking Rails Offline
 march:
   data-as-a-foreign-language:
     title: 'Data as a foreign language, or: A tale of two (or possibly three) type
@@ -126,10 +126,10 @@ march:
       name: Matt Patterson
       url: https://github.com/fidothe
     coverage:
-    - type: video
-      url: https://assets.lrug.org/videos/2021/march/matt-patterson-data-as-a-foreign-language-or-a-tale-of-two-or-possibly-three-type-systems-lrug-mar-2021.mp4
-      title: 'LRUG March 2021 - Matt Patterson - Data as a foreign language, or: A
-        tale of two (or possibly three) type systems'
+      - type: video
+        url: https://assets.lrug.org/videos/2021/march/matt-patterson-data-as-a-foreign-language-or-a-tale-of-two-or-possibly-three-type-systems-lrug-mar-2021.mp4
+        title: 'LRUG March 2021 - Matt Patterson - Data as a foreign language, or: A
+          tale of two (or possibly three) type systems'
   sundae-club:
     title: 'Sundae Club: Livestreaming Ruby on Rails'
     description: |-
@@ -148,9 +148,9 @@ march:
       name: Max Shelley
       url: https://www.twitter.com/maxshelley
     coverage:
-    - type: video
-      url: https://assets.lrug.org/videos/2021/march/max-shelley-sundae-club-livestreaming-ruby-on-rails-lrug-mar-2021.mp4
-      title: 'LRUG March 2021 - Max Shelley - Sundae Club: Livestreaming Ruby on Rails'
+      - type: video
+        url: https://assets.lrug.org/videos/2021/march/max-shelley-sundae-club-livestreaming-ruby-on-rails-lrug-mar-2021.mp4
+        title: 'LRUG March 2021 - Max Shelley - Sundae Club: Livestreaming Ruby on Rails'
 april:
   git-rebase:
     title: Git Rebase
@@ -173,12 +173,12 @@ april:
       name: Brooke Kuhlmann
       url: https://www.alchemists.io
     coverage:
-    - type: video
-      url: https://assets.lrug.org/videos/2021/april/brooke-kuhlmann-git-rebase-lrug-apr-2021.mp4
-      title: LRUG April 2021 - Brooke Kuhlmann - Git rebase
-    - type: slides
-      url: https://www.alchemists.io/presentations/git_rebase/
-      title: Alchemists.io | Presentations | Git Rebase
+      - type: video
+        url: https://assets.lrug.org/videos/2021/april/brooke-kuhlmann-git-rebase-lrug-apr-2021.mp4
+        title: LRUG April 2021 - Brooke Kuhlmann - Git rebase
+      - type: slides
+        url: https://www.alchemists.io/presentations/git_rebase/
+        title: Alchemists.io | Presentations | Git Rebase
 may:
   your-fortified-cookie-jar:
     title: 'Your fortified cookie jar: Demystifying cookie security in Rails'
@@ -192,9 +192,9 @@ may:
       name: Ayush Newatia
       url: https://binarysolo.chapter24.blog
     coverage:
-    - type: video
-      url: https://assets.lrug.org/videos/2021/may/ayush-newatia-your-fortified-cookie-jar-lrug-may-2021.mp4
-      title: LRUG May 2021 - Ayush Newatia - Your Fortified Cookie Jar
+      - type: video
+        url: https://assets.lrug.org/videos/2021/may/ayush-newatia-your-fortified-cookie-jar-lrug-may-2021.mp4
+        title: LRUG May 2021 - Ayush Newatia - Your Fortified Cookie Jar
   is-this-feature-a-waste-of-time:
     title: Is this feature a waste of time?
     description: |-
@@ -209,9 +209,9 @@ may:
       name: Tom Lord
       url: https://github.com/tom-lord
     coverage:
-    - type: video
-      url: https://assets.lrug.org/videos/2021/may/tom-lord-is-this-feature-a-waste-of-time-lrug-may-2021.mp4
-      title: LRUG May 2021 - Tom Lord - Is This Feature a Waste of Time?
+      - type: video
+        url: https://assets.lrug.org/videos/2021/may/tom-lord-is-this-feature-a-waste-of-time-lrug-may-2021.mp4
+        title: LRUG May 2021 - Tom Lord - Is This Feature a Waste of Time?
 july:
   breaking-up-monoliths-with-crc-cards:
     title: Breaking Up Monoliths With CRC cards
@@ -226,9 +226,9 @@ july:
         url: https://twitter.com/hnvarambhia
     custom_intro: "from [Simply Business](https://www.simplybusiness.co.uk) says:"
     coverage:
-    - type: video
-      url: https://assets.lrug.org/videos/2021/july/hemal-varambhia-breaking-up-monoliths-with-crc-cards-lrug-jul-2021.mp4
-      title: LRUG July 2021 - Hemal Varambhia - Breaking up monoliths with CRC cards
+      - type: video
+        url: https://assets.lrug.org/videos/2021/july/hemal-varambhia-breaking-up-monoliths-with-crc-cards-lrug-jul-2021.mp4
+        title: LRUG July 2021 - Hemal Varambhia - Breaking up monoliths with CRC cards
   ruby-on-rails-for-fun-and-social-good:
     title: Ruby on Rails for Fun and Social Good
     description: |-
@@ -241,12 +241,12 @@ july:
         url: https://twitter.com/alexrudall
     custom_intro: "from [Beam](https://beam.org) says:"
     coverage:
-    - type: video
-      url: https://assets.lrug.org/videos/2021/july/alex-rudall-ruby-on-rails-for-fun-and-social-good-lrug-jul-2021.mp4
-      title: LRUG July 2021 - Alex Rudall - Ruby on Rails for Fun and Social Good
-    - type: video
-      url: https://www.youtube.com/watch?v=_zsj6uek4Qw
-      title: A new way to tackle homelessness | TEDx Brighton
+      - type: video
+        url: https://assets.lrug.org/videos/2021/july/alex-rudall-ruby-on-rails-for-fun-and-social-good-lrug-jul-2021.mp4
+        title: LRUG July 2021 - Alex Rudall - Ruby on Rails for Fun and Social Good
+      - type: video
+        url: https://www.youtube.com/watch?v=_zsj6uek4Qw
+        title: A new way to tackle homelessness | TEDx Brighton
   improving-rails-scalability-using-modularity-with-enforced-boundaries:
     title: Improving Rails scalability using modularity with enforced boundaries
     description: |-
@@ -260,17 +260,17 @@ july:
       name: Rob Faldo
       url: https://www.linkedin.com/in/robertfaldo/
     coverage:
-    - type: video
-      url: https://assets.lrug.org/videos/2021/july/rob-faldo-improving-rails-scalability-using-modularity-with-enforced-boundaries-lrug-jul-2021.mp4
-      title: LRUG July 2021 - Rob Faldo - Improving Rails scalability using modularity
-        with enforced boundaries
-    - type: slides
-      url: https://docs.google.com/presentation/d/12EjD9OtIOtFpRqBaFKWmu4y1ogJK-WsO8l5TgTt1EmI/edit?usp=sharing
-      title: Improving Rails scalability using modularity with enforced boundaries
-    - type: link
-      url: https://robertfaldo.medium.com/improving-rails-scalability-using-the-modular-monolith-approach-with-enforced-boundaries-f8cea89e85b9
-      title: Blog post on "Improving Rails scalability using modularity with enforced
-        boundaries"
+      - type: video
+        url: https://assets.lrug.org/videos/2021/july/rob-faldo-improving-rails-scalability-using-modularity-with-enforced-boundaries-lrug-jul-2021.mp4
+        title: LRUG July 2021 - Rob Faldo - Improving Rails scalability using modularity
+          with enforced boundaries
+      - type: slides
+        url: https://docs.google.com/presentation/d/12EjD9OtIOtFpRqBaFKWmu4y1ogJK-WsO8l5TgTt1EmI/edit?usp=sharing
+        title: Improving Rails scalability using modularity with enforced boundaries
+      - type: link
+        url: https://robertfaldo.medium.com/improving-rails-scalability-using-the-modular-monolith-approach-with-enforced-boundaries-f8cea89e85b9
+        title: Blog post on "Improving Rails scalability using modularity with enforced
+          boundaries"
 august:
   building-startups-with-ruby-on-rails:
     title: 10 years on - building startups with Ruby on Rails
@@ -285,10 +285,10 @@ august:
         url: https://twitter.com/t_blom
     custom_intro: "from [Generation Home](https://www.generationhome.com):"
     coverage:
-    - type: video
-      url: https://assets.lrug.org/videos/2021/august/tom-blomfield-10-years-on-building-startups-with-ruby-on-rails-lrug-aug-2021.mp4
-      title: LRUG August 2021 - Tom Blomfield - 10 years on - building startups with
-        Ruby on Rails
+      - type: video
+        url: https://assets.lrug.org/videos/2021/august/tom-blomfield-10-years-on-building-startups-with-ruby-on-rails-lrug-aug-2021.mp4
+        title: LRUG August 2021 - Tom Blomfield - 10 years on - building startups with
+          Ruby on Rails
   do-regexp-dream-of-turing-completeness:
     title: Do regex dream of Turing Completeness?
     description: |-
@@ -308,9 +308,9 @@ august:
       name: Daniel Magliola
       url: https://twitter.com/dmagliola
     coverage:
-    - type: video
-      url: https://assets.lrug.org/videos/2021/august/daniel-magliola-do-regex-dream-of-turing-completeness-lrug-aug-2021.mp4
-      title: LRUG August 2021 - Daniel Magliola - Do regex dream of Turing Completeness?
+      - type: video
+        url: https://assets.lrug.org/videos/2021/august/daniel-magliola-do-regex-dream-of-turing-completeness-lrug-aug-2021.mp4
+        title: LRUG August 2021 - Daniel Magliola - Do regex dream of Turing Completeness?
 september:
   how-to-use-flamegraphs-to-find-performance-problems:
     title: How to use flamegraphs to find performance problems
@@ -322,8 +322,10 @@ september:
       > problems. You’ll enjoy this talk if you know you have slow areas in your
       > Ruby application\*, and would like to learn how to find the code responsible.
 
-      You can find out more about what you need to prepare for the workshop via [Jade's
-      mailing list post about it](http://lists.lrug.org/pipermail/chat-lrug.org/2021-September/025800.html).
+      You can find out more about what you need to prepare for the workshop via [Jade's mailing
+      list post about it][mailing-list-post].
+
+      [mailing-list-post]: http://lists.lrug.org/pipermail/chat-lrug.org/2021-September/025800.html
     speaker:
       name: Jade Dickinson
       url: https://twitter.com/_jadedickinson
@@ -348,23 +350,23 @@ october:
       [solargraph-rails](https://github.com/iftheshoefritz/solargraph-rails)
       plugin and wants to tell us all about it:
     coverage:
-    - type: video
-      url: https://assets.lrug.org/videos/2021/october/fritz-meissner-your-editor-language-server-protocol-and-solargraph-lrug-oct-2021.mp4
-      title: LRUG October 2021 - Fritz Meissner - Your editor, Language Server Protocol,
-        and Solargraph
-    - type: slides
-      url: http://iftheshoefritz.com/lsp/intellisense/solargraph/lrug/2021/10/11/lrug-solargraph.html
-      title: If The Shoe Fritz - Solargraph talk at LRUG October 2021
-    - type: write-up
-      url: http://iftheshoefritz.com/lsp/intellisense/solargraph/2021/07/24/conversation-editor-lsp.html
-      title: If The Shoe Fritz - A conversation between your editor and a language
-        server
-    - type: code
-      url: https://github.com/iftheshoefritz/solargraph-rails
-      title: The solargraph-rails plugin
-    - type: code
-      url: https://github.com/castwide/solargraph
-      title: The solargraph project
+      - type: video
+        url: https://assets.lrug.org/videos/2021/october/fritz-meissner-your-editor-language-server-protocol-and-solargraph-lrug-oct-2021.mp4
+        title: LRUG October 2021 - Fritz Meissner - Your editor, Language Server Protocol,
+          and Solargraph
+      - type: slides
+        url: http://iftheshoefritz.com/lsp/intellisense/solargraph/lrug/2021/10/11/lrug-solargraph.html
+        title: If The Shoe Fritz - Solargraph talk at LRUG October 2021
+      - type: write-up
+        url: http://iftheshoefritz.com/lsp/intellisense/solargraph/2021/07/24/conversation-editor-lsp.html
+        title: If The Shoe Fritz - A conversation between your editor and a language
+          server
+      - type: code
+        url: https://github.com/iftheshoefritz/solargraph-rails
+        title: The solargraph-rails plugin
+      - type: code
+        url: https://github.com/castwide/solargraph
+        title: The solargraph project
   how-denormalizing-our-postgres-turned-great:
     title: How denormalizing our Postgres turned great
     description: |-
@@ -385,10 +387,10 @@ october:
       [Pennylane](https://www.pennylane.com) is going to tell us all about
       optimising their postgresql db:
     coverage:
-    - type: video
-      url: https://assets.lrug.org/videos/2021/october/thierry-deo-how-denormalizing-our-postgres-turned-great-lrug-oct-2021.mp4
-      title: LRUG October 2021 - Thierry Deo - How denormalizing our Postgres turned
-        great
+      - type: video
+        url: https://assets.lrug.org/videos/2021/october/thierry-deo-how-denormalizing-our-postgres-turned-great-lrug-oct-2021.mp4
+        title: LRUG October 2021 - Thierry Deo - How denormalizing our Postgres turned
+          great
   memoization-my-favourite-antipattern:
     title: 'Memoization: My Favourite Antipattern'
     description: |-
@@ -401,9 +403,9 @@ october:
       name: Joel Biffin
       url: https://github.com/joelbiffin/
     coverage:
-    - type: video
-      url: https://assets.lrug.org/videos/2021/october/joel-biffin-memoization-my-favourite-antipattern-lrug-oct-2021.mp4
-      title: 'LRUG October 2021 - Joel Biffin - Memoization: My Favourite Antipattern'
+      - type: video
+        url: https://assets.lrug.org/videos/2021/october/joel-biffin-memoization-my-favourite-antipattern-lrug-oct-2021.mp4
+        title: 'LRUG October 2021 - Joel Biffin - Memoization: My Favourite Antipattern'
 november:
   failing-better-with-load-shedding-and-deadline-propagation-across-services:
     title: Failing better w/ Load Shedding & Deadline Propagation across services
@@ -414,18 +416,22 @@ november:
       Implementing load-shedding and deadline propagation across your services
       is a technique which can help you provide a more resilient service to
       your customers. This talk will introduce some of the concepts explored
-      in [CGA1123/loadshedding-experiment-ruby](https://github.com/CGA1123/loadshedding-experiment-ruby)
-      & [CGA1123/shed](https://github.com/CGA1123/shed).
+      in [CGA1123/loadshedding-experiment-ruby][experiment]
+      & [CGA1123/shed][shed].
+
+      [experiment]: https://github.com/CGA1123/loadshedding-experiment-ruby
+      [shed]: https://github.com/CGA1123/shed
     speaker:
       name: Christian Gregg
       url: https://twitter.com/CGA1123
     coverage:
-    - type: video
-      title: "LRUG November 2021 - Christian Gregg - Failing better with Load Shedding & Deadline Propagation across services"
-      url: https://assets.lrug.org/videos/2021/november/christian-gregg-failing-better-with-load-shedding-and-deadline-propagation-across-services-lrug-nov-2021.mp4
-    - type: slides
-      title: "Failing better with Load Shedding & Deadline Propagation across services"
-      url: https://github.com/lrug/lrug.org/files/7529520/presentation.pdf
+      - type: video
+        title: "LRUG November 2021 - Christian Gregg - Failing better with Load Shedding & Deadline
+          Propagation across services"
+        url: https://assets.lrug.org/videos/2021/november/christian-gregg-failing-better-with-load-shedding-and-deadline-propagation-across-services-lrug-nov-2021.mp4
+      - type: slides
+        title: "Failing better with Load Shedding & Deadline Propagation across services"
+        url: https://github.com/lrug/lrug.org/files/7529520/presentation.pdf
   why-rails-is-still-relevant-for-startups-in-2021:
     title: Why Rails is still relevant for startups in 2021
     description: |-
@@ -440,13 +446,13 @@ november:
       name: Chris Parsons
       url: https://twitter.com/chrismdp
     coverage:
-    - type: video
-      title: LRUG November 2021 - Chris Parsons - Why Rails is still relevant for
-        startups in 2021
-      url: https://assets.lrug.org/videos/2021/november/chris-parsons-why-rails-is-still-relevant-for-startups-in-2021-lrug-nov-2021.mp4
-    - type: slides
-      title: Why Rails is still relevant for startups in 2021
-      url: https://speakerdeck.com/chrismdp/why-rails-is-still-relevant-for-startups-in-2021
+      - type: video
+        title: LRUG November 2021 - Chris Parsons - Why Rails is still relevant for
+          startups in 2021
+        url: https://assets.lrug.org/videos/2021/november/chris-parsons-why-rails-is-still-relevant-for-startups-in-2021-lrug-nov-2021.mp4
+      - type: slides
+        title: Why Rails is still relevant for startups in 2021
+        url: https://speakerdeck.com/chrismdp/why-rails-is-still-relevant-for-startups-in-2021
   service-objects-and-domain-objects-differences:
     title: Service Objects and Domain objects differences
     description: |-
@@ -458,10 +464,10 @@ november:
       name: Patricia Cupueran
       url: https://twitter.com/pa1809ty
     coverage:
-    - type: video
-      title: LRUG November 2021 - Patricia Cupueran - Service Objects and Domain Objects
-        differences
-      url: https://assets.lrug.org/videos/2021/november/patricia-cupueran-service-objects-and-domain-objects-differences-lrug-nov-2021.mp4
+      - type: video
+        title: LRUG November 2021 - Patricia Cupueran - Service Objects and Domain Objects
+          differences
+        url: https://assets.lrug.org/videos/2021/november/patricia-cupueran-service-objects-and-domain-objects-differences-lrug-nov-2021.mp4
 december:
   enough-coverage-to-beat-the-band:
     title: Enough coverage to beat the band
@@ -475,15 +481,15 @@ december:
       name: Kevin Murphy
       url: https://twitter.com/kevin_j_m
     coverage:
-    - type: video
-      title: LRUG December 2021 - Kevin Murphy - Enough coverage to beat the band
-      url: https://assets.lrug.org/videos/2021/december/kevin-murphy-enough-coverage-to-beat-the-band-lrug-dec-2021.mp4
-    - type: link
-      url: https://kevinjmurphy.com/coverage
-      title: Presentation Resources
-    - type: link
-      url: https://dev.to/kevin_j_m/rubys-got-you-covered-2c6k
-      title: 'Blog post: Ruby''s Got You Covered'
+      - type: video
+        title: LRUG December 2021 - Kevin Murphy - Enough coverage to beat the band
+        url: https://assets.lrug.org/videos/2021/december/kevin-murphy-enough-coverage-to-beat-the-band-lrug-dec-2021.mp4
+      - type: link
+        url: https://kevinjmurphy.com/coverage
+        title: Presentation Resources
+      - type: link
+        url: https://dev.to/kevin_j_m/rubys-got-you-covered-2c6k
+        title: 'Blog post: Ruby''s Got You Covered'
   when-activerecord-meets-cte:
     title: When ActiveRecord meets CTE!?
     description: |-
@@ -495,9 +501,9 @@ december:
       name: Johnson Zhan
       url: https://twitter.com/johnsonzhan121
     coverage:
-    - type: video
-      title: LRUG December 2021 - Johnson Zhan - When ActiveRecord meets CTE!?
-      url: https://assets.lrug.org/videos/2021/december/johnson-zhan-when-activerecord-meets-cte-lrug-dec-2021.mp4
+      - type: video
+        title: LRUG December 2021 - Johnson Zhan - When ActiveRecord meets CTE!?
+        url: https://assets.lrug.org/videos/2021/december/johnson-zhan-when-activerecord-meets-cte-lrug-dec-2021.mp4
   finding-hiring-and-onboarding-junior-ruby-developers:
     title: Finding, hiring and onboarding junior Ruby developers
     description: |-
@@ -511,10 +517,10 @@ december:
       name: Alex Balhatchet
       url: https://twitter.com/kaokun
     coverage:
-    - type: video
-      title: LRUG December 2021 - Alex Balhatchet - Finding, Hiring and onboarding
-        junior Ruby developers
-      url: https://assets.lrug.org/videos/2021/december/alex-balhatchet-finding-hiring-and-onboarding-junior-ruby-developers-lrug-dec-2021.mp4
-    - type: slides
-      title: Finding, Hiring and onboarding junior Ruby developers
-      url: https://alex.balhatchet.net/slides/2021-12-13-Hiring-Junior-Ruby-Devs.pdf
+      - type: video
+        title: LRUG December 2021 - Alex Balhatchet - Finding, Hiring and onboarding
+          junior Ruby developers
+        url: https://assets.lrug.org/videos/2021/december/alex-balhatchet-finding-hiring-and-onboarding-junior-ruby-developers-lrug-dec-2021.mp4
+      - type: slides
+        title: Finding, Hiring and onboarding junior Ruby developers
+        url: https://alex.balhatchet.net/slides/2021-12-13-Hiring-Junior-Ruby-Devs.pdf

@@ -55,7 +55,8 @@ february:
   10-years-of-rspec-in-10-minutes:
     title: "10 years of RSpec in 10 minutes"
     custom_intro: "will share"
-    description: "A brief look into the history of [RSpec](https://rspec.info) and a glance into the future."
+    description: |-
+      A brief look into the history of [RSpec](https://rspec.info) and a glance into the future.
     speaker:
       name: "Jon Rowe"
       url: "https://jonrowe.co.uk"
@@ -119,7 +120,8 @@ february:
       url: "https://kurtov.pro/"
     coverage:
       - type: video
-        title: "LRUG February 2025 - Yevhenii Kurtov - Beyond current state: Capturing how and why things changed"
+        title: "LRUG February 2025 - Yevhenii Kurtov - Beyond current state: Capturing how and why
+          things changed"
         url: https://assets.lrug.org/videos/2025/february/yevhenii-kurtov-beyond-current-state-capturing-how-and-why-things-changed-lrug-feb-2025.mp4
 
   self-assessing-against-the-web-sustainability-guidelines:
@@ -134,7 +136,8 @@ february:
       url: "https://floppy.org.uk"
     coverage:
       - type: video
-        title: LRUG February 2025 - James Smith - Self-assessing against the Web Sustainability Guidelines
+        title: LRUG February 2025 - James Smith - Self-assessing against the Web Sustainability
+          Guidelines
         url: https://assets.lrug.org/videos/2025/february/james-smith-self-assessing-against-the-web-sustainability-guidelines-lrug-feb-2025.mp4
 
 march:
@@ -165,7 +168,8 @@ march:
       to the next level.
     coverage:
       - type: video
-        title: LRUG March 2025 - Hemal Varambhia - Unlocking the awesome power of refactoring at work
+        title: LRUG March 2025 - Hemal Varambhia - Unlocking the awesome power of refactoring
+          at work
         url: https://assets.lrug.org/videos/2025/march/hemal-varambhia-unlocking-the-awesome-power-of-refactoring-at-work-lrug-mar-2025.mp4
       - type: slides
         title: “Unlocking the awesome power of refactoring at work” by Hemal Varambhia
@@ -210,7 +214,8 @@ april:
       they happen in production.
     coverage:
       - type: video
-        title: LRUG April 2025 - Mario Gintili - AI has many applications in our industry, we are just getting started
+        title: LRUG April 2025 - Mario Gintili - AI has many applications in our industry, we are
+          just getting started
         url: https://assets.lrug.org/videos/2025/april/mario-gintili-ai-has-many-applications-in-our-industry-we-are-just-getting-started-lrug-apr-2025.mp4
 
 may:
@@ -250,10 +255,13 @@ may:
       name: "Lorenzo Barasti"
       url: https://lbarasti.com/
     description: |-
-      A no-nonsense exploration of integrating LLM capabilities into Ruby applications using ruby_llm and similar libraries, highlighting real-world use cases without the Silicon Valley hyperbole.
+      A no-nonsense exploration of integrating LLM capabilities into Ruby applications using
+      ruby_llm and similar libraries, highlighting real-world use cases without the Silicon
+      Valley hyperbole.
     coverage:
       - type: video
-        title: "LRUG May 2025 - Lorenzo Barasti - Practical AI in Ruby: What LLMs Can (and Can’t) Do For Your Projects Today"
+        title: "LRUG May 2025 - Lorenzo Barasti - Practical AI in Ruby: What LLMs Can (and Can’t)
+          Do For Your Projects Today"
         url: https://assets.lrug.org/videos/2025/may/lorenzo-barasti-practical-ai-in-ruby-what-llms-can-and-cant-do-for-your-projects-today-may-2025.mp4
 
 june:
@@ -308,7 +316,8 @@ august:
       `ActiveJob` methods.
     coverage:
       - type: video
-        title: "LRUG August 2025 - Julik Tarkhanov - stepper_motor: effortless long-running workflows for Rails"
+        title: "LRUG August 2025 - Julik Tarkhanov - stepper_motor: effortless long-running
+          workflows for Rails"
         url: https://assets.lrug.org/videos/2025/august/julik-tarkhanov-stepper-motor-effortless-long-running-workflows-for-rails-lrug-aug-2025.mp4
 
   no-browser-required:
@@ -331,7 +340,8 @@ august:
       * What OpenGraph images are and how they can help you go viral 🦋
     coverage:
       - type: video
-        title: "LRUG August 2025 - James Edwards-Jones - No browser required: Dynamic OpenGraph images with Rails and Rust"
+        title: "LRUG August 2025 - James Edwards-Jones - No browser required: Dynamic OpenGraph
+          images with Rails and Rust"
         url: https://assets.lrug.org/videos/2025/august/james-edwards-jones-no-browser-required-dynamic-opengraph-images-with-rails-and-rust-lrug-aug-2025.mp4
 
 september:
@@ -341,7 +351,11 @@ september:
       name: Karl Lingiah
       url: https://developer.vonage.com/en/blog/authors/karl-lingiah
     description: |-
-      As Ruby developers we all rely on the vast RubyGem ecosystem, but as gem users we're not necessarily aware of everything that goes into maintaining the gems that make up that ecosystem. When I became a developer advocate at Vonage, I went from gem user to gem maintainer overnight. In this talk I would like to share that journey, and some of the lessons I learned along the way.
+      As Ruby developers we all rely on the vast RubyGem ecosystem, but as gem users we're not
+      necessarily aware of everything that goes into maintaining the gems that make up that
+      ecosystem. When I became a developer advocate at Vonage, I went from gem user to gem
+      maintainer overnight. In this talk I would like to share that journey, and some of the
+      lessons I learned along the way.
     coverage:
       - type: video
         title: "LRUG September 2025 - Karl Lingiah - Inheriting Gems"
@@ -353,11 +367,15 @@ september:
       name: Joel Chippindale
       url: https://monkeysthumb.co.uk/
     description: |-
-      Imagine the following situation. You disagree with your colleague (or your manager) but are unable to change their minds. You feel stuck and frustrated. The only options you feel you have available are to repeat your argument more forcefully or give up. Neither feels like a good option.
+      Imagine the following situation. You disagree with your colleague (or your manager) but are
+      unable to change their minds. You feel stuck and frustrated. The only options you feel you
+      have available are to repeat your argument more forcefully or give up. Neither feels like a
+      good option.
 
       Does this situation sound familiar to you?
 
-      In this talk, we will explore how to get unstuck, have more effective discussions with your colleagues, and increase your influence.
+      In this talk, we will explore how to get unstuck, have more effective discussions with your
+      colleagues, and increase your influence.
     coverage:
       - type: video
         title: "LRUG September 2025 - Joel Chippindale - Get on the same side of the table"
@@ -373,7 +391,10 @@ october:
       name: Harry Lascelles
       url: https://github.com/hlascelles
     description: |-
-      An exploration into the world of Software Versioning, with an emphasis on the RubyGems ecosystem. This talk will cover extreme real-world examples from Rubyland and beyond, including code examples, footguns and award winners, as well as tips for developers navigating version management. It will get quite technical, so bring your regex hard hat.
+      An exploration into the world of Software Versioning, with an emphasis on the RubyGems
+      ecosystem. This talk will cover extreme real-world examples from Rubyland and beyond,
+      including code examples, footguns and award winners, as well as tips for developers
+      navigating version management. It will get quite technical, so bring your regex hard hat.
     coverage:
       - type: video
         title: "LRUG October 2025 - Harry Lascelles - Extreme versioning"
@@ -384,7 +405,10 @@ october:
       name: Josh Bebbington
       url: https://joshbebbington.com/
     description: |-
-      The Global VM Lock is one of Ruby’s more mysterious 'under the hood' features. This talk explores new ways to peer inside it, using Ruby's modern instrumentation to reveal how it actually performs work. I'll demonstrate how we've applied those learnings at Carwow, to optimise the performance and reliability of our Sidekiq workers.
+      The Global VM Lock is one of Ruby’s more mysterious 'under the hood' features. This talk
+      explores new ways to peer inside it, using Ruby's modern instrumentation to reveal how it
+      actually performs work. I'll demonstrate how we've applied those learnings at Carwow, to
+      optimise the performance and reliability of our Sidekiq workers.
     coverage:
       - type: video
         title: "LRUG October 2025 - Josh Bebbington - Demystifying the GVL"
@@ -392,15 +416,17 @@ october:
 
 november:
   durable-messaging-and-related-patterns:
-    title: "Durable messaging and related patterns in Ruby, for fun and profit. But mostly just fun."
+    title: Durable messaging and related patterns in Ruby, for fun and profit. But mostly just fun.
     speaker:
       name: "Ismael Celis"
       url: https://ismaelcelis.com/
     description: |-
-      I’ll explore how architecting Ruby apps around a durable message log enables different patterns, from asynchronous processing, to event sourcing and durable execution
+      I’ll explore how architecting Ruby apps around a durable message log enables different
+      patterns, from asynchronous processing, to event sourcing and durable execution
     coverage:
       - type: video
-        title: "LRUG November 2025 - Ismael Celis - Durable messaging and related patterns in Ruby, for fun and profit. But mostly just fun."
+        title: "LRUG November 2025 - Ismael Celis - Durable messaging and related patterns in Ruby,
+          for fun and profit. But mostly just fun."
         url: https://assets.lrug.org/videos/2025/november/ismael-celis-durable-messaging-and-related-patterns-for-fun-and-profit-lrug-nov-2025.mp4
   how-do-you-solve-a-problem-like-dhh:
     title: "How do you solve a problem like DHH?"
@@ -408,11 +434,15 @@ november:
       name: James Smith
       url: https://mastodon.me.uk/@Floppy
     description: |-
-      In September, DHH, the creator of Rails and community figurehead, wrote a factually incorrect post bemoaning the state of London these days, claiming that it’s no longer “native British”, and promoting far right agitator Tommy Robinson.
+      In September, DHH, the creator of Rails and community figurehead, wrote a factually incorrect
+      post bemoaning the state of London these days, claiming that it’s no longer “native British”,
+      and promoting far right agitator Tommy Robinson.
 
-      At a time when the far right is rising in the UK, is this the figurehead our community needs? Can we separate technology and political views? Should we?
+      At a time when the far right is rising in the UK, is this the figurehead our community needs?
+      Can we separate technology and political views? Should we?
 
-      This is less of a talk, and more of an opportunity for discussion - does something need to change, and if so, how? And if not, what does that mean for the Ruby and Rails communities?
+      This is less of a talk, and more of an opportunity for discussion - does something need to
+      change, and if so, how? And if not, what does that mean for the Ruby and Rails communities?
     coverage:
       - type: video
         title: "LRUG November 2025 - James Smith - How do you solve a problem like DHH?"
@@ -427,13 +457,22 @@ december:
     description: |-
       This will be a quirky dive into the rudiments of virtual machine and emulator implementation.
 
-      When you're working with Ruby you’re relying on a software machine written by a small but dedicated team of virtual machine enthusiasts. And unless you’ve taken a course in programming language implementation you probably have only a loose idea of what this is, how it works, or how easy it is to write your own machines.
+      When you're working with Ruby you’re relying on a software machine written by a small but
+      dedicated team of virtual machine enthusiasts. And unless you’ve taken a course in
+      programming language implementation you probably have only a loose idea of what this is, how
+      it works, or how easy it is to write your own machines.
 
-      In this fast-paced introduction I’ll use code written in Ruby to explain the basic building-blocks with which we can model computing machines in software, covering as many of the main architectural features as possible in the time: stacks; heaps; dispatchers; clocks; registers; instruction sets.
+      In this fast-paced introduction I’ll use code written in Ruby to explain the basic
+      building-blocks with which we can model computing machines in software, covering as many of
+      the main architectural features as possible in the time: stacks; heaps; dispatchers; clocks;
+      registers; instruction sets.
 
       Then I'll put them to a somewhat different use than you might expect.
 
-      This talk contains a lot of code (possibly including a smidgeon of gnarly C) but regardless of you current skill level it will reveal a little of the magic which makes tools like Ruby possible. The examples should also be sufficient to kickstart your own adventures in this fascinating field.
+      This talk contains a lot of code (possibly including a smidgeon of gnarly C) but regardless
+      of you current skill level it will reveal a little of the magic which makes tools like Ruby
+      possible. The examples should also be sufficient to kickstart your own adventures in this
+      fascinating field.
     coverage:
       - type: slides
         title: Implementing Software Machines in Ruby [Rough Cut]
@@ -444,4 +483,6 @@ december:
       name: "Yevhenii Kurtov"
       url: "https://www.linkedin.com/in/kurtov/"
     description: |-
-      We'll spend our time interactively solving a distributed systems design challenge that will gradually grow in complexity, taking participants on a journey to discover the golden rule of distributed systems design: think globally, act locally.
+      We'll spend our time interactively solving a distributed systems design challenge that will
+      gradually grow in complexity, taking participants on a journey to discover the golden rule
+      of distributed systems design: think globally, act locally.

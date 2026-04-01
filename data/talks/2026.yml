@@ -6,9 +6,13 @@ january:
       name: "Stephen Creedon"
       url: "https://www.linkedin.com/in/stephen-creedon-7670563/"
     description: |-
-      Rails lost its way during versions 4, 5, and 6 - becoming overly complex and slow as it leaned heavily into JavaScript. But the story doesn’t end there. With Rails 8.1 introducing features like Stimulus, Action Cable, and Solid Cable, the framework is returning to its roots: simplicity, speed, and developer joy.
+      Rails lost its way during versions 4, 5, and 6 - becoming overly complex and slow as it
+      leaned heavily into JavaScript. But the story doesn’t end there. With Rails 8.1 introducing
+      features like Stimulus, Action Cable, and Solid Cable, the framework is returning to its
+      roots: simplicity, speed, and developer joy.
 
-      Join us for a deep dive into why Rails has its mojo back and what this means for the future of Ruby development
+      Join us for a deep dive into why Rails has its mojo back and what this means for the future
+      of Ruby development
     coverage:
       - type: video
         title: LRUG January 2026 - Stephen Creedon - Rails Was Off the Rails But It’s Back!
@@ -19,9 +23,14 @@ january:
       name: Sebastian Siemianowski
       url: https://www.linkedin.com/in/sebastian-siemianowski-3a317338/
     description: |-
-      In this talk, Sebastian will dive into RSpec as a craft — showing how thoughtful test design can make refactoring less terrifying. You’ll see real-world examples of transforming low-signal specs into readable, behaviour-driven tests, and learn how Junie, an IDE-native AI assistant, can act as a second pair of eyes to improve naming, structure, and guarantees.
+      In this talk, Sebastian will dive into RSpec as a craft — showing how thoughtful test
+      design can make refactoring less terrifying. You’ll see real-world examples of
+      transforming low-signal specs into readable, behaviour-driven tests, and learn how Junie, an
+      IDE-native AI assistant, can act as a second pair of eyes to improve naming, structure, and
+      guarantees.
 
-      This is a practical, opinionated look at using AI to support test quality—while keeping human judgment firmly in control.
+      This is a practical, opinionated look at using AI to support test quality—while keeping
+      human judgment firmly in control.
 
       Why join?
 
@@ -36,9 +45,13 @@ february:
       name: "Niall Mullally"
       url: "https://uk.linkedin.com/in/niall-mullally-5a34834"
     description: |-
-      At [BBB](https://www.british-business-bank.co.uk/), we use feature flags extensively in one of our Rails applications.
+      At [BBB](https://www.british-business-bank.co.uk/), we use feature flags extensively in one
+      of our Rails applications.
 
-      Removing fully rolled-out feature flags is always a chore that’s easy to ignore and eventually becomes a source of tech debt. In the talk, I’ll show how we use GitHub Actions and GitHub Copilot to automatically generate PRs that remove obsolete flags and their associated code paths.
+      Removing fully rolled-out feature flags is always a chore that’s easy to ignore and
+      eventually becomes a source of tech debt. In the talk, I’ll show how we use GitHub Actions
+      and GitHub Copilot to automatically generate PRs that remove obsolete flags and their
+      associated code paths.
     coverage:
       - type: video
         title: LRUG February 2026 - Niall Mullally - Automating Feaure Flag Cleanup with AI
@@ -50,10 +63,12 @@ february:
       name: Lorenzo Barasti
       url: "https://lbarasti.com/"
     description: |-
-      An overview of [TruffleRuby](https://truffleruby.dev)’s latest release and some of the perks of running on [GraalVM](https://www.graalvm.org)
+      An overview of [TruffleRuby](https://truffleruby.dev)’s latest release and some of the
+      perks of running on [GraalVM](https://www.graalvm.org)
     coverage:
       - type: video
-        title: LRUG February 2026 - Lorenzo Barasti - Why you might like some Truffle with your Ruby
+        title: LRUG February 2026 - Lorenzo Barasti - Why you might like some Truffle with your
+          Ruby
         url: https://assets.lrug.org/videos/2026/february/lorenzo-barasti-why-you-might-like-some-truffle-with-your-ruby-lrug-feb-2026.mp4
       - type: slides
         title: "Some truffle with your ruby"
@@ -71,10 +86,13 @@ february:
       name: Scott Matthewman
       url: "https://about.me/scottmatthewman"
     description: |-
-      A lightning talk about how we are replacing an all-consuming User object with domain-specific roles, delegated types and a smattering of metaprogramming – presented with a 1950s B-movie vibe
+      A lightning talk about how we are replacing an all-consuming User object with domain-specific
+      roles, delegated types and a smattering of metaprogramming – presented with a 1950s B-movie
+      vibe
     coverage:
       - type: video
-        title: LRUG February 2026 - Scott Matthewman - THE BLOB MUST DIE! - How we destroyed a 1400-line monster
+        title: LRUG February 2026 - Scott Matthewman - THE BLOB MUST DIE! - How we destroyed a
+          1400-line monster
         url: https://assets.lrug.org/videos/2026/february/scott-matthewman-the-blob-must-die-how-we-destroyed-a-1400-line-monster-lrug-feb-2026.mp4
 
   junior-developers-need-your-help:
@@ -83,7 +101,8 @@ february:
       name: David Smith
       url: "https://www.linkedin.com/in/davidsmith7/"
     description: |-
-      Raising awareness on how the junior/graduate developer market has collapsed.  - not sure on this yet, will probably be more apparent as I write it.
+      Raising awareness on how the junior/graduate developer market has collapsed - not sure on
+      this yet, will probably be more apparent as I write it.
     coverage:
       - type: video
         title: LRUG February 2026 - David Smith - Junior Developers need your help
@@ -113,7 +132,8 @@ february:
       A quick peek at one of my research projects and why Sinatra is a great tool for prototyping.
     coverage:
       - type: video
-        title: "LRUG February 2026 - Eleanor McHugh - Shayk.online - anonymous chat with Sinatra and websockets"
+        title: "LRUG February 2026 - Eleanor McHugh - Shayk.online - anonymous chat with Sinatra
+          and websockets"
         url: https://assets.lrug.org/videos/2026/february/eleanor-mchugh-shayk-online-anonymous-chat-with-sinatra-and-websockets-lrug-feb-2026.mp4
       - type: slides
         title: "Slideshare - Shayk.online - anonymous chat with Sinatra and websockets"
@@ -126,11 +146,16 @@ march:
       name: Andy Walker
       url: https://www.linkedin.com/in/andrew-w-7332b7117/
     description: |-
-      In this talk I'll compare today's AI moment to past tech S-curves, and argue it's not only a toolset change that's required (learning to code agentically) but a deeper change in how we work.
+      In this talk I'll compare today's AI moment to past tech S-curves, and argue it's not only a
+      toolset change that's required (learning to code agentically) but a deeper change in how we
+      work.
 
-      I'll cover the mindset and capability shifts this demands: outcome ownership, faster feedback loops, more autonomy. I'll cover what engineers can do to meet the moment.
+      I'll cover the mindset and capability shifts this demands: outcome ownership, faster feedback
+      loops, more autonomy. I'll cover what engineers can do to meet the moment.
 
-      I'll also share how this is changing the way I think about hiring and scaling teams: what signals matter now, and how we're adapting interview loops to find people who thrive in an agentic world
+      I'll also share how this is changing the way I think about hiring and scaling teams: what
+      signals matter now, and how we're adapting interview loops to find people who thrive in an
+      agentic world
 
   rag-on-rails:
     title: "RAG on Rails"
@@ -140,7 +165,9 @@ march:
     description: |-
       A brief guide to building out a retrieval augmented generation system on Rails.
 
-      We'll cover some of the basic (chunking, embeddings) and some not so basic things (why bother re-ranking). You'll come away with an understanding of the different moving parts of a RAG system and some tactical recommendations of gems and services to use.
+      We'll cover some of the basic (chunking, embeddings) and some not so basic things (why bother
+      re-ranking). You'll come away with an understanding of the different moving parts of a RAG
+      system and some tactical recommendations of gems and services to use.
 
 april:
   the-hottest-new-programming-language-is-ubiquitous-within-a-bounded-context-window:
@@ -153,10 +180,12 @@ april:
 
       This talk is a continuation of the one I gave at LRUG in March 2025.
 
-      Later that year I really started to reap the benefits of DDD and Ports and Adapters: refining the programmer tests (no more Docker for unit tests!) and bringing the ubiquitous language to life,
-      which made writing tests cheap, and more importantly, fun.
+      Later that year I really started to reap the benefits of DDD and Ports and Adapters: refining
+      the programmer tests (no more Docker for unit tests!) and bringing the ubiquitous language to
+      life, which made writing tests cheap, and more importantly, fun.
 
-      Towards the end of 2025, I gave in to FOMO and started exploring AI-assisted programming. I was particularly interested to see if it was now possible to prompt the LLM entirely in the ubiquitous language and produce well-structured code.
+      Towards the end of 2025, I gave in to FOMO and started exploring AI-assisted programming. I
+      was particularly interested to see if it was now possible to prompt the LLM entirely in the
+      ubiquitous language and produce well-structured code.
 
       Is the future of programming DDD's ubiquitous language?
-
