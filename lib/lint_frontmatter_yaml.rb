@@ -122,7 +122,8 @@ class LintFrontmatterYaml
   end
 
   def compile_ignore_glob
-    patterns = File.read(".gitignore") + File.read(".yamlignore")
+    yamllint_config = YAML.load_file(".yamllint")
+    patterns = [*yamllint_config["ignore-from-file"]].map { File.read it }.join
     negative_entries, positive_entries = patterns
       .lines
       .reject { it.starts_with? "#" }
