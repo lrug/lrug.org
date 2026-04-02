@@ -29,25 +29,97 @@ class LintFrontmatterYaml
 
   def main
     success = true
-    Dir.glob("source/**/*", File::FNM_EXTGLOB | File::FNM_DOTMATCH).each do |f|
-      next unless File.file? f
-      next unless starts_with_yaml? f
-      next if File.fnmatch? ignore_glob, f, File::FNM_EXTGLOB | File::FNM_DOTMATCH
+    map = {}
+    linestart = line = 1
+    output = ""
+    Open3.popen2("yamllint -") do |stdin, stdout_and_stderr, wait_thread|
+      Dir.glob("source/**/*", File::FNM_EXTGLOB | File::FNM_DOTMATCH).each do |f|
+        next unless File.file? f
+        next unless starts_with_yaml? f
+        next if File.fnmatch? ignore_glob, f, File::FNM_EXTGLOB | File::FNM_DOTMATCH
 
-      Open3.popen2("yamllint -") do |stdin, stdout_and_stderr, wait_thread|
+        print "."
         frontmatter = read_frontmatter(f)
         stdin << frontmatter
-        stdin.close
-        unless wait_thread.value.success?
-          puts stdout_and_stderr.read.gsub("stdin", f)
-          success = false
-        end
+        linestart = line
+        line += frontmatter.lines.size
+        map[linestart...line] = f
+      end
+      stdin.close
+      puts # newline after progress dots
+      unless wait_thread.value.success?
+        output = stdout_and_stderr.read
+        success = false
       end
     end
-    exit success
+    exit if success
+
+    puts rewrite_output(output, map)
+    exit false
   end
 
   private
+
+  def rewrite_output(...)
+    # These are the env vars that yamllint looks for to automatically output github annotation formatting:
+    # See: https://github.com/adrienverge/yamllint/blob/30a25fe087e31d0345be0ffed4360e4651a44b6e/yamllint/cli.py#L96-L97
+    if ENV.key?("GITHUB_ACTIONS") && ENV.key?("GITHUB_WORKFLOW")
+      rewrite_github_output(...)
+    else
+      rewrite_standard_output(...)
+    end
+  end
+
+  def rewrite_github_output(output, map)
+    rewritten = ["::group::Linting YAML frontmatter\n"]
+
+    # remove group / endgroup top + tail
+    current_file = [(-2..-1), "stdin"]
+    output.lines[1..-2].each do |line|
+      next if line.starts_with? "::endgroup::"
+      next if line.starts_with? "::group::"
+      next if line.blank?
+
+      md = line.match(/line=(\d+),col=(\d+)::(\d+):(\d+) /)
+      next if md.blank?
+
+      row = md[1].to_i
+      col = md[2].to_i
+      unless row == md[3].to_i && col == md[4].to_i
+        raise "What is going on?! line=x,col=y don't match ::x:y, row: #{row}, col:#{col}, line:#{line}"
+      end
+
+      current_file = find_file_for_row(row, map) unless current_file.first.cover? row
+
+      translated_row = row.to_i - current_file.first.first + 1
+      rewritten << line.gsub("file=stdin,line=#{row},col=#{col}::#{row}:#{col} ",
+                             "file=#{current_file.last},line=#{translated_row},col=#{col}::#{translated_row}:#{col} ",)
+    end
+
+    rewritten << "::endgroup::\n"
+    rewritten.join
+  end
+
+  def rewrite_standard_output(output, map)
+    rewritten = []
+
+    current_file = [(-2..-1), "stdin"]
+    output.lines[1..].each do |line|
+      next if line.blank?
+
+      location = line.split.first
+      row, col = location.split(":").map &:to_i
+      unless current_file.first.cover? row
+        current_file = find_file_for_row(row, map)
+        rewritten << "\n" unless rewritten.empty?
+        rewritten << "#{current_file.last}\n"
+      end
+      translated_row = row.to_i - current_file.first.first + 1
+      rewritten << line.gsub(location, "#{translated_row}:#{col}")
+    end
+
+    rewritten.join
+  end
 
   def compile_ignore_glob
     patterns = File.read(".gitignore") + File.read(".yamlignore")
@@ -83,6 +155,14 @@ class LintFrontmatterYaml
     paths = paths.map { [it.delete_suffix("/"), "#{it.delete_suffix('/')}/**"] } if path.ends_with? "/"
 
     paths.join(",")
+  end
+
+  def find_file_for_row(row, map)
+    while (file = map.shift)
+      break if file.nil?
+      return file if file.first.cover? row
+    end
+    raise "Can't find file to cover line #{row} in remainig map: #{map}"
   end
 end
 
