@@ -29,6 +29,10 @@ jobs:
           pip install yamllint
           yamllint . --format github
 
+      - name: Yaml Frontmatter Lint
+        run: |
+          bundle exec ruby ./lib/lint_frontmatter_yaml.rb
+
       - name: Middleman Build
         run: |
           export TERM=xterm
