@@ -13,5 +13,8 @@
 
 /.capistrano
 
+# Ignore vendor files installed on CI
+/vendor
+
 # Ignore scraped coverage file
 /data/coverage/scraped_coverage.yml
