@@ -71,7 +71,7 @@ class LintFrontmatterYaml
   end
 
   def rewrite_github_output(output, map)
-    rewritten = ["::group::Linting YAML frontmatter\n"]
+    rewritten = []
 
     # remove group / endgroup top + tail
     current_file = [(-2..-1), "stdin"]
@@ -89,11 +89,18 @@ class LintFrontmatterYaml
         raise "What is going on?! line=x,col=y don't match ::x:y, row: #{row}, col:#{col}, line:#{line}"
       end
 
-      current_file = find_file_for_row(row, map) unless current_file.first.cover? row
+      unless current_file.first.cover? row
+        current_file = find_file_for_row(row, map)
+        rewritten << "::endgroup::\n" unless rewritten.empty?
+        rewritten << "::group::./#{current_file.last}\n"
+      end
 
       translated_row = row.to_i - current_file.first.first + 1
-      rewritten << line.gsub("file=stdin,line=#{row},col=#{col}::#{row}:#{col} ",
-                             "file=#{current_file.last},line=#{translated_row},col=#{col}::#{translated_row}:#{col} ",)
+      rewritten << line
+        .gsub(
+          "file=stdin,line=#{row},col=#{col}::#{row}:#{col} ",
+          "file=./#{current_file.last},line=#{translated_row},col=#{col}::#{translated_row}:#{col} ",
+        )
     end
 
     rewritten << "::endgroup::\n"
