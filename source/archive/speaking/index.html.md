@@ -1,13 +1,13 @@
---- 
+---
 published_at: 2009-07-31 00:00:00 Z
-updated_by: 
+updated_by:
   email: murray.steele@gmail.com
   name: Murray Steele
 title: Speaking
 created_at: 2009-07-31 10:21:01 Z
 updated_at: 2013-11-12 21:52:39 Z
 status: Published
-created_by: 
+created_by:
   email: murray.steele@gmail.com
   name: Murray Steele
 ---

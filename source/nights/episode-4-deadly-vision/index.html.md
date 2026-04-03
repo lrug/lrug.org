@@ -1,10 +1,10 @@
---- 
+---
 published_at: 2007-09-26 06:43:11 Z
 title: "Episode #4: \"Deadly Vision\""
 created_at: 2007-09-26 13:40:57 Z
 updated_at: 2013-02-12 23:09:18 Z
 status: Published
-created_by: 
+created_by:
   email: ""
   name: Mitch Buchannon
 category: nights

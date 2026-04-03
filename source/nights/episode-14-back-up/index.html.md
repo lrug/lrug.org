@@ -1,10 +1,10 @@
---- 
+---
 published_at: 2009-02-18 14:35:22 Z
 title: "Episode #14: Back Up"
 created_at: 2009-02-18 22:34:55 Z
 updated_at: 2013-02-12 23:09:25 Z
 status: Published
-created_by: 
+created_by:
   email: ""
   name: Mitch Buchannon
 category: nights
@@ -16,9 +16,9 @@ Eddie Kramer's been blamed for a death, and he's come to me to help exonerate hi
 
 I'm going to be at The Chandos, near Lie-sester Square, next Wednesday night from around 6pm.
 
-02/25/2009 6:00pm  
-The Chandos  
-29 St Martins Lane, London  
+02/25/2009 6:00pm<br/>
+The Chandos<br/>
+29 St Martins Lane, London<br/>
 WC2N 4ER
 
 * [Upcoming event](http://upcoming.yahoo.com/event/1850763)

@@ -1,10 +1,10 @@
---- 
+---
 published_at: 2012-03-01 00:00:00 Z
 title: "Episode #21: A Closer Look"
 created_at: 2012-03-01 09:26:45 Z
 updated_at: 2013-02-12 23:09:35 Z
 status: Published
-created_by: 
+created_by:
   email: murray.steele@gmail.com
   name: Murray Steele
 category: nights

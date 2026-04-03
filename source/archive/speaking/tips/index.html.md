@@ -1,10 +1,10 @@
---- 
+---
 published_at: 2009-07-31 03:21:57 Z
 title: Tips For Speakers
 created_at: 2009-07-31 10:21:57 Z
 updated_at: 2013-02-12 23:09:27 Z
 status: Published
-created_by: 
+created_by:
   email: murray.steele@gmail.com
   name: Murray Steele
 ---
@@ -17,7 +17,7 @@ This time usually isn't how long your talk should be, but literally how much tim
 
 Our normal pattern is either two speakers with 40 minute time slots or three speakers with 25 minute time slots, although one-off meetings might be different.
 
-There might be time at the end of the meeting for all the speakers to answer questions about their talks. This depends on everyone under-running so don't rely on it.  If you expect questions factor that in to your talk and plan to leave time at the end of your time slot for them. 
+There might be time at the end of the meeting for all the speakers to answer questions about their talks. This depends on everyone under-running so don't rely on it.  If you expect questions factor that in to your talk and plan to leave time at the end of your time slot for them.
 
 Slides
 ------
@@ -37,6 +37,6 @@ Don't rely on WIFI for your talk.  There might be WIFI in the venue, there might
 
 And Finally...
 --------------
-Remember it's a technical crowd, so don't shy away from getting deep into stuff.  It can sometimes help to focus hard on one thing and skim / ignore other aspects.  You've only got a short period of time and you'll never be able to cover everthing in your chosen topic so don't try!
+Remember it's a technical crowd, so don't shy away from getting deep into stuff.  It can sometimes help to focus hard on one thing and skim / ignore other aspects.  You've only got a short period of time and you'll never be able to cover everything in your chosen topic so don't try!
 
 Don't stress out about it.  LRUG are a friendly crowd, we want to hear about Ruby stuff and are grateful for anyone who gets up there to talk.  If you want to practice or get feedback on your talk (before or after the meeting) just ask on the [mailing list](http://lists.lrug.org/listinfo.cgi/chat-lrug.org) (or [Twitter](http://twitter.com/home)) and people will help out.

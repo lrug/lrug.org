@@ -1,10 +1,10 @@
---- 
+---
 published_at: 2009-05-29 06:43:48 Z
 title: "Episode #17: Code Of Silence"
 created_at: 2009-05-29 13:43:48 Z
 updated_at: 2013-02-12 23:09:26 Z
 status: Published
-created_by: 
+created_by:
   email: ""
   name: Mitch Buchannon
 category: nights
@@ -21,5 +21,5 @@ Meet at "The Old Red Lion Theatre" in Angel at 6pm, Thursday 4nd June and we'll 
 * [Map](http://maps.google.co.uk/maps?f=q&source=s_q&hl=en&geocode=&q=418+St+John+Street,+EC1V+4NJ&sll=53.800651,-4.064941&sspn=14.95462,39.550781&ie=UTF8&ll=51.531641,-0.105872&spn=0.007675,0.019312&z=16&iwloc=A)
 * [More info](http://www.tv.com/Baywatch+Nights/Code+of+Silence/episode/41757/summary.html)
 
-Your leader,  
+Your leader,<br/>
 Mitch

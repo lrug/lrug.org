@@ -1,10 +1,10 @@
---- 
+---
 published_at: 2008-11-18 11:04:40 Z
 title: "Episode #12: Thin Blood"
 created_at: 2008-11-18 18:54:11 Z
 updated_at: 2013-02-12 23:09:23 Z
 status: Published
-created_by: 
+created_by:
   email: ""
   name: Mitch Buchannon
 category: nights

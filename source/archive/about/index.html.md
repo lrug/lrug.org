@@ -1,13 +1,13 @@
---- 
+---
 published_at: 2007-09-28 00:00:00 Z
-updated_by: 
+updated_by:
   email: murray.steele@gmail.com
   name: Murray Steele
 title: About
 created_at: 2007-09-28 12:00:56 Z
 updated_at: 2013-11-12 21:51:05 Z
 status: Published
-created_by: 
+created_by:
   email: murray.steele@gmail.com
   name: Murray Steele
 ---
@@ -16,7 +16,7 @@ LRUG is the London Ruby User Group; a community of ruby developers based in and 
 
 ### Getting in touch
 
-To help people keep up-to-date on all the happenings in the community we've set up a [mailing list](http://lists.lrug.org/listinfo.cgi/chat-lrug.org), [IRC](/irc) and, of course, [this website](/).  If you feel like taking part in the ruby commnuity (even if you're not based in London) these are great places to get started.  We're a [friendly bunch](/members-and-friends).
+To help people keep up-to-date on all the happenings in the community we've set up a [mailing list](http://lists.lrug.org/listinfo.cgi/chat-lrug.org), [IRC](/irc) and, of course, [this website](/).  If you feel like taking part in the ruby community (even if you're not based in London) these are great places to get started.  We're a [friendly bunch](/members-and-friends).
 
 ### Getting involved
 

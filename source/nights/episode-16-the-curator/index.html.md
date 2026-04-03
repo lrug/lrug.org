@@ -1,10 +1,10 @@
---- 
+---
 published_at: 2009-05-08 03:53:06 Z
 title: "Episode #16: The Curator"
 created_at: 2009-05-08 10:52:51 Z
 updated_at: 2013-02-12 23:09:25 Z
 status: Published
-created_by: 
+created_by:
   email: ""
   name: Mitch Buchannon
 category: nights
@@ -21,5 +21,5 @@ Meet me at the "Horse and Groom" on Great Portland Street at 6pm, Wednesday 13th
 * [Map](http://maps.google.co.uk/maps?q=W1W+6PX&spn=0.005,0.02&hl=en)
 * [More info](http://www.tv.com/Baywatch+Nights/The+Curator/episode/41756/summary.html)
 
-Your pal  
+Your pal<br/>
 Mitch.

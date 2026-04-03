@@ -1,10 +1,10 @@
---- 
+---
 published_at: 2007-05-15 05:29:25 Z
 title: The LRUG IRC room
 created_at: 2007-05-15 12:28:31 Z
 updated_at: 2013-02-12 23:09:15 Z
 status: Published
-created_by: 
+created_by:
   email: james@abscond.org
   name: James Darling
 ---

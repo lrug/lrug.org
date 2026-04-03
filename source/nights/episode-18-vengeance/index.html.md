@@ -1,16 +1,16 @@
---- 
+---
 published_at: 2009-07-02 09:46:03 Z
 title: "Episode #18: Vengeance"
 created_at: 2009-07-02 16:41:32 Z
 updated_at: 2013-02-12 23:09:26 Z
 status: Published
-created_by: 
+created_by:
   email: ""
   name: Mitch Buchannon
 category: nights
 ---
 
-A prison escapee vows to kill everyone associated with his conviction. Garner was one of the arresting officers. 
+A prison escapee vows to kill everyone associated with his conviction. Garner was one of the arresting officers.
 
 The escapee is flying in on Tuesday 21st July. To ensure he can't get his bloody revenge, we're going to hide out upstairs in "The Ship" near Monument tube station.
 

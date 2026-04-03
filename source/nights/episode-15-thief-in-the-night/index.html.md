@@ -1,10 +1,10 @@
---- 
+---
 published_at: 2009-03-23 11:39:06 Z
 title: "Episode #15: Thief in the Night"
 created_at: 2009-03-23 18:38:20 Z
 updated_at: 2013-02-12 23:09:25 Z
 status: Published
-created_by: 
+created_by:
   email: ""
   name: Mitch Buchannon
 category: nights
@@ -22,8 +22,8 @@ The agreed date for this rendezvous is Wednesday 1st April (that will fool her).
 
 You will need the following reconnaissance:
 
-04/01/2009 6:00pm  
-21-22 Maiden Lane, London  
+04/01/2009 6:00pm<br/>
+21-22 Maiden Lane, London<br/>
 WC2E 7NA
 
 * [Upcoming event](http://upcoming.yahoo.com/event/2167359)
@@ -31,5 +31,5 @@ WC2E 7NA
 * [Map](http://maps.google.co.uk/maps?f=q&source=s_q&hl=en&geocode=&q=porterhouse+london+21-22+maiden+lane&sll=51.509437,-0.108876&sspn=0.017602,0.04549&ie=UTF8&ll=51.514098,-0.122845&spn=0.008493,0.022745&z=16&iwloc=A&iwd=1&cid=17634676175614443342)
 * [More info here](http://www.tv.com/baywatch-nights/thief-in-the-night/episode/41755/summary.html)
 
-See you there,  
+See you there,<br/>
 Mitch.

@@ -1,15 +1,16 @@
---- 
+---
 published_at: 2007-06-14 01:29:41 Z
 title: "Beginning Ruby #3"
 created_at: 2007-06-14 08:29:25 Z
-parts: 
+parts:
   excerpt:
-    :content: |
-      Peter Jones reviews his copy of ['Beginning Ruby' by Peter Cooper](http://www.amazon.co.uk/Beginning-Ruby-Experts-Voice-Source/dp/1590597664), published by [Apress](http://www.apress.com/)
+    :content: "Peter Jones reviews his copy of ['Beginning Ruby' by Peter Cooper](http://www.\
+amazon.co.uk/Beginning-Ruby-Experts-Voice-Source/dp/1590597664), published by [Apress](http://\
+www.apress.com/)"
     :render_as: .md
 updated_at: 2013-02-12 23:09:16 Z
 status: Published
-created_by: 
+created_by:
   email: murray.steele@gmail.com
   name: Murray Steele
 category: 'book-review'
@@ -25,7 +26,7 @@ Overall the pace can be quite quick as there is a lot to cover again making it a
 
 I was a little disappointed with the Ruby on Rails: Ruby’s Killer App chapter as it seemed to gloss over a lot of areas, and in some places was based on Rails 1.1.6 although at the time of reading I am sure Rails 1.2 has been out for a few months. That said, this is a book about Ruby, not Ruby on Rails, and there are plenty of Rails books available for those who are interested.
 
-So, in summary, I think this is a good book for beginners to start learning Ruby although I think it is more likely to get you from novice to an intermediate level, rather than the professional level indicated by the title. 
+So, in summary, I think this is a good book for beginners to start learning Ruby although I think it is more likely to get you from novice to an intermediate level, rather than the professional level indicated by the title.
 
 Please note that a free copy of this book was provided to me by Apress on condition that I reviewed it.
 

@@ -1,10 +1,10 @@
---- 
+---
 published_at: 2007-08-09 07:29:29 Z
 title: "Episode #3: \"Silent Witness\""
 created_at: 2007-07-23 10:10:48 Z
 updated_at: 2013-02-12 23:09:18 Z
 status: Published
-created_by: 
+created_by:
   email: ""
   name: Mitch Buchannon
 category: nights

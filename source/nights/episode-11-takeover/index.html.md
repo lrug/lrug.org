@@ -1,10 +1,10 @@
---- 
+---
 published_at: 2008-10-24 00:39:19 Z
 title: "Episode #11: Takeover"
 created_at: 2008-10-24 07:39:19 Z
 updated_at: 2013-02-12 23:09:23 Z
 status: Published
-created_by: 
+created_by:
   email: ""
   name: Mitch Buchannon
 category: nights

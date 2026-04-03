@@ -1,15 +1,15 @@
---- 
+---
 published_at: 2008-04-07 04:45:56 Z
 title: What Are We Going To Do About A Logo?
 created_at: 2008-04-07 11:45:56 Z
 updated_at: 2013-02-12 23:09:21 Z
 status: Published
-created_by: 
+created_by:
   email: murray.steele@gmail.com
   name: Murray Steele
 ---
 
-Voting / Sumbission Rules
+Voting / Submission Rules
 --
 1. Design submissions stop by Wed 9th April, 2008 @ 1pm. **Deadline passed**
 2. [This page](http://lrug.org/what-are-we-going-to-do-about-a-logo) will be updated to present all submitted logos. **Complete**

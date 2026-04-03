@@ -1,10 +1,10 @@
---- 
+---
 published_at: 2008-03-07 09:47:22 Z
 title: "Episode #7: \"Pressure Cooker\""
 created_at: 2008-03-07 17:47:22 Z
 updated_at: 2013-02-12 23:09:20 Z
 status: Published
-created_by: 
+created_by:
   email: ""
   name: Mitch Buchannon
 category: nights

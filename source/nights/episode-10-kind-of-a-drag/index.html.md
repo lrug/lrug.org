@@ -1,10 +1,10 @@
---- 
+---
 published_at: 2008-08-19 03:15:00 Z
 title: "Episode #10: Kind of a Drag"
 created_at: 2008-08-17 18:59:39 Z
 updated_at: 2013-02-12 23:09:22 Z
 status: Published
-created_by: 
+created_by:
   email: ""
   name: Mitch Buchannon
 category: nights
