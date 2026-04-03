@@ -1,10 +1,10 @@
---- 
+---
 published_at: 2007-07-23 00:00:00 Z
 title: "Being The \"Mitch\""
 created_at: 2007-07-23 08:54:21 Z
 updated_at: 2013-02-12 23:09:17 Z
 status: Published
-created_by: 
+created_by:
   email: murray.steele@gmail.com
   name: Murray Steele
 ---

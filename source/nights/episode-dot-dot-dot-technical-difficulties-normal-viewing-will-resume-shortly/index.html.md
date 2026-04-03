@@ -1,10 +1,10 @@
---- 
+---
 published_at: 2010-06-28 05:18:53 Z
 title: Episode... technical difficulties, normal viewing will resume shortly
 created_at: 2010-06-28 12:18:53 Z
 updated_at: 2013-02-12 23:09:30 Z
 status: Published
-created_by: 
+created_by:
   email: james@abscond.org
   name: James Darling
 category: nights

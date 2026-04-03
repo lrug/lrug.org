@@ -1,10 +1,10 @@
---- 
+---
 published_at: 2007-07-11 03:14:57 Z
 title: "Episode #2: Bad Blades"
 created_at: 2007-07-11 10:13:18 Z
 updated_at: 2013-02-12 23:09:17 Z
 status: Published
-created_by: 
+created_by:
   email: james@lazyatom.com
   name: James Adam
 category: nights

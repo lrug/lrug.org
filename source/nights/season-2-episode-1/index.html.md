@@ -1,10 +1,10 @@
---- 
+---
 published_at: 2012-11-23 00:00:00 Z
 title: Season 2, Episode 1
 created_at: 2012-11-23 16:57:18 Z
 updated_at: 2013-02-12 23:09:37 Z
 status: Published
-created_by: 
+created_by:
   email: james@lazyatom.com
   name: James Adam
 category: nights

@@ -1,10 +1,10 @@
---- 
+---
 published_at: 2009-01-13 10:33:20 Z
 title: "Episode #13: Payback"
 created_at: 2009-01-13 18:32:55 Z
 updated_at: 2013-02-12 23:09:24 Z
 status: Published
-created_by: 
+created_by:
   email: ""
   name: Mitch Buchannon
 category: nights

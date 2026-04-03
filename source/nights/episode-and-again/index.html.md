@@ -1,10 +1,10 @@
---- 
+---
 published_at: 2011-08-22 07:01:43 Z
 title: Episode 'And again'
 created_at: 2011-08-22 14:01:20 Z
 updated_at: 2013-02-12 23:09:33 Z
 status: Published
-created_by: 
+created_by:
   email: james@abscond.org
   name: James Darling
 category: nights

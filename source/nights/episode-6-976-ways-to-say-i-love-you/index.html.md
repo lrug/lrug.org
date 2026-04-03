@@ -1,10 +1,10 @@
---- 
+---
 published_at: 2007-11-28 08:57:20 Z
 title: "Episode #6: 976 Ways to Say I Love You"
 created_at: 2007-11-28 16:56:26 Z
 updated_at: 2013-02-12 23:09:19 Z
 status: Published
-created_by: 
+created_by:
   email: ""
   name: Mitch Buchannon
 category: nights

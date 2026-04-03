@@ -1,10 +1,10 @@
---- 
+---
 published_at: 2008-06-19 05:26:44 Z
 title: "Episode #8: \"Balancing Act\""
 created_at: 2008-06-19 12:26:44 Z
 updated_at: 2013-02-12 23:09:22 Z
 status: Published
-created_by: 
+created_by:
   email: ""
   name: Mitch Buchannon
 category: nights

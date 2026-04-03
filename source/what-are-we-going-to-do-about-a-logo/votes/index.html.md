@@ -1,10 +1,10 @@
---- 
+---
 published_at: 2008-04-07 04:45:56 Z
 title: What Are We Going To Do About A Logo?
 created_at: 2008-04-07 11:45:56 Z
 updated_at: 2013-02-12 23:09:21 Z
 status: Published
-created_by: 
+created_by:
   email: murray.steele@gmail.com
   name: Murray Steele
 ---
@@ -18,15 +18,15 @@ Votes
 * ![James Adam][2]
   Dean Wilson, James Adam, Chris Parsons, Sean O'Halpin
 * ![Andrew McDonough][20]
-  Daniel Tenner, James Darling, Pratik Naik, Máslányi Zsolt, Richard Livsey, James Cox, Thomas R. Koll, Paul Doerwald, Tom Ward, James McCarthy, Tim Harding, Andrew Stewart, Dan Webb, Xin (xin@zenpow.com), Chris Mear, 
+  Daniel Tenner, James Darling, Pratik Naik, Máslányi Zsolt, Richard Livsey, James Cox, Thomas R. Koll, Paul Doerwald, Tom Ward, James McCarthy, Tim Harding, Andrew Stewart, Dan Webb, Xin (xin@zenpow.com), Chris Mear,
 * ![Murray Steele][12] (just the LRUG part)
-  Chris O'Sullivan, 
-* ![Michael Burnham][26] 
-  Olly Heady, 
+  Chris O'Sullivan,
+* ![Michael Burnham][26]
+  Olly Heady,
 * ![James Adam][1]
-  Alvaro Perez, Erin Staniland, 
+  Alvaro Perez, Erin Staniland,
 * ![Paul Battley][3]
-  Tom Armitage, 
+  Tom Armitage,
 * Abstention
   Andrew McDonough,
 

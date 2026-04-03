@@ -1,10 +1,10 @@
---- 
+---
 published_at: 2009-12-14 02:04:30 Z
 title: "Episode #19: Epilogue"
 created_at: 2009-12-14 09:55:07 Z
 updated_at: 2013-02-12 23:09:27 Z
 status: Published
-created_by: 
+created_by:
   email: murray.steele@gmail.com
   name: Murray Steele
 category: nights

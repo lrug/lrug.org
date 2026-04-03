@@ -1,10 +1,10 @@
---- 
+---
 published_at: 2007-10-31 13:09:37 Z
 title: "Episode #5: \"Just a Gigolo\""
 created_at: 2007-10-31 20:09:37 Z
 updated_at: 2013-02-12 23:09:19 Z
 status: Published
-created_by: 
+created_by:
   email: ""
   name: Mitch Buchannon
 category: nights
