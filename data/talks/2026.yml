@@ -99,6 +99,10 @@ february:
       url: "https://jadedickinson.com"
     description: |-
       How to manage a job search and interview prep
+    coverate:
+      - type: write-up
+        title: "Jade Dickinson: ~# /blog/lrug/ \"Managing a job search efficiently\""
+        url: https://jadedickinson.com/blog/lrug/
 
   anonymous-chat-with-sinatra-and-websockets:
     title: "Shayk.online - anonymous chat with Sinatra and websockets"
