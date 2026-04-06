@@ -1,1 +1,3 @@
+<%- repo = Git.open(@app.root) -%>
+# Generated at <%= Time.now %> from LRUG.org version <%= repo.current_branch %>#<%= repo.log.first.to_s %>
 <%= rubyevents_video_playlist(site_url: "https://lrug.org/") %>
