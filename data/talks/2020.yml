@@ -56,12 +56,12 @@ february:
       microservice architecture. A number of issues to consider before you
       start and how to make a list of blockers on the way.
     speaker:
-      name: Elena Tanasoiu
+      name: Elena Tănăsoiu
       url: https://twitter.com/elenatanasoiu
     coverage:
       - type: video
         url: https://assets.lrug.org/videos/2020/february/elena-tanasoiu-you-dont-know-what-you-dont-know-lrug-feb-2020.mp4
-        title: LRUG February 2020 - Elena Tanasoiu - You don't know what you don't know
+        title: LRUG February 2020 - Elena Tănăsoiu - You don't know what you don't know
   designing-domain-oriented-obvservability-in-your-system:
     title: Designing Domain-Oriented Observability in your system
     description: |-
