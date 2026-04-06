@@ -279,7 +279,108 @@ module LrugHelpers
     calendar
   end
 
+  module PrettierYamlTree
+    class << self
+      def output_rubyevents!
+        @_outputting_rubyevents = true
+      end
+
+      def outputting_rubyevents?
+        @_outputting_rubyevents
+      end
+
+      def stop_outputting_rubyevents!
+        @_outputting_rubyevents = false
+      end
+    end
+
+    # rubocop:disable all -- this isn't our code, so don't lint it
+    # TODO: feels like we should be able to do our work via a custom
+    # `encode_with` on `String` but I couldn't get it to work, and the
+    # behaviour here is very complex, not sure I could replicate it
+    def visit_String(o)
+      # do the default unless we've asked it not to
+      return super(o) unless PrettierYamlTree.outputting_rubyevents?
+
+      # copy in original impl of this method as it doesn't lend itself to
+      # extension via super
+      plain = true
+      quote = true
+      style = Psych::Nodes::Scalar::PLAIN
+      tag   = nil
+
+      if binary?(o)
+        o     = [o].pack('m0')
+        tag   = '!binary' # FIXME: change to below when syck is removed
+        #tag   = 'tag:yaml.org,2002:binary'
+        style = Psych::Nodes::Scalar::LITERAL
+        plain = false
+        quote = false
+      elsif o.match?(/\n(?!\Z)/)  # match \n except blank line at the end of string
+        style = Psych::Nodes::Scalar::LITERAL
+      elsif o == '<<'
+        style = Psych::Nodes::Scalar::SINGLE_QUOTED
+        tag   = 'tag:yaml.org,2002:str'
+        plain = false
+        quote = false
+      elsif o == 'y' || o == 'Y' || o == 'n' || o == 'N'
+        style = Psych::Nodes::Scalar::DOUBLE_QUOTED
+      elsif @line_width && o.length > @line_width
+        style = Psych::Nodes::Scalar::FOLDED
+      elsif o.match?(/^[^[:word:]][^"]*$/)
+        style = Psych::Nodes::Scalar::DOUBLE_QUOTED
+      elsif not String === @ss.tokenize(o) or /\A0[0-7]*[89]/.match?(o)
+        # our change 1: prefer double quotes here
+        style = Psych::Nodes::Scalar::DOUBLE_QUOTED
+      else
+        # our change 2: work out if this is a value or a key, we want to double
+        #               quote values, but leave keys plain.  E.g. we want
+        #               `key: "value"` not `"key": "value"`
+        cur_node = @emitter.instance_variable_get('@last')
+        if cur_node.class == Psych::Nodes::Mapping && cur_node.children.size.even?
+          # even means we're about to add a key, don't quote it
+          style = Psych::Nodes::Scalar::PLAIN
+        else
+          # odd means we're about to add a value, quote it
+          style = Psych::Nodes::Scalar::DOUBLE_QUOTED
+        end
+      end
+
+      is_primitive = o.class == ::String
+      ivars = is_primitive ? [] : o.instance_variables
+
+      if ivars.empty?
+        unless is_primitive
+          tag = "!ruby/string:#{o.class}"
+          plain = false
+          quote = false
+        end
+        @emitter.scalar o, nil, tag, plain, quote, style
+      else
+        maptag = '!ruby/string'.dup
+        maptag << ":#{o.class}" unless o.class == ::String
+
+        register o, @emitter.start_mapping(nil, maptag, false, Nodes::Mapping::BLOCK)
+        @emitter.scalar 'str', nil, nil, true, false, Nodes::Scalar::ANY
+        @emitter.scalar o, nil, tag, plain, quote, style
+
+        dump_ivars o
+
+        @emitter.end_mapping
+      end
+    end
+    # rubocop:enable all -- ...and we're back in the room
+  end
+
   def rubyevents_video_playlist(site_url:)
+    # rubyevents uses prettier but psych's `to_yaml` doesn't agree with those
+    # rules, and also doesn't make it easy to change the output format _at all_
+    # so we re-implment the visitor to make some changes that will reduce the
+    # git diff while importing this generated yaml and make it more "prettier"
+    unless Psych::Visitors::YAMLTree.ancestors.include? PrettierYamlTree
+      Psych::Visitors::YAMLTree.prepend PrettierYamlTree
+    end
+    PrettierYamlTree.output_rubyevents!
     data.talks.keys.sort.each.filter_map do |year|
       # for now - only share 2020+ talks
       next if Integer(year) < 2020
@@ -305,6 +406,8 @@ module LrugHelpers
         }
       end
     end.flatten(1).to_yaml
+  ensure
+    PrettierYamlTree.stop_outputting_rubyevents!
   end
 
   def talks_for_rubyevents_video_playlist(talks, title, meeting_date, published_at)
