@@ -9,7 +9,7 @@ january:
       back in-house difficult and expensive. If AWS, Google Cloud Computing, Azure
       and all the others are clouds, then we also need a sky. Researchers at Berkeley
       and other institutions have proposed sky computing: an interoperability layer
-      that removes technological lock-in and enables multi cloud application development.'
+      that removes technological lock-in and enables multi cloud application development.
     speaker:
       name: Kevin Sedgley
       url: https://unboxed.co/
@@ -219,7 +219,7 @@ may:
       Ruby web applications and how to maintain existing ones. I will use examples
       adapted from real applications that I worked on during my 10 years of experience
       with Ruby outlining: technical limitations of the language, how to use a modular
-      dependency structure to enforce boundaries in complex domains.'
+      dependency structure to enforce boundaries in complex domains.
     speaker:
       name: Enrico Teotti
       url: https://teotti.com
@@ -323,10 +323,12 @@ august:
 september:
   rachel-bingham-b-and-w-rewards-domains-events-and-ledgers:
     title: B&W Rewards - Domains, Events & Ledgers
-    description: "How we developed the B&W Rewards system. \nStarting from event storming
-      with stakeholders and technical planning across squads to clear domain boundaries
-      to  \nhow we used an event bus and agnostic accounting system to keep things
-      clear, concise and extendable."
+    description: |-
+      How we developed the B&W Rewards system.
+
+      Starting from event storming with stakeholders and technical planning across squads to clear
+      domain boundaries how we used an event bus and agnostic accounting system to keep things
+      clear, concise and extendable.
     speaker:
       - name: Rachel Bingham
         url: https://www.linkedin.com/in/rachel-bingham/

@@ -176,7 +176,7 @@ march:
       With tools like Turbo Native working in conjunction with Ruby on Rails, it’s
       possible to mix web technologies with native APIs to build slick hybrid mobile
       apps. We’ll take a look at why the hybrid approach gets such a bad rap, why
-      that reputation is undeserved, and how we can build hybrid apps that don''t
+      that reputation is undeserved, and how we can build hybrid apps that don’t
       suck.
     speaker:
       name: Ayush Newatia
