@@ -189,3 +189,19 @@ april:
       ubiquitous language and produce well-structured code.
 
       Is the future of programming DDD's ubiquitous language?
+may:
+  ruby-in-parallel-fibers-ractors-and-ruby-4:
+    title: "Ruby in Parallel: Fibers, Ractors, and Ruby 4"
+    speaker:
+      name: Sam Burns
+      url: https://sam-burns.com/tags/talks/
+    description: |
+      Ruby 4 builds on Ruby 3's concurrency features, introducing refinements to Fibers and Ractors.
+      This milestone in the language's evolution transforms concurrency from an experimental
+      frontier to a production-ready reality.
+
+      This talk provides an up-to-date guide to Ruby’s modern concurrency toolkit, from the
+      lightweight efficiency of Fibers to the parallel power of Ractors.
+
+      Join us to explore the core concurrency features of Ruby, and get an up-to-date picture of
+      the latest developments in Ruby 4.
