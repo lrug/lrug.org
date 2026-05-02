@@ -189,6 +189,15 @@ april:
       ubiquitous language and produce well-structured code.
 
       Is the future of programming DDD's ubiquitous language?
+    coverage:
+      - type: video
+        title: "LRUG April 2026 - Hemal Varambhia - The Hottest New
+          Programming Language Is Ubiquitous (Within A Bounded Context Window)"
+        url: https://assets.lrug.org/videos/2026/april/hemal-varambhia-the-hottest-new-programming-language-is-ubiquitous-within-a-bounded-context-window-lrug-apr-2026.mp4
+      - type: slides
+        title: "LRUG April 2026 - Hemal Varambhia - The Hottest New
+          Programming Language Is Ubiquitous (Within A Bounded Context Window)"
+        url: https://assets.lrug.org/slides/2026/april/hemal-varambhia-the-hottest-new-programming-language-is-ubiquitous.pptx
 may:
   ruby-in-parallel-fibers-ractors-and-ruby-4:
     title: "Ruby in Parallel: Fibers, Ractors, and Ruby 4"
