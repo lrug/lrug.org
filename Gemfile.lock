@@ -99,7 +99,7 @@ GEM
       webrick
     mini_portile2 (2.8.9)
     minitest (5.27.0)
-    nokogiri (1.19.1)
+    nokogiri (1.19.3)
       mini_portile2 (~> 2.8.2)
       racc (~> 1.4)
     ostruct (0.6.3)
