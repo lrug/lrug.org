@@ -852,14 +852,14 @@
     "url":"https://unboxed.co/",
     "logo":{
       "sidebar":{
-        "url":"https://assets.lrug.org/images/unboxed-new-logo-small.png",
+        "url":"https://assets.lrug.org/images/unboxed-2026-small.png",
         "width":"120",
-        "height":"15"
+        "height":"17"
       },
       "main":{
-        "url":"https://assets.lrug.org/images/unboxed-new-logo-medium.png",
+        "url":"https://assets.lrug.org/images/unboxed-2026-medium.png",
         "width":"260",
-        "height":"32"
+        "height":"37"
       }
     }
   },
