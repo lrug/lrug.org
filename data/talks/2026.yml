@@ -228,3 +228,11 @@ may:
 
        The talk will spend roughly 10-15 minutes on implementation and another 10 minutes
        explaining how to convince teams / engineers to adopt in your org.
+june:
+  what-is-ruby-four:
+    title: "What is ruby fo(u)r?"
+    speaker:
+      name: Murray Steele
+      url: http://h-lame.com
+    description: |
+      TODO: add description
