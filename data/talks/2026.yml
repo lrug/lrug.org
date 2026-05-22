@@ -235,4 +235,9 @@ june:
       name: Murray Steele
       url: http://h-lame.com
     description: |
-      TODO: add description
+      [Ruby 4.0.0 came out on Christmas Day
+      2025](https://www.ruby-lang.org/en/news/2025/12/25/ruby-4-0-0-released/)
+      and a new major version is something worth celebrating. In this talk
+      we'll explore what previous major versions of Ruby contained before
+      diving in to see what we've got in Ruby 4. We'll wrap up by ruminating on
+      what ruby is actually _for_.
