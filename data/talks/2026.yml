@@ -248,3 +248,26 @@ june:
       - type: transcript
         url: http://h-lame.com/talks/what-is-ruby-four/
         title: Talks ∋ What is ruby fo(u)r?
+july:
+  reactive-command-oriented-apps-in-ruby:
+    title: "Reactive command-oriented apps in Ruby"
+    speaker:
+      name: Ismael Celis
+      url: https://ismaelcelis.com/
+    description: |
+      How the command pattern, CQRS and simple interfaces can build reactive,
+      collaborative Ruby apps with very few building blocks.
+  ai-fixed-our-flaky-tests-overnight:
+    title: "AI fixed our flaky tests overnight (with two weeks of help)"
+    speaker:
+      name: Fritz Meissner
+      url: http://iftheshoefritz.com/
+    description: |
+      Abstract: We tolerated intermittent failures in our hotwire test suite
+      for three years before Claude Code found a solution one night. It only
+      took two weeks to turn the overnight solution into something useful!
+      Come hear a story about eliminating flakiness in tests that cover
+      hotwire pages, how AI helped (spoiler: a lot), how it might have hurt
+      (also a lot), and what it took to avoid the worst of what it suggested.
+      Along the way we'll reflect on how to be discerning in the face of AI
+      hype and pessimism.
