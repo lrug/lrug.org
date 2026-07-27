@@ -53,7 +53,7 @@ GEM
       logger
       ostruct
     ice_cube (0.17.0)
-    json (2.19.3)
+    json (2.19.9)
     kramdown (2.5.1)
       rexml (>= 3.3.9)
     language_server-protocol (3.17.0.5)
