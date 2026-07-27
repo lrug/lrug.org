@@ -271,3 +271,13 @@ july:
       (also a lot), and what it took to avoid the worst of what it suggested.
       Along the way we'll reflect on how to be discerning in the face of AI
       hype and pessimism.
+
+august:
+  metaprogram-like-you-re-ashamed-of-it:
+    title: Metaprogram like you're ashamed of it
+    speaker:
+      name: "fell sunderland"
+      url: "https://www.fellsunder.land/"
+    description: |
+      Why I think you should have some shame when you're doing meta-programming, and what that
+      looks like in practice
