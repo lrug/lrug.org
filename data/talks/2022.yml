@@ -14,8 +14,7 @@ january:
       - Ruby on Rails
       - General computing
       - London
-    speaker:
-      name: ''
+    speaker: []
     coverage: []
     use_description_as_intro: true
 february:
