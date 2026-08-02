@@ -288,13 +288,12 @@ july:
       reflect on how to be discerning in the face of AI hype and pessimism.
     coverage:
       - type: video
-        title: |
-          LRUG July 2026 - Fritz Meissner - AI fixed our flaky tests overnight
-          (with two weeks of help)
+        title: "LRUG July 2026 - Fritz Meissner - AI fixed our flaky tests
+        overnight (with two weeks of help)"
         url: https://assets.lrug.org/videos/2026/july/fritz-meissner-ai-fixed-our-tests-overnight-with-two-weeks-of-help-lrug-july-2026.mp4
       - type: write-up
-        title: |
-          If The Shoe Fritz - AI's "overnight" solution for our flaky tests took two weeks to adopt
+        title: "If The Shoe Fritz - AI's \"overnight\" solution for our flaky
+        tests took two weeks to adopt"
         url: https://iftheshoefritz.com/process/ai/artificial%20intelligence/technical%20debt/testing/2026/06/19/ai-overnight-flaky-tests-two-weeks.html
 august:
   metaprogram-like-you-re-ashamed-of-it:
