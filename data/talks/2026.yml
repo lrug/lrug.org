@@ -279,14 +279,13 @@ july:
       name: Fritz Meissner
       url: http://iftheshoefritz.com/
     description: |
-      Abstract: We tolerated intermittent failures in our hotwire test suite
-      for three years before Claude Code found a solution one night. It only
-      took two weeks to turn the overnight solution into something useful!
-      Come hear a story about eliminating flakiness in tests that cover
-      hotwire pages, how AI helped (spoiler: a lot), how it might have hurt
-      (also a lot), and what it took to avoid the worst of what it suggested.
-      Along the way we'll reflect on how to be discerning in the face of AI
-      hype and pessimism.
+      We tolerated intermittent failures in our hotwire test suite for three
+      years before Claude Code found a solution one night. It only took two
+      weeks to turn the overnight solution into something useful! Come hear a
+      story about eliminating flakiness in tests that cover hotwire pages, how
+      AI helped (spoiler: a lot), how it might have hurt (also a lot), and what
+      it took to avoid the worst of what it suggested. Along the way we'll
+      reflect on how to be discerning in the face of AI hype and pessimism.
     coverage:
       - type: video
         title: |
