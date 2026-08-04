@@ -10,3 +10,4 @@ gem "nokogiri"
 gem "pry"
 gem "rubocop"
 gem "rubocop-github-annotations-formatter", require: false
+gem "yerba", "~> 0.9"

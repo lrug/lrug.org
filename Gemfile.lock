@@ -35,6 +35,16 @@ GEM
     fast_blank (1.0.1)
     fastimage (2.4.0)
     ffi (1.17.1)
+    ffi (1.17.1-aarch64-linux-gnu)
+    ffi (1.17.1-aarch64-linux-musl)
+    ffi (1.17.1-arm-linux-gnu)
+    ffi (1.17.1-arm-linux-musl)
+    ffi (1.17.1-arm64-darwin)
+    ffi (1.17.1-x86-linux-gnu)
+    ffi (1.17.1-x86-linux-musl)
+    ffi (1.17.1-x86_64-darwin)
+    ffi (1.17.1-x86_64-linux-gnu)
+    ffi (1.17.1-x86_64-linux-musl)
     git (1.13.0)
       addressable (~> 2.8)
       rchardet (~> 1.8)
@@ -102,6 +112,22 @@ GEM
     nokogiri (1.19.4)
       mini_portile2 (~> 2.8.2)
       racc (~> 1.4)
+    nokogiri (1.19.4-aarch64-linux-gnu)
+      racc (~> 1.4)
+    nokogiri (1.19.4-aarch64-linux-musl)
+      racc (~> 1.4)
+    nokogiri (1.19.4-arm-linux-gnu)
+      racc (~> 1.4)
+    nokogiri (1.19.4-arm-linux-musl)
+      racc (~> 1.4)
+    nokogiri (1.19.4-arm64-darwin)
+      racc (~> 1.4)
+    nokogiri (1.19.4-x86_64-darwin)
+      racc (~> 1.4)
+    nokogiri (1.19.4-x86_64-linux-gnu)
+      racc (~> 1.4)
+    nokogiri (1.19.4-x86_64-linux-musl)
+      racc (~> 1.4)
     ostruct (0.6.3)
     padrino-helpers (0.15.3)
       i18n (>= 0.6.7, < 2)
@@ -163,9 +189,27 @@ GEM
       unicode-emoji (~> 4.1)
     unicode-emoji (4.2.0)
     webrick (1.9.1)
+    yerba (0.9.0)
+    yerba (0.9.0-aarch64-linux-gnu)
+    yerba (0.9.0-aarch64-linux-musl)
+    yerba (0.9.0-arm-linux-gnu)
+    yerba (0.9.0-arm64-darwin)
+    yerba (0.9.0-x86_64-darwin)
+    yerba (0.9.0-x86_64-linux-gnu)
+    yerba (0.9.0-x86_64-linux-musl)
 
 PLATFORMS
+  aarch64-linux-gnu
+  aarch64-linux-musl
+  arm-linux-gnu
+  arm-linux-musl
+  arm64-darwin
   ruby
+  x86-linux-gnu
+  x86-linux-musl
+  x86_64-darwin
+  x86_64-linux-gnu
+  x86_64-linux-musl
 
 DEPENDENCIES
   builder
@@ -176,6 +220,7 @@ DEPENDENCIES
   pry
   rubocop
   rubocop-github-annotations-formatter
+  yerba (~> 0.9)
 
 RUBY VERSION
    ruby 3.4.2p28
