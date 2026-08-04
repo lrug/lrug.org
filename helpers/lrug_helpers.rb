@@ -279,18 +279,27 @@ module LrugHelpers
     calendar
   end
 
+  # The formatting rubyevents wants is written here rather than repaired there.
+  # These steps mirror the `data/**/videos.yml` rule in their `Yerbafile`, in
+  # the same order, so a `yerba apply` after importing this file is a no-op.
+  RUBYEVENTS_QUOTE_STYLE = [
+    { key_style: "plain", value_style: "double" },
+    { path: "[].speakers", value_style: "plain" },
+    { path: "[].talks[].speakers", value_style: "plain" },
+    { path: "[].description", value_style: "literal" },
+    { path: "[].talks[].description", value_style: "literal" },
+  ].freeze
+
+  RUBYEVENTS_BLANK_LINES = { "" => 1, "[]" => 0, "[].talks" => 1 }.freeze
+
   def rubyevents_video_playlist(site_url:)
-    # NOTE: default `Psych` output here disagrees with the default linting
-    # used by rubyevents via prettier.  Luckily the combination of `prettier`
-    # and their custom `yaml/enforce_strings.mjs` mean we don't need to worry
-    # about it and will generate minimal diff noise if we:
-    # 1. cd /path/to/lrug/lrug.org
-    # 2. bundle exec middleman build
-    # 3. cd /path/to/rubyevents/rubyevents
-    # 4. cp /path/to/lrug/lrug.org/public/rubyevents-video-playlist.yml data/lrug/lrug-meetup/videos.yml
-    # 5. node yaml/enforce_strings.mjs data/lrug/lrug-meeting/videos.yml
-    # 6. yarn prettier --check data/lrug/lrug-meetup/videos.yml -w
-    meetings_for_rubyevents_video_playlist(site_url: site_url).to_yaml
+    meetings = meetings_for_rubyevents_video_playlist(site_url: site_url)
+    document = Yerba::Document.from(meetings)
+
+    RUBYEVENTS_QUOTE_STYLE.each { document.quote_style(**it) }
+    RUBYEVENTS_BLANK_LINES.each { |selector, count| document.blank_lines(selector, count) }
+
+    document.to_s
   end
 
   def meetings_for_rubyevents_video_playlist(site_url:)
