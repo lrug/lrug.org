@@ -290,6 +290,10 @@ module LrugHelpers
     # 4. cp /path/to/lrug/lrug.org/public/rubyevents-video-playlist.yml data/lrug/lrug-meetup/videos.yml
     # 5. node yaml/enforce_strings.mjs data/lrug/lrug-meeting/videos.yml
     # 6. yarn prettier --check data/lrug/lrug-meetup/videos.yml -w
+    meetings_for_rubyevents_video_playlist(site_url: site_url).to_yaml
+  end
+
+  def meetings_for_rubyevents_video_playlist(site_url:)
     data.talks.keys.sort.each.filter_map do |year|
       # for now - only share 2020+ talks
       next if Integer(year) < 2020
@@ -314,7 +318,7 @@ module LrugHelpers
           "talks" => talks_for_rubyevents_video_playlist(talks, title, meeting_date, published_at),
         }
       end
-    end.flatten(1).to_yaml
+    end.flatten(1)
   end
 
   def talks_for_rubyevents_video_playlist(talks, title, meeting_date, published_at)
@@ -323,6 +327,7 @@ module LrugHelpers
     talks.map do |id, talk|
       video_coverage = talk.coverage&.detect { it.type == "video" }
       slides_coverage = talk.coverage&.detect { it.type == "slides" }
+      additional_resources = additional_resources_for_rubyevents_video_playlist(talk)
 
       talk_details = {
         "id" => "#{Array.wrap(talk.speaker).map(&:name).map(&:parameterize).join('-')}-#{title.parameterize}",
@@ -330,35 +335,9 @@ module LrugHelpers
         "event_name" => title,
         "date" => meeting_date,
         "announced_at" => published_at,
-        "speakers" => Array.wrap(talk.speaker).map(&:name),
-        "description" => talk.description,
       }
 
-      additional_resources = talk.coverage&.filter_map do |coverage|
-        next if coverage.type.in?(%w[video slides])
-
-        name =
-          case coverage.type
-          when "write-up" then "Write-Up"
-          when "code" then "Source Code"
-          when "repo" then "Repository"
-          when "transcript" then "Transcript"
-          when "handout" then "Handout"
-          when "notes" then "Notes"
-          when "photos" then "Photos"
-          when "link" then "Link"
-          else coverage.type.titleize
-          end
-
-        {
-          "name" => name,
-          "type" => coverage.type,
-          "title" => coverage.title,
-          "url" => coverage.url,
-        }
-      end
-
-      talk_details["additional_resources"] = additional_resources if Array.wrap(additional_resources).any?
+      talk_details["slides_url"] = slides_coverage.url if slides_coverage
 
       if video_coverage&.url&.starts_with?("https://assets.lrug.org")
         talk_details["video_provider"] = "mp4"
@@ -368,11 +347,39 @@ module LrugHelpers
         # (e.g. like the old skills matter videos or on youtube or
         # something) rather than haven't published it yet and we should
         # work out how to list those
-        talk_details["video_id"] = "lrug-#{meeting_date}-#{id}"
         talk_details["video_provider"] = "not_published"
+        talk_details["video_id"] = "lrug-#{meeting_date}-#{id}"
       end
-      talk_details["slides_url"] = slides_coverage.url if slides_coverage
+
+      talk_details["description"] = talk.description
+      talk_details["speakers"] = Array.wrap(talk.speaker).map(&:name)
+      talk_details["additional_resources"] = additional_resources if additional_resources.any?
+
       talk_details
+    end
+  end
+
+  COVERAGE_NAMES = {
+    "write-up" => "Write-Up",
+    "code" => "Source Code",
+    "repo" => "Repository",
+    "transcript" => "Transcript",
+    "handout" => "Handout",
+    "notes" => "Notes",
+    "photos" => "Photos",
+    "link" => "Link",
+  }.freeze
+
+  def additional_resources_for_rubyevents_video_playlist(talk)
+    Array.wrap(talk.coverage).filter_map do |coverage|
+      next if coverage.type.in?(%w[video slides])
+
+      {
+        "name" => COVERAGE_NAMES.fetch(coverage.type) { coverage.type.titleize },
+        "type" => coverage.type,
+        "title" => coverage.title,
+        "url" => coverage.url,
+      }
     end
   end
 
