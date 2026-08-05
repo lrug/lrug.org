@@ -15,7 +15,7 @@
   },
   {
     "from":"mailing-list",
-    "to":"http://lists.lrug.org/listinfo.cgi/chat-lrug.org"
+    "to":"https://lists.lrug.org/mailman3/postorius/lists/lrug-chat.lists.lrug.org/"
   },
   {
     "from":"meeting-calendar",
