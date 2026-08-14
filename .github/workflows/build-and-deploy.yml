@@ -1,6 +1,6 @@
 name: Build and Deploy
 
-on: [push, workflow_dispatch] # yamllint disable-line rule:truthy
+on: [push, workflow_dispatch]
 
 jobs:
   build-and-deploy:

@@ -11,3 +11,5 @@ rules:
     allow-non-breakable-inline-mappings: true
   comments:
     min-spaces-from-content: 1
+  truthy:
+    check-keys: false
