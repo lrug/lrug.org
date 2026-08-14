@@ -32,7 +32,7 @@ jobs:
           bzip2 lrug.org.tar
 
       - name: Delete old release asset
-        uses: actions/github-script@v6
+        uses: actions/github-script@v9
         with:
           script: |
             const travis_release_id = 2386641;
@@ -52,7 +52,7 @@ jobs:
             }
 
       - name: Upload Release Asset
-        uses: actions/github-script@v6
+        uses: actions/github-script@v9
         with:
           # yamllint disable rule:line-length
           script: |
