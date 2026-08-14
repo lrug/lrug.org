@@ -43,13 +43,11 @@ jobs:
           bundle exec middleman build -e production --verbose
 
       - name: Prepare Release Asset
-        if: ${{ success() && github.ref_name == 'main' }}
         run: |
           tar -cf lrug.org.tar public
           bzip2 lrug.org.tar
 
       - name: Delete old release asset
-        if: ${{ success() && github.ref_name == 'main' }}
         uses: actions/github-script@v6
         with:
           script: |
@@ -70,7 +68,6 @@ jobs:
             }
 
       - name: Upload Release Asset
-        if: ${{ success() && github.ref_name == 'main' }}
         uses: actions/github-script@v6
         with:
           # yamllint disable rule:line-length
@@ -93,7 +90,6 @@ jobs:
           # yamllint enable rule:line-length
 
       - name: Trigger deploy
-        if: ${{ success() && github.ref_name == 'main' }}
         # yamllint disable rule:line-length
         run: |
           curl http://webhook.lrug.org/deploy-lrug.cgi \
