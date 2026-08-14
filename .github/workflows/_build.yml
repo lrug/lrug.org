@@ -1,4 +1,10 @@
-on: workflow_call
+on:
+  workflow_call:
+    inputs:
+      persist-output:
+        required: false
+        type: boolean
+        default: false
 
 jobs:
   build:
@@ -35,3 +41,12 @@ jobs:
         run: |
           export TERM=xterm
           bundle exec middleman build -e production --verbose
+
+      - name: Store build output
+        uses: actions/upload-artifact@v7
+        if: ${{ inputs.persist-output }}
+        with:
+          name: build-output
+          path: public
+          retention-days: 1
+          include-hidden-files: true
