@@ -5,7 +5,7 @@ january:
       url: http://financial-app-in-rails.heroku.com/
       title: Matthew Rudy Jacobs - Building a Financial App in Rails
     - type: video
-      url: http://skillsmatter.com/podcast/ajax-ria/building-a-financial-app-in-ruby-and-rails
+      url: https://skillsmatter.com/podcast/ajax-ria/building-a-financial-app-in-ruby-and-rails
       title: 'Skills Matter : London Ruby User Group : Building a Financial App in Rails'
   processing-tweets-at-the-bbc:
     - type: slides
@@ -22,7 +22,7 @@ february:
         needs to write any more test frameworks'
   ruby-search-systems-sunspot-acts-as-ferret-ultraspinx-thinking-sphinx-acts-as-solr-acts-as-xapian-xapit-raw-mysql:
     - type: video
-      url: http://skillsmatter.com/podcast/ajax-ria/ruby-search-systems
+      url: https://skillsmatter.com/podcast/ajax-ria/ruby-search-systems
       title: Ruby search systems (Sunspot, acts_as_ferret, ultraspinx, thinking_sphinx,
         acts_as_solr, acts_as_xapian, xapit, raw mysql)
   basic-interpreter:
@@ -31,7 +31,7 @@ february:
       title: 'Skills Matter : London Ruby User Group : BASIC interpreter'
   how-do-we-suck-in-480-books-per-second-from-amazon-s-api-using-ruby-via-redis-into-mongodb:
     - type: video
-      url: http://skillsmatter.com/podcast/ajax-ria/how-do-we-suck-in-480-books-per-second-from-amazons-api-using-ruby-via-redis-into-mongodb
+      url: https://skillsmatter.com/podcast/ajax-ria/how-do-we-suck-in-480-books-per-second-from-amazons-api-using-ruby-via-redis-into-mongodb
       title: How do we suck in 480 books per second from Amazon's API using Ruby via
         Redis into MongoDB
   w3c-audio-xg-group-audio-javascript:
@@ -66,7 +66,7 @@ february:
 march:
   primer:
     - type: video
-      url: http://skillsmatter.com/podcast/ajax-ria/primer/js-1438
+      url: https://skillsmatter.com/podcast/ajax-ria/primer/js-1438
       title: 'Skills Matter : London Ruby User Group : Primer, a caching system for
         rails'
   lessons-learned-bdd-ing-a-command-line-utility-gem:
@@ -102,34 +102,34 @@ may:
 june:
   htmlentities:
     - type: video
-      url: http://skillsmatter.com/podcast/home/ruby-gems
+      url: https://skillsmatter.com/podcast/home/ruby-gems
       title: 'Skills Matter : London Ruby User Group: HTMLEntities'
   hash-mapper-jbundle-or-anisoptera:
     - type: video
-      url: http://skillsmatter.com/podcast/home/jbundle
+      url: https://skillsmatter.com/podcast/home/jbundle
       title: 'Skills Matter : London Ruby User Group: Jbundle'
   roleplay:
     - type: video
-      url: http://skillsmatter.com/podcast/home/roleplay
+      url: https://skillsmatter.com/podcast/home/roleplay
       title: 'Skills Matter : London Ruby User Group : RolePlay'
   asset-hat:
     - type: video
-      url: http://skillsmatter.com/podcast/home/asset-hat
+      url: https://skillsmatter.com/podcast/home/asset-hat
       title: 'Skills Matter : London Ruby User Group : Asset Hat'
   http-tools:
     - type: video
-      url: http://skillsmatter.com/podcast/home/lrug-http-tools
+      url: https://skillsmatter.com/podcast/home/lrug-http-tools
       title: 'Skills Matter : London Ruby User Group: http_tools'
   matahari:
     - type: video
-      url: http://skillsmatter.com/podcast/home/matahari
+      url: https://skillsmatter.com/podcast/home/matahari
       title: 'Skills Matter : London Ruby User Group : Matahari'
   split-rack-based-a-b-testing:
     - type: slides
       url: http://speakerdeck.com/u/andrew/p/split
       title: Split
     - type: video
-      url: http://skillsmatter.com/podcast/home/split
+      url: https://skillsmatter.com/podcast/home/split
       title: 'Skills Matter : London Ruby User Group : Split'
   jbundle:
     - type: video
@@ -138,7 +138,7 @@ june:
 july:
   building-a-prototype-site-for-the-uk-government:
     - type: video
-      url: http://skillsmatter.com/podcast/home/ruby-july
+      url: https://skillsmatter.com/podcast/home/ruby-july
       title: 'Skills Matter : London Ruby User Group: Building a prototype site for
         the UK government'
   extracting-value-from-legacy-applications-using-ruby:
@@ -158,7 +158,7 @@ august:
       url: https://mudge.name/2011/08/11/managing-web-application-servers-with-puppet.html
       title: Managing Web Application Servers with Puppet
     - type: video
-      url: http://skillsmatter.com/podcast/home/lrug-puppet
+      url: https://skillsmatter.com/podcast/home/lrug-puppet
       title: 'Skills Matter : London Ruby User Group : Managing Web Applications With
         Puppet'
   vagrant-and-chef:
@@ -166,7 +166,7 @@ august:
       url: http://morethanseven.net/2011/08/11/Talking-configuration-management-vagrant-and-chef-at-lrug.html
       title: Talking Configuration Management, Vagrant And Chef At LRUG
     - type: video
-      url: http://skillsmatter.com/podcast/home/chef-vagrant
+      url: https://skillsmatter.com/podcast/home/chef-vagrant
       title: 'Skills Matter : London Ruby User Group : Vagrant and Chef'
   cucumber-chef:
     - type: video

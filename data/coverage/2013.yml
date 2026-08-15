@@ -7,14 +7,14 @@ january:
 february:
   hulk-smash-your-db-column-not-your-whole-app:
     - type: video
-      url: http://skillsmatter.com/podcast/home/hulk-smash
+      url: https://skillsmatter.com/podcast/home/hulk-smash
       title: 'Skills Matter : London Ruby User Group : Hulk Smash!'
   1-2-3:
     - type: link
       url: https://bitbucket.org/threedaymonk/onetwothree
       title: Notes, code and "slides" (aka terminal program) of talk
     - type: video
-      url: http://skillsmatter.com/podcast/home/one-plus-two-equals-three
+      url: https://skillsmatter.com/podcast/home/one-plus-two-equals-three
       title: 'Skills Matter : London Ruby User Group : 1+2=3'
   extremist-programming:
     - type: slides
@@ -25,7 +25,7 @@ february:
       title: 'Skills Matter : London Ruby User Group : Extremist Programming'
   contractor-rates-salaries-for-ruby-devs-in-london:
     - type: video
-      url: http://skillsmatter.com/podcast/home/contractor-rates-salaries-for-ruby-devs-in-london
+      url: https://skillsmatter.com/podcast/home/contractor-rates-salaries-for-ruby-devs-in-london
       title: 'Skills Matter : London Ruby User Group : Contractor rates and salaries
         for Ruby devs in London'
   mruby:
@@ -33,14 +33,14 @@ february:
       url: https://speakerdeck.com/sebjacobs/mruby-and-me
       title: Mruby & Me
     - type: video
-      url: http://skillsmatter.com/podcast/home/mruby
+      url: https://skillsmatter.com/podcast/home/mruby
       title: 'Skills Matter : London Ruby User Group : Mruby & Me'
   love-your-pull-requests:
     - type: slides
       url: http://www.slideshare.net/nasirj/love-your-pullrequests
       title: Love your pull requests
     - type: video
-      url: http://skillsmatter.com/podcast/home/love-your-pull-requests
+      url: https://skillsmatter.com/podcast/home/love-your-pull-requests
       title: 'Skills Matter : London Ruby User Group : Love your pull requests'
   polyglottous-emberjs-with-rake-pipeline-and-localeapp:
     - type: video
@@ -52,14 +52,14 @@ february:
       url: https://docs.google.com/presentation/d/1KooSW7gcGOHFGYsUTK10P4EC1VXMo0emNJxG_5srkm8/edit?usp=sharing
       title: 'Afra: Collectively Mapping Genomes'
     - type: video
-      url: http://skillsmatter.com/podcast/home/afra-collectively-mapping-genomes
+      url: https://skillsmatter.com/podcast/home/afra-collectively-mapping-genomes
       title: 'Skills Matter : London Ruby User Group : Afra: Collectively Mapping Genomes'
   what-would-jason-bourne-do:
     - type: slides
       url: https://speakerdeck.com/gerhardlazu/what-would-jason-bourne-do
       title: What would Jason Bourne do?
     - type: video
-      url: http://skillsmatter.com/podcast/home/simple-does-it
+      url: https://skillsmatter.com/podcast/home/simple-does-it
       title: 'Skills Matter : London Ruby User Group : What would Jason Bourne do?'
 march:
   showing-off-deliver:
@@ -83,7 +83,7 @@ april:
       url: https://speakerdeck.com/xavriley/say-hello-to-padrino
       title: Say Hello to Padrino
     - type: video
-      url: http://skillsmatter.com/podcast/home/padrino
+      url: https://skillsmatter.com/podcast/home/padrino
       title: 'Skills Matter : London Ruby User Group : Padrino'
   better-security-for-your-web-applications:
     - type: notes
@@ -91,7 +91,7 @@ april:
       title: Web Application Security Talk at LRUG | Happy Bear Software | Web Application
         Development
     - type: video
-      url: http://skillsmatter.com/podcast/home/better-security-for-your-web-applications/mh-6913
+      url: https://skillsmatter.com/podcast/home/better-security-for-your-web-applications/mh-6913
       title: 'Skills Matter : London Ruby User Group : Better security for your web
         applications'
 may:
@@ -100,19 +100,19 @@ may:
       url: http://www.slideshare.net/viliander/dci-with-ruby-and-rails
       title: DCI with Ruby and Rails
     - type: video
-      url: http://skillsmatter.com/podcast/home/dci-with-ruby-rails
+      url: https://skillsmatter.com/podcast/home/dci-with-ruby-rails
       title: 'Skills Matter : London Ruby User Group : DCI with Ruby & Rails'
   exploration-of-mruby:
     - type: slides
       url: https://speakerdeck.com/randym/lrug-mruby
       title: LRUG mruby
     - type: video
-      url: http://skillsmatter.com/podcast/home/exploration-of-mruby
+      url: https://skillsmatter.com/podcast/home/exploration-of-mruby
       title: 'Skills Matter : London Ruby User Group : Exploration of mruby'
 june:
   state-machines-are-people-too:
     - type: video
-      url: http://skillsmatter.com/podcast/ajax-ria/state-transitions
+      url: https://skillsmatter.com/podcast/ajax-ria/state-transitions
       title: 'Skills Matter : London Ruby User Group : State Transitions Are People
         Too'
   application-example-based-on-gov-uk-public-code:
@@ -130,11 +130,11 @@ june:
 july:
   the-reluctant-chef:
     - type: video
-      url: http://skillsmatter.com/podcast/java-jee/the-reluctant-chef
+      url: https://skillsmatter.com/podcast/java-jee/the-reluctant-chef
       title: 'Skills Matter : London Ruby User Group : The Reluctant Chef'
   building-and-maintaining-a-ruby-team-during-the-rails-crisis-of-2013:
     - type: video
-      url: http://skillsmatter.com/podcast/java-jee/building-and-maintaining-a-ruby-team-during-the-rails-crisis-of-2013
+      url: https://skillsmatter.com/podcast/java-jee/building-and-maintaining-a-ruby-team-during-the-rails-crisis-of-2013
       title: 'Skills Matter : London Ruby User Group : Building and maintaing a Ruby
         team during the Rails crisis of 2013'
 august:
@@ -166,7 +166,7 @@ october:
       url: https://speakerdeck.com/ollylegg/enumerators
       title: Enumerators in Ruby
     - type: video
-      url: http://skillsmatter.com/podcast/home/enumerators-in-ruby
+      url: https://skillsmatter.com/podcast/home/enumerators-in-ruby
       title: 'Skills Matter : London Ruby User Group : Enumerators in Ruby'
   modelling-state-machines-with-ragel:
     - type: handout
@@ -176,7 +176,7 @@ october:
       url: https://speakerdeck.com/nelstrom/modelling-state-machines-with-ragel
       title: Modelling State Machines with Ragel
     - type: video
-      url: http://skillsmatter.com/podcast/home/modelling-state-machines-with-ragel
+      url: https://skillsmatter.com/podcast/home/modelling-state-machines-with-ragel
       title: 'Skills Matter : London Ruby User Group : Modelling state machines with
         Ragel'
 november:
@@ -197,11 +197,11 @@ november:
 december:
   a-fizzbuzz-to-rule-them-all:
     - type: video
-      url: http://skillsmatter.com/podcast/home/a-fizzbuzz-to-rule-them-all
+      url: https://skillsmatter.com/podcast/home/a-fizzbuzz-to-rule-them-all
       title: 'Skills Matter : London Ruby User Group : A FizzBuzz to rule them all'
   from-a-raw-tcp-socket-to-a-rails-application:
     - type: video
-      url: http://skillsmatter.com/podcast/home/from-a-raw-tcp-socket-to-a-rails-application
+      url: https://skillsmatter.com/podcast/home/from-a-raw-tcp-socket-to-a-rails-application
       title: 'Skills Matter : London Ruby User Group : From a raw TCP socket to a Rails
         application'
   the-solution-to-assets-management-in-rails:
@@ -209,6 +209,6 @@ december:
       url: https://rails-assets.org/
       title: Rails Assets
     - type: video
-      url: http://skillsmatter.com/podcast/home/the-solution-to-assets-management-in-rails
+      url: https://skillsmatter.com/podcast/home/the-solution-to-assets-management-in-rails
       title: 'Skills Matter : London Ruby User Group : The solution to assets management
         in Rails'

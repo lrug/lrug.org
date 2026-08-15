@@ -131,7 +131,7 @@ october:
       url: https://speakerdeck.com/tomstuart/thinking-functionally-in-ruby
       title: Thinking Functionally in Ruby
     - type: video
-      url: http://skillsmatter.com/podcast/ajax-ria/enumerators
+      url: https://skillsmatter.com/podcast/ajax-ria/enumerators
       title: 'Skills Matter : London Ruby User Group : Thinking Functionally in Ruby'
   a-trio-of-gems:
     - type: video
