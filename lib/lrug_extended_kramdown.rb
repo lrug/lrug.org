@@ -30,7 +30,10 @@ module Kramdown
 
       def render_coverage(year, month, talk_id)
         coverage = find_coverage(year, month, talk_id)
-        return unless coverage&.any?
+          # skillsmatter-video is a dead video link we shouldn't publish
+          .reject { |coverage_item| coverage_item["type"] == "skillsmatter-video" }
+
+        return unless coverage.any?
 
         list = new_block_el(:ol, nil, nil, location: @src.current_line_number)
         list.attr["class"] = "coverage"
@@ -48,7 +51,7 @@ module Kramdown
       end
 
       def find_coverage(year, month, talk_id)
-        self.class.coverage.dig(year, month, talk_id)
+        self.class.coverage.dig(year, month, talk_id) || []
       end
 
       def render_sponsor(sponsor_name, image_size)
