@@ -381,7 +381,9 @@ module LrugHelpers
 
   def additional_resources_for_rubyevents_video_playlist(talk)
     Array.wrap(talk.coverage).filter_map do |coverage|
-      next if coverage.type.in?(%w[video slides])
+      # video & slides are first class coverage already handled in the main yaml
+      # skillsmatter-video is a dead video link we shouldn't publish
+      next if coverage.type.in?(%w[video slides skillsmatter-video])
 
       {
         "name" => COVERAGE_NAMES.fetch(coverage.type) { coverage.type.titleize },
