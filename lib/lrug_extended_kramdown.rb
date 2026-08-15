@@ -34,13 +34,13 @@ module Kramdown
 
         list = new_block_el(:ol, nil, nil, location: @src.current_line_number)
         list.attr["class"] = "coverage"
-        coverage.each do |coverage|
+        coverage.each do |coverage_item|
           coverage_elem = new_block_el(:li, nil, nil, location: @src.current_line_number)
-          coverage_elem.attr["class"] = "coverage-item #{coverage['type']}"
+          coverage_elem.attr["class"] = "coverage-item #{coverage_item['type']}"
           link = Element.new(:a, nil, nil, location: @src.current_line_number)
-          link.attr["href"] = coverage["url"]
+          link.attr["href"] = coverage_item["url"]
           link.attr["rel"] = "nofollow"
-          add_text(coverage["title"], link)
+          add_text(coverage_item["title"], link)
           coverage_elem.children << link
           list.children << coverage_elem
         end
