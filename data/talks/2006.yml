@@ -1,0 +1,66 @@
+---
+september:
+  ariel:
+    title: Ariel
+    description: |
+      Last night [Alex Bradbury](https://asbradbury.org) gave a great
+      presentation on [ARIEL](http://ariel.rubyforge.org/), A Ruby
+      Information Extraction Library. All agreed that Alex is doing very
+      impressive work. Some LRUGers are already planning to try out ARIEL for
+      data parsing in various projects. Thanks for coming to speak Alex!
+    speaker:
+      name: Alex Bradbury
+      url: https://asbradbury.org
+    coverage: []
+    use_description_as_intro: true
+october:
+  robert-brook-dsl-talk:
+    title: "What you might want DSLs for"
+    description: |-
+      [Robert](http://www.robertbrook.com/) will talk about what you (and he)
+      might want DSLs for.
+    speaker:
+      name: Robert Brook
+      url: http://www.robertbrook.com/
+    coverage: []
+    use_description_as_intro: true
+  damian-tanner-dsl-talk:
+    title: Practical aspects of DSLs
+    description: |-
+      [Damien](http://iamrice.org) will cover the practical aspects of DSLs in
+      Ruby and share his recent experiences developing a simple DSL to define
+      business logic in an ecommerce application
+    speaker:
+      name: Damien Tanner
+      url: http://iamrice.org
+    coverage: []
+    use_description_as_intro: true
+november:
+  ten-things-i-hate-about-rails:
+    title: Ten Things I Hate About Rails
+    description: |-
+      [Paul Battley](http://po-ru.com/) will be sharing _Ten things I hate
+      about Rails_ - insights he's gained from poking into Ruby on Rails'
+      soft underbelly. He'll also present brief highlights from [Euruko
+      2006](http://2006.euruko.com/), the European Ruby Conference.
+    speaker:
+      name: Paul Battley
+      url: https://po-ru.com
+    coverage:
+      - type: 'write-up'
+        url: https://po-ru.com/2006/11/15/ten-things-i-hate-about-rails
+        title: "po-ru.com : Ten things I hate about Rails"
+    use_description_as_intro: true
+  bad-things-with-capistrano:
+    title: Bad Things With Capistrano
+    description: |-
+      [Tom Ward](https://tomafro.net) will encourage us to _Do Bad Things with
+      Capistrano_, telling us what
+      [Capistrano](http://manuals.rubyonrails.com/read/book/17) is, what it
+      does and how its usefulness is limited in no way to deployment of Rails
+      apps.  He'll also show a couple of the very bad things he's done with it.
+    speaker:
+      name: Tom Ward
+      url: https://tomafro.net
+    coverage: []
+    use_description_as_intro: true
