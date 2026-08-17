@@ -83,7 +83,9 @@ module TalkHelpers
     def self.from(coverage_details)
       return [] if coverage_details.nil?
 
-      coverage_details.map { new(type: it.type, title: it.title, url: it.url) }
+      coverage_details
+        .reject { it.type == 'skillsmatter-video' }
+        .map { new(type: it.type, title: it.title, url: it.url) }
     end
   end
 
