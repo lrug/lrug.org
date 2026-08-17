@@ -60,12 +60,13 @@ module Lrug
   end
 
   Coverage = Data.define(:type, :title, :url) do
-    # skillsmatter-video is a dead video link we shouldn't publish
+    # skillsmatter-video and google-video are dead video links we shouldn't publish
+    const_set("BAD_COVERAGE", %w[skillsmatter-video google-video])
     def self.from(coverage_details)
       return [] if coverage_details.nil?
 
       coverage_details
-        .reject { it.type == 'skillsmatter-video' }
+        .reject { self::BAD_COVERAGE.include? it.type }
         .map { new(type: it.type, title: it.title, url: it.url) }
     end
   end
