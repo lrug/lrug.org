@@ -1,7 +1,7 @@
 #!/usr/bin/env ruby
 
 # This script should be installed at web webhook URL specified
-# in .travis.yml
+# in .github/workflows/deploy.yml
 
 require "cgi"
 require "json"
