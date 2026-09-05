@@ -1,6 +1,7 @@
 module Lrug
   Talk = Data.define(:id, :title, :description, :custom_intro,
-                     :use_description_as_intro, :speaker, :coverage_links,
+                     :use_description_as_intro, :use_name_as_intro,
+                     :speaker, :coverage_links,
                      :year, :month,) do
     def self.from(year:, month:, id:, details:)
       new(
@@ -9,6 +10,7 @@ module Lrug
         description: details.description,
         custom_intro: details.custom_intro,
         use_description_as_intro: details.use_description_as_intro || false,
+        use_name_as_intro: details.use_name_as_intro || false,
         speaker: Speaker.from(speaker_details: details.speaker),
         coverage_links: Coverage.from(details.coverage),
         year:,
@@ -25,6 +27,8 @@ module Lrug
         description
       elsif custom_intro
         "#{speaker.formatted_name} #{custom_intro}:"
+      elsif use_name_as_intro
+        "#{speaker.formatted_name}:"
       else
         "#{speaker.formatted_name} says:"
       end
