@@ -327,3 +327,12 @@ september:
       old system. I will elaborate by explaining how I designed a sync mechanism that could run
       quickly and continuously, mapped information across database schemas, and the decisions I
       made to make it understandable, observable and easy to operate.
+  dockerless-ruby-deployments:
+    title: Dockerless Ruby Deployments
+    speaker:
+      name: Ayush Newatia
+      url: https://ruby.social/@ayush
+    description: |
+      Self-hosting is all the rage these days. Join me as I discuss everything hosting, from
+      setting up and securing the server, to zero-downtime and blue-green deploys. All this
+      without Docker, and using just Bash commands.
