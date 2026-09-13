@@ -1,4 +1,5 @@
 require "nokogiri"
+require_relative "../lib/lrug/models"
 
 module LrugHelpers
   def generate_description(for_page = current_page)
@@ -379,11 +380,13 @@ module LrugHelpers
     "link" => "Link",
   }.freeze
 
+  # video & slides are first class coverage already handled in the main yaml
+  ALREADY_COVERED_COVERAGE = %w[video slides].freeze
+  FILTERED_OUT_COVERAGE = (ALREADY_COVERED_COVERAGE + Lrug::Coverage::BAD_COVERAGE).freeze
+
   def additional_resources_for_rubyevents_video_playlist(talk)
     Array.wrap(talk.coverage).filter_map do |coverage|
-      # video & slides are first class coverage already handled in the main yaml
-      # skillsmatter-video is a dead video link we shouldn't publish
-      next if coverage.type.in?(%w[video slides skillsmatter-video])
+      next if FILTERED_OUT_COVERAGE.include? coverage.type
 
       {
         "name" => COVERAGE_NAMES.fetch(coverage.type) { coverage.type.titleize },

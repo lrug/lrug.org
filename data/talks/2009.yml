@@ -1,0 +1,624 @@
+---
+january:
+  couch-db:
+    title: Couch DB
+    description: |-
+      [Paul Carey](http://pa.ulcarey.com/) has been tinkering with
+      [CouchDB](http://couchdb.apache.org/) for a while and has even written a ruby
+      library called [RelaxDB](http://github.com/paulcarey/relaxdb/) for it.  In his
+      talk he's going to cover both of those things.
+    speaker:
+      name: Paul Carey
+      url: http://pa.ulcarey.com/
+    coverage:
+      - type: skillsmatter-video
+        url: https://skillsmatter.com/skillscasts/481-lrug-january
+        title: "SkillsMatter Skillscast : London Ruby User Group : Couch DB"
+    use_description_as_intro: true
+  abstractions-for-website-apis:
+    title: Abstractions For Website APIs
+    description: |-
+      [Paul Mison](http://husk.org/) is going to do a short talk on libraries and
+      abstractions for website APIs.  Specifically how he thinks they should be written
+      (and how he thinks they shouldn't be).  The talk will mostly focus on
+      [Flickr](http://flickr.com/), so an understanding of [Flickr's
+      API](http://www.flickr.com/services/api/) and the [existing
+      abstractions](http://www.google.co.uk/search?hl=en&q=flickr+api+ruby)
+      might be of use.
+    speaker:
+      name: Paul Mison
+      url: http://husk.org/
+    coverage:
+      - type: skillsmatter-video
+        url: https://skillsmatter.com/skillscasts/483-abstractions-for-website-apis
+        title: "SkillsMatter Skillscast : London Ruby User Group : Abstractions For Website APIs"
+    use_description_as_intro: true
+february:
+  his-twit-4-dead-bots-francis-louis-zoey-bill:
+    title: Twit 4 Dead
+    description: His [Twit 4 Dead](http://infovore.org/archives/2008/12/29/twit-4-dead/)
+      bots ([Francis](http://twitter.com/francis_l4d), [Louis](http://twitter.com/louis_l4d),
+      [Zoey](http://twitter.com/zoey_l4d) & [Bill](http://twitter.com/bill_l4d)).
+    speaker:
+      name: Tom Armitage
+      url: http://infovoer.org/
+      raw: "[Tom Armitage](http://infovoer.org/):"
+    coverage:
+      - type: skillsmatter-video
+        url: https://skillsmatter.com/skillscasts/541-his-twit-4-dead-bots-francis-louis-zoey-bill
+        title: "SkillsMatter Skillscast : London Ruby User Group : His Twit 4 Dead bots (Francis,
+          Louis, Zoey & Bill)"
+    use_name_as_intro: true
+  a-cry-for-help-an-anti-talk:
+    title: Cry for help
+    description: Cry for help - an anti talk?
+    speaker:
+      name: Julian Burgess
+      url: http://blog.opening-times.co.uk/
+    coverage:
+      - type: skillsmatter-video
+        url: https://skillsmatter.com/skillscasts/542-a-cry-for-help-an-anti-talk
+        title: "SkillsMatter Skillscast : London Ruby User Group : A cry for help - an anti talk?"
+    use_name_as_intro: true
+  ruby-smokes-a-proposal-for-smoke-testing-ruby:
+    title: "`rubysmokes`"
+    description: |-
+      A proposal for [smoke
+      testing](http://en.wikipedia.org/wiki/Smoke_testing#Smoke_testing_in_software_development)
+      ruby
+    speaker:
+      name: Steve Ganly
+      url: http://concept-shop.com/
+    coverage:
+      - type: skillsmatter-video
+        url: https://skillsmatter.com/skillscasts/543-ruby-smokes-a-proposal-for-smoke-testing-ruby
+        title: "SkillsMatter Skillscast : London Ruby User Group : Ruby Smokes - A proposal for
+          smoke testing ruby"
+    use_name_as_intro: true
+  all-the-ruby-thats-fit-to-merge-rails-3-0-merb-2-0:
+    title: All the ruby that's fit to merge
+    description: |-
+      All the ruby that's fit to merge: [Rails 3.0 &
+      Merb 2.0](http://weblog.rubyonrails.org/2008/12/23/merb-gets-merged-into-rails-3)
+    speaker:
+      name: Richard Livsey
+      url: http://livsey.org/
+    coverage:
+      - type: skillsmatter-video
+        url: https://skillsmatter.com/skillscasts/544-all-the-ruby-thats-fit-to-merge-rails-3-0-merb-2-0
+        title: "SkillsMatter Skillscast : London Ruby User Group : All the ruby that's fit to
+          merge: Rails 3.0 & Merb 2.0"
+    use_name_as_intro: true
+  ruby-and-the-gnu-scientific-library-and-or-r:
+    title: Scientific Ruby
+    description: Ruby and the [GNU Scientific Library](http://www.gnu.org/software/gsl/)
+      and/or [R](http://www.r-project.org/).
+    speaker:
+      name: Chris Lowis
+      url: http://blog.chrislowis.co.uk/
+    coverage:
+      - type: skillsmatter-video
+        url: https://skillsmatter.com/skillscasts/545-ruby-and-the-gnu-scientific-library-andor-r
+        title: "SkillsMatter Skillscast : London Ruby User Group : Ruby and the GNU Scientific
+          Library and/or R"
+    use_name_as_intro: true
+  dpkg-tools:
+    title: dpkg-tools
+    description: A talk about [dpkg-tools](http://dpkg-tools.rubyforge.org/).
+    speaker:
+      name: Matt Patterson
+      url: https://github.com/fidothe
+    coverage:
+      - type: skillsmatter-video
+        url: https://skillsmatter.com/skillscasts/546-dpkg-tools
+        title: "SkillsMatter Skillscast : London Ruby User Group : dpkg-tools"
+    use_name_as_intro: true
+  ruby-and-xmpp:
+    title: Ruby and XMPP
+    description: Ruby and [XMPP](http://xmpp.org/).
+    speaker:
+      name: Thomas Pomfret
+      url: http://thomaspomfret.com/
+    coverage:
+      - type: skillsmatter-video
+        url: https://skillsmatter.com/skillscasts/547-ruby-and-xmpp
+        title: "SkillsMatter Skillscast : London Ruby User Group : Ruby and XMPP"
+    use_name_as_intro: true
+  something-about-rubygame:
+    title: "`rubygame`"
+    description: Something about [rubygame](http://rubygame.sourceforge.net/).
+    speaker:
+      name: Roland Swingler
+      url: http://knaveofdiamonds.tumblr.com/
+    coverage:
+      - type: skillsmatter-video
+        url: https://skillsmatter.com/skillscasts/548-something-about-rubygame
+        title: "SkillsMatter Skillscast : London Ruby User Group : Something about rubygame"
+    use_name_as_intro: true
+  debugging-with-ruby-debug:
+    title: "`ruby-debug`"
+    description: Debugging with [ruby-debug](http://www.datanoise.com/ruby-debug).
+    speaker:
+      name: Tom ten Thij
+      url: http://tomtenthij.co.uk/
+    coverage:
+      - type: skillsmatter-video
+        url: https://skillsmatter.com/skillscasts/549-debugging-with-ruby-debug
+        title: "SkillsMatter Skillscast : London Ruby User Group : Debugging with ruby-debug"
+    use_name_as_intro: true
+march:
+  redcar-ruby-gnome-and-textmate:
+    title: 'Redcar: Ruby, Gnome and Textmate'
+    description: |-
+      [Daniel Lucraft](http://daniellucraft.com/) has been building
+      [Redcar](http://www.redcaride.com/) for some time now and wants to talk about it:
+
+      > Redcar is a programmer's text editor for Gnome, written in Ruby. In this talk I'll
+      > show off Redcar's features, and then take a look into how it's implemented. We'll also
+      > look at the [Ruby-GNOME2](http://ruby-gnome2.sourceforge.jp/) bindings, and how to
+      > interface [Vala](http://live.gnome.org/Vala) (a C# like language) with Ruby for performance.
+
+      Daniel's even hoping to push his first milestone release of Redcar just before the
+      meeting.  You can track his progress [on the Redcar lighthouse
+      project](http://redcar.lighthouseapp.com/projects/25090-redcar/milestones).
+    speaker:
+      name: Daniel Lucraft
+      url: http://daniellucraft.com/
+    coverage:
+      - type: skillsmatter-video
+        url: https://skillsmatter.com/skillscasts/570-lrug-march
+        title: "SkillsMatter Skillscast : London Ruby User Group : Redcar: Ruby, Gnome and Textmate"
+    use_description_as_intro: true
+  cucumber-celerity-firewatir:
+    title: Cucumber, Celerity, & FireWatir
+    description: |-
+      The talk will explain Story-Driven-Development(SDD) and its benefits.
+      A sample application will be built in real-time using SDD with [Rspec](http://rspec.info/)
+      [Cucumber](http://cukes.info). Tests will be run in-browser with
+      [FireWatir](http://wiki.openqa.org/display/WTR/FireWatir) and through a headless-browser
+      using [Celerity](http://celerity.rubyforge.org/) and [JRuby](http://jruby.codehaus.org/).
+    speaker:
+      name: Aidy Lewis
+      url: http://agiletester.blogspot.com/
+    coverage:
+      - type: skillsmatter-video
+        url: https://skillsmatter.com/skillscasts/587-cucumber-celerity-firewatir
+        title: "SkillsMatter Skillscast : London Ruby User Group : Cucumber, Celerity, & FireWatir"
+    custom_intro: is going to give a talk about testing
+april:
+  ruby-invoicing-framework-gem:
+    title: Ruby Invoicing Framework Gem
+    description: |-
+      [Martin Kleppmann](http://www.yes-no-cancel.co.uk/) is the author of the [invoicing
+      gem](http://ept.github.com/invoicing) (on [GitHub](http://github.com/ept/invoicing))
+      and is going to give a talk about it. The invoicing gem provides a solid basis
+      for any commercial web app, by solving the standard problems of financial transactions
+      neatly and concisely, allowing you to focus on the business logic, and being
+      flexible enough to grow and handle pretty complex stuff when you need it: multi-currency
+      support, international taxation and reseller networks, for example. Under the
+      hood it's basically a full accrual accounting system, but that is hidden behind
+      a clean Ruby API which requires no accounting knowledge. Martin will also touch
+      on [OAccounts](http://ept.github.com/oaccounts), an initiative to create an
+      open standard for exchanging accounting data between different apps.
+    speaker:
+      name: Martin Kleppmann
+      url: http://www.yes-no-cancel.co.uk/
+    coverage:
+      - type: skillsmatter-video
+        url: https://skillsmatter.com/skillscasts/666-invoicing-gem
+        title: "SkillsMatter Skillscast : London Ruby User Group : Ruby Invoicing Framework Gem"
+    use_description_as_intro: true
+  a-modular-approach-to-views:
+    title: A Modular Approach to Views
+    description: |-
+      [Jon Gilbraith](http://www.completelynovel.com/people/1) has been working on
+      taking a modular approach to views and creating builder classes to abstract
+      structural html and view logic into Ruby blocks.  In this talk he's going to
+      present that approach and some of the stuff he's learnt along the way.
+    speaker:
+      name: Jon Gilbraith
+      url: http://www.completelynovel.com/people/1
+    coverage:
+      - type: skillsmatter-video
+        url: https://skillsmatter.com/skillscasts/668-a-modular-approach-to-views
+        title: "SkillsMatter Skillscast : London Ruby User Group : A Modular Approach to Views"
+    use_description_as_intro: true
+  using-geokit-in-social-apps:
+    title: Using Geokit in Social Apps
+    description: |-
+      [Paul Jensen](http://new-bamboo.co.uk/people) is going to give a talk about
+      using Geokit, with a particular focus on it's use in Social Apps.
+      [Geokit](http://geokit.rubyforge.org/) is a rubygem and Rails plugin for geocoding,
+      distance calculation, location finding, and ip address-based lookup.  In this
+      talk he'll run through the functionality provided by Geokit, and show off the
+      magic in action with a google maps/twitter/trusted places mashup.
+    speaker:
+      name: Paul Jensen
+      url: http://new-bamboo.co.uk/people
+    coverage:
+      - type: skillsmatter-video
+        url: https://skillsmatter.com/skillscasts/667-using-geokit-in-social-apps
+        title: "SkillsMatter Skillscast : London Ruby User Group : Using Geokit in Social Apps"
+    use_description_as_intro: true
+may:
+  ruby-ffi:
+    title: Ruby FFI
+    description: |-
+      [Sean O'Halpin](http://seanohalpin.github.com/) will be talking about [Ruby
+      FFI](http://kenai.com/projects/ruby-ffi), probably using his
+      [FFI-ncurses](http://github.com/seanohalpin/ffi-ncurses/) gem to provide some examples.
+    speaker:
+      name: Sean O'Halpin
+      url: http://seanohalpin.github.com/
+    coverage:
+      - type: skillsmatter-video
+        url: https://skillsmatter.com/skillscasts/721-ruby-ffi
+        title: "SkillsMatter Skillscast : London Ruby User Group : Ruby FFI"
+    use_description_as_intro: true
+  treetop:
+    title: Treetop
+    description: |-
+      Regular expressions are great but they're unreadable when complex, and
+      there are some things they just can't do. The alternative is to build
+      a language parser - but that's really hard, isn't it? In this talk,
+      I'll try and dispell that idea and show how building little languages
+      in ruby is really simple. I'll show two examples: defining a
+      mini-language from scratch to build XMPP bots, and using it as part of
+      your screen-scraping toolbox.
+    speaker:
+      name: Roland Swingler
+      url: http://knaveofdiamonds.tumblr.com/
+    coverage:
+      - type: skillsmatter-video
+        url: https://skillsmatter.com/skillscasts/722-treetop
+        title: "SkillsMatter Skillscast : London Ruby User Group : Treetop"
+    custom_intro: "has been looking at [Treetop](http://treetop.rubyforge.org/)"
+  implementing-scheme-in-ruby:
+    title: Scheme
+    description: |-
+      [Scheme](http://groups.csail.mit.edu/mac/projects/scheme/) is a
+      member of the [Lisp](http://en.wikipedia.org/wiki/Lisp_programming_language)
+      family of languages, and is an excellent place to start if you're interested
+      in writing your own language. It's small and simple to parse, yet has several
+      advanced features that are only now becoming mainstream. Based on
+      [Heist](http://github.com/jcoglan/heist/), my main interpreter project, I present
+      a brief overview of Scheme and use [Treetop](http://treetop.rubyforge.org/) to
+      create a small runtime that includes booleans, integer arithmetic, variables,
+      user-defined functions, conditionals, recursion and lexical closures.
+    speaker:
+      name: James Coglan
+      url: http://blog.jcoglan.com/
+    coverage:
+      - type: skillsmatter-video
+        url: https://skillsmatter.com/skillscasts/723-implementing-scheme-in-ruby
+        title: "SkillsMatter Skillscast : London Ruby User Group : Implementing Scheme in Ruby"
+    custom_intro: "is writing a [Scheme interpreter in Ruby](http://github.com/jcoglan/stickup)"
+june:
+  rdf-in-rails:
+    title: RDF in Rails
+    description: |-
+      [Patrick Sinclair](http://metade.org) will be talking about publishing RDF
+      from Rails and getting the community to participate in [Linked Data](http://linkeddata.org).
+    speaker:
+      name: Patrick Sinclair
+      url: http://metade.org
+    coverage:
+      - type: skillsmatter-video
+        url: https://skillsmatter.com/skillscasts/775-rdf-in-rails
+        title: "SkillsMatter Skillscast : London Ruby User Group : RDF in Rails"
+    use_description_as_intro: true
+  dsl-or-a-code-smell:
+    title: DSL Or A Code Smell...
+    description: |-
+      DSLs are very powerful tools but are they always necessary?
+
+      This is a tale in code about my work on a small 'Request Throttling' library where I
+      thought I needed a DSL but it turned out I was sorely mistaken. I'll highlight some
+      common DSLing techniques and the decisions that steered me away from them.
+    speaker:
+      name: Abdel A. Saleh
+      url: http://twitter.com/abdels
+    coverage:
+      - type: skillsmatter-video
+        url: https://skillsmatter.com/skillscasts/776-dsl-or-a-code-smell
+        title: "SkillsMatter Skillscast : London Ruby User Group : DSL or a code smell..."
+    custom_intro: recently ran a code review of a DSL he was writing at work.  He's
+      going to let us know what he learned from that experience
+  2-apps-1-test-distributed-ruby-testing:
+    title: '2 Apps, 1 Test : Distributed Ruby Unit Testing'
+    description: |-
+      [Tom Lea](http://tomlea.co.uk/) has a distributed testing framework called
+      [Drunit](http://github.com/cwninja/drunit/) that he's going to tell us about.
+      Drunit (from the
+      [Readme](http://github.com/cwninja/drunit/blob/master/README.markdown))
+      is:
+
+      > A library for running tests across multiple applications from
+      > a single test case.
+
+      and, crucially:
+
+      > Over 14% more awesome than a bag of chips.
+    speaker:
+      name: Tom Lea
+      url: http://tomlea.co.uk/
+    coverage:
+      - type: skillsmatter-video
+        url: https://skillsmatter.com/skillscasts/777-2-apps-1-test-distributed-ruby-testing
+        title: "SkillsMatter Skillscast : London Ruby User Group : 2 apps, 1 test : Distributed
+          ruby testing"
+    use_description_as_intro: true
+july:
+  do-mix-your-drinks:
+    title: Do Mix Your Drinks
+    description: |-
+      [Tom Stuart](http://experthuman.com/) will be talking about how abstract algebra
+      is useful for Ruby programmers, both when writing everyday programs and when
+      going to the pub afterwards. As an example he'll show how to use his
+      [VectorSpace](http://github.com/tomstuart/vector_space) library to compare
+      and manipulate structured data for free.
+    speaker:
+      name: Tom Stuart
+      url: http://experthuman.com/
+    coverage:
+      - type: slides
+        url: https://speakerdeck.com/tomstuart/do-mix-your-drinks
+        title: Do Mix Your Drinks
+      - type: skillsmatter-video
+        url: https://skillsmatter.com/podcast/agile-testing/do-mix-your-drinks
+        title: "SkillsMatter Skillscast : London Ruby User Group : Do Mix Your Drinks"
+    use_description_as_intro: true
+  ruby-arduino:
+    title: Ruby+Arduino
+    description: |-
+      [Arduino](http://www.arduino.cc/) is an inexpensive Open Source physical computing
+      platform which makes building interactive gadgets of your design
+      much easier on the hardware side. Now let's add some Ruby
+      so programming those gadgets becomes easy too...
+    speaker:
+      name: Tomasz Wegrzanowski
+      url: http://t-a-w.blogspot.com/
+    coverage:
+      - type: skillsmatter-video
+        url: https://skillsmatter.com/skillscasts/840-rubyarduino
+        title: "SkillsMatter Skillscast : London Ruby User Group : Ruby+Arduino"
+    custom_intro: will be giving a talk that he describes as follows
+august:
+  making-your-rails-app-kick-ass-with-ruby-prof-and-kcachegrind:
+    title: Making your rails app kick ass with ruby-prof and kcachegrind
+    description: |-
+      I've used the [ruby-prof](http://ruby-prof.rubyforge.org/) and
+      [kcachegrind](http://kcachegrind.sourceforge.net/html/Home.html) tools a few
+      times to profile some of the rails projects I've worked on. They're powerful
+      tools that can let you dig down into the bowels of your code and find the
+      real trouble-makers, but they require a bit of familiarity as they really
+      are a bit of information-overload. So I thought I could give a talk on
+      how to set them up - where/how to use them and what they can do for you.
+    speaker:
+      name: Taryn East
+      url: http://www.taryneast.com/
+    coverage:
+      - type: skillsmatter-video
+        url: https://skillsmatter.com/skillscasts/868-making-your-rails-app-kick-ass-with-ruby-prof-and-kcachegrind
+        title: "SkillsMatter Skillscast : London Ruby User Group : Making your rails app kick
+          ass with ruby-prof and kcachegrind"
+    custom_intro: wants to talk to us about profiling
+  amqp-in-ruby:
+    title: AMQP in Ruby
+    description: |-
+      [Alex Graul](http://www.sho.ch/) is going to talk about AMQP messaging with ruby.
+
+      > [AMQP](http://amqp.org) is a powerful, flexible and completely open messaging standard.
+      > Capable of scaling to millions of messages a second with incredibly low latency, AMQP is an
+      > fantastic backbone on which to build service architectures. In this talk I'll give
+      > you an overview of the AMQP standard, an introduction to synchronous and asynchronous
+      > libraries for working with AMQP in Ruby and some examples uses.
+
+      If he's finished writing it, [Gerhard Lazu](http://www.gerhardlazu.com/) will do a
+      demo of a app for buffering [ICY streams](http://en.wikipedia.org/wiki/SHOUTcast) using AMQP.
+    speaker:
+      name: Alex Graul
+      url: http://www.sho.ch/
+    coverage:
+      - type: skillsmatter-video
+        url: https://skillsmatter.com/skillscasts/867-amqp-in-ruby
+        title: "SkillsMatter Skillscast : London Ruby User Group : AMQP in Ruby"
+    use_description_as_intro: true
+september:
+  coding-dojo:
+    title: Coding Dojo
+    description: |-
+      For this meeting we'll be running a [Coding
+      Dojo](http://codingdojo.org/cgi-bin/wiki.pl?WhatIsCodingDojo).  You can find out
+      much more detail on these at the [Coding Dojo wiki](http://codingdojo.org/), but
+      the basic idea is as follows:
+
+      > The Dojo starts with the definition of a problem to be worked on.  It'll be something
+      > relatively simple, but with enough scope for plenty of interesting choices to be made
+      > about the design.  We'll have one laptop connected to a projector and two developers
+      > will pair on it to iterate towards a solution.  Every so often, the "driving" developer
+      > (the one at the keyboard) will sit down, the other developer will become the "driver"
+      > and another member of the group will step up to complete the pair.  Lather,
+      > rinse, repeat.
+
+      For our Dojo, because the group is so large, we plan to split the attendees on
+      the night into 2 or 3 groups to work on the problem and will time the "every so
+      often" such that everyone should get a turn at the laptop.  To help speed up the
+      splitting into groups on the night [you should add your name to a team on our
+      spreadsheet](http://spreadsheets.google.com/ccc?key=0Ai86AO7glNC9dFg4cEJkSUhOaEpCT0VHNnlWYnFld0E&hl=en_GB).
+      To frame the Dojo-ing we'll introduce the concept of Dojo's at the start of the
+      evening in a bit more detail, as well as describe the problem to be worked on,
+      and then at the end of the meeting, we'll go round each group and let them say
+      how they found the experience and describe their solution.  There'll also be
+      one or two people floating around not participating, but making sure that the
+      Dojo is running smoothly and giving advice to groups struggling.
+
+      Hopefully everyone gets a turn at the laptop and so everyone will write some
+      code on the night.  We hope it'll be a good way of letting inexperienced developers
+      see how more experience developers approach problems and hopefully learn a lot
+      by watching and working with them.  Of course, those experienced developers will
+      also get a chance to be pulled up on things and forced to think outside of their,
+      perhaps, fixed mindsets.
+
+      There are still some details to be thrashed out, like what the problem will be,
+      and how to split the meeting up into groups to ensure a even spread of ability
+      in each group (see the
+      [spreadsheet](http://spreadsheets.google.com/ccc?key=0Ai86AO7glNC9dFg4cEJkSUhOaEpCT0VHNnlWYnFld0E&hl=en_GB)).
+      We'll discuss all that on [the mailing list](/mailing-list), so do sign up and
+      follow along.
+
+      The idea for this meeting wouldn't have been possible without help from
+      [Matt Wynne](http://blog.mattwynne.net/) and [Ivan Sanchez](http://isanchez.net/),
+      who have both run Dojo's in the past and will be helping out on [the mailing
+      list](/mailing-list) and on the evening itself.
+
+      The code produced by each of the 3 groups is available on the [LRUG github
+      account](http://github.com/lrug):
+
+      * [Pirates](http://github.com/lrug/kata-minesweeper/tree/lrug-pirate-group)
+      * [Ninjas](http://github.com/lrug/kata-minesweeper/tree/lrug-ninja-group)
+      * [Zombies](http://github.com/lrug/kata-minesweeper/tree/lrug-zombie-group)
+    speaker:
+      - name: Murray Steele
+        url: http://h-lame.com
+      - name: Matt Wynne
+        url: http://blog.mattwynne.net/
+      - name: Ivan Sanchez
+        url: http://isanchez.net/
+    coverage:
+      - type: skillsmatter-video
+        url: https://skillsmatter.com/skillscasts/973-coding-dojo-973
+        title: "SkillsMatter Skillscast : London Ruby User Group : Coding Dojo"
+    use_description_as_intro: true
+october:
+  a-trio-of-gems:
+    title: "A trio of gems"
+    description: |-
+      [Brent Snook](http://fuglylogic.com/) offered to talk about one or more of the
+      following three gems he's been working on:
+
+      * [baldrick](http://github.com/brentsnook/baldrick/) - used for gluing stuff together;
+        can be used to monitor RSS among other things
+      * [numerouno](http://github.com/brentsnook/numerouno/) - English natural language parser
+        for numbers ('seventy seven'.as_number == 77)
+      * [bumps](http://github.com/brentsnook/bumps/) - used to pull in Cucumber features
+        from another source and also push the results of a run
+
+      There was most interest in [bumps](http://github.com/brentsnook/bumps/) but
+      if you get on our [mailing list](/mailing-list) you can let him know which you'd
+      rather hear more about.
+    speaker:
+      name: Brent Snook
+      url: http://fuglylogic.com/
+    coverage:
+      - type: skillsmatter-video
+        url: https://skillsmatter.com/skillscasts/1100-a-trio-of-gems
+        title: "SkillsMatter Skillscast : London Ruby User Group : A trio of gems"
+    use_description_as_intro: true
+  thinking-functionally-in-ruby:
+    title: Thinking Functionally in Ruby
+    description: |-
+      During our last meeting, [Tom Stuart](http://experthuman.com/) was surprised by how
+      many people (both Ruby newbies "Rails not Ruby" programmers) were asking questions
+      about [Enumerable](http://www.ruby-doc.org/core/classes/Enumerable.html), e.g. what
+      `map`/`inject`/`zip` etc do.  Tom has massive functional chops and is going to give
+      a talk that starts with this and then expands into a rant about programming in a
+      functional style.
+    speaker:
+      name: Tom Stuart
+      url: http://experthuman.com/
+    coverage:
+      - type: slides
+        url: https://speakerdeck.com/tomstuart/thinking-functionally-in-ruby
+        title: Thinking Functionally in Ruby
+      - type: skillsmatter-video
+        url: https://skillsmatter.com/podcast/ajax-ria/enumerators
+        title: "SkillsMatter Skillscast : London Ruby User Group : Thinking Functionally in Ruby"
+    use_description_as_intro: true
+november:
+  is-your-sysadmin-dumber-than-a-hamster:
+    title: Is Your Sysadmin Dumber Than a Hamster?
+    description: |-
+      Or, How to automate your sysadmin out of a job, and into a more interesting job.
+
+      [John Arundel](http://bitfieldconsulting.com/) offered to do a talk about
+      [Puppet](http://reductivelabs.com/products/puppet) and
+      [Chef](http://wiki.opscode.com/display/chef/) covering some or more of the
+      following topics:
+
+      * Why aren't sysadmins as smart as developers?
+      * How do you build 100 servers in a day?
+      * How to automate the dumb stuff
+      * Why it's quicker to do things more slowly
+      * How to convince your boss you need an automated infrastructure
+      * Why automation gives you staging and continuous integration for free
+    speaker:
+      name: John Arundel
+      url: http://bitfieldconsulting.com/
+    coverage:
+      - type: skillsmatter-video
+        url: https://skillsmatter.com/podcast/ajax-ria/is-your-sysadmin-dumber-than-a-hamster-how-to-automate-your-sysadmin-out-of-a-job-and-into-a-more-interesting-job
+        title: "SkillsMatter Skillscast : London Ruby User Group : Is Your Sysadmin Dumber Than a
+          Hamster?"
+      - type: slides
+        url: http://www.slideshare.net/bitfield/agile-sysadmin-and-the-art-of-infrastructure-automation-2493286
+        title: "Slideshare: Agile Sysadmin and the Art of Infrastructure Automation"
+    use_description_as_intro: true
+  drunken-build-monkey:
+    title: "Drunken Build Monkey"
+    description: |-
+      [Julian Simpson](http://www.juliansimpson.org/) has *seen* things.  Scary things.
+      In a career that has spanned 15 years of Unix systems administration with
+      detours into continuous integration and build management, he's seen quite a
+      lot.  By day he works in a Ruby on Rails development team in London.  By night
+      he blogs about CI as [The Build Doctor](http://www.build-doctor.com/).  In this
+      talk he's going to discuss testing infrastructure before you deploy it, more
+      [Puppet](http://reductivelabs.com/products/puppet), declarative systems, CI,
+      and top tips for developers who want to get code into production and still have
+      time to go to the pub afterwards.
+    speaker:
+      name: Julian Simpson
+      url: http://www.juliansimpson.org/
+    coverage:
+      - type: skillsmatter-video
+        url: https://skillsmatter.com/podcast/ajax-ria/drunken-build-monkey
+        title: "SkillsMatter Skillscast : London Ruby User Group : Drunken Build Monkey"
+      - type: slides
+        url: http://www.slideshare.net/simpsonjulian/lrug
+        title: "Slideshare : We're all developers now"
+    use_description_as_intro: true
+december:
+  ddd-domain-driven-design:
+    title: DDD (Domain Driven Design)
+    description: |-
+      I *also* think that of the major Ruby ORM libraries, only Sequel is really
+      aligned with DDD in the first place, so if you're using anything else you've
+      already compromised the model (although again, possibly that's a discussion
+      for another time).
+    speaker:
+      name: Alex Young
+      url: http://blog.blackkettle.org/
+    coverage:
+      - type: skillsmatter-video
+        url: https://skillsmatter.com/podcast/ajax-ria/domain-driven-design-1187
+        title: "SkillsMatter Skillscast : London Ruby User Group : DDD (Domain Driven Design)"
+    custom_intro: |-
+      is going to talk about DDD.  Chances are his talk will be based on [a comment he made on the
+      mailing list](http://lists.lrug.org/pipermail/chat-lrug.org/2009-November/004312.html)
+  javascript-stories:
+    title: "Javascript Stories: The Animal, Mineral or Vegetable guide to testing
+      javascript in web applications"
+    description: |-
+      The talk will cover how to use [capybara](http://github.com/jnicklas/capybara) with
+      [cucumber](http://cukes.info/) to easily write and run stories including javascript
+      functionality. The talk should be useful to people who don't currently test their
+      javascript, or those who are already doing so with another framework.
+    speaker:
+      name: Rob Holland
+      url: http://blog.the-it-refinery.co.uk
+    coverage:
+      - type: skillsmatter-video
+        url: https://skillsmatter.com/podcast/ajax-ria/javascript-stories
+        title: "SkillsMatter Skillscast : London Ruby User Group : Javascript Stories: The Animal,
+          Mineral or Vegetable guide to testing javascript in web applications."
+    custom_intro: describes his talk as follows
