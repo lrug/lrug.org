@@ -336,3 +336,20 @@ september:
       Self-hosting is all the rage these days. Join me as I discuss everything hosting, from
       setting up and securing the server, to zero-downtime and blue-green deploys. All this
       without Docker, and using just Bash commands.
+
+december:
+  the-goal-pattern:
+    title: "The Goal Pattern"
+    speaker:
+      name: Denis Defreyne
+      url: https://denisdefreyne.com/
+    description: |
+      Effectful code is hard to manage. It often leads to monolithic code that is hard to think
+      about, let alone test, with unhandled edge cases.
+
+      This talk introduces a pattern that makes effectful code easier to handle. It restores
+      modularity and thereby makes the code easier to reason about, and it makes the code testable
+       and resilient.
+
+      In this talk, I will walk through the components of this concept, demonstrate its use in a
+      real-world setting, and dive more deeply into its applications, pros, and cons.
