@@ -532,12 +532,12 @@
     "url":"https://meetcleo.com",
     "logo": {
       "sidebar": {
-        "url":"https://assets.lrug.org/images/cleo_logo_small.png",
+        "url":"https://assets.lrug.org/images/cleo_cocoa_logo_small.png",
         "width":"120",
         "height":"120"
       },
       "main": {
-        "url":"https://assets.lrug.org/images/cleo_logo_medium.png",
+        "url":"https://assets.lrug.org/images/cleo_cocoa_logo_medium.png",
         "width":"260",
         "height":"260"
       }
