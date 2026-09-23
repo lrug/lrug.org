@@ -336,6 +336,16 @@ september:
       Self-hosting is all the rage these days. Join me as I discuss everything hosting, from
       setting up and securing the server, to zero-downtime and blue-green deploys. All this
       without Docker, and using just Bash commands.
+october:
+  stop-getting-ghosted:
+    title: "Stop getting ghosted: How we implemented message delivery resilience at Cleo"
+    speaker:
+      name: Lea Whitelaw
+      url: https://github.com/leawhitelaw
+    description: |
+      An overview of how we implemented a recovery endpoint for Cleo’s chat system. When
+      streaming and websockets fail, what can you do to ensure the user always gets the
+      message?
 
 december:
   the-goal-pattern:
