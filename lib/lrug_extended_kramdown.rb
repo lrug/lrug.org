@@ -1,4 +1,5 @@
 require "kramdown/parser/kramdown"
+require_relative "../lib/lrug/models"
 
 module Kramdown
   module Parser
@@ -30,8 +31,7 @@ module Kramdown
 
       def render_coverage(year, month, talk_id)
         coverage = find_coverage(year, month, talk_id)
-          # skillsmatter-video is a dead video link we shouldn't publish
-          .reject { |coverage_item| coverage_item["type"] == "skillsmatter-video" }
+          .reject { |coverage_item| Lrug::Coverage::BAD_COVERAGE.include? coverage_item["type"] }
 
         return unless coverage.any?
 

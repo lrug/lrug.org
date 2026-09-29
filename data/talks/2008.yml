@@ -1,0 +1,586 @@
+---
+february:
+  rails-is-not-the-only-fruit:
+    title: Rails is not the only fruit
+    description: |-
+      An exploration of other web frameworks available in Ruby
+    speaker:
+      name: James Adam
+      url: http://interblah.net/
+    coverage: []
+  a-ruby-journey:
+    title: A Ruby Journey
+    description: |-
+      The people that inspuired Rob in his journey into Ruby
+    speaker:
+      name: Rob McKinnon
+      url: https://github.com/robmckinnon
+    coverage: []
+  adobe-flex:
+    title: "Adobe Flex: what it is, why he uses it with ruby"
+    description: |-
+      Learn what Adobe Flex is and how to use it in ruby to build rich web applications
+    speaker:
+      name: Daniel Tenner
+      url: http://www.inter-sections.net/
+    coverage: []
+  when-shouldnt-you-use-a-dsl:
+    title: When shouldn't you use a DSL? and what can you do instead?
+    description: |-
+      Understand what DSLs are good for, and where you should adopt a different
+      approach because they're not a one-size-fits-all solution
+    speaker:
+      name: Dafydd Rees
+      url: http://www.dafydd.net/
+    coverage: []
+  rails-deployment-platforms:
+    title: Rails deployment platforms
+    description: |-
+      A review of the complex ecosystem for deploying your rails application
+    speaker:
+      name: David Salgado
+      url: http://roninonrails.blogspot.com/
+    coverage: []
+  pattern-matching-in-ruby:
+    title: Pattern matching in ruby
+    description: |-
+      Looking at pattern matching in haskell and exploring a gem to let you do
+      something similar in Ruby
+    speaker:
+      name: Roland Swingler
+      url: http://del.icio.us/knaveofdiamonds/
+    coverage: []
+  design-patterns-in-ruby:
+    title: Design patterns in ruby
+    description: |-
+      What are design patterns and how can you identify the places to use them
+      in your ruby code?
+    speaker:
+      name: Laurie Young
+      url: http://wildfalcon.com/
+    coverage: []
+march:
+  challenges-in-making-ruby-run-effectively-on-a-jvm:
+    title: Challenges in making Ruby run effectively on a JVM
+    description: |-
+      [Kresten Krab Thorup](http://www.version2.dk/blogs/krestenkrabthorup),
+      track host and speaker at both
+      [QCon](http://qcon.infoq.com/london/tracks/show_track.jsp?trackOID=86)
+      and [RubyFools](http://jaoo.dk/ruby-cph/tracks/show_track.jsp?trackOID=106),
+      will provide an overview of the issues, trade-offs and challenges in
+      making dynamic object-oriented languages run effectively; both in general,
+      and specifically making Ruby run well on the JVM.  Kresten has many years
+      deep knowledge of getting the most out of a JVM, and has recently been
+      working on an research project on building yet another JVM-based virtual
+      machine for Ruby and thus, the talk is organized around issues and
+      findings in building this virtual machine.
+    speaker:
+      name: Kresten Krab Thorup
+      url: http://www.version2.dk/blogs/krestenkrabthorup
+    coverage:
+      - type: skillsmatter-video
+        url: https://skillsmatter.com/podcast/ajax-ria/challenges-in-making-ruby-run-effectively-on-a-jvm
+        title: "SkillsMatter Skillscast : London Ruby User Group : Challenges in
+          making Ruby run effectively on a JVM"
+      - type: google-video
+        url: http://video.google.com/videoplay?docid=4419988168845761981
+        title: "SkillsMatter Skillscast : London Ruby User Group : Challenges in
+          making Ruby run effectively on a JVM"
+    use_description_as_intro: true
+  mobileact:
+    title: "mobileAct: a high-risk Rails app for Channel 4"
+    description: |-
+      [Thomas Pomfret](http://mintdigital.com/) is going to give us a trailer
+      version of his [Scotland On Rails
+      talk](http://www.scotlandonrails.com/talks#mobileact_a_highrisk_rails_app_for_channel_4).
+      The blurb from the conference website says:
+
+      > mobileAct Unsigned is Channel 4 TV search for the best unsigned band in
+      > Britain. The site lets bands and fans to communicate and share media.
+      > In addition, users get to vote on who should win the million pound
+      > recording deal. "mobileAct: a high-risk Rails app for Channel 4" will
+      > report back on Mint's experiences building this mass-market application.
+      > In the light of recent TV voting scandals, the spotlight was on voting.
+      > In a very public arena, we had to make sure not only that the vote was
+      > fair, but that it could be seen to be fair.
+
+      So we can expect his "trailer" to cover some or all of that.
+    speaker:
+      name: Thomas Pomfret
+      url: http://mintdigital.com/
+    coverage:
+      - type: skillsmatter-video
+        url: http://skillsmatter.com/podcast/ajax-ria/mobileact-a-high-risk-rails-app-for-channel-4
+        title: "SkillsMatter Skillscast : London Ruby User Group : mobileAct: a
+          high-risk Rails app for Channel 4"
+      - type: google-video
+        url: http://video.google.com/videoplay?docid=4044506860593865662
+        title: "SkillsMatter Skillscast : London Ruby User Group : mobileAct: a
+          high-risk Rails app for Channel 4"
+    use_description_as_intro: true
+  handling-long-running-tasks-in-rails:
+    title: Handling Long-Running Tasks in Rails
+    description: |-
+      [Andrew Stewart](http://blog.airbladesoftware.com/) is also talking at
+      [Scotland On Rails](http://www.scotlandonrails.com/talks#handling_longrunning_tasks_in_rails)
+      and so as not to be shown up by Thomas's extra preparation is also going to
+      give us a trailer for his talk, described on the conference site as follows:
+
+      > Rails is a web framework and thus designed for HTTP's synchronous
+      > request and response: you make a request to the application, the
+      > application executes it and returns the response. For your application
+      > to feel snappy its filters and actions should take no more than a few
+      > milliseconds to execute. But what do you do if you need to run a task
+      > that takes more than a few milliseconds?  Perhaps ten minutes or even
+      > longer? You need to move execution off the request-response thread and
+      > onto a different one.
+      >
+      > Rails doesn't support this out of the box and it's not obvious how to do
+      > this correctly. Happily a number of plugins fill the gap. They all work
+      > differently, though, and cater for different situations. The one you
+      > need for your application depends on your situation.
+      >
+      > This session lays out all your options and explains where each plugin is
+      > best suited. It shows you how to work with each plugin. By the end you
+      > will be able to make an informed decision about which one you need in
+      > any given situation - and how to use it well.
+
+      We obviously can't expect a "trailer" to cover all the plugins and
+      solutions out there, but it's bound to cover some of them.
+    speaker:
+      name: Andrew Stewart
+      url: http://blog.airbladesoftware.com/
+    coverage:
+      - type: skillsmatter-video
+        url: https://skillsmatter.com/podcast/ajax-ria/handling-long-running-tasks-in-rails
+        title: "SkillsMatter Skillscast : London Ruby User Group : Handling long-running
+          tasks in Rails"
+      - type: google-video
+        url: http://video.google.com/videoplay?docid=5044315308846114666
+        title: "SkillsMatter Skillscast : London Ruby User Group : Handling long-running
+          tasks in Rails"
+    use_description_as_intro: true
+april:
+  show-n-tell:
+    title: Show'n'Tell
+    description: |-
+      <a href="http://www.flickr.com/photos/snowblink/2420964953/"
+      title="Pen Twirling Tom (20080414-R0010620.jpg) by snowblink, on Flickr">
+      <img src="http://farm3.static.flickr.com/2326/2420964953_e700c5ceaf_m.jpg"
+      width="240" height="240" alt="Pen Twirling Tom (20080414-R0010620.jpg)"
+      /></a>
+
+      Lots of people have probably written code (be it gems, rails plugins,
+      collections of rake tasks or little itch-scratcher scripts) that they're
+      kinda proud of, but don't really want to pad out a 5-10 minute demo /
+      show-off into one of our "traditional" 20-30 minute talks, so we never get
+      to hear about it. As a community we're probably missing out on a lot of
+      sweet ruby goodness because of that.
+
+      This month we hope to change that by running a bunch of Show'n'Tell
+      sessions where people show off their code for 5-10 mins.  There's no set
+      idea on what you should show off: perhaps a neat function you're really
+      proud of, perhaps a whole gem, perhaps just some `.irbrc` hacks that you
+      think are super useful. Anything goes, as long as it's code.
+
+      Some people that have volunteered so far:
+
+      * [James Adam](https://interblah.net) - [soup](http://github.com/lazyatom/soup) and
+        [vanilla](http://github.com/lazyatom/vanilla-rb)"
+      * [Daniel Lucraft](http://daniellucraft.com) - [rak](http://rak.rubyforge.org/)"
+      * [Alex MacCaw](http://www.eribium.org) - [juggernaut](http://juggernaut.rubyforge.org/)"
+      * [Rob McKinnon](https://github.com/robmckinnon) -
+        [morph](http://github.com/robmckinnon/morph)
+        ([slides](http://www.slideshare.net/delineator/data-code-lrug-april-2008))"
+      * [Sean O'Halpin](https://github.com/seanohalpin) - [doodle](http://doodle.rubyforge.org/)"
+      * [Dan Webb](http://danwebb.net/) - "Fiddling with [god](http://god.rubyforge.org/)" (perhaps
+        with a [starling](http://rubyforge.org/projects/starling/))'
+
+      There's plenty of room for more stuff, so [get in touch](/mailing-list) to
+      volunteer something.
+    speaker:
+      - name: James Adam
+        url: https://interblah.net
+      - name: Daniel Lucraft
+        url: http://daniellucraft.com
+      - name: Alex MacCaw
+        url: http://www.eribium.org
+      - name: Rob McKinnon
+        url: https://github.com/robmckinnon
+      - name: Sean O'Halpin
+        url: https://github.com/seanohalpin
+      - name: Dan Webb
+        url: http://danwebb.net/
+    coverage:
+      - type: skillsmatter-video
+        url: http://skillsmatter.com/podcast/ajax-ria/demos-soup-vanilla-rak-juggernaut-doodle-and-more
+        title: "SkillsMatter Skillscast : London Ruby User Group : Show'n'tell demos
+          of soup, vanilla, rak, juggernaut, doodle, and more"
+      - type: google-video
+        url: http://video.google.com/videoplay?docid=-2485256619067067324
+        title: "SkillsMatter Skillscast : London Ruby User Group : Show'n'tell demos
+          of soup, vanilla, rak, juggernaut, doodle, and more"
+      - type: slides
+        url: http://www.slideshare.net/delineator/data-code-lrug-april-2008
+        title: "Rob McKinnon : code == data - an introduction to morph"
+    use_description_as_intro: true
+may:
+  settling-new-caprica:
+    title: 'Settling New Caprica: getting your pet project off the ground.'
+    description: |-
+      <a href="http://www.flickr.com/photos/snowblink/2490612702/"
+      title="Lessons Learned (20080512-R0010896.jpg) by snowblink, on Flickr">
+      <img src="http://farm3.static.flickr.com/2275/2490612702_2b285ba70f_m.jpg"
+      width="240" height="240" alt="Lessons Learned (20080512-R0010896.jpg)" /></a>
+
+      [Tom Armitage](http://infovore.org/) launched a rails forum site called
+      [New Caprica](http://new-caprica.org/) back in March after ~9 months of
+      toil.  In his own words:
+
+      > On the way it's had two rewrites, I've taught myself
+      > [Test:Unit](http://www.ruby-doc.org/stdlib/libdoc/test/unit/rdoc/classes/Test/Unit.html),
+      > [RSpec](http://rspec.info/), [Capistrano](http://capify.org/), and a few
+      > other things through it, and it currently has about [74% C0
+      > coverage](http://eigenclass.org/hiki.rb?rcov) and a 2:1 Test:Code ratio.
+      >
+      > I'm also pretty exhausted, and now have the joy of wrangling real
+      > users.
+      >
+      > Anyhow, I thought there could be something fun in lessons learned, a
+      > few bits of advice I realised on the way, and perhaps a small demo of
+      > the software.
+    speaker:
+      name: Tom Armitage
+      url: http://infovore.org/
+    coverage:
+      - type: skillsmatter-video
+        url: https://skillsmatter.com/podcast/ajax-ria/settling-new-caprica-getting-your-pet-project-off-the-ground
+        title: "SkillsMatter Skillscast : London Ruby User Group : Settling New Caprica:
+          getting your pet project off the ground"
+      - type: google-video
+        url: http://video.google.com/videoplay?docid=-4946542997789300477
+        title: "SkillsMatter Skillscast : London Ruby User Group : Settling New Caprica:
+          getting your pet project off the ground"
+    use_description_as_intro: true
+  monkeyweaving:
+    title: 'Monkeyweaving: Live Native Monkeypatching'
+    description: |-
+      <a href="http://www.flickr.com/photos/snowblink/2490608134/"
+      title="Tim Becker (20080512-R0010881.jpg) by snowblink, on Flickr"><img
+      src="http://farm4.static.flickr.com/3270/2490608134_e56cbaee24_m.jpg"
+      width="240" height="240" alt="Tim Becker (20080512-R0010881.jpg)" /></a>
+
+      [Tim Becker](http://blog.kuriositaet.de) popped up on our [mailing
+      list](/mailing-list) to offer up a talk about a new meta-programming
+      library called [weave](http://weave.rubyforge.org/) that he'd been
+      developing. In his own words:
+
+      > `weave` is a library for 'live native monkey patching'. It provides a
+      > native wrapper to the C functions in the MRI Ruby implementation that
+      > are involved in creating native extensions. This allows you to swap
+      > native code in and out at runtime.
+    speaker:
+      name: Tim Becker
+      url: http://blog.kuriositaet.de
+    coverage:
+      - type: write-up
+        url: http://blog.kuriositaet.de/?p=232
+        title: "Der ehrgeizlose Programmierer : slides for LRUG tonight"
+      - type: slides
+        url: http://www.kuriositaet.de/lrug/introducing_weave.pdf
+        title: "Slides : Introducing Weave"
+      - type: slides
+        url: http://www.kuriositaet.de/lrug/introducing_bytes.pdf
+        title: "Slides : Introducing Bytes"
+      - type: skillsmatter-video
+        url: https://skillsmatter.com/podcast/ajax-ria/monkeyweaving-live-native-monkeypatching
+        title: "SkillsMatter Skillscast : London Ruby User Group : Monkeyweaving: Live
+          Native Monkeypatching"
+      - type: google-video
+        url: http://video.google.com/videoplay?docid=-2152474464057803000
+        title: "SkillsMatter Skillscast : London Ruby User Group : Monkeyweaving: Live
+          Native Monkeypatching"
+    use_description_as_intro: true
+june:
+  ruby-as-multimedia-glue:
+    title: Ruby as Multimedia glue
+    description: |-
+      <a href="http://www.flickr.com/photos/snowblink/2574308698/"
+      title="Nick's DS Playing Timeshifted TV (20080609-R0011214.jpg) by snowblink,
+      on Flickr"><img src="http://farm4.static.flickr.com/3022/2574308698_9316b8f9a0_m.jpg"
+      width="240" height="240" alt="Nick's DS Playing Timeshifted TV
+      (20080609-R0011214.jpg)" /></a>
+
+      [Nick Ludlam](http://nick.recoil.org) offers up:
+
+      > A talk about implementing a gem for communicating with the open source
+      > [MythTV](http://www.mythtv.org/) software, streaming and transcoding
+      > recordings on the fly with the aid of [Mongrel](http://mongrel.rubyforge.org/),
+      > and viewing them using a custom interface written using
+      > [RubyCocoa](http://rubycocoa.sourceforge.net/) on Mac OS X. The talk
+      > will be a whistlestop tour of the various aspects of getting all this
+      > working.
+
+      Nick released the various components that he talked about on [his
+      website](https://nick.recoil.org/blogarchive/2009-03-24-code/) and on his [github
+      account](http://github.com/nickludlam/).
+    speaker:
+      name: Nick Ludlam
+      url: http://nick.recoil.org
+    coverage:
+      - type: slides
+        url: https://skillsmatter.com/custom/presentations/ruby-mythtv-talk.pdf
+        title: "Ruby as Multimedia Glue"
+      - type: write-up
+        url: https://nick.recoil.org/blogarchive/2008-09-29-scripting-mythtv/
+        title: "nick.recoil.org : scripting MythTV"
+      - type: skillsmatter-video
+        url: https://skillsmatter.com/podcast/ajax-ria/ruby-as-multimedia-glue
+        title: "SkillsMatter Skillscast : London Ruby User Group : Ruby as multimedia glue"
+      - type: google-video
+        url: http://video.google.com/videoplay?docid=-8605443571082487158
+        title: "SkillsMatter Skillscast : London Ruby User Group : Ruby as multimedia glue"
+    use_description_as_intro: true
+  genomes-on-rails:
+    title: Genomes On Rails
+    description: |-
+      <a href="http://www.flickr.com/photos/snowblink/2569085302/" title="Big
+      (20080609-R0011197.jpg) by snowblink, on Flickr"><img
+      src="http://farm4.static.flickr.com/3054/2569085302_447b926faa_m.jpg"
+      width="240" height="240" alt="Big (20080609-R0011197.jpg)" /></a>
+
+      [Matt Wood](https://github.com/mza) is going to give a talk about the work
+      he's been doing with rails at work:
+
+      > [The Human Genome Project](http://www.sanger.ac.uk/HGP/) aimed to
+      > determine the entire DNA sequence of man: it was completed in 13 years
+      > after an international effort and a billion dollar budget. To further
+      > our understanding of DNA, genes, proteins and their function, the
+      > [Wellcome Trust Sanger Institute](http://sanger.ac.uk) is building the
+      > next generation of high throughput sequencing, using Ruby and Rails.
+      > This talk will cover the infrastructure required to handle
+      > multi-petabyte, highly scalable systems and how we're using Rails to
+      > quickly build flexible software to support this effort.
+
+      Matt also gave a longer version of this talk at [RailsConf Portland
+      2008](http://en.oreilly.com/rails2008/public/schedule/detail/1846) on the
+      Sunday.
+    speaker:
+      name: Matt Wood
+      url: https://github.com/mza
+    coverage:
+      - type: slides
+        url: https://www.slideshare.net/slideshow/genomes-on-rails-486498/486498
+        title: Genomes on Rails
+      - type: skillsmatter-video
+        url: https://skillsmatter.com/podcast/ajax-ria/genomes-on-rails
+        title: "SkillsMatter Skillscast : London Ruby User Group : Genomes on Rails"
+      - type: google-video
+        url: http://video.google.com/videoplay?docid=-1098999428505936718
+        title: "SkillsMatter Skillscast : London Ruby User Group : Genomes on Rails"
+    use_description_as_intro: true
+july:
+  rabbitmq-ruby:
+    title: RabbitMQ + Ruby
+    description: |-
+      [Ben Hood](https://github.com/0x6e6562) kindly offered to step in and talk
+      about some work he's been doing with [RabbitMQ](http://www.rabbitmq.com/)
+      and ruby. The outline is:
+
+      * Characterize the motivations behind messaging in Ruby applications
+      * Touch on the current approaches that have been taken
+      * Look at what AMQP offers in general
+      * Discuss how this potential can be harnessed in a Rubyesque fashion
+      * Elaborate using real example on what has been developed to date and what
+        is currently being worked on
+    speaker:
+      name: Ben Hood
+      url: https://github.com/0x6e6562
+    coverage:
+      - type: skillsmatter-video
+        url: https://skillsmatter.com/podcast/ajax-ria/rabbitmq-and-ruby
+        title: "SkillsMatter Skillscast : London Ruby User Group : RabbitMQ + Ruby"
+      - type: google-video
+        url: http://video.google.com/videoplay?docid=-1834210641779857494&hl=en
+        title: "SkillsMatter Skillscast : London Ruby User Group : RabbitMQ + Ruby"
+    use_description_as_intro: true
+  acts-as-xapian:
+    title: Acts As Xapian
+    description: |-
+      [Francis Irving](http://flourish.org/) says:
+
+      > I'd like to give a talk about my new Rails search engine plugin,
+      > which is called [acts_as_xapian](http://github.com/frabcus/acts_as_xapian/)
+
+      Francis will probably also cover some of the site's he's been using xapian
+      on, such as [WhatDoTheyKnow](http://www.whatdotheyknow.com/).
+    speaker:
+      name: Francis Irving
+      url: http://flourish.org/
+    coverage:
+      - type: skillsmatter-video
+        url: https://skillsmatter.com/podcast/ajax-ria/act-as-xapian
+        title: "SkillsMatter Skillscast : London Ruby User Group : Acts As Xapian"
+      - type: google-video
+        url: http://video.google.com/videoplay?docid=6233140832834795067&hl=en
+        title: "SkillsMatter Skillscast : London Ruby User Group : Acts As Xapian"
+    use_description_as_intro: true
+august:
+  ruby-watir:
+    title: Ruby / Watir
+    description: |-
+      [Aidy Lewis](http://agiletester.blogspot.com/) will give a talk on a Ruby
+      Watir framework that object models your AUT and uses Rspec Story Runner.
+    speaker:
+      name: Aidy Lewis
+      url: http://agiletester.blogspot.com/
+    coverage: []
+    use_description_as_intro: true
+september:
+  top-ten-most-horrendous-ruby-hacks:
+    title: Top Ten Most Horrendous Ruby Hacks
+    description: |-
+      [Daniel Lucraft](http://www.daniellucraft.com/blog) will be going through
+      10 horrendous ruby hacks, taken from code written by both himself and
+      others.  While he already has a number of horrible pieces of code, there's
+      always room for more, so don't be shy, send your examples to him (dan at
+      fluentradical dot com) and you may make the top ten!
+    speaker:
+      name: Daniel Lucraft
+      url: http://www.daniellucraft.com/blog
+    coverage: []
+    use_description_as_intro: true
+  rlisp-lisp-inside-ruby:
+    title: RLisp - Lisp inside Ruby
+    description: |-
+      [Tomasz Wegrzanowski](http://t-a-w.blogspot.com/) will be presenting a
+      talk on his project [RLisp](https://github.com/taw/rlisp), a Lisp
+      dialect naturally embedded in Ruby
+    speaker:
+      name: Tomasz Wegrzanowski
+      url: http://t-a-w.blogspot.com/
+    coverage: []
+    use_description_as_intro: true
+october:
+  event-stream-and-lrug-quiz:
+    title: EventStream and LRUG Quiz
+    description: |-
+      [Steve Ganly](http://concept-shop.com/) will first talk about developing
+      `EventStream` a technique to record and playback non-idempotent requests
+      on a web site. Initially a developers tool it also gives some interesting
+      possibilities when used in production too.
+
+      Steve will then host the LRUG pub quiz, covering the specialist topics of
+      Ruby, Rails and a whole cartload of stuff for geeks to chuckle over.
+    speaker:
+      name: Steve Ganly
+      url: http://concept-shop.com/
+    coverage: []
+    use_description_as_intro: true
+november:
+  packet-sniffing:
+    title: Packet Sniffing
+    description: |-
+      [James Darling](http://coupde.com/) has recently been hacking about with
+      the [Shazam iPhone app](http://www.shazam.com/music/web/pages/iphone.html)
+      and the [Last.fm API](http://www.last.fm/api) in an attempt to scrobble
+      his [vinyl listening habits](http://www.last.fm/user/Abscond/tracks).
+      Along the way he used a [ruby packet sniffing
+      tool](http://www.goto.info.waseda.ac.jp/~fukusima/ruby/pcap-e.html).
+
+      In this short talk he's going to show off the packet sniffer and the end-to-end
+      hack he came up with."
+
+      This talk was actually presented by [Chris Mear](http://feedmechocolate.com)
+      due to illness
+    speaker:
+      - name: James Darling
+        url: http://coupde.com/
+      - name: Chris Mear
+        url: https://feedmechocolate.com
+    coverage:
+      - type: skillsmatter-video
+        url: https://skillsmatter.com/podcast/ajax-ria/packet-sniffing
+        title: "SkillsMatter Skillscast : London Ruby User Group : Packet Sniffing"
+      - type: google-video
+        url: http://video.google.com/videoplay?docid=-85168513489269464&hl=en
+        title: "SkillsMatter Skillscast : London Ruby User Group : Packet Sniffing"
+    use_description_as_intro: true
+  one-code-base-many-projects:
+    title: One code-base, Many projects
+    description: |-
+      [Jason Cale](http://jasoncale.com/) offered to run a talk / discussion
+      on how to cope with evolving a single project into a maintainable
+      code-base for multiple projects.  That's not a great distilation of his
+      idea, so here are his words:
+
+      > The basic premise of what I have now is a (yet another) custom CMS /
+      > E-commerce system that an agency commissioned me to build ..
+      >
+      > The system serves both flash websites (via restful apis), and a couple
+      > of html based ones .. I'm currently trying to work out the best way to
+      > keep a single code base that can serve present development, and future
+      > ones .. be flexible and 'hackable' and maintainable .. at the moment
+      > its a mix of plugins, config files and theme based extensions.
+      >
+      > I certainly don't have all the answers .. but with a bit of research I
+      > could present what I've come up with so far, other ideas I've come
+      > across (most things online I've found just mention it is hard) and then
+      > open it up for discussion.
+      >
+      > At the moment instead of it being 'lessons learned' etc, it would still
+      > be very present tense, because these problems are ones I'm still working
+      > through.
+
+      Jason might post on the [mailing list](/mailing-list) before the meeting
+      some of his ideas to help stimulate the discussion part of his talk.  So
+      if you are interested make sure you watch out for his mails.
+    speaker:
+      name: Jason Cale
+      url: http://jasoncale.com/
+    coverage:
+      - type: skillsmatter-video
+        url: https://skillsmatter.com/podcast/ajax-ria/one-code-base-many-projects
+        title: "SkillsMatter Skillscast : London Ruby User Group : One code-base, Many projects"
+      - type: google-video
+        url: http://video.google.com/videoplay?docid=5376247944588981030&hl=en
+        title: "SkillsMatter Skillscast : London Ruby User Group : One code-base, Many projects"
+    use_description_as_intro: true
+december:
+  javascript-testing:
+    title: Javascript Testing
+    description: |-
+      <a href="http://www.flickr.com/photos/snowblink/3096183040/"
+      title="Javascript Testing (R0012224) by snowblink, on Flickr"><img
+      src="http://farm4.static.flickr.com/3117/3096183040_a5ca82112f.jpg"
+      width="500" height="375" alt="Javascript Testing (R0012224)" /></a>
+
+      [Chris O'Sullivan](http://thechrisoshow.com/) loves testing, and it's been
+      eating away at him that he can't test the javascript he writes for his rails
+      apps.  In this talk he'll be showing off how he finally worked out how to test
+      this stuff and return to the shores of Testingland.
+    speaker:
+      name: Chris O'Sullivan
+      url: http://thechrisoshow.com/
+    coverage:
+      - type: skillsmatter-video
+        url: https://skillsmatter.com/skillscasts/443-javascript-testing
+        title: 'SkillsMatter Skillscast : London Ruby User Group : Javascript Testing'
+    use_description_as_intro: true
+  ruby-vs-the-world:
+    title: Ruby Vs. The World
+    description: |-
+      <a href="http://www.flickr.com/photos/snowblink/3096183996/"
+      title="Matthew (R0012230) by snowblink, on Flickr"><img
+      src="http://farm4.static.flickr.com/3060/3096183996_52994ea89b.jpg"
+      width="500" height="375" alt="Matthew (R0012230)" /></a>
+
+      [Matthew Rudy Jacobs](http://matthewrudy.com/) has been comparing Ruby
+      against how other languages do similar things.  In this talk he's going
+      to present his findings and suggest some things that as Rubyists we might
+      learn from our alternate language using brethren.
+    speaker:
+      name: Matthew Rudy Jacobs
+      url: http://matthewrudy.com/
+    coverage: []
+    use_description_as_intro: true

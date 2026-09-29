@@ -1,0 +1,564 @@
+---
+january:
+  dragonfly:
+    title: Dragonfly
+    description: |-
+      [Mark Evans](http://github.com/markevans) gave us an overview of a new file
+      attachment gem he'd written called [Dragonfly](http://github.com/markevans/dragonfly).
+      The interesting thing about this gem is that rather than specifying the thumbnail
+      sizes at the model level, you specify them at the point at which you want to
+      use them in the view and leave it up to caching to deal with performance.
+
+      Thanks to Mark for stepping in at the last minute!
+    speaker:
+      name: Mark Evans
+      url: http://github.com/markevans
+    coverage:
+      - type: skillsmatter-video
+        url: https://skillsmatter.com/podcast/ajax-ria/dragonfly
+        title: "SkillsMatter Skillscast : London Ruby User Group : Dragonfly"
+    use_description_as_intro: true
+  an-update-on-redcar:
+    title: An update on Redcar
+    description: |-
+      [Daniel Lucraft](http://danlucraft.com/) is going to talk to us about
+      [Redcar](http://redcareditor.com/), the Ruby IDE he's been writing.  Daniel first talked
+      to us about it in [March last year](http://lrug.org/meetings/2009/02/17/march-2009-meeting)
+      and he wants to give us an update on how it's been going since then.  He recently [released
+      0.3](http://redcareditor.com/2009/12/christmas-gem-redcar-030dev/) and is looking
+      for interested rubyists to play start hacking on it.
+    speaker:
+      name: Daniel Lucraft
+      url: http://danlucraft.com/
+    coverage:
+      - type: skillsmatter-video
+        url: https://skillsmatter.com/podcast/ajax-ria/redcar
+        title: "SkillsMatter Skillscast : London Ruby User Group : An update on Redcar"
+    use_description_as_intro: true
+february:
+  rails-and-iphone-integration:
+    title: Rails & iPhone integration
+    description: Paul will talk to us about Rails & iPhone integration.
+    speaker:
+      name: Paul Ardeleanu
+      url: http://pardel.net/
+    coverage:
+      - type: skillsmatter-video
+        url: https://skillsmatter.com/skillscasts/1244-rails-iphone-integration
+        title: "SkillsMatter Skillscast : London Ruby User Group : Rails & iPhone Integration"
+    use_name_as_intro: true
+  using-websockets-with-eventmachine:
+    title: Using Websockets with EventMachine
+    description: |-
+      Using [Websockets](http://dev.w3.org/html5/websockets/) with
+      [EventMachine](http://rubyeventmachine.com/).
+    speaker:
+      name: Ismael Celis
+      url: http://www.estadobeta.com/
+    coverage:
+      - type: skillsmatter-video
+        url: https://skillsmatter.com/skillscasts/1255-using-websockets-with-eventmachine
+        title: "SkillsMatter Skillscast : London Ruby User Group : Using Websockets with
+          EventMachine"
+    use_name_as_intro: true
+  show-off:
+    title: Show Off!
+    description: |-
+      Joel will talk about [Show Off](http://github.com/schacon/showoff/);
+      ruby-based HTML presentation software (this talk might get a bit meta).
+    speaker:
+      name: Joel Chippindale
+      url: http://blog.monkeysthumb.org/
+    coverage:
+      - type: skillsmatter-video
+        url: https://skillsmatter.com/skillscasts/1252-show-off-a-ruby-based-html-presentation-software
+        title: "SkillsMatter Skillscast : London Ruby User Group : Show Off, a Ruby-Based HTML
+          Presentation Software"
+    use_name_as_intro: true
+  evolution-of-data-models-in-rails:
+    title: Evolution of data models in rails
+    description: Evolution of data models in Rails. Lessons learned.
+    speaker:
+      name: Lars Jorgensen
+      url: http://www.sanger.ac.uk/
+    coverage:
+      - type: skillsmatter-video
+        url: https://skillsmatter.com/skillscasts/1256-evolution-of-data-models-in-rails-lessons-learned
+        title: "SkillsMatter Skillscast : London Ruby User Group : Evolution of Data Models in
+          Rails - Lessons Learned"
+    use_name_as_intro: true
+  bowline:
+    title: Bowline - a ruby GUI framework
+    description: |-
+      [Bowline](http://github.com/maccman/bowline) - Alex has been building a
+      ruby GUI framework and wants to show it off.
+    speaker:
+      name: Alex MacCaw
+      url: http://www.eribium.org/
+    coverage:
+      - type: skillsmatter-video
+        url: https://skillsmatter.com/skillscasts/1245-bowline-a-ruby-gui-framework
+        title: "SkillsMatter Skillscast : London Ruby User Group : Bowline: A Ruby GUI Framework"
+    use_name_as_intro: true
+  intro-to-birdpie:
+    title: An intro to birdpie.com
+    description: |-
+      [birdpie.com](http://birdpie.com/) - Anup will introduce the site and
+      the architecture behind it; [Rails 3.0](http://rubyonrails.org/),
+      [Redis](http://code.google.com/p/redis/), and [Resque](http://github.com/defunkt/resque).
+    speaker:
+      name: Anup Narkhede
+      url: http://www.anup.info/
+    coverage:
+      - type: skillsmatter-video
+        url: https://skillsmatter.com/skillscasts/1246-architecture-of-birdpie-a-twitter-application
+        title: "SkillsMatter Skillscast : London Ruby User Group : Architecture of Birdpie, a
+          Twitter Application"
+    use_name_as_intro: true
+  rack-cache:
+    title: Rack::Cache
+    description: All about [Rack::Cache](http://tomayko.com/src/rack-cache/) and associated
+      things.
+    speaker:
+      name: Thomas Pomfret
+      url: http://mintdigital.com/
+    coverage:
+      - type: skillsmatter-video
+        url: https://skillsmatter.com/skillscasts/1257-rackcache-and-associated-things
+        title: "SkillsMatter Skillscast : London Ruby User Group : Rack::Cache and associated
+          things"
+    use_name_as_intro: true
+  decorating-the-domain:
+    title: Decorating the domain
+    description: Decorating the domain - Wrapping polymorphic presentation logic around
+      the model.
+    speaker:
+      name: Brent Snook
+      url: http://fuglylogic.com/
+    coverage:
+      - type: skillsmatter-video
+        url: https://skillsmatter.com/skillscasts/1254-decorating-the-domain-wrapping-polymorphic-presentation-logic-around-the-model
+        title: "SkillsMatter Skillscast : London Ruby User Group : Decorating the Domain - Wrapping
+          Polymorphic Presentation Logic Around the Model"
+    use_name_as_intro: true
+  some-rough-fibrous-material:
+    title: Some rough fibrous material
+    description: The mailing list suggested that Murray talk about [Fibers in Ruby
+      1.9](http://ruby-doc.org/core-1.9/classes/Fiber.html).
+    speaker:
+      name: Murray Steele
+      url: http://h-lame.com/
+    coverage:
+      - type: transcript
+        url: http://www.h-lame.com/talks/some-rough-fibrous-material
+        title: Talks ∋ Some rough fibrous material
+      - type: skillsmatter-video
+        url: https://skillsmatter.com/skillscasts/1247-fibers-in-ruby-1-9
+        title: "SkillsMatter Skillscast : London Ruby User Group : Fibers in Ruby 1.9"
+    use_name_as_intro: true
+march:
+  software-craftsmanship:
+    title: Software Craftsmanship
+    description: |-
+      This month [Chris Parsons](http://pa.rsons.org) and [Corey
+      Haines](http://www.coreyhaines.com/) will be leading us in an evening of exploration
+      of the ideas behind [Software Craftsmanship](http://manifesto.softwarecraftsmanship.org/).
+
+      > Where the agile movement focused on principles for developing better software, the software
+      > craftsmanship movement focuses on developing better software developers, growing out of a
+      > frustration with the current state of the software development industries. Starting with
+      > [Uncle Bob's keynote about 'craft over crap'][unclebob-quintessence],
+      > many companies and individuals started looking at concrete ways to advance our field into
+      > a true profession; the focus generally resting on two key areas: ways to effectively
+      > acquire new practices and ways to bring new people into our field.Chris and Corey will be
+      > presenting their thoughts on how this affects businesses and personal careers.
+      >
+      > With the emphasis on developer improvement, might we lose the focus on delivering business
+      > value?  Chris will talk about how craftsmanship ideas have been applied at
+      > [Eden](http://www.edendevelopment.co.uk/), showing there doesn't have to be a conflict
+      > between these two goals.
+      >
+      > The terms 'apprentice' and 'journeyman' are often thrown around without really defining
+      > what they mean in terms of acquiring skills and techniques.  Corey will discuss these
+      > words, describing concrete definitions that go past the FUD often associated with them
+      > (nobody is asking you to doff your cap or mop the floors with a toothbrush).
+      >
+      > We will then hold a Q&A session and answer people's questions and comments.  If there's
+      > time, Corey will discuss and perform a code kata, one helpful way to practice our
+      > techniques.
+
+      [unclebob-quintessence]: http://blog.objectmentor.com/articles/2008/08/14/quintessence-the-fifth-element-for-the-agile-manifesto
+    speaker:
+      - name: Chris Parsons
+        url: http://pa.rsons.org
+      - name: Corey Haines
+        url: http://www.coreyhaines.com/
+    coverage:
+      - type: skillsmatter-video
+        url: https://skillsmatter.com/podcast/agile-scrum/chris-parsons-software-craftsmanship-ideas-eden
+        title: "SkillsMatter Skillscast : London Ruby User Group : Chris Parsons Software
+          Craftmanship Ideas @ Eden"
+      - type: slides
+        url: http://www.slideshare.net/skillsmatter/chrisparsons
+        title: "Slideshare : Crafting software vs cashflow"
+      - type: skillsmatter-video
+        url: https://skillsmatter.com/podcast/ajax-ria/corey-haines-software-craftsmanship-terminology
+        title: "SkillsMatter Skillscast : London Ruby User Group : Corey Haines Software
+          Craftmanship Terminology"
+      - type: slides
+        url: http://www.slideshare.net/skillsmatter/coreyhaines
+        title: "Slideshare : 2 ways to be a software craftsman"
+    use_description_as_intro: true
+april:
+  what-every-computer-programmer-should-know-about-time:
+    title: What every computer programmer should know about time
+    description: |-
+      I've been putting some notes together on time similar in spirit (if not in detail) to
+      ["What every computer programmer should know about floating-point
+      arithmetic"](http://docs.sun.com/source/806-3568/ncg_goldberg.html) ranging from
+      localtime vs [UTC](http://en.wikipedia.org/wiki/Coordinated_Universal_Time), hardware
+      clocks and [NTP](http://en.wikipedia.org/wiki/Network_Time_Protocol), how to do accurate
+      timers in Javascript, calendars, date arithmetic, comparisons and gotchas, to
+      [Lamport](http://en.wikipedia.org/wiki/Lamport_timestamps)/[vector
+      clocks](http://en.wikipedia.org/wiki/Vector_clock) (the new black in the 'eventually
+      consistent' world of nosql).
+    speaker:
+      name: Sean O'Halpin
+      url: http://twitter.com/seanohalpin
+    coverage:
+      - type: skillsmatter-video
+        url: https://skillsmatter.com/podcast/ajax-ria/sean-ohalpin-what-every-computer-programmer-should-know-about-time
+        title: "SkillsMatter Skillscast : London Ruby User Group : What every computer programmer
+          should know about time"
+  mongodb:
+    title: MongoDB
+    description: |-
+      [Seth Edwards](http://codesnotdead.blogspot.com/), one of the committers to the C# driver for
+      [MongoDB](www.mongodb.org) (and who plays with the ruby driver in his spare time) is in town
+      and in has volunteered to give us a talk on MongoDB. He'll cover the use-cases for why we
+      might want to use MongoDB in our apps and also give examples of using the ruby driver.
+    speaker:
+      name: Seth Edwards
+      url: http://codesnotdead.blogspot.com/
+    coverage:
+      - type: skillsmatter-video
+        url: https://skillsmatter.com/podcast/ajax-ria/seth-edwards-mongodb
+        title: "SkillsMatter Skillscast : London Ruby User Group : MongoDB"
+    use_description_as_intro: true
+may:
+  ruby-profilers:
+    title: "(j)ruby profilers"
+    description: |-
+      [Dan Lucraft](http://danlucraft.com/) is going to talk to us about ruby profilers,
+      specifically his [jruby-prof](http://github.com/danlucraft/jruby-prof) gem.  Even
+      though his gem is for [jruby](http://jruby.org/) only, he's going to give us
+      a good grounding on "pure" ruby profilers first.
+    speaker:
+      name: Dan Lucraft
+      url: http://danlucraft.com/
+    coverage:
+      - type: skillsmatter-video
+        url: https://skillsmatter.com/skillscasts/1407-daniel-lucraft-ruby-profilers
+        title: "SkillsMatter Skillscast : London Ruby User Group : Ruby Profilers"
+    use_description_as_intro: true
+  tokyo-cabinet-tokyo-tyrant-and-kyoto-cabinet-the-world-of-mikio-ware:
+    title: 'Tokyo Cabinet, Tokyo Tyrant and Kyoto Cabinet: the world of [Mikio](http://1978th.net/)
+      ware'
+    description: |-
+      [Makoto Inoue](http://twitter.com/makoto_inoue) gave a short talk at the recent
+      [nosqleu conference](http://nosqleu.com/) about Tokyo Cabinet and he offered to give
+      a slightly retooled (and more ruby focussed) version of that talk for us.  The blurb
+      for his original talk is as follows:
+
+      > [Tokyo Cabinet](http://1978th.net/tokyocabinet/) is one of the first "Key Value" stores. It
+      > was released in 2007, but surprisingly small number of people knows what it is really
+      > capable of. Makoto, the maintainer of [Tokyo Cabinet
+      > Wiki](http://tokyocabinetwiki.pbworks.com) will unveil the core philosophy and exciting
+      > features behind these products.
+    speaker:
+      name: Makoto Inoue
+      url: http://twitter.com/makoto_inoue
+    coverage:
+      - type: skillsmatter-video
+        url: https://skillsmatter.com/skillscasts/1402-makoto-inoue-tokyo-cabinet-tokyo-tyrant-kyoto-cabinet-mikio-ware
+        title: "SkillsMatter Skillscast : London Ruby User Group : Tokyo Cabinet, Tokyo Tyrant
+          and Kyoto Cabinet: the World of Mikio Ware"
+    use_description_as_intro: true
+june:
+  my-first-ruby:
+    title: '"My First Ruby"'
+    description: |-
+      [Murray Steele](http://h-lame.com/) wants to talk about the first ruby script he ever wrote,
+      and he thinks you might be interested because (in his own words from the [mailing
+      list](/mailing-list) thread where he proposed the talk):
+
+      > 1. It's a mailing list with a web front-end.  The web stuff is pre-rails and I think it's
+      >    interesting in terms of "look how far we've come".  Seriously, if you've never done web
+      >    development without a higher-level framework like rails you'll be amazed.  (For anyone
+      >    who's heard of it, it uses [NARF](http://sourceforge.net/projects/narf-lib/)).
+      >
+      > 2. I can pretty much guarantee that my first ruby code is worse than your first ruby code.
+      >    So for any newbies in the room, it should come as welcome relief that even apparent
+      >    old-hands like myself have written terrible code (and it truly is terrible code), made
+      >    terrible design decisions, and done both without the safety net of TDD.  Of course,
+      >    hopefully in the talk I'll point out why, if writing this again, I would use TDD.  At
+      >    the end I hope this talk will make people feel less embarrassed about showing off code
+      >    of their own at future events; I'll be setting a base-level of awfulness.
+      >
+      > 3. This bit of software was written in a weekend and has been in "production" for  7 years
+      >    11 months (according to the date I filled in for "when I first started using Ruby" on my
+      >    Working With Rails profile) and it's been remarkably stable and unchanged for those 7
+      >    years.  I've no real evidence for this, but it's a scientific fact that it's the longest
+      >    running piece of ruby software in the world... wouldn't you like to see inside it?
+    speaker:
+      name: Murray Steele
+      url: http://h-lame.com/
+    coverage:
+      - type: transcript
+        url: http://www.h-lame.com/talks/my-first-ruby
+        title: Talks ∋ My first ruby
+      - type: skillsmatter-video
+        url: https://skillsmatter.com/skillscasts/1427-my-first-ruby
+        title: "SkillsMatter Skillscast : London Ruby User Group : My first ruby"
+    use_description_as_intro: true
+  unix-rediscovering-the-wheel:
+    title: 'UNIX: Rediscovering the wheel'
+    description: |-
+      [John Leach](http://johnleach.co.uk/) kindly offered to do a version of this talk (previously
+      given at [Conferencia Rails 2009](http://www.conferenciarails.org/) and [Scottish Ruby
+      Conference 2010](http://scottishrubyconference.com/)).  Originally scheduled for our [may
+      meeting](/meetings/2010/04/28/may-2010-meeting/), he's going to give it this month instead.
+      This is the abstract from his talk at [Conferencia
+      Rails](http://app.conferenciarails.org/talks/58-unix-rediscovering-the-wheel):
+
+      > "Those who don't understand UNIX are condemned to reinvent it, poorly."
+      >
+      > We in the Ruby Community seem to have a habit of re-inventing things. Sometimes this
+      > is for good reason, but in some cases we don't know we're even doing it! We're wasting
+      > valuable time that could be spent learning Erlang!
+      >
+      > UNIX-like operating systems have been around for decades and lots of problems have come
+      > and gone in that time. I'm going to talk about some of the tools available that can be
+      > used to solve common Ruby and Rails deployment and development problems.
+    speaker:
+      name: John Leach
+      url: http://johnleach.co.uk/
+    coverage:
+      - type: skillsmatter-video
+        url: https://skillsmatter.com/skillscasts/1428-unix-rediscovering-the-wheel
+        title: "SkillsMatter Skillscast : London Ruby User Group : UNIX: Rediscovering the wheel"
+    use_description_as_intro: true
+july:
+  carat-an-interpreted-language-written-in-ruby:
+    title: 'Carat: An interpreted language, written in Ruby'
+    description: |-
+      I ended up writing an interpreter, in Ruby, for a language heavily inspired by Ruby. A sort
+      of distilled Ruby-like language which is far too simplistic to be useful and probably
+      overlooks tonnes of important things.
+
+      But anyway! The point is not really that the language is utterly pointless. The point is that
+      it's an interpreter written in a very high-level language, which I think it relatively easy
+      to understand.
+
+      So I'm offering to do a talk which would take the listener through the workings of this
+      interpreter. The parsing is done with Treetop, although I wouldn't propose really talking
+      about the parsing at all as I think a lot of people are quite familiar with Treetop.
+
+      I might as well finish with some buzzwords. If you ever wondered what "trampoline function"
+      or "continuation passing style" means then this is your chance :)
+    speaker:
+      name: Jonathan Leighton
+      url: http://jonathanleighton.com/
+      raw: "[Jonathan Leighton](http://jonathanleighton.com/) has recently completed
+        a project for his third year at University, which he thinks we might be interested
+        in:"
+    coverage:
+      - type: skillsmatter-video
+        url: https://skillsmatter.com/skillscasts/1458-carat-an-interpreted-language-written-in-ruby
+        title: "SkillsMatter Skillscast : London Ruby User Group : Carat: An interpreted language,
+          written in Ruby"
+      - type: code
+        url: http://github.com/jonleighton/carat
+        title: "Github : Carat"
+      - type: link
+        url: http://dump.jonathanleighton.com/project.pdf
+        title: "Jonathan's final year report about the project"
+    custom_intro: "has recently completed a project for his third year at University, which he
+      thinks we might be interested in"
+  actionembedding:
+    title: ActionEmbedding
+    description: |-
+      ActionEmbedding is a simple Rails plugin I've been using to look at
+      ways of building up pages from independent user interface elements
+      called pagelets. The idea is to implement a number of different patterns,
+      including Hierarchical MVC, and make it as easy as possible to switch
+      between them. I'll try to explain why I think this is a good idea, show
+      you what the plugin can do at the moment and talk about how I see it evolving.
+    speaker:
+      name: Phil Cowans
+      url: http://twitter.com/philcowans
+    coverage:
+      - type: skillsmatter-video
+        url: https://skillsmatter.com/skillscasts/1461-actionembedding
+        title: "SkillsMatter Skillscast : London Ruby User Group : ActionEmbedding"
+    custom_intro: "has recently been working on a rails plugin called
+      [ActionEmbedding](http://github.com/philcowans/action_embedding), and he'd like to
+      show it to us"
+august:
+  making-old-projects-better:
+    title: Making old projects better
+    description: |-
+      Most of us want better software development processes, and spend a lot of time reading and
+      talking about methods for making better software. However, when you've already been working
+      on a project for a long time, entropy can get the better of you, making it difficult to adapt
+      your working practices. We've been working on a project like this that started 18 months ago,
+      and over the last few months have been steadily improving how we go about things, getting
+      better at BDD and Scrum, and starting to do a bit of Domain Driven Design. We're going to
+      talk about how we got on, focusing in equal parts on refactoring legacy code bases,
+      improving test coverage, and improving processes, as well as revealing the incredible powers
+      of suggestion we employed to convince stakeholders, management and sundry doubters that this
+      was a good idea.
+    speaker:
+      - name: Tim Cowlishaw
+        url: http://timcowlishaw.co.uk/
+      - name: Chris O'Sullivan
+        url: http://thechrisoshow.com/
+    coverage:
+      - type: skillsmatter-video
+        url: https://skillsmatter.com/skillscasts/1506-making-old-projects-better
+        title: "SkillsMatter Skillscast : London Ruby User Group : Making old projects better"
+    custom_intro: "have been working together on an older project of theirs and want to share some
+      things they've learned about making it a nicer project to work on"
+  ittybittyboom-com-and-cramp:
+    title: "[ittybittyboom.com](http://ittybittyboom.com)"
+    description: |-
+      You'll find out how and why I use [cramp](http://github.com/lifo/cramp) to cope with hundreds
+      of simultaneous players on [ittybittyboom.com](http://ittybittyboom.com).  Cramp is an
+      asynchronous event driven ruby based framework based upon event machine that allows the coder
+      to write succinct, clear code to deal with hundreds or thousands of tcp connections at once.
+    speaker:
+      name: Tom Crinson
+      url: http://mrjaba.posterous.com/
+    coverage:
+      - type: skillsmatter-video
+        url: https://skillsmatter.com/skillscasts/1513-cramp
+        title: "SkillsMatter Skillscast : London Ruby User Group : Ittybittyboom.com and Cramp"
+    custom_intro: "will talk about [Cramp](http://m.onkey.org/2010/1/7/introducing-cramp) and some
+      of the other technologies he's used in his HTML5 Bomberman clone.  Tom says"
+september:
+  rails-3-internals:
+    title: Rails 3 Internals
+    description: |-
+      Recently I have been porting an app into Rails 3 and probably you have
+      also been poking this new Rails 3 with ruby 1.9.2.
+
+      Therefore I would like to discuss a bit more about Rails 3 itself.
+      Particularly, things under railties lib directory covering classes
+      such as Railtie, Engine, Application and will go through
+      initialization with initializers.
+
+      Along the way I'll show some examples how you can use this knowledge
+      in your own gem or plugin.
+
+      Nothing too fancy but should be useful for developing your next Rails
+      3 project.
+    speaker:
+      name: Priit Tamboom
+      url: http://priit.mx.ee/
+    coverage:
+      - type: skillsmatter-video
+        url: https://skillsmatter.com/skillscasts/1543-rails-3-internals
+        title: "SkillsMatter Skillscast : London Ruby User Group : Rails 3 internals"
+    custom_intro: would like to talk about Rails 3 internals
+  asynchronous-interfaces:
+    title: Asynchronous interfaces
+    description: |-
+      Alex MacCaw](http://www.eribium.org/) will talk about moving state to the client side as
+      opposed to the more traditional request/response model.  He'll go through the various
+      options, such as [Syncro](http://github.com/maccman/syncro) (the successor to Juggernaut),
+      and [SuperApp](http://github.com/maccman/superapp) (his JS framework).
+    speaker:
+      name: Alex MacCaw
+      url: http://www.eribium.org/
+    coverage:
+      - type: skillsmatter-video
+        url: https://skillsmatter.com/skillscasts/1563-asynchronous-interfaces
+        title: "SkillsMatter Skillscast : London Ruby User Group : Asynchronous interfaces"
+    use_description_as_intro: true
+october:
+  cucumber-workshop:
+    title: Cucumber Workshop
+    description:
+      This month we'll be having a [Cucumber](https://cucumber.io/) special.
+
+      [Joseph Wilk](http://josephwilk.net/) will be sharing his experiences on how you should and
+      shouldn't use Cucumber to test your applications, but rather than a straight forward
+      presentation with him boring everyone with lots of long winded slides he's going to run the
+      evening in a workshop format.  Consider it a self help group for Cucumber users where we all
+      get to share things that have and have not worked for us.
+
+      There will be some introduction patterns and case studies of good Cucumber practices that he's
+      come across to get things rolling. Coming armed with your own ideas, experiences or complaints
+      will help prevent us all staring at the floor and shuffling our feet.
+
+      So if you're using Cucumber and are having problems, if you are not yet sold on it and want
+      some tips, if you think its the source of all evil in the world, head along to this self help
+      group. It would be great if people could share some of the ideas you have brewing in your mind
+      before hand. Just get in touch with [Joseph directly](http://twitter.com/josephwilk) or [via
+      the LRUG mailing list](/mailing-list) and help make this a Cuketastic (sorry) workshop!
+    speaker:
+      name: Joseph Wilk
+      url: http://josephwilk.net/
+    coverage:
+      - type: skillsmatter-video
+        url: https://skillsmatter.com/skillscasts/1598-cucumber-workshop
+        title: "SkillsMatter Skillscast : London Ruby User Group : Cucumber Workshop"
+    use_description_as_intro: true
+november:
+  using-git-hooks-for-staging-and-production:
+    title: Using git hooks for staging and production
+    description: |-
+      Git has taken the Ruby world by storm, and many of us are using 'git push' on a daily basis.
+      [Priit Tamboon](http://priit.mx.ee/) is going to talk about how to use git hooks and will
+      highlight some everyday tips that he has developed and found useful. He's also going to talk
+      about easy ways to replicate Heroku-like deployment for smaller projects using git.
+    speaker:
+      name: Priit Tamboon
+      url: http://priit.mx.ee/
+    coverage:
+      - type: skillsmatter-video
+        url: https://skillsmatter.com/skillscasts/1742-using-git-hooks-for-staging-and-production
+        title: "SkillsMatter Skillscast : London Ruby User Group : Using git hooks for staging
+          and production"
+    use_description_as_intro: true
+  more-websockets:
+    title: More Websockets
+    description: |-
+      [Kalvir Sandhu](https://kalv.co.uk) will give an overview of Websockets and how to get a
+      simple app up and running with [Cramp](http://github.com/lifo/cramp). He'll walk through
+      creating a chat based app using Cramp & websockets and will talk briefly on security
+      and authentication with websockets.
+    speaker:
+      name: Kalvir Sandhu
+      url: https://kalv.co.uk
+    coverage:
+      - type: skillsmatter-video
+        url: https://skillsmatter.com/skillscasts/1743-more-websockets
+        title: "SkillsMatter Skillscast : London Ruby User Group : More Websockets"
+    use_description_as_intro: true
+december:
+  japanese-and-ruby:
+    title: Japanese and Ruby
+    description: |-
+      My talk is based on an article called ["Japanese and
+      OO"](http://satoshi.blogs.com/life/2004/09/post.html) which was written by a Japanese guy
+      who wrote Windows 95 and his thought around what helped him to build the software as a
+      Japanese. I really enjoyed the article and thought it relates to Ruby which is written by
+      another Japanese (the Matz). I will also add some of my own thoughts onto the talk.
+    speaker:
+      name: Makoto Inoue
+      url: http://twitter.com/makoto_inoue
+    coverage:
+      - type: skillsmatter-video
+        url: https://skillsmatter.com/skillscasts/1803-japanese-and-ruby
+        title: "SkillsMatter Skillscast : London Ruby User Group : Japanese and Ruby"

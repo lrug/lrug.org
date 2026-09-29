@@ -1,0 +1,394 @@
+---
+february:
+  saving-the-world-with-rails:
+    title: Saving The World With Rails
+    description: |-
+      We've got [Richard Livsey](http://livsey.org/) lined up to tell us how
+      he's been _Saving The World With Rails_:
+
+      > Richard will discuss his experience with Ruby and Rails and what he has
+      > found whilst developing a suite of applications to prepare for and
+      > respond to disasters. Specifically, he will look at how Ruby helped him
+      > and CitySafe rapidly prototype an application to model liquid gas
+      > spills, some of the plug-ins they have developed. He will also touch
+      > upon building RESTful applications in Rails.
+    speaker:
+      name: "Richard Livesey"
+      url: http://livsey.org/
+    coverage: []
+    use_description_as_intro: true
+march:
+  code-review:
+    title: Code Review
+    description: |-
+      As part of Monday's meeting [Tom Ward](mailto:tom@popdog.net) is going to
+      help lead a code review. We'll look at some sections of ruby, and open the
+      floor for comments, questions and constructive criticism.  Hopefully it
+      will get everyone thinking, and help share knowledge across the group.
+      For it to work though, what we need is code!
+
+      Here are some examples of things we're looking for:
+
+      * Ruby Newbie code.  Maybe we can help make it more idiomatic
+      * Ruby patterns you use every day.  Share them with the group
+      * Code you know smells bad, but just can't put your finger on why.  Let
+        us help!
+      * Code you're sure is the best ever.  Let us tear it apart!
+      * Any hints/tips/shortcuts
+      * Anything else you think would be good to discuss
+
+      So, if you've got some code you'd like to subject to our collective
+      wisdom, send it to [Tom Ward](mailto:tom@popdog.net) as soon as you can.
+      He'll try and run it like Question time, collating the submissions and
+      pacing them so we don't just spend 60 minutes moaning about bits of rails.
+
+      Let's make the first LRUG with crowd-sourced content a success!
+    speaker:
+      name: Tom Ward
+      url: https://tomafro.net
+    coverage: []
+    use_description_as_intro: true
+april:
+  tabnav:
+    title: Tabnav
+    description: |-
+      First up, [Paolo Donà](http://paolodona.blogspot.com/) will be giving his
+      talk about the [TabNav plugin](http://blog.seesaw.it/pages/tabnav) that he
+      missed from our [February meeting](/meetings/2007/february/) due to his
+      being ill.
+
+      > Paolo will show us the [tabnav
+      > plugin](http://blog.seesaw.it/pages/tabnav), and discuss its
+      > implementation. This plugin raises a few questions on how we deal with
+      > view components. Is it ok to have configurable and ready-to-use widgets
+      > instead of rails helpers? How should those widgets be configured? Is it
+      > ok to write a specific DSL for each widget? This presentation raises
+      > many questions, and Paolo will give us his point of view and try to
+      > stimulate a discussion around it.
+    speaker:
+      name: Paolo Donà
+      url: http://paolodona.blogspot.com/
+    coverage: []
+    use_description_as_intro: true
+  rest-discussion:
+    title: REST Discussion
+    description: |-
+      Following that we'll have a REST discussion, chaired by [Jonathan
+      Leighton](http://turnipspatch.com/), about the new RESTful features that
+      Rails 1.2 brings us.  There were two long threads on the [LRUG mailing
+      list](/mailing-list) that sparked this off, so you should read them for
+      an idea of what we might cover.
+
+      * [The original
+        thread](http://lists.lrug.org/pipermail/chat-lrug.org/2007-February/000916.html)
+      * [The follow
+        up](http://lists.lrug.org/pipermail/chat-lrug.org/2007-March/000981.html)
+      * [A sample agenda for the
+        discussion](http://www.asklater.com/steve/blog/?p=81)
+    speaker:
+      name: Jonathan Leighton
+      url: https://jonleighton.name/
+    coverage: []
+    use_description_as_intro: true
+may:
+  distributed-processing-using-ruby-on-rails:
+    title: Distributed Processing Using Ruby on Rails
+    description: |-
+      [Martin Sadler](http://beyondthetype.com/) jumped in at the last minute to
+      explain how to do distributed processing in your Rails applications.  The presentation
+      will be mostly based around the great work that Martin's been doing for the
+      [Working With Rails website](http://www.workingwithrails.com/).
+    speaker:
+      name: Martin Sadler
+      url: http://beyondthetype.com/
+    coverage:
+      - type: slides
+        url: http://www.slideshare.net/martinbtt/getting-distributed-with-ruby-on-rails
+        title: Getting Distributed with Ruby on Rails
+    use_description_as_intro: true
+june:
+  code-kata-s:
+    title: Code Kata's
+    description: |-
+      [Tom Armitage](http://infovore.org) is going to run us through a few [Code
+      Katas](http://codekata.pragprog.com/) (actually, don't look at that link, it'll
+      likely spoil the evening for you).  There are more details to come about how
+      the evening will be run, so *watch this space*.
+    speaker:
+      name: Tom Armitage
+      url: http://infovore.org
+    coverage: []
+    use_description_as_intro: true
+  openid:
+    title: OpenID
+    description: |-
+      Postponed from [last month's meeting](/meetings/2007/may/),
+      [Dan Webb](http://danwebb.net/) takes us on a whirlwind tour of [OpenID](http://openid.net/)
+      and how to implement it in your Ruby or Rails application.
+    speaker:
+      name: Dan Webb
+      url: http://danwebb.net/
+    coverage: []
+    use_description_as_intro: true
+july:
+  mocking:
+    title: Mocking
+    description: |-
+      First up we have [James Mead](http://www.floehopper.org/) with a talk
+      called "An Introduction To Mocking In Ruby". This talk will explain what
+      mocking is and why you might want to use it in your tests.  James is the
+      author of [Mocha](http://mocha.rubyforge.org/), a mocking library for
+      ruby, and this talk will also cover how to get started with mocking in
+      Mocha.
+    speaker:
+      name: James Mead
+      url: http://www.floehopper.org/
+    coverage:
+      - type: write-up
+        url: http://www.floehopper.org/articles/2007/07/22/an-introduction-to-mock-objects-in-ruby
+        title: "James Mead's Blog - Mock Objects in Ruby"
+    use_description_as_intro: true
+  rspec-on-rails:
+    title: RSpec
+    description: |-
+      After much demand for a talk about [RSpec](http://rspec.rubyforge.org/) from
+      LRUG members, [Tom Stuart](http://obsess.com/) stepped up to the bat.  His talk,
+      titled "RSpec On Rails" will do exactly what it says on the tin; explain RSpec
+      and how to use it with Rails instead of the default Test::Unit tests.
+    speaker:
+      name: Tom Stuart
+      url: http://obsess.com/
+    coverage:
+      - type: slides
+        url: https://speakerdeck.com/tomstuart/rspec-on-rails
+        title: RSpec (on Rails)
+      - type: write-up
+        url: http://blog.experthuman.com/2007/7/10/lrug-rspec-on-rails-talk
+        title: LRUG "RSpec on Rails" talk
+    use_description_as_intro: true
+august:
+  ruby2ruby:
+    title: Ruby2Ruby
+    description: |-
+      Our main speaker for this meeting is [Frederik Fix](http://derfred.com/),
+      who has been delving into the dark work of
+      [ruby2ruby](http://seattlerb.rubyforge.org/ruby2ruby/) and
+      [ParseTree](http://rubyforge.org/projects/parsetree).  This stuff is, in
+      Frederiks own words:
+
+      > quite advanced and very experimental. But that makes
+      > it all the more interesting.
+
+      To prove it, he proposes a talk with the following structure:
+
+      * Intro to [Abstract Syntax Tree](http://en.wikipedia.org/wiki/Abstract_syntax_tree)
+      * How to get it from ParseTree
+      * Examples of how to use the AST
+      * Demo of a plugin that using all this to translate Ruby to JavaScript
+
+      Now, that *does* sound interesting, doesn't it?
+    speaker:
+      name: Frederik Fix
+      url: http://derfred.com/
+    coverage: []
+    use_description_as_intro: true
+  adhearsion:
+    title: Adhearsion
+    description: |
+      [Jay Phillips](http://jicksta.com/) fresh (or massively jet-lagged) from
+      [Ruby Hoedown](http://www.rubyhoedown.com/) is going to talk to us about
+      [Adhearsion](http://adhearsion.com/).  The talk he'll give will be a
+      distilled version of his Hoedown talk, titled _Next-Gen VoIP Development
+      with Ruby and Adhearsion_.  The gist from the Hoedown site is:
+
+      > Adhearsion's creator Jay Phillips will discuss Ruby's work in VoIP and
+      > how even complete telephony novices can powerfully develop their own VoIP
+      > system with Asterisk and Adhearsion using pure-Ruby for all application
+      > logic. Attendees will see Jay develop a sophisticated Adhearsion
+      > application that integrates and handles calls from the public telephone
+      > network and integrates with a Rails application. Adding a voice
+      > component to a web application is much easier than you think!
+    speaker:
+      name: Jay Phillips
+      url: http://jicksta.com/
+    coverage: []
+    use_description_as_intro: true
+september:
+  staticmatic:
+    title: StaticMatic
+    description: |-
+      [Stephen Bartholomew](http://www.stephenbartholomew.co.uk/) was going to
+      give a talk [last month](/meetings/2007/august) but kindly stepped aside
+      to let [Jay Phillips](http://jicksta.com/), who was only in the country
+      for a few weeks, do a talk.  This month however, there'll be no such
+      chivalry and Stephen is determined to talk to us about his gem
+      [StaticMatic](http://rubyforge.org/projects/staticmatic/) and the
+      technologies that it uses.
+
+      StaticMatic is a gem for building static websites and it uses the [love
+      it](http://www.infoq.com/news/2007/05/haml-beauty-of-efficiency) or [hate
+      it](http://meta.ath0.com/2007/04/15/software-and-religion/) alternate
+      templating language [Haml & Sass](http://haml.hamptoncatlin.com/).  The
+      gem is perfect for... well, as Stephen says:
+
+      > CMS is overrated. A lot of the time, clients want us to do what we do
+      > best - well designed pages with structured, accessible and maintainable
+      > markup & styling.
+      >
+      > CMSs are often sufficient for this, but sometimes they can be
+      > restrictive and more cumbersome than just working with good ol' source
+      > code. At the same time we want our code to be structured, DRY and
+      > flexible.
+    speaker:
+      name: Stephen Bartholomew
+      url: http://www.stephenbartholomew.co.uk/
+    coverage:
+      - type: slides
+        url: http://www.stephenbartholomew.co.uk/2007/9/11/lrug-staticmatic-talk-slides
+        title: StaticMatic - HAML Everywhere
+    use_description_as_intro: true
+  hpricot-merb-net:
+    title: Hpricot, Merb, Net::TOC
+    description: |-
+      [Tom Armitage](http://infovore.org) hates crappy websites, more so when he
+      actually wants access to the content they provide.  In an effort to save his
+      sanity he''s been playing about with some ruby libraries, and he''s going to
+      tell us all about it in a talk he's titled "Turning the web on its head:
+      Screen-scraping with Hpricot, DIY-API, and conversational interfaces".
+      He's going to cover:
+
+      * a quick introduction to [Hpricot](http://code.whytheluckystiff.net/hpricot/)
+      * a quicker introduction to [Merb](http://merb.rubyforge.org/)
+      * a look at the [Net::TOC](http://http://rubyforge.org/projects/net-toc/) library
+    speaker:
+      name: Tom Armitage
+      url: http://infovore.org
+    coverage: []
+    use_description_as_intro: true
+october:
+  resources_controller:
+    title: resources_controller
+    description: |-
+      [Ian White](http://blog.ardes.com/) has developed a rails plugin called
+      [resources_controller](http://plugins.ardes.com/doc/resources_controller/)
+      which he's going to show off to us.  It answers the problems that many
+      rails developers have noticed with the new RESTful approach; RESTful
+      controllers are mostly boiler-plate code - repeated over and over.
+    speaker:
+      name: Ian White
+      url: http://blog.ardes.com/
+    coverage:
+      - type: write-up
+        url: http://blog.ardes.com/2007/10/10/resources_controller-at-lrug
+        title: "Argument from Design : resources_controller at LRUG"
+      - type: slides
+        url: http://plugins.ardes.com/rc_lrug.html
+        title: "resources_controller : Don't repeat your REST controllers over
+and over and over and over again"
+      - type: link
+        url: http://blog.ardes.com/resources_controller
+        title: "Argument from Design : resources_controlle articles"
+    use_description_as_intro: true
+  netbeans-the-open-source-ruby-ide-written-in-cough-java-cough:
+    title: Netbeans - The open source Ruby IDE written in *cough*Java*cough*
+    description: |-
+      [DJ Walker-Morgan](http://codepope.com/) was lined up to do a demo of
+      Netbeans as a ruby development platform at the LRUG BoF session at the
+      [No Fluff Just Stuff Exchange](http://www.nfjs-exchange.com/).
+      Unfortunately, timing constraints meant he didn't get to give it so we've
+      invited him to run it at this month's LRUG meeting instead.
+
+      His talk will be heavily demo-based, so he can show off the features that
+      [Netbeans](http://netbeans.org) provides to the ruby developer.  He'll be
+      covering the latest release [6.0 Beta
+      1](http://www.netbeans.org/community/releases/60/index.html) which has a
+      boat-load of new ruby/jruby/rails support.
+    speaker:
+      name: DJ Walker-Morgan
+      url: http://codepope.com/
+    coverage:
+      - type: slides
+        url: http://homepage.mac.com/djjwm/LRUG.pdf
+        title: "Codepope - Slides - Netbeans: The open source Ruby IDE writting in Java"
+    use_description_as_intro: true
+november:
+  building-a-ui-framework-on-top-of-rails:
+    title: Building a UI framework on top of Rails
+    description: |-
+      [Matthew Wilson](http://devblog.playlouder.com/) has been working on an
+      application that has delved further and further into true "web
+      application" territory, and away (to some extent) from the standard
+      RESTful one-page-per-resource object-graph-browsing application structure
+      favoured by [DHH](http://loudthinking.com/).  In order to achieve this he
+      decided that what was needed was a widget-based UI framework that sat atop
+      Rails.  As well as showing off the resulting framework, Matthew's talk is
+      going to focus on the experience he had in building an architecture on top
+      of Rails.
+    speaker:
+      name: Matthew Wilson
+      url: http://devblog.playlouder.com/
+    coverage:
+      - type: write-up
+        url: http://blog.playlouder.com/index.php/2007/11/08/meet-us-at-lrug
+        title: "Playlouder : Meet us at LRUG"
+      - type: slides
+        url: http://blog.playlouder.com/wp-content/uploads/2007/11/lrug-talk.pdf
+        title: "Playlouder : Slides : Building a UI framework on top of Rails"
+    use_description_as_intro: true
+  scripting-os-x-with-ruby:
+    title: Scripting OS X with Ruby
+    description: |-
+      [Matt Patterson](http://reprocessed.org/) is going to give us a whistle-
+      stop tour of Apple's Open Scripting Architecture, which is normally hooked
+      into through [Applescript](http://www.apple.com/applescript/resources/).
+      He's then going to tell us how to get to it through
+      [Ruby](http://rubyosa.rubyforge.org/) and why we should care.  In a final
+      flourish, the talk will be topped off with a practical sample application
+      munging entries in the [system address
+      book](http://www.apple.com/macosx/features/addressbook/) right before our
+      very eyes.
+    speaker:
+      name: Matt Patterson
+      url: http://reprocessed.org/
+    coverage:
+      - type: slides
+        url: http://www.slideshare.net/fidothe/scripting-os-x-with-applescript-without-applescript
+        title: "Scripting OS X with Applescript, without Applescript"
+    use_description_as_intro: true
+december:
+  rails-cms-roundup:
+    title: Rails CMS Roundup
+    description: |-
+      [Thomas R Koll](http://tomk32.de) has been looking at Rails CMS solutions
+      recently.  He's going to present to us a quick review of the current crop
+      of players: [Radiant CMS](http://radiantcms.org/),
+      [Mephisto](http://mephistoblog.com/),
+      [Goldberg](http://www.goldberg.240gl.org/) and possibly others.  The rest
+      of his talk will focus on how easy it is to integrate existing sites /
+      code into these CMS solutions based on 2 example websites that he'll
+      integrate the CMS's into during the talk.
+    speaker:
+      name: Thomas R Koll
+      url: http://tomk32.de
+    coverage:
+      - type: slides
+        url: http://ananasblau.com/ruby-on-rails-cms
+        title: "Ananas Blau : Slides : Content Management Systems for Ruby on Rails"
+    use_description_as_intro: true
+  ruby-1-9:
+    title: Ruby 1.9
+    description: |-
+      Ruby 1.9 is scheduled for release around Christmas 2007 and [Murray
+      Steele](http://h-lame.com/) decided to take a look at the development
+      version to see what was new and exciting with this latest version of the
+      language we all know and love.  Murray's talk will draw on his findings
+      and explain to us some of these new features and also cover the changes
+      between ruby 1.8 and ruby 1.9.
+    speaker:
+      name: Murray Steele
+      url: http://h-lame.com/
+    coverage:
+      - type: slides
+        url: http://www.slideshare.net/hlame/wierd-wonderful-ideas-an-overview-of-ruby-19/
+        title: "Wild & Weird Ideas: An Overview of Ruby 1.9"
+    use_description_as_intro: true

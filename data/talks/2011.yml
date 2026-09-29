@@ -1,0 +1,705 @@
+---
+january:
+  processing-tweets-at-the-bbc:
+    title: Processing Tweets at the BBC
+    description: |-
+      I'll be talking about how we're using Ruby to process tweets in realtime to discover inbound
+      links to the [BBC Zeitgeist](http://zeitgeist.prototyping.bbc.co.uk/zeitgeist) and how we're
+      reading the [Twitter Firehose](http://dev.twitter.com/pages/streaming_api) (about 1000
+      tweets/sec = about 90 million a day) and storing the data in Amazon S3.
+
+      There'll be a bit about [Hadoop](http://hadoop.apache.org/) and
+      [Map/Reduce](http://en.wikipedia.org/wiki/Map_reduce) too.
+    speaker:
+      name: Sean O'Halpin
+      url: https://github.com/seanohalpin
+    coverage:
+      - type: slides
+        url: http://dl.dropbox.com/u/909897/lrug_twitter_firehose/index.html
+        title: Sean O'Halpin - Processing Tweets at the BBC
+      - type: skillsmatter-video
+        url: https://skillsmatter.com/skillscasts/1848-processing-tweets-at-the-bbc-1848
+        title: "SkillsMatter Skillscast : London Ruby User Group : Processing Tweets at the BBC"
+    custom_intro: "couldn't make our [December meeting](/meetings/2010/12/01/december-2010-meeting/)
+      due to illness, but he's fighting fit now and is going to give his talk this
+      month instead.  He'll be telling us about some work at the BBC involving twitter"
+  building-a-financial-app-in-rails:
+    title: "Building a financial app in ruby and rails, and all the gems I made along the way"
+    description: |-
+      [Matthew Rudy Jacobs](http://matthewrudy.com/) has been living it up in Hong Kong for the past
+      year and will be making a brief stop at our humble meeting to explain some of the work he's
+      been doing there in building a financial application.  He promises to cover at least some of
+      these things:
+
+      * big ints and careful rounding
+      * locking strategy
+      * state machines
+      * currency handling
+      * secure server configuration with chef
+      * data security
+      * satisfying businessy types
+    speaker:
+      name: Matthew Rudy Jacobs
+      url: http://matthewrudy.com/
+    coverage:
+      - type: slides
+        url: http://financial-app-in-rails.heroku.com/
+        title: Matthew Rudy Jacobs - Building a Financial App in Rails
+      - type: skillsmatter-video
+        url: https://skillsmatter.com/podcast/ajax-ria/building-a-financial-app-in-ruby-and-rails
+        title: "SkillsMatter Skillscast : London Ruby User Group : Building a Financial App in
+          Rails"
+    use_description_as_intro: true
+february:
+  test-frameworks:
+    title: Test frameworks
+    description: An exploration of why nobody needs to write any more test frameworks
+    speaker:
+      name: James Adam
+      url: https://interblah.net
+    coverage:
+      - type: skillsmatter-video
+        url: https://skillsmatter.com/skillscasts/1877-an-exploration-of-why-nobody-needs-to-write-any-more-test-frameworks
+        title: "SkillsMatter Skillscast : London Ruby User Group : An exploration of why nobody
+          needs to write any more test frameworks"
+    use_name_as_intro: true
+  ruby-search-systems:
+    title: Ruby Search Systems
+    description: |-
+      All the ruby search systems I've tried out and why I believe [Mat Brown's Sunspot
+      gem](https://github.com/sunspot/sunspot) is the one true way.
+
+      Including examples using Sunspot, acts\_as\_ferret, ultraspinx,
+      thinking\_sphinx, acts\_as\_solr, acts\_as\_xapian, xapit and raw mysql
+    speaker:
+      name: Ed Davey
+      url: http://twitter.com/misteredavey
+    coverage:
+      - type: skillsmatter-video
+        url: https://skillsmatter.com/skillscasts/1878-ruby-search-systems
+        title: "SkillsMatter Skillscast : London Ruby User Group : Ruby search systems (Sunspot,
+          acts_as_ferret, ultraspinx, thinking_sphinx, acts_as_solr, acts_as_xapian, xapit,
+          raw mysql)"
+    use_name_as_intro: true
+  basic-interpreter:
+    title: BASIC interpreter
+    description: |-
+      I've been messing around with writing a [BASIC interpreter (of sorts) in
+      ruby](https://github.com/techbelly/BASIC).
+    speaker:
+      name: Ben Griffiths
+      url: http://twitter.com/beng
+    coverage:
+      - type: skillsmatter-video
+        url: https://skillsmatter.com/skillscasts/1879-basic-interpreter
+        title: "SkillsMatter Skillscast : London Ruby User Group : BASIC interpreter"
+    use_name_as_intro: true
+  how-do-we-suck-in-480-books-per-second-from-amazon-s-api-using-ruby-via-redis-into-mongodb:
+    title: "How do we suck in 480 books per second from Amazon's API using Ruby via Redis into
+      MongoDB"
+    description: |-
+      Crawling all of Amazon's book universe and keeping track of price changes. Interesting bits
+      would be Resque for the crawlers themselves, Redis for the job queue and MongoDB for
+      storage.  There are 6 instances of Amazon to consider of roughly 8 million books each, so
+      ~48 million items!
+    speaker:
+      name: Gerhard Lazu
+      url: http://twitter.com/gerhardlazu
+    coverage:
+      - type: skillsmatter-video
+        url: https://skillsmatter.com/skillscasts/1880-how-do-we-suck-in-480-books-per-second-from-amazons-api-using-ruby-via-redis-into-mongodb
+        title: "SkillsMatter Skillscast : London Ruby User Group : How do we suck in 480 books per
+          second from Amazon's API using Ruby via Redis into MongoDB"
+    use_name_as_intro: true
+  w3c-audio-xg-group-audio-javascript:
+    title: W3C Audio XG Group (audio + javascript)
+    description: |-
+      The work I've been involved in with the W3C Audio XG group - how to
+      build synthersisers and drum machines and so on with javascript in the
+      new generation of browsers.
+    speaker:
+      name: Chris Lowis
+      url: http://twitter.com/chrislowis
+    coverage:
+      - type: skillsmatter-video
+        url: https://skillsmatter.com/skillscasts/1881-w3c-audio-xg-group-audio-javascript
+        title: "SkillsMatter Skillscast : London Ruby User Group : W3C Audio XG Group (audio +
+          javascript)"
+    use_name_as_intro: true
+  riding-rails-through-a-tv-induced-storm:
+    title: Riding Rails through a TV induced storm
+    description: |-
+      How we handled a large influx of traffic to our Rails app caused by some TV advertising.
+    speaker:
+      name: Neil Middleton
+      url: http://twitter.com/neilmiddleton
+    coverage:
+      - type: skillsmatter-video
+        url: https://skillsmatter.com/skillscasts/1882-convincing-a-customer-to-go-rails-after-years-of-something-else
+        title: "SkillsMatter Skillscast : London Ruby User Group : Riding Rails through a TV induced
+          storm"
+    use_name_as_intro: true
+  redistat:
+    title: Residstat
+    description: |-
+      Presenting [Redistat](https://github.com/jimeh/redistat) - A Redis-backed statistics
+      storage and querying library written in Ruby.
+    speaker:
+      name: Jim Myhrberg
+      url: http://twitter.com/jimeh
+    coverage:
+      - type: skillsmatter-video
+        url: https://skillsmatter.com/skillscasts/1883-redistat
+        title: "SkillsMatter Skillscast : London Ruby User Group : Redistat"
+    use_name_as_intro: true
+  relational-algebra-and-arel:
+    title: ARel / Relational Algebra
+    description: |-
+      What is Relational Algebra, and how you can use it with [ARel](https://github.com/rails/arel)
+    speaker:
+      name: Tom Stuart
+      url: http://twitter.com/tomstuart
+    coverage:
+      - type: slides
+        url: http://speakerdeck.com/u/tomstuart/p/relational-algebra-and-arel
+        title: Speaker Deck - Relational Algebra and Arel
+      - type: skillsmatter-video
+        url: https://skillsmatter.com/skillscasts/1884-arel-relational-algebra
+        title: "SkillsMatter Skillscast : London Ruby User Group : ARel / Relational Algebra"
+    use_name_as_intro: true
+march:
+  primer:
+    title: Primer
+    description: |-
+      It's no secret that expiring caches is hard. But it's also tedious, error-prone,
+      and it forces a lot of duplication as your sweeper code is tightly coupled to
+      how your views work. And caching itself introduces complexity: by caching data,
+      you're creating multiple ways to compute the same value.
+
+      What if we could get rid of all this? I'm going to take a look at Primer, a Rails
+      extension I've been working on that means you'll never write another cache sweeper.
+      With a handful of mixins, you can keep writing your views the way you like and
+      Primer will deal with keeping them snappy. You'll see how you can use ActiveRecord's
+      reflections to automate a lot of caching work, how to regenerate your views offline
+      using worker processes, and how to add real-time updates to your pages, all with
+      code you could write during your coffee break.
+    speaker:
+      name: James Coglan
+      url: http://jcoglan.com/
+    coverage:
+      - type: skillsmatter-video
+        url: https://skillsmatter.com/skillscasts/2068-primer
+        title: "SkillsMatter Skillscast : London Ruby User Group : Primer, a caching system for
+          rails"
+    custom_intro: is going to talk to us about [Primer](https://github.com/jcoglan/primer)
+      his caching system for rails
+  lessons-learned-bdd-ing-a-command-line-utility-gem:
+    title: Lessons learned BDD-ing a command-line utility gem
+    description: |-
+      Also known as: "end to end is harder than you think". [Chris
+      Parsons](http://chrismdp.github.com/) describes this talk as follows:
+
+      > In this talk Chris will take us through how he test-drove the development of a command
+      > line utility built as a gem, designed to connect to servers via SSH and HTTP. We'll
+      > discuss the use of [Aruba](https://github.com/aslakhellesoy/aruba) for command line testing
+      > in cucumber, how to deal with external connections, and how to discover your service
+      > interfaces as you build the client.
+    speaker:
+      name: Chris Parsons
+      url: http://chrismdp.github.com/
+    coverage:
+      - type: skillsmatter-video
+        url: https://skillsmatter.com/skillscasts/2069-lessons-learned-bdd-ing-a-command-line-utility-gem
+        title: "SkillsMatter Skillscast : London Ruby User Group : Lessons learned BDD-ing a
+          command-line utility gem"
+    use_description_as_intro: true
+april:
+  building-cloud-castles:
+    title: 'Building Cloud Castles'
+    description: |-
+      [Ben Scofield](http://benscofield.com/) from [Heroku](http://heroku.com/) is visiting us
+      on his way home from the [Scottish Ruby Conference](http://scottishrubyconference.com/) and
+      has kindly volunteered to give us the following talk:
+
+      > A year ago, I was a committed VPS and dedicated-machine deployer. I thought the cloud
+      > imposed silly restrictions - how dare you take away my shell account! Whaddya mean I
+      > can't save files locally?
+      >
+      > Since then, I've had some interesting experiences. I've worked on big cloud-deployed
+      > systems, and certain large traditionally-deployed systems, and I've seen how a lot of
+      > the decisions that you're ... encouraged to make when designing an app to run in the
+      > cloud. Most interestingly, I've discovered how those same decisions can make for a
+      > much better app regardless of where it'll end up. In this talk, I'll share those
+      > architectural patterns with you, and show why they work. Hopefully, I'll convince all
+      > of you to build cloud castles -- even if you've got your foundation firmly on the
+      > ground.
+
+      Note: Ben is talking at [SRC](http://scottishrubyconference.com/sessions) but it's not the
+      same talk that he's giving to us, so if you are going to SRC don't miss his talk thinking
+      you'll catch it at LRUG when you get home.
+    speaker:
+      name: Ben Scofield
+      url: http://benscofield.com/
+    coverage:
+      - type: skillsmatter-video
+        url: https://skillsmatter.com/skillscasts/2154-building-cloud-castles
+        title: "SkillsMatter Skillscast : London Ruby User Group : Building Cloud Castles"
+    use_description_as_intro: true
+  ruby-goes-to-hollywood:
+    title: 'Ruby goes to hollywood'
+    description: |-
+      A brief overview of the state of concurrency in Ruby, concurrency models
+      used in other languages, and why actors might be the way to go.
+    speaker:
+      name: Elise Huard
+      url: http://jabberwocky.eu/
+    coverage:
+      - type: skillsmatter-video
+        url: https://skillsmatter.com/skillscasts/2155-ruby-goes-to-hollywood
+        title: "SkillsMatter Skillscast : London Ruby User Group : Ruby goes to Hollywood"
+    custom_intro: is going to give us a talk about
+may:
+  ruby-golf:
+    title: 'Ruby Golf'
+    description: |-
+      [Andrew McDonough](http://www.andrewmcdonough.com/) is going to lead a practical evening
+      called "Ruby Golf".  He describes it as follows:
+
+      > I started my career as a perl programmer.  Perl, like Ruby has a lot of "syntactic sugar"
+      > to help developers write concise code.  Perl programmers sometimes play a game known as
+      > "[Perl Golf](http://c2.com/cgi/wiki?PerlGolf)" to explore the lesser-known features of the
+      > language.  The aim of "perl golf" is to solve a problem using the fewest characters
+      > possible.
+      >
+      > At this month's meeting Andrew will run a practical evening based around "ruby golf", an
+      > adaptation of "perl golf" for ruby developers. People will be asked to form teams of 4-8
+      > people, and solve nine short "holes" using as few characters as possible.  Each hole will
+      > be defined by a set of [RSpec](http://rspec.info) examples describing a single method, and
+      > the teams must write the method to pass all of the examples.  At the end, the solutions
+      > will be scored and the winning team will be announced.
+      >
+      > This evening should have something for everyone; beginners can pick up some language tricks
+      > and learn how to write code to pass tests, while experienced ruby developers will have the
+      > opportunity to show off their skills and compete with their peers.
+
+      Note: This is going to be a full evening of practical activity.  We'll break up into small
+      groups on the night to go through what Andrew has prepared.  You should bring your laptop so
+      you can play along.  Don't worry if you don't know anyone, there will be plenty of groups to
+      join in on the night.  Also, you should sign up to the [mailing list](/mailing-list) to find
+      out about any further instructions.
+    speaker:
+      name: Andrew McDonough
+      url: http://www.andrewmcdonough.com/
+    coverage:
+      - type: code
+        url: https://github.com/andrewmcdonough/rubygolf
+        title: GitHub repo for the golf course
+      - type: photos
+        url: http://www.flickr.com/photos/skillsmatter/5704350908/in/set-72157626683669388/
+        title: London Ruby User Group May MeetUp - May 2011 | Flickr - Photo Sharing!
+      - type: slides
+        title: LRUG - Ruby Golf 2011 - Introductory Presentation
+        url: http://rubygolf-presentation.heroku.com/
+      - type: skillsmatter-video
+        url: https://skillsmatter.com/skillscasts/2210-ruby-golf
+        title: "SkillsMatter Skillscast : London Ruby User Group : Ruby Golf"
+    use_description_as_intro: true
+june:
+  htmlentities:
+    title: "[htmlentities](http://rubygems.org/gems/htmlentities)"
+    description: |2-
+      HTMLEntities is a simple library to facilitate encoding and decoding of named or numerical
+      entities in HTML and XHTML documents.
+    speaker:
+      name: Paul Battley
+      url: http://po-ru.com/
+    coverage:
+      - type: code
+        url: https://github.com/threedaymonk/htmlentities
+        title: GitHub repo for the HTMLEntities gem
+      - type: skillsmatter-video
+        url: https://skillsmatter.com/podcast/home/ruby-gems
+        title: "SkillsMatter Skillscast : London Ruby User Group : HTMLEntities"
+    use_name_as_intro: true
+  hash-mapper-jbundle-or-anisoptera:
+    title: A choice of 3 gems
+    description: |-
+      [hash_mapper](http://rubygems.org/gems/hash_mapper),
+      [jbundle](http://rubygems.org/gems/jbundle), or
+      [anisoptera](https://github.com/ismasan/anisoptera)
+    speaker:
+      name: Ismael Celis
+      url: http://home.ismaelcelis.com/
+    coverage:
+      - type: code
+        url: https://github.com/ismasan/hash_mapper
+        title: "GitHub repo for the hash_mapper gem"
+      - type: code
+        url: https://github.com/ismasan/jbundle
+        title: "GitHub repo for the jbundle gem"
+      - type: code
+        url: https://github.com/ismasan/anisoptera
+        title: "GitHub repo for the anisoptera gem"
+      - type: skillsmatter-video
+        url: https://skillsmatter.com/skillscasts/2371-jbundle
+        title: "SkillsMatter Skillscast : London Ruby User Group : Jbundle"
+    use_name_as_intro: true
+  roleplay:
+    title: "[RolePlay](http://rubygems.org/gems/role_play)"
+    description: |-
+      RolePlay is a simple gem that provides roles for ActiveRecord objects (typically a user
+      model, giving them the role of administrator or moderator.  As well as covering RolePlay,
+      Paul will also cover tips for upgrading gems to have Rails 3 compatibility.
+    speaker:
+      name: Paul Fedory
+      url: http://paulfedory.com/
+    coverage:
+      - type: code
+        url: https://github.com/mintdigital/role_play
+        title: "GitHub repo for the role_play gem"
+      - type: skillsmatter-video
+        url: https://skillsmatter.com/podcast/home/roleplay
+        title: "SkillsMatter Skillscast : London Ruby User Group : RolePlay"
+    use_name_as_intro: true
+  asset-hat:
+    title: "[Asset Hat](http://rubygems.org/gems/asset_hat)"
+    description: |-
+      Asset Hat deals with asset optimisation once Rails has done it's job, getting your assets
+      from your server to your user faster.
+    speaker:
+      name: Phil Nash
+      url: http://twitter.com/philnash
+    coverage:
+      - type: code
+        url: https://github.com/mintdigital/asset_hat
+        title: "GitHub repo for the asset_hat gem"
+      - type: skillsmatter-video
+        url: https://skillsmatter.com/podcast/home/asset-hat
+        title: "SkillsMatter Skillscast : London Ruby User Group : Asset Hat"
+    use_name_as_intro: true
+  split:
+    title: "[Split](http://rubygems.org/gems/split)"
+    description: |-
+      Split is a Rack based split testing framework
+    speaker:
+      name: Andrew Nesbitt
+      url: http://teabass.com/
+    coverage:
+      - type: code
+        url: https://github.com/splitrb/split
+        title: "GitHub repo for the split gem"
+      - type: slides
+        url: http://speakerdeck.com/u/andrew/p/split
+        title: Split
+      - type: skillsmatter-video
+        url: https://skillsmatter.com/podcast/home/split
+        title: "SkillsMatter Skillscast : London Ruby User Group : Split"
+    use_name_as_intro: true
+  http-tools:
+    title: "[http_tools](http://rubygems.org/gems/http_tools)"
+    description: |-
+      http_tools provides a fast-as-possible pure Ruby HTTP parser plus associated lower level
+      utilities to aid working with HTTP and the web.
+    speaker:
+      name: Matthew Sadler
+      url: http://sourcetagsandcodes.com/
+    coverage:
+      - type: code
+        url: https://github.com/matsadler/http_tools
+        title: "GitHub repo for the http_tools gem"
+      - type: skillsmatter-video
+        url: https://skillsmatter.com/podcast/home/lrug-http-tools
+        title: "SkillsMatter Skillscast : London Ruby User Group : http_tools"
+    use_name_as_intro: true
+  matahari:
+    title: "[Matahari](http://rubygems.org/gems/matahari)"
+    description: |-
+      Matahari is a test-spy library, inspired by Mockito and RR
+    speaker:
+      name: Tom Stuart
+      url: http://mortice.github.com/
+    coverage:
+      - type: code
+        url: https://github.com/rentalcustard/matahari
+        title: "GitHub repo for the matahari gem"
+      - type: write-up
+        url: https://www.tomstuart.co.uk/2011/06/05/mocks-suck-matahari-sucks-less.html
+        title: "tomstuart.co.uk : Mocks suck. Matahari sucks less"
+      - type: skillsmatter-video
+        url: https://skillsmatter.com/podcast/home/matahari
+        title: "SkillsMatter Skillscast : London Ruby User Group : Matahari"
+    use_name_as_intro: true
+july:
+  building-a-prototype-site-for-the-uk-government:
+    title: Building a prototype site for the UK government
+    description:
+      Some of the team behind [alphagov](http://alpha.gov.uk), the new prototype for
+      a UK government website will talk about the ruby they've used in delivering
+      the site, and some of the lessons learned.
+    speaker:
+      - name: Matt Patterson
+        url: https://github.com/fidothe
+      - name: Ben Griffiths
+        url: https://github.com/techbelly
+      - name: James Stewart
+        url: https://jystewart.net
+    coverage:
+      - type: skillsmatter-video
+        url: https://skillsmatter.com/podcast/home/ruby-july
+        title: "SkillsMatter Skillscast : London Ruby User Group : Building a prototype site for
+          the UK government"
+    use_name_as_intro: true
+  extracting-value-from-legacy-applications-using-ruby:
+    title: Extracting value from legacy applications using Ruby
+    description: |-
+      [Jairo Diaz](http://twitter.com/codescrum) and [John Small](https://github.com/JohnSmall)
+      will be talking to us about the rails application they have developed for a large UK retailer
+      and how they overcame some of the challenges along the way.
+    speaker:
+      - name: Jairo Diaz
+        url: http://twitter.com/codescrum
+      - name: John Small
+        url: https://github.com/JohnSmall
+    coverage:
+      - type: skillsmatter-video
+        url: https://skillsmatter.com/skillscasts/2416-legacy-apps-ruby
+        title: "SkillsMatter Skillscast : London Ruby User Group : Extracting value from legacy
+          applications using Ruby"
+    use_description_as_intro: true
+august:
+  managing-web-application-servers-with-puppet:
+    title: Managing Web Application Servers with Puppet
+    description: |-
+      Joshua Sierles of 37signals once described configuration management as something that
+      ["doesn't sound sexy, but it's the single most important thing we do as
+      sysadmins"](http://37signals.com/svn/posts/1872-nuts-bolts-configuration-management-with-chef)
+      but what is it and what do tools like Chef and Puppet offer from the point of view of a
+      developer?
+
+      In this presentation I want to talk about how configuration management allowed me -- a
+      developer with no access to the live servers and working with system administrators in
+      a different time zone -- to not only install and configure servers quickly and in a
+      repeatable way but also let me be confident about the consistency of each and every machine
+      I deploy to.
+
+      Using the example of getting a server ready to run a Rails application using
+      [Puppet](http://www.puppetlabs.com/) (and testing things out with the aid of
+      [Vagrant](http://vagrantup.com/)), I will showcase some patterns that we have developed
+      for managing versions of Ruby with RVM, the installation of Phusion Passenger and how to
+      deploy a database.yml when you're not allowed to see live passwords.
+    speaker:
+      name: Paul Mucur
+      url: http://mudge.name
+    coverage:
+      - type: handout
+        url: https://github.com/mudge/managing_web_application_servers_with_puppet/tree/master/example
+        title: Worked example of Vagrant and Puppet
+      - type: slides
+        url: https://mudge.name/managing_web_application_servers_with_puppet/
+        title: Managing Web Application Servers with Puppet
+      - type: transcript
+        url: https://mudge.name/2011/08/11/managing-web-application-servers-with-puppet.html
+        title: Managing Web Application Servers with Puppet
+      - type: skillsmatter-video
+        url: https://skillsmatter.com/podcast/home/lrug-puppet
+        title: "SkillsMatter Skillscast : London Ruby User Group : Managing Web Applications With
+          Puppet"
+    custom_intro: describes his talk as follows
+  vagrant-and-chef:
+    title: Chef and Vagrant
+    description: |-
+      Most developers spend far too much time managing a development environment that is
+      different to the one they use for production applications. Different tools, different
+      underlying libraries and different bugs. Local virtualisation provides an answer, but
+      historically it's been time consuming and annoying to setup and manage. Using configuration
+      management tools like [Chef](http://www.opscode.com/chef/) to set things up, and
+      [Vagrant](http://vagrantup.com/) to easily manage the virtual machines from the command
+      line provides modern developers the best of all possible worlds.
+    speaker:
+      name: Gareth Rushgrove
+      url: http://morethanseven.net/
+    coverage:
+      - type: slides
+        url: http://morethanseven.net/2011/08/11/Talking-configuration-management-vagrant-and-chef-at-lrug.html
+        title: Talking Configuration Management, Vagrant And Chef At LRUG
+      - type: skillsmatter-video
+        url: https://skillsmatter.com/skillscasts/2512-chef-vagrant
+        title: "SkillsMatter Skillscast : London Ruby User Group : Vagrant and Chef"
+    custom_intro: |-
+      is a sometimes Ruby programmer and occasional sysadmin. He curates the [devopsweekly
+      mailing list](http://devopsweekly.com/), lives in Cambridge and writes code for fun and
+      profit
+september:
+  scaling-e-petitions:
+    title: Stories from the e-petitions front-line
+    description: |-
+      Some of the team ([Chris Parsons](http://chrismdp.github.com/), [Jolyon
+      Pawlyn](http://www.unboxedconsulting.com/people/jolyon-pawlyn)) behind the newly launched
+      [government e-petitions website](http://epetitions.direct.gov.uk/) will talk to us about
+      the issues they had with scaling the site, how they solved them, and how they continue to
+      monitor and improve the service:
+
+      > A talk about caching, chef, munin, load testing and hosting. As part of its adoption of
+      > agile techniques and its creation of a Skunkworks division,
+      > [DirectGov](http://direct.gov.uk) asked the [Agile Delivery
+      > Network](http://www.agiledelivery.net/) to build a successor website to the Number 10
+      > e-petitions site with a 6 week deadline. The talk aims to highlight the measures taken to
+      > cope with high throughput, what worked and what could be done differently to avoid
+      > headlines like ["Government's e-petition website crashes on first
+      > day"](http://www.guardian.co.uk/politics/2011/aug/04/government-e-petition-website-crashes).
+    speaker:
+      - name: Chris Parsons
+        url: http://chrismdp.github.com/
+      - name: Jolyon Pawlyn
+        url: http://www.unboxedconsulting.com/people/jolyon-pawlyn
+    coverage:
+      - type: skillsmatter-video
+        url: https://skillsmatter.com/skillscasts/2530-september-london-ruby-user-group
+        title: "SkillsMatter Skillscast : London Ruby User Group : Scaling e-petitions"
+    use_description_as_intro: true
+october:
+  lrug-battleship-ruby-fight-club:
+    title: 'Battleship: Ruby Fight Club'
+    description: |-
+      [Paul Battley](http://po-ru.com/) has written [a game engine based on the game of
+      battleships](https://github.com/threedaymonk/battleship) and will be letting us play with it.
+      *Before the meeting* you should write a player for Paul's game engine and during the meeting
+      we'll pit the players against each other in a tournament.  Once the winner is declared we'll
+      look at the player implementations and get their authors to talk about them.  In case you
+      win you should be prepared to show off your code and discuss the strategy you implemented.
+
+      There is more information available on the [mailing list thread where Paul announced
+      the event](http://lists.lrug.org/pipermail/chat-lrug.org/2011-September/006352.html).  If
+      you have any questions [the mailing list](/mailing-list) is the place to ask them.
+
+      _UPDATE_
+      If you have written a player [read this missive from
+      Paul](http://lists.lrug.org/pipermail/chat-lrug.org/2011-October/006510.html) and make sure
+      you are prepared.
+
+    speaker:
+      name: Paul Battley
+      url: http://po-ru.com/
+    coverage:
+      - type: code
+        url: https://github.com/threedaymonk/battleship
+        title: "GitHub repo for the battleships game engine"
+      - type: skillsmatter-video
+        url: https://skillsmatter.com/skillscasts/2698-lrug-battleship
+        title: "SkillsMatter Skillscast : London Ruby User Group : LRUG Battleship: Ruby Fight
+          Club"
+    use_description_as_intro: true
+november:
+  transformers-code-blocks-in-disguise:
+    title: "Transformers: Code Blocks In Disguise"
+    description: |-
+      [Aanand Prasad](http://aanandprasad.com/) has some Ruby code to show you. It looks a little
+      strange - in fact, it doesn't even look valid.
+
+          Array.run do
+            x <- ["first", "second"]
+            y <- ["once", "twice"]
+
+            ["#{x} cousin #{y} removed"]
+          end
+
+      What does it do, and how does it do it? If you know what a macro is, or a continuation, or a
+      monad, you might be able to guess. If not, don't worry - by the end, you'll probably be as
+      confused as everyone else, including the speaker.
+    speaker:
+      name: Aanand Prasad
+      url: http://aanandprasad.com/
+    coverage:
+      - type: slides
+        url: http://transformers-talk.heroku.com/
+        title: 'Transformers: Code Blocks in Disguise'
+      - type: skillsmatter-video
+        url: https://skillsmatter.com/skillscasts/2765-november-lrug
+        title: "SkillsMatter Skillscast : London Ruby User Group : Transformers: Code Blocks In
+          Disguise"
+    use_description_as_intro: true
+  my-adventures-in-objective-c:
+    title: My Adventures in Objective-C
+    description: |-
+      I have been ducking Objective-C at every turn for a very long time. Who wants to learn a
+      heavily typed static behemoth just to write an iPhone app?!
+
+      So, I did what every self respecting programmer would do, throw alternative open solutions
+      aka Javascript frameworks at the problem.
+
+      But in the end I had to succumb to the will of the Almighty Apple - I needed their Objective
+      C to make stuff happen ... and it wasn't that bad :)
+
+      This is all the learning, similarities (of which there are a few) and differences between
+      Objective-C and Ruby.
+    speaker:
+      name: Abdel A Saleh
+      url: http://twitter.com/abdels
+    coverage:
+      - type: slides
+        url: http://www.slideshare.net/abdels/my-adventuresinobjc
+        title: My Adventures In Objective-C (A Rubyists Perspective)
+      - type: skillsmatter-video
+        url: https://skillsmatter.com/skillscasts/2826-my-adventures-in-objective-c
+        title: "SkillsMatter Skillscast : London Ruby User Group : My Adventures in Objective-C"
+    custom_intro: wants to tell us about his experiences of developing an iOS app
+      from a Rubyists perspective
+december:
+  hypermedia-as-the-engine-of-application-state:
+    title: HATEOAS
+    description: |-
+      I've been trying to understand the [HATEOAS](http://en.wikipedia.org/wiki/HATEOAS) constraint
+      myself.
+
+      [Roy Fielding's blog posts](http://roy.gbiv.com/untangled/tag/rest) are almost indecipherable
+      to an ordinary developer like me. I think there's a huge gap in relevant easily accessible
+      information on understanding it, and how to implement it, what it's benefits are etc.
+
+      One of the aspects that I've found particularly confusing is the concept of not having
+      out-of-band communication and having discoverable APIs.
+
+      In [one particular blog
+      post](http://roy.gbiv.com/untangled/2008/rest-apis-must-be-hypertext-driven) Roy says:
+
+      > A REST API should be entered with no prior knowledge beyond the initial URI (bookmark) and
+      > set of standardized media types that are appropriate for the intended audience (i.e.,
+      > expected to be understood by any client that might use the API). From that point on, all
+      > application state transitions must be driven by client selection of server-provided choices
+      > that are present in the received representations or implied by the user’s manipulation of
+      > those representations. The transitions may be determined (or limited by) the client’s
+      > knowledge of media types and resource communication mechanisms, both of which may be
+      > improved on-the-fly (e.g., code-on-demand). [Failure here implies that out-of-band
+      > information is driving interaction instead of hypertext.]
+
+      I'd like to talk about how this limitation on out-of-band information seems both insane and
+      impractical, maybe impossible. But then I may go on to explore how actually it makes some
+      form of sense. And how you can use this knowledge to write APIs that are easier to code to,
+      and whilst not resilient to change in some magical sense, it should allow you to write clients
+      that are easier to adapt and update.
+    speaker:
+      name: Mark Burns
+      url: http://twitter.com/_mark_burns
+    coverage:
+      - type: skillsmatter-video
+        url: https://skillsmatter.com/skillscasts/2913-hypermedia-as-the-engine-of-application-state
+        title: "SkillsMatter Skillscast : London Ruby User Group : Hypermedia as the Engine of
+          Application State"
+  usable-apis:
+    title: 'Usable APIs'
+    description: |-
+      With the adoption of REST, the proliferation of smartphones and tablets, and the second
+      coming of JavaScript, exposing our applications as a service is now more important than ever.
+
+      Rails or Sinatra make really easy to create a (kinda) RESTful API but, in many occassions,
+      these APIs are designed without really thinking on the developers that will have to use them.
+
+      I want to talk about some of the points that can help making your API more
+      developer-friendly. Some of the areas I'll cover will be discoverability, authentication,
+      headers, formats, parameters, documentation and tools.
+    speaker:
+      name: Javier Ramirez
+      url: http://twitter.com/supercoco9
+    coverage:
+      - type: skillsmatter-video
+        url: https://skillsmatter.com/skillscasts/2914-usable-api
+        title: "SkillsMatter Skillscast : London Ruby User Group : Usable APIs"
