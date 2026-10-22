@@ -1118,5 +1118,21 @@
         "height":"76"
       }
     }
+  },
+  {
+    "name": "Workforce.com",
+    "url": "https://www.workforce.com/uk/careers",
+    "logo":{
+      "sidebar":{
+        "url":"https://assets.lrug.org/images/workforce_logo.svg",
+        "width":"120",
+        "height":"105"
+      },
+      "main":{
+        "url":"https://assets.lrug.org/images/workforce_logo.svg",
+        "width":"260",
+        "height":"227"
+      }
+    }
   }
 ]
