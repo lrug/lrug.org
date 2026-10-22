@@ -367,6 +367,22 @@ october:
       patterns you can take back to your own applications, whether you're working in a growing
       monolith or already dealing with the realities of distributed state.
 
+november:
+  building-a-multi-user-reservation-system:
+    title: "Building a multi-user reservation system across Hotwire and a Rails API"
+    speaker:
+      name: Jade Dickinson
+      url: "https://jadedickinson.com"
+    description: |
+      Building multi-user reservations for appointments, tickets or other limited resources
+      is such a classic problem that it comes up in system design books as “Build a ticket
+      reservation system”. What do you need to know to build it for real? I will share my
+      experience: from building a simple MVP, planning how to scale it, and designing for
+      reliability and recoverability in a distributed system.
+    custom_intro: |
+      is giving us a sneak peek at her talk from [Helvetic
+      Ruby](https://helvetic-ruby.ch/talks/#jade-dickinson-building-a-multi-user-reservation-system)
+
 december:
   the-goal-pattern:
     title: "The Goal Pattern"
