@@ -30,7 +30,7 @@ module Lrug
       elsif use_name_as_intro
         "#{speaker.formatted_name}:"
       else
-        "#{speaker.formatted_name} says:"
+        "#{speaker.formatted_name} say#{'s' if speaker.group?}:"
       end
     end
 
@@ -57,10 +57,13 @@ module Lrug
         name
       end
     end
+
+    def group? = false
   end
 
   Speakers = Data.define(:speakers) do
     def formatted_name = speakers.map(&:formatted_name).to_sentence
+    def group? = true
   end
 
   Coverage = Data.define(:type, :title, :url) do
