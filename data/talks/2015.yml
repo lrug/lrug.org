@@ -1,0 +1,591 @@
+---
+january:
+  whos-afraid-of-database-views:
+    title: Who’s afraid of database views?
+    description: |-
+      Many Rails codebases I look at work hard to put all logic into
+      the application source code, using the database only a dumb
+      store. But, there are circumstances where it makes sense to
+      leverage features of a database and in this talk I'll cover one
+      of those features in Views. I'll walk through examples of why you
+      might want logic in two places, how views compare to caching
+      for performance considerations, using views as a facade on
+      legacy tables and how to test views alongside your application.
+    speaker:
+      name: Robbie Clutton
+      url: https://twitter.com/robb1e
+    coverage:
+      - type: slides
+        url: https://speakerdeck.com/robb1e/whos-afraid-of-database-views
+        title: Who's afraid of database views?
+      - type: skillsmatter-video
+        url: https://skillsmatter.com/skillscasts/6127-whos-afraid-of-database-views
+        title: 'Skills Matter : London Ruby User Group : Who’s afraid of database views?'
+    custom_intro: isn't, that's for sure
+  peerconnect-all-the-things:
+    title: PeerConnect all the things
+    description: |-
+      [WebRTC](http://www.webrtc.org/) is an exciting technology currently in, or coming
+      soon to a browser near you. In this talk I will explain what
+      it is, how it works and how to setup some ruby services to
+      support a WebRTC-based application.
+    speaker:
+      name: Tom Cartwright
+      url: http://www.tomcartwright.net/
+    coverage:
+      - type: skillsmatter-video
+        url: https://skillsmatter.com/skillscasts/6129-peerconnect-all-the-things
+        title: 'Skills Matter : London Ruby User Group : PeerConnect all the things'
+  telling-stories-through-your-commits:
+    title: Telling stories through your commits
+    description: |-
+      In this talk we'll look at some of the ways that you can
+      improve how you develop code and communicate with your team
+      through your commits.
+    speaker:
+      name: Joel Chippindale
+      url: https://twitter.com/joelchippindale
+    coverage:
+      - type: slides
+        url: http://www.slideshare.net/joelchippindale/telling-stories-through-your-commits
+        title: Telling stories through your commits
+      - type: skillsmatter-video
+        url: https://skillsmatter.com/skillscasts/6128-telling-stories-through-your-commits
+        title: 'Skills Matter : London Ruby User Group : Telling stories through your
+          commits'
+    custom_intro: has a story to tell
+february:
+  a-library-for-handling-postcodes:
+    title: "`uk_postcode`"
+    description: A library for handling postcodes
+    speaker:
+      name: Paul Battley
+      url: http://po-ru.com/
+    coverage:
+      - type: skillsmatter-video
+        url: https://skillsmatter.com/skillscasts/6267-a-library-for-handling-postcodes
+        title: 'Skills Matter : London Ruby User Group : A library for handling postcodes'
+    use_name_as_intro: true
+  finding-and-taking-opportunities-in-the-enterprise:
+    title: Finding and taking opportunities in the enterprise
+    description: Finding and taking opportunities in the enterprise
+    speaker:
+      name: Andrew Donovan
+      url: https://twitter.com/AndrewDvn
+    coverage:
+      - type: skillsmatter-video
+        url: https://skillsmatter.com/skillscasts/6266-finding-and-taking-opportunities-in-the-enterprise
+        title: 'Skills Matter : London Ruby User Group : Finding and taking opportunities
+          in the enterprise'
+    use_name_as_intro: true
+  microaggression-impact-on-women-in-it:
+    title: Microaggression
+    description: 'Microaggression: Impact on Women in IT'
+    speaker:
+      name: Paula Kennedy
+      url: https://twitter.com/PaulaLKennedy
+    coverage:
+      - type: skillsmatter-video
+        url: https://skillsmatter.com/skillscasts/6265-microaggression-impact-on-women-in-it
+        title: 'Skills Matter : London Ruby User Group : Microaggression Impact on Women
+          in IT'
+    use_name_as_intro: true
+  introducing-yournextmp:
+    title: YourNextMP
+    description: Introducing [YourNextMP](https://yournextmp.com/)
+    speaker:
+      name: Mark Longair
+      url: https://longair.net/mark/
+    coverage:
+      - type: skillsmatter-video
+        url: https://skillsmatter.com/skillscasts/6264-introducing-yournextmp
+        title: 'Skills Matter : London Ruby User Group : Introducing YourNextMP'
+    use_name_as_intro: true
+  how-to-help-beginners-learn-to-code:
+    title: How to help beginners learn to code
+    description: How to help beginners learn to code
+    speaker:
+      name: Evgeny Shadchnev
+      url: https://twitter.com/shadchnev
+    coverage:
+      - type: skillsmatter-video
+        url: https://skillsmatter.com/skillscasts/6263-how-to-help-beginners-learn-to-code
+        title: 'Skills Matter : London Ruby User Group : How to help beginners learn
+          to code'
+    use_name_as_intro: true
+  ruby-the-weird-bits:
+    title: The weird bits of ruby
+    description: The weird bits of ruby
+    speaker:
+      name: fell sunderland
+      url: https://twitter.com/felltir
+    coverage:
+      - type: skillsmatter-video
+        url: https://skillsmatter.com/skillscasts/6181-ruby-the-weird-bits
+        title: 'Skills Matter : London Ruby User Group : Ruby: The Weird Bits'
+    use_name_as_intro: true
+  sorting-out-colour:
+    title: Sorting out Colour
+    description: Sorting out [Colour](https://github.com/ms-digital-labs/color_sort)
+    speaker:
+      name: Pip Taylor
+      url: https://github.com/pipt
+    coverage:
+      - type: skillsmatter-video
+        url: https://skillsmatter.com/skillscasts/6261-sorting-out-colour
+        title: 'Skills Matter : London Ruby User Group : Sorting out Colour'
+    use_name_as_intro: true
+  tech-evangelism:
+    title: Tech evangelism
+    description: Tech evangelism
+    speaker:
+      name: Michael Wawra
+      url: https://github.com/xmjw
+      raw: "[Michael Wawra](https://github.com/xmjw):"
+    coverage:
+      - type: skillsmatter-video
+        url: https://skillsmatter.com/skillscasts/6262-tech-evangelism
+        title: 'Skills Matter : London Ruby User Group : Tech Evangelism'
+    use_name_as_intro: true
+march:
+  exploring-to-proc:
+    title: 'Exploring #to_proc'
+    description: |-
+      A look at how some "odd syntax" [introduced in Rails
+      1.1](https://github.com/rails/rails/commit/69bf71f5e9b537f88acc0d4492a057336e7305d1)
+      and then [added to Ruby
+      itself](https://github.com/ruby/ruby/commit/ac4d6ddfa3219c212d2865ed600a0ab568d5f0b5)
+      might not solely be for the sake of convenience but hint at a more powerful idea seen
+      in other programming languages.
+    speaker:
+      name: Paul Mucur
+      url: http://mudge.name/
+    coverage:
+      - type: slides
+        url: https://speakerdeck.com/mudge/exploring-number-to-proc
+        title: 'Exploring #to_proc'
+      - type: skillsmatter-video
+        url: https://skillsmatter.com/skillscasts/6282-exploring-to_proc
+        title: 'Exploring #to_proc SkillsCast'
+      - type: write-up
+        url: https://mudge.name/2014/11/26/data-structures-as-functions/
+        title: Data Structures as Functions (or, Implementing Set#to_proc and Hash#to_proc
+          in Ruby)
+  pkgr-packaging-ruby-applications-with-no-sweat:
+    title: pkgr - Packaging Ruby applications with no sweat
+    description: |-
+      In the life of every<sup>[*](#pkgr-ps)</sup> project there is
+      this moment where standard deployment methods just don’t cut
+      it. You have many servers, many applications, many developers.
+      It can become a mess very, very quickly.
+
+      Have you ever dreamed of hosting your own apt repository? When
+      was the last time you were annoyed about slow deployment times
+      because the asset pipeline needs to run every single server
+      your app runs on? Oh and lets not mention installing ruby
+      version managers on servers, ok? (I will though).
+
+      In this talk I will show how packaging (and deploying) Ruby
+      applications doesn’t have to be hard or time consuming and can
+      work with a project of any size.
+
+      <a name="pkgr-ps">*</a> - huge assumption warning!”
+    speaker:
+      name: Łukasz Korecki
+      url: http://lukasz.korecki.me
+    coverage:
+      - type: skillsmatter-video
+        url: https://skillsmatter.com/skillscasts/6283-pkgr-packaging-ruby-applications-with-no-sweat
+        title: 'Skills Matter : London Ruby User Group : pkgr - Packaging Ruby applications
+          with no sweat'
+april:
+  un-artificial-intelligence-how-people-learn:
+    title: 'Un-artificial Intelligence: How People Learn'
+    description: |-
+      Most developers are familiar with the basics of AI: how do you make a
+      computer, an algorithm, a system learn something? What most don't
+      realize though is that the same principles are applied to people. This
+      talk looks at the theory behind how people learn, and maps it to real
+      life examples of how specifically developers learn.
+    speaker:
+      name: Melinda Seckington
+      url: https://missgeeky.com/
+    coverage:
+      - type: skillsmatter-video
+        url: https://skillsmatter.com/skillscasts/6326-un-artificial-intelligence-how-people-learn
+        title: 'Skills Matter : London Ruby User Group : Un-artificial Intelligence:
+          How People Learn'
+  the-new-mongodb-ruby-driver-2-0:
+    title: The shiny new mongo gem
+    description: |-
+      The Ruby team at MongoDB spent the last year building a new driver
+      -- [the mongo gem](https://github.com/mongodb/mongo-ruby-driver) --
+      that was released a few weeks ago. Emily is going to talk about how
+      they built the driver, its design, and why its availability is
+      so exciting for the Rails and Ruby community.
+
+      For reference, an article announcing the release: [shar.es/1g0PFK](http://shar.es/1g0PFK)
+
+      [MongoDB 3.0](http://docs.mongodb.org/manual/release-notes/3.0/) was also released
+      a few weeks ago and she'll talk a bit about what makes this version so monumental
+      and why you should try it out.
+    speaker:
+      name: Emily Stolfo
+      url: https://twitter.com/emstolfo
+    coverage:
+      - type: skillsmatter-video
+        url: https://skillsmatter.com/skillscasts/6344-the-new-mongodb-ruby-driver-2-0
+        title: 'Skills Matter : London Ruby User Group : The new MongoDB Ruby driver
+          2.0'
+    custom_intro: is visiting from Berlin to tell us all about writing the new ruby
+      driver for MongoDB
+may:
+  rewriting-code-and-culture:
+    title: Rewriting Code and Culture
+    description: |-
+      This is the story of a company that survived a much needed
+      transformation of its product and codebase, but most importantly, of
+      its culture. There's no real prescription for being agile. It's about
+      the journey a team takes to discover how to best work together and
+      deliver great products.
+
+      In this presentation, I'll share a candid view of a team trying to
+      overcome a slow product development process. How we refactored our way
+      out of badly coupled code, moved to continuous deployment, and greatly
+      improved our approach to product and software development.
+    speaker:
+      name: Sabrina Leandro
+      url: http://saleandro.com/
+    coverage:
+      - type: skillsmatter-video
+        url: https://skillsmatter.com/skillscasts/6383-rewriting-code-and-culture
+        title: 'Skills Matter : London Ruby User Group : Rewriting Code and Culture'
+  rails-new-way-building-blocks-for-modern-rails-architecture:
+    title: Rails New Way
+    description: |-
+      * Why a conventional Rails architecture fails?
+      * What price do we pay for Rails’ simplicity?
+      * Why Rails tries to solve complex problems in one monolithic class?
+      * Should we follow the Rails way or drop Rails at all?
+
+      With presented building blocks he'll try to help solve common problems in current
+      Rails applications.
+    speaker:
+      name: Kamil Lelonek
+      url: http://kamil.lelonek.me/
+    custom_intro: is going to talk about building modern, maintainable and robust Rails
+      applications. He asks
+    coverage:
+      - type: skillsmatter-video
+        url: https://skillsmatter.com/skillscasts/6384-rails-new-way
+        title: 'Skills Matter : London Ruby User Group : Rails New Way'
+june:
+  redis-is-the-answer-whats-the-question:
+    title: Redis is the answer, what's the question?
+    description: |-
+      There are very few things that are part of my go-to toolbox, but Redis
+      is one of those things. I don't think there's a better, more flexible
+      piece of infrastructure you can have at your disposal.
+
+      I'll cover the very basics of using Redis and general patterns that you
+      can use within your own systems. I'll also share some concrete examples
+      of what we've used it for at Cronofy.
+    speaker:
+      name: Garry Shutler
+      url: http://gshutler.com
+    coverage:
+      - type: skillsmatter-video
+        url: https://skillsmatter.com/skillscasts/6454-redis-is-the-answer-what-s-the-question
+        title: 'Skills Matter : London Ruby User Group : Redis is the answer, what''s
+          the question?'
+  ruby-magic:
+    title: Ruby Magic
+    description: |-
+      As a child, [Andrew McDonough](http://twitter.com/andrewmcdonough) loved
+      magic.  One of the best Christmas presents he ever received was a magic
+      set.  As an adult, Andrew prefers to perform magic using Ruby.  In this
+      talk, he will attempt an array of traditional magic tricks, using only
+      [IRB](https://en.wikipedia.org/wiki/Interactive_Ruby_Shell).
+    speaker:
+      name: Andrew McDonough
+      url: http://twitter.com/andrewmcdonough
+    coverage:
+      - type: skillsmatter-video
+        url: https://skillsmatter.com/skillscasts/6455-ruby-magic
+        title: 'Skills Matter : London Ruby User Group : Ruby Magic'
+    use_description_as_intro: true
+  test-bisection-with-rspec:
+    title: Test Bisection with RSpec
+    description: |-
+      I'll talk about a useful technique for debugging order-dependent test
+      failures, and introduce an upcoming feature in RSpec that automates it.
+    speaker:
+      name: Simon Coffey
+      url: https://twitter.com/urbanautomaton
+    coverage:
+      - type: skillsmatter-video
+        url: https://skillsmatter.com/skillscasts/6456-test-bisection-with-rspec
+        title: 'Skills Matter : London Ruby User Group : Test Bisection with RSpec'
+july:
+  learning-how-to-learn-ruby-and-rails-and-sinatra-and:
+    title: LEARNING HOW TO LEARN RUBY (and rails, and sinatra, and ...)
+    description: |-
+      At Makers Academy we coach students through the process of learning
+      Ruby, Sinatra, Rails, JavaScript, JQuery and Angular over the course of
+      12 weeks.  Students range in age from 18 to 60, although the majority
+      are in their late 20s or early 30s, already have university degrees
+      (often a humanities subject) and have spent 5+ years in the workplace
+      doing sales, marketing, design, management or some other relatively
+      non-technical role.  The majority of students have also had almost no
+      programming experience prior to their preparation for the interview and
+      selection process that they must go through to get on the course.  In
+      this talk I will explore what makes a 12 week intensive bootcamp tick,
+      and the particular challenges the students face with learning Ruby and
+      JavaScript.
+    speaker:
+      name: Sam Joseph
+      url: https://github.com/tansaku
+    coverage: []
+  flaky-tests-capybara-best-practices:
+    title: Flaky tests & Capybara best practices
+    description: |-
+      One of the main purposes of testing is to enable us to trust the
+      performance of our code in an automated way. Unfortunately, several
+      problems often arise with automated tests. One common and particularly
+      annoying problem that we began experiencing in our codebase was
+      flakiness.
+
+      In this talk, I will discuss common problems that may cause this issue,
+      and some solutions we discovered based on our own experience at
+      SimplyBusiness.
+    speaker:
+      name: Karlotcha Hoa
+      url: https://github.com/Karlotcha
+    coverage: []
+august:
+  hello-declarative-world:
+    title: Hello, declarative world
+    description: |-
+      Ruby’s billed as a “multi-paradigm” language, but, let’s face it, we
+      use it to write imperative object-oriented programs. I'm interested in
+      different ways of programming computers, because I reckon imperative
+      programs are far too low-level and overspecified, which is why as a
+      species we're generally terrible at writing them. In this talk I want
+      to encourage you to think outside of your normal programming habits;
+      I’ll present a more abstract and declarative style called relational
+      programming, and show you how to implement a minimal relational
+      language in Ruby. (Dog whistle: this is
+      [μkanren](http://webyrd.net/scheme-2013/papers/HemannMuKanren2013.pdf).)
+    speaker:
+      name: Tom Stuart
+      url: http://codon.com
+    coverage:
+      - type: skillsmatter-video
+        url: https://skillsmatter.com/skillscasts/6523-hello-declarative-world
+        title: 'Skills Matter : London Ruby User Group : Hello, declarative world'
+  domain-driven-design-in-the-wild:
+    title: Domain Driven Design, In the Wild
+    description: |-
+      Every day, we write software that solves business problems. How we
+      actually do that is largely up to us. We tend to build models that
+      encapsulate complexity and provide abstractions that help us reason
+      about the problems we solve.
+
+      We stress our models with incremental development. Changing business
+      requirements challenge the durability of our models. The magnitude of
+      change is an indicator for the effectiveness of our models' ability to
+      represent the problem domain.
+
+      At [Which?](https://github.com/whichdigital) we used [Domain Driven
+      Design](https://en.wikipedia.org/wiki/Domain-driven_design) to deliver
+      our most recent project. In this talk, I will share those insights. I
+      aim to cut through the jargon and give concrete, real-world examples of
+      how we applied the principles of DDD to build a product that
+      anticipates change.
+    speaker:
+      name: Chris Patuzzo
+      url: https://github.com/tuzz
+    coverage:
+      - type: skillsmatter-video
+        url: https://skillsmatter.com/skillscasts/6524-domain-driven-design-in-the-wild
+        title: 'Skills Matter : London Ruby User Group : Domain Driven Design, In the
+          Wild'
+september:
+  a-pull-request-slackbot-the-seal:
+    title: 'A pull request slackbot : the seal'
+    description: |-
+      As part of my 20% project at GDS, I developed a Slackbot that reminds
+      developers of their team's pull requests that are awaiting review. I
+      will talk about why and how [the seal](https://github.com/binaryberry/seal/)
+      was built, and what I learned from building it.
+    speaker:
+      name: Tatiana Soukiassian
+      url: https://twitter.com/binaryberry
+    coverage:
+      - type: write-up
+        url: https://gdstechnology.blog.gov.uk/2015/09/24/reminding-developers-about-code-reviews/
+        title: Reminding developers about code reviews
+      - type: skillsmatter-video
+        url: https://skillsmatter.com/skillscasts/6584-how-to-onboard-junior-developers-well-by-tatiana-soukiassian
+        title: 'Skills Matter : London Ruby User Group : A pull request slackbot : the
+          seal'
+  containers-patterns-for-rails:
+    title: Containers Patterns for Rails
+    description: |-
+      In this talk we explore how to use docker containers to run ruby on
+      rails applications.  Rails applications usually require several
+      different components such as Nginx, Redis, MySQL, Mongo and background
+      jobs. We will show how to set up and manage the configuration of these
+      elements.
+    speaker:
+      name: Jairo Diaz
+      url: https://twitter.com/codescrum
+    coverage:
+      - type: slides
+        url: https://speakerdeck.com/jairodiaz/containers-patterns-for-rails
+        title: Containers Patterns for Rails
+      - type: skillsmatter-video
+        url: https://skillsmatter.com/skillscasts/6585-containers-patterns-for-rails
+        title: 'Skills Matter : London Ruby User Group : Containers Patterns for Rails'
+  learning-through-blameless-reviews:
+    title: Learning through blameless reviews
+    description: |-
+      In this talk I will outline some of the ways that teams react to the
+      mistakes they make and how blameless reviews can help teams learn from
+      these mistakes
+    speaker:
+      name: Joel Chippindale
+      url: https://twitter.com/joelchippindale
+    coverage:
+      - type: skillsmatter-video
+        url: https://skillsmatter.com/skillscasts/6591-learning-through-blameless-reviews
+        title: 'Skills Matter : London Ruby User Group : Learning through blameless
+          reviews'
+october:
+  debugging-and-fixing-performance-issues-with-the-mustache-gem-and-partials:
+    title: Debugging and fixing performance issues with the mustache gem and partials
+    description: |-
+      A quick blast through encountering a feature with performance in the
+      mustache gem. How we debugged it and how we fixed it. This talk will be
+      a bit less boring than it sounds.
+    speaker:
+      - name: Alice Bartlett
+        url: https://twitter.com/alicebartlett
+      - name: Dom Baggott
+        url: https://twitter.com/evilstreak
+    coverage:
+      - type: slides
+        url: https://speakerdeck.com/evilstreak/fixing-a-performance-issue-with-the-mustache-gem
+        title: Fixing a performance issue with the mustache gem
+      - type: write-up
+        url: https://gdstechnology.blog.gov.uk/2015/06/09/major-performance-issue-with-mustache-and-partials/
+        title: 'Technology at GDS : Major performance issue with Mustache and partials'
+      - type: skillsmatter-video
+        url: https://skillsmatter.com/skillscasts/6598-debugging-and-fixing-performance-issues-with-the-mustache-gem-and-partials
+        title: 'Skills Matter : London Ruby User Group : Debugging and fixing performance
+          issues with the mustache gem and partials'
+  api-first-banking:
+    title: API-first banking
+    description: |-
+      What would you build on top of your bank if it had a REST API & Webhooks?
+      At Mondo, we're looking forward to finding out. Our API (plus Ruby client library)
+      is in beta ([docs here](https://getmondo.co.uk/docs/)), and we hosted our first
+      hackathon a couple of weeks ago. Come along to find out what people built!
+    speaker:
+      name: Jonas Huckestein
+      url: https://twitter.com/jonas
+    coverage:
+      - type: skillsmatter-video
+        url: https://skillsmatter.com/skillscasts/6732-api-first-banking
+        title: 'Skills Matter : London Ruby User Group : API-first banking'
+  activerecord-vs-n-1:
+    title: ActiveRecord vs N+1
+    description: |-
+      In this talk would like to focus on dealing with N+1: how to detect it,
+      how to get rid of it and, most importantly, how to avoid it.
+    speaker:
+      name: Stanisław Klajn
+      url: http://stackoverflow.com/users/2336231/broisatse
+    coverage:
+      - type: skillsmatter-video
+        url: https://skillsmatter.com/skillscasts/6731-activerecord-vs-n-1
+        title: 'Skills Matter : London Ruby User Group : ActiveRecord vs N+1'
+november:
+  hack-like-a-journalist:
+    title: Hack like a journalist
+    description: |-
+      News reporters are trained in techniques to produce stories that are concise,
+      well structured, easy to follow and with a consistent house style. How can
+      those same techniques help us write better code?
+    speaker:
+      name: Scott Matthewman
+      url: https://twitter.com/scottm
+    coverage:
+      - type: slides
+        url: https://speakerdeck.com/scottmatthewman/hack-like-a-journalist
+        title: Slides for Hack like a journalist
+      - type: skillsmatter-video
+        url: https://skillsmatter.com/skillscasts/6984-hack-like-a-journalist
+        title: 'Skills Matter : London Ruby User Group : Hack like a journalist'
+  leveraging-immutability-in-ruby:
+    title: Leveraging immutability in Ruby
+    description: |-
+      Why should we care about using immutable objects in our code? What does
+      functional programming have to do with immutability? How do we approach
+      immutability when the frameworks and libraries we use seem to go a different
+      direction?
+
+      We'll try to answer these questions by looking at the ideas behind the
+      implementation of some immutable data structure.
+    speaker:
+      name: Lorenzo Barasti
+      url: https://www.linkedin.com/pub/lorenzo-barasti/5a/918/685
+    coverage:
+      - type: skillsmatter-video
+        url: https://skillsmatter.com/skillscasts/7064-leveraging-immutability-in-ruby
+        title: 'Skills Matter : London Ruby User Group : Leveraging immutability in
+          Ruby'
+  no-mans-land-finding-peace-at-the-border-of-art-and-tech:
+    title: No-Man’s Land - Finding peace at the border of art and tech
+    description: |-
+      However good the underlying tech, ugly applications discourage users, pretty
+      ones will attract them. A gulf exists between the artists and the technicians
+      who need to bring those designs to life. Co-presented by a graphic designer
+      and a developer, we’ll discuss our approach to keeping both artists and
+      technicians within their comfort zone to create applications that work well
+      AND look good.
+    speaker:
+      - name: Kevin Monk
+        url: https://twitter.com/KevinMonk
+      - name: Simon Sharville
+        url: http://www.simonsharville.co.uk/
+    coverage:
+      - type: skillsmatter-video
+        url: https://skillsmatter.com/skillscasts/7058-no-man-s-land-finding-peace-at-the-border-of-art-and-tech
+        title: 'Skills Matter : London Ruby User Group : No-Man’s Land - Finding peace
+          at the border of art and tech'
+december:
+  festive-codewarsjam:
+    title: Festive `CodeWarsJam`
+    description: |-
+      A CodeWarsJam is a session where small teams of coders work on the same coding
+      problem together.  The problems are usually relatively simple and can be
+      reviewed as a group every 20 minutes or so.  Recently at
+      [MakersAcademy](http://www.makersacademy.com/) we've had great fun with
+      CodeWarsJams, where we take coding kata from [http://codewars.com](http://codewars.com)
+      and use them to run a CodeWarsJam.  CodeWarsJam is great because when you
+      solve a problem you get to see all the other variant solutions that others
+      have coded, sorted by popularity.  Come join the festive coding fun as LRUG's
+      first CodeWarsJam!
+    speaker:
+      name: Sam Joseph
+      url: https://github.com/tansaku
+    coverage:
+      - type: link
+        url: http://www.codewars.com/
+        title: Codewars
+      - type: skillsmatter-video
+        url: https://skillsmatter.com/skillscasts/7167-london-ruby-usergroup
+        title: 'Skills Matter : London Ruby User Group : LRUG - Festive CodeWarsJam'
+    custom_intro: is going to lead us through a practical exercise he calls "CodeWarsJam".  He
+      describes it as follows
