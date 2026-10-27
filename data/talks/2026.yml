@@ -382,6 +382,16 @@ november:
     custom_intro: |
       is giving us a sneak peek at her talk from [Helvetic
       Ruby](https://helvetic-ruby.ch/talks/#jade-dickinson-building-a-multi-user-reservation-system)
+  protecting-your-ruby-application-from-denial-of-wallet-attacks:
+    title: Protecting your Ruby application from Denial of Wallet attacks
+    speaker:
+      name: Abiodun Olowode
+      url: https://www.linkedin.com/in/abiodun-ajibade
+    description: |-
+      A denial of wallet attack doesn't take your app down. It makes your app spend money,
+      through paid APIs such as LLM calls, until the bill hurts. In this talk, I explain
+      what these attacks look like, how we found the gaps in our own app and how we are
+      fixing them.  Your app might have the same gaps.
 
 december:
   the-goal-pattern:
