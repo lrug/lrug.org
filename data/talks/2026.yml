@@ -346,6 +346,11 @@ october:
       An overview of how we implemented a recovery endpoint for Cleo’s chat system. When
       streaming and websockets fail, what can you do to ensure the user always gets the
       message?
+    coverage:
+      - type: video
+        title: "LRUG October 2026 - Lea Whitelaw - Stop getting ghosted: How we implemented message
+          delivery resilience at Cleo"
+        url: https://assets.lrug.org/videos/2026/october/lea-whitelaw-stop-getting-ghosted-how-we-implemented-message-delivery-resilience-at-cleo-lrug-october-2026.mp4
   itll-be-consistent-eventually:
     title: "It'll Be Consistent, Eventually"
     speaker:
@@ -366,6 +371,10 @@ october:
       at different levels of abstraction in a codebase. Along the way, we'll talk through some
       patterns you can take back to your own applications, whether you're working in a growing
       monolith or already dealing with the realities of distributed state.
+    coverage:
+      - type: video
+        title: "LRUG October 2026 - Joel Biffin - It'll Be Consistent, Eventually"
+        url: https://assets.lrug.org/videos/2026/october/joel-biffin-itll-be-consistent-eventually-lrug-october-2026.mp4
 
 november:
   building-a-multi-user-reservation-system:
