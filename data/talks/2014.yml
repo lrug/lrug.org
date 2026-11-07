@@ -1,0 +1,695 @@
+---
+january:
+  api-analytics-with-redis-and-bigquery:
+    title: API Analytics with Redis and Bigquery
+    description: |-
+      At [teowaki](https://teowaki.com/) we have a system for API usage analytics,
+      with [Redis](http://redis.io/) as a fast intermediate store and
+      [bigquery](https://developers.google.com/bigquery/) as a big data
+      backend. As a result, we can launch aggregated queries on our
+      traffic/usage data in just a few seconds and we can try and find
+      for usage patterns that wouldn’t be obvious otherwise.
+
+      In this session I will talk about how we entered the Big Data
+      world, which alternatives we evaluated, and how we are using
+      Redis and Bigquery to solve our problem.
+    speaker:
+      name: Javier Ramirez
+      url: http://javier-ramirez.com/
+    coverage:
+      - type: notes
+        url: https://teowaki.com/teams/javier-community/link-categories/bigquery-talk
+        title: Interesting links to complement my talk about google bigquery
+      - type: slides
+        url: http://www.slideshare.net/supercoco9/api-analytics-redis-bigquery-lrug
+        title: api analytics redis bigquery. Lrug
+      - type: skillsmatter-video
+        url: https://skillsmatter.com/podcast/nosql/pi-analytics-with-redis-and-bigquery/jd-8884
+        title: 'Skills Matter : London Ruby User Group : API Analytics with Redis and
+          BigQuery'
+    custom_intro: wants to tell us about dealing with big data
+  using-data-tiering-to-squeeze-scale-out-of-sql:
+    title: Using data tiering to squeeze scale out of SQL
+    description: |-
+      As traffic grows, some of the data structures our application
+      has to manipulate gets contended. Ours is an unusual, but
+      effective solution: segregate data into read-mostly and
+      write-mostly.
+    speaker:
+      name: Julien Letessier
+      url: http://dec0de.me/
+    coverage:
+      - type: link
+        url: https://github.com/hubb/data-tiering
+        title: data-tiering gem
+      - type: slides
+        url: http://www.slideshare.net/mezis/data-tiering-squeezing-scale-out-of-mysql-lrug-presentation-20140113
+        title: 'Data Tiering: Squeezing Scale out of MySQL (LRUG Presentation 2014-01-13)'
+      - type: skillsmatter-video
+        url: https://skillsmatter.com/podcast/nosql/using-data-tiering-to-squeeze-scale-out-of-sql/jd-8885
+        title: 'Skills Matter : London Ruby User Group : Using data tiering to squeeze
+          scale out of SQL'
+      - type: write-up
+        url: http://dev.housetrip.com/2013/11/15/data-tiering/
+        title: Using data tiering to squeeze scale out of SQL
+    custom_intro: also wants to talk about data
+february:
+  how-to-visually-represent-memory-leaks-in-ruby-applications:
+    title: Memory leaks
+    description: Visually representing memory leaks in Ruby applications
+    speaker:
+      name: Camille Baldock
+      url: http://camillebaldock.co.uk/
+    coverage:
+      - type: skillsmatter-video
+        url: https://skillsmatter.com/skillscasts/5024-how-to-visually-represent-memory-leaks-in-ruby-applications
+        title: 'Skills Matter : London Ruby User Group : How to Visually represent memory
+          leaks in Ruby applications'
+    use_name_as_intro: true
+  five-facts-about-smell:
+    title: Five facts about smell
+    description: Five facts about smell
+    speaker:
+      name: Alice Bartlett
+      url: http://alicebartlett.co.uk/
+    coverage:
+      - type: skillsmatter-video
+        url: https://skillsmatter.com/skillscasts/5050-five-facts-about-smell
+        title: 'Skills Matter : London Ruby User Group : Five facts about smell'
+    use_name_as_intro: true
+  10-things-i-hate-about-your-documentation:
+    title: 10 things I hate about your documentation
+    description: 10 things I hate about your documentation
+    speaker:
+      name: Nat Buckley
+      url: http://ntlk.net/
+    coverage:
+      - type: skillsmatter-video
+        url: https://skillsmatter.com/skillscasts/5051-10-things-i-hate-about-your-documentation
+        title: 'Skills Matter : London Ruby User Group : 10 things I hate about your
+          documentation'
+    use_name_as_intro: true
+  angularjs-for-rubyists:
+    title: AngularJS for rubyists
+    description: AngularJS for rubyists
+    speaker:
+      name: Tom Cartwright
+      url: http://www.tomcartwright.net/
+    coverage:
+      - type: skillsmatter-video
+        url: https://skillsmatter.com/skillscasts/5052-angularjs-for-rubyists
+        title: 'Skills Matter : London Ruby User Group : AngularJS for rubyists'
+    use_name_as_intro: true
+  a-conversation-between-a-developer-and-a-manager:
+    title: A conversation between a developer and a manager
+    description: A conversation between a developer and a manager
+    speaker:
+      - name: Daniel Cooper
+        url: https://twitter.com/daniel_cooper
+      - name: Jeremy Tapp
+        url: https://twitter.com/JeremyTapp
+    coverage:
+      - type: skillsmatter-video
+        url: https://skillsmatter.com/skillscasts/5053-a-conversation-between-a-developer-and-a-manager
+        title: 'Skills Matter : London Ruby User Group : A conversation between a developer
+          and a manager'
+    use_name_as_intro: true
+  create-your-own-blog-using-jekyll:
+    title: "`jekyll`"
+    description: Create your own blog using jekyll
+    speaker:
+      name: Swathi Kantharaja
+      url: http://www.swathik.com/
+    coverage:
+      - type: skillsmatter-video
+        url: https://skillsmatter.com/skillscasts/5054-create-your-own-blog-using-jekyll
+        title: 'Skills Matter : London Ruby User Group : Create your own blog using
+          jekyll'
+    use_name_as_intro: true
+  docker-ansible-the-path-to-continuous-delivery:
+    title: Docker & Ansible
+    description: 'Docker & Ansible: The Path to Continuous Delivery'
+    speaker:
+      name: Gerhard Lazu
+      url: http://gerhardlazu.com/
+    coverage:
+      - type: slides
+        url: https://speakerdeck.com/gerhardlazu/ansible-and-docker-the-path-to-continuous-delivery-lrug-20x20
+        title: Ansible & Docker - The Path to Continuous Delivery LRUG 20x20
+      - type: write-up
+        url: http://gerhard.lazu.co.uk/ansible-docker-the-path-to-continuous-delivery-1
+        title: Ansible & Docker - The Path to Continuous Delivery I
+      - type: skillsmatter-video
+        url: https://skillsmatter.com/skillscasts/5055-docker-ansible-the-path-to-continuous-delivery
+        title: 'Skills Matter : London Ruby User Group : Docker & Ansible: The Path
+          to Continuous Delivery'
+    use_name_as_intro: true
+  firefoxos-on-rails:
+    title: FirefoxOS on Rails
+    description: FirefoxOS on Rails
+    speaker:
+      name: Pablo Brasero Moreno
+      url: http://www.pablobm.com/
+    coverage:
+      - type: skillsmatter-video
+        url: https://skillsmatter.com/skillscasts/5056-firefoxos-on-rails
+        title: 'Skills Matter : London Ruby User Group : FirefoxOS on Rails'
+    use_name_as_intro: true
+  open-source-how-to-get-started:
+    title: Open Source, how to get started
+    description: Open Source, how to get started
+    speaker:
+      name: Despo Pentara
+      url: https://twitter.com/despo
+    coverage:
+      - type: skillsmatter-video
+        url: https://skillsmatter.com/skillscasts/5057-open-source-how-to-get-started
+        title: 'Skills Matter : London Ruby User Group : Open Source, how to get started'
+    use_name_as_intro: true
+march:
+  rage-against-the-state-machine:
+    title: Rage against the state machine
+    description: |-
+      A story about the problems we faced modelling state and
+      recording state changes at [GoCardless](https://gocardless.com/blog/) and how we
+      generalised our solution to those problems into a new
+      gem, [Statesman](https://github.com/gocardless/statesman).
+    speaker:
+      name: Andrew Appleton
+      url: https://twitter.com/appltn
+    coverage:
+      - type: slides
+        url: https://speakerdeck.com/appltn/rage-against-the-state-machine
+        title: Rage against the state machine
+      - type: skillsmatter-video
+        url: https://skillsmatter.com/skillscasts/5093-rage-against-the-state-machine
+        title: 'Skills Matter : London Ruby User Group : Rage against the state machine'
+  marketing-for-developers:
+    title: Marketing for Developers
+    description: |-
+      I’m a relative newcomer to Ruby, but I’ve got lots of experience in
+      marketing.
+
+      Over the last two years I’ve spoken to many experienced devs about
+      their marketing challenges, and witnessed how simple marketing
+      mistakes can derail a project.
+
+      In the consumer goods industry marketing is a discipline, with
+      structured ways of working through it.   I will demonstrate that
+      this structure works well for tech startups, and give you a
+      practical checklist you can apply.
+    speaker:
+      - name: Derek Hill
+        url: http://uk.linkedin.com/in/derekahill/
+    custom_intro: "from [eBench](http://www.eBench.com) wants to talk to us about marketing"
+    coverage:
+      - type: slides
+        url: https://s3.amazonaws.com/eBench/LRUG_marketing_for_developers.pdf
+        title: Summary Slide
+      - type: skillsmatter-video
+        url: https://skillsmatter.com/skillscasts/5094-marketing-for-developers
+        title: 'Skills Matter Skillscast : LRUG : Marketing for developers'
+  building-a-soa-network-of-daemons-with-go-ruby-and-zmq:
+    title: Building a SOA network of daemons with Go, Ruby and ZMQ
+    description: |-
+      I would like to talk about a series of custom-made infrastructure
+      components that I’ve built over several months to support a hosted
+      e-commerce app that I run in my spare time.
+
+      This consists of a central events hub written in Go, to which the
+      user-facing apps send events, and a series of Go and Ruby scripts
+      subscribing to said events on a ZMQ socket and doing varied things
+      such as analytics, periodical backups and house-keeping.
+
+      The code I’ll show is mostly Go, with some Ruby to illustrate how
+      this all hooks in to my Ruby apps and existing infrastructure. I’ll
+      try to show why Go is great for writing small, focused scripts that
+      support your user facing apps.
+    speaker:
+      name: Ismael Celis
+      url: http://home.ismaelcelis.com/
+    coverage:
+      - type: write-up
+        url: https://thoughtbot.com/blog/micro-network-daemons-in-go
+        title: A network of data consumers and producers with Go, UDP, Redis and ZeroMQ
+      - type: slides
+        url: http://www.slideshare.net/ismasan/go-rubyudppubsub
+        title: Networked pub/sub with UDP, Go, Ruby and ZMQ
+      - type: skillsmatter-video
+        url: https://skillsmatter.com/skillscasts/5110-building-a-soa-network-of-daemons-with-go-ruby-and-zmq
+        title: 'Skills Matter : London Ruby User Group : Building a SOA network of daemons
+          with Go, Ruby and ZMQ'
+april:
+  adventures-in-early-adoption-of-open-source-code:
+    title: Adventures in early-adoption of open-source code
+    description: |-
+      Some of the team from [the ODI](http://theodi.org/) want to present about their work:
+
+      > Last year, the ODI found themselves wanting to use the
+      > code behind [gov.uk](http://www.gov.uk) for a new project.
+      > In this talk [James](https://theodi.org/team/james-smith)
+      > and [Sam](https://theodi.org/team/sam-pikesley) from the ODI
+      > tech team will share their experience of picking up a codebase
+      > which was [open source](https://github.com/alphagov), but never
+      > really designed for reuse, and what they learned along the way.
+    speaker:
+      - name: James Smith
+        url: https://floppy.org.uk
+      - name: Sam Pikesley
+        url: https://sam.pikesley.org
+    coverage:
+      - type: slides
+        url: http://theodi.github.io/presentations/2014-04-how-to-gds.html
+        title: How Do I GDS?
+      - type: skillsmatter-video
+        url: https://skillsmatter.com/skillscasts/5181-adventures-in-early-adoption-of-open-source-code
+        title: 'Skills Matter : London Ruby User Group : Adventures in early-adoption
+          of open-source code'
+    use_description_as_intro: true
+  aspect-oriented-programming-in-ruby:
+    title: Aspect-Oriented Programming in Ruby
+    description: |-
+      Many of us developers love arguing about architecture that
+      we dislike and refactoring our code to loosen coupling and
+      weaken dependencies between our objects. Unfortunately,
+      some overarching parts of our applications, like persistence,
+      networking, notifications, logging, auditing, are scattered
+      in our code, forcing us to specific explicit dependencies
+      between them and our domain objects.
+
+      [Aspect-oriented programming](http://en.wikipedia.org/wiki/Aspect-oriented_programming)
+      is a solution to the problem of some features affecting
+      virtually all business requirements, and expresses that problem
+      in a compact and DRY way.
+
+      In this practical talk, Camille will:
+
+      * introduce the basic concepts of AOP, and how it is still relevant even in a non-statically
+        typed language like Ruby
+      * show you how to easily and quickly leverage some AOP principles in your Rails application
+      * play with some AOP-friendly constructs in Ruby 2, in particular TracePoint
+      * walk you through two existing Ruby frameworks to practice Aspect-Oriented Programming
+
+      She will even attempt to prove that not all things coming from the Java world are
+      necessarily bad.
+    speaker:
+      name: Camille Baldock
+      url: http://camillebaldock.co.uk/
+    coverage:
+      - type: skillsmatter-video
+        url: https://skillsmatter.com/skillscasts/5199-aspect-oriented-programming-in-ruby
+        title: 'Skills Matter : London Ruby User Group : Aspect-oriented programming
+          in Ruby'
+may:
+  learning-to-code:
+    title: Learning to Code
+    description: |-
+      It'll be about my adventures, frustrations and triumphs in learning
+      to code and specifically in Ruby.
+    speaker:
+      name: Angela Ebirim
+      url: https://twitter.com/obia67
+    custom_intro: |-
+      has been attending the [Funding Circle Code Craft](http://tech.fundingcircle.com/codecraft/)
+      course and is going to give us a lightning talk
+    coverage:
+      - type: slides
+        url: http://www.slideshare.net/trekr5/may-lrug-talk
+        title: 'Learning to Code : May LRUG talk'
+      - type: skillsmatter-video
+        url: https://skillsmatter.com/skillscasts/5281-learning-to-code
+        title: 'Skills Matter : London Ruby User Group : Learning to Code'
+  how-to-win-developers-and-influence-designers:
+    title: How to win developers and influence designers
+    description: |-
+      In 1936, Dale Carnegie wrote the book ["How to win friends and influence
+      people"](http://www.amazon.co.uk/How-Win-Friends-Influence-People/dp/0091906814/).
+      You may have heard of it. But what can this book, and others, teach us about
+      working as part of a software team today? Quite a lot, actually.
+
+      We'll look at a few points that'll help us to work better, together.
+    speaker:
+      name: Adam Rogers
+      url: https://twitter.com/rodreegez
+    coverage:
+      - type: skillsmatter-video
+        url: https://skillsmatter.com/skillscasts/5282-how-to-win-developers-and-influence-designers
+        title: 'Skills Matter : London Ruby User Group : How to win developers and influence
+          designers'
+    custom_intro: has a talk for us about working as a team better
+  deprecating-activeresource-alternative-approaches-for-internal-rails-services:
+    title: 'Deprecating ActiveResource: Alternative Approaches for Internal Rails
+      Services'
+    description: |-
+      Ruby on Rails has always been optimized for a single monolithic application
+      architecture.  But as applications grow, it has become more and more common
+      for architects to seek out ways to break their monolithic Rails apps into
+      self-contained services.  For years the most natural answer of how to hook
+      up one Rails app to another's API has been to use ActiveResource, a core
+      Rails plugin that provides an ActiveRecord-like interface to an external service.
+
+      The allure of such a simple interface to a network service is undeniable, but
+      the downsides not nearly as obvious.  Many have built Rails apps relying on
+      ActiveResource only to feel significant unforeseen pain down the line.  This
+      talk provides a case study of an early adopter of ActiveResource during the
+      Rails 1.2 era, the pain that it led to, and the eventual replacement of
+      ActiveResource with a bespoke private gem that provides a similar, but more
+      robust interface.
+    speaker:
+      name: Gabe da Silveira
+      url: https://twitter.com/dasil003
+    coverage:
+      - type: slides
+        url: https://speakerdeck.com/gtd/deprecating-activeresource
+        title: Deprecating ActiveResource
+      - type: skillsmatter-video
+        url: https://skillsmatter.com/skillscasts/5283-deprecating-activeresource-alternative-approaches-for-internal-rails-services
+        title: 'Skills Matter : London Ruby User Group : Deprecating ActiveResource:
+          Alternative Approaches for Internal Rails Services'
+    custom_intro: is going to talk to us about ActiveResource
+june:
+  patterns-antipatterns-in-teaching:
+    title: Patterns & Antipatterns in Teaching
+    description: |-
+      My talk will be about the techniques & approaches that
+      worked (and didn't work) for us while I was teaching at
+      [Codecraft](http://tech.fundingcircle.com/codecraft/).
+    speaker:
+      name: Mal Pinder
+      url: https://twitter.com/malpinder
+    coverage:
+      - type: skillsmatter-video
+        url: https://skillsmatter.com/skillscasts/5366-patterns-antipatterns-in-teaching
+        title: 'Skills Matter : London Ruby User Group : Patterns & Antipatterns in
+          Teaching'
+  adventures-with-data-structures-and-algorithms:
+    title: Adventures with data structures and algorithms
+    description: |-
+      Hola amigos! We need to have a chat about data structures
+      and algorithms. I've been messing around with them on-and-off
+      over the past few years and I believe you'll find spending
+      more time learning them valuable. Here's what I'm going to
+      talk about:
+
+      * Why you should bother learning about them at all, especially if you think you won't
+        use them at work.
+      * Some fun examples of data structures/algos you've heard of (and probably some you haven't)
+        and how they're put to work in software you use every day.
+      * Ways of learning them that I've found to be fun and effective.
+
+      I swear in the name of [Knuth](https://en.wikipedia.org/wiki/Donald_Knuth) that there
+      shall be no mention of big-o notation or sorting algorithms. Also, I will attempt a
+      live demo of one of the algos using the SATR transport protocol. It probably won't work
+      if you are good at the maths and feeling mischievous.
+
+      *[SATR]: Shout Across The Room
+    speaker:
+      name: Najaf Ali
+      url: http://happybearsoftware.com/
+    coverage:
+      - type: skillsmatter-video
+        url: https://skillsmatter.com/skillscasts/5367-adventures-with-data-structures-and-algorithms
+        title: 'Skills Matter : London Ruby User Group : Adventures with data structures
+          and algorithms'
+july:
+  continuous-deliverance-set-your-development-free:
+    title: Continuous Deliverance - set your development free
+    description: |-
+      The first principle of the Agile Manifesto says “Our highest
+      priority is to satisfy the customer through early and
+      continuous delivery of valuable software”, yet too often this
+      is not the reality. Delivery is one of the most disruptive
+      parts of the software development process for developers, but
+      can be easy to automate, empowering the iterative process.
+      This talk is a manifesto for how to go from scratch to
+      automated deployment, with a few tales from the trenches of
+      mistakes made along the way.
+    speaker:
+      name: John Maxwell
+      url: http://jgwmaxwell.com/
+    coverage:
+      - type: skillsmatter-video
+        url: https://skillsmatter.com/skillscasts/5440-continuous-deliverance-set-your-development-free
+        title: 'Skills Matter : London Ruby User Group : Continuous Deliverance - set
+          your development free'
+    custom_intro: wants to talk to us about automated deployment
+  welcome-back-to-rspec:
+    title: Welcome back to RSpec
+    description: |-
+      [RSpec 3](https://relishapp.com/rspec/) has just been released, and it's come a long way
+      since [version 1](http://rspec.info). If you've had problems with RSpec in the past, now
+      is a great time to revisit it — it's become much cleaner, simpler and more focused.
+      I'll give a quick overview of the main things that have changed over the years, and if
+      there's time, I'll explain a few of the new features in version 3.
+    speaker:
+      name: Tom Stuart
+      url: http://codon.com/
+    coverage:
+      - type: slides
+        url: https://speakerdeck.com/tomstuart/welcome-back-to-rspec
+        title: Welcome back to RSpec
+      - type: skillsmatter-video
+        url: https://skillsmatter.com/skillscasts/5438-welcome-back-to-rspec
+        title: 'Skills Matter : London Ruby User Group : Welcome back to RSpec'
+    custom_intro: is going to re-introduce us to RSpec
+  becoming-a-developer-codebar:
+    title: Becoming a Developer & Codebar
+    description: |-
+      A short talk about my experience starting out as a professional
+      developer. The focus of this talk will be about a weekly event
+      through which I received a huge amount of support called [Codebar](http://codebar.io).
+      At Codebar programming skills are taught for free to people
+      underrepresented in the tech industry.
+    speaker:
+      name: Rosa Fox
+      url: http://www.techfox.co.uk/
+    coverage:
+      - type: write-up
+        url: http://techfoxuk.wordpress.com/2014/07/20/speaking-at-lrug/
+        title: Speaking at LRUG | techfox_uk
+      - type: skillsmatter-video
+        url: https://skillsmatter.com/skillscasts/5454-becoming-a-developer-and-codebar
+        title: 'Skills Matter : London Ruby User Group : Becoming a Developer & Codebar'
+    custom_intro: will give us a talk she describes as
+august:
+  how-to-make-guacamole:
+    title: How to make Guacamole
+    description: |-
+      [ArangoDB](https://www.arangodb.org/) is a multi-purpose NoSQL database. There are a lot
+      of features in it but without a proper high level library
+      for common web frameworks no one will use a database these
+      days. No matter how fancy it is. [Guacamole](http://guacamolegem.org/) is an ODM for
+      ArangoDB to be used in Rack-based framework and especially
+      Rails. I will talk about the design choices, caveats and my
+      the general experience working on that kind of library. The
+      talk will not go too deep into technical details and should
+      be interesting to novice and experts alike.
+    speaker:
+      name: Dirk Breuer
+      url: http://tfcl.de/
+    coverage:
+      - type: skillsmatter-video
+        url: https://skillsmatter.com/skillscasts/5510-how-to-make-guacamole
+        title: 'Skills Matter : London Ruby User Group : How to make Guacamole'
+  a-gentle-introduction-to-music-theory-in-ruby:
+    title: A gentle introduction to music theory (in ruby)
+    description: |-
+      Music theory can seem arcane and unapproachable. But underneath
+      the weird names and symbols, the basics are actually pretty
+      simple. The real issue is that the documentation is bad and the
+      API is worse! In this talk I will show how to start with nothing
+      but a ruby interpreter, and generate sine waves, notes, scales,
+      modes, chords, arpeggios and songs, in a way that will be
+      understandable to those who have never touched an instrument
+      before and will (hopefully) offer an interesting new perspective
+      even to those who are already well versed in music theory.
+    speaker:
+      name: Alex Speller
+      url: http://alexspeller.com/
+    coverage:
+      - type: skillsmatter-video
+        url: https://skillsmatter.com/skillscasts/5511-a-gentle-introduction-to-music-theory-in-ruby
+        title: 'Skills Matter : London Ruby User Group : A gentle introduction to music
+          theory (in ruby)'
+september:
+  how-not-to-become-a-terrible-human-being-once-you-get-a-leadership-title:
+    title: How not to become a terrible human being once you get a leadership title.
+    description: |-
+      You'll never guess what happens next? Mazz will talk about some
+      of the essential skills that good technical leaders exhibit and
+      the information you need to know about to help you become good
+      at leading and not turn into a terrible person. Do you find
+      yourself in a position of leadership and don't know what to do
+      now? Do you think you're a great tech lead? Do you wonder if
+      you're cut out to lead one day? Great, then come and listen to
+      my talk, you may find it more relevant to your interests than
+      you realise.
+    speaker:
+      name: Mazz Mosley
+      url: http://houseofmnowster.com/
+    coverage:
+      - type: skillsmatter-video
+        url: https://skillsmatter.com/skillscasts/5707-how-not-to-become-a-terrible-human-being-once-you-get-a-leadership-title
+        title: 'Skills Matter : London Ruby User Group : How not to become a terrible
+          human being once you get a leadership title'
+  bebox-convention-over-configuration-for-puppet-repositories:
+    title: "[Bebox](https://github.com/codescrum/bebox) - Convention over configuration
+      for puppet repositories"
+    description: |-
+      Bebox helps automating the provisioning of environments in which
+      Ruby on Rails applications run, easing the reproduction of new
+      server setups every time.
+
+      Bebox's main concern is the structure. It is generally a good
+      idea to have conventions about how different source code files
+      are placed and named and be able to use this to reduce the
+      details required to understand a project while also providing
+      automation in key places. These conventions may include things
+      like: how to write puppet modules, how to integrate them into
+      the projects, a directory structure for the projects, how to
+      have a replicated “development/test” environment into virtual
+      machines, etc.
+    speaker:
+      name: Jairo Diaz
+      url: http://www.codescrum.com/
+    coverage:
+      - type: slides
+        url: https://speakerdeck.com/jairodiaz/bebox-convention-over-configuration-for-puppet-repositories
+        title: Bebox – Convention over configuration for puppet repositories
+      - type: skillsmatter-video
+        url: https://skillsmatter.com/skillscasts/5708-bebox-convention-over-configuration-for-puppet-repositories
+        title: 'Skills Matter : London Ruby User Group : Bebox - Convention over configuration
+          for puppet repositories'
+  learn-to-code-in-12-weeks:
+    title: Learn to code in 12 weeks?
+    description: |-
+      Having recently completed the training phase of WeGotCoders I
+      will present some code from [my final project](https://github.com/dan-mi-sun/the-soul-at-work)
+      of the 12 week training course / some code recently pulled into
+      [Diaspora*](https://www.joindiaspora.com/). With more and more of us choosing this route,
+      the aim is to show those interested in the 'Immersion' model (either attending a course,
+      or hiring someone who has joined a course) what someone with no prior coding experience can
+      achieve within 12 weeks.
+    speaker:
+      name: Daniel Sun
+      url: http://danielsun.co.uk/
+    coverage:
+      - type: skillsmatter-video
+        url: https://skillsmatter.com/skillscasts/5709-learn-to-code-in-12-weeks
+        title: 'Skills Matter : London Ruby User Group : Learn to code in 12 weeks?'
+october:
+  be-a-good-unix-citizen:
+    title: Be a good UNIX citizen
+    description: |-
+      The Unix command line has been the foundation of how
+      we use computers for over four decades, and has
+      changed surprisingly little in that time. I'll look at
+      what it takes to elevate a throwaway one-liner or
+      personal script into a robust and re-usable CLI app,
+      and look at the Ruby techniques that make it easy to
+      be a good Unix citizen.
+    speaker:
+      name: Rob Miller
+      url: https://robm.me.uk/
+    coverage:
+      - type: slides
+        url: https://robm.me.uk/talks/2014-10-well-behaved-unix.pdf
+        title: Writing Well-Behaved Unix Utilities in Ruby
+      - type: skillsmatter-video
+        url: https://skillsmatter.com/skillscasts/5808-be-a-good-unix-citizen
+        title: 'Skills Matter : London Ruby User Group : Be a good UNIX citizen'
+  live-coding-in-the-classroom:
+    title: Live Coding in the Classroom
+    description: |-
+      [Sonic Pi](http://sonic-pi.net/) is a Ruby-based live coding music
+      synthesiser designed to help teach both computing
+      and music within schools. It uses fast feedback,
+      liveness and studio-quality sound production as a
+      means to engage school children in introductory
+      coding. In this talk we will follow the story of
+      Sonic Pi from its the humble beginnings of this
+      project in a single class of school-children coding
+      beeps and bleeps to its current standing as a
+      state-of-the-art live coding system installed by
+      default on all Raspberry Pis  used to live code
+      in a variety of venues from Algoraves to national
+      music venues.  All towards a simple but deep
+      question - how can we give more people an understanding
+      of what programming is and can do?
+    speaker:
+      - name: Sam Aaron
+        url: http://sam.aaron.name/
+      - name: Xavier Riley
+        url: http://xavierriley.co.uk/
+    custom_intro: want to code up some music for us
+    coverage:
+      - type: skillsmatter-video
+        url: https://skillsmatter.com/skillscasts/5809-live-coding-in-the-classroom
+        title: 'Skills Matter : London Ruby User Group : Live Coding in the Classroom'
+november:
+  julia-fast-and-dynamic:
+    title: Julia  - Fast and Dynamic
+    description: |-
+      Can a programming language be fast yet highly dynamic? The creators
+      of Julia, a new language with a numeric focus intends to answer yes.
+
+      In this talk we will introduce the language, and discuss some of its design and
+      implementation decisions that make it particularly amenable to generating
+      efficient machine code. We will also talk about Julia's impressive language
+      interop features, and see examples of calling Ruby code from within Julia.
+    speaker:
+      name: Avik Sengupta
+      url: http://www.sengupta.net/musings/
+    custom_intro: wants to introduce us to a new language called [Julia](http://julialang.org/)
+    coverage:
+      - type: skillsmatter-video
+        url: https://skillsmatter.com/skillscasts/5927-julia-fast-and-dynamic
+        title: 'Skills Matter : London Ruby User Group : Julia  - Fast and Dynamic'
+  peas-a-docker-and-ruby-based-paas:
+    title: Peas - A Docker and Ruby based PaaS
+    description: |-
+      I'll be looking at the basic technical concepts of the Platform As A Service
+      paradigm (eg; Heroku) and what Docker and Ruby can contribute to it. Some of
+      the highlights will be; using Docker inside Docker, how to test this complex
+      stack and concurrency using the Celluloid gem.
+    speaker:
+      name: Thomas Buckley-Houston
+      url: http://tombh.co.uk
+    coverage:
+      - type: skillsmatter-video
+        url: https://skillsmatter.com/skillscasts/5928-peas-a-docker-and-ruby-based-paas
+        title: 'Skills Matter : London Ruby User Group : Peas - A Docker and Ruby based
+          PaaS'
+december:
+  are-you-sure-its-right:
+    title: Are you sure it's right?
+    description: |-
+      This talk on both Rails and plain Ruby apps will cover
+
+      * Testing
+      * Code standards tools
+      * Validations and verifications
+      * Security tools and frameworks
+    speaker:
+      name: Owen Ben Davies
+      url: http://www.obduk.com/
+    coverage:
+      - type: skillsmatter-video
+        url: https://skillsmatter.com/skillscasts/6078-are-you-sure-its-right
+        title: 'Skills Matter : London Ruby User Group : Are you sure it''s right?'
+    custom_intro: wants us to think about what is and what isn't right with our software
+  an-rspec-3-talk:
+    title: An RSpec 3 Talk
+    description: |-
+      RSpec 3 is the recently released new major version of RSpec. It contains a host
+      of new features, and has removed or altered many old ones. In this talk we’ll
+      cover the most significant changes that were made in RSpec 3, the upgrade path
+      between RSpec 2 and 3 and some of the common pitfalls that you might fall into
+      when using this new major version of RSpec.
+    speaker:
+      name: Sam Phippen
+      url: http://samphippen.com/
+    coverage:
+      - type: skillsmatter-video
+        url: https://skillsmatter.com/skillscasts/6079-an-rspec-3-talk
+        title: 'Skills Matter : London Ruby User Group : An RSpec 3 Talk'

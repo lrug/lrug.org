@@ -1,0 +1,643 @@
+---
+january: {}
+february:
+  hulk-smash-your-db-column-not-your-whole-app:
+    title: HULK Smash!
+    description: HULK SMASH! (your db column, not your whole app)
+    speaker:
+      name: Yann Armand
+      url: http://blog.harakys.com/
+    coverage:
+      - type: skillsmatter-video
+        url: https://skillsmatter.com/podcast/home/hulk-smash
+        title: 'Skills Matter : London Ruby User Group : Hulk Smash!'
+    use_name_as_intro: true
+  1-2-3:
+    title: 1 + 2 = 3
+    description: 1 + 2 = 3
+    speaker:
+      name: Paul Battley
+      url: http://po-ru.com/
+    coverage:
+      - type: link
+        url: https://bitbucket.org/threedaymonk/onetwothree
+        title: Notes, code and "slides" (aka terminal program) of talk
+      - type: skillsmatter-video
+        url: https://skillsmatter.com/podcast/home/one-plus-two-equals-three
+        title: 'Skills Matter : London Ruby User Group : 1+2=3'
+    use_name_as_intro: true
+  extremist-programming:
+    title: Extremist programming
+    description: Extremist programming
+    speaker:
+      name: Pablo Brasero Moreno
+      url: http://pablobm.com/
+    coverage:
+      - type: slides
+        url: https://speakerdeck.com/pablobm/extremist-programming
+        title: Extremist Programming
+      - type: skillsmatter-video
+        url: https://skillsmatter.com/skillscasts/3972-extremist-programming
+        title: 'Skills Matter : London Ruby User Group : Extremist Programming'
+    use_name_as_intro: true
+  contractor-rates-salaries-for-ruby-devs-in-london:
+    title: Contractor rates & Salaries
+    description: Contractor rates & salaries for Ruby devs in London
+    speaker:
+      name: Steve Buckley
+      url: http://twitter.com/StevieBuckley
+    coverage:
+      - type: skillsmatter-video
+        url: https://skillsmatter.com/podcast/home/contractor-rates-salaries-for-ruby-devs-in-london
+        title: 'Skills Matter : London Ruby User Group : Contractor rates and salaries
+          for Ruby devs in London'
+    use_name_as_intro: true
+  mruby:
+    title: "`mruby`"
+    description: Mruby & me
+    speaker:
+      name: Seb Jacobs
+      url: http://sebjacobs.com/
+    coverage:
+      - type: slides
+        url: https://speakerdeck.com/sebjacobs/mruby-and-me
+        title: Mruby & Me
+      - type: skillsmatter-video
+        url: https://skillsmatter.com/podcast/home/mruby
+        title: 'Skills Matter : London Ruby User Group : Mruby & Me'
+    use_name_as_intro: true
+  love-your-pull-requests:
+    title: Love your pull requests
+    description: Love your pull requests
+    speaker:
+      name: Nasir Jamal
+      url: http://twitter.com/_nasj
+    coverage:
+      - type: slides
+        url: http://www.slideshare.net/nasirj/love-your-pullrequests
+        title: Love your pull requests
+      - type: skillsmatter-video
+        url: https://skillsmatter.com/podcast/home/love-your-pull-requests
+        title: 'Skills Matter : London Ruby User Group : Love your pull requests'
+    use_name_as_intro: true
+  what-would-jason-bourne-do:
+    title: What would Jason Bourne do?
+    description: Using BASH (the Bourne-Again Shell)
+    speaker:
+      name: Gerhard Lazu
+      url: http://gerhardlazu.com
+    coverage:
+      - type: slides
+        url: https://speakerdeck.com/gerhardlazu/what-would-jason-bourne-do
+        title: What would Jason Bourne do?
+      - type: skillsmatter-video
+        url: https://skillsmatter.com/podcast/home/simple-does-it
+        title: 'Skills Matter : London Ruby User Group : What would Jason Bourne do?'
+    use_name_as_intro: true
+  polyglottous-emberjs-with-rake-pipeline-and-localeapp:
+    title: Polyglottous emberjs
+    description: Polyglottous emberjs with rake-pipeline and localeapp
+    speaker:
+      name: Randy Morgan
+      url: https://github.com/randym
+    coverage:
+      - type: skillsmatter-video
+        url: https://skillsmatter.com/skillscasts/3969-polyglottous-emberjs-with-rake-pipeline-and-localeapp
+        title: 'Skills Matter : London Ruby User Group : Polyglottus ember.js with rake-pipeline
+          and localeapp'
+    use_name_as_intro: true
+  afra-collectively-mapping-genomes:
+    title: Afra
+    description: 'Afra: collectively mapping genomes'
+    speaker:
+      name: Anurag Priyam
+      url: https://github.com/yeban
+    coverage:
+      - type: slides
+        url: https://docs.google.com/presentation/d/1KooSW7gcGOHFGYsUTK10P4EC1VXMo0emNJxG_5srkm8/edit?usp=sharing
+        title: 'Afra: Collectively Mapping Genomes'
+      - type: skillsmatter-video
+        url: https://skillsmatter.com/podcast/home/afra-collectively-mapping-genomes
+        title: 'Skills Matter : London Ruby User Group : Afra: Collectively Mapping
+          Genomes'
+    use_name_as_intro: true
+march:
+  showing-off-deliver:
+    title: deliver
+    description: |-
+      I will be speaking about app deployment, good production
+      practices, CI and CD and app versioning (never replace a
+      working production app instance with a new deploy).
+      [deliver](https://github.com/gerhard/deliver) is a single
+      utility to rule one's deploys to gh:pages, Jekyll, Ruby,
+      node.js etc, even legacy PHP code (we all have it). The
+      talk will also touch on S3-backed site deploys & Route53
+      IP failover to that S3 site.
+    speaker:
+      name: Gerhard Lazu
+      url: http://gerhardlazu.com/
+    custom_intro: "will be showing off a new project
+      of his called [deliver](https://github.com/gerhard/deliver)"
+    coverage:
+      - type: slides
+        url: https://speakerdeck.com/gerhardlazu/deliver
+        title: Deliver
+      - type: skillsmatter-video
+        url: https://skillsmatter.com/skillscasts/3992-lrug-gerhard-lazu
+        title: 'Skills Matter : London Ruby User Group : Showing off deliver'
+  passing-on-our-skills-to-the-next-generation:
+    title: Passing on our skills to the next generation
+    description: |-
+      I will share my experience teaching programming to children
+      for a month. I will also tell us about "code clubs" in the
+      UK, and what technologies exist to assist teachers in
+      this task.
+    speaker:
+      name: Pablo Brasero Moreno
+      url: http://pablobm.com/
+    coverage:
+      - type: slides
+        url: https://speakerdeck.com/pablobm/i-was-a-teacher-for-a-month
+        title: I was a teacher for a month
+      - type: skillsmatter-video
+        url: https://skillsmatter.com/skillscasts/3993-lrug-pablo-basero-moreno
+        title: 'Skills Matter : London Ruby User Group : Passing on our skills to the
+          next generation'
+april:
+  better-security-for-your-web-applications:
+    title: Better security for your web applications
+    description: |-
+      He'll be covering:
+
+      * How to improve the quality of your software by thinking like an attacker.
+      * Technical walkthroughs of real-life vulnerabilities.
+      * Practical tips for keeping your software secure over the long term.
+    speaker:
+      name: Najaf Ali
+      url: http://happybearsoftware.com
+    coverage:
+      - type: notes
+        url: http://happybearsoftware.com/lrug-web-app-security-talk.html
+        title: Web Application Security Talk at LRUG | Happy Bear Software | Web Application
+          Development
+      - type: skillsmatter-video
+        url: https://skillsmatter.com/podcast/home/better-security-for-your-web-applications/mh-6913
+        title: 'Skills Matter : London Ruby User Group : Better security for your web
+          applications'
+    custom_intro: wants to school us on security
+  say-hello-to-padrino:
+    title: Say hello to Padrino
+    description: |-
+      [Xavier Riley](https://twitter.com/xavriley) is going to tell us all about
+      [Padrino](http://www.padrinorb.com/):
+
+      > Rails showed us the power of the full-stack framework.
+      > It was good, but some of us felt the power was at the
+      > expense of lightness (and joy?).
+      >
+      > Sinatra showed us the joy of simple. The bare essentials
+      > to start working with http requests gave us back some
+      > of the Zen of creating a codebase that did exactly what
+      > it should and nothing more. Sadly, this Zen meant
+      > reinventing wheels that Rails had already rolled.
+      >
+      > Padrino came after both of these projects and the
+      > developers learnt from them. They re-imagined the
+      > full stack using Sinatra as a base and building from
+      > there. Sinatra++ you might think.
+
+      There's a longer write up on the [Ruby Manor 4
+      vestibule](http://vestibule.rubymanor.org/proposals/47) where Xavier originally
+      proposed the talk.
+    speaker:
+      name: Xavier Riley
+      url: https://twitter.com/xavriley
+    coverage:
+      - type: slides
+        url: https://speakerdeck.com/xavriley/say-hello-to-padrino
+        title: Say Hello to Padrino
+      - type: skillsmatter-video
+        url: https://skillsmatter.com/podcast/home/padrino
+        title: 'Skills Matter : London Ruby User Group : Padrino'
+    use_description_as_intro: true
+may:
+  dci-with-ruby-rails:
+    title: DCI with Ruby & Rails
+    description: |-
+      Data Context Interaction is recently invented programming paradigm,
+      which aims at separating behaviour from data model, by extracting
+      interactions into roles, which can be played by objects in various
+      contexts.
+
+      This presentation is going to give brief introduction to DCI,
+      propose ways to implement roles' injection in Ruby and discuss
+      how DCI could be used to supplement Rails' MVC paradigm.
+    speaker:
+      name: Dawid Skłodowski
+      url: http://dawid.sklodowski.eu/
+    coverage:
+      - type: slides
+        url: http://www.slideshare.net/viliander/dci-with-ruby-and-rails
+        title: DCI with Ruby and Rails
+      - type: skillsmatter-video
+        url: https://skillsmatter.com/podcast/home/dci-with-ruby-rails
+        title: 'Skills Matter : London Ruby User Group : DCI with Ruby & Rails'
+  exploration-of-mruby:
+    title: Come get dirty with mruby
+    description: |-
+      [Randy Morgan](https://github.com/randym) is going to lead us in an exploration of
+      [mruby](https://github.com/mruby/mruby):
+
+      > While most of us know what mruby is, few of us have had a
+      > chance to kick the tires, poke around a bit and see what
+      > makes it tick. In this ~30 minute workshop-presentation,
+      > we will help each other to get mruby built locally, do a
+      > classic "Chunky bacon" test, and have a go at writing our
+      > own rbgems to extend the language with custom functionality.
+      >
+      > Bring your laptop, and get your hands dirty with mruby.
+
+      Randy will be sending out instructions on pre-requisites in a few days to [the
+      mailing list](/mailing-list). Don't miss it!
+    speaker:
+      name: Randy Morgan
+      url: https://github.com/randym
+    coverage:
+      - type: slides
+        url: https://speakerdeck.com/randym/lrug-mruby
+        title: LRUG mruby
+      - type: skillsmatter-video
+        url: https://skillsmatter.com/podcast/home/exploration-of-mruby
+        title: 'Skills Matter : London Ruby User Group : Exploration of mruby'
+    use_description_as_intro: true
+june:
+  state-machines-are-people-too:
+    title: State Transitions Are People Too
+    description: |-
+      [JB Steadman](https://twitter.com/jbsteadman) says:
+
+      > In this talk I present a simple ActiveRecord-based alternative
+      > to the many popular state machine gems.
+      >
+      > Suppose you're dealing with a school application system.
+      > Applications can be submitted, rejected, approved. Then
+      > you would have
+      >
+      > ``class Submission < StateTransition end``
+      >
+      > and so on. StateTransition is an STI subclass of
+      > ActiveRecord::Base.
+      >
+      > Inside each 'concrete' transition subclass, AR
+      > validations determine whether the transition can be
+      > created, given current system state. Callbacks make
+      > changes to other models that result from the
+      > transitions, as well as trigger other effects like emails.
+      >
+      > This shifts emphasis from the models to the transitions
+      > themselves. Model classes don't get cluttered with
+      > logic related to multiple transitions - that logic
+      > lives in the transition classes. It works nicely
+      > with REST. You are literally creating an Approval,
+      > rather than "approving". Logging of transitions is
+      > front and center. Nobody has to learn a new lib and
+      > you're never beholden to yesteryear's state machine
+      > gem-of-the-month.
+
+      JB originally proposed this talk for [Ruby Manor
+      4](http://rubymanor.org/4/) and you can read more about [his proposal on
+      vestibule](http://vestibule.rubymanor.org/proposals/10)
+    speaker:
+      name: JB Steadman
+      url: https://twitter.com/jbsteadman
+    coverage:
+      - type: skillsmatter-video
+        url: https://skillsmatter.com/podcast/ajax-ria/state-transitions
+        title: 'Skills Matter : London Ruby User Group : State Transitions Are People
+          Too'
+    use_description_as_intro: true
+  application-example-based-on-gov-uk-public-code:
+    title: Application Example based on Gov.uk public code
+    description: |-
+      This talk describes an experience of reusing the public code
+      available from the [GOV.UK project](https://www.gov.uk). It
+      shows how we can implement custom customer service flows
+      based on the [SmartAnswers project](https://github.com/alphagov/smart-answers).
+    speaker:
+      name: Jairo Diaz
+      url: http://www.codescrum.com
+    coverage:
+      - type: slides
+        url: https://speakerdeck.com/javicus/application-example-based-on-gov-dot-uk-public-code
+        title: Application Example based on Gov.uk public code.
+      - type: skillsmatter-video
+        url: https://skillsmatter.com/skillscasts/4293-application-example-based-on-gov-uk-public-code
+        title: 'Skills Matter : London Ruby User Group : Application Example based on
+          Gov.uk public code'
+july:
+  the-reluctant-chef:
+    title: The Reluctant Chef
+    description: |-
+      Most developers don't do ops, and though the idea of devops
+      is slowly permeating through the industry, it's probably
+      not the norm yet. So why should we, as devs, care about
+      configuration management? What has it done for us lately?
+
+      I'll try to explain how Chef can improve your life, even if
+      you never touch a production server. I'll give some
+      examples of ways in which configuration management can
+      simplify your development environment, improve your
+      debugging abilities, and give you a better overall
+      understanding of the way your applications fit together.
+
+      I'll also share some strategies for breaking down the
+      intimidating task of introducing Chef if you've already got
+      hand-configured servers, so that change can be gradual,
+      with progress along the way as nature intended. I'll also
+      mention some of the tools that make life much, much simpler.
+    speaker:
+      name: Simon Coffey
+      url: https://twitter.com/urbanautomaton
+    coverage:
+      - type: skillsmatter-video
+        url: https://skillsmatter.com/podcast/java-jee/the-reluctant-chef
+        title: 'Skills Matter : London Ruby User Group : The Reluctant Chef'
+  building-and-maintaining-a-ruby-team-during-the-rails-crisis-of-2013:
+    title: Building and maintaining a Ruby team during the Rails crisis of 2013
+    description: |-
+      1. There’s a massive shortage of Ruby developers.
+
+      2. Over the last year I’ve worked with numerous teams
+      implementing creative, non-standard ways to building and
+      maintaining teams.
+
+      3. I’m going to talk about them.
+
+      4. This will be relevant to existing teams and people
+      thinking of starting a team in the future. Overall I think
+      it will be beneficial & interesting for everyone, even if
+      you’re not thinking of starting your own team any time soon.
+    speaker:
+      name: Louis Goff-Beardsley
+      url: https://twitter.com/LouisRoR
+    coverage:
+      - type: skillsmatter-video
+        url: https://skillsmatter.com/podcast/java-jee/building-and-maintaining-a-ruby-team-during-the-rails-crisis-of-2013
+        title: 'Skills Matter : London Ruby User Group : Building and maintaing a Ruby
+          team during the Rails crisis of 2013'
+august:
+  improve-your-code-with-dependency-injection:
+    title: Improve your code with dependency injection
+    description: |-
+      Most of us have heard the vague, hand waving spiel about why
+      DI is important for writing flexible, reusable code, a
+      little harder to come by are examples of how one actually
+      goes about doing it in a (cost) effective manner.
+
+      Rather than a dry introduction to DI, this talk will be
+      packed full of code examples demonstrating practical
+      techniques you can start using straight away, no gems,
+      meta-programming or magic required. We'll also explore how
+      you might persuade your Rails app to benefit from DI.
+    speaker:
+      name: Stephen Best
+      url: https://twitter.com/thebestie
+    coverage:
+      - type: skillsmatter-video
+        url: https://skillsmatter.com/skillscasts/4437-improve-your-code-with-dependency-injection
+        title: 'Skills Matter : London Ruby User Group : Improve your code with dependency
+          injection'
+  rabbit-running-wild-you-need-a-hutch:
+    title: Rabbit running wild? You need a hutch!
+    description: |-
+      When you're working in an architecture with multiple
+      services, there are a lot of available options for how to
+      communicate between them. Which do you pick?
+
+      I'll be talking about why [RabbitMQ](http://www.rabbitmq.com/) can be a great choice,
+      how and why we're using it here at [GoCardless](https://gocardless.com/) and covering
+      some of the ways we've simplified using RabbitMQ's
+      [Topic Exchange](http://www.rabbitmq.com/tutorials/amqp-concepts.html#exchange-topic)
+      in a ruby environment with 'Hutch'.
+
+      I'll then talk about some of the issues we encountered
+      around scaling and setting up multiple rabbit nodes as a
+      cluster, highlighting some of the potential failure points
+      and edge cases this brings with it and a tools we built to
+      make sure we had them covered.
+    speaker:
+      name: Pete Hamilton
+      url: https://twitter.com/peterejhamilton
+    coverage:
+      - type: skillsmatter-video
+        url: https://skillsmatter.com/skillscasts/4438-rabbit-running-wild-you-need-a-hutch
+        title: 'Skills Matter : London Ruby User Group : Rabbit running wild? You need
+          a hutch!'
+september:
+  concerned-about-concerns:
+    title: Concerned about Concerns?
+    description: |-
+      With Rails 4, Concerns have become [the “official”
+      solution](http://37signals.com/svn/posts/3372-put-chubby-models-on-a-diet-with-concerns)
+      to the big-models problem. However, there's a fair amount of controversy about
+      this topic in the community. Not everyone is convinced that Concerns are the
+      “right“ solution to the problem of AR models becoming too big.
+
+      In this talk we will see what Rails Concerns are and how can we use them to keep
+      our models fit. More interestingly, we'll discuss the trade-offs of this technique,
+      the different views in the community and a couple of alternatives.
+    speaker:
+      name: Luismi Cavallé
+      url: https://twitter.com/cavalle
+    coverage:
+      - type: skillsmatter-video
+        url: https://skillsmatter.com/skillscasts/4514-concerned-about-concerns
+        title: 'Skills Matter : London Ruby User Group : Concerned about Concerns?'
+    custom_intro: wants to relieve our concerns
+  scaling-beyond-rails:
+    title: Scaling beyond Rails
+    description: |-
+      When a Rails application becomes a big fat monster, the moment arrives
+      to split it into small services that speak to each other. I'll discuss how
+      are we attacking this problem in a progressive, iterative way and which tools
+      we chose for each situation; some of which are not limited to Ruby.
+    speaker:
+      name: Manuel Morales
+      url: https://github.com/manuelmorales
+      raw: "[Manuel Morales](https://github.com/manuelmorales) says:"
+    coverage:
+      - type: skillsmatter-video
+        url: https://skillsmatter.com/skillscasts/4525-scaling-beyond-rails
+        title: 'Skills Matter : London Ruby User Group : Scaling beyond Rails'
+october:
+  modelling-state-machines-with-ragel:
+    title: Modelling state machines with Ragel
+    description: |-
+      Ragel is a State Machine Compiler, which can generate Ruby
+      code (as well as C, Java, Go, and more). It can be used for
+      writing robust protocol implementations, parsing data formats,
+      and performing lexical analysis of programming languages. Ragel
+      is used in many open source projects including
+      [Gherkin](https://github.com/cucumber/gherkin/blob/master/ragel/lexer_common.rl.erb),
+      [Thin](https://github.com/macournoyer/thin/blob/master/ext/thin_parser/parser.rl),
+      [Min](https://github.com/macournoyer/min/blob/master/src/min/lang/Scanner.rl),
+      [Mongrel](https://github.com/mongrel/mongrel/blob/master/ext/http11/http11_parser_common.rl),
+      [Redcloth](https://github.com/jgarber/redcloth/tree/master/ragel),
+      [Radiant](https://github.com/jlong/radius/blob/master/lib/radius/parser/JavaScanner.rl),
+      and
+      [Hpricot](https://github.com/hpricot/hpricot/blob/master/ext/hpricot_scan/hpricot_common.rl).
+
+      To demonstrate Ragel's capabilities we'll model [Vim](http://www.vim.org/), which is a
+      Finite State Machine. We'll do so by parsing a stream of Vim
+      keystrokes, using Ragel state machines to manage the transitions
+      between Vim's modes. We'll see how to generate state chart
+      visualisations with Ragel, and how these can be used to debug
+      our state machines. The resulting program will enable us to
+      analyse and visualise the interactions of a Vim user.
+    speaker:
+      name: Drew Neil
+      url: http://drewneil.com/
+    coverage:
+      - type: handout
+        url: https://github.com/nelstrom/ragel-vim-demo
+        title: Code used in presentation
+      - type: slides
+        url: https://speakerdeck.com/nelstrom/modelling-state-machines-with-ragel
+        title: Modelling State Machines with Ragel
+      - type: skillsmatter-video
+        url: https://skillsmatter.com/podcast/home/modelling-state-machines-with-ragel
+        title: 'Skills Matter : London Ruby User Group : Modelling state machines with
+          Ragel'
+    custom_intro: "wants to talk to us about [Ragel](http://www.complang.org/ragel/)"
+  enumerators-in-ruby:
+    title: Enumerators in Ruby
+    description: |-
+      [Enumerators](http://ruby-doc.org/core-2.0.0/Enumerator.html)
+      are a little known class in the standard library.
+      I'll discuss where they're used in stdlib, how you can
+      implement them and (at least) one practical example where
+      they might be the right solution.
+    speaker:
+      name: Olly Legg
+      url: http://www.51degrees.net/
+    coverage:
+      - type: handout
+        url: https://github.com/olly/grim_repo/blob/master/lib/grim_repo/paginated_collection.rb
+        title: 'Examples of using Enumnerators: paginated_collection.rb'
+      - type: slides
+        url: https://speakerdeck.com/ollylegg/enumerators
+        title: Enumerators in Ruby
+      - type: skillsmatter-video
+        url: https://skillsmatter.com/podcast/home/enumerators-in-ruby
+        title: 'Skills Matter : London Ruby User Group : Enumerators in Ruby'
+november:
+  controlling-robots-with-ruby:
+    title: Controlling Robots with Ruby
+    description: |-
+      In the past few years robots have started to invade our lives, as
+      toys or tools for around the home or at work. These robots are
+      often much more user friendly and more importantly, hackable, than
+      traditional industrial robots, which has lowered the barrier to
+      writing software to control robots.
+
+      We'll look at one particular ruby library, [Artoo](http://artoo.io/), a micro-framework
+      for robotics that lets you connect to multiple different hardware
+      devices and robots at the same time with some live demos as well.
+    speaker:
+      name: Andrew Nesbitt
+      url: http://nesbitt.io/
+    coverage:
+      - type: link
+        url: https://github.com/andrew/artoo-experiments
+        title: Artoo code examples
+      - type: slides
+        url: https://speakerdeck.com/andrew/ruby-on-robots
+        title: Ruby On Robots
+      - type: skillsmatter-video
+        url: https://skillsmatter.com/skillscasts/4882-controlling-robots-with-ruby
+        title: 'Skills Matter : London Ruby User Group : Controlling Robots with Ruby'
+  how-to-parse-go:
+    title: How to parse 'go'
+    description: |-
+      Ruby is not the first language you might think turn
+      to when tackling natural language processing problems.
+      But it has a lot of features that make it suitable
+      for NLP tasks and a number of gems are being actively
+      maintained. This talk introduces those features and gems
+      and discusses how you can build solutions to your
+      language processing problems within your Ruby-based apps.
+    speaker:
+      name: Tom Cartwright
+      url: http://www.tomcartwright.net/
+    coverage:
+      - type: skillsmatter-video
+        url: https://skillsmatter.com/skillscasts/4883-how-to-parse-go
+        title: 'Skills Matter : London Ruby User Group : How to parse ''go'''
+december:
+  the-solution-to-assets-management-in-rails:
+    title: The solution to assets management in Rails
+    description: |-
+      As Ruby web developers we all know the pain of managing client side assets in
+      (not only) Rails applications, especially in legacy applications. I have had
+      enough and that's how [http://rails-assets.org](http://rails-assets.org) was
+      born. The main purpose of this talk, besides spreading the word, is to show
+      some details of how rails-assets works and to compare it with existing
+      solutions.
+    speaker:
+      name: Tymon Tobolski
+      url: http://teamon.eu/
+    custom_intro: "from [DRUG](http://drug.org.pl/) is visiting and wants to
+      talk to us about asset management"
+    coverage:
+      - type: link
+        url: https://rails-assets.org/
+        title: Rails Assets
+      - type: skillsmatter-video
+        url: https://skillsmatter.com/podcast/home/the-solution-to-assets-management-in-rails
+        title: 'Skills Matter : London Ruby User Group : The solution to assets management
+          in Rails'
+  from-a-raw-tcp-socket-to-a-rails-application:
+    title: From a raw TCP socket to a Rails application
+    description: |-
+      Ruby and associated frameworks are notorious for employing
+      magic in the name of developer productivity, especially when
+      building web applications. In this talk I'm going to peel
+      back the layers of voodoo and show you how we go from a raw
+      TCP socket to a Rails app via rack applications and middleware.
+
+      We'll be coving:
+
+      * Very high level overview of TCP connections and a minimum
+      viable web server with netcat
+      * Rack applications, middleware, and how they're typically chained
+      together
+      * How Rails chains together rack middleware to do what it does
+      (i.e. tracing the code path of a request from class Railtie all
+      the way down to your apps controllers).
+
+      There will be live coding, so I request that you sacrifice a
+      llama or three in the name of the demo gods before the event.
+    speaker:
+      name: Najaf Ali
+      url: http://najafali.com/
+    coverage:
+      - type: skillsmatter-video
+        url: https://skillsmatter.com/podcast/home/from-a-raw-tcp-socket-to-a-rails-application
+        title: 'Skills Matter : London Ruby User Group : From a raw TCP socket to a
+          Rails application'
+    custom_intro: offers us this
+  a-fizzbuzz-to-rule-them-all:
+    title: A FizzBuzz to rule them all
+    description: |-
+      Do expressive programming languages influence how we approach a
+      problem? We'll look at a few things you can learn about software
+      developers after analysing 1500 FizzBuzz implementations.
+    speaker:
+      name: Rosario Rascuna
+      url: http://rosario.io/
+    coverage:
+      - type: skillsmatter-video
+        url: https://skillsmatter.com/podcast/home/a-fizzbuzz-to-rule-them-all
+        title: 'Skills Matter : London Ruby User Group : A FizzBuzz to rule them all'
+    custom_intro: "runs a site called [coder sumo](http://codersumo.com/)
+      and wants to talk to us about some things he's learned"
