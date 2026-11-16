@@ -145,7 +145,7 @@ GEM
       method_source (~> 1.0)
     public_suffix (7.0.5)
     racc (1.8.1)
-    rack (3.1.21)
+    rack (3.1.23)
     rackup (2.2.1)
       rack (>= 3)
     rainbow (3.1.1)
