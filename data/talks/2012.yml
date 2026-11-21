@@ -1,0 +1,665 @@
+---
+january:
+  i18n:
+    title: 'I18n'
+    description: |-
+      The talk is about lessons learned localising a rails app into nine
+      different languages. It will cover:
+
+      * Why we localised our app
+      * Why you might want to use rails i18n even if you're only planning one language
+      * A little bit about how the i18n gem works for those unfamiliar with it
+      * Common problems you'll have and ways to work around them
+
+      The app we localised is [http://www.kyero.com](http://www.kyero.com/) and the
+      tool we've built to help us and other ruby / rails devs using the i18n gem
+      in [http://localeapp.com](http://localeapp.com/).
+    speaker:
+      name: Chris McGrath
+      url: https://twitter.com/chrismcg
+    coverage:
+      - type: skillsmatter-video
+        url: https://skillsmatter.com/skillscasts/2936-i18n
+        title: "SkillsMatter Skillscast : London Ruby User Group : I18n"
+  judge-client-side-form-validation-for-rails-3:
+    title: 'Judge'
+    description: |-
+      I'll talk about building [Judge](https://github.com/joecorcoran/judge), a client side
+      form validation gem for Rails 3.  I'll explain how I've tried to keep it lightweight
+      and unassuming, why I ditched jQuery in favour of plain old JavaScript and
+      what I learned about Rails i18n, form builders and HTML data
+      attributes along the way.  I'll also give a brief introduction to
+      [Travis](http://travis-ci.org/), the distributed build system that I've been using for
+      continuous integration.
+    speaker:
+      name: Joe Corcoran
+      url: http://blog.joecorcoran.co.uk/
+    coverage:
+      - type: slides
+        url: http://presentations.joecorcoran.co.uk/judge_lrug/
+        title: 'Judge: Client-side form validation in Rails 3'
+      - type: skillsmatter-video
+        url: https://skillsmatter.com/podcast/home/judge
+        title: "SkillsMatter Skillscast : London Ruby User Group : Judge: Client side form
+          validation for rails 3"
+february:
+  breaking-up-is-hard-to-do:
+    title: Breaking up is hard to do
+    description: Breaking up is hard to do - extracting authentication code from models
+    speaker:
+      name: Richard Livsey
+      url: http://twitter.com/rlivsey
+    coverage:
+      - type: skillsmatter-video
+        url: https://skillsmatter.com/podcast/home/lrug-lightning-authentication
+        title: "SkillsMatter Skillscast : London Ruby User Group : Breaking up is hard to do"
+    use_name_as_intro: true
+  a-history-of-websockets:
+    title: A history of websockets
+    description: A History of Websockets
+    speaker:
+      name: James Coglan
+      url: http://twitter.com/jcoglan
+    coverage:
+      - type: skillsmatter-video
+        url: https://skillsmatter.com/podcast/home/lrug-lightning-talks
+        title: "SkillsMatter Skillscast : London Ruby User Group : A history of Websockets"
+    use_name_as_intro: true
+  the-great-ruby-showdown:
+    title: The great ruby showdown
+    description: The crowd-sourced talk. One slot at these evenings is given over
+      to someone prepared to do a talk on something that the mailing list suggests,
+      Chris is bravely wearing that mantle this time.
+    speaker:
+      name: Chris Parsons
+      url: http://twitter.com/chrismdp
+    coverage:
+      - type: link
+        url: https://github.com/chrismdp/battleship
+        title: My github fork with code used to run the benchmark
+      - type: slides
+        url: http://speakerdeck.com/u/chrismdp/p/the-great-ruby-showdown
+        title: The great Ruby Showdown
+      - type: skillsmatter-video
+        url: https://skillsmatter.com/podcast/home/chris-parsons-the-crowd-sourced-talk
+        title: "SkillsMatter Skillscast : London Ruby User Group : The Great Ruby Showdown"
+    use_name_as_intro: true
+  tech-interns:
+    title: Tech Interns
+    description: '"Tech interns" - How to get more qualified interns into Ruby.'
+    speaker:
+      name: Jairo Diaz
+      url: http://twitter.com/codescrum
+    coverage:
+      - type: skillsmatter-video
+        url: https://skillsmatter.com/podcast/home/lrug-tech-interns
+        title: "SkillsMatter Skillscast : London Ruby User Group : Tech Interns"
+    use_name_as_intro: true
+  ruby-poetry:
+    title: Ruby Poetry
+    description: Ruby Poetry
+    speaker:
+      name: Andrew McDonough
+      url: http://twitter.com/andrewmcdonough
+    coverage:
+      - type: skillsmatter-video
+        url: https://skillsmatter.com/podcast/home/lrug-custom-documentation-generators
+        title: "SkillsMatter Skillscast : London Ruby User Group : Ruby Poetry"
+    use_name_as_intro: true
+  reading-tea-leaves-predict-the-future-with-ruby:
+    title: Reading tea leaves
+    description: Reading tea leaves - predict the future with ruby!
+    speaker:
+      name: Roland Swingler
+      url: http://twitter.com/knaveofdiamonds
+    coverage:
+      - type: link
+        url: http://www.amazon.co.uk/Forecasting-3rd-Ed-Spyros-Makridakis/dp/0471532339
+        title: 'Useful background reading: "Forecasting" by Spyros Makridakis'
+      - type: skillsmatter-video
+        url: https://skillsmatter.com/podcast/home/lrug-lightning-talks-reading-tea-leaves-predict-the-future-with-ruby
+        title: "SkillsMatter Skillscast : London Ruby User Group : Reading Tea Leaves - predict
+          the future with ruby!"
+    use_name_as_intro: true
+  conan-the-deployer:
+    title: Conan the deployer
+    description: Conan the deployer - capistrano extensions focussing on AWS
+    speaker:
+      name: Stuart Eccles
+      url: http://twitter.com/stueccles
+    coverage:
+      - type: photos
+        url: http://instagr.am/p/HR7CWrwgAw/
+        title: "@stueccles presenting Conan at #lrug"
+      - type: skillsmatter-video
+        url: https://skillsmatter.com/podcast/home/lightning-talk-capistrano
+        title: "SkillsMatter Skillscast : London Ruby User Group : Conan the Deployer"
+    use_name_as_intro: true
+march:
+  tdd-fishbowl-session:
+    title: TDD Fishbowl
+    description: |-
+      [Stuart Eccles](http://madebymany.com/people/stuart-eccles), fresh from talking
+      about [Conan the Deployer](https://github.com/madebymany/conan) at our [February
+      Meeting](/meetings/2012/february/), has offered to organise
+      a [Fishbowl](http://en.wikipedia.org/wiki/Fishbowl_(conversation)) session focussing
+      on approaches to TDD.
+
+      The idea is not to focus on tedious tool debates like Test::Unit vs. RSpec or
+      Cucumber vs. raw ruby for integration testing; these debates have rang throughout
+      the ages and will continue to do so.  We want to explore other debates, such
+      as Obie Fernandez's [suggestion that TDD might not be the best approach for
+      early-stage startups](http://blog.obiefernandez.com/content/2011/07/the-next-big-leap.html).
+
+      The format on the night will be that we'll have a couple of short opening statements
+      from the panel to seed the discussion and then get going on the discussion.  The
+      fishbowl format means that we have 5 chairs at the front, 1 of which is empty.  People
+      on the chairs can speak, and if someone from the audience wants to add something
+      to the conversation, they can go up and take the empty chair.  As soon as this
+      happens, one of the original panelists must go and sit down.
+
+      The initial panel will be:
+
+      * [Stuart Eccles](http://twitter.com/stueccles) - Writing tests before validating
+      the business value is pointless
+      * [Tom Stuart](http://twitter.com/tomstuart) - Rails encourages you to to TDD
+      wrong
+      * [Joseph Wilk](http://twitter.com/josephwilk) - The cargo culting of TDD without
+      considering if and why
+      * [Tom Stuart](http://twitter.com/mortice) - The "fast specs" paradigm is a
+      red herring for producing better code
+
+      [Murray Steele](http://twitter.com/hlame) will act as moderator, but anyone
+      can get involved by claiming the empty fifth chair.
+    speaker:
+      - name: Stuart Eccles
+        url: http://twitter.com/stueccles
+      - name: Tom Stuart
+        url: http://twitter.com/tomstuart
+      - name: Joseph Wilk
+        url: http://twitter.com/josephwilk
+      - name: Tom Stuart
+        url: http://twitter.com/mortice
+      - name: Murray Steele
+        url: http://twitter.com/hlame
+    coverage:
+      - type: skillsmatter-video
+        url: https://skillsmatter.com/podcast/ajax-ria/lrug-tdd-fishbowl
+        title: 'Skills Matter : London Ruby User Group:TDD Fishbowl'
+    use_description_as_intro: true
+april:
+  demystifying-druby:
+    title: Demystifying dRuby
+    description: |-
+      dRuby stands for "Distributed Ruby" and it's one of less known Ruby
+      standard libraries.  It is one of the first use of Metaprogramming
+      long before Rails. dRuby creates proxy objects which lets you to
+      "automagically"(In Matz's word) delegate method calls to remote objects.
+      While I was translating [The dRuby Book: Distributed and Parallel Computing with
+      Ruby](http://pragprog.com/book/sidruby/the-druby-book) from Japanese to English, I had
+      a chance to work with [Masatoshi Seki](https://github.com/seki), one of the Ruby core
+      committers and has been using Ruby since version 1.2. I learnt a lot of interesting Ruby
+      technique from him and would like to share some of them with you.
+    speaker:
+      name: Makoto Inoue
+      url: https://twitter.com/makoto_inoue
+    coverage:
+      - type: handout
+        url: https://github.com/makoto/demystifying_druby_lrug_april_2012
+        title: Sample code (including original 160 line version of dRuby)
+      - type: slides
+        url: http://drubylrug.heroku.com
+        title: Demystifying dRuby
+      - type: skillsmatter-video
+        url: https://skillsmatter.com/podcast/home/demestifying-druby
+        title: 'Skills Matter : London Ruby User Group: Demystifying dRuby'
+    custom_intro: "is going to talk to us about
+      [dRuby](http://www.ruby-doc.org/stdlib-1.9.3/libdoc/drb/rdoc/DRb.html)"
+  converting-a-rails-project-from-mri-to-jruby:
+    title: Converting a Rails project from MRI to JRuby
+    description: |-
+      Starting from a scaffold Rails app with RSpec and mysql/postgresl
+      what are the steps to get rspec to pass on JRuby:
+
+      * use `.rvmrc`` to switch between MRI and JRuby
+      * switch out gems (db, server side js, `factory_girl` 3 vs. 2)
+      * `require_relative` => use proper load path
+      * using 1.9 compatible mode for new style hashes
+      * waiting for `rspec` takes longer ...
+      * use JRuby to connect to a Java lib (e.g. HBase jar) :-)
+    speaker:
+      name: Peter Vandenabeele
+      url: http://vandenabeele.com/
+    coverage:
+      - type: handout
+        url: https://github.com/petervandenabeele/LRUG_2010_04_demo
+        title: Github Repo for demo project used in presentation
+      - type: slides
+        url: https://github.com/petervandenabeele/LRUG_2010_04_presentation
+        title: Rails on JRuby
+      - type: skillsmatter-video
+        url: https://skillsmatter.com/podcast/home/mri-jruby
+        title: "SkillsMatter Skillscast : London Ruby User Group : Converting a Rails project
+          from MRI to JRuby"
+    custom_intro: wants to talk to us about his experiences converting an Ruby on Rails
+      app from MRI Ruby to JRuby
+may:
+  rubys-bin-men-a-closer-look-at-the-garbage-collector:
+    title: 'Ruby''s bin men: a closer look at the garbage collector'
+    description: |-
+      [Elise Huard](http://jabberwocky.eu/) is going to give us a version of the talk she has
+      proposed for [EuRuKo 2012](http://www.euruko2012.org/):
+
+      > The Garbage Collector: how does it work?
+      > What does it mean when people speak about stop-the-world,
+      > mark-and-sweep, generational garbage collectors?
+      > How does ruby fare at collecting its own garbage?
+      > What does it mean when they say 1.9.3's garbage collector has improved?
+      > This talk will explain those concepts, what the impact of garbage
+      > collection is on our programs, and what future could be.
+
+      This description is taken from her [pull request on EuRuKo's github-based
+      cfp](https://github.com/euruko2012/call-for-proposals/pull/73).  If you like her talk, or
+      have any comments, feel free to get involved over there to let the EuRuKo organisers know
+      that they should select it.
+    speaker:
+      name: Elise Huard
+      url: http://jabberwocky.eu/
+    coverage:
+      - type: skillsmatter-video
+        url: https://skillsmatter.com/podcast/ajax-ria/ruby-bin-men
+        title: "SkillsMatter Skillscast : London Ruby User Group : Ruby's bin men: a closer look
+          at the garbage collector"
+    use_description_as_intro: true
+  dependency-injection-the-dependency-inversion-principle-and-you:
+    title: Dependency Injection, the Dependency Inversion Principle, and You
+    description: |-
+      [Tom Stuart](http://tomstuart.co.uk/) is also going to give us a version of his EuRuKo
+      proposal:
+
+      > It's received wisdom that Ruby doesn't need dependency injection
+      > frameworks. In this talk, I'll claim that this is at least in
+      > part because we don't apply the [Dependency Inversion
+      > Principle](http://www.objectmentor.com/resources/articles/dip.pdf)
+      > properly. I'll explore the intent of the principle, its benefits
+      > for maintainable and testable code, and show how to improve
+      > existing code through its application.
+      >
+      > I'll then go on to explore how to create objects with dependencies
+      > wired in, hoping to settle the question of whether we need a framework to do this.
+
+      Tom's talk is also available for discussion on the [EuRuKo gothub-based
+      CFP](https://github.com/euruko2012/call-for-proposals/pull/72).  Comments, notes, etc.. should
+      go there if you have them.
+    speaker:
+      name: Tom Stuart
+      url: http://tomstuart.co.uk/
+    coverage:
+      - type: skillsmatter-video
+        url: https://skillsmatter.com/podcast/ajax-ria/dependency-injection
+        title: 'Skills Matter : London Ruby User Group: Dependency Injection, the Dependency
+          Inversion Principle and You!'
+    use_description_as_intro: true
+june:
+  introduction-to-elasticsearch:
+    title: Introduction to Elasticsearch
+    description: |-
+      Most apps need some form of search or filtering at some point
+      (even if they don't need full text). [Elasticsearch](http://www.elasticsearch.org/) is
+      a new(ish) search engine built on top of [Lucene](http://lucene.apache.org/) with some
+      interesting features that set it apart from other search engines such as sphinx or solr.
+
+      I'll show what we've used elasticsearch for and why we picked it over
+      competing solutions such as solr or sphinx.
+    speaker:
+      name: Frederick Cheung
+      url: http://spacevatican.org/
+    coverage:
+      - type: slides
+        url: https://s3-eu-west-1.amazonaws.com/fred-misc/es-lrug.pdf
+        title: Elasticsearch - LRUG June 2012 - Frederick Cheung
+      - type: skillsmatter-video
+        url: https://skillsmatter.com/podcast/ajax-ria/elasticsearch
+        title: "SkillsMatter Skillscast : London Ruby User Group : ElasticSearch"
+    custom_intro: |-
+      came back from [RailsConf](http://railsconf2012.com/) with two things.  The first was one of
+      the [2012 Ruby Hero awards](http://youtu.be/tWmh4m2a4FI?t=12m38s), and the second was that
+      he was fired up to give a talk to his local user group. Who are we to say no to a Ruby Hero?
+      Exactly, so he's going to tell us about [Elasticsearch](http://www.elasticsearch.org/)
+  hexagonal-rails:
+    title: Hexagonal Rails
+    description: |-
+      The things that make Rails great in the first few weeks of a new project are
+      precisely what makes it hurt after a few months. Anyone who has worked on a
+      medium-sized Rails app will have experienced pain like:
+
+      * High coupling, meaning you have to run all your tests all the time to check
+      each change.
+      * Slow tests.
+      * Logic littered in view templates or helper modules.
+
+      Changes get more and more expensive to make, and the fun grinds to a halt.
+      How can you stop this from happening? And more importantly, how can you turn
+      around a project that’s already hit this wall of pain?
+
+      You need to pull your app away from Rails.
+
+      In this practical talk, we describe [an
+      architecture](http://c2.com/cgi/wiki?PortsAndAdaptersArchitecture) for mature Rails
+      applications where the framework becomes a
+      [plug-in](http://confreaks.com/videos/759-rubymidwest2011-keynote-architecture-the-lost-years)
+      to your application. With hands-on demonstrations, you’ll learn how to define clear
+      boundaries between your application’s domain and Rails’ domain. Now Rails can stick
+      to doing what it does best – providing the persistence and HTTP stack –
+      and your valuable business logic will be in [plain
+      old](http://blog.steveklabnik.com/posts/2011-09-06-the-secret-to-rails-oo-design) [Ruby
+      objects](http://devblog.avdi.org/2011/11/15/early-access-beta-of-objects-on-rails-now-available-2/)
+      that are [fast](http://arrrrcamp.be/videos/2011/corey-haines---fast-rails-tests/) to
+      [test](https://www.destroyallsoftware.com/screencasts/catalog/fast-tests-with-and-without-rails)
+      and easy to reason about.
+    speaker:
+      - name: Matt Wynne
+        url: mattwynne.net
+      - name: Steve Tooke
+        url: https://twitter.com/tooky
+    coverage:
+      - type: skillsmatter-video
+        url: https://skillsmatter.com/podcast/ajax-ria/hexagonal-rails
+        title: "SkillsMatter Skillscast : London Ruby User Group : Hexagonal Rails"
+    custom_intro: |-
+      are going to give us a version of their Hexagonal Rails talk (which they'll
+      also be giving at [SRC](http://scottishrubyconference.com/) and
+      [Goruco](http://goruco.com/) later this year)
+july:
+  happier-deployments-through-gradual-feature-rollout:
+    title: Happier deployments through gradual feature rollout
+    description: |-
+      Releasing a big change to an application, whether a large overhaul of
+      the UX, system migration or upgrade to the internals, can be daunting.
+      Will the change work technically? Will it make your users happy and
+      improve the desired metrics? This talk discusses strategies and
+      technologies you can use to gradually roll changes out to gather early
+      feedback and prove your assumptions. It includes in-depth looks at
+      some technologies available (including the [rollout](https://github.com/jamesgolick/rollout)
+      gem), as well as the part that gradual feature rollout has to play within
+      your agile process.
+
+      These are all true stories, most of which I've been involved in. I'll
+      cover experiences of products and projects of varying sizes, talk
+      about different solutions for different environments and, just to be
+      fair, I include the humiliating (character-building) mistakes I've
+      made along the way.
+    speaker:
+      name: Sam Phillips
+      url: http://samsworldofno.com/
+    coverage:
+      - type: skillsmatter-video
+        url: https://skillsmatter.com/podcast/home/lrug-happier-deployments
+        title: "SkillsMatter Skillscast : London Ruby User Group : Happier deployments through
+          gradual feature rollout"
+    custom_intro: is going to tell us all about feature switching
+  what-ruby-cant-do:
+    title: What Ruby can't do
+    description: |-
+      Ruby is an amazing language, it has an beautiful object model, a
+      concise syntax and it allows you to write functional code
+      elegantly. It's probably one of the most powerful programming
+      languages out there, yet, there are still some things it cannot
+      do. Let's explore those aspects because it'll open our minds to
+      think differently but most important, because it's fun!
+    speaker:
+      name: J. Pablo Fernádez
+      url: http://pupeno.com/
+    coverage:
+      - type: skillsmatter-video
+        url: https://skillsmatter.com/podcast/home/what-ruby-cant-do
+        title: "SkillsMatter Skillscast : London Ruby User Group : What Ruby can't do"
+    custom_intro: is going to show us what ruby *can't* do
+august:
+  cut-and-polish-crafting-gems:
+    title: 'Cut and Polish: Crafting Gems'
+    description: |-
+      Gems underpin almost every piece of Ruby code we write – and so, being
+      able to write your own gems is not only incredibly useful, it provides
+      an avenue for code reuse and open source sharing. I'll be talking about
+      the ecosystem around gems and the fundamentals for writing your own gem
+      from the ground up, plus some of the tools available to assist with
+      this, along with ideal approaches and best practices for gem
+      development.
+    speaker:
+      name: Pat Allan
+      url: http://freelancing-gods.com/
+    coverage:
+      - type: skillsmatter-video
+        url: https://skillsmatter.com/podcast/home/cut-and-polish-crafting-gems-a-talk-about-how-to-write-your-own-rubygems
+        title: "SkillsMatter Skillscast : London Ruby User Group : Cut and Polish: Crafting Gems"
+    custom_intro: is going to tell us all about writing [rubygems](http://rubygems.org/)
+  nil-points-a-talk-about-nothing-null-undefined-maybe-and-other-ghosts-in-ruby-and-beyond:
+    title: 'Nil points: a talk about nothing, NULL, undefined, Maybe, and other ghosts
+      in Ruby and beyond'
+    description: |-
+      `nil` in Ruby is neat, simple, and convenient. But it's also problematic.
+      It infiltrates our code, silently, until boom! 'undefined method `foo`
+      for `nil`:`NilClass`' (or - true story, there's no time to explain -
+      suddenly thousands of Mark Zuckerbergs).
+
+      In this talk, I take a deep dive into `nil`, `NULL`, `undefined`, Maybe and
+      other ghosts in Ruby and beyond. I want uncover important concepts that
+      I think are obscured by by `nil`'s convenience. And I think `nil` can be so
+      corrosive it's worth asking why we need it at all. Can we eliminate it
+      completely? Can it be improved?
+
+      Sure, there are decent Ruby patterns and practices for living with `nil`,
+      and I'll take a look at them. But I'll also try to illuminate `nil` by
+      way of a vintage Soviet computer, Jainism, a billion dollars, a
+      Peruvian tribe, and a Victorian wooden adding machine. And, since this
+      is Ruby, there will some reckless live monkey-patching.
+    speaker:
+      name: David Nolan
+      url: http://kapoq.com/
+    coverage:
+      - type: skillsmatter-video
+        url: https://skillsmatter.com/podcast/home/nil-points-a-talk-about-nothing-null-undefined-maybe-and-other-ghosts-in-ruby-and-beyond
+        title: "SkillsMatter Skillscast : London Ruby User Group : nil points: a talk about nothing,
+          NULL, undefined, Maybe and other ghosts in Ruby and beyond"
+    custom_intro: has an idea about `nil`
+september:
+  doing-less-and-keeping-it-simple:
+    title: Doing less and keeping it simple
+    description: |-
+      [Ian Kynnersley](http://iankynnersley.co.uk/) describes his talk as follows:
+
+      > What do we mean when we talk about simplicity? Why is it important and why is
+      > it so hard to achieve?
+
+      He wrote a little about this topic a couple of months ago on [his company
+      blog](http://sidekickstudios.net/blog/2012/06/simples).
+    speaker:
+      name: Ian Kynnersley
+      url: http://iankynnersley.co.uk/
+    coverage:
+      - type: skillsmatter-video
+        url: https://skillsmatter.com/podcast/home/lrug-september-meetup
+        title: "SkillsMatter Skillscast : London Ruby User Group : Doing less and keeping it simple"
+    use_description_as_intro: true
+  objective-c-for-rubyists:
+    title: Objective C for Rubyists
+    description: |-
+      There are so many things we take for granted writing Ruby code -
+      initialising hashes and arrays, doing basic arithmetic with floats and
+      integers, using subscript accessors for containers.  Trying to do
+      these basic things in Objective C requires writing screeds of
+      boilerplate code.
+
+      Well, it's time to have another look at Objective C.
+
+      The latest version of the compiler includes some wonderful shortcuts
+      to make your code more concise, readable, and a lot more like Ruby. In
+      this talk I'll give you a whirlwind tour of these changes.
+    speaker:
+      name: Chris O'Sullivan
+      url: http://www.thechrisoshow.com/
+    coverage:
+      - type: skillsmatter-video
+        url: https://skillsmatter.com/podcast/home/objective-c-for-rubyists
+        title: "SkillsMatter Skillscast : London Ruby User Group : Objective C for Rubyists"
+    custom_intro: is going to give us 15 minutes on Objective-C
+  zero-downtime-deployment:
+    title: Zero-Downtime Deployment
+    description: |-
+      A zero-downtime deployment configuration is important for
+      critical systems that need to handle every request (i.e.
+      financial system) and lately for systems following
+      continuous delivery  principles since there could be many
+      frequent deployments .  This talks present a simple
+      configuration for zero-downtime deployments for ruby
+      applications.
+    speaker:
+      name: Jairo Diaz
+      url: http://www.codescrum.com/
+    coverage:
+      - type: slides
+        url: https://speakerdeck.com/javicus/zero-downtime-deployment
+        title: Zero-downtime  Deployment
+      - type: skillsmatter-video
+        url: https://skillsmatter.com/podcast/home/zero-downtime-deployment
+        title: "SkillsMatter Skillscast : London Ruby User Group : Zero-downtime deployment"
+october:
+  beautiful-command-line-interface-design:
+    title: Beautiful command-line interface design
+    description: |-
+      A lot of importance is placed on good GUI design but it’s easy to
+      overlook good command line interfaces.
+
+      Taking from our experiences writing the Brightbox Cloud cli (and years
+      of using cli tools, both good and bad), this talk will show you some of
+      things you need to consider when designing a good cli interface (with a
+      focus on Ruby!).
+
+      And all this without turning to ncurses!
+    speaker:
+      name: John Leach
+      url: http://johnleach.co.uk/
+    coverage:
+      - type: skillsmatter-video
+        url: https://skillsmatter.com/podcast/ajax-ria/beautiful-command-line-interface-design
+        title: "SkillsMatter Skillscast : London Ruby User Group : Beautiful Command-line interface
+          design"
+    custom_intro: is going to talk to us about CLI apps
+  dtrace-ruby:
+    title: DTrace + Ruby
+    description: |-
+      [Anuj Dutta](http://www.andhapp.com/) has been poking about with
+      [DTrace](http://dtrace.org/blogs/), a performance analysis and troubleshooting tool,
+      and wants to talk to us about it.  He describes his talk as:
+
+      > An introduction to DTrace and it's current state in the Ruby world.
+
+      You should care because hooks for DTrace are [being added to
+      ruby](http://bugs.ruby-lang.org/issues/2565) as we speak, (although they
+      are targetting Ruby 2.0).
+    speaker:
+      - name: Anuj Dutta
+        url: http://www.andhapp.com/
+    coverage:
+      - type: skillsmatter-video
+        url: https://skillsmatter.com/podcast/ajax-ria/dtrace-ruby
+        title: "SkillsMatter Skillscast : London Ruby User Group : DTrace + Ruby"
+    use_description_as_intro: true
+november:
+  background-processing-in-ruby-and-rails:
+    title: Background processing in Ruby (and Rails)
+    description: |-
+      This is an introduction to scalable background processing in Ruby
+      (and Rails) applications. It discusses best practises on task
+      management, managing and scaling long running processes in apps
+      and overviews different solutions from high end of [Delayed
+      Job](https://github.com/collectiveidea/delayed_job) to more detailed
+      ones like [Event Machine](http://rubyeventmachine.com/).
+    speaker:
+      name: Khash Sajadi
+      url: http://sajadi.co.uk/dflat/
+    coverage:
+      - type: slides
+        url: http://blog.cloud66.com/post/35273225991/lrug
+        title: 'The Beanstalk : Background Processing in Ruby'
+      - type: skillsmatter-video
+        url: https://skillsmatter.com/podcast/ajax-ria/background-processing-in-ruby-and-rails
+        title: "SkillsMatter Skillscast : London Ruby User Group : Background processing in Ruby
+          (and Rails)"
+  an-introduction-to-rubymotion-writing-ios-apps-with-ruby:
+    title: 'An introduction to Rubymotion: Writing iOS apps with Ruby'
+    description: |-
+      [Rubymotion](http://www.rubymotion.com/) lets you write native iOS apps in Ruby, this talk
+      explores the toolkit and the community that has sprung up around it.
+    speaker:
+      name: Andrew Nesbitt
+      url: http://teabass.com/
+    coverage:
+      - type: link
+        url: https://github.com/andrew/lrug
+        title: Example code
+      - type: slides
+        url: https://speakerdeck.com/andrew/an-introduction-to-rubymotion
+        title: An introduction to RubyMotion
+      - type: skillsmatter-video
+        url: https://skillsmatter.com/skillscasts/3710-an-introduction-to-rubymotion-writing-ios-apps-with-ruby
+        title: "SkillsMatter Skillscast : London Ruby User Group : An introduction to Rubymotion:
+          Writing iOS apps with Ruby"
+december:
+  going-native:
+    title: Going Native
+    description: |-
+      We all love ruby, but sometimes ruby is not enough. Whether it be a
+      performance bottleneck, a killer library written in C or some
+      platform specific functionality you just have to have, sometimes you
+      need to drop down a level.
+
+      There have been many talks that show how to take the first steps in
+      writing a ruby C extension. This isn't one of them. I propose
+      instead to give an overview of different ways of extending ruby and
+      show what each approach brings to the table. I intend to cover
+      'classic' C extensions, RubyInline and FFI across a range of ruby
+      implementations.
+    speaker:
+      name: Frederick Cheung
+      url: http://www.spacevatican.org/
+    coverage:
+      - type: handout
+        url: https://github.com/fcheung/going_native_examples
+        title: Code examples
+      - type: slides
+        url: https://s3-eu-west-1.amazonaws.com/fred-misc/goingnative.pdf
+        title: Going Native (pdf slides)
+      - type: skillsmatter-video
+        url: https://skillsmatter.com/podcast/ajax-ria/going-native
+        title: "SkillsMatter Skillscast : London Ruby User Group : Going Native"
+    custom_intro: will talk to us about FFI
+  hermes-add-wings-to-ruby-and-javascript-development:
+    title: Hermes, add wings to Ruby and Javascript development
+    description: |-
+      [Hermes](https://github.com/New-Bamboo/Hermes): A Vim/Tmux development environment to
+      easily work with Ruby and Javascript.
+    speaker:
+      name: Claudio Ortolina
+      url: http://claudio-ortolina.org/
+    coverage:
+      - type: skillsmatter-video
+        url: https://skillsmatter.com/podcast/ajax-ria/hermes-add-wings-to-ruby-and-javascript-development
+        title: "SkillsMatter Skillscast : London Ruby User Group : Hermes, add wings to Ruby and
+          Javascript development"
+    custom_intro: is going to tell us about
+  my-tests-run-faster-than-your-tests:
+    title: My tests run faster than your tests
+    description: |-
+      An introduction to [Zeus](https://github.com/burke/zeus) and
+      the approach it takes for making rails tests run lightning fast.
+    speaker:
+      name: Joel Chippindale
+      url: http://blog.mocoso.co.uk/
+    coverage:
+      - type: skillsmatter-video
+        url: https://skillsmatter.com/podcast/ajax-ria/my-tests-run-faster-than-your-tests
+        title: "SkillsMatter Skillscast : London Ruby User Group : My tests run faster than your
+          tests"
+    custom_intro: says his talk will be

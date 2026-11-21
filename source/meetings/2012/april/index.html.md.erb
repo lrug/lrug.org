@@ -19,36 +19,7 @@ The April 2012 meeting of LRUG will be on *Tuesday* the 3rd of April, from 6:30p
 
 ## Agenda
 
-### Demystifying dRuby
-
-[Makoto Inoue](https://twitter.com/makoto_inoue) is going to talk to us about [dRuby](http://www.ruby-doc.org/stdlib-1.9.3/libdoc/drb/rdoc/DRb.html):
-
-> dRuby stands for "Distributed Ruby" and it's one of less known Ruby
-> standard libraries.  It is one of the first use of Metaprogramming
-> long before Rails. dRuby creates proxy objects which lets you to
-> "automagically"(In Matz's word) delegate method calls to remote objects.
-> While I was translating [The dRuby Book: Distributed and Parallel Computing with Ruby](http://pragprog.com/book/sidruby/the-druby-book)
-> from Japanese to English, I had a chance to work with [Masatoshi Seki](https://github.com/seki),
-> one of the Ruby core committers and has been using Ruby since
-> version 1.2. I learnt a lot of interesting Ruby technique from him
-> and would like to share some of them with you.
-
-{::coverage year="2012" month="april" talk="demystifying-druby" /}
-
-### Converting a Rails project from MRI to JRuby
-
-[Peter Vandenabeele](http://vandenabeele.com/) want to talk to us about his experiences converting an Ruby on Rails app from MRI Ruby to JRuby:
-
-> Starting from a scaffold Rails app with RSpec and mysql/postgresl
-> what are the steps to get rspec to pass on JRuby:
- * use .rvmrc to switch between MRI and JRuby
- * switch out gems (db, server side js, factory_girl 3 vs. 2)
- * require_relative => use proper load path
- * using 1.9 compatible mode for new style hashes
- * waiting for rspec takes longer ...
- * use JRuby to connect to a Java lib (e.g. HBase jar) :-)
-
-{::coverage year="2012" month="april" talk="converting-a-rails-project-from-mri-to-jruby" /}
+<%= render_talks %>
 
 ## Pub
 

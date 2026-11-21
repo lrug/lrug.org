@@ -17,46 +17,7 @@ The August 2011 meeting of LRUG will be on *Monday* the 8th of August, from 6:30
 
 ## Agenda
 
-### Managing Web Application Servers with Puppet
-
-[Paul Mucur](http://mudge.name) describes his talk as follows:
-
-> Joshua Sierles of 37signals once described configuration management as
-> something that ["doesn't sound sexy, but it's the single most important
-> thing we do as sysadmins"](http://37signals.com/svn/posts/1872-nuts-bolts-configuration-management-with-chef)
-> but what is it and what do tools like
-> Chef and Puppet offer from the point of view of a developer?
->
-> In this presentation I want to talk about how configuration management
-> allowed me -- a developer with no access to the live servers and
-> working with system administrators in a different time zone -- to not
-> only install and configure servers quickly and in a repeatable way but
-> also let me be confident about the consistency of each and every
-> machine I deploy to.
->
-> Using the example of getting a server ready to run a Rails application
-> using [Puppet](http://www.puppetlabs.com/) (and testing things out with the aid of [Vagrant](http://vagrantup.com/)), I will
-> showcase some patterns that we have developed for managing versions of
-> Ruby with RVM, the installation of Phusion Passenger and how to deploy
-> a database.yml when you're not allowed to see live passwords.
-
-{::coverage year="2011" month="august" talk="managing-web-application-servers-with-puppet" /}
-
-### Chef and Vagrant
-
-[Gareth Rushgrove](http://morethanseven.net/) is a sometimes Ruby programmer and occasional sysadmin. He curates the [devopsweekly mailing list](http://devopsweekly.com/), lives in Cambridge and writes code for fun and profit.
-
-> Most developers spend far too much time managing a development
-> environment that is different to the one they use for production
-> applications. Different tools, different underlying libraries and
-> different bugs. Local virtualisation provides an answer, but
-> historically it's been time consuming and annoying to setup and
-> manage. Using configuration management tools like [Chef](http://www.opscode.com/chef/) to set things
-> up, and [Vagrant](http://vagrantup.com/) to easily manage the virtual machines
-> from the command line provides modern developers the best of all
-> possible worlds.
-
-{::coverage year="2011" month="august" talk="vagrant-and-chef" /}
+<%= render_talks %>
 
 ### <strike>Cucumber-chef</strike>
 
